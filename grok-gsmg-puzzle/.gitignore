@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+assets/
+
+# Regenerable step logs and probe binaries (see artifacts/README.md)
+artifacts/attempts.jsonl
+artifacts/step2_attempts.jsonl
+artifacts/step3_attempts.jsonl
+artifacts/decode_*.bin
+artifacts/peel_*.txt
+artifacts/mask6_deleted.bin
+artifacts/yellowblue_base9.bin
+artifacts/yellowblue_decimal.bin

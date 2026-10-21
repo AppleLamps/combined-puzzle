@@ -1,0 +1,19 @@
+{
+  "budget": 2000,
+  "decrypts": 2000,
+  "by_gap": {
+    "G8": 18,
+    "G9": 40,
+    "G10": 144,
+    "G11": 33,
+    "G13": 4,
+    "G14": 192,
+    "G15": 18,
+    "G_audit": 288,
+    "G2r": 1263
+  },
+  "hits": [],
+  "wins": [],
+  "stopped_early": true,
+  "structured_hits": 0
+}

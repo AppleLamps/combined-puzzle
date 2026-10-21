@@ -1,0 +1,15 @@
+{
+  "curated_strings": 165,
+  "sha_decrypts": 13278,
+  "md5_decrypts": 2475,
+  "sha_structured": 0,
+  "md5_structured": 0,
+  "md5_pads_by_container": {
+    "terminal": 6,
+    "salphaseion_short": 7,
+    "cosmic": 1
+  },
+  "quintuple_sample": 4096,
+  "hits_md5": [],
+  "hits_sha": []
+}

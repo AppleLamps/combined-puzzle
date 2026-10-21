@@ -1,0 +1,37 @@
+{
+ "script": "src/step3_mask.py",
+ "seconds": 2.4,
+ "controls": {
+  "phase32_full": "bitbias",
+  "phase32_slice64": "printable",
+  "random64_false_flags": 0
+ },
+ "per_container": {
+  "terminal": {
+   "decrypts": 3072,
+   "valid_pads": 8,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  },
+  "salphaseion_short": {
+   "decrypts": 3072,
+   "valid_pads": 11,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  },
+  "cosmic": {
+   "decrypts": 3072,
+   "valid_pads": 13,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  }
+ },
+ "locked_decrypts": 9216,
+ "locked_valid_pads": 32,
+ "locked_expected_pads": 36.1,
+ "locked_flagged_bodies": 0,
+ "flagged_samples": []
+}

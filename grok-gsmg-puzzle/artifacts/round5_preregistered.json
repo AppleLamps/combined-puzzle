@@ -1,0 +1,31 @@
+{
+  "mechanisms": {
+    "M1-per-container-kdf": {
+      "decrypts": 48,
+      "budget": 10000,
+      "within_budget": true
+    },
+    "M2-cosmic-yinyang-interleave": {
+      "decrypts": 72,
+      "budget": 10000,
+      "within_budget": true
+    },
+    "M3-matrixsumlist-enter-pipeline": {
+      "decrypts": 112,
+      "budget": 10000,
+      "within_budget": true
+    },
+    "M4-faed-tail-channel-split": {
+      "decrypts": 36,
+      "budget": 10000,
+      "within_budget": true
+    },
+    "M5-phase32-key-not-container": {
+      "decrypts": 12,
+      "budget": 10000,
+      "within_budget": true
+    }
+  },
+  "hits": [],
+  "decrypts": 280
+}

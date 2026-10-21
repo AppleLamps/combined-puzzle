@@ -1,0 +1,13 @@
+{
+  "decrypts": 960,
+  "structured_hits": 0,
+  "key_hits": [],
+  "hits": [],
+  "dbbi_shuffle_null_10k": {
+    "trials": 10000,
+    "exact_host_match": 0,
+    "expected_if_uniform": 0.0011920928955078125,
+    "target_hosts": "BBBBYBBBYYBBBBYBBYYBFYY",
+    "note": "simplified_BY_string_null_not_handoff_shuffle"
+  }
+}

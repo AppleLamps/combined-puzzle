@@ -1,0 +1,16 @@
+{
+  "budget": 2000,
+  "decrypts": 1162,
+  "by_gap": {
+    "G1_enter_xor_bytes": 154,
+    "G2_poster_msl_zchain": 423,
+    "G3_full_sal_stage0": 585
+  },
+  "hits": [],
+  "wins": [],
+  "stopped_early": false,
+  "checks": {
+    "xor_full_equals_canonical": true,
+    "canonical_equals_sal_short": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prize_h160": "a9553269572a317e39f0f518cb87c1a0ee1dbae4",
+  "checks": 18,
+  "checks_pass": 18,
+  "decrypts": 108,
+  "containers": [
+    "terminal",
+    "salphaseion_short",
+    "cosmic"
+  ],
+  "convention": "4.1 std-hex sha256(answer) EVP-SHA256 AES-256-CBC",
+  "structured_hits": [],
+  "key_hits": [],
+  "win": false
+}

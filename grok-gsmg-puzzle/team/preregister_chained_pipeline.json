@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "win_h160": "a9553269572a317e39f0f518cb87c1a0ee1dbae4",
+  "kdf_profiles": {
+    "std-hex-sha256": "answer string -> sha256 hex ASCII -> EVP-SHA256",
+    "plain-md5": "answer as UTF-8 password -> EVP-MD5 (Sal-short community path)",
+    "raw32-sha256": "sha256(answer) raw 32 bytes as EVP password"
+  },
+  "h1_8446_pipeline": {
+    "step0": "tok23",
+    "msl": [
+      "list_row_sums_dash",
+      "spiral_ab_bytes_hex",
+      "sal_ab_14_row_sums"
+    ],
+    "lastwords": [
+      "choice_join_dash",
+      "lw_arch_tail40",
+      "checker_half45",
+      "word_lastwords_candidates"
+    ],
+    "chain": [
+      "salphaseion_short",
+      "terminal",
+      "cosmic"
+    ],
+    "step3_suffix": "yinyang",
+    "sal_kdf": ["std-hex-sha256", "plain-md5"],
+    "step0_password_forms": [
+      "sha256hex(tok23||msl)",
+      "tok23||msl",
+      "sha256hex(msl)",
+      "msl",
+      "sha256hex(tok23)",
+      "tok23"
+    ],
+    "step2_form": "sha256hex(plaintext||lw)",
+    "step3_form": "sha256hex(step2_answer||yinyang)"
+  },
+  "m3_enter_pipeline": {
+    "msl_family": [
+      "list_row_sums",
+      "list_row_sums_sep",
+      "spiral_diag_sums",
+      "msl-row",
+      "msl-col",
+      "msl-sum-ab-bits",
+      "spiral-int",
+      "tok23_plus_row_sums",
+      "checker149_sum",
+      "checker_decode"
+    ],
+    "lastwords": [
+      "lw_arch_tail40",
+      "8446_head8",
+      "flower_hash",
+      "checker_half45"
+    ],
+    "default_order": ["salphaseion_short", "cosmic", "terminal"]
+  },
+  "container_orders": [
+    ["terminal", "salphaseion_short", "cosmic"],
+    ["terminal", "cosmic", "salphaseion_short"],
+    ["salphaseion_short", "terminal", "cosmic"],
+    ["salphaseion_short", "cosmic", "terminal"],
+    ["cosmic", "terminal", "salphaseion_short"],
+    ["cosmic", "salphaseion_short", "terminal"]
+  ],
+  "derivations_from_plaintext": [
+    "latin1_full",
+    "sha256hex_latin1",
+    "latin1_prefix64",
+    "body_hex",
+    "sha256hex_body",
+    "sha256hex_pt_concat_lw",
+    "concat_pt_lw",
+    "sha256hex_pt_concat_yinyang",
+    "xor_checker",
+    "xor_tok23",
+    "xor_lw_tail40"
+  ],
+  "yinyang_mid_chain": {
+    "after": "salphaseion_short",
+    "targets": [
+      "sal_yinyang_blocks",
+      "sal_yinyang_ct_bytes",
+      "sal_yinyang_b64_chars",
+      "term_sal_block_ab",
+      "term_sal_block_ba",
+      "xor_ct_salt_terminal",
+      "xor_ct_salt_salphaseion"
+    ],
+    "then": "cosmic"
+  },
+  "reader_inter_container": {
+    "narrative_order": ["terminal", "salphaseion_short", "cosmic"],
+    "c0_sources": [
+      "checker_decode",
+      "tok23",
+      "sha256hex_flower",
+      "phase32_after_select_64"
+    ]
+  },
+  "budget_decrypts": 120000
+}

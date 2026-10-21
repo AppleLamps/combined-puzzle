@@ -1,0 +1,19 @@
+{
+  "decrypts": 35018,
+  "budget": 120000,
+  "hits": [],
+  "families": {
+    "h1_8446": 612,
+    "m3_baselines": 120,
+    "m3_orders": 1942,
+    "reader_TSC": 24,
+    "yinyang_mid": 12,
+    "checker_lw": 14,
+    "xor_enter_chain": 8,
+    "hash_chain_no_pt": 3240,
+    "liberal_enter": 29040,
+    "cosmic_kdf_probe": 6
+  },
+  "stopped_early": false,
+  "structured_hits": 0
+}

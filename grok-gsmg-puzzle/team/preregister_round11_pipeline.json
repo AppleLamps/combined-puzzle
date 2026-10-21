@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "budget_target": 2000,
+  "description": "Sal enter-split layout + Terminal-first chain + joint #8000 door/prime/zero",
+  "gaps": {
+    "G1_sal_enter_join": {
+      "sal_spans": {
+        "b64_half_1": [895, 959],
+        "enter_ab": [959, 999],
+        "b64_half_2": [999, 1063],
+        "lastwords_ai": [766, 829],
+        "thispassword_ai": [830, 859],
+        "shabef_1": [860, 895],
+        "shabef_2": [1063, 1075]
+      },
+      "join_modes": ["concat_raw", "xor_raw_minlen"],
+      "stage_passwords": [
+        "lastwords_literal",
+        "thispassword_literal",
+        "shabef_four_literal",
+        "shabef_anstoo_literal",
+        "sha256our_expanded",
+        "phase1_hash225",
+        "enter_ab_literal",
+        "recipe_lw_enter_tp"
+      ],
+      "profiles": ["std-hex-sha256", "plain-md5"],
+      "containers": ["salphaseion_short", "terminal", "cosmic"],
+      "target": "salphaseion_short"
+    },
+    "G2_terminal_first": {
+      "order": ["terminal", "salphaseion_short", "cosmic"],
+      "step_profiles": ["std-hex-sha256", "plain-md5", "raw32-sha256"],
+      "phase32_initial_keys": [
+        "checker_decode",
+        "checker_decode_sha256hex",
+        "digits149_sum",
+        "digits149_literal",
+        "arch_after_select_128",
+        "arch_from_over_23",
+        "ascii_prefix_one_for_one",
+        "riddle_phase32",
+        "beaufort_key_THEMATRIXHASYOU",
+        "phase1_flower",
+        "phase1_hash225"
+      ],
+      "lastwords_for_derivation": ["checker_half45", "lw_arch_tail40", "halfandbetterhalf"],
+      "also_single_container_probe": true
+    },
+    "G3_joint_8000": {
+      "door_indices_1based": [1, 4, 21],
+      "sources": ["digits149", "spiral196", "host_bits23"],
+      "faed_zero_at_door": true,
+      "mask6_then_sha256hex": true,
+      "containers": ["terminal", "salphaseion_short", "cosmic"],
+      "profiles": ["std-hex-sha256", "raw32-sha256"]
+    }
+  }
+}

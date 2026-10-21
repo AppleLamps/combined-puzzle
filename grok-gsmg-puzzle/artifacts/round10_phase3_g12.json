@@ -1,0 +1,49 @@
+{
+  "phase3_chain": [
+    {
+      "label": "canonical-7part",
+      "password_len": 227,
+      "plaintext_len": 4090,
+      "matches_phase3_artifact": true,
+      "sha256_plaintext": "c4ad94559a44a927c1032cc0e024515f9510a0806a2d14458dbf4a360af9865f"
+    },
+    {
+      "label": "part2-safenet-lower",
+      "password_len": 227,
+      "plaintext_len": null,
+      "matches_phase3_artifact": false,
+      "sha256_plaintext": null
+    },
+    {
+      "label": "part4-eo11110",
+      "password_len": 231,
+      "plaintext_len": null,
+      "matches_phase3_artifact": false,
+      "sha256_plaintext": null
+    },
+    {
+      "label": "part6-genesis-no-0x",
+      "password_len": 225,
+      "plaintext_len": null,
+      "matches_phase3_artifact": false,
+      "sha256_plaintext": null
+    },
+    {
+      "label": "part7-fen-wrong-side",
+      "password_len": 227,
+      "plaintext_len": null,
+      "matches_phase3_artifact": false,
+      "sha256_plaintext": null
+    },
+    {
+      "label": "part3-luna-trailing-space",
+      "password_len": 228,
+      "plaintext_len": null,
+      "matches_phase3_artifact": false,
+      "sha256_plaintext": null
+    }
+  ],
+  "container_decrypts": 63,
+  "structured_hits": [],
+  "wins": []
+}

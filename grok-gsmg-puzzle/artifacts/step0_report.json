@@ -1,0 +1,251 @@
+{
+  "results": [
+    {
+      "name": "FIPS-197 AES-128 ECB",
+      "ok": true,
+      "detail": "69c4e0d86a7b0430d8cdb78070b4c55a"
+    },
+    {
+      "name": "FIPS-197 AES-256 ECB",
+      "ok": true,
+      "detail": "8ea2b7ca516745bfeafc49904b496089"
+    },
+    {
+      "name": "SP800-38A F.2.1 AES-128-CBC",
+      "ok": true,
+      "detail": "7649abac8119b246cee98e9b12e9197d"
+    },
+    {
+      "name": "SP800-38A F.2.5 AES-256-CBC",
+      "ok": true,
+      "detail": "f58c4c04d6e5f1ba779eabfb5f7bfbd6"
+    },
+    {
+      "name": "priv 1 compressed hash160",
+      "ok": true,
+      "detail": "751e76e8199196d454941c45d1b3a323f1433bd6"
+    },
+    {
+      "name": "priv 1 uncompressed pubkey prefix",
+      "ok": true,
+      "detail": "0479be667ef9dcbbac55"
+    },
+    {
+      "name": "WIF round-trip compressed",
+      "ok": true,
+      "detail": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sVHnoWn"
+    },
+    {
+      "name": "WIF round-trip uncompressed",
+      "ok": true,
+      "detail": "5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf"
+    },
+    {
+      "name": "prize hash160 constant",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "priv 1 is not the prize",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "phase 2 decrypts with causality",
+      "ok": true,
+      "detail": "The ironic 2name of the keymakers trying"
+    },
+    {
+      "name": "phase 3 decrypts with the 7-part concatenation",
+      "ok": true,
+      "detail": "What if the merovingian is wrong. What instead o"
+    },
+    {
+      "name": "phase 3.2 decrypts with the three answers joined",
+      "ok": true,
+      "detail": "len 2422"
+    },
+    {
+      "name": "phase 3.2 starts with the Architect greeting",
+      "ok": true,
+      "detail": "I've been waiting for you. You have many"
+    },
+    {
+      "name": "raising-the-stakes marker present",
+      "ok": true,
+      "detail": "2143"
+    },
+    {
+      "name": "EBCDIC region is 1539 bytes of a 26-symbol alphabet",
+      "ok": true,
+      "detail": "len 1539 symbols 26"
+    },
+    {
+      "name": "26-symbol substitution is consistent with the speech",
+      "ok": true,
+      "detail": "symbols 26"
+    },
+    {
+      "name": "Beaufort opens YOURLIFEISTHESUM",
+      "ok": true,
+      "detail": "YOURLIFEISTHESUMOFAREMAINDEROFANUNBALANCEDEQUATI"
+    },
+    {
+      "name": "Beaufort ends CIAOBELLAO",
+      "ok": true,
+      "detail": "OURETHEONECIAOBELLAO"
+    },
+    {
+      "name": "149-digit checkerboard payload",
+      "ok": true,
+      "detail": "found"
+    },
+    {
+      "name": "checkerboard decodes to half and better half",
+      "ok": true,
+      "detail": "INCASEYOUMANAGETOCRACKTHISTHEPRIVATEKEYSBELONGTOHALFANDBETTERHALFANDTHEYALSONEEDFUNDSTOLIVE"
+    },
+    {
+      "name": "terminal container present in phase 3.2",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "terminal salt b45a5e3d827593ca and 80-byte ct",
+      "ok": true,
+      "detail": "b45a5e3d827593ca"
+    },
+    {
+      "name": "terminal container sha256",
+      "ok": true,
+      "detail": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9"
+    },
+    {
+      "name": "cosmic salt 2d3f6fe06dc950e6 and 1328-byte ct",
+      "ok": true,
+      "detail": "salt 2d3f6fe06dc950e6 ct 1328"
+    },
+    {
+      "name": "cosmic sha256",
+      "ok": true,
+      "detail": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+    },
+    {
+      "name": "poster sha256",
+      "ok": true,
+      "detail": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830"
+    },
+    {
+      "name": "poster size",
+      "ok": true,
+      "detail": "29931"
+    },
+    {
+      "name": "poster mode/shape",
+      "ok": true,
+      "detail": "RGBA (1556, 1048, 4)"
+    },
+    {
+      "name": "no bytes after IEND",
+      "ok": true,
+      "detail": "tail 0"
+    },
+    {
+      "name": "red divider present",
+      "ok": true,
+      "detail": "first red row 1047"
+    },
+    {
+      "name": "14x14 colour grid",
+      "ok": true,
+      "detail": "K/W/B/Y/F as published"
+    },
+    {
+      "name": "colour counts K86 W85 B15 Y9 F1",
+      "ok": true,
+      "detail": "{'W': 85, 'K': 86, 'B': 15, 'Y': 9, 'F': 1}"
+    },
+    {
+      "name": "off-white at row 7 col 4",
+      "ok": true,
+      "detail": "cell=F red_y=1047"
+    },
+    {
+      "name": "spiral reads gsmg.io/theseedisplanted",
+      "ok": true,
+      "detail": "gsmg.io/theseedisplanted"
+    },
+    {
+      "name": "last 4 spiral bits are 0000",
+      "ok": true,
+      "detail": "0000"
+    },
+    {
+      "name": "blue/yellow duplicate LSB (bit 7)",
+      "ok": true,
+      "detail": "mismatches []"
+    },
+    {
+      "name": "off-white spiral index 163",
+      "ok": true,
+      "detail": "163"
+    },
+    {
+      "name": "planted bit is inside the n of planted",
+      "ok": true,
+      "detail": "byte[20]=b'n'"
+    },
+    {
+      "name": "off-white cell is flat #FEFEFE",
+      "ok": true,
+      "detail": "unique [[254, 254, 254]]"
+    },
+    {
+      "name": "salphaseion length 1075",
+      "ok": true,
+      "detail": "1075"
+    },
+    {
+      "name": "block lengths 91/104/570/1/63/1/29/1/35/64/40/64/12",
+      "ok": true,
+      "detail": "[91, 104, 570, 1, 63, 1, 29, 1, 35, 64, 40, 64, 12]"
+    },
+    {
+      "name": "ab runs decode matrixsumlist / enter",
+      "ok": true,
+      "detail": "b'matrixsumlist' b'enter'"
+    },
+    {
+      "name": "decimal runs decode lastwords / thispassword",
+      "ok": true,
+      "detail": "b'lastwordsbeforearchichoice' b'thispassword'"
+    },
+    {
+      "name": "shabef token reads sha256 our first hint / sha256 ans too",
+      "ok": true,
+      "detail": "sha256ourfirsthintisyourlastcommand | sha256anstoo"
+    },
+    {
+      "name": "salphaseion short salt 3ab585348552415d and 80-byte ct",
+      "ok": true,
+      "detail": "3ab585348552415d"
+    },
+    {
+      "name": "salphaseion short sha256",
+      "ok": true,
+      "detail": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258"
+    },
+    {
+      "name": "dbbi letters form the 25-square",
+      "ok": true,
+      "detail": "dbifhcegaklmnopqrstuvwxyz"
+    },
+    {
+      "name": "full-period bifid decrypt starts with btcseed",
+      "ok": true,
+      "detail": "['dec_p570']"
+    }
+  ],
+  "fails": [],
+  "bifid_variant": "dec_p570"
+}

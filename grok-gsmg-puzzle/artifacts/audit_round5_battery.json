@@ -1,0 +1,76 @@
+{
+ "script": "team/round5_battery.py",
+ "seconds": 8.5,
+ "controls": {
+  "phase32_full": "bitbias",
+  "phase32_slice64": "printable",
+  "random64_false_flags": 0
+ },
+ "per_container": {
+  "other656": {
+   "decrypts": 1,
+   "valid_pads": 1,
+   "pad_ge3": 1,
+   "flag_body": 1,
+   "flag_fullblocks": 1
+  },
+  "salphaseion_short": {
+   "decrypts": 5252,
+   "valid_pads": 22,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  },
+  "other32": {
+   "decrypts": 2,
+   "valid_pads": 2,
+   "pad_ge3": 2,
+   "flag_body": 2,
+   "flag_fullblocks": 2
+  },
+  "terminal": {
+   "decrypts": 5251,
+   "valid_pads": 28,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  },
+  "cosmic": {
+   "decrypts": 5251,
+   "valid_pads": 18,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  }
+ },
+ "locked_decrypts": 15754,
+ "locked_valid_pads": 68,
+ "locked_expected_pads": 61.8,
+ "locked_flagged_bodies": 0,
+ "flagged_samples": [
+  {
+   "container": "other656",
+   "pad": 8,
+   "body": "printable",
+   "full": "printable",
+   "pt_head": "5468652069726f6e696320326e616d65206f6620746865206b65796d616b65727320747279696e6720746f2070726f74",
+   "pt_sha256": "5607b4c3ebadcfc57f203a315d7f29ebf1ac091132a3ee413376a4bfcc205bbd"
+  },
+  {
+   "container": "other32",
+   "pad": 10,
+   "body": "printable",
+   "full": "printable",
+   "pt_head": "524f554e44355f4d44355f504c414e5445445f4845580a0a0a0a0a0a0a0a0a0a",
+   "pt_sha256": "fb2198a6c4ba628f4893ae42029729ce4f76000c817aae2906cce211a804d7fc"
+  },
+  {
+   "container": "other32",
+   "pad": 10,
+   "body": "printable",
+   "full": "printable",
+   "pt_head": "524f554e44355f4d44355f504c414e5445445f5241570a0a0a0a0a0a0a0a0a0a",
+   "pt_sha256": "6fbb65ca55eb2dc333382a66da0791432ca22b6eda8db148be6e24fae67fa928"
+  }
+ ]
+}

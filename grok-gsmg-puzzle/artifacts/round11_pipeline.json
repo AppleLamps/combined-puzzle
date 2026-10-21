@@ -1,0 +1,15 @@
+{
+  "budget": 2000,
+  "decrypts": 530,
+  "by_gap": {
+    "G1_sal_enter_join": 130,
+    "G2_terminal_first": 88,
+    "G3_joint_8000": 312
+  },
+  "hits": [],
+  "wins": [],
+  "stopped_early": false,
+  "checks": {
+    "g1_join_equals_sal_short": true
+  }
+}

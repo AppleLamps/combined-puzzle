@@ -1,0 +1,5 @@
+pycryptodome>=3.20
+coincurve>=21.0
+Pillow>=10.0
+numpy>=1.26
+mnemonic>=0.21

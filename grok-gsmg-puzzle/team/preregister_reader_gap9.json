@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "budget_target": 2000,
+  "gaps": {
+    "G8_dbbi_past_97": {
+      "colour_sequences": [
+        "BBBBYBBBYYBBBBYBBYYBFYYBY",
+        "BBBBYBBBYYBBBBYBBYYBFYYBY_F_as_Y",
+        "BBBBYBBBYYBBBBYBBYYBFYYBY_plus_faed_prefix4"
+      ],
+      "continuation_text": "sal_compact_from_91",
+      "faed_colour_prefix_len": 4,
+      "containers": ["terminal", "salphaseion_short", "cosmic"]
+    },
+    "G9_roses_weight_tuples": {
+      "tuples": [
+        [0, 0, 4, 11, 2],
+        [0, 0, 7, 6, 2],
+        [0, 0, 10, 1, 2],
+        [0, 1, 2, 5, 1],
+        [0, 1, 5, 0, 1]
+      ],
+      "recipe_lw": "lastwordsbeforearchichoice",
+      "containers": ["terminal", "salphaseion_short", "cosmic"],
+      "kdf": ["std-hex-sha256", "plain-md5_on_sal_short"]
+    },
+    "G10_bifid_period_divisors": {
+      "periods": [57, 95, 114, 190, 285, 380, 570],
+      "squares": ["dbifhcegaklmnopqrstuvwxyz", "filler_first_appearance"],
+      "containers": ["terminal", "salphaseion_short", "cosmic"]
+    },
+    "G11_parse_chain": {
+      "step0": ["host_bits_sha256hex", "shabef_expanded_sha256hex", "dbbi91_sha256hex"],
+      "chain_order": ["salphaseion_short", "cosmic", "terminal"],
+      "step2_suffix": "Cosmic Duality"
+    },
+    "G13_nonprime_filler_keep": {
+      "description": "Keep only letters at prime 1-based indices in filler60",
+      "containers": ["terminal", "cosmic"]
+    },
+    "G14_dots_index_channel": {
+      "dot_counts": [1, 2, 3, 4, 5],
+      "mappings": ["spiral_index_minus1", "spiral_row_major", "sal_span_offset"]
+    },
+    "G15_offwhite_F_walk": {
+      "colour_sequences": ["with_F", "F_mapped_to_Y", "F_mapped_to_B"]
+    },
+    "G_audit_h1_cosmic_raw32": {
+      "msl": ["list_row_sums_dash", "checker149_sum", "sal_ab_14_row_sums"],
+      "lw": ["checker_half45", "lw_arch_tail40"],
+      "containers_cosmic_only": true
+    }
+  }
+}

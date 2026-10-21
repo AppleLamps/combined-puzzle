@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "canonical_parts": [
+    "causality",
+    "Safenet",
+    "Luna",
+    "HSM",
+    "11110",
+    "0x736B6E616220726F662074756F6C69616220646E6F63657320666F206B6E697262206E6F20726F6C6C65636E61684320393030322F6E614A2F33302073656D695420656854",
+    "B5KR/1r5B/2R5/2b1p1p1/2P1k1P1/1p2P2p/1P2P2P/3N1N2 b - - 0 1"
+  ],
+  "alternates": [
+    {"id": "part2-safenet-lower", "index": 1, "value": "safenet"},
+    {"id": "part4-eo11110", "index": 3, "value": "EO11110"},
+    {"id": "part6-genesis-no-0x", "index": 5, "value": "736B6E616220726F662074756F6C69616220646E6F63657320666F206B6E697262206E6F20726F6C6C65636E61684320393030322F6E614A2F33302073656D695420656854"},
+    {"id": "part7-fen-wrong-side", "index": 6, "value": "B5KR/1r5B/2R5/2b1p1p1/2P1k1P1/1p2P2p/1P2P2P/3N1N2 w - - 0 1"},
+    {"id": "part3-luna-trailing-space", "index": 2, "value": "Luna "}
+  ],
+  "phase3_expected_len": 4090,
+  "phase3_artifact_sha256": null,
+  "containers": ["terminal", "salphaseion_short", "cosmic"]
+}

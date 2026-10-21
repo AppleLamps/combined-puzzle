@@ -1,0 +1,16 @@
+{
+  "budget": 2000,
+  "decrypts": 2000,
+  "by_gap": {
+    "G1_z_stage_program": 282,
+    "G2_predecode_b64_join": 126,
+    "G3_liberal_terminal_first": 1592
+  },
+  "hits": [],
+  "wins": [],
+  "liberal_scans": 2,
+  "stopped_early": true,
+  "checks": {
+    "canonical_concat_b64": true
+  }
+}

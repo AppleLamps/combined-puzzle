@@ -1,0 +1,20 @@
+{
+  "budget": 2000,
+  "decrypts": 1688,
+  "by_gap": {
+    "G1_split_header_xor": 30,
+    "G2_first_hint_last_command": 75,
+    "G3_door_checker_architect": 95,
+    "G4_bifid_streams": 32,
+    "G5_keys_and_cp273": 26,
+    "G6_inline_sal_ciphertext": 20,
+    "G7_spiral_msl_recipes": 1386,
+    "G8_yinyang_xor_keys": 24
+  },
+  "hits": [],
+  "wins": [],
+  "stopped_early": false,
+  "checks": {
+    "inline_equals_sal_short": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "md5_tries": 3300,
+  "md5_structured": 0,
+  "sha_tries": 1668423,
+  "sha_structured": 0,
+  "spiral_op_count": 33,
+  "filler_triples": 34220,
+  "filler_quads": 487635,
+  "md5_hits": []
+}

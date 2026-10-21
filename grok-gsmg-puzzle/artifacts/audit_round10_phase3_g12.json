@@ -1,0 +1,68 @@
+{
+ "script": "team/round10_phase3_g12.py",
+ "seconds": 0.0,
+ "controls": {
+  "phase32_full": "bitbias",
+  "phase32_slice64": "printable",
+  "random64_false_flags": 0
+ },
+ "per_container": {
+  "other656": {
+   "decrypts": 1,
+   "valid_pads": 1,
+   "pad_ge3": 1,
+   "flag_body": 1,
+   "flag_fullblocks": 1
+  },
+  "other4096": {
+   "decrypts": 6,
+   "valid_pads": 1,
+   "pad_ge3": 1,
+   "flag_body": 1,
+   "flag_fullblocks": 1
+  },
+  "terminal": {
+   "decrypts": 21,
+   "valid_pads": 0,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  },
+  "salphaseion_short": {
+   "decrypts": 21,
+   "valid_pads": 0,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  },
+  "cosmic": {
+   "decrypts": 21,
+   "valid_pads": 0,
+   "pad_ge3": 0,
+   "flag_body": 0,
+   "flag_fullblocks": 0
+  }
+ },
+ "locked_decrypts": 63,
+ "locked_valid_pads": 0,
+ "locked_expected_pads": 0.2,
+ "locked_flagged_bodies": 0,
+ "flagged_samples": [
+  {
+   "container": "other656",
+   "pad": 8,
+   "body": "printable",
+   "full": "printable",
+   "pt_head": "5468652069726f6e696320326e616d65206f6620746865206b65796d616b65727320747279696e6720746f2070726f74",
+   "pt_sha256": "5607b4c3ebadcfc57f203a315d7f29ebf1ac091132a3ee413376a4bfcc205bbd"
+  },
+  {
+   "container": "other4096",
+   "pad": 6,
+   "body": "printable",
+   "full": "printable",
+   "pt_head": "5768617420696620746865206d65726f76696e6769616e2069732077726f6e672e205768617420696e7374656164206f",
+   "pt_sha256": "3a3ad66325bb2fe902555231a71f36596c90c2771c934a0d48b6fad15f4da3da"
+  }
+ ]
+}

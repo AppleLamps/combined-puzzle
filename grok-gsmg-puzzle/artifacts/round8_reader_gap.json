@@ -1,0 +1,18 @@
+{
+  "budget": 2200,
+  "decrypts": 2051,
+  "by_gap": {
+    "G1": 126,
+    "G2": 1776,
+    "G3": 30,
+    "G4": 63,
+    "G5": 12,
+    "G6": 36,
+    "G7": 8
+  },
+  "hits": [],
+  "wins": [],
+  "stopped_early": false,
+  "structured_hits": 0,
+  "win_hits": 0
+}

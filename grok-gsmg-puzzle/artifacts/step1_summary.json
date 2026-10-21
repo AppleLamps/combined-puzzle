@@ -1,0 +1,80 @@
+{
+  "wins": [],
+  "hits": [],
+  "n_passwords": 55,
+  "n_scalars": 3204,
+  "decode_sha256": {
+    "b64-tail": [
+      "3dee7adb9c1aab43f8ab1b25078276f6746615d3a80f2d9fea6a8d01347a2f3c",
+      422
+    ],
+    "b64-full": [
+      "a4cd4bcf26ac76c21a4fe6bd1f01df70f81cb8a1d0cc3d0824004d8407dc101d",
+      427
+    ],
+    "b64-faed": [
+      "e68088d67f11f55e78845ba0db7b094734f8053c2c4f91a7a4dfa5e454c78879",
+      427
+    ],
+    "b25-pt-abc": [
+      "39bb6dfc25f8fb6a0eed47a9aa9b3b26698827a42e92180ee8202418ca00777f",
+      331
+    ],
+    "b25-tail-abc": [
+      "84b172336ef582906abbd4e7ae611cf343dacb39dcf12afe25cf8bf4a21cb57e",
+      327
+    ],
+    "b25-odd-abc": [
+      "9cefa2893bbed9a9f752cae78ae5bf4205acea7aba33eb374cf4774c8db37bca",
+      166
+    ],
+    "b25-pt-sq": [
+      "007b72d589305b3035114ce8eed2dd95b0911fb59c097c1d56866a2530dbe769",
+      331
+    ],
+    "b25-tail-sq": [
+      "7af7655fd95de554e6021846b8abe918d3002b2e3fe499f23cff278597bf29c5",
+      326
+    ],
+    "b25-odd-sq": [
+      "1b184ffc2ec9e5ecc73ae25e3ce7bc285987fb9ea269077ca2a014f1ec771cf3",
+      166
+    ],
+    "b9-faed": [
+      "004ff289a34bc3736c72b9a465765ac3e1f8c62a7a3ef30779ce69d3ebafa374",
+      226
+    ],
+    "b4-even": [
+      "b2e8bc551d209d74aee6fac0a5bb83444d37982ced96d37f05d6c0827c302e07",
+      71
+    ],
+    "rowbits-msb": [
+      "2133ae9cc5e35678ca4cd0b57d0b95ec025ce7201ddf7405adfd95fdf27ce7e8",
+      71
+    ],
+    "rowbits-drop2-tail": [
+      "d7c23196c1ffd874227a0490d2590a1b17256b29780c6ed225ca9504098280fa",
+      71
+    ],
+    "rowbits-256": [
+      "ac9cfb478cfc47144036c5534c0a93db22c78982076b3303375946cdf05809a5",
+      32
+    ],
+    "rowbits-second256": [
+      "e33c25de43a2a8e8dc5076c01e18d92e4f4aabe7035fee643c4b87b2234ec777",
+      32
+    ],
+    "rowbits-lsb": [
+      "25bcc53f6cc7ff3e4d2550f9eedac62221d2af19fe8752ea61275a7291c38b7e",
+      71
+    ],
+    "b5-cols": [
+      "87c5d91c2805ad18a6f8f5dc13a06165c04d3f0ae38d22704340c3f9cb553cf0",
+      166
+    ],
+    "even-rc": [
+      "f7b183536c502b773fff37533763332fe470f409fd5d2989d3c0f093439bb34e",
+      71
+    ]
+  }
+}

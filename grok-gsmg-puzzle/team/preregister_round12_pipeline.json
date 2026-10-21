@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "budget_target": 2000,
+  "description": "z-stage Sal program, pre-decode b64 joins, liberal Terminal-first chains",
+  "gaps": {
+    "G1_z_stage_program": {
+      "stages": [
+        {"id": "s0", "op": "msl_ab_sum"},
+        {"id": "s1", "op": "faed_bifid_sha256hex", "after_z": 1},
+        {"id": "s2", "op": "lastwords_literal", "after_z": 2},
+        {"id": "s3", "op": "thispassword_literal", "after_z": 3},
+        {"id": "s4", "op": "shabef_four_literal"}
+      ],
+      "chain_reducers": ["concat_sha256hex_each", "concat_literals_final_sha256hex"],
+      "also_chains": [
+        {"name": "host-faed-lw-tp", "ops": ["host_bits_sha256hex", "faed_bifid_sha256hex", "lastwords_literal", "thispassword_literal"]},
+        {"name": "tok23-msl-lw", "ops": ["tok23", "msl_ab_sum", "lastwords_literal"]},
+        {"name": "faed-lw-tp-shabef", "ops": ["faed_bifid_plain", "lastwords_literal", "thispassword_literal", "shabef_four_literal"]},
+        {"name": "msl-lw-tp-enter", "ops": ["msl_ab_sum", "lastwords_literal", "thispassword_literal", "enter_literal"]}
+      ],
+      "containers": ["salphaseion_short", "terminal", "cosmic"],
+      "profiles": ["std-hex-sha256", "plain-md5"]
+    },
+    "G2_predecode_b64_join": {
+      "half_spans": [[895, 959], [999, 1063]],
+      "modes": [
+        "interleave_chars",
+        "reverse_half2_concat",
+        "xor_char_codes_mod256",
+        "swap_halves_concat"
+      ],
+      "password_sources": [
+        "z_program_final",
+        "enter_literal",
+        "phase1_hash225",
+        "host_bits_sha256hex",
+        "faed_bifid_sha256hex",
+        "chain_lit_concat"
+      ],
+      "profiles": ["std-hex-sha256", "plain-md5"],
+      "container": "salphaseion_short"
+    },
+    "G3_liberal_terminal_first": {
+      "order": ["terminal", "salphaseion_short", "cosmic"],
+      "phase32_initial_keys": [
+        "checker_decode",
+        "checker_decode_sha256hex",
+        "digits149_sum",
+        "arch_after_select_128",
+        "ascii_prefix_one_for_one",
+        "phase1_hash225"
+      ],
+      "liberal_profiles": ["std-hex-sha256", "raw32-sha256"],
+      "chain_profiles": ["std-hex-sha256", "plain-md5", "raw32-sha256"],
+      "window_scan_bytes": [16, 32, 48, 64],
+      "lastwords_for_derivation": ["checker_half45", "lw_arch_tail40"],
+      "liberal_direct_containers": ["salphaseion_short", "cosmic", "terminal"],
+      "liberal_direct_profiles": ["std-hex-sha256", "raw32-sha256", "plain-md5"]
+    }
+  }
+}

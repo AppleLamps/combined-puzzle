@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "budget_target": 2000,
+  "description": "Missed connections: split-header XOR, hint pair, door/checker, bifid even stream, cp273/beaufort, inline Sal CT, spiral MSL recipes, yinyang xor keys",
+  "gaps": {
+    "G1_split_header_xor": {
+      "modes": ["xor_from_offset_16", "xor_ct_tail_only", "interleave_halves_bytes"],
+      "password_anchors": ["phase1_hash225", "flower", "sha256our_hint", "z_lit_sha", "inline_page_sha"]
+    },
+    "G2_first_hint_last_command": {
+      "pairs": [
+        ["phase1_hash225", "theseedisplanted"],
+        ["phase1_hash225", "gsmg.io/theseedisplanted"],
+        ["flower", "yourlastcommand"],
+        ["sha256ourfirsthintisyourlastcommand", "sha256anstoo"],
+        ["5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75", "matrixsumlistenter"]
+      ],
+      "containers": ["terminal", "salphaseion_short", "cosmic"]
+    },
+    "G3_door_checker_architect": {
+      "door_indices": [1, 4, 21],
+      "sources": ["digits149", "checker_decode", "architect_1539", "host_bits23"],
+      "architect_numerals": ["23", "16", "7", "hundredforty", "161"],
+      "containers": ["terminal", "salphaseion_short", "cosmic"]
+    },
+    "G4_bifid_streams": {
+      "streams": ["even_positions", "odd_positions", "after_btcseed", "last_32_faed"],
+      "containers": ["terminal", "salphaseion_short", "cosmic"]
+    },
+    "G5_keys_and_cp273": {
+      "passwords": ["THEMATRIXHASYOU", "btcseed", "btcseedd", "jacquefrescogiveitjustonesecondheisenbergsuncertaintyprinciple"],
+      "architect_sha256hex": true,
+      "containers": ["terminal", "salphaseion_short", "cosmic"]
+    },
+    "G6_inline_sal_ciphertext": {
+      "extract": "regex_u2fsalted_in_page",
+      "passwords": ["page_sha256hex", "phase1_hash225", "pre_ct_sha256hex", "post_ct_sha256hex", "shabef_concat"]
+    },
+    "G7_spiral_msl_recipes": {
+      "ops_from_round4": true,
+      "lw_keys": ["checker_half45", "lw_arch_tail40", "halfandbetterhalf"],
+      "containers": ["terminal", "salphaseion_short", "cosmic"]
+    },
+    "G8_yinyang_xor_keys": {
+      "xor_blobs": ["xor_ct_salt_terminal", "xor_ct_salt_salphaseion"],
+      "key_sources": ["checker_decode", "digits149_sum", "8446_full"]
+    }
+  }
+}

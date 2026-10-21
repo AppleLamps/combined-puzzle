@@ -1,0 +1,37 @@
+{
+  "control_fired": true,
+  "candidates_unique": 3852,
+  "container_count": 9,
+  "container_names": [
+    "terminal",
+    "salphaseion_short",
+    "cosmic",
+    "sal_yinyang_blocks",
+    "sal_yinyang_ct_bytes",
+    "xor_ct_salt_terminal",
+    "xor_ct_salt_salphaseion",
+    "term_sal_block_ab",
+    "term_sal_block_ba"
+  ],
+  "decrypts": 34669,
+  "valid_pads": 123,
+  "expected_pads_approx": 135.4,
+  "pad1": 122,
+  "pad_other": 1,
+  "pad_only_near_misses": 122,
+  "structured_hits": [
+    {
+      "container": "__planted__",
+      "label": "planted_control",
+      "answer_preview": "tester-planted-control-v1",
+      "detector": "structured:prose 1.00",
+      "plaintext_head": "504c414e5445445f434f4e54524f4c5f504c41494e544558545f464f525f5445535445525f424154544552595f52554e",
+      "len": 48
+    }
+  ],
+  "wins": [],
+  "tok23": "2222252222525222225222525222525",
+  "msl_row": "610876654997879",
+  "msl_col": "8108108736759668",
+  "msg8446_len": 161
+}

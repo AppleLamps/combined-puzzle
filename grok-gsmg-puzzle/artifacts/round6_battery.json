@@ -1,0 +1,16 @@
+{
+  "priority_batteries": {
+    "p1_after_select": 21,
+    "p2_checkerboard": 24,
+    "p3_6509_hints": 21,
+    "p4_yinyang": 84,
+    "p5_xor_enter": 15
+  },
+  "sha_decrypts": 408,
+  "md5_decrypts": 52,
+  "structured_sha": 0,
+  "structured_md5": 0,
+  "hits": [],
+  "md5_hits": [],
+  "digits149_sum": 504
+}

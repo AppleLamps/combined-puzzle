@@ -1,0 +1,82 @@
+{
+  "md5_decrypts": 151,
+  "md5_structured_hits": 0,
+  "md5_community_control": true,
+  "sha256_decrypts_filler_pairs": 15930,
+  "sha256_structured_hits": 0,
+  "msl_operands": {
+    "row": "610876654997879",
+    "col": "8108108736759668",
+    "diag-main": "7",
+    "diag-anti": "8",
+    "spiral-bits": "101",
+    "spiral-kb": "101",
+    "spiral-by-weight": "33",
+    "sum-rows": "101",
+    "sum-cols": "101",
+    "255": "255",
+    "161": "161",
+    "ab-sum-bits": "56"
+  },
+  "word_lastwords": [
+    [
+      "lw-word-to",
+      "to"
+    ],
+    [
+      "lw-word-requiredto",
+      "requiredto"
+    ],
+    [
+      "lw-word-berequiredto",
+      "berequiredto"
+    ],
+    [
+      "lw-word-willberequiredto",
+      "willberequiredto"
+    ],
+    [
+      "lw-word-youwillberequiredto",
+      "youwillberequiredto"
+    ],
+    [
+      "lw-word-afterwhichyouwillberequiredto",
+      "afterwhichyouwillberequiredto"
+    ],
+    [
+      "lw-tail-2",
+      "to"
+    ],
+    [
+      "lw-tail-4",
+      "edto"
+    ],
+    [
+      "lw-tail-6",
+      "iredto"
+    ],
+    [
+      "lw-tail-8",
+      "quiredto"
+    ],
+    [
+      "lw-tail-10",
+      "requiredto"
+    ],
+    [
+      "lw-tail-12",
+      "berequiredto"
+    ],
+    [
+      "lw-film-to",
+      "to"
+    ],
+    [
+      "lw-film-required",
+      "required"
+    ]
+  ],
+  "filler_pair_combos": 1770,
+  "md5_hits": [],
+  "sha_hits": []
+}

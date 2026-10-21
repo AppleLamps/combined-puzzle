@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "budget_target": 2200,
+  "win_h160": "a9553269572a317e39f0f518cb87c1a0ee1dbae4",
+  "gaps": {
+    "G1_cosmic_duality_title": {
+      "description": "Time-Life / side-page Cosmic Duality title strings",
+      "strings": [
+        "Cosmic Duality",
+        "cosmic duality",
+        "COSMIC DUALITY",
+        "cosmicduality",
+        "CosmicDuality",
+        "Mysteries of the Unknown",
+        "Mysteries of the Unknown: Cosmic Duality",
+        "mysteries of the unknown cosmic duality",
+        "Time-Life Mysteries of the Unknown Cosmic Duality",
+        "Time Life Cosmic Duality",
+        "the cosmic duality",
+        "Cosmic Duality Time-Life",
+        "Cosmic Duality Mysteries of the Unknown",
+        "half and better half cosmic duality"
+      ],
+      "containers": ["cosmic", "terminal", "salphaseion_short"],
+      "kdf": ["std-hex-sha256", "raw32-sha256_on_cosmic", "plain-md5_on_sal_short"],
+      "also_sha256hex_of_operand": true
+    },
+    "G2_6913_bit_width": {
+      "description": "21 and 1812 bit windows on frozen bit sources (not ASCII passwords)",
+      "widths": [21, 1812],
+      "offsets_21": [0, 1, 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91, 98, 105, 112, 119, 126, 147, 168, 189, 192, 200],
+      "offsets_1812": [0, 256, 512, 1024],
+      "packings": ["msb", "lsb"],
+      "answer_forms": ["sha256hex_bytes", "latin1_hex_string"],
+      "sources": [
+        "spiral_url192",
+        "spiral_full196",
+        "terminal_ciphertext",
+        "salphaseion_short_ciphertext",
+        "xor_terminal_sal_ciphertext",
+        "cosmic_ciphertext"
+      ],
+      "containers": ["terminal", "salphaseion_short", "cosmic"]
+    },
+    "G3_sal_full_page": {
+      "description": "1075-char compact SalPhaseIon page as password material",
+      "operands": [
+        "sha256hex_full_compact",
+        "sha256hex_all_span_decodes_concat",
+        "full_compact_literal",
+        "sha256hex_full_no_spaces",
+        "sha256hex_dbbi_faed_concat",
+        "sha256hex_labels_concat"
+      ],
+      "containers": ["salphaseion_short", "cosmic", "terminal"],
+      "kdf": ["std-hex-sha256", "plain-md5_on_sal_short"]
+    },
+    "G4_shabefour_vs_sha256our": {
+      "description": "On-page shabef blocks vs homophone expansions",
+      "strings": [
+        "shabefourfirsthintisyourlastcommand",
+        "sha256ourfirsthintisyourlastcommand",
+        "sha256fourfirsthintisyourlastcommand",
+        "shabefanstoo",
+        "sha256anstoo",
+        "sha256theanswertoo",
+        "sha256answerstoo",
+        "sha256ourfirsthintisyourlastcommandsha256anstoo",
+        "shabefourfirsthintisyourlastcommandshabefanstoo"
+      ],
+      "containers": ["terminal", "salphaseion_short", "cosmic"],
+      "kdf": ["std-hex-sha256", "plain-md5_on_sal_short"]
+    },
+    "G5_derived_binary_sha": {
+      "description": "sha256hex(dbbi_host_bits || faed_mask6_zero) and variants",
+      "pipelines": [
+        "host23_bits_only",
+        "host23_plus_mask6_zero",
+        "mask6_zero_only",
+        "host25_colours_bits",
+        "xor_ct_salt_16",
+        "dbbi_prefix91_latin1"
+      ],
+      "containers": ["terminal", "cosmic"]
+    },
+    "G6_h2_filler_bifid_beaufort": {
+      "description": "Strategist H2: Bifid period 570, square = first-appearance distinct letters in 60-char filler",
+      "period": 570,
+      "beaufort_keys": ["btcseed", "5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75"],
+      "output_forms": ["beaufort_full", "beaufort_after_btcseed", "beaufort_tail_mod256_raw_evp"],
+      "containers": ["terminal", "salphaseion_short", "cosmic"],
+      "also_canonical_square_control": true
+    },
+    "G7_h3_door_index_deletion": {
+      "description": "Delete indices {1,4,21} union primes<=23 on filler and faed",
+      "delete_1based": [1, 2, 3, 4, 5, 7, 11, 13, 17, 19, 21, 23],
+      "encode": [
+        "survivor_string_sha256hex",
+        "faed_survivor_string_sha256hex",
+        "faed_survivor_int_tail32_sha256hex",
+        "faed_survivor_int_tail32_scalar",
+        "filler_survivor_literal"
+      ],
+      "containers": ["terminal", "cosmic"]
+    }
+  }
+}

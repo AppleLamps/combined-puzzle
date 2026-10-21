@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "budget_target": 2000,
+  "description": "enter=byte XOR of b64 halves; poster matrixsumlist in z-chain; full Sal page stage-0",
+  "gaps": {
+    "G1_enter_xor_bytes": {
+      "half_spans": [[895, 959], [999, 1063]],
+      "xor_targets": [
+        "xor_full_48",
+        "xor_ct_only",
+        "xor_salt_prefix_rest_xor",
+        "concat_then_xor_ct"
+      ],
+      "password_anchors": [
+        "z_chain_lit_sha",
+        "enter_literal",
+        "xor_hex_sha256hex",
+        "phase1_hash225",
+        "lastwords_literal",
+        "thispassword_literal"
+      ],
+      "containers": ["salphaseion_short", "terminal", "cosmic"],
+      "profiles": ["std-hex-sha256", "plain-md5", "raw32-sha256"]
+    },
+    "G2_poster_msl_zchain": {
+      "poster_msl_keys": [
+        "sum-rows",
+        "sum-cols",
+        "spiral-bits",
+        "spiral-kb",
+        "spiral-by-weight",
+        "diag-main",
+        "diag-anti",
+        "row",
+        "col"
+      ],
+      "chain_suffix": ["lastwords_literal", "thispassword_literal", "enter_literal"],
+      "reducers": ["concat_sha256hex_each", "concat_literals_final_sha256hex"],
+      "containers": ["salphaseion_short", "terminal", "cosmic"],
+      "profiles": ["std-hex-sha256", "plain-md5"]
+    },
+    "G3_full_sal_stage0": {
+      "stage0_forms": [
+        "compact_1075_sha256hex",
+        "compact_1075_literal_prefix512",
+        "dbbi_faed_concat_sha256hex",
+        "pre_sal_895_sha256hex",
+        "post_z_stages_860_1075_sha256hex"
+      ],
+      "chain_ops": ["lastwords_literal", "thispassword_literal", "shabef_four_literal"],
+      "containers": ["salphaseion_short", "terminal", "cosmic"],
+      "profiles": ["std-hex-sha256", "plain-md5", "raw32-sha256"]
+    }
+  }
+}

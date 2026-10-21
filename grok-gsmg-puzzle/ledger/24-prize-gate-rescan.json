@@ -1,0 +1,704 @@
+{
+ "backend": "coincurve",
+ "binary_files": 8,
+ "bytes_scanned": 823523,
+ "candidates_by_kind": {
+  "b64": 2,
+  "b64blob/dec": 1,
+  "b64blob/raw32": 5215,
+  "dec": 1,
+  "derived_sha256": 162,
+  "derived_sha256_stripped": 145,
+  "hex64": 783,
+  "raw32": 3083,
+  "wif_compressed": 1
+ },
+ "candidates_per_file": {
+  ".gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/architect_letters_1539.txt": {
+   "derived_sha256": 1
+  },
+  "artifacts/audit_cryptanalyst_tests.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 34
+  },
+  "artifacts/audit_deletion_sweep_faed.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round10_phase3_g12.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 34
+  },
+  "artifacts/audit_round11_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round12_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round13_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round14_clues.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round2_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round3_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round4_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 34
+  },
+  "artifacts/audit_round5_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 4
+  },
+  "artifacts/audit_round5_preregistered.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round6_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round7_chained_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round8_reader_gap.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_round9_reader_gap.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_step1_btcseed.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/audit_step3_mask.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/cosmic.b64": {
+   "b64blob/raw32": 1313,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/cosmic.b64.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/cosmic.bin": {
+   "derived_sha256": 1
+  },
+  "artifacts/cosmic.bin.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/cp273_symbols.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/cryptanalyst_summary.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/dbbi.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/dbbi.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/deletion_sweep_faed.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/faed.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/faed.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/faed_bifid.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/faed_bifid.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/faed_bifid_variant.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/faed_bifid_variant.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/faed_decodes.json": {
+   "derived_sha256": 1,
+   "hex64": 18
+  },
+  "artifacts/mask12.bin": {
+   "derived_sha256": 1,
+   "raw32": 205
+  },
+  "artifacts/mask6.bin": {
+   "derived_sha256": 1,
+   "raw32": 166
+  },
+  "artifacts/mask6.txt": {
+   "derived_sha256": 1,
+   "raw32": 321
+  },
+  "artifacts/matrix.json": {
+   "derived_sha256": 1
+  },
+  "artifacts/phase2.txt": {
+   "derived_sha256": 1
+  },
+  "artifacts/phase2.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/phase3.txt": {
+   "b64blob/raw32": 867,
+   "derived_sha256": 1
+  },
+  "artifacts/phase3.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/phase32.bin": {
+   "b64blob/raw32": 34,
+   "derived_sha256": 1,
+   "hex64": 86,
+   "raw32": 2391
+  },
+  "artifacts/phase32.bin.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/phase32_beaufort.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/phase32_beaufort_alphabet.bin": {
+   "derived_sha256": 1
+  },
+  "artifacts/phase32_beaufort_alphabet.bin.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/phase32_checkerboard.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/phase32_checkerboard.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/phase3_password.txt": {
+   "derived_sha256": 1,
+   "hex64": 77
+  },
+  "artifacts/phase3_password.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/poster_grid.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/poster_grid.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/poster_spiral_bits.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 133
+  },
+  "artifacts/poster_spiral_bits.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/poster_spiral_colours.txt": {
+   "b64blob/raw32": 116,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/poster_spiral_colours.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round10_phase3_g12.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round11_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round12_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round13_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round14_clues.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round2_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round3_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round4_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round5_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round5_preregistered.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round6_battery.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round7_chained_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round8_reader_gap.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/round9_reader_gap.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/salphaseion.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 52
+  },
+  "artifacts/salphaseion.txt.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/salphaseion_short.b64": {
+   "b64blob/raw32": 65,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/salphaseion_short.b64.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/salphaseion_short.bin": {
+   "derived_sha256": 1
+  },
+  "artifacts/salphaseion_short.bin.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/step0_report.json": {
+   "derived_sha256": 1,
+   "hex64": 2,
+   "wif_compressed": 1
+  },
+  "artifacts/step1_summary.json": {
+   "derived_sha256": 1
+  },
+  "artifacts/step2_summary.json": {
+   "derived_sha256": 1
+  },
+  "artifacts/step3_summary.json": {
+   "derived_sha256": 1
+  },
+  "artifacts/terminal.b64": {
+   "b64blob/raw32": 31,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/terminal.b64.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/terminal.bin.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/tester_battery_report.json": {
+   "derived_sha256": 1,
+   "hex64": 33
+  },
+  "artifacts/yellowblue_chunks.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/yellowblue_colours.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "artifacts/yellowblue_fillers.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/00-lead.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/01-archivist.md": {
+   "b64blob/raw32": 74,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 65
+  },
+  "ledger/02-reader.md": {
+   "b64blob/raw32": 29,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/03-cryptanalyst.md": {
+   "b64blob/raw32": 20,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/04-statistician.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/05-tester.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/06-skeptic.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/07-deletion-sweep.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/08-round2.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/09-round3.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/10-round4.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/12-round5.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/13-round6.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/14-round7.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/15-team-audit.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/16-round8.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/17-round9.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/18-round10.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/19-round11.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/20-round12.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/21-round13.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/22-round14.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/23-detector-audit.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/experiments.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/round5/brainstorm.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/round5/cryptanalyst.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/round5/reader.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/round5/skeptic.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/round5/strategist.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ledger/round5/tester.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "puzzle-order.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2
+  },
+  "requirements.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "src/archivist_check2.py": {
+   "b64blob/raw32": 17,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 4
+  },
+  "src/check_report3_2026-10-17.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 135
+  },
+  "src/checkerboard_pairs.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "src/crypto_known.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "src/step0_trust.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "src/step1_btcseed.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 68
+  },
+  "src/step2_peel.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "src/step3_mask.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/audit_rerun.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/classify_unified.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/cryptanalyst_tests.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/deletion_sweep_faed.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/preregister_chained_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/preregister_phase3_g12.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/preregister_reader_gap.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/preregister_reader_gap9.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/preregister_round11_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/preregister_round12_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/preregister_round13_pipeline.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/preregister_round14_clues.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round10_phase3_g12.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round11_pipeline.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round12_pipeline.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round13_pipeline.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round14_clues.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round2_battery.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round3_battery.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round4_battery.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round5_battery.py": {
+   "b64": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round5_preregistered.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round6_battery.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round7_chained_pipeline.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round8_reader_gap.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/round9_reader_gap.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "team/statistician_repro.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/prize_gate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "uploads/GSMG-handoff.md": {
+   "b64": 1,
+   "b64blob/dec": 1,
+   "b64blob/raw32": 2649,
+   "dec": 1,
+   "derived_sha256_stripped": 1
+  }
+ },
+ "files_scanned": 165,
+ "hits": [],
+ "media_or_archive_skipped_by_extension": {
+  ".png": 1
+ },
+ "other_skips": [],
+ "prize_gate_sha256": "9dfa1d2fb4769d57997fc9b438f1bb566ddd7b604bdefd7cd745745ff14594b3",
+ "prize_gate_version": "1.0.1",
+ "seconds": 0.6,
+ "selftest": "PASS",
+ "targets": {
+  "better_half": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "half": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe"
+ },
+ "unique_scalars_gated": 9393
+}
