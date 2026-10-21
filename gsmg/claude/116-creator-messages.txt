@@ -1,0 +1,492 @@
+#74 2019-04-20T12:18:49 Jrk Bgrt: Ok.. somebody has cracked the first code.
+#75 2019-04-20T12:19:00 Jrk Bgrt: that was way faster than expected.
+#77 2019-04-20T12:21:57 Jrk Bgrt: The first part. Maybe the puzzle has multiple stages 😉.
+#79 2019-04-20T12:22:36 Jrk Bgrt: It is.
+#87 2019-04-20T12:41:14 Jrk Bgrt: It's a way to protect websites against cross site request forgery but the loadbalancer is a bitch on multiple tries apparently.
+#212 2019-04-22T10:28:08 Jrk Bgrt: wrong chat RKT 😊
+#216 2019-04-22T10:39:49 Jrk Bgrt: 😂
+#225 2019-04-22T15:48:52 Jrk Bgrt: 5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+#226 2019-04-22T15:49:09 Jrk Bgrt: just try hit your options against that hash.
+#231 2019-04-22T17:24:17 Jrk Bgrt: Puzzle token issue for stage 1 seems to be resolved.
+#234 2019-04-22T17:26:42 Jrk Bgrt: https://passwordsgenerator.net/sha256-hash-generator/
+#236 2019-04-22T17:26:51 Jrk Bgrt: or just get yourself a python script
+#239 2019-04-22T17:28:13 Jrk Bgrt: a sticker
+#257 2019-04-22T18:29:02 Jrk Bgrt: A hash which we provided as the website was giving a lot of token errors. With this hash the puzzlers can try their passwords instead of firing them at the website.
+#325 2019-04-23T14:57:51 Jrk Bgrt: Ewout managed to crack the april 1st puzzle. He was the first to solve it.
+#518 2019-04-27T11:46:58 Jrk Bgrt: hahahaha :D
+#519 2019-04-27T11:47:07 Jrk Bgrt: back to the pile!
+#550 2019-04-29T18:35:29 Jrk Bgrt: I personally don't mind you talkinig in another language in  this chat tbh although I do prefer english to be the standard language as I assume most of us will be able to follow the conversations. The main chat of GSMG is english only.
+#660 2019-05-08T09:20:21 Jrk Bgrt: Apparently somebody managed to get into Phase 3 🧐
+#663 2019-05-08T09:34:39 Jrk Bgrt: Nobody knows
+#850 2019-05-14T10:49:49 Jrk Bgrt (reply to 848): 👌
+#851 2019-05-14T10:51:40 Jrk Bgrt (reply to 849): Quests might* be scams. We didn't promote this puzzle nor is it unsolvalble. Please enjoy the puzzle or continue your journey.
+#855 2019-05-14T10:53:59 Jrk Bgrt (reply to 853): Sure, once it's solved.
+#859 2019-05-14T11:01:11 Jrk Bgrt (reply to 857): I suppose the btc price will be above 10k at the next halving.
+#866 2019-05-17T18:39:21 Jrk Bgrt: Dear all, somebody pointed out that there might be a mistake in phase III and that is correct unfortunately. The mistake makes it nearly impossible to solve unless you'd know where to add 1 extra character between the 3 answers. My sincerest apologies for this, I'll fix this a soon as I've found a decent spot to do so as I'm on holiday atm. Again, 1000 times sorry, I'm aware I might have wasted a lot of time for some :-(...
+#867 2019-05-17T18:43:46 Jrk Bgrt: Here's the hint in order to bypass the mistake: /  / giveit = givetit
+#869 2019-05-17T20:04:04 Jrk Bgrt: Correct.
+#871 2019-05-17T20:15:22 Jrk Bgrt: For those feeling bad about having wasted time on my typo. I might feel even worse as I've tested the entire puzzle 3 times with the same string which had the typo in it 😒. I'll kill some braincells tonight with tasteless alcohol in order to forget this blunder.
+#874 2019-05-17T22:30:08 Jrk Bgrt: The issue is within the 3th phase. Not in going from 2 to 3.
+#875 2019-05-17T22:30:34 Jrk Bgrt: Once you have to work with give(t)it you'll know.
+#879 2019-05-18T12:26:26 Jrk Bgrt: So, after yesterday's 'hint' a team of puzzlers has made an unbelievable amount of progress in just one day... The progress they made was unforseen as we expected it to take at least a !month! to pass those parts of the puzzle. Hat off for those that managed to puzzle their way through all the ciphers and riddles in this extraordinary pace. We're really impressed by that, actually, we stand in awe for you. Congrats. /  / To those not having reached Phase III yet, no worries besides a bit of extra pressure. The "last" part of the puzzle will ensure that there's quite some time for you guys to catch up to them... although given their obvious skill this might be solved quicker than expected aswell.. time will tell. Good luck!
+#881 2019-05-18T12:31:02 Jrk Bgrt: In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes.
+#886 2019-05-18T12:49:27 Jrk Bgrt: Nope
+#887 2019-05-18T12:50:17 Jrk Bgrt: Part III consist out of a few stages. The last few stages are, how shall I say it, not really easy to solve for most.
+#896 2019-05-18T13:10:46 Jrk Bgrt: No, they reaced out to me on tg and send me proof of them passing the stages.
+#898 2019-05-18T13:13:29 Jrk Bgrt: No hints after stage 2 (except the 't' to fix my stupid mistake)
+#950 2019-05-26T20:25:10 Jrk Bgrt (reply to 949): Not completely, voice recognition might even work to pass although I'd copy past the answer as it's faster ;-).
+#952 2019-05-26T23:20:49 Jrk Bgrt: Ok you found a song. Do have a clue on how to proceed on the webpage?
+#961 2019-05-28T12:45:40 Jrk Bgrt (reply to 958): Nobody knows.
+#978 2019-05-31T11:02:28 Jrk Bgrt: Now we need a bot here too
+#984 2019-05-31T11:20:06 Jrk Bgrt [file sticker.webp]: 
+#988 2019-05-31T11:27:49 Jrk Bgrt (reply to 986): shitcoin
+#989 2019-05-31T11:27:53 Jrk Bgrt: 😉
+#990 2019-05-31T11:28:01 Jrk Bgrt (reply to 987): Well.... yes
+#991 2019-05-31T11:28:28 Jrk Bgrt: Apparently folks found a new piece.
+#994 2019-05-31T11:29:13 Jrk Bgrt: Almost banned for spam 😋
+#999 2019-05-31T11:32:29 Jrk Bgrt: /daysandbox_set safe_hours=720
+#1210 2019-06-27T17:38:51 Jrk Bgrt: 🌱
+#1211 2019-06-27T17:39:32 Jrk Bgrt: 🛣
+#1416 2019-08-10T12:50:10 Jrk Bgrt: You'll only know when you've solved that part.
+#1448 2019-09-04T03:58:16 Jrk Bgrt: Still no hints ;-)
+#1461 2019-09-22T18:55:01 Jrk Bgrt (reply to 1460): Found it by now?
+#1465 2019-09-22T19:00:48 Jrk Bgrt: 7 parts right?
+#1487 2019-09-26T11:35:24 Jrk Bgrt: There may indeed a piece be found outside the main puzzle.
+#1537 2019-10-13T14:38:53 Jrk Bgrt: Gsmg.io/puzzle
+#1587 2019-10-31T21:53:04 Jrk Bgrt: Sure, what's the hint?
+#1602 2019-12-03T12:55:55 Jrk Bgrt: giveit = givetit
+#1638 2019-12-31T05:30:23 Jrk Bgrt (reply to 1632): Hahaha, you're on it. Not an exact time, but it will be posted in this channel. It's at the start of 2020 indeed, way before the halving.
+#1639 2019-12-31T05:33:29 Jrk Bgrt: To all you peepz in advance: have a blast in the last part of 2019 and have an even better 2020. Best wishes to you all and good luck with the next puzzle piece(s) in case you manage to find them 😉!
+#1647 2020-01-04T20:01:00 Jrk Bgrt [photo]: 
+#1648 2020-01-04T20:01:19 Jrk Bgrt: Anybody hungry?
+#1651 2020-01-04T20:01:54 Jrk Bgrt: No, it's a dessert
+#1659 2020-01-04T20:06:01 Jrk Bgrt: Note: I might be in a trolling mood.
+#1680 2020-01-12T15:52:32 Jrk Bgrt (reply to 1659): 👆
+#1703 2020-01-13T11:40:54 Jrk Bgrt: Hint to be expected within a few days. Note: not trolling with scripted cake this time.
+#1710 2020-01-14T05:38:06 Jrk Bgrt: Roses are White but often Red. / Yellow has a number and so does Blue. / Go back to the first puzzle piece without further ado. /  / It might have shown you only one door, beware that the rabbits nest may contain a whole lot more. /  / Hush hush.
+#1711 2020-01-14T05:38:49 Jrk Bgrt: Good luck 👍
+#1726 2020-01-27T10:21:35 Jrk Bgrt (reply to 1724): Might have been fixed fyi 👆
+#1729 2020-01-27T11:00:04 Jrk Bgrt: Would be nice, not required
+#1743 2020-02-20T10:31:58 Jrk Bgrt [photo]: 😎
+#1753 2020-02-21T08:03:21 Jrk Bgrt: I'm not the esthetician when it comes to coding 😉
+#1758 2020-02-22T10:19:41 Jrk Bgrt: 👋
+#1775 2020-02-22T10:32:30 Jrk Bgrt: Solutions for the first stages can be found online.
+#1777 2020-02-22T10:32:52 Jrk Bgrt: The quickest brain did it within 2 hours if I remember correctly.
+#1779 2020-02-22T10:34:10 Jrk Bgrt: Don't know
+#1806 2020-02-22T11:11:52 Jrk Bgrt: Typos: Horrible mistakes due to rushed work. I'm 100% to blame for this noobish display of words. No clues to be found in those typos might you wonder 😉.
+#1837 2020-02-22T15:30:18 Jrk Bgrt: Only -41,-17 matters
+#1895 2020-02-25T07:45:53 Jrk Bgrt (reply to 1888): Not sponsored, just see it as a side quest
+#2002 2020-02-25T13:04:46 Jrk Bgrt (reply to 1987): You are right
+#2011 2020-02-25T13:07:05 Jrk Bgrt: FA please soften the communication. I like enthusiasm, but don't bring down the vibe. A lot of very smart people have been on this puzzle and put in a lot more effort than 1 can do in a month. Some puzzlers amazed me by being so incredibly fast in some stages.
+#2013 2020-02-25T13:07:19 Jrk Bgrt: 3.2 is a thing btw
+#2017 2020-02-25T13:09:10 Jrk Bgrt (reply to 2016): Or nobody found the direction
+#2020 2020-02-25T13:09:39 Jrk Bgrt: But I should shut up ofcourse 😁
+#2023 2020-02-25T13:10:30 Jrk Bgrt (reply to 2021): I'd dive in the puzzle from the beginning before making assumptions
+#2024 2020-02-25T13:11:01 Jrk Bgrt: A few guys here cracked phase 2 in 2 days.
+#2026 2020-02-25T13:15:01 Jrk Bgrt: Don't know but most see 3.2 as the last part.
+#2067 2020-02-25T13:38:52 Jrk Bgrt (reply to 2051): 😂😂😂
+#2070 2020-02-25T13:40:01 Jrk Bgrt: Just spend less time here fishing for clues and solve 🧐
+#2244 2020-02-27T11:06:27 Jrk Bgrt: Nice and silent
+#2245 2020-02-27T11:06:41 Jrk Bgrt: Damn so annoying
+#2247 2020-02-27T11:07:09 Jrk Bgrt: He'll be back
+#2297 2020-03-16T09:13:31 Jrk Bgrt: Yeah we might want to push the English only rule here too ;-)
+#2905 2020-03-24T20:19:39 Jrk Bgrt (reply to 2899): Interesting 😜
+#2910 2020-03-24T21:02:42 Jrk Bgrt (reply to 2906): Answering that would be too much of a hint.
+#2918 2020-03-24T21:22:40 Jrk Bgrt (reply to 2911): There must at least be something hidden in there.
+#3281 2020-04-06T08:12:03 Jrk Bgrt: No hints 🤓
+#3338 2020-04-08T14:38:10 Jrk Bgrt: Those hints are the last hints. Although I can say that one team managed to find something... something others haven't yet found (unless they didn't tell us).
+#3340 2020-04-08T15:01:53 Jrk Bgrt: That would be another hint.
+#3342 2020-04-08T15:12:53 Jrk Bgrt: there are errors?
+#3345 2020-04-08T15:16:14 Jrk Bgrt: Before you send anything. No hints; errors and typos are mostly not intended 😄
+#3348 2020-04-08T15:27:23 Jrk Bgrt: well, I'll just wait until you guys have progressed to "the next stage or something like that"😁
+#3365 2020-04-08T16:12:57 Jrk Bgrt (reply to 3350): the backstage 😎
+#3369 2020-04-08T16:16:02 Jrk Bgrt: obviously a typo
+#3370 2020-04-08T16:17:30 Jrk Bgrt: Rushed work. I take all the blame there is for those 😞. My sincerest apologies.
+#3371 2020-04-08T16:17:43 Jrk Bgrt: Hope it hasn't spoiled the fun so far.
+#3373 2020-04-08T16:19:06 Jrk Bgrt: I can't even write without typo's. The intelligence is an illusion.
+#3375 2020-04-08T16:19:36 Jrk Bgrt: But thanks nevertheless.
+#3384 2020-04-08T16:27:08 Jrk Bgrt: Quite some typos have been changed already. The biggest blunder so far in the mainline of the puzzle was givetit instead of giveit 😩🔨
+#3386 2020-04-08T16:28:48 Jrk Bgrt: What impressed me most so far was that 1 crew even managed to pass it while the typo was unknown.
+#3390 2020-04-08T16:33:39 Jrk Bgrt: Humph. Hope, it is the quintessential human delusion, simultaneously the source of your greatest strength, and your greatest weakness.
+#3391 2020-04-08T16:33:48 Jrk Bgrt: (not a hint btw, just fooling around)
+#3395 2020-04-08T16:39:11 Jrk Bgrt (reply to 3394): like 5 thousand milibitcoin...?
+#3404 2020-04-08T16:51:58 Jrk Bgrt: And Oen
+#3478 2020-04-11T15:52:20 Jrk Bgrt: ♟
+#3615 2020-04-29T13:18:49 Jrk Bgrt (reply to 3613): 👆
+#3860 2020-05-11T12:42:26 Jrk Bgrt [file giphy.mp4]: 
+#3876 2020-05-11T13:07:48 Jrk Bgrt (reply to 3863): Invest it in bitconnect.
+#3902 2020-05-11T15:26:40 Jrk Bgrt (reply to 3901): Well spotted
+#3903 2020-05-11T15:26:51 Jrk Bgrt: Happy halving!
+#3905 2020-05-11T15:31:00 Jrk Bgrt: It'll high likely be worth more than it once the price was 5 btc. Next halving in 209999
+#3923 2020-05-11T16:31:25 Jrk Bgrt: Let's see what bitcoin is worth the next halving and who knows what you'll find after opening the 2nd door. The price is in half, but what does it mean 🤔.
+#4094 2020-05-20T18:54:11 Jrk Bgrt (reply to 4076): It is
+#4096 2020-05-20T19:36:55 Jrk Bgrt (reply to 1710): This one 👆.
+#4102 2020-05-20T22:40:46 Jrk Bgrt: answer is there
+#4105 2020-05-21T02:12:59 Jrk Bgrt: First or zero
+#4266 2020-05-23T08:29:12 Jrk Bgrt: Thanks @EwoutM, I fell asleep.
+#4272 2020-05-23T09:40:20 Jrk Bgrt: /goodbye off
+#4274 2020-05-23T09:40:29 Jrk Bgrt: /cleanwelcome on
+#4307 2020-05-23T15:51:51 Jrk Bgrt (reply to 3863): I have a purpose now. Buy a dosis of super covid-20 for every spammer.
+#4309 2020-05-23T15:53:42 Jrk Bgrt: Perfect
+#4310 2020-05-23T15:53:55 Jrk Bgrt: Make it very contagious please.
+#4314 2020-05-23T16:01:14 Jrk Bgrt: /lock audio bot button command contact document email emojigame forward game invitelink location phone poll rtl sticker url video videonote voice
+#4316 2020-05-23T16:01:44 Jrk Bgrt: 😇
+#4363 2020-05-24T22:17:02 Jrk Bgrt: I think a computer would beat me in the turing test.
+#4548 2020-06-30T19:29:05 Jrk Bgrt (reply to 4545): 👆
+#4589 2020-08-02T12:54:57 Jrk Bgrt: Or the same puzzle, or just not at all 🤷‍♀.
+#4590 2020-08-02T12:56:20 Jrk Bgrt: Really nobody managed to find the extra door, didn't expect that after the earlier pace of cracking things.
+#4597 2020-08-03T08:46:06 Jrk Bgrt: A few here know
+#4603 2020-08-03T11:17:43 Jrk Bgrt: It's ok, more chance for those that aren't running. We said we'd do this from the start, no need to feel bad about this.
+#4624 2020-08-09T06:38:27 Jrk Bgrt: a private key
+#4647 2020-08-10T12:50:52 Jrk Bgrt: Cracking ethereum requires billions of ether.
+#4688 2020-08-12T09:10:55 Jrk Bgrt: Indeed remarkable with the hints stating the path pretty obvious...
+#4693 2020-08-12T14:22:59 Jrk Bgrt: No hints
+#4694 2020-08-12T14:23:21 Jrk Bgrt: There's 1 club that passed but they are stuck in the next phase.
+#4696 2020-08-12T15:18:55 Jrk Bgrt: Correct
+#4771 2020-10-01T08:41:56 Jrk Bgrt: I've just been notified that number 2 has made it to the next stage.
+#4912 2020-10-27T04:58:39 Jrk Bgrt (reply to 4901): https://www.blockchain.com/btc/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe price is indeed still there.
+#5069 2020-11-24T13:02:48 Jrk Bgrt: We have our reasons halving the price money at every bitcoin halving event :-).
+#5071 2020-11-24T14:02:23 Jrk Bgrt: Who knows, maybe even in the same block.
+#5251 2020-12-26T06:54:18 Jrk Bgrt: Thanks
+#5365 2021-01-07T14:57:32 Jrk Bgrt: It'll be split on the next halving.
+#5368 2021-01-07T14:58:45 Jrk Bgrt: We mentioned this at the beginning, when the puzzle started.
+#5370 2021-01-07T14:59:38 Jrk Bgrt (reply to 5369): Depends on the contestants' puzzle skills.
+#5375 2021-01-07T16:58:17 Jrk Bgrt (reply to 5372): Tg channel
+#5672 2021-01-18T09:41:23 Jrk Bgrt (reply to 5668): I can solemnly promise you I'm not using any other accounts besides my own.
+#5677 2021-01-19T13:12:59 Jrk Bgrt: From now on no more begging for money in exchange for "hints". Doing so results in a ban. Measure in place due to many complaints.
+#5678 2021-01-19T13:14:14 Jrk Bgrt: This puzzle is supposed to be fun ✌️.
+#5684 2021-01-19T16:39:00 Jrk Bgrt: I'll offer free hints in PM. (After you've paid me 5.1 btc 🤡).
+#5685 2021-01-19T16:39:13 Jrk Bgrt: Good luck again.
+#5717 2021-01-21T06:35:49 Jrk Bgrt (reply to 5715): Not to give any hints but a few might not require the internet anymore.
+#5960 2021-03-01T06:33:17 Jrk Bgrt (reply to 5952): Ancient spelling 😅. One of the many many typos.
+#5966 2021-03-01T06:34:42 Jrk Bgrt: You are at the prime part already???
+#5969 2021-03-01T06:35:15 Jrk Bgrt: Oh wait, shouldn't have said that. That might have been a hint 🤔.
+#5982 2021-03-01T06:38:37 Jrk Bgrt: Rumour has it I'm an admin at least.
+#6025 2021-03-01T06:45:48 Jrk Bgrt [file AnimatedSticker.tgs]: 
+#6243 2021-03-05T08:14:28 Jrk Bgrt (reply to 6201): Those not enjoying the puzzle are the ones wasting time I guess 😅?
+#6250 2021-03-05T08:15:26 Jrk Bgrt: Infrared
+#6252 2021-03-05T08:15:45 Jrk Bgrt: No hints 🤡
+#6491 2021-03-14T01:58:08 Jrk Bgrt: Fyi. Another person (or team) made it to salph.
+#6495 2021-03-14T05:25:14 Jrk Bgrt (reply to 6493): Nope
+#6497 2021-03-14T05:45:01 Jrk Bgrt (reply to 6496): I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solved not too long after that. When people progress in salphation it might be cracked pretty soon. Breaking salphation, should be giving the feeling of the phase's name. Won't be easy but I've noticed how clever most of you are so I assume it will be cracked at some point, probably before next halving.
+#6509 2021-03-14T11:19:29 Jrk Bgrt (reply to 6508): I gave an unforseen hint already 🤷‍♂
+#6514 2021-03-15T03:16:26 Jrk Bgrt: Hush hush
+#6541 2021-03-19T07:07:55 Jrk Bgrt: If know about 3 people/teams.
+#6543 2021-03-19T07:19:59 Jrk Bgrt: 4*
+#6712 2021-03-22T12:53:39 Jrk Bgrt: Nr 5 in salph
+#6767 2021-03-24T18:19:43 Jrk Bgrt (reply to 6766): 🤣
+#6846 2021-03-27T09:37:10 Jrk Bgrt (reply to 6845): Maybe combine it with some psilocybe azurescens and mao inhibitors or go all  the way with some 5-MeO-DMT. 👀
+#6847 2021-03-27T09:39:51 Jrk Bgrt [file mp4.mp4]: 
+#6884 2021-04-01T02:57:38 Jrk Bgrt: Hint: "another door might be found on {1 },{4} ,{21}"
+#6895 2021-04-01T04:34:22 Jrk Bgrt (reply to 6891): Good one V ;-). (Assuming you played cyberpunk).
+#6913 2021-04-01T09:29:41 Jrk Bgrt: R=18 / A=1 / B=2 /  / Could also be 21 or 1812 bit 🧐. Sometimes I'm glad I don't have to solve this puzzle myself.
+#6944 2021-04-01T10:06:39 Jrk Bgrt (reply to 6943): 👆
+#7028 2021-04-02T16:18:22 Jrk Bgrt (reply to 7025): I haven't deleted it. Not sure who, but I noticed some more messages are deleted from time to time.
+#7060 2021-04-03T11:51:32 Jrk Bgrt (reply to 7057): Nobody knows
+#7061 2021-04-03T11:52:35 Jrk Bgrt: I've been pretending to be one of the few creators for a while now.
+#7152 2021-04-06T10:08:39 Jrk Bgrt: Some parts of cicada puzzles are still unsolved. Must be bad design.
+#7153 2021-04-06T10:09:36 Jrk Bgrt (reply to 7142): If it were just about having fun, that'd be great wouldn't it :-).
+#7224 2021-04-09T15:46:38 Jrk Bgrt (reply to 7223): ✅
+#7244 2021-04-10T13:49:28 Jrk Bgrt: Fyi, another person or team reached salph today.
+#7381 2021-04-16T07:14:33 Jrk Bgrt: Blame noted and accepted
+#7385 2021-04-16T07:20:09 Jrk Bgrt (reply to 7383): Deal, we'll take of 75% instead 😈.
+#7388 2021-04-16T07:21:12 Jrk Bgrt: https://www.bitcoinblockhalf.com/
+#7396 2021-04-16T07:33:32 Jrk Bgrt (reply to 7389): I don't care who shares what indeed, too much of a hassle. As long as people enjoy and that the best puzzler gets the price I'm ok with a lot.
+#7418 2021-04-16T08:08:24 Jrk Bgrt (reply to 7416): Good point
+#7520 2021-04-18T13:33:41 Jrk Bgrt (reply to 7517): I suspect he isn't
+#7529 2021-04-18T14:24:13 Jrk Bgrt (reply to 7528): Do you know what usually happens on the first of april?
+#7830 2021-08-10T16:51:12 Jrk Bgrt (reply to 7826): Technically we do 😁
+#7832 2021-08-11T06:55:52 Jrk Bgrt (reply to 7831): The one to be found by solving the puzzle yes
+#7834 2021-08-11T07:07:15 Jrk Bgrt: And the solver will find a way to 'decrypt' it.
+#7886 2021-09-23T19:38:41 Jrk Bgrt: https://blockchair.com/tools/halving-countdown
+#7889 2021-09-24T05:37:18 Jrk Bgrt (reply to 7888): This was alcohol talking last night. The topic puzzle came up, and couldn't resist posting it 😅.
+#7891 2021-09-24T06:01:15 Jrk Bgrt: That's not mine
+#7906 2021-10-31T07:08:49 Jrk Bgrt: 😅
+#7914 2021-12-02T22:41:18 Jrk Bgrt (reply to 7913): There is / Another / D / O / O / R
+#7915 2021-12-02T22:46:25 Jrk Bgrt (reply to 7892): Remind me when it's Christmas.
+#7998 2021-12-26T15:11:26 Jrk Bgrt: Oh well, why not. A mini mini hint. Ready 🐰?
+#8000 2021-12-26T15:18:32 Jrk Bgrt: The previous "there is another door hint" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! 🥂
+#8034 2021-12-30T19:39:11 Jrk Bgrt (reply to 8033): ...how did you found out?
+#8036 2021-12-30T19:42:43 Jrk Bgrt (reply to 8035): That leaves me positively speechless
+#8038 2021-12-30T19:45:53 Jrk Bgrt: Rumour has it, it is was done before dawn.
+#8040 2021-12-30T19:46:44 Jrk Bgrt: This was stated after drinking dozers stuff.
+#8042 2021-12-30T19:47:07 Jrk Bgrt (reply to 8039): 😁
+#8048 2021-12-31T12:14:55 Jrk Bgrt (reply to 8045): The only date I give away is the expiry date of neo's passport.
+#8140 2022-05-25T06:22:06 Jrk Bgrt [file animation.gif.mp4]: 
+#8142 2022-05-25T10:25:33 Jrk Bgrt: Looks like somebody found a gsmg subscription.
+#8189 2022-06-01T12:56:24 Jrk Bgrt: 👽
+#8288 2022-09-06T05:21:52 Jrk Bgrt [file animation.gif.mp4]: 
+#8301 2022-12-02T07:14:53 Jrk Bgrt: It is meant to be solved.
+#8307 2022-12-02T07:36:36 Jrk Bgrt: There might be a hint coming but not too soon.
+#8309 2022-12-02T17:45:40 Jrk Bgrt (reply to 8308): I'm not exactly sure how long it would take to discover that theory so I can't really tell 🤔.
+#8311 2022-12-11T10:30:38 Jrk Bgrt (reply to 8310): .... That is very specific
+#8315 2022-12-11T10:33:20 Jrk Bgrt: If the puzzle is solved you'll see how scary specific that is 😂
+#8328 2023-01-08T23:52:11 Jrk Bgrt: @barrystyle, provided a very specific hint already.
+#8330 2023-01-09T05:10:46 Jrk Bgrt: At least prime number is very important to get any further.
+#8339 2023-01-11T03:45:22 Jrk Bgrt (reply to 8333) [file who-wants-to-be-a-millionaire-wwtbam.mp4]: 
+#8340 2023-01-11T03:46:17 Jrk Bgrt: Mini apologies for this Jeremy gif, couldn't help myself.
+#8342 2023-01-11T19:23:03 Jrk Bgrt: Rumour has it a new hint is to be expected within 2 months from now.
+#8349 2023-01-12T06:02:00 Jrk Bgrt: We obviously did this to have a chance at ending up in the Guinness Book for creating the lamest puzzle ever.
+#8352 2023-01-12T06:07:00 Jrk Bgrt: I checked a certain GitHub yesterday, for whoever set that up, nicely done. You guys are really getting close.
+#8353 2023-01-12T06:08:02 Jrk Bgrt (reply to 8350): At least higher than sqrt(-1).
+#8354 2023-01-12T06:09:14 Jrk Bgrt: Focussing on the theory of everything is also still a valid path to reaching the private key.
+#8356 2023-01-12T06:10:54 Jrk Bgrt: An imaginary puzzle would.
+#8358 2023-01-12T06:13:36 Jrk Bgrt (reply to 8308) [file animation.gif.mp4]: 
+#8360 2023-01-12T06:15:46 Jrk Bgrt: Just be clear. My apologies for this puzzle not to be too easy. I'm aware it might appear unsolvable, but it's not. If you find the answer now, the remaining 2.5 btc is well deserved... Or 5, who knows.
+#8364 2023-01-12T11:05:16 Jrk Bgrt (reply to 8361): Every btc halving the price will half too.
+#8368 2023-01-12T12:47:07 Jrk Bgrt (reply to 8367): 👆
+#8385 2023-01-25T09:59:19 Jrk Bgrt: 42
+#8438 2023-02-02T09:47:18 Jrk Bgrt (reply to 8436): I'm staying out of this one 😅
+#8446 2023-02-23T18:20:03 Jrk Bgrt: 00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110
+#8472 2023-03-03T04:47:19 Jrk Bgrt: 🐰
+#8483 2023-04-07T22:53:03 Jrk Bgrt (reply to 8448): 👆🤷‍♂
+#8491 2023-04-14T13:41:07 Jrk Bgrt: It can be solved, albeit very difficult as you have to understand how to interpret all the hints. Currently we are not planning to release any new hints soon.
+#8512 2023-04-29T17:19:45 Jrk Bgrt: 😂
+#8516 2023-05-02T15:12:43 Jrk Bgrt (reply to 8515): Still remarkable that scene. Especially the expiration date of his passport 😁.
+#8518 2023-05-02T16:03:59 Jrk Bgrt: Hope..
+#8569 2023-06-10T02:39:07 Jrk Bgrt: Correct. / - / No. / - / Can't say anything about this.
+#8608 2023-06-12T08:31:49 Jrk Bgrt (reply to 8607): Physically, I assume not 😅.
+#8773 2023-08-03T15:50:23 Jrk Bgrt (reply to 8771): Ok ok ok ok. I can't hold this one any longer.
+#8774 2023-08-03T15:51:33 Jrk Bgrt: Are you really looking for just the btc...?
+#8779 2023-08-03T16:17:19 Jrk Bgrt (reply to 8776): Another one only 8 minutes after the last one?
+#8787 2023-08-03T16:28:20 Jrk Bgrt (reply to 8784): Might be. Wish I had said nothing though.
+#8790 2023-08-03T16:30:14 Jrk Bgrt (reply to 8788): Exactly, should have refrained from typing earlier maybe.
+#8792 2023-08-03T16:32:25 Jrk Bgrt [file confront-interrogate.mp4]: 
+#8793 2023-08-03T16:32:47 Jrk Bgrt [file what-if-i-told-you-what-if.mp4]: 
+#8795 2023-08-03T16:33:50 Jrk Bgrt (reply to 8791): I saw that you guys got really really far already.
+#8796 2023-08-03T16:34:24 Jrk Bgrt: Actually, the hardest part is done.
+#9047 2023-08-04T20:46:47 Jrk Bgrt (reply to 8988): "Globally supporting my generation"
+#9550 2023-08-06T06:42:15 Jrk Bgrt: This may sound at little dramatic but if I suddenly can't answer you guys anymore, it was nice knowing you all ❤️.
+#9551 2023-08-06T06:43:46 Jrk Bgrt: Oh, and be careful of what you get yourselves into. 🤐
+#9553 2023-08-06T06:44:27 Jrk Bgrt: I'll not explain why.
+#9554 2023-08-06T06:44:39 Jrk Bgrt: The puzzle talks for me.
+#9556 2023-08-06T06:45:26 Jrk Bgrt: And don't worry, I'll just be here in the meanwhile 😘.
+#9572 2023-08-06T06:55:01 Jrk Bgrt (reply to 9570): Not at all.
+#9577 2023-08-06T06:56:34 Jrk Bgrt (reply to 9575): You know if you know.
+#9586 2023-08-06T07:22:27 Jrk Bgrt: It wasn't cryptic enough before?
+#9592 2023-08-06T08:05:33 Jrk Bgrt (reply to 9588): I wish only for that the puzzle provided some exciting pieces of information. That others have learned something new and that for some it is simply entertaining. I hope that the person who connects the last pieces for the 'main price' will thus get its hands on the private key and hold or spend it wisely, but mostly enjoy it. And lastly, I hope to witness the day that the last scene of mr. Robot becomes a reality.
+#9593 2023-08-06T08:05:51 Jrk Bgrt (reply to 9591): In the eye of the beholder, for sure 😊.
+#9595 2023-08-06T08:09:27 Jrk Bgrt: Technically my friends and family can get to all my data if they'd work together. In that scenario, don't expect a halving of the price.
+#9597 2023-08-06T08:11:19 Jrk Bgrt: Hahaha good one. I thought of a 24h Killswitch, but nah. Can't be bothered :D! Instead.
+#9599 2023-08-06T08:12:13 Jrk Bgrt: Probably the last hint: /  / Once you hit a "ying yang", you'll be able to solve it the same day.
+#9601 2023-08-06T08:13:30 Jrk Bgrt (reply to 9598): Chance is small though. Merely an fyi, bit dramatic as stated earlier.
+#9603 2023-08-06T08:14:54 Jrk Bgrt: Both?
+#9607 2023-08-06T08:19:07 Jrk Bgrt (reply to 9605): No need. You have all the info.
+#9608 2023-08-06T08:19:16 Jrk Bgrt: Good to see you again btw.
+#9611 2023-08-06T08:20:13 Jrk Bgrt: No hints 🤡
+#9615 2023-08-06T08:21:07 Jrk Bgrt (reply to 9609): My hat off to you, and you know why 🫡.
+#9616 2023-08-06T08:21:37 Jrk Bgrt (reply to 9613): Only fair ones. And to everyone.
+#9621 2023-08-06T08:43:54 Jrk Bgrt (reply to 9616): To answer your question 'fully', from here on, high likely no hints anymore. But if somehow you all can't solve it from here in the next few years (which I deem unlikely given the state of the solving process), then I might feel the need to give an additional hint, as I couldn't happily live with the idea that some would think that this was a scam. Note, that I hope not to have to give another hint as it would probably be a give away. Good luck to you all!
+#9627 2023-08-06T08:49:59 Jrk Bgrt (reply to 9626): Something was solved rather... remarkable.
+#9629 2023-08-06T08:53:56 Jrk Bgrt: Partly.
+#9631 2023-08-06T08:56:02 Jrk Bgrt: I won't!
+#9632 2023-08-06T09:00:38 Jrk Bgrt: Ok, although I somehow feel the need to have my eyes at this chat all for sudden it's time for me to shut up again and see my little ones play in an obstacle parc here on France. Ciao!
+#9636 2023-08-06T13:23:44 Jrk Bgrt (reply to 9634): I have no clue.
+#9639 2023-08-06T14:39:34 Jrk Bgrt: Correct. Well, technically, you'll need the internet to claim the prize in the end 🤔.
+#9943 2023-08-11T01:52:53 Jrk Bgrt: Hi all, getting quite some DM's which is fine, just know that I'm traveling the next coming days ✌️!
+#9944 2023-08-11T01:53:25 Jrk Bgrt: And I usually answer with "no hints".
+#10423 2023-08-18T09:24:12 Jrk Bgrt (reply to 10398): 😳 how?
+#10424 2023-08-18T09:25:35 Jrk Bgrt: Hi all. I'm on holiday btw. I might not answer DMs.
+#11989 2023-08-23T15:43:21 Jrk Bgrt (reply to 11911): Note that I get quite some puzzle DMs. I've become used to just say 'no hints'.. (sorry for that).
+#12653 2023-08-29T14:06:07 Jrk Bgrt (reply to 12580): Correct
+#15513 2023-09-28T12:13:32 Jrk Bgrt (reply to 15510): I'm ok! ♥️
+#15515 2023-09-28T12:14:24 Jrk Bgrt: Sorry for not answering. I've just been trying not to live in my phone, as that has become a habit the last 20 years of my life.
+#15517 2023-09-28T12:16:21 Jrk Bgrt (reply to 15514): Still on holiday 😅. In the Caribbean currently. It's lovely here. I see some spam complaints, also sorry for that. Everyone ok besides that?
+#15520 2023-09-28T12:19:30 Jrk Bgrt: Thanks!!!
+#16547 2023-11-17T07:50:24 Jrk Bgrt: Hello there, are we all still having fun?
+#16549 2023-11-17T07:51:43 Jrk Bgrt: I received some DMs, I thought I'd say hi ✌️. I'm ok, apologies for not being here on a daily basis.
+#16624 2023-11-24T09:05:13 Jrk Bgrt: There's a question multiple people have asked me. "Given the available knowledge, is internet still required to solve it?" /  / Nope
+#17884 2023-12-26T12:13:51 Jrk Bgrt: Heeeeelllloooooooo
+#17885 2023-12-26T12:14:06 Jrk Bgrt: Happy Christmas all ❤️
+#17888 2023-12-26T12:15:02 Jrk Bgrt: Hahahaha that meme, love it
+#17889 2023-12-26T12:15:42 Jrk Bgrt: Any spammers I have to ban?
+#17891 2023-12-26T12:27:27 Jrk Bgrt: Have you tried the purple pill already?
+#17893 2023-12-26T12:28:12 Jrk Bgrt: Candy flipping into 2024 ;-)
+#20219 2024-01-26T12:13:57 Jrk Bgrt: ~2000 new messages, great. You all doing ok?
+#20223 2024-01-26T12:21:46 Jrk Bgrt (reply to 20221): Regular Bitcoin Private key
+#20224 2024-01-26T12:22:04 Jrk Bgrt (reply to 20222): 🤐
+#23116 2024-03-26T06:41:13 Jrk Bgrt: I'm not really here, just checking if you folks are still alive and kicking. ✌️
+#23120 2024-03-26T06:42:36 Jrk Bgrt: For all those DM'ing me, the answer to your question is probably NO or YES. I decided not to answer any puzzle questions anymore. If there will be a hint (ever). It will be here.
+#23121 2024-03-26T06:43:04 Jrk Bgrt (reply to 23119): IT'S OK, I FORGOT THAT IT'S CAPS TUESDAY.
+#23124 2024-03-26T06:46:40 Jrk Bgrt: Yeah, being lost is a common aspect of being on this planet I guess, or at least when tempering with rabbit holes.
+#23125 2024-03-26T06:47:53 Jrk Bgrt: Btw, for those with the heartwarming words. Many thanks ❤️.
+#23129 2024-03-26T06:49:08 Jrk Bgrt: Please understand that I get multiple of these questions on a daily basis..
+#23130 2024-03-26T06:50:02 Jrk Bgrt: There are investment institutions for this. Requesting money for a solid idea is not that difficult.
+#23133 2024-03-26T06:52:11 Jrk Bgrt: Yes. Some if you might soon be drinking it probably.
+#23134 2024-03-26T06:53:04 Jrk Bgrt (reply to 23132): Seems puzzlers are decent people ;-).
+#23136 2024-03-26T06:55:39 Jrk Bgrt (reply to 23135): Ask Claude-3 for the best approach maybe?
+#23138 2024-03-26T06:56:29 Jrk Bgrt: Understandable
+#23140 2024-03-26T06:57:09 Jrk Bgrt: Does it come close to Claude and gpt?
+#23151 2024-03-26T10:40:01 Jrk Bgrt (reply to 23148): Technically yes but Nope.
+#23152 2024-03-26T10:40:38 Jrk Bgrt: And hi, you're hallucinating. Is it the mescaline?
+#23154 2024-03-26T10:41:41 Jrk Bgrt: 😉
+#23159 2024-03-26T13:05:05 Jrk Bgrt (reply to 23155): I prefer superpositions 😉.
+#23163 2024-03-26T13:23:03 Jrk Bgrt (reply to 23161): You're doing fine.
+#23200 2024-03-27T12:41:56 Jrk Bgrt (reply to 23193): Sqaures and a rabbit?
+#24071 2024-04-10T14:21:30 Jrk Bgrt: 1357 blocks to go
+#24491 2024-04-17T07:02:00 Jrk Bgrt: I received some complaints about insulting behavior. /  / May it be obvious that it's not acceptable. /  / Please refrain from doing so, or I have to get the banhammer out of the drawer of either slap someone with a large trout. /  / Please be nice ❤️.
+#24492 2024-04-17T07:03:03 Jrk Bgrt: Happy countdown everyone ✌️!
+#24623 2024-04-19T20:08:44 Jrk Bgrt: Ha, we lost one 'puzzler'.
+#24624 2024-04-19T20:10:14 Jrk Bgrt: Seemed like a nice moment to get the ban hammer out of the drawer.
+#24626 2024-04-19T20:10:43 Jrk Bgrt: Happy halving everyone!
+#24627 2024-04-19T20:15:48 Jrk Bgrt: For those that still haven't solved the puzzle. There are few prizes to win besides the banter in this chat. A private key, some 'obscure' intel, or what I hope most of you have discovered by now, the most obvious reason to make sure you hold on to Bitcoin 😉.
+#24628 2024-04-19T20:15:54 Jrk Bgrt: ✌️
+#24638 2024-04-19T20:29:57 Jrk Bgrt: 16$ fee. Damn. /  / Well, anyway, see you in 4 years! Good luck you all.
+#24640 2024-04-19T20:31:10 Jrk Bgrt: Me? No. Don't know that guy.
+#24652 2024-04-19T21:34:10 Jrk Bgrt: I should.
+#24654 2024-04-19T21:35:15 Jrk Bgrt: Challenge accepted.
+#25758 2024-06-06T04:16:00 Jrk Bgrt: Crazy No hint Thursday, every Friday!
+#25767 2024-06-07T06:10:08 Jrk Bgrt: An active one.
+#26085 2024-07-11T15:29:17 Jrk Bgrt (reply to 26073): None planned.
+#26223 2024-07-31T20:26:53 Jrk Bgrt [file tumbleweed.mp4]: 
+#26490 2024-08-30T05:21:04 Jrk Bgrt (reply to 26489): It indeed set to private. I haven't opened tg for a while so I guess it wasn't from my side 🫤.
+#26875 2024-09-19T03:20:23 Jrk Bgrt: I simply liked Jacque's ideas a lot. I have techy friends building communities around that idea today; I haven't invested much time into it as I should myself. But in the coming years I move to a place where that becomes a possibility.
+#27882 2024-10-21T15:03:09 Jrk Bgrt (reply to 27602): I know a Matthew, and if he knows a Roberto, it's likely the same one and a very smart guy. 😉
+#27884 2024-10-21T15:03:34 Jrk Bgrt: Hi all! Everyone still happy?
+#27907 2024-10-21T15:06:58 Jrk Bgrt (reply to 27899): Nice! Chilling under artificial stars, clearing up disks.
+#32529 2024-11-29T04:56:10 Jrk Bgrt: In that case I'll show, as I don't have much talent.
+#32530 2024-11-29T04:56:39 Jrk Bgrt: Hello everyone, still having fun :-)?
+#32532 2024-11-29T04:57:24 Jrk Bgrt: I was told this group could use some moderation.
+#32535 2024-11-29T04:59:41 Jrk Bgrt: If wallet != empty, puzzle not solved. /  / (Most likely).
+#32537 2024-11-29T05:00:19 Jrk Bgrt (reply to 32534): That was indeed the plan.
+#32550 2024-11-29T05:10:40 Jrk Bgrt (reply to 32548) [file the-train.mp4]: 
+#32555 2024-11-29T05:13:16 Jrk Bgrt (reply to 32551): If at all, a very bad one. Not even worth the title of skid. Although, as you might have guessed, I've seen some 'security' places 'protecting' our digital realms.
+#32557 2024-11-29T05:15:17 Jrk Bgrt: Haven't interacted with a terminal in a while. "But what can you do without a cpu?", touch grass it is.
+#32560 2024-11-29T05:17:21 Jrk Bgrt (reply to 32556): Hint? Hint? Heh, what craziness are you talking about? There is no hint.
+#32561 2024-11-29T05:17:37 Jrk Bgrt [file matrix-merowinger-aktion-reaktion.mp4]: 
+#32570 2024-11-29T05:20:59 Jrk Bgrt (reply to 32568): 🤐
+#32579 2024-11-29T05:28:47 Jrk Bgrt: At this point, I don't know what to hint, without ruining it for those that might find it. If you guys got 1 microstep further, the puzzle will likely be solved the same day. /  / I could come up with some empty cryptic bs hint, but that would be lame too. /  / And in the end, good puzzles don't need hints, hence this puzzle appears to be a tiny bit shitty sometimes.
+#32580 2024-11-29T05:29:20 Jrk Bgrt: No clue Friday. / Every Saturday.
+#32590 2024-11-29T05:39:33 Jrk Bgrt: Oh, and before I forget, apologies for not answering any DMs, don't take it personal. /  / I mainly got tired of answering with either 'no hints', or listening to sad stories about family, or kids with severe health problems, hoping to obtain a hint, all day every day.
+#32597 2024-11-29T05:42:55 Jrk Bgrt: I saw that @qv8du3ne8s9 😂
+#32613 2024-11-29T05:47:19 Jrk Bgrt (reply to 32600): I think I'll be going for ASCII 127 myself. But not overly dramatic.
+#32640 2024-11-29T05:57:33 Jrk Bgrt (reply to 32617): I think I'm fine - gladly I don't feel that weird anxiety anymore. However, I do expect that in about 18 years my government might have to notify me that I've been 'under investigation' for a while. But don't worry about me; me, family and friends are doing great!
+#32644 2024-11-29T05:58:58 Jrk Bgrt (reply to 32627): This is so true. I must say, with that in mind, it makes typing any message here a bit more challenging.
+#32647 2024-11-29T06:00:25 Jrk Bgrt: Admins
+#32659 2024-11-29T06:02:00 Jrk Bgrt: Happiness.
+#32671 2024-11-29T06:06:24 Jrk Bgrt (reply to 32666): You only need the last number of pi and it might get you somewhere.
+#32687 2024-11-29T06:13:47 Jrk Bgrt: I already have gray hair unfortunately.
+#32690 2024-11-29T06:15:34 Jrk Bgrt: Maybe Bryan Johnson has an answer for my hair.
+#32695 2024-11-29T06:20:19 Jrk Bgrt (reply to 32686): Pimeyes leads me to a festival thingy in the Netherlands. Is this a puzzle?
+#32699 2024-11-29T06:23:12 Jrk Bgrt (reply to 32696): Not sure why but I suppose it doesn't affect the puzzle.
+#32701 2024-11-29T06:25:31 Jrk Bgrt: Could be, it has been years and we had a few FE guys working on it.
+#32705 2024-11-29T06:28:41 Jrk Bgrt: Yeah, what can I say? In a way, it's a pretty smart by mr Sailor, and Bitcoin is built to withstand this shenanigans anyway.
+#32707 2024-11-29T06:29:55 Jrk Bgrt: Yeah NAD is great.
+#32711 2024-11-29T06:30:33 Jrk Bgrt: I only take ~80 supplements daily, nothing crazy 😅.
+#32715 2024-11-29T06:32:02 Jrk Bgrt: Blueprint is sort of the leading list at this point.
+#32719 2024-11-29T06:34:04 Jrk Bgrt: I mean, if you guys don't solve it anytime soon I'll have to try and stay alive till the year 2145.
+#32724 2024-11-29T06:37:27 Jrk Bgrt: I explain them a lot but I don't want them to know about BTC yet, having this unhealthy fear for btc kidnapping.
+#32728 2024-11-29T06:39:50 Jrk Bgrt (reply to 32726): Enjoying life, mostly 😉.
+#32741 2024-11-29T06:47:44 Jrk Bgrt (reply to 32730): Yeah, heard this argument before. Haven't used it myself for years. Bryan is a bit.. extreme, and his team of doctors probably concluded that it's good for him. Also, there aren't many studies that have concluded that long term low dose usage would do any damage. /  / In the end there's no perfect static setup, as we're all a bit different.
+#32748 2024-11-29T06:51:05 Jrk Bgrt (reply to 32735): Another doctor in my room states that these are indeed the typical puzzle doctors 😉.
+#32755 2024-11-29T06:54:17 Jrk Bgrt (reply to 32752): Already better than many doctors... especially for discovering very unlikely cases.
+#32767 2024-11-29T07:03:37 Jrk Bgrt: I'd quit that if you want quality sleep. I used it so much, my body can't deal with it anymore. After a week or 2 you'll start dreaming again.
+#32770 2024-11-29T07:05:46 Jrk Bgrt: Ah sorry, I missed that. I used a gram daily, for years. 😅
+#32772 2024-11-29T07:06:39 Jrk Bgrt (reply to 32763): 🫡
+#32773 2024-11-29T07:13:43 Jrk Bgrt: Ok, I'm off people 👻. Be good, stay healthy, stack sats and enjoy life.  /  / Ciao! /  / And good luck Admins! (And many thanks in advance, please be fair 😉).
+#39192 2025-04-28T12:45:31 Jrk Bgrt [file forrest-gump-wave.mp4]: 
+#39194 2025-04-28T12:45:47 Jrk Bgrt: You people are still having fun I see.
+#39200 2025-04-28T12:48:07 Jrk Bgrt: Ah, no hints? Ok, that's also fine.
+#39206 2025-04-28T12:51:05 Jrk Bgrt: I have to say, that touching grass thingy is pretty nice.
+#39208 2025-04-28T12:52:50 Jrk Bgrt (reply to 39205): Yeah, tricky question. You can try to time it (I stopped doing that), but if you understand the puzzle you'll discover that I'd suggest btc only, and don't gamble.
+#39217 2025-04-28T12:55:14 Jrk Bgrt: I was hinted when eth was 2$. Saw the "DAO" unfold live in front of my eyes with 8000 holders on slack; was allowed to double my eth with all the left over etc, and then swap it to btc. Good old times.
+#39219 2025-04-28T12:56:14 Jrk Bgrt: If I'd ever take the funds (I won't), I wouldn't even tell the answer 😈.
+#39224 2025-04-28T12:57:17 Jrk Bgrt: Did anyone found yingyang? I don't think so, you guys are so smart, when yingyang is reached, 2 hours max.
+#39229 2025-04-28T12:58:50 Jrk Bgrt: Im with alcohol, dont blame me for more typos.
+#39232 2025-04-28T12:59:29 Jrk Bgrt: Alcohol, and answering this chat go hand in hand somehow.
+#39234 2025-04-28T13:00:26 Jrk Bgrt (reply to 39221): Que?
+#39237 2025-04-28T13:01:36 Jrk Bgrt (reply to 39233): It’s the next phase, but I await the day someone finally gets there.
+#39241 2025-04-28T13:02:46 Jrk Bgrt: Ok, the "better half" is hungry. Which means I'm off 🤗
+#49172 2025-09-15T22:20:54 Jrk Bgrt [file happy-carrot.mp4]: 
+#49175 2025-09-15T22:24:36 Jrk Bgrt: Yes
+#49176 2025-09-15T22:24:52 Jrk Bgrt: Carrots were originally purple, until the Dutch turned them orange in the 1600s to kiss up to their royal family.
+#53335 2025-12-31T22:15:02 Jrk Bgrt: .
+#53336 2025-12-31T22:16:15 Jrk Bgrt: ..
+#53338 2025-12-31T22:17:05 Jrk Bgrt: ...
+#53339 2025-12-31T22:18:07 Jrk Bgrt: ....
+#53341 2025-12-31T22:19:05 Jrk Bgrt: .....
+#53342 2025-12-31T22:20:03 Jrk Bgrt: 01001000 01100001 01110000 01110000 01111001 00100000 01101110 01100101 01110111 00100000 01111001 01100101 01100001 01110010 00100001 00100000 01001101 01100001 01101011 01100101 00100000 01110100 01101000 01100101 00100000 01100010 01100101 01110011 01110100 00100000 01101111 01100110 00100000 01100101 01110110 01100101 01110010 01111001 01110100 01101000 01101001 01101110 01100111 00101110 00100000 01001111 01101000 00101100 00100000 01100001 01101110 01100100 00100000 01101000 01100101 01110010 01100101 00100111 01110011 00100000 01100001 00100000 00100010 01110100 01101001 01101110 01111001 00100000 01101000 01101001 01101110 01110100 00100010 00100000 00111100 00110011 00101110
+#60285 2026-03-03T20:11:55 Jrk Bgrt (reply to 60282): 👆🫡
+#60286 2026-03-03T20:12:28 Jrk Bgrt: Hi all 👋🏻
+#60289 2026-03-03T20:17:02 Jrk Bgrt: No hints , only free will. One of the few things I somehow strugle to fully accept albeit that science is currently not on the deterministic side if I'm not mistaken.
+#60292 2026-03-03T20:18:06 Jrk Bgrt: Everyone still having fun?
+#60298 2026-03-03T20:19:39 Jrk Bgrt: Jacque was quite an inspiring lad I'd say.
+#60302 2026-03-03T20:21:38 Jrk Bgrt: It's kinda of a pvp zone here. Sort of a rust server with both nice and toxic units.
+#60306 2026-03-03T20:22:42 Jrk Bgrt: Maybe, Cartman's quote about chatroulette fits too.
+#60307 2026-03-03T20:23:27 Jrk Bgrt (reply to 60300): 🤐
+#60309 2026-03-03T20:27:00 Jrk Bgrt (reply to 60308): Looks at gnomad. 👀
+#60312 2026-03-03T20:29:05 Jrk Bgrt: Bingo
+#60314 2026-03-03T20:30:47 Jrk Bgrt: I only need to look at the address. If any of you reaches the next phase, the price is taken in no-time.
+#60316 2026-03-03T20:31:09 Jrk Bgrt: 🤷‍♂️
+#60318 2026-03-03T20:32:01 Jrk Bgrt: I suppose that could get you far in real life.
+#60322 2026-03-03T20:33:52 Jrk Bgrt: Before I forget. For those who DM me, my apologies for not answering - or only rarely. Nothing personal ❤️.
+#60324 2026-03-03T20:35:22 Jrk Bgrt: I'm going to rewatch episode 3.5 with  the better half.
+#60326 2026-03-03T20:36:04 Jrk Bgrt (reply to 60323): Nope. You're not the first to ask.
+#60327 2026-03-03T20:37:14 Jrk Bgrt: Cheers all, good luck again 👋🏻!
+#63957 2026-05-28T07:41:02 Jrk Bgrt (reply to 63942): Ah, ofcourse. The puzzle is still valid!
+#63966 2026-05-28T09:34:18 Jrk Bgrt (reply to 63959): 🫡🥳
+#66540 2026-07-12T20:17:04 Jrk Bgrt: I just dawned on me; what if one day, some of you finally finds it... and doesn't explain it publicly, while I've already passed away. How do I have to turn myself around in my grave 🤔...
+#66542 2026-07-12T20:21:05 Jrk Bgrt: Another thing. In 2029, all btc on old addresses might be cracked (cmiiw).
+#66543 2026-07-12T20:21:43 Jrk Bgrt: Whats your view on that?
+#66549 2026-07-12T20:26:42 Jrk Bgrt: I might me drunk, or worse, I dont even know what rhetorical is at this point.
+#66551 2026-07-12T20:27:09 Jrk Bgrt: Hell yes
+#66555 2026-07-12T20:30:03 Jrk Bgrt: Anyway, if bip360 is going to be a thing. I have to come up with something.
+#66559 2026-07-12T20:34:41 Jrk Bgrt (reply to 66557): Well this nearly perfectly phrases it. Yes, I was busy with gsmg and quite obviously linked it too it, but I was in a crazy mood and honestly I still don't know how I got this weird idea to make a puzzle. The rickroll effect inspired me to make an actual puzzle, just to see if I could. It wasn’t a PR stunt until I realized it after I published it. The others didnt fully understand/agree for what I remember.
+#66560 2026-07-12T20:35:20 Jrk Bgrt (reply to 66554): Yeah, fire away.
+#66561 2026-07-12T20:37:00 Jrk Bgrt: I have these moment where I get into a frenzy and zone in with 800%. A day later I can hardly understand what I have done 🫤. And that is not a joke.
+#66564 2026-07-12T20:45:53 Jrk Bgrt: I don't know right now.
+#66568 2026-07-12T20:47:16 Jrk Bgrt: Most of you know the puzzle WAAAY better than me at this point. I have a hidden laptop which I haven't touched in years. On that thing... is the actual answer....
+#66571 2026-07-12T20:49:19 Jrk Bgrt: Some of you, can find me. Quite a few in this chat, already met me.
+#66573 2026-07-12T20:51:37 Jrk Bgrt: My close friends have the best chance of solving it (a few tried). But they don't have the skills some of you do.
+#66574 2026-07-12T20:51:59 Jrk Bgrt: NOTE: that is a hint.
+#66576 2026-07-12T20:52:24 Jrk Bgrt: Hi
+#66578 2026-07-12T20:52:58 Jrk Bgrt: 💯
+#66581 2026-07-12T20:53:46 Jrk Bgrt: Beer, red wine and champagne.
+#66582 2026-07-12T20:54:16 Jrk Bgrt: It kills braincells.
+#66584 2026-07-12T20:55:29 Jrk Bgrt: Welcome. I feel it a bit off knowing the url (and thus the original puzzle) is "gone".
+#66586 2026-07-12T20:56:04 Jrk Bgrt: Nope.
+#66588 2026-07-12T21:01:05 Jrk Bgrt: Yes
+#66589 2026-07-12T21:03:51 Jrk Bgrt: And IIFF I'm somehow still wrong, which I'm most likely not as I've verified many times back then after some sad rushed mistakes, it's all still solvable with a few stable qubits.
+#66590 2026-07-12T21:04:38 Jrk Bgrt: But... Bip360 anyone. Thoughts?
+#66592 2026-07-12T21:08:52 Jrk Bgrt (reply to 66556): Oh... and before I fall asleep. I want to assume it is quite clear I held quite a secret in my head which I seriously wanted to share with the planet... for those who can understand what I meant...
+#66593 2026-07-12T21:10:37 Jrk Bgrt: The "5" btc was never the actual prize. That was only a tiny fraction.
+#66595 2026-07-12T21:11:31 Jrk Bgrt: (And yes, the btc is still available before you fire any questions).
+#66596 2026-07-12T21:12:48 Jrk Bgrt (reply to 66594): A nation state will at some point hack the currently lost coins, and then keep OR sell it.
+#66600 2026-07-12T21:17:49 Jrk Bgrt (reply to 66599): Some already found it. And understood not to risk it... 🤐
+#66604 2026-07-12T21:20:51 Jrk Bgrt: Iykyk
+#66606 2026-07-12T21:22:37 Jrk Bgrt (reply to 66605): Thanks, already nearly sober again. It's only alcohol, not lsd or ayahuasca with mao-inhibitors.
+#66609 2026-07-12T21:29:54 Jrk Bgrt: Going dark again. Might be in a specific Ibiza club the 15th. HI, ciao and cheers you all ❤️!
+#66884 2026-07-16T18:06:17 Jrk Bgrt (reply to 66699): Where were you?
+#66889 2026-07-16T18:08:35 Jrk Bgrt: Hello
+#66891 2026-07-16T18:09:35 Jrk Bgrt: I saw people were waiting for drunk me.
+#66893 2026-07-16T18:10:17 Jrk Bgrt: Hmm. Meta hunting. Like it.
+#66898 2026-07-16T18:12:02 Jrk Bgrt: Had my eyes closed, but still saw double.
+#66903 2026-07-16T18:19:17 Jrk Bgrt (reply to 66901): Well, it's hidden in a room with a hidden door.
+#66904 2026-07-16T18:20:06 Jrk Bgrt (reply to 66899): Nah, I'm quite practiced.
+#66906 2026-07-16T18:21:40 Jrk Bgrt: I should ask AI in this state.
+#66909 2026-07-16T18:25:32 Jrk Bgrt: Imagine a piggy bank that only opens with a super-secret password. Right now, most piggy banks show a little part of the lock on the outside, and a future quantum computer could steal that part and crack it. / BIP 360 is a new kind of piggy bank: it hides the whole lock inside. You only see a 32-byte hash, no key visible at all. When you want to open it, you prove you know a secret path inside that hash. Safer against future quantum hackers.
+#66910 2026-07-16T18:26:05 Jrk Bgrt: AI knows how to explain it to my level.
+#66912 2026-07-16T18:26:27 Jrk Bgrt (reply to 66908): 🤫
+#66913 2026-07-16T18:26:44 Jrk Bgrt (reply to 66911): ELI4.5 is meta.
+#66931 2026-07-16T18:32:30 Jrk Bgrt (reply to 66917): You have to be in your prime for that.
+#66935 2026-07-16T18:33:29 Jrk Bgrt (reply to 66918): Quantum computers AND AI, both not being sure what to answer.
+#66938 2026-07-16T18:36:07 Jrk Bgrt (reply to 66907): Well. I've been doing this life enjoying project for a while. Quite ego-centric. But in a matrix cypher kinda way I like it.
+#66940 2026-07-16T18:36:59 Jrk Bgrt: Nah, ketamine is immune to me by now.
+#66944 2026-07-16T18:39:07 Jrk Bgrt: I think I do have the answer to an nearly optimal drug setup... in case anyone here would be interested.
+#66948 2026-07-16T18:40:39 Jrk Bgrt: Brb 🤖
+#66951 2026-07-16T18:44:11 Jrk Bgrt: Around for so long, never heard of it. Thanks.
+#66961 2026-07-16T18:50:15 Jrk Bgrt: Give yourself yourself and yourself will be given yourself.
+#66962 2026-07-16T18:51:10 Jrk Bgrt (reply to 66958): Latetly, I'm working with many NOTES.
+#66964 2026-07-16T18:52:37 Jrk Bgrt (reply to 66955) [photo]: Nice
+#66969 2026-07-16T18:54:07 Jrk Bgrt: What about 70mq lsd, 100 mg mdma and bit of ket on the end?
+#66976 2026-07-16T18:56:18 Jrk Bgrt: And in Dutch its called "geestveruimend". Implying those who dont take drugs are... simpleminded...
+#70307 2026-09-01T07:49:57 Jrk Bgrt: Pfff. Coincidence.
+#70309 2026-09-01T07:57:32 Jrk Bgrt: To you, and all those that have send me kind words for the monstrosity I decided to build a few years ago. Thanks ❤️.
+#70311 2026-09-01T08:01:50 Jrk Bgrt: A. I rushed (t)it. / B. Yes, have quite some time for stupid stuff.
+#70317 2026-09-01T08:17:44 Jrk Bgrt (reply to 70314): 👆
+#70322 2026-09-01T08:27:03 Jrk Bgrt: Fairly sober ;-)
+#70325 2026-09-01T08:32:41 Jrk Bgrt: 🤐
+#70327 2026-09-01T08:33:19 Jrk Bgrt (reply to 70319): Always a joy
+#70334 2026-09-01T08:40:27 Jrk Bgrt: Enjoying life
+#70336 2026-09-01T08:40:54 Jrk Bgrt: Couple hours, and no.
+#70377 2026-09-01T11:41:20 Jrk Bgrt (reply to 70373): Same same

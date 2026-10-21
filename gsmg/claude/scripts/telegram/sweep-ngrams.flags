@@ -1,0 +1,12 @@
+# ngrams: candidates 3501970 decrypts 112063040 valid 439440 expected 437746; controls 1/1
+('salshort', 'raw', 'sha256', 3, ['pad3'], '4g', b'the one if after')
+('cosmic', 'hexhex', 'sha256', 1, ['magic'], '3g', b'simple way of')
+('terminal', 'hexhex', 'sha256', 3, ['pad3'], '4g', b'entropythecompletionof')
+('cosmic', 'sha', 'sha256', 1, ['distinct'], '3g', b'thatmuchinformation')
+('salshort', 'hexhex', 'sha256', 1, ['magic'], '4g', b'if you want extra')
+('cosmic', 'dbl', 'sha256', 1, ['magic'], '4g', b'or that key is')
+('salshort', 'hexhex', 'md5', 3, ['pad3'], '4g', b'have lots of alts')
+('salshort', 'sha', 'md5', 3, ['pad3'], '4g', b'monthsisextremelyeasy')
+('cosmic', 'hexhex', 'sha256', 3, ['pad3'], '2g', b'mirror structures')
+('terminal', 'hexhex', 'md5', 3, ['pad3'], '2g', b'irrelevant xd')
+('salshort', 'hexhex', 'sha256', 3, ['pad3'], '2g', b'crackWPA256')

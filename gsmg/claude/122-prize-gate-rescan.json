@@ -1,0 +1,294 @@
+{
+ "backend": "coincurve",
+ "binary_files": 0,
+ "bytes_scanned": 34247819,
+ "candidates_by_kind": {
+  "b64": 25,
+  "b64blob/hex64": 4,
+  "b64blob/raw32": 7815,
+  "dec": 17,
+  "derived_sha256": 56,
+  "derived_sha256_stripped": 56,
+  "hex64": 18796,
+  "mini": 2,
+  "wif_compressed": 8,
+  "wif_uncompressed": 8
+ },
+ "candidates_per_file": {
+  "GSMG-PUZZLE-DOSSIER.md": {
+   "b64blob/raw32": 1959,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 133
+  },
+  "by-year/2019.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "by-year/2020.json": {
+   "b64": 3,
+   "b64blob/raw32": 20,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 62,
+   "wif_uncompressed": 1
+  },
+  "by-year/2021.json": {
+   "b64": 2,
+   "b64blob/raw32": 38,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2,
+   "wif_uncompressed": 1
+  },
+  "by-year/2022.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "by-year/2023.json": {
+   "b64": 1,
+   "b64blob/raw32": 852,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2664,
+   "wif_uncompressed": 1
+  },
+  "by-year/2024.json": {
+   "b64": 2,
+   "b64blob/raw32": 403,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 5369,
+   "wif_compressed": 2,
+   "wif_uncompressed": 1
+  },
+  "by-year/2025.json": {
+   "b64": 6,
+   "b64blob/hex64": 4,
+   "b64blob/raw32": 2482,
+   "dec": 2,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 5592,
+   "mini": 2,
+   "wif_compressed": 6,
+   "wif_uncompressed": 4
+  },
+  "by-year/2026.json": {
+   "b64": 11,
+   "b64blob/raw32": 2038,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 4400
+  },
+  "claude/115-poster-reinventoried-as-prime-operand.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/116-creator-messages.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/116-telegram-export-inventory.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/117-telegram-export-mined.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/118-contrarian-pass.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/119-pbkdf2-profile.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/120-cipher-and-corruption.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/121-three-cheapest.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/.gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/controls.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/gapwalk.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/gonly.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/gperiod.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/harness.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/lists.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/lists_spiral.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/poster_audit.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/prep.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/prun.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/qrread.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/run_lists.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/run_pointers.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/115/screen_lists.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/118/faed_pieces.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/119/.gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/119/pbkdf2-A.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/119/pbkdf2-B.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/119/pbkdf2_sweep.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/120/.gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/120/cipher-sweep.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/120/cipher_sweep.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/120/corrupt-test.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/120/corrupt_test.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/121/.gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/121/pieces_and_pairs.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/opret.tsv": {
+   "b64blob/raw32": 23,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 574
+  },
+  "claude/scripts/telegram/sweep-cjoins.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/sweep-keyish.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/sweep-lines.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/sweep-ngrams.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/sweep-opret.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/sweep-pairs.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/sweep-tokens.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/sweep.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/sweep_extra.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/scripts/telegram/tg.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/prize_gate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  }
+ },
+ "files_scanned": 57,
+ "hits": [],
+ "media_or_archive_skipped_by_extension": {},
+ "other_skips": [],
+ "prize_gate_sha256": "9dfa1d2fb4769d57997fc9b438f1bb566ddd7b604bdefd7cd745745ff14594b3",
+ "prize_gate_version": "1.0.1",
+ "seconds": 4.5,
+ "selftest": "PASS",
+ "targets": {
+  "better_half": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "half": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe"
+ },
+ "unique_scalars_gated": 26787
+}
