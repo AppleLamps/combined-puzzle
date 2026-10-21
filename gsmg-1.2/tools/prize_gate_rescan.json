@@ -1,0 +1,123 @@
+{
+ "backend": "coincurve",
+ "binary_files": 0,
+ "bytes_scanned": 33390015,
+ "candidates_by_kind": {
+  "b64": 26,
+  "b64blob/hex64": 4,
+  "b64blob/raw32": 9675,
+  "dec": 16,
+  "derived_sha256": 13,
+  "derived_sha256_stripped": 12,
+  "hex64": 18223,
+  "mini": 2,
+  "wif_compressed": 8,
+  "wif_uncompressed": 8
+ },
+ "candidates_per_file": {
+  "GSMG-PUZZLE-DOSSIER.md": {
+   "b64blob/raw32": 1959,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 134
+  },
+  "gsmg-group-telegram-by-year/2019.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "gsmg-group-telegram-by-year/2020.json": {
+   "b64": 3,
+   "b64blob/raw32": 20,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 62,
+   "wif_uncompressed": 1
+  },
+  "gsmg-group-telegram-by-year/2021.json": {
+   "b64": 2,
+   "b64blob/raw32": 38,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2,
+   "wif_uncompressed": 1
+  },
+  "gsmg-group-telegram-by-year/2022.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "gsmg-group-telegram-by-year/2023.json": {
+   "b64": 1,
+   "b64blob/raw32": 852,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2664,
+   "wif_uncompressed": 1
+  },
+  "gsmg-group-telegram-by-year/2024.json": {
+   "b64": 2,
+   "b64blob/raw32": 403,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 5369,
+   "wif_compressed": 2,
+   "wif_uncompressed": 1
+  },
+  "gsmg-group-telegram-by-year/2025.json": {
+   "b64": 6,
+   "b64blob/hex64": 4,
+   "b64blob/raw32": 2482,
+   "dec": 2,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 5592,
+   "mini": 2,
+   "wif_compressed": 6,
+   "wif_uncompressed": 4
+  },
+  "gsmg-group-telegram-by-year/2026.json": {
+   "b64": 11,
+   "b64blob/raw32": 2038,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 4400
+  },
+  "source/pages/phase2_choice.html": {
+   "b64": 1,
+   "b64blob/raw32": 1649,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "source/pages/salphaseion_phase3.html": {
+   "b64blob/raw32": 234,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "source/pages/theseedisplanted.html": {
+   "derived_sha256": 1
+  },
+  "tools/prize_gate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  }
+ },
+ "files_scanned": 13,
+ "hits": [],
+ "media_or_archive_skipped_by_extension": {
+  ".png": 10
+ },
+ "other_skips": [],
+ "prize_gate_sha256": "9dfa1d2fb4769d57997fc9b438f1bb566ddd7b604bdefd7cd745745ff14594b3",
+ "prize_gate_version": "1.0.1",
+ "seconds": 4.6,
+ "selftest": "PASS",
+ "targets": {
+  "better_half": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "half": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe"
+ },
+ "unique_scalars_gated": 27987
+}

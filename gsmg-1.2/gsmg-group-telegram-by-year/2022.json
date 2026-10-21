@@ -1,0 +1,3725 @@
+{
+ "name": "GSMG Puzzle Solvers",
+ "type": "private_supergroup",
+ "id": 1166734859,
+ "messages": [
+  {
+   "id": 8051,
+   "type": "message",
+   "date": "2022-01-03T20:57:52",
+   "date_unixtime": "1641261472",
+   "from": "SlobaDoba",
+   "from_id": "user1483942636",
+   "text": "Happy New Year",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Happy New Year"
+    }
+   ]
+  },
+  {
+   "id": 8053,
+   "type": "service",
+   "date": "2022-01-05T05:25:10",
+   "date_unixtime": "1641378310",
+   "actor": "PK",
+   "actor_id": "user5066314350",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8054,
+   "type": "service",
+   "date": "2022-01-05T09:55:40",
+   "date_unixtime": "1641394540",
+   "actor": "Sergio Marquina",
+   "actor_id": "user5039775737",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8055,
+   "type": "message",
+   "date": "2022-01-12T16:27:30",
+   "date_unixtime": "1642022850",
+   "from": "Legik",
+   "from_id": "user646609236",
+   "reply_to_message_id": 8052,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.blockseek.io/qbc/address/3AqPLgGvzTokcNYcabf97RbQDqmRCehPB2"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.blockseek.io/qbc/address/3AqPLgGvzTokcNYcabf97RbQDqmRCehPB2"
+    }
+   ]
+  },
+  {
+   "id": 8056,
+   "type": "message",
+   "date": "2022-01-16T12:58:11",
+   "date_unixtime": "1642355891",
+   "from": "Zil",
+   "from_id": "user980067088",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 202818,
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8057,
+   "type": "message",
+   "date": "2022-01-16T12:58:19",
+   "date_unixtime": "1642355899",
+   "from": "Zil",
+   "from_id": "user980067088",
+   "text": "I'm very close to solving..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm very close to solving.."
+    }
+   ]
+  },
+  {
+   "id": 8058,
+   "type": "message",
+   "date": "2022-01-16T13:30:54",
+   "date_unixtime": "1642357854",
+   "from": "Detective Froz",
+   "from_id": "user231061724",
+   "text": "Is this paper towel or XXL toilet paper 🧻 for big guys?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is this paper towel or XXL toilet paper 🧻 for big guys?"
+    }
+   ]
+  },
+  {
+   "id": 8059,
+   "type": "message",
+   "date": "2022-01-16T14:15:46",
+   "date_unixtime": "1642360546",
+   "edited": "2024-01-20T04:37:14",
+   "edited_unixtime": "1705743434",
+   "from": "Zil",
+   "from_id": "user980067088",
+   "text": "Paper towel a.k.a paper wallet 😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Paper towel a.k.a paper wallet 😅"
+    }
+   ]
+  },
+  {
+   "id": 8060,
+   "type": "message",
+   "date": "2022-01-19T19:29:26",
+   "date_unixtime": "1642638566",
+   "from": "Org0",
+   "from_id": "user340325111",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 63178,
+   "width": 740,
+   "height": 742,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8061,
+   "type": "message",
+   "date": "2022-02-03T13:22:36",
+   "date_unixtime": "1643912556",
+   "from": "0xColombo",
+   "from_id": "user274980096",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@SoWut"
+    },
+    " hello! Please give us additional hint for SalPhaseIon 🥰"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@SoWut"
+    },
+    {
+     "type": "plain",
+     "text": " hello! Please give us additional hint for SalPhaseIon 🥰"
+    }
+   ]
+  },
+  {
+   "id": 8063,
+   "type": "message",
+   "date": "2022-02-17T15:03:55",
+   "date_unixtime": "1645128235",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "to accure peace noble and extreme amount of money you can do this:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "to accure peace noble and extreme amount of money you can do this:"
+    }
+   ]
+  },
+  {
+   "id": 8064,
+   "type": "message",
+   "date": "2022-02-17T15:07:39",
+   "date_unixtime": "1645128459",
+   "edited": "2022-02-17T15:11:49",
+   "edited_unixtime": "1645128709",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "1- using hash algo, look up where ever you seen the emoji lookup\n2- string to be hash is my message and few other user.\n3- seed is the important part, you need to try default value and other pass, name or ...  used in puzzle.\n4- send half the money you get this way with a pv key in my direct and i will get you the final piece.\ni am tired.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "1- using hash algo, look up where ever you seen the emoji lookup\n2- string to be hash is my message and few other user.\n3- seed is the important part, you need to try default value and other pass, name or ...  used in puzzle.\n4- send half the money you get this way with a pv key in my direct and i will get you the final piece.\ni am tired."
+    }
+   ]
+  },
+  {
+   "id": 8065,
+   "type": "service",
+   "date": "2022-03-01T12:56:23",
+   "date_unixtime": "1646157383",
+   "actor": "Onyx",
+   "actor_id": "user1189949922",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8066,
+   "type": "service",
+   "date": "2022-03-17T22:41:50",
+   "date_unixtime": "1647571310",
+   "actor": null,
+   "actor_id": "user1237861496",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8067,
+   "type": "message",
+   "date": "2022-04-06T07:08:09",
+   "date_unixtime": "1649243289",
+   "from": "PK",
+   "from_id": "user5066314350",
+   "text": "How do you open the\nD\nO\nO\nR?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How do you open the\nD\nO\nO\nR?"
+    }
+   ]
+  },
+  {
+   "id": 8068,
+   "type": "message",
+   "date": "2022-04-09T14:41:44",
+   "date_unixtime": "1649529704",
+   "from": "Legik",
+   "from_id": "user646609236",
+   "text": "how to understand what the salphaseion text means, where to read what it is?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "how to understand what the salphaseion text means, where to read what it is?"
+    }
+   ]
+  },
+  {
+   "id": 8069,
+   "type": "message",
+   "date": "2022-04-09T14:46:27",
+   "date_unixtime": "1649529987",
+   "from": "Legik",
+   "from_id": "user646609236",
+   "text": "sal phase ion, salphase i on, s alpha sion ...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "sal phase ion, salphase i on, s alpha sion ..."
+    }
+   ]
+  },
+  {
+   "id": 8070,
+   "type": "message",
+   "date": "2022-04-09T17:05:49",
+   "date_unixtime": "1649538349",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "i want at least 5000$ of the official prize and give you the exact final answer. if you can find a way to not get cheated again, i will send it, right now.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i want at least 5000$ of the official prize and give you the exact final answer. if you can find a way to not get cheated again, i will send it, right now."
+    }
+   ]
+  },
+  {
+   "id": 8071,
+   "type": "message",
+   "date": "2022-04-09T17:13:32",
+   "date_unixtime": "1649538812",
+   "edited": "2023-11-10T14:10:07",
+   "edited_unixtime": "1699643407",
+   "from": "Janusz Baran",
+   "from_id": "user394589394",
+   "reply_to_message_id": 8067,
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 1064,
+   "width": 53,
+   "height": 56,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8072,
+   "type": "message",
+   "date": "2022-04-09T17:13:40",
+   "date_unixtime": "1649538820",
+   "from": "Janusz Baran",
+   "from_id": "user394589394",
+   "text": "here you have your DOOR",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "here you have your DOOR"
+    }
+   ]
+  },
+  {
+   "id": 8073,
+   "type": "message",
+   "date": "2022-04-09T17:13:52",
+   "date_unixtime": "1649538832",
+   "from": "Janusz Baran",
+   "from_id": "user394589394",
+   "text": "D\nO\nO\nR",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "D\nO\nO\nR"
+    }
+   ]
+  },
+  {
+   "id": 8074,
+   "type": "message",
+   "date": "2022-04-09T17:19:35",
+   "date_unixtime": "1649539175",
+   "from": "Владимир Латышов",
+   "from_id": "user451846852",
+   "text": "open or tuk tuk 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "open or tuk tuk 😂"
+    }
+   ]
+  },
+  {
+   "id": 8075,
+   "type": "message",
+   "date": "2022-04-09T23:25:50",
+   "date_unixtime": "1649561150",
+   "from": "PK",
+   "from_id": "user5066314350",
+   "text": "ᗡ\nO\nO\nЯ",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ᗡ\nO\nO\nЯ"
+    }
+   ]
+  },
+  {
+   "id": 8076,
+   "type": "message",
+   "date": "2022-04-10T08:28:19",
+   "date_unixtime": "1649593699",
+   "from": "mpeg",
+   "from_id": "user59168199",
+   "reply_to_message_id": 8068,
+   "text": "(The Matrix) Salvation \nSalvation Phase\nSalPhaseIon",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "(The Matrix) Salvation \nSalvation Phase\nSalPhaseIon"
+    }
+   ]
+  },
+  {
+   "id": 8077,
+   "type": "message",
+   "date": "2022-04-11T03:29:07",
+   "date_unixtime": "1649662147",
+   "edited": "2024-04-29T08:37:09",
+   "edited_unixtime": "1714394229",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "gsmg puzzle, final answer:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "gsmg puzzle, final answer:"
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "👎",
+     "recent": [
+      {
+       "from": null,
+       "from_id": "user5260693904",
+       "date": "2024-04-29T08:37:09"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8078,
+   "type": "message",
+   "date": "2022-04-11T03:29:46",
+   "date_unixtime": "1649662186",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "you should hash string in plain sight, address and the puzzle solgan",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "you should hash string in plain sight, address and the puzzle solgan"
+    }
+   ]
+  },
+  {
+   "id": 8079,
+   "type": "message",
+   "date": "2022-04-11T03:29:53",
+   "date_unixtime": "1649662193",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "with hufftime hasher",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "with hufftime hasher"
+    }
+   ]
+  },
+  {
+   "id": 8080,
+   "type": "message",
+   "date": "2022-04-11T03:30:10",
+   "date_unixtime": "1649662210",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "the seed for the hash is yellow and blue,",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the seed for the hash is yellow and blue,"
+    }
+   ]
+  },
+  {
+   "id": 8081,
+   "type": "message",
+   "date": "2022-04-11T03:30:44",
+   "date_unixtime": "1649662244",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": [
+    "you can try yellow+blue and (yellow*blue)",
+    {
+     "type": "bot_command",
+     "text": "/red"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "you can try yellow+blue and (yellow*blue)"
+    },
+    {
+     "type": "bot_command",
+     "text": "/red"
+    }
+   ]
+  },
+  {
+   "id": 8082,
+   "type": "message",
+   "date": "2022-04-11T03:32:28",
+   "date_unixtime": "1649662348",
+   "edited": "2025-09-14T22:24:48",
+   "edited_unixtime": "1757903088",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "in the worst case scenario, where they point to hashing different string and the result of the hash consider as 64 bit,",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "in the worst case scenario, where they point to hashing different string and the result of the hash consider as 64 bit,"
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "❤",
+     "recent": [
+      {
+       "from": "Gᘐ",
+       "from_id": "user545196121",
+       "date": "2025-09-14T22:24:48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8083,
+   "type": "message",
+   "date": "2022-04-11T03:33:06",
+   "date_unixtime": "1649662386",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": [
+    "then, you should hash them this way: [",
+    {
+     "type": "link",
+     "text": "gsmg.io"
+    },
+    "], [5] / [5 btc] and so on..."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "then, you should hash them this way: ["
+    },
+    {
+     "type": "link",
+     "text": "gsmg.io"
+    },
+    {
+     "type": "plain",
+     "text": "], [5] / [5 btc] and so on..."
+    }
+   ]
+  },
+  {
+   "id": 8084,
+   "type": "message",
+   "date": "2022-04-11T03:34:21",
+   "date_unixtime": "1649662461",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "then you have to run, combo of the hash string together to see the result...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "then you have to run, combo of the hash string together to see the result..."
+    }
+   ]
+  },
+  {
+   "id": 8085,
+   "type": "message",
+   "date": "2022-04-11T03:35:25",
+   "date_unixtime": "1649662525",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "i want at least 5000$ of price, this is the best i can do, else consequences will be out of control.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i want at least 5000$ of price, this is the best i can do, else consequences will be out of control."
+    }
+   ]
+  },
+  {
+   "id": 8086,
+   "type": "message",
+   "date": "2022-04-11T03:37:18",
+   "date_unixtime": "1649662638",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "3MgmuRBtJCLtBtbpMAEcKmELJmG2LPVQwV (btc address)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "3MgmuRBtJCLtBtbpMAEcKmELJmG2LPVQwV (btc address)"
+    }
+   ]
+  },
+  {
+   "id": 8087,
+   "type": "service",
+   "date": "2022-04-11T18:50:44",
+   "date_unixtime": "1649717444",
+   "actor": null,
+   "actor_id": "user5038877249",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8088,
+   "type": "message",
+   "date": "2022-04-12T07:58:09",
+   "date_unixtime": "1649764689",
+   "from": null,
+   "from_id": "user1783233127",
+   "reply_to_message_id": 8067,
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 115041,
+   "width": 776,
+   "height": 297,
+   "text": "with this - compare against the real Matrix text you will see extra chars... need to remove them. also think about primes here...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "with this - compare against the real Matrix text you will see extra chars... need to remove them. also think about primes here..."
+    }
+   ]
+  },
+  {
+   "id": 8089,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "its one of them.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "its one of them."
+    }
+   ]
+  },
+  {
+   "id": 8090,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": [
+    "the ",
+    {
+     "type": "link",
+     "text": "gsmg.io"
+    },
+    " page, has stegano graphic data too, i think its not usable anymore. but white space steg technique is the most simple solution there."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the "
+    },
+    {
+     "type": "link",
+     "text": "gsmg.io"
+    },
+    {
+     "type": "plain",
+     "text": " page, has stegano graphic data too, i think its not usable anymore. but white space steg technique is the most simple solution there."
+    }
+   ]
+  },
+  {
+   "id": 8091,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "extract logo image data and then convert it with ecb. its another solution",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "extract logo image data and then convert it with ecb. its another solution"
+    }
+   ]
+  },
+  {
+   "id": 8092,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 56233,
+   "width": 376,
+   "height": 618,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8093,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "i can not find my note right now, but there is so much solution.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i can not find my note right now, but there is so much solution."
+    }
+   ]
+  },
+  {
+   "id": 8094,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "if you can finish them and send me some i will find and send the rest.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "if you can finish them and send me some i will find and send the rest."
+    }
+   ]
+  },
+  {
+   "id": 8095,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "i can not finish them.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i can not finish them."
+    }
+   ]
+  },
+  {
+   "id": 8096,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 16221,
+   "width": 688,
+   "height": 135,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8097,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "or this for example, it solve in many way",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "or this for example, it solve in many way"
+    }
+   ]
+  },
+  {
+   "id": 8098,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "one of them: they are all math formula...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "one of them: they are all math formula..."
+    }
+   ]
+  },
+  {
+   "id": 8099,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "you should look at it reverse and mirro.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "you should look at it reverse and mirro."
+    }
+   ]
+  },
+  {
+   "id": 8100,
+   "type": "message",
+   "date": "2022-04-13T02:18:31",
+   "date_unixtime": "1649830711",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "forwarded_from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "forwarded_from_id": "user139037664",
+   "text": "in the same time, they are pixel art which should be put on tupper",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "in the same time, they are pixel art which should be put on tupper"
+    }
+   ]
+  },
+  {
+   "id": 8101,
+   "type": "message",
+   "date": "2022-04-13T02:20:32",
+   "date_unixtime": "1649830832",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "reply_to_message_id": 8088,
+   "text": "this part of the puzzle is totally fake.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "this part of the puzzle is totally fake."
+    }
+   ]
+  },
+  {
+   "id": 8102,
+   "type": "message",
+   "date": "2022-04-13T06:18:16",
+   "date_unixtime": "1649845096",
+   "from": null,
+   "from_id": "user1783233127",
+   "text": "is this fake puzzle part of..? totally!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "is this fake puzzle part of..? totally!"
+    }
+   ]
+  },
+  {
+   "id": 8103,
+   "type": "message",
+   "date": "2022-04-13T06:18:44",
+   "date_unixtime": "1649845124",
+   "from": null,
+   "from_id": "user1783233127",
+   "text": "🤫",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤫"
+    }
+   ]
+  },
+  {
+   "id": 8104,
+   "type": "message",
+   "date": "2022-04-13T06:43:24",
+   "date_unixtime": "1649846604",
+   "from": "Detective Froz",
+   "from_id": "user231061724",
+   "text": "Is somebody still working on this puzzle?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is somebody still working on this puzzle?"
+    }
+   ]
+  },
+  {
+   "id": 8105,
+   "type": "message",
+   "date": "2022-04-13T06:52:44",
+   "date_unixtime": "1649847164",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "yep",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yep"
+    }
+   ]
+  },
+  {
+   "id": 8106,
+   "type": "message",
+   "date": "2022-04-13T07:10:28",
+   "date_unixtime": "1649848228",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "reply_to_message_id": 8102,
+   "text": "around 1.5 years ago, i point to this part after some one who probably was one of the creator,",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "around 1.5 years ago, i point to this part after some one who probably was one of the creator,"
+    }
+   ]
+  },
+  {
+   "id": 8107,
+   "type": "message",
+   "date": "2022-04-13T07:12:58",
+   "date_unixtime": "1649848378",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "the matrix bla bla bla txt, just posted as disinformation on github and then almost no one try to see how it really work... still, its could be useful if creator looking for a fake answer to find.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the matrix bla bla bla txt, just posted as disinformation on github and then almost no one try to see how it really work... still, its could be useful if creator looking for a fake answer to find."
+    }
+   ]
+  },
+  {
+   "id": 8108,
+   "type": "message",
+   "date": "2022-04-13T07:14:23",
+   "date_unixtime": "1649848463",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "the aes, just appended to gether. its means the middle part turn return true when using openssl but its enc with another algo.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the aes, just appended to gether. its means the middle part turn return true when using openssl but its enc with another algo."
+    }
+   ]
+  },
+  {
+   "id": 8109,
+   "type": "message",
+   "date": "2022-04-13T07:23:33",
+   "date_unixtime": "1649849013",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "the fun part is the whole puzzle phase, answer and etc... are in fact based on cyberpunk movement, zen, cognitive  error and etc... is design where you as an individual after moving in multiple phase and trial error, etc... will find the answer.... but there is just a few problem there:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the fun part is the whole puzzle phase, answer and etc... are in fact based on cyberpunk movement, zen, cognitive  error and etc... is design where you as an individual after moving in multiple phase and trial error, etc... will find the answer.... but there is just a few problem there:"
+    }
+   ]
+  },
+  {
+   "id": 8110,
+   "type": "message",
+   "date": "2022-04-13T07:24:12",
+   "date_unixtime": "1649849052",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "as the interaction between one and ai should be evaluated and.... etc.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "as the interaction between one and ai should be evaluated and.... etc."
+    }
+   ]
+  },
+  {
+   "id": 8111,
+   "type": "message",
+   "date": "2022-04-13T07:30:55",
+   "date_unixtime": "1649849455",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "then, if some act as a real individual who crack the puzzle it self... he made a wrong choice! cause, based on common sense (i hate word common, its  meaningless just as normal.) he should never do such a thing!  only a range of behavior and choice is true! and its completely rational...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "then, if some act as a real individual who crack the puzzle it self... he made a wrong choice! cause, based on common sense (i hate word common, its  meaningless just as normal.) he should never do such a thing!  only a range of behavior and choice is true! and its completely rational..."
+    }
+   ]
+  },
+  {
+   "id": 8112,
+   "type": "message",
+   "date": "2022-04-13T07:40:40",
+   "date_unixtime": "1649850040",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "and the other problem is where they just assume the basic tool is ready for every one... as an example to that aes part, for making such a thing or crack it we have many way. but probably using stream cipher is the easiest way. beside standard stream cipher and need probably to brute force the pass and string itself... we need a level of certainty when we are dealing with deniable enc... for true message. i mean, in a paragraph like this, i can put at least 5 different completely readable and undeniable message which can be decode with a kid and not with any one else, but they are completely clear i mean.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "and the other problem is where they just assume the basic tool is ready for every one... as an example to that aes part, for making such a thing or crack it we have many way. but probably using stream cipher is the easiest way. beside standard stream cipher and need probably to brute force the pass and string itself... we need a level of certainty when we are dealing with deniable enc... for true message. i mean, in a paragraph like this, i can put at least 5 different completely readable and undeniable message which can be decode with a kid and not with any one else, but they are completely clear i mean."
+    }
+   ]
+  },
+  {
+   "id": 8113,
+   "type": "message",
+   "date": "2022-04-13T10:57:23",
+   "date_unixtime": "1649861843",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "in the same time, the first answer was true with high certainty... but some part exist like that 149 number string where we can not be sure about them. in that part beside the wellknown and string i send, there is many other way.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "in the same time, the first answer was true with high certainty... but some part exist like that 149 number string where we can not be sure about them. in that part beside the wellknown and string i send, there is many other way."
+    }
+   ]
+  },
+  {
+   "id": 8114,
+   "type": "message",
+   "date": "2022-04-13T10:59:03",
+   "date_unixtime": "1649861943",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "for example on of the easiest way to use classic cipher for creating a good and hard challenge is using them in the most efficient or creative way... on of them is rail cipher.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "for example on of the easiest way to use classic cipher for creating a good and hard challenge is using them in the most efficient or creative way... on of them is rail cipher."
+    }
+   ]
+  },
+  {
+   "id": 8115,
+   "type": "message",
+   "date": "2022-04-13T11:04:26",
+   "date_unixtime": "1649862266",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "rail cipher can be use for binary! its means you can not only bypass any firewall (in the first step, but after that, its needs more complicated or intelligence way) with a very simple obfuscation method. its can be use for handle secret message too. for the number string part, you can just run rail cipher and then treat the number with vic to see decoed in the first part. its could be fake or real message but the only way to dealing with as wellknown analysis is not the case there, is brute forcing as many decryption as you can. its need a good hardware or extremely good mood.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "rail cipher can be use for binary! its means you can not only bypass any firewall (in the first step, but after that, its needs more complicated or intelligence way) with a very simple obfuscation method. its can be use for handle secret message too. for the number string part, you can just run rail cipher and then treat the number with vic to see decoed in the first part. its could be fake or real message but the only way to dealing with as wellknown analysis is not the case there, is brute forcing as many decryption as you can. its need a good hardware or extremely good mood."
+    }
+   ]
+  },
+  {
+   "id": 8116,
+   "type": "message",
+   "date": "2022-04-13T11:09:06",
+   "date_unixtime": "1649862546",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "the other thing is used in this puzzle is (its an standard method.) using the certain word, string and/or their anagram as the decipher way of a message. as an example, the chao in disinformation part is a bold hint to chao cipher... its have a good protection resistance against brute force attack and not a well known method in puzzle... but in the same time, see such a thing in a fake part is a red sign for using it.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the other thing is used in this puzzle is (its an standard method.) using the certain word, string and/or their anagram as the decipher way of a message. as an example, the chao in disinformation part is a bold hint to chao cipher... its have a good protection resistance against brute force attack and not a well known method in puzzle... but in the same time, see such a thing in a fake part is a red sign for using it."
+    }
+   ]
+  },
+  {
+   "id": 8117,
+   "type": "message",
+   "date": "2022-04-13T11:29:41",
+   "date_unixtime": "1649863781",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "and so on... but anyway for this or any puzzle, cipher, military encrypted message, bitcoin... what ever coded with human, there is weakness. i like to find and crack the weaknesses, i am so addicted to it in some how. so, what was the gsmg puzzle weaknesses and how i deal with it? but the result except personal sanctification was completely disappointing... first: it was theme... second: the reaction... third: flaw against unorthodox analysis. four: repeated pattern. five: having a history... six: leaking so much information with the competitioner with not so right intention... (its meaningless to stay quiet or always send wrong info or distraction as part of the role... as its can be used for deeper analysis.) and etc... and my biggest mistake was this: i just assume, based on the puzzle script and interaction with player... the goal of this puzzle is not just creating a puzzle but there is a recruitment, fund rising, scholarship challenge or etc... in this case scenario, i would not lose anything with playing like me, not cheating and even trying to improve my technique... but i was wrong! as it was not or in my case it was not or its in the most nonsense and paradoxical way work based on the result which in this case its just have so many flaw which i hope for make it better in the next puzzle or challenge or what ever is it.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "and so on... but anyway for this or any puzzle, cipher, military encrypted message, bitcoin... what ever coded with human, there is weakness. i like to find and crack the weaknesses, i am so addicted to it in some how. so, what was the gsmg puzzle weaknesses and how i deal with it? but the result except personal sanctification was completely disappointing... first: it was theme... second: the reaction... third: flaw against unorthodox analysis. four: repeated pattern. five: having a history... six: leaking so much information with the competitioner with not so right intention... (its meaningless to stay quiet or always send wrong info or distraction as part of the role... as its can be used for deeper analysis.) and etc... and my biggest mistake was this: i just assume, based on the puzzle script and interaction with player... the goal of this puzzle is not just creating a puzzle but there is a recruitment, fund rising, scholarship challenge or etc... in this case scenario, i would not lose anything with playing like me, not cheating and even trying to improve my technique... but i was wrong! as it was not or in my case it was not or its in the most nonsense and paradoxical way work based on the result which in this case its just have so many flaw which i hope for make it better in the next puzzle or challenge or what ever is it."
+    }
+   ]
+  },
+  {
+   "id": 8118,
+   "type": "service",
+   "date": "2022-04-16T11:22:34",
+   "date_unixtime": "1650122554",
+   "actor": null,
+   "actor_id": "user5091621879",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8119,
+   "type": "message",
+   "date": "2022-04-16T15:01:22",
+   "date_unixtime": "1650135682",
+   "from": "mpeg",
+   "from_id": "user59168199",
+   "text": "Crikey",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Crikey"
+    }
+   ]
+  },
+  {
+   "id": 8120,
+   "type": "message",
+   "date": "2022-04-16T15:01:23",
+   "date_unixtime": "1650135683",
+   "from": "mpeg",
+   "from_id": "user59168199",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "AnimatedSticker.tgs",
+   "file_size": 3291,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 3716,
+   "media_type": "sticker",
+   "sticker_emoji": "😐",
+   "mime_type": "application/x-tgsticker",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8122,
+   "type": "message",
+   "date": "2022-04-17T13:28:29",
+   "date_unixtime": "1650216509",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "easter egg of gsmg puzzle, based on my guess:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "easter egg of gsmg puzzle, based on my guess:"
+    }
+   ]
+  },
+  {
+   "id": 8123,
+   "type": "message",
+   "date": "2022-04-17T13:31:15",
+   "date_unixtime": "1650216675",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "if you append/add number like 2 to the 149 char string then convert it to hex, you will have 64 char bip39 seed or... some 64 hex char key which could open something special.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "if you append/add number like 2 to the 149 char string then convert it to hex, you will have 64 char bip39 seed or... some 64 hex char key which could open something special."
+    }
+   ]
+  },
+  {
+   "id": 8124,
+   "type": "message",
+   "date": "2022-04-17T13:39:03",
+   "date_unixtime": "1650217143",
+   "from": "omaru",
+   "from_id": "user706790942",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "ok-alright-then.mp4",
+   "file_size": 146080,
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 4,
+   "width": 208,
+   "height": 208,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8125,
+   "type": "message",
+   "date": "2022-04-17T13:45:24",
+   "date_unixtime": "1650217524",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "reply_to_message_id": 8124,
+   "text": "thank you, you can add all number of the string together too.☹️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "thank you, you can add all number of the string together too.☹️"
+    }
+   ]
+  },
+  {
+   "id": 8126,
+   "type": "message",
+   "date": "2022-04-26T00:17:04",
+   "date_unixtime": "1650946624",
+   "from": "0xColombo",
+   "from_id": "user274980096",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@SoWut"
+    },
+    " where is puzzle-birthday hint?:)"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@SoWut"
+    },
+    {
+     "type": "plain",
+     "text": " where is puzzle-birthday hint?:)"
+    }
+   ]
+  },
+  {
+   "id": 8127,
+   "type": "message",
+   "date": "2022-04-26T00:17:37",
+   "date_unixtime": "1650946657",
+   "from": "0xColombo",
+   "from_id": "user274980096",
+   "text": "If I remember correctly, we started this 19th of April 2019",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If I remember correctly, we started this 19th of April 2019"
+    }
+   ]
+  },
+  {
+   "id": 8128,
+   "type": "message",
+   "date": "2022-04-26T00:17:46",
+   "date_unixtime": "1650946666",
+   "from": "0xColombo",
+   "from_id": "user274980096",
+   "text": "+- week",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "+- week"
+    }
+   ]
+  },
+  {
+   "id": 8129,
+   "type": "service",
+   "date": "2022-05-02T22:37:14",
+   "date_unixtime": "1651545434",
+   "actor": null,
+   "actor_id": "user5308790512",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8130,
+   "type": "service",
+   "date": "2022-05-09T10:27:57",
+   "date_unixtime": "1652106477",
+   "actor": null,
+   "actor_id": "user5077473453",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8131,
+   "type": "message",
+   "date": "2022-05-11T08:18:01",
+   "date_unixtime": "1652271481",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "completely deadlocked",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "completely deadlocked"
+    }
+   ]
+  },
+  {
+   "id": 8132,
+   "type": "message",
+   "date": "2022-05-11T08:24:39",
+   "date_unixtime": "1652271879",
+   "from": "Detective Froz",
+   "from_id": "user231061724",
+   "text": "Hello! Do you know guys why the ripemd160 function was depreciated in OpenSSL 3? (neeest python’s hashlib doesn’t perform ripemd160 hash)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello! Do you know guys why the ripemd160 function was depreciated in OpenSSL 3? (neeest python’s hashlib doesn’t perform ripemd160 hash)"
+    }
+   ]
+  },
+  {
+   "id": 8133,
+   "type": "message",
+   "date": "2022-05-11T09:19:17",
+   "date_unixtime": "1652275157",
+   "edited": "2025-08-08T10:34:42",
+   "edited_unixtime": "1754663682",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "reply_to_message_id": 8132,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.reddit.com/r/crypto/comments/sv2y6d/ripemd160_a_disater_in_the_making_thanks_to/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.reddit.com/r/crypto/comments/sv2y6d/ripemd160_a_disater_in_the_making_thanks_to/"
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "❤",
+     "recent": [
+      {
+       "from": "Cryptono",
+       "from_id": "user7107313094",
+       "date": "2025-08-08T10:34:42"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8134,
+   "type": "message",
+   "date": "2022-05-11T09:23:14",
+   "date_unixtime": "1652275394",
+   "from": "Detective Froz",
+   "from_id": "user231061724",
+   "reply_to_message_id": 8133,
+   "text": "Thanks, i saw that as well. So, they made the life harder )\n\nWhat is the easiest solution now for python to calculate ripemd160 hash?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks, i saw that as well. So, they made the life harder )\n\nWhat is the easiest solution now for python to calculate ripemd160 hash?"
+    }
+   ]
+  },
+  {
+   "id": 8135,
+   "type": "message",
+   "date": "2022-05-11T09:30:22",
+   "date_unixtime": "1652275822",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/jcook/python-crypto-debian/blob/master/lib/Crypto/Hash/RIPEMD160.py"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/jcook/python-crypto-debian/blob/master/lib/Crypto/Hash/RIPEMD160.py"
+    }
+   ]
+  },
+  {
+   "id": 8136,
+   "type": "message",
+   "date": "2022-05-24T08:37:53",
+   "date_unixtime": "1653395873",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "Are you there?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Are you there?"
+    }
+   ]
+  },
+  {
+   "id": 8137,
+   "type": "message",
+   "date": "2022-05-24T09:21:46",
+   "date_unixtime": "1653398506",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "yep",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yep"
+    }
+   ]
+  },
+  {
+   "id": 8138,
+   "type": "message",
+   "date": "2022-05-25T02:05:18",
+   "date_unixtime": "1653458718",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "I found many prime numbers but don't KNOW WHAT THEY DO",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I found many prime numbers but don't KNOW WHAT THEY DO"
+    }
+   ]
+  },
+  {
+   "id": 8139,
+   "type": "message",
+   "date": "2022-05-25T02:19:30",
+   "date_unixtime": "1653459570",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "reply_to_message_id": 8138,
+   "text": "how many?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "how many?"
+    }
+   ]
+  },
+  {
+   "id": 8140,
+   "type": "message",
+   "date": "2022-05-25T06:22:06",
+   "date_unixtime": "1653474126",
+   "edited": "2025-12-29T02:53:11",
+   "edited_unixtime": "1766994791",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "animation.gif.mp4",
+   "file_size": 44076,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 7308,
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 220,
+   "height": 158,
+   "text": "",
+   "text_entities": [],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "😁",
+     "recent": [
+      {
+       "from": "3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679",
+       "from_id": "user7895551210",
+       "date": "2025-12-29T02:53:11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8141,
+   "type": "message",
+   "date": "2022-05-25T08:38:46",
+   "date_unixtime": "1653482326",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "GOD mode))",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "GOD mode))"
+    }
+   ]
+  },
+  {
+   "id": 8142,
+   "type": "message",
+   "date": "2022-05-25T10:25:33",
+   "date_unixtime": "1653488733",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "text": "Looks like somebody found a gsmg subscription.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Looks like somebody found a gsmg subscription."
+    }
+   ]
+  },
+  {
+   "id": 8146,
+   "type": "message",
+   "date": "2022-05-27T02:11:50",
+   "date_unixtime": "1653631910",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "someone deleted something",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "someone deleted something"
+    }
+   ]
+  },
+  {
+   "id": 8147,
+   "type": "message",
+   "date": "2022-05-27T02:16:10",
+   "date_unixtime": "1653632170",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "You will succeed",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "You will succeed"
+    }
+   ]
+  },
+  {
+   "id": 8148,
+   "type": "message",
+   "date": "2022-05-27T04:30:02",
+   "date_unixtime": "1653640202",
+   "from": null,
+   "from_id": "user5077473453",
+   "reply_to_message_id": 8147,
+   "text": "No, I can't",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No, I can't"
+    }
+   ]
+  },
+  {
+   "id": 8149,
+   "type": "message",
+   "date": "2022-05-27T04:34:53",
+   "date_unixtime": "1653640493",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "reply_to_message_id": 8148,
+   "text": "ECDSA",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ECDSA"
+    }
+   ]
+  },
+  {
+   "id": 8150,
+   "type": "message",
+   "date": "2022-05-27T05:15:23",
+   "date_unixtime": "1653642923",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "reply_to_message_id": 8148,
+   "text": "X-coordinate (pubkey) for 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  is 04f4d1bbd91e65e2a019566a17574e97dae908b784b388891848007e4f55d5a4649c73d25fc5ed8fd7227cab0be4e576c0c6404db5aa546286563e4be12bf33559",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "X-coordinate (pubkey) for 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  is 04f4d1bbd91e65e2a019566a17574e97dae908b784b388891848007e4f55d5a4649c73d25fc5ed8fd7227cab0be4e576c0c6404db5aa546286563e4be12bf33559"
+    }
+   ]
+  },
+  {
+   "id": 8151,
+   "type": "message",
+   "date": "2022-05-27T05:17:34",
+   "date_unixtime": "1653643054",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "know the Y-coordinate, you can calculate the primary key",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "know the Y-coordinate, you can calculate the primary key"
+    }
+   ]
+  },
+  {
+   "id": 8152,
+   "type": "message",
+   "date": "2022-05-27T10:11:31",
+   "date_unixtime": "1653660691",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32"
+    }
+   ]
+  },
+  {
+   "id": 8153,
+   "type": "message",
+   "date": "2022-05-27T10:11:54",
+   "date_unixtime": "1653660714",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "The first door",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The first door"
+    }
+   ]
+  },
+  {
+   "id": 8154,
+   "type": "message",
+   "date": "2022-05-27T10:12:16",
+   "date_unixtime": "1653660736",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "What is another door?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What is another door?"
+    }
+   ]
+  },
+  {
+   "id": 8155,
+   "type": "message",
+   "date": "2022-05-27T10:13:00",
+   "date_unixtime": "1653660780",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "does it contain the private key or does it lead to another door?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "does it contain the private key or does it lead to another door?"
+    }
+   ]
+  },
+  {
+   "id": 8156,
+   "type": "message",
+   "date": "2022-05-27T10:17:14",
+   "date_unixtime": "1653661034",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "It's a long way",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It's a long way"
+    }
+   ]
+  },
+  {
+   "id": 8157,
+   "type": "message",
+   "date": "2022-05-27T10:17:56",
+   "date_unixtime": "1653661076",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "reply_to_message_id": 8154,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/puzzlehunt/gsmgio-5btc-puzzle"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/puzzlehunt/gsmgio-5btc-puzzle"
+    }
+   ]
+  },
+  {
+   "id": 8158,
+   "type": "message",
+   "date": "2022-05-27T10:18:20",
+   "date_unixtime": "1653661100",
+   "from": null,
+   "from_id": "user5077473453",
+   "reply_to_message_id": 8157,
+   "text": "I know",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I know"
+    }
+   ]
+  },
+  {
+   "id": 8159,
+   "type": "message",
+   "date": "2022-05-27T10:18:27",
+   "date_unixtime": "1653661107",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "My link from that",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "My link from that"
+    }
+   ]
+  },
+  {
+   "id": 8160,
+   "type": "message",
+   "date": "2022-05-27T10:21:37",
+   "date_unixtime": "1653661297",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "s h a b e f o u r f i r s t h i n t i s y o u r l a s t c o m m a n d",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "s h a b e f o u r f i r s t h i n t i s y o u r l a s t c o m m a n d"
+    }
+   ]
+  },
+  {
+   "id": 8161,
+   "type": "message",
+   "date": "2022-05-27T10:22:24",
+   "date_unixtime": "1653661344",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "What is your first hinht?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What is your first hinht?"
+    }
+   ]
+  },
+  {
+   "id": 8162,
+   "type": "message",
+   "date": "2022-05-27T10:26:25",
+   "date_unixtime": "1653661585",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "Follow the white rabbit))",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Follow the white rabbit))"
+    }
+   ]
+  },
+  {
+   "id": 8172,
+   "type": "message",
+   "date": "2022-05-29T19:25:12",
+   "date_unixtime": "1653866712",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "Completely deadlocked",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Completely deadlocked"
+    }
+   ]
+  },
+  {
+   "id": 8173,
+   "type": "message",
+   "date": "2022-05-31T09:39:07",
+   "date_unixtime": "1654004347",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "ppp.py",
+   "file_size": 1569,
+   "mime_type": "text/x-python",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8174,
+   "type": "message",
+   "date": "2022-05-31T09:49:23",
+   "date_unixtime": "1654004963",
+   "from": "x7x7x7x6",
+   "from_id": "user633059140",
+   "text": "whoa, i just executed this script and suddenly created a new block and got 6,25 BTC reward",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "whoa, i just executed this script and suddenly created a new block and got 6,25 BTC reward"
+    }
+   ]
+  },
+  {
+   "id": 8176,
+   "type": "message",
+   "date": "2022-05-31T10:57:11",
+   "date_unixtime": "1654009031",
+   "from": "pogo",
+   "from_id": "user406542088",
+   "text": "that's nothing, i ran the script and created a new parallel universe where i owned all the bitcoin and consequently it was worthless",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "that's nothing, i ran the script and created a new parallel universe where i owned all the bitcoin and consequently it was worthless"
+    }
+   ]
+  },
+  {
+   "id": 8177,
+   "type": "message",
+   "date": "2022-05-31T11:05:54",
+   "date_unixtime": "1654009554",
+   "from": null,
+   "from_id": "user1121635945",
+   "reply_to_message_id": 8174,
+   "text": "Proof please",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Proof please"
+    }
+   ]
+  },
+  {
+   "id": 8178,
+   "type": "message",
+   "date": "2022-05-31T11:15:53",
+   "date_unixtime": "1654010153",
+   "from": "x7x7x7x6",
+   "from_id": "user633059140",
+   "text": "Oh, my bad, Saber did get the reward",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Oh, my bad, Saber did get the reward"
+    }
+   ]
+  },
+  {
+   "id": 8179,
+   "type": "message",
+   "date": "2022-05-31T11:25:15",
+   "date_unixtime": "1654010715",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "reply_to_message_id": 8178,
+   "text": "😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 8180,
+   "type": "message",
+   "date": "2022-05-31T11:27:56",
+   "date_unixtime": "1654010876",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "its some how interesting how we can respond to a joke, where its not a joke in fact but nobody can understand it.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "its some how interesting how we can respond to a joke, where its not a joke in fact but nobody can understand it."
+    }
+   ]
+  },
+  {
+   "id": 8181,
+   "type": "message",
+   "date": "2022-06-01T06:16:47",
+   "date_unixtime": "1654078607",
+   "edited": "2026-01-10T15:10:55",
+   "edited_unixtime": "1768075855",
+   "from": "Org0",
+   "from_id": "user340325111",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "matrix3021.mp4",
+   "file_size": 8577500,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 11199,
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 47,
+   "width": 576,
+   "height": 1024,
+   "text": "",
+   "text_entities": [],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "😁",
+     "recent": [
+      {
+       "from": "Dasharo",
+       "from_id": "user8574453747",
+       "date": "2026-01-10T15:10:55"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8182,
+   "type": "message",
+   "date": "2022-06-01T07:42:42",
+   "date_unixtime": "1654083762",
+   "from": "RB",
+   "from_id": "user737261554",
+   "reply_to_message_id": 8181,
+   "text": "Ok... That REALLY made my day 😄",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok... That REALLY made my day 😄"
+    }
+   ]
+  },
+  {
+   "id": 8183,
+   "type": "message",
+   "date": "2022-06-01T09:48:09",
+   "date_unixtime": "1654091289",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "reply_to_message_id": 8182,
+   "text": "i did not get the joke or the meaning behind it. usually in such a case if i do not know the other people just pretend and act like the group as it easier and not matter. but right now,  there is a question come to my mind which i feel good if i know your answer. as its could be cultural thing, then i just ask a technical question which is related in some how.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i did not get the joke or the meaning behind it. usually in such a case if i do not know the other people just pretend and act like the group as it easier and not matter. but right now,  there is a question come to my mind which i feel good if i know your answer. as its could be cultural thing, then i just ask a technical question which is related in some how."
+    }
+   ]
+  },
+  {
+   "id": 8184,
+   "type": "message",
+   "date": "2022-06-01T09:49:28",
+   "date_unixtime": "1654091368",
+   "from": "RB",
+   "from_id": "user737261554",
+   "reply_to_message_id": 8183,
+   "text": "to me it was no joke just some stupid video.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "to me it was no joke just some stupid video."
+    }
+   ]
+  },
+  {
+   "id": 8189,
+   "type": "message",
+   "date": "2022-06-01T12:56:24",
+   "date_unixtime": "1654102584",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "text": "👽",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👽"
+    }
+   ]
+  },
+  {
+   "id": 8190,
+   "type": "service",
+   "date": "2022-06-06T23:17:30",
+   "date_unixtime": "1654571850",
+   "actor": "Mrak",
+   "actor_id": "user1475792923",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8191,
+   "type": "message",
+   "date": "2022-06-09T03:46:25",
+   "date_unixtime": "1654760785",
+   "from": null,
+   "from_id": "user5077473453",
+   "text": "Can somebody find privatekey from first picture without internet?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can somebody find privatekey from first picture without internet?"
+    }
+   ]
+  },
+  {
+   "id": 8192,
+   "type": "message",
+   "date": "2022-06-09T03:50:39",
+   "date_unixtime": "1654761039",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@SoWut"
+    },
+    " knows"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@SoWut"
+    },
+    {
+     "type": "plain",
+     "text": " knows"
+    }
+   ]
+  },
+  {
+   "id": 8193,
+   "type": "message",
+   "date": "2022-06-19T07:32:22",
+   "date_unixtime": "1655638342",
+   "from": "yu uipod",
+   "from_id": "user1737742685",
+   "text": "y",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "y"
+    }
+   ]
+  },
+  {
+   "id": 8203,
+   "type": "service",
+   "date": "2022-06-30T17:24:56",
+   "date_unixtime": "1656624296",
+   "actor": "barrystyle",
+   "actor_id": "user925838121",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8204,
+   "type": "message",
+   "date": "2022-06-30T17:27:45",
+   "date_unixtime": "1656624465",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "lattice attack relies on duplicated r nonce",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "lattice attack relies on duplicated r nonce"
+    }
+   ]
+  },
+  {
+   "id": 8205,
+   "type": "message",
+   "date": "2022-06-30T17:27:51",
+   "date_unixtime": "1656624471",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "which i can guarantee isnt going to occur here",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "which i can guarantee isnt going to occur here"
+    }
+   ]
+  },
+  {
+   "id": 8206,
+   "type": "message",
+   "date": "2022-06-30T17:29:25",
+   "date_unixtime": "1656624565",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "additionally, nearly all the puzzles which have a known public key have been solved already",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "additionally, nearly all the puzzles which have a known public key have been solved already"
+    }
+   ]
+  },
+  {
+   "id": 8207,
+   "type": "message",
+   "date": "2022-06-30T17:29:35",
+   "date_unixtime": "1656624575",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "the rest we only know the pkh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the rest we only know the pkh"
+    }
+   ]
+  },
+  {
+   "id": 8208,
+   "type": "message",
+   "date": "2022-06-30T17:33:47",
+   "date_unixtime": "1656624827",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "reply_to_message_id": 8008,
+   "text": "considered to do with qualities of a rabbits vision",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "considered to do with qualities of a rabbits vision"
+    }
+   ]
+  },
+  {
+   "id": 8209,
+   "type": "message",
+   "date": "2022-06-30T17:45:12",
+   "date_unixtime": "1656625512",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "reply_to_message_id": 8150,
+   "text": "this is not correct either, does not equal the pkh of 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe once ripemd/hashed",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "this is not correct either, does not equal the pkh of 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe once ripemd/hashed"
+    }
+   ]
+  },
+  {
+   "id": 8210,
+   "type": "message",
+   "date": "2022-06-30T17:47:45",
+   "date_unixtime": "1656625665",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "reply_to_message_id": 8133,
+   "text": "oh man, who comes up with this stuff seriously aha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "oh man, who comes up with this stuff seriously aha"
+    }
+   ]
+  },
+  {
+   "id": 8211,
+   "type": "message",
+   "date": "2022-06-30T17:48:05",
+   "date_unixtime": "1656625685",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "this has turned out to be quite a humorous thread",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "this has turned out to be quite a humorous thread"
+    }
+   ]
+  },
+  {
+   "id": 8212,
+   "type": "message",
+   "date": "2022-06-30T17:52:18",
+   "date_unixtime": "1656625938",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "reply_to_message_id": 7907,
+   "text": "zden puzzle 5?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "zden puzzle 5?"
+    }
+   ]
+  },
+  {
+   "id": 8214,
+   "type": "message",
+   "date": "2022-06-30T18:00:09",
+   "date_unixtime": "1656626409",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "it is a side-channel attack, where you know certain pieces of information.. in this case partial nonces",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "it is a side-channel attack, where you know certain pieces of information.. in this case partial nonces"
+    }
+   ]
+  },
+  {
+   "id": 8216,
+   "type": "message",
+   "date": "2022-06-30T18:00:26",
+   "date_unixtime": "1656626426",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "upper and lower bounds would be better description of bitcoin puzzle",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "upper and lower bounds would be better description of bitcoin puzzle"
+    }
+   ]
+  },
+  {
+   "id": 8219,
+   "type": "message",
+   "date": "2022-06-30T18:00:53",
+   "date_unixtime": "1656626453",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "er",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "er"
+    }
+   ]
+  },
+  {
+   "id": 8220,
+   "type": "message",
+   "date": "2022-06-30T18:01:11",
+   "date_unixtime": "1656626471",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 10303,
+   "width": 432,
+   "height": 148,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8221,
+   "type": "message",
+   "date": "2022-06-30T18:01:30",
+   "date_unixtime": "1656626490",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "zden has nothing to do with lattice,",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "zden has nothing to do with lattice,"
+    }
+   ]
+  },
+  {
+   "id": 8222,
+   "type": "message",
+   "date": "2022-06-30T18:01:44",
+   "date_unixtime": "1656626504",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "you need to break the pill in half each morning my friend",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "you need to break the pill in half each morning my friend"
+    }
+   ]
+  },
+  {
+   "id": 8227,
+   "type": "message",
+   "date": "2022-06-30T18:23:21",
+   "date_unixtime": "1656627801",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "from the sigs?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "from the sigs?"
+    }
+   ]
+  },
+  {
+   "id": 8229,
+   "type": "message",
+   "date": "2022-06-30T18:30:03",
+   "date_unixtime": "1656628203",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "i see lots of consts without names, and magic numbers",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i see lots of consts without names, and magic numbers"
+    }
+   ]
+  },
+  {
+   "id": 8230,
+   "type": "message",
+   "date": "2022-06-30T18:30:14",
+   "date_unixtime": "1656628214",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "if you can write this, why not do it in c",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "if you can write this, why not do it in c"
+    }
+   ]
+  },
+  {
+   "id": 8231,
+   "type": "message",
+   "date": "2022-06-30T18:46:30",
+   "date_unixtime": "1656629190",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "writting code in c is not possible for me as i do not know how can i do it properly but you right, it was a wrong idea.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "writting code in c is not possible for me as i do not know how can i do it properly but you right, it was a wrong idea."
+    }
+   ]
+  },
+  {
+   "id": 8232,
+   "type": "message",
+   "date": "2022-07-03T03:50:29",
+   "date_unixtime": "1656834629",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "hm so there are a few more clues in the final aes blob",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hm so there are a few more clues in the final aes blob"
+    }
+   ]
+  },
+  {
+   "id": 8233,
+   "type": "message",
+   "date": "2022-07-03T03:50:45",
+   "date_unixtime": "1656834645",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "after base64 decode, it is 96 bytes",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "after base64 decode, it is 96 bytes"
+    }
+   ]
+  },
+  {
+   "id": 8234,
+   "type": "message",
+   "date": "2022-07-03T03:51:03",
+   "date_unixtime": "1656834663",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "remove 8 bytes for openssl 'Salted__' header, 88 bytes",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "remove 8 bytes for openssl 'Salted__' header, 88 bytes"
+    }
+   ]
+  },
+  {
+   "id": 8235,
+   "type": "message",
+   "date": "2022-07-03T03:51:22",
+   "date_unixtime": "1656834682",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "then we remove the following 8 bytes for the actual salt (salt is always 8 bytes regardless of keysize)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "then we remove the following 8 bytes for the actual salt (salt is always 8 bytes regardless of keysize)"
+    }
+   ]
+  },
+  {
+   "id": 8236,
+   "type": "message",
+   "date": "2022-07-03T03:51:27",
+   "date_unixtime": "1656834687",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "so payload is 80 bytes",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "so payload is 80 bytes"
+    }
+   ]
+  },
+  {
+   "id": 8237,
+   "type": "message",
+   "date": "2022-07-03T03:51:56",
+   "date_unixtime": "1656834716",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "80 / 32 has a remainder so the cipher being utilized is not aes-256-cbc",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "80 / 32 has a remainder so the cipher being utilized is not aes-256-cbc"
+    }
+   ]
+  },
+  {
+   "id": 8238,
+   "type": "message",
+   "date": "2022-07-03T03:56:28",
+   "date_unixtime": "1656834988",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "aes-128-cbc makes sense if ciphertext is 64bytes long (ie. a private key hexstring)... because if the cipher len meets the block end, an extra block of padding must be appended",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "aes-128-cbc makes sense if ciphertext is 64bytes long (ie. a private key hexstring)... because if the cipher len meets the block end, an extra block of padding must be appended"
+    }
+   ]
+  },
+  {
+   "id": 8239,
+   "type": "message",
+   "date": "2022-07-05T10:26:25",
+   "date_unixtime": "1657031185",
+   "from": "RB",
+   "from_id": "user737261554",
+   "reply_to_message_id": 8237,
+   "text": "wrong. aes has always a block size of 128 bits (=16 bytes). so 80/16 = 5 works out perfectly fine. regardless if it's encrypted with a 128 or 256 bit key.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "wrong. aes has always a block size of 128 bits (=16 bytes). so 80/16 = 5 works out perfectly fine. regardless if it's encrypted with a 128 or 256 bit key."
+    }
+   ]
+  },
+  {
+   "id": 8240,
+   "type": "message",
+   "date": "2022-07-05T14:41:27",
+   "date_unixtime": "1657046487",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "reply_to_message_id": 8239,
+   "text": "thats right, but personally have some problem with this part.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "thats right, but personally have some problem with this part."
+    }
+   ]
+  },
+  {
+   "id": 8241,
+   "type": "message",
+   "date": "2022-07-05T14:45:52",
+   "date_unixtime": "1657046752",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "1- after removing salted string from that part we get leet code... its easy to made... but, one of the user, with a dictionary attack get valid string of it, if i remember this truly then:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "1- after removing salted string from that part we get leet code... its easy to made... but, one of the user, with a dictionary attack get valid string of it, if i remember this truly then:"
+    }
+   ]
+  },
+  {
+   "id": 8242,
+   "type": "message",
+   "date": "2022-07-05T14:47:12",
+   "date_unixtime": "1657046832",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "a) if we assume thats an aes enc then the pass should not be a sha2.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "a) if we assume thats an aes enc then the pass should not be a sha2."
+    }
+   ]
+  },
+  {
+   "id": 8243,
+   "type": "message",
+   "date": "2022-07-05T14:48:13",
+   "date_unixtime": "1657046893",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "it’s aes specifically OpenSSL as that’s their documented magic",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "it’s aes specifically OpenSSL as that’s their documented magic"
+    }
+   ]
+  },
+  {
+   "id": 8244,
+   "type": "message",
+   "date": "2022-07-05T14:49:24",
+   "date_unixtime": "1657046964",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "reply_to_message_id": 8239,
+   "text": "yes, i was wrong, not sure where i picked up that the block size varied due to key size",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes, i was wrong, not sure where i picked up that the block size varied due to key size"
+    }
+   ]
+  },
+  {
+   "id": 8245,
+   "type": "message",
+   "date": "2022-07-05T14:50:59",
+   "date_unixtime": "1657047059",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "if its right and we assume the deniable leet code is not matter any more then its should be aes with out IV for make it easier to bulid or the IV should be some semi random string but personally i think:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "if its right and we assume the deniable leet code is not matter any more then its should be aes with out IV for make it easier to bulid or the IV should be some semi random string but personally i think:"
+    }
+   ]
+  },
+  {
+   "id": 8246,
+   "type": "message",
+   "date": "2022-07-05T14:51:12",
+   "date_unixtime": "1657047072",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "deniable leet code?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "deniable leet code?"
+    }
+   ]
+  },
+  {
+   "id": 8247,
+   "type": "message",
+   "date": "2022-07-05T14:51:40",
+   "date_unixtime": "1657047100",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "IV is never included, what is included is the salt which is formed from the iv & key",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "IV is never included, what is included is the salt which is formed from the iv & key"
+    }
+   ]
+  },
+  {
+   "id": 8248,
+   "type": "message",
+   "date": "2022-07-05T14:51:49",
+   "date_unixtime": "1657047109",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "the leet code was matter, probably as regex or perl code... i can not use them.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the leet code was matter, probably as regex or perl code... i can not use them."
+    }
+   ]
+  },
+  {
+   "id": 8249,
+   "type": "message",
+   "date": "2022-07-05T14:52:18",
+   "date_unixtime": "1657047138",
+   "from": "RB",
+   "from_id": "user737261554",
+   "reply_to_message_id": 8244,
+   "text": "a common misconception.  i just didn't want you guys to exclude aes-256 wrongfully.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "a common misconception.  i just didn't want you guys to exclude aes-256 wrongfully."
+    }
+   ]
+  },
+  {
+   "id": 8250,
+   "type": "message",
+   "date": "2022-07-05T14:52:39",
+   "date_unixtime": "1657047159",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "ehe rb i think you may be taking the same direction i am",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ehe rb i think you may be taking the same direction i am"
+    }
+   ]
+  },
+  {
+   "id": 8252,
+   "type": "message",
+   "date": "2022-07-05T14:53:01",
+   "date_unixtime": "1657047181",
+   "from": "RB",
+   "from_id": "user737261554",
+   "text": "lol... not planning a cloud to break it :D",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "lol... not planning a cloud to break it :D"
+    }
+   ]
+  },
+  {
+   "id": 8253,
+   "type": "message",
+   "date": "2022-07-05T14:53:06",
+   "date_unixtime": "1657047186",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "hahah",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hahah"
+    }
+   ]
+  },
+  {
+   "id": 8254,
+   "type": "message",
+   "date": "2022-07-05T14:53:14",
+   "date_unixtime": "1657047194",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "reply_to_message_id": 8247,
+   "text": "i just trying to define the method could be used to create such a thing.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i just trying to define the method could be used to create such a thing."
+    }
+   ]
+  },
+  {
+   "id": 8255,
+   "type": "message",
+   "date": "2022-07-05T14:53:46",
+   "date_unixtime": "1657047226",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "if it was me, i would used a logical order there.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "if it was me, i would used a logical order there."
+    }
+   ]
+  },
+  {
+   "id": 8256,
+   "type": "message",
+   "date": "2022-07-05T14:54:07",
+   "date_unixtime": "1657047247",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "but its not on me.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but its not on me."
+    }
+   ]
+  },
+  {
+   "id": 8257,
+   "type": "message",
+   "date": "2022-07-05T14:54:07",
+   "date_unixtime": "1657047247",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "well, if block size is (and i know now), 16 bytes",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "well, if block size is (and i know now), 16 bytes"
+    }
+   ]
+  },
+  {
+   "id": 8258,
+   "type": "message",
+   "date": "2022-07-05T14:54:25",
+   "date_unixtime": "1657047265",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "then since 64 plaintext bytes match the last block (X4)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "then since 64 plaintext bytes match the last block (X4)"
+    }
+   ]
+  },
+  {
+   "id": 8259,
+   "type": "message",
+   "date": "2022-07-05T14:54:32",
+   "date_unixtime": "1657047272",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "then the 5th block is just padding",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "then the 5th block is just padding"
+    }
+   ]
+  },
+  {
+   "id": 8260,
+   "type": "message",
+   "date": "2022-07-05T14:55:22",
+   "date_unixtime": "1657047322",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "ehe i used aes rounds in a password hashing algorithm that i converted for pow use years ago... balloon",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ehe i used aes rounds in a password hashing algorithm that i converted for pow use years ago... balloon"
+    }
+   ]
+  },
+  {
+   "id": 8261,
+   "type": "message",
+   "date": "2022-07-05T14:55:32",
+   "date_unixtime": "1657047332",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "the aes rounds made it very difficult to parallelize on gpu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the aes rounds made it very difficult to parallelize on gpu"
+    }
+   ]
+  },
+  {
+   "id": 8262,
+   "type": "message",
+   "date": "2022-07-05T14:55:39",
+   "date_unixtime": "1657047339",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "cbc specifically",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "cbc specifically"
+    }
+   ]
+  },
+  {
+   "id": 8263,
+   "type": "message",
+   "date": "2022-07-05T14:55:58",
+   "date_unixtime": "1657047358",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "10kh on a ryzen, 25kh on a 1080ti",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "10kh on a ryzen, 25kh on a 1080ti"
+    }
+   ]
+  },
+  {
+   "id": 8264,
+   "type": "message",
+   "date": "2022-07-05T14:56:03",
+   "date_unixtime": "1657047363",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "so not even factors",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "so not even factors"
+    }
+   ]
+  },
+  {
+   "id": 8265,
+   "type": "message",
+   "date": "2022-07-05T15:04:51",
+   "date_unixtime": "1657047891",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "how you memories all this, its super hard for me to remember my name some times. i can not understand anything from this but even if we assume its aes cbc and we are looking for a certain string for password is not possible for me to crack it but:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "how you memories all this, its super hard for me to remember my name some times. i can not understand anything from this but even if we assume its aes cbc and we are looking for a certain string for password is not possible for me to crack it but:"
+    }
+   ]
+  },
+  {
+   "id": 8266,
+   "type": "message",
+   "date": "2022-07-05T15:05:55",
+   "date_unixtime": "1657047955",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "collation on aes can be used if we assume its matter... just google part of the cipher this way, as always a string has same value then there will be some.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "collation on aes can be used if we assume its matter... just google part of the cipher this way, as always a string has same value then there will be some."
+    }
+   ]
+  },
+  {
+   "id": 8267,
+   "type": "message",
+   "date": "2022-07-05T15:06:25",
+   "date_unixtime": "1657047985",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "reply_to_message_id": 8265,
+   "text": "lol im the same some days",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "lol im the same some days"
+    }
+   ]
+  },
+  {
+   "id": 8268,
+   "type": "message",
+   "date": "2022-07-05T15:06:54",
+   "date_unixtime": "1657048014",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "its my default mode.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "its my default mode."
+    }
+   ]
+  },
+  {
+   "id": 8269,
+   "type": "message",
+   "date": "2022-07-05T15:07:31",
+   "date_unixtime": "1657048051",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "lesser important information not accessible at all times, cant tell you what i had for dinner yesterday but will remember lots of coding stuff",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "lesser important information not accessible at all times, cant tell you what i had for dinner yesterday but will remember lots of coding stuff"
+    }
+   ]
+  },
+  {
+   "id": 8270,
+   "type": "message",
+   "date": "2022-07-05T15:16:33",
+   "date_unixtime": "1657048593",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "👍👍👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍👍👍"
+    }
+   ]
+  },
+  {
+   "id": 8271,
+   "type": "message",
+   "date": "2022-07-05T15:24:44",
+   "date_unixtime": "1657049084",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "mine is completely different, its seem scary some times but i used to it. for example as my personally challenge i wanted to find some practical offline attack based on math to make me feel good. i did it but i can not even read my own code! right now, i am back on finding a way to crack any rsa encrypted data no matter how they implanted with out any back door. it was one of my old work where i just leave it while ago. but suddenly an algo come to my mind few night ago which can crack it i think.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mine is completely different, its seem scary some times but i used to it. for example as my personally challenge i wanted to find some practical offline attack based on math to make me feel good. i did it but i can not even read my own code! right now, i am back on finding a way to crack any rsa encrypted data no matter how they implanted with out any back door. it was one of my old work where i just leave it while ago. but suddenly an algo come to my mind few night ago which can crack it i think."
+    }
+   ]
+  },
+  {
+   "id": 8272,
+   "type": "message",
+   "date": "2022-07-05T15:29:44",
+   "date_unixtime": "1657049384",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "is why its a good idea to store code or have repository",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "is why its a good idea to store code or have repository"
+    }
+   ]
+  },
+  {
+   "id": 8273,
+   "type": "message",
+   "date": "2022-07-05T15:29:55",
+   "date_unixtime": "1657049395",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "so many times have given up and rage deleted out of frustration",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "so many times have given up and rage deleted out of frustration"
+    }
+   ]
+  },
+  {
+   "id": 8274,
+   "type": "message",
+   "date": "2022-07-05T15:30:07",
+   "date_unixtime": "1657049407",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "to many months later, just be thinking idly, or with family/friends and bam - solution in mind",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "to many months later, just be thinking idly, or with family/friends and bam - solution in mind"
+    }
+   ]
+  },
+  {
+   "id": 8275,
+   "type": "message",
+   "date": "2022-07-05T15:30:11",
+   "date_unixtime": "1657049411",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "however the code is now gone",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "however the code is now gone"
+    }
+   ]
+  },
+  {
+   "id": 8276,
+   "type": "message",
+   "date": "2022-07-05T15:30:49",
+   "date_unixtime": "1657049449",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "i store them but they are not useful. its will be good. its feel good see some one with same problem.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i store them but they are not useful. its will be good. its feel good see some one with same problem."
+    }
+   ]
+  },
+  {
+   "id": 8277,
+   "type": "message",
+   "date": "2022-07-05T15:31:20",
+   "date_unixtime": "1657049480",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "i will say though, with aes in particular, a partial decode is more than possible",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i will say though, with aes in particular, a partial decode is more than possible"
+    }
+   ]
+  },
+  {
+   "id": 8278,
+   "type": "message",
+   "date": "2022-07-05T15:35:50",
+   "date_unixtime": "1657049750",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "i hope i can try this in a good mood. thank you. as a return i will send some idea for sharing enc data like shamir but its work better.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i hope i can try this in a good mood. thank you. as a return i will send some idea for sharing enc data like shamir but its work better."
+    }
+   ]
+  },
+  {
+   "id": 8279,
+   "type": "message",
+   "date": "2022-07-05T15:36:25",
+   "date_unixtime": "1657049785",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "shamir?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "shamir?"
+    }
+   ]
+  },
+  {
+   "id": 8280,
+   "type": "message",
+   "date": "2022-07-05T15:36:33",
+   "date_unixtime": "1657049793",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "is this zero knowledge proof stuff?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "is this zero knowledge proof stuff?"
+    }
+   ]
+  },
+  {
+   "id": 8281,
+   "type": "message",
+   "date": "2022-07-05T15:36:36",
+   "date_unixtime": "1657049796",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "millionaires problem",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "millionaires problem"
+    }
+   ]
+  },
+  {
+   "id": 8282,
+   "type": "message",
+   "date": "2022-07-05T15:38:30",
+   "date_unixtime": "1657049910",
+   "from": "Saber ^:)> (---}> ¿¡×( ;) <><",
+   "from_id": "user139037664",
+   "text": "no, its about another subject.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "no, its about another subject."
+    }
+   ]
+  },
+  {
+   "id": 8283,
+   "type": "message",
+   "date": "2022-08-18T23:01:26",
+   "date_unixtime": "1660878086",
+   "from": "Zil",
+   "from_id": "user980067088",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "animation.gif.mp4",
+   "file_size": 34626,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 5283,
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 220,
+   "height": 164,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8284,
+   "type": "service",
+   "date": "2022-08-26T15:05:38",
+   "date_unixtime": "1661540738",
+   "actor": "Coinbaas",
+   "actor_id": "user166247483",
+   "action": "invite_members",
+   "members": [
+    "RickyboyII"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8285,
+   "type": "message",
+   "date": "2022-08-28T14:25:09",
+   "date_unixtime": "1661711109",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "sticker.webp",
+   "file_size": 26462,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 4232,
+   "media_type": "sticker",
+   "sticker_emoji": "⌚",
+   "mime_type": "image/webp",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8287,
+   "type": "message",
+   "date": "2022-09-06T03:25:56",
+   "date_unixtime": "1662449156",
+   "from": "Alex",
+   "from_id": "user690769341",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "sticker.webp",
+   "file_size": 26462,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 4232,
+   "media_type": "sticker",
+   "sticker_emoji": "⌚",
+   "mime_type": "image/webp",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8288,
+   "type": "message",
+   "date": "2022-09-06T05:21:52",
+   "date_unixtime": "1662456112",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "animation.gif.mp4",
+   "file_size": 12590,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 12525,
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 1,
+   "width": 220,
+   "height": 166,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8289,
+   "type": "message",
+   "date": "2022-09-06T05:26:08",
+   "date_unixtime": "1662456368",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "reply_to_message_id": 8288,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "AnimatedSticker.tgs",
+   "file_size": 30701,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 7332,
+   "media_type": "sticker",
+   "sticker_emoji": "😣",
+   "mime_type": "application/x-tgsticker",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8290,
+   "type": "service",
+   "date": "2022-10-09T18:39:17",
+   "date_unixtime": "1665355157",
+   "actor": "Billy Tjie",
+   "actor_id": "user224340829",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8292,
+   "type": "service",
+   "date": "2022-10-18T19:29:29",
+   "date_unixtime": "1666135769",
+   "actor": null,
+   "actor_id": "user5306186392",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8293,
+   "type": "message",
+   "date": "2022-10-26T08:46:36",
+   "date_unixtime": "1666788396",
+   "from": null,
+   "from_id": "user5306186392",
+   "text": "Who is there",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Who is there"
+    }
+   ]
+  },
+  {
+   "id": 8294,
+   "type": "message",
+   "date": "2022-10-26T09:24:26",
+   "date_unixtime": "1666790666",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 8295,
+   "type": "message",
+   "date": "2022-11-01T23:17:32",
+   "date_unixtime": "1667359052",
+   "from": null,
+   "from_id": "user5306186392",
+   "text": "I think it is a decimal",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I think it is a decimal"
+    }
+   ]
+  },
+  {
+   "id": 8296,
+   "type": "message",
+   "date": "2022-11-05T10:24:21",
+   "date_unixtime": "1667658261",
+   "from": "Legik",
+   "from_id": "user646609236",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "2022-11-05_18-19-38.png",
+   "file_size": 4735,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 2698,
+   "mime_type": "image/png",
+   "width": 744,
+   "height": 42,
+   "text": "the text is given to the arrangement in the alphabet,\nbut missing null characters.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "the text is given to the arrangement in the alphabet,\nbut missing null characters."
+    }
+   ]
+  },
+  {
+   "id": 8298,
+   "type": "service",
+   "date": "2022-11-14T09:36:29",
+   "date_unixtime": "1668436589",
+   "actor": "VoVaM",
+   "actor_id": "user5450026673",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8300,
+   "type": "message",
+   "date": "2022-11-30T19:46:14",
+   "date_unixtime": "1669855574",
+   "from": "Billy Tjie",
+   "from_id": "user224340829",
+   "text": "Is this puzzle truly meant to be solved? Or not?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is this puzzle truly meant to be solved? Or not?"
+    }
+   ]
+  },
+  {
+   "id": 8301,
+   "type": "message",
+   "date": "2022-12-02T07:14:53",
+   "date_unixtime": "1669983293",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "text": "It is meant to be solved.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It is meant to be solved."
+    }
+   ]
+  },
+  {
+   "id": 8302,
+   "type": "message",
+   "date": "2022-12-02T07:27:42",
+   "date_unixtime": "1669984062",
+   "from": "mpeg",
+   "from_id": "user59168199",
+   "text": [
+    "I think everyone gave up on",
+    {
+     "type": "code",
+     "text": " dbbi "
+    },
+    "long ago 😅"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I think everyone gave up on"
+    },
+    {
+     "type": "code",
+     "text": " dbbi "
+    },
+    {
+     "type": "plain",
+     "text": "long ago 😅"
+    }
+   ]
+  },
+  {
+   "id": 8303,
+   "type": "message",
+   "date": "2022-12-02T07:31:29",
+   "date_unixtime": "1669984289",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "😢",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😢"
+    }
+   ]
+  },
+  {
+   "id": 8304,
+   "type": "message",
+   "date": "2022-12-02T07:33:09",
+   "date_unixtime": "1669984389",
+   "from": "Alex",
+   "from_id": "user690769341",
+   "text": "People need some hints to continue to solve this puzzle",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "People need some hints to continue to solve this puzzle"
+    }
+   ]
+  },
+  {
+   "id": 8305,
+   "type": "message",
+   "date": "2022-12-02T07:34:04",
+   "date_unixtime": "1669984444",
+   "from": "stranger",
+   "from_id": "user98171605",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 8306,
+   "type": "message",
+   "date": "2022-12-02T07:34:13",
+   "date_unixtime": "1669984453",
+   "from": "x7x7x7x6",
+   "from_id": "user633059140",
+   "text": "Or 40000+ btc exchange rate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Or 40000+ btc exchange rate"
+    }
+   ]
+  },
+  {
+   "id": 8307,
+   "type": "message",
+   "date": "2022-12-02T07:36:36",
+   "date_unixtime": "1669984596",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "text": "There might be a hint coming but not too soon.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "There might be a hint coming but not too soon."
+    }
+   ]
+  },
+  {
+   "id": 8308,
+   "type": "message",
+   "date": "2022-12-02T07:59:25",
+   "date_unixtime": "1669985965",
+   "edited": "2022-12-02T07:59:46",
+   "edited_unixtime": "1669985986",
+   "from": "Alex",
+   "from_id": "user690769341",
+   "text": "What is easier? To find the answer to this puzzle or to discover the physics Theory of Everything?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "What is easier? To find the answer to this puzzle or to discover the physics Theory of Everything?"
+    }
+   ]
+  },
+  {
+   "id": 8309,
+   "type": "message",
+   "date": "2022-12-02T17:45:40",
+   "date_unixtime": "1670021140",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "reply_to_message_id": 8308,
+   "text": "I'm not exactly sure how long it would take to discover that theory so I can't really tell 🤔.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm not exactly sure how long it would take to discover that theory so I can't really tell 🤔."
+    }
+   ]
+  },
+  {
+   "id": 8310,
+   "type": "message",
+   "date": "2022-12-10T18:09:18",
+   "date_unixtime": "1670713758",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "image_2022-12-11_07-09-14.png",
+   "file_size": 146396,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 15151,
+   "mime_type": "image/png",
+   "width": 377,
+   "height": 499,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8311,
+   "type": "message",
+   "date": "2022-12-11T10:30:38",
+   "date_unixtime": "1670772638",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "reply_to_message_id": 8310,
+   "text": ".... That is very specific",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": ".... That is very specific"
+    }
+   ]
+  },
+  {
+   "id": 8312,
+   "type": "message",
+   "date": "2022-12-11T10:32:40",
+   "date_unixtime": "1670772760",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "i googled a phrase which would be assumed to be part of a hint.. is about as vague as one can get given the pure amount of possibilities..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i googled a phrase which would be assumed to be part of a hint.. is about as vague as one can get given the pure amount of possibilities.."
+    }
+   ]
+  },
+  {
+   "id": 8313,
+   "type": "message",
+   "date": "2022-12-11T10:32:46",
+   "date_unixtime": "1670772766",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "unless you've an awful tell",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "unless you've an awful tell"
+    }
+   ]
+  },
+  {
+   "id": 8314,
+   "type": "message",
+   "date": "2022-12-11T10:32:47",
+   "date_unixtime": "1670772767",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "LOL",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "LOL"
+    }
+   ]
+  },
+  {
+   "id": 8315,
+   "type": "message",
+   "date": "2022-12-11T10:33:20",
+   "date_unixtime": "1670772800",
+   "edited": "2025-09-02T20:03:35",
+   "edited_unixtime": "1756857815",
+   "from": "Jrk Bgrt",
+   "from_id": "user9815232",
+   "text": "If the puzzle is solved you'll see how scary specific that is 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If the puzzle is solved you'll see how scary specific that is 😂"
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "🤔",
+     "recent": [
+      {
+       "from": "Zed Heres",
+       "from_id": "user5661053313",
+       "date": "2025-09-02T20:03:37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8316,
+   "type": "message",
+   "date": "2022-12-11T10:33:34",
+   "date_unixtime": "1670772814",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "ahaha youre awful",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ahaha youre awful"
+    }
+   ]
+  },
+  {
+   "id": 8317,
+   "type": "message",
+   "date": "2022-12-11T10:33:58",
+   "date_unixtime": "1670772838",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "thats like when cops say, 'if you havent done anything wrong, you have nothing to worry about'... then retracing your entire life",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "thats like when cops say, 'if you havent done anything wrong, you have nothing to worry about'... then retracing your entire life"
+    }
+   ]
+  },
+  {
+   "id": 8318,
+   "type": "message",
+   "date": "2022-12-11T10:57:58",
+   "date_unixtime": "1670774278",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "ah, -nopad suppresses any errors.. what a moment i just had",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ah, -nopad suppresses any errors.. what a moment i just had"
+    }
+   ]
+  },
+  {
+   "id": 8319,
+   "type": "message",
+   "date": "2022-12-12T12:10:14",
+   "date_unixtime": "1670865014",
+   "from": "nieods",
+   "from_id": "user809473266",
+   "text": [
+    "did you get through ",
+    {
+     "type": "mention",
+     "text": "@barrystyle"
+    },
+    " ?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "did you get through "
+    },
+    {
+     "type": "mention",
+     "text": "@barrystyle"
+    },
+    {
+     "type": "plain",
+     "text": " ?"
+    }
+   ]
+  },
+  {
+   "id": 8320,
+   "type": "message",
+   "date": "2022-12-25T17:05:40",
+   "date_unixtime": "1672005940",
+   "from": "0xColombo",
+   "from_id": "user274980096",
+   "reply_to_message_id": 8311,
+   "text": "It was inevitable",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It was inevitable"
+    }
+   ]
+  },
+  {
+   "id": 8321,
+   "type": "message",
+   "date": "2022-12-25T22:10:20",
+   "date_unixtime": "1672024220",
+   "from": "barrystyle",
+   "from_id": "user925838121",
+   "text": "no closer..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "no closer.."
+    }
+   ]
+  }
+ ]
+}
