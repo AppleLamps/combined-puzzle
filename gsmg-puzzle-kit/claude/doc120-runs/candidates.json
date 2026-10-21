@@ -1,0 +1,3103 @@
+{
+ "containers": [
+  "terminal",
+  "salphaseion-short"
+ ],
+ "created": "2026-10-21",
+ "doc": 120,
+ "gate": "pad >= 15, or recogniser, or prize_gate hit",
+ "groups": {
+  "G1_literals": [
+   {
+    "s": "matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "entermatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicematrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicethispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICETHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistenterlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTENTERLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist enter lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST ENTER LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nenter\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nENTER\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistenterthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTENTERTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist enter thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST ENTER THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nenter\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nENTER\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistlastwordsbeforearchichoiceenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTLASTWORDSBEFOREARCHICHOICEENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist lastwordsbeforearchichoice enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nlastwordsbeforearchichoice\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistlastwordsbeforearchichoicethispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTLASTWORDSBEFOREARCHICHOICETHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist lastwordsbeforearchichoice thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nlastwordsbeforearchichoice\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistthispasswordenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTTHISPASSWORDENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist thispassword enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST THISPASSWORD ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nthispassword\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nTHISPASSWORD\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistthispasswordlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTTHISPASSWORDLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist thispassword lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST THISPASSWORD LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nthispassword\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nTHISPASSWORD\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "entermatrixsumlistlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERMATRIXSUMLISTLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter matrixsumlist lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nmatrixsumlist\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nMATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "entermatrixsumlistthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERMATRIXSUMLISTTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter matrixsumlist thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER MATRIXSUMLIST THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nmatrixsumlist\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nMATRIXSUMLIST\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterlastwordsbeforearchichoicematrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERLASTWORDSBEFOREARCHICHOICEMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter lastwordsbeforearchichoice matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nlastwordsbeforearchichoice\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nLASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterlastwordsbeforearchichoicethispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERLASTWORDSBEFOREARCHICHOICETHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter lastwordsbeforearchichoice thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER LASTWORDSBEFOREARCHICHOICE THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nlastwordsbeforearchichoice\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nLASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterthispasswordmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERTHISPASSWORDMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter thispassword matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER THISPASSWORD MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nthispassword\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nTHISPASSWORD\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterthispasswordlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERTHISPASSWORDLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter thispassword lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER THISPASSWORD LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nthispassword\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nTHISPASSWORD\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicematrixsumlistenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEMATRIXSUMLISTENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice matrixsumlist enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nmatrixsumlist\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicematrixsumlistthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEMATRIXSUMLISTTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice matrixsumlist thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nmatrixsumlist\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceentermatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEENTERMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice enter matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE ENTER MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nenter\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nENTER\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceenterthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEENTERTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice enter thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE ENTER THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nenter\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nENTER\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicethispasswordmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICETHISPASSWORDMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice thispassword matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE THISPASSWORD MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nthispassword\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicethispasswordenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICETHISPASSWORDENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice thispassword enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE THISPASSWORD ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nthispassword\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordmatrixsumlistenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDMATRIXSUMLISTENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword matrixsumlist enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD MATRIXSUMLIST ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nmatrixsumlist\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nMATRIXSUMLIST\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordmatrixsumlistlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDMATRIXSUMLISTLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword matrixsumlist lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nmatrixsumlist\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nMATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordentermatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDENTERMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword enter matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD ENTER MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nenter\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nENTER\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordenterlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDENTERLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword enter lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD ENTER LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nenter\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nENTER\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordlastwordsbeforearchichoicematrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDLASTWORDSBEFOREARCHICHOICEMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword lastwordsbeforearchichoice matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nlastwordsbeforearchichoice\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nLASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordlastwordsbeforearchichoiceenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDLASTWORDSBEFOREARCHICHOICEENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword lastwordsbeforearchichoice enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD LASTWORDSBEFOREARCHICHOICE ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nlastwordsbeforearchichoice\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nLASTWORDSBEFOREARCHICHOICE\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistenterlastwordsbeforearchichoicethispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTENTERLASTWORDSBEFOREARCHICHOICETHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist enter lastwordsbeforearchichoice thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST ENTER LASTWORDSBEFOREARCHICHOICE THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nenter\nlastwordsbeforearchichoice\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nENTER\nLASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistenterthispasswordlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTENTERTHISPASSWORDLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist enter thispassword lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST ENTER THISPASSWORD LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nenter\nthispassword\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nENTER\nTHISPASSWORD\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistlastwordsbeforearchichoiceenterthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTLASTWORDSBEFOREARCHICHOICEENTERTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist lastwordsbeforearchichoice enter thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE ENTER THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nlastwordsbeforearchichoice\nenter\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE\nENTER\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistlastwordsbeforearchichoicethispasswordenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTLASTWORDSBEFOREARCHICHOICETHISPASSWORDENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist lastwordsbeforearchichoice thispassword enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE THISPASSWORD ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nlastwordsbeforearchichoice\nthispassword\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistthispasswordenterlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTTHISPASSWORDENTERLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist thispassword enter lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST THISPASSWORD ENTER LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nthispassword\nenter\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nTHISPASSWORD\nENTER\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlistthispasswordlastwordsbeforearchichoiceenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLISTTHISPASSWORDLASTWORDSBEFOREARCHICHOICEENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist thispassword lastwordsbeforearchichoice enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST THISPASSWORD LASTWORDSBEFOREARCHICHOICE ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "matrixsumlist\nthispassword\nlastwordsbeforearchichoice\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "MATRIXSUMLIST\nTHISPASSWORD\nLASTWORDSBEFOREARCHICHOICE\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "entermatrixsumlistlastwordsbeforearchichoicethispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERMATRIXSUMLISTLASTWORDSBEFOREARCHICHOICETHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter matrixsumlist lastwordsbeforearchichoice thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nmatrixsumlist\nlastwordsbeforearchichoice\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nMATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "entermatrixsumlistthispasswordlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERMATRIXSUMLISTTHISPASSWORDLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter matrixsumlist thispassword lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER MATRIXSUMLIST THISPASSWORD LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nmatrixsumlist\nthispassword\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nMATRIXSUMLIST\nTHISPASSWORD\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterlastwordsbeforearchichoicematrixsumlistthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERLASTWORDSBEFOREARCHICHOICEMATRIXSUMLISTTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter lastwordsbeforearchichoice matrixsumlist thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nlastwordsbeforearchichoice\nmatrixsumlist\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nLASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterlastwordsbeforearchichoicethispasswordmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERLASTWORDSBEFOREARCHICHOICETHISPASSWORDMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter lastwordsbeforearchichoice thispassword matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER LASTWORDSBEFOREARCHICHOICE THISPASSWORD MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nlastwordsbeforearchichoice\nthispassword\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nLASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterthispasswordmatrixsumlistlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERTHISPASSWORDMATRIXSUMLISTLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter thispassword matrixsumlist lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER THISPASSWORD MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nthispassword\nmatrixsumlist\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nTHISPASSWORD\nMATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enterthispasswordlastwordsbeforearchichoicematrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTERTHISPASSWORDLASTWORDSBEFOREARCHICHOICEMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter thispassword lastwordsbeforearchichoice matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER THISPASSWORD LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "enter\nthispassword\nlastwordsbeforearchichoice\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "ENTER\nTHISPASSWORD\nLASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicematrixsumlistenterthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEMATRIXSUMLISTENTERTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice matrixsumlist enter thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST ENTER THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nmatrixsumlist\nenter\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST\nENTER\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicematrixsumlistthispasswordenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEMATRIXSUMLISTTHISPASSWORDENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice matrixsumlist thispassword enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST THISPASSWORD ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nmatrixsumlist\nthispassword\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST\nTHISPASSWORD\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceentermatrixsumlistthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEENTERMATRIXSUMLISTTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice enter matrixsumlist thispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE ENTER MATRIXSUMLIST THISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nenter\nmatrixsumlist\nthispassword",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nENTER\nMATRIXSUMLIST\nTHISPASSWORD",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceenterthispasswordmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICEENTERTHISPASSWORDMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice enter thispassword matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE ENTER THISPASSWORD MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nenter\nthispassword\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nENTER\nTHISPASSWORD\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicethispasswordmatrixsumlistenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICETHISPASSWORDMATRIXSUMLISTENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice thispassword matrixsumlist enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE THISPASSWORD MATRIXSUMLIST ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nthispassword\nmatrixsumlist\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD\nMATRIXSUMLIST\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoicethispasswordentermatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICETHISPASSWORDENTERMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice thispassword enter matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE THISPASSWORD ENTER MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "lastwordsbeforearchichoice\nthispassword\nenter\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "LASTWORDSBEFOREARCHICHOICE\nTHISPASSWORD\nENTER\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordmatrixsumlistenterlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDMATRIXSUMLISTENTERLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword matrixsumlist enter lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD MATRIXSUMLIST ENTER LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nmatrixsumlist\nenter\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nMATRIXSUMLIST\nENTER\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordmatrixsumlistlastwordsbeforearchichoiceenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDMATRIXSUMLISTLASTWORDSBEFOREARCHICHOICEENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword matrixsumlist lastwordsbeforearchichoice enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nmatrixsumlist\nlastwordsbeforearchichoice\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nMATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordentermatrixsumlistlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDENTERMATRIXSUMLISTLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword enter matrixsumlist lastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD ENTER MATRIXSUMLIST LASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nenter\nmatrixsumlist\nlastwordsbeforearchichoice",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nENTER\nMATRIXSUMLIST\nLASTWORDSBEFOREARCHICHOICE",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordenterlastwordsbeforearchichoicematrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDENTERLASTWORDSBEFOREARCHICHOICEMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword enter lastwordsbeforearchichoice matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD ENTER LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nenter\nlastwordsbeforearchichoice\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nENTER\nLASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordlastwordsbeforearchichoicematrixsumlistenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDLASTWORDSBEFOREARCHICHOICEMATRIXSUMLISTENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword lastwordsbeforearchichoice matrixsumlist enter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD LASTWORDSBEFOREARCHICHOICE MATRIXSUMLIST ENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nlastwordsbeforearchichoice\nmatrixsumlist\nenter",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nLASTWORDSBEFOREARCHICHOICE\nMATRIXSUMLIST\nENTER",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispasswordlastwordsbeforearchichoiceentermatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORDLASTWORDSBEFOREARCHICHOICEENTERMATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword lastwordsbeforearchichoice enter matrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD LASTWORDSBEFOREARCHICHOICE ENTER MATRIXSUMLIST",
+    "src": "textarea literals"
+   },
+   {
+    "s": "thispassword\nlastwordsbeforearchichoice\nenter\nmatrixsumlist",
+    "src": "textarea literals"
+   },
+   {
+    "s": "THISPASSWORD\nLASTWORDSBEFOREARCHICHOICE\nENTER\nMATRIXSUMLIST",
+    "src": "textarea literals"
+   }
+  ],
+  "G2_textarea": [
+   {
+    "s": "shabefourfirsthintisyourlastcommand",
+    "src": "textarea"
+   },
+   {
+    "s": "SHABEFOURFIRSTHINTISYOURLASTCOMMAND",
+    "src": "textarea"
+   },
+   {
+    "s": "befourfirsthintisyourlastcommand",
+    "src": "textarea, 'sha' prefix removed"
+   },
+   {
+    "s": "BEFOURFIRSTHINTISYOURLASTCOMMAND",
+    "src": "textarea, 'sha' prefix removed"
+   },
+   {
+    "s": "shabefanstoo",
+    "src": "textarea"
+   },
+   {
+    "s": "SHABEFANSTOO",
+    "src": "textarea"
+   },
+   {
+    "s": "befanstoo",
+    "src": "textarea, 'sha' prefix removed"
+   },
+   {
+    "s": "BEFANSTOO",
+    "src": "textarea, 'sha' prefix removed"
+   },
+   {
+    "s": "theflowerblossomsthroughwhatseemstobeaconcretesurface",
+    "src": "phase 1 answer (first hint)"
+   },
+   {
+    "s": "THEFLOWERBLOSSOMSTHROUGHWHATSEEMSTOBEACONCRETESURFACE",
+    "src": "phase 1 answer (first hint)"
+   },
+   {
+    "s": "5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75",
+    "src": "first hint hash, jrk #225"
+   },
+   {
+    "s": "5AC407837447FBA24BA2802E4D1E9AECB4580AA29FEF1088CC387C180B746F75",
+    "src": "first hint hash, jrk #225"
+   }
+  ],
+  "G3_phase2": [
+   {
+    "s": "# X 2 S H 4 Y 0 Q B 15 #",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "x2sh4y0qb15",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "X2SH4Y0QB15",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "Q -> extend the name of a hackers' swordless fish, the I and W are below.",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "qextendthenameofahackersswordlessfishtheiandwarebelow",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "QEXTENDTHENAMEOFAHACKERSSWORDLESSFISHTHEIANDWAREBELOW",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "B -> ((BV80605001911AP)- (sqrt(-1)))^2",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "bbv80605001911apsqrt12",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "BBV80605001911APSQRT12",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "H -> (Answer to only this puzzle but nothing else) * -1",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "hanswertoonlythispuzzlebutnothingelse1",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "HANSWERTOONLYTHISPUZZLEBUTNOTHINGELSE1",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "S -> cha' + (vagh * jav)",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "schavaghjav",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "SCHAVAGHJAV",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "Ok kid, on the highway, let put it in the worst gear.",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "okkidonthehighwayletputitintheworstgear",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "OKKIDONTHEHIGHWAYLETPUTITINTHEWORSTGEAR",
+    "src": "phase 2 plaintext line"
+   },
+   {
+    "s": "X 2 S H 4 Y 0 Q B 15",
+    "src": "phase 2 template"
+   },
+   {
+    "s": "eps3.4_[in one of the valleys of Phillip]runtime-error.r00., where daughters hit magic keypads",
+    "src": "phase 2 braces"
+   },
+   {
+    "s": "eps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypads",
+    "src": "phase 2 braces"
+   },
+   {
+    "s": "EPS34INONEOFTHEVALLEYSOFPHILLIPRUNTIMEERRORR00WHEREDAUGHTERSHITMAGICKEYPADS",
+    "src": "phase 2 braces"
+   },
+   {
+    "s": "X232424Y0822515",
+    "src": "X2SH substituted, H=42"
+   },
+   {
+    "s": "x232424y0822515",
+    "src": "X2SH substituted, H=42"
+   },
+   {
+    "s": "1525820Y442322X",
+    "src": "X2SH reversed, H=42"
+   },
+   {
+    "s": "1525820y442322x",
+    "src": "X2SH reversed, H=42"
+   },
+   {
+    "s": "Q82B25H42S32",
+    "src": "X2SH values, H=42"
+   },
+   {
+    "s": "q82b25h42s32",
+    "src": "X2SH values, H=42"
+   },
+   {
+    "s": "X232-424Y0822515",
+    "src": "X2SH substituted, H=-42"
+   },
+   {
+    "s": "1525820Y4-42322X",
+    "src": "X2SH reversed, H=-42"
+   },
+   {
+    "s": "Q82B25H-42S32",
+    "src": "X2SH values, H=-42"
+   },
+   {
+    "s": "51°52'28.0\"N 4°24'23.2\"E",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "5152280n424232e",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "5152280N424232E",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "51 52 28.0 N 4 24 23.2 E",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "51.874444,4.406444",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "518744444406444",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "51.874444, 4.406444",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "51.8744,4.4064",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "51874444064",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "5152280N4242320E",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "5152280n4242320e",
+    "src": "X2SH coordinate (dossier 3.2)"
+   },
+   {
+    "s": "5152280424232",
+    "src": "X2SH coordinate (dossier 3.2)"
+   }
+  ],
+  "G4_phase32": [
+   {
+    "s": "I've been waiting for you.",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "ivebeenwaitingforyou",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "IVEBEENWAITINGFORYOU",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "You have many questions, and although the process has altered your consciousness, you remain irrevocably human.",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "youhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhuman",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "YOUHAVEMANYQUESTIONSANDALTHOUGHTHEPROCESSHASALTEREDYOURCONSCIOUSNESSYOUREMAINIRREVOCABLYHUMAN",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "Ergo, some of my answers you will understand, and some of them you will not.",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "ergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnot",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "ERGOSOMEOFMYANSWERSYOUWILLUNDERSTANDANDSOMEOFTHEMYOUWILLNOT",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "Concordantly, while your first question may be the most pertinent, you may or may not realize it is also irrelevant.",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "concordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevant",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "CONCORDANTLYWHILEYOURFIRSTQUESTIONMAYBETHEMOSTPERTINENTYOUMAYORMAYNOTREALIZEITISALSOIRRELEVANT",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "...",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "am I here?",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "amihere",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "AMIHERE",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "Wake up, you...",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "wakeupyou",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "WAKEUPYOU",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "I've designed you a beautiful strategic position.",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "ivedesignedyouabeautifulstrategicposition",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "IVEDESIGNEDYOUABEAUTIFULSTRATEGICPOSITION",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "One for one, four for one.",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "oneforonefourforone",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "ONEFORONEFOURFORONE",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "Raising the stakes without extra chances of winning. A fubcd-king & oracle-queen, thingky mvps, on a sad board but as wide as the first one seen.",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "raisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseen",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "RAISINGTHESTAKESWITHOUTEXTRACHANCESOFWINNINGAFUBCDKINGORACLEQUEENTHINGKYMVPSONASADBOARDBUTASWIDEASTHEFIRSTONESEEN",
+    "src": "phase 3.2 plaintext"
+   },
+   {
+    "s": "INCASEYOUMANAGETOCRACKTHISTHEPRIVATEKEYSBELONGTOHALFANDBETTERHALFANDTHEYALSONEEDFUNDSTOLIVE",
+    "src": "checkerboard message"
+   },
+   {
+    "s": "incaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolive",
+    "src": "checkerboard message"
+   },
+   {
+    "s": "halfandbetterhalf",
+    "src": "checkerboard message"
+   },
+   {
+    "s": "HALFANDBETTERHALF",
+    "src": "checkerboard message"
+   }
+  ],
+  "G5_pairs": [
+   {
+    "s": "matrixsumlist...",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "...matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist1525820y442322x",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "1525820y442322xmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist51.8744,4.4064",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "51.8744,4.4064matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist51.874444, 4.406444",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "51.874444, 4.406444matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist51.874444,4.406444",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "51.874444,4.406444matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist5152280424232",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "5152280424232matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist5152280n4242320e",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "5152280n4242320ematrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist5152280n424232e",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "5152280n424232ematrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist51874444064",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "51874444064matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist518744444406444",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "518744444406444matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlist5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistamihere",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "amiherematrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistbbv80605001911apsqrt12",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "bbv80605001911apsqrt12matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistbefanstoo",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "befanstoomatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistbefourfirsthintisyourlastcommand",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "befourfirsthintisyourlastcommandmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistconcordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevant",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "concordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevantmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlisteps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypads",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "eps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypadsmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnot",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "ergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnotmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlisthalfandbetterhalf",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "halfandbetterhalfmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlisthanswertoonlythispuzzlebutnothingelse1",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "hanswertoonlythispuzzlebutnothingelse1matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistincaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolive",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "incaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolivematrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistivebeenwaitingforyou",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "ivebeenwaitingforyoumatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistivedesignedyouabeautifulstrategicposition",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "ivedesignedyouabeautifulstrategicpositionmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistokkidonthehighwayletputitintheworstgear",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "okkidonthehighwayletputitintheworstgearmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistoneforonefourforone",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "oneforonefourforonematrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistq82b25h42s32",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "q82b25h42s32matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistqextendthenameofahackersswordlessfishtheiandwarebelow",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "qextendthenameofahackersswordlessfishtheiandwarebelowmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistraisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseen",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "raisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseenmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistschavaghjav",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "schavaghjavmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistshabefanstoo",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "shabefanstoomatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistshabefourfirsthintisyourlastcommand",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "shabefourfirsthintisyourlastcommandmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlisttheflowerblossomsthroughwhatseemstobeaconcretesurface",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "theflowerblossomsthroughwhatseemstobeaconcretesurfacematrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistwakeupyou",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "wakeupyoumatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistx232424y0822515",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "x232424y0822515matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistx2sh4y0qb15",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "x2sh4y0qb15matrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "matrixsumlistyouhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhuman",
+    "src": "pair matrixsumlist + G2-4"
+   },
+   {
+    "s": "youhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhumanmatrixsumlist",
+    "src": "pair G2-4 + matrixsumlist"
+   },
+   {
+    "s": "enter...",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "...enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter1525820y442322x",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "1525820y442322xenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter51.8744,4.4064",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "51.8744,4.4064enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter51.874444, 4.406444",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "51.874444, 4.406444enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter51.874444,4.406444",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "51.874444,4.406444enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter5152280424232",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "5152280424232enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter5152280n4242320e",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "5152280n4242320eenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter5152280n424232e",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "5152280n424232eenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter51874444064",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "51874444064enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter518744444406444",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "518744444406444enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enter5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enteramihere",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "amihereenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterbbv80605001911apsqrt12",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "bbv80605001911apsqrt12enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterbefanstoo",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "befanstooenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterbefourfirsthintisyourlastcommand",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "befourfirsthintisyourlastcommandenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterconcordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevant",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "concordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevantenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "entereps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypads",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "eps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypadsenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnot",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "ergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnotenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterhalfandbetterhalf",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "halfandbetterhalfenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterhanswertoonlythispuzzlebutnothingelse1",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "hanswertoonlythispuzzlebutnothingelse1enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterincaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolive",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "incaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstoliveenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterivebeenwaitingforyou",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "ivebeenwaitingforyouenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterivedesignedyouabeautifulstrategicposition",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "ivedesignedyouabeautifulstrategicpositionenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterokkidonthehighwayletputitintheworstgear",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "okkidonthehighwayletputitintheworstgearenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enteroneforonefourforone",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "oneforonefourforoneenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterq82b25h42s32",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "q82b25h42s32enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterqextendthenameofahackersswordlessfishtheiandwarebelow",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "qextendthenameofahackersswordlessfishtheiandwarebelowenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterraisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseen",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "raisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseenenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterschavaghjav",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "schavaghjaventer",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "entershabefanstoo",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "shabefanstooenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "entershabefourfirsthintisyourlastcommand",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "shabefourfirsthintisyourlastcommandenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "entertheflowerblossomsthroughwhatseemstobeaconcretesurface",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "theflowerblossomsthroughwhatseemstobeaconcretesurfaceenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterwakeupyou",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "wakeupyouenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterx232424y0822515",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "x232424y0822515enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enterx2sh4y0qb15",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "x2sh4y0qb15enter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "enteryouhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhuman",
+    "src": "pair enter + G2-4"
+   },
+   {
+    "s": "youhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhumanenter",
+    "src": "pair G2-4 + enter"
+   },
+   {
+    "s": "lastwordsbeforearchichoice...",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "...lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice1525820y442322x",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "1525820y442322xlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice51.8744,4.4064",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "51.8744,4.4064lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice51.874444, 4.406444",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "51.874444, 4.406444lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice51.874444,4.406444",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "51.874444,4.406444lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice5152280424232",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "5152280424232lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice5152280n4242320e",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "5152280n4242320elastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice5152280n424232e",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "5152280n424232elastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice51874444064",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "51874444064lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice518744444406444",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "518744444406444lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoice5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceamihere",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "amiherelastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicebbv80605001911apsqrt12",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "bbv80605001911apsqrt12lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicebefanstoo",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "befanstoolastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicebefourfirsthintisyourlastcommand",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "befourfirsthintisyourlastcommandlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceconcordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevant",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "concordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevantlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceeps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypads",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "eps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypadslastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnot",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "ergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnotlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicehalfandbetterhalf",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "halfandbetterhalflastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicehanswertoonlythispuzzlebutnothingelse1",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "hanswertoonlythispuzzlebutnothingelse1lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceincaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolive",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "incaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolivelastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceivebeenwaitingforyou",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "ivebeenwaitingforyoulastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceivedesignedyouabeautifulstrategicposition",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "ivedesignedyouabeautifulstrategicpositionlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceokkidonthehighwayletputitintheworstgear",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "okkidonthehighwayletputitintheworstgearlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceoneforonefourforone",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "oneforonefourforonelastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceq82b25h42s32",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "q82b25h42s32lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceqextendthenameofahackersswordlessfishtheiandwarebelow",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "qextendthenameofahackersswordlessfishtheiandwarebelowlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceraisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseen",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "raisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseenlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceschavaghjav",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "schavaghjavlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceshabefanstoo",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "shabefanstoolastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceshabefourfirsthintisyourlastcommand",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "shabefourfirsthintisyourlastcommandlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicetheflowerblossomsthroughwhatseemstobeaconcretesurface",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "theflowerblossomsthroughwhatseemstobeaconcretesurfacelastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicewakeupyou",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "wakeupyoulastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicex232424y0822515",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "x232424y0822515lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoicex2sh4y0qb15",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "x2sh4y0qb15lastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "lastwordsbeforearchichoiceyouhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhuman",
+    "src": "pair lastwordsbeforearchichoice + G2-4"
+   },
+   {
+    "s": "youhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhumanlastwordsbeforearchichoice",
+    "src": "pair G2-4 + lastwordsbeforearchichoice"
+   },
+   {
+    "s": "thispassword...",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "...thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword1525820y442322x",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "1525820y442322xthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword51.8744,4.4064",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "51.8744,4.4064thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword51.874444, 4.406444",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "51.874444, 4.406444thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword51.874444,4.406444",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "51.874444,4.406444thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword5152280424232",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "5152280424232thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword5152280n4242320e",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "5152280n4242320ethispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword5152280n424232e",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "5152280n424232ethispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword51874444064",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "51874444064thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword518744444406444",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "518744444406444thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispassword5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordamihere",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "amiherethispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordbbv80605001911apsqrt12",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "bbv80605001911apsqrt12thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordbefanstoo",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "befanstoothispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordbefourfirsthintisyourlastcommand",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "befourfirsthintisyourlastcommandthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordconcordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevant",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "concordantlywhileyourfirstquestionmaybethemostpertinentyoumayormaynotrealizeitisalsoirrelevantthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordeps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypads",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "eps34inoneofthevalleysofphillipruntimeerrorr00wheredaughtershitmagickeypadsthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnot",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "ergosomeofmyanswersyouwillunderstandandsomeofthemyouwillnotthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordhalfandbetterhalf",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "halfandbetterhalfthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordhanswertoonlythispuzzlebutnothingelse1",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "hanswertoonlythispuzzlebutnothingelse1thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordincaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolive",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "incaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolivethispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordivebeenwaitingforyou",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "ivebeenwaitingforyouthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordivedesignedyouabeautifulstrategicposition",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "ivedesignedyouabeautifulstrategicpositionthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordokkidonthehighwayletputitintheworstgear",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "okkidonthehighwayletputitintheworstgearthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordoneforonefourforone",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "oneforonefourforonethispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordq82b25h42s32",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "q82b25h42s32thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordqextendthenameofahackersswordlessfishtheiandwarebelow",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "qextendthenameofahackersswordlessfishtheiandwarebelowthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordraisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseen",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "raisingthestakeswithoutextrachancesofwinningafubcdkingoraclequeenthingkymvpsonasadboardbutaswideasthefirstoneseenthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordschavaghjav",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "schavaghjavthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordshabefanstoo",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "shabefanstoothispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordshabefourfirsthintisyourlastcommand",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "shabefourfirsthintisyourlastcommandthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordtheflowerblossomsthroughwhatseemstobeaconcretesurface",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "theflowerblossomsthroughwhatseemstobeaconcretesurfacethispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordwakeupyou",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "wakeupyouthispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordx232424y0822515",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "x232424y0822515thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordx2sh4y0qb15",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "x2sh4y0qb15thispassword",
+    "src": "pair G2-4 + thispassword"
+   },
+   {
+    "s": "thispasswordyouhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhuman",
+    "src": "pair thispassword + G2-4"
+   },
+   {
+    "s": "youhavemanyquestionsandalthoughtheprocesshasalteredyourconsciousnessyouremainirrevocablyhumanthispassword",
+    "src": "pair G2-4 + thispassword"
+   }
+  ]
+ },
+ "plan": [
+  [
+   "sha256hex",
+   "evp-sha256"
+  ],
+  [
+   "sha256hex",
+   "evp-md5"
+  ],
+  [
+   "sha256digest",
+   "evp-sha256"
+  ],
+  [
+   "sha256digest",
+   "evp-md5"
+  ],
+  [
+   "sha256(digest)",
+   "evp-sha256"
+  ],
+  [
+   "sha256(digest)",
+   "evp-md5"
+  ],
+  [
+   "sha256(hex)",
+   "evp-sha256"
+  ],
+  [
+   "sha256(hex)",
+   "evp-md5"
+  ],
+  [
+   "SHA256HEX",
+   "evp-sha256"
+  ],
+  [
+   "SHA256HEX",
+   "evp-md5"
+  ],
+  [
+   "sha256hex(s+lf)",
+   "evp-sha256"
+  ],
+  [
+   "sha256hex(s+lf)",
+   "evp-md5"
+  ],
+  [
+   "raw",
+   "evp-sha256"
+  ],
+  [
+   "raw",
+   "evp-md5"
+  ],
+  [
+   "raw",
+   "pbkdf2-sha256-10000"
+  ],
+  [
+   "sha256hex",
+   "pbkdf2-sha256-10000"
+  ],
+  [
+   "SHA256HEX",
+   "pbkdf2-sha256-10000"
+  ]
+ ]
+}

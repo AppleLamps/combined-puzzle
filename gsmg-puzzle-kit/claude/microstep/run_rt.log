@@ -1,0 +1,7 @@
+controls fired: key1, phase2, phase3, phase3.2 open under hex/sha256 and are recognised
+candidates 47, decrypts 2256, valid pads 4 (expected ~8.8)
+FLAG	phase2	hex	sha256	pad8	causality
+
+real	0m0.601s
+user	0m0.509s
+sys	0m0.023s

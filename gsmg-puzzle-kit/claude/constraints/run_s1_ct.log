@@ -1,0 +1,2 @@
+controls fired: key1 + phase 2/3/3.2 (rt), 11 planted containers (7 made by openssl CLI) recovered
+candidates 428, decrypts 359520, valid pads 1408 (expected ~1410)

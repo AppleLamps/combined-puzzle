@@ -1,0 +1,2 @@
+FLAG	cosmic	form2	md0	pad1	distinct	bodylen=1327	cand=3237373039363845373327352833myquestionthispassword	body=02ae5a66063e9db64f0263f3d5ba7e30fdd3357dd3e8ba661896de6138080795802ea177a647163c
+FLAG	short	form2	md0	pad3	pad>=3	bodylen=77	cand=rtofthepuzzletnhthispassword	body=72e1f424ba4a7c72b21c64a244be5e19ced23cfaf459058d8daf0873c453378f4fdbf857a680f918

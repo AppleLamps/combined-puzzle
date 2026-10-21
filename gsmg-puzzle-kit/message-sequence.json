@@ -1,0 +1,104 @@
+{
+  "description": "The OP_RETURN messages inscribed by the vanity address 1GSMG9VDL... in May 2026 (blocks 949573 to 949664), in the order the transactions spend each other. Re-pulled from mempool.space on 2026-09-29. Explanatory note: 07-onchain-facts.md.",
+  "signer": {
+    "address": "1GSMG9VDLTU6jyuG7bkNMdmnHBLtbbM51M",
+    "address_form": "uncompressed public key",
+    "pubkey_compressed": "02d3b82257151b41c423b3881ff5eca2f5f649bed33c269fdda16c5ecd7a0c93c1",
+    "pubkey_uncompressed": "04d3b82257151b41c423b3881ff5eca2f5f649bed33c269fdda16c5ecd7a0c93c11d62837e801e7b9ff4e9f15127a5278ab995093afdf1e49925042c9034e770ac",
+    "relationship_to_prize_P": "independent (not k*P, P/k, or P+m*G within +/-200)",
+    "funded_by": "11111119536NnU2vPAvoQhvkheQ8ejYJ (block 949573, 20,000 sat)"
+  },
+  "order_note": "Each transaction spends the change output of the one before it, so the spend chain fixes the order even though five of them share a block and a timestamp. Earlier versions of this file listed hereismysecret before yourlastcommand and GSMGBH before GSMGJH; the chain order is the one below.",
+  "sequence": [
+    {
+      "block_height": 949573,
+      "time": "2026-05-15T22:40:29Z",
+      "txid": "0b609ab380f1aba7d9b36a318930d4ec7d51c4fd0728186f0101712b00304f17",
+      "kind": "funding",
+      "note": "no OP_RETURN"
+    },
+    {
+      "block_height": 949574,
+      "time": "2026-05-15T22:48:51Z",
+      "txid": "e430715b19eaf3aa1f2f9b2a8b9e48f4a7fce0e7a50e5fcee2da7a54d6d29018",
+      "chain_position": 1,
+      "kind": "text",
+      "text": "leavethematrix"
+    },
+    {
+      "block_height": 949574,
+      "time": "2026-05-15T22:48:51Z",
+      "txid": "5132c90023baa6861a9fca804c054e0fe5684892294a7dfa66dddb89302365c3",
+      "chain_position": 2,
+      "kind": "text",
+      "text": "yourlastcommand"
+    },
+    {
+      "block_height": 949574,
+      "time": "2026-05-15T22:48:51Z",
+      "txid": "80a8dde46584c8019b1fcde7308f0afd0f92731d2a6ae9284c8d07740190f602",
+      "chain_position": 3,
+      "kind": "text",
+      "text": "hereismysecret"
+    },
+    {
+      "block_height": 949574,
+      "time": "2026-05-15T22:48:51Z",
+      "txid": "cd415b951ea1bc3e5872a9fa6609e548544962d9cb0ecd3585c12a027e280983",
+      "chain_position": 4,
+      "kind": "text",
+      "text": "isolveditwithanabacus"
+    },
+    {
+      "block_height": 949574,
+      "time": "2026-05-15T22:48:51Z",
+      "txid": "6b4e2cb8f8d3099cd953c05b7e03cd032fb0df48ca281726e474dba5202e5ee2",
+      "chain_position": 5,
+      "kind": "text",
+      "text": "secondanswer"
+    },
+    {
+      "block_height": 949653,
+      "time": "2026-05-16T12:15:28Z",
+      "txid": "808f812f13a3137e48a0c95a818ae661a80fafaf409237efbb4b62b8198a4c13",
+      "chain_position": 6,
+      "kind": "binary",
+      "label": "GSMGJH",
+      "separator_byte": "0x20",
+      "data_hex": "0495c689eb5aef53f7fa1ef650c56eac1a0e1b590f2a82fe6ddb7484ece385b37545eba470edae4316701263ce3abb194eca111d6107add0a30aab8bd77785f5",
+      "data_len": 64
+    },
+    {
+      "block_height": 949653,
+      "time": "2026-05-16T12:15:28Z",
+      "txid": "22381b6013973fedbe7821eb82e60d50ef61ee6e430896bd47f209b12157614b",
+      "chain_position": 7,
+      "kind": "binary",
+      "label": "GSMGBH",
+      "data_hex": "1f3afc610c1befe34300a07ec01e74c6b7f1e870dd3ff7e46e726363d0c9f18451650af99010f0495f43c1a332d45190631275191e429aa2dc1aae3b25ec79b35f",
+      "data_len": 65
+    },
+    {
+      "block_height": 949664,
+      "time": "2026-05-16T13:13:13Z",
+      "txid": "973646bb3204b9e67e0fcb58efabe951aaf3714020c277f77092ae59bc1a1bd6",
+      "chain_position": 8,
+      "kind": "text",
+      "text": "GSMG WITNESS BLK 949653 TX 808f812f"
+    },
+    {
+      "block_height": 961334,
+      "time": "2026-08-06T20:34:00Z",
+      "txid": "112ceccab20bb32a460390537d69eb3a58bea6553a7db4dc28cac072be8a6bf3",
+      "kind": "sweep",
+      "note": "no OP_RETURN"
+    }
+  ],
+  "dust_witness_address": "11111119536NnU2vPAvoQhvkheQ8ejYJ",
+  "dust_sats": 546,
+  "payload_files": {
+    "payload-gsmgbh.txt": "data_hex of GSMGBH (65 bytes)",
+    "payload-gsmgjh.txt": "data_hex of GSMGJH (64 bytes, sent after a 0x20 separator byte)"
+  },
+  "interpretation_status": "No interpretation or creator attribution is asserted for this sequence or its payloads."
+}

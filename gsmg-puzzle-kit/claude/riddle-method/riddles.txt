@@ -1,0 +1,46 @@
+# matrixsumlist, ONE reading: the Architect's only line that selects "from the matrix" a list whose
+# numbers form a sum: "select from the matrix 23 individuals, 16 female, 7 male" (16 + 7 = 23).
+# The creator kept those numbers and deleted "the matrix" from that line. Two writings of the same answer:
+#   M = twentythreesixteenseven   (as the creator's own Architect text spells them)
+#   M = 231607                    (as the film's numbers)
+# lastwordsbeforearchichoice, ONE reading: the Architect's last words before Neo chooses a door,
+# the line the creator's Architect text deleted along with the whole door scene:
+#   L = sheisgoingtodieandthereisnothingyoucandotostopit
+# (stopit is the same answer cut to its last words)
+twentythreesixteenseven
+231607
+sheisgoingtodieandthereisnothingyoucandotostopit
+stopit
+# assemblies: M+L (thispassword = the pair), with "our first hint" as the last part, and L+M
+twentythreesixteensevensheisgoingtodieandthereisnothingyoucandotostopit
+sheisgoingtodieandthereisnothingyoucandotostopittwentythreesixteenseven
+twentythreesixteensevensheisgoingtodieandthereisnothingyoucandotostopitthispassword
+twentythreesixteensevensheisgoingtodieandthereisnothingyoucandotostopit5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+twentythreesixteensevensheisgoingtodieandthereisnothingyoucandotostopittheflowerblossomsthroughwhatseemstobeaconcretesurface
+twentythreesixteensevenentersheisgoingtodieandthereisnothingyoucandotostopit
+twentythreesixteenseven
+sheisgoingtodieandthereisnothingyoucandotostopit
+twentythreesixteensevenstopit
+stopittwentythreesixteenseven
+twentythreesixteensevenstopitthispassword
+twentythreesixteensevenstopit5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+twentythreesixteensevenstopittheflowerblossomsthroughwhatseemstobeaconcretesurface
+twentythreesixteensevenenterstopit
+twentythreesixteenseven
+stopit
+231607sheisgoingtodieandthereisnothingyoucandotostopit
+sheisgoingtodieandthereisnothingyoucandotostopit231607
+231607sheisgoingtodieandthereisnothingyoucandotostopitthispassword
+231607sheisgoingtodieandthereisnothingyoucandotostopit5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+231607sheisgoingtodieandthereisnothingyoucandotostopittheflowerblossomsthroughwhatseemstobeaconcretesurface
+231607entersheisgoingtodieandthereisnothingyoucandotostopit
+231607
+sheisgoingtodieandthereisnothingyoucandotostopit
+231607stopit
+stopit231607
+231607stopitthispassword
+231607stopit5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+231607stopittheflowerblossomsthroughwhatseemstobeaconcretesurface
+231607enterstopit
+231607
+stopit

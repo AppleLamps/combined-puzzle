@@ -1,0 +1,27 @@
+cross: 10677 x 175, mid=thispassword part 3/4 orders=3
+  ... row 3 of 10677
+  ... row 503 of 10677
+  ... row 1003 of 10677
+  ... row 1503 of 10677
+  ... row 2003 of 10677
+  ... row 2503 of 10677
+  ... row 3003 of 10677
+  ... row 3503 of 10677
+  ... row 4003 of 10677
+  ... row 4503 of 10677
+  ... row 5003 of 10677
+  ... row 5503 of 10677
+  ... row 6003 of 10677
+  ... row 6503 of 10677
+  ... row 7003 of 10677
+  ... row 7503 of 10677
+  ... row 8003 of 10677
+  ... row 8503 of 10677
+  ... row 9003 of 10677
+  ... row 9503 of 10677
+  ... row 10003 of 10677
+  ... row 10503 of 10677
+SUMMARY tests=22419600 validpads=88258 expected~87920 flags=1
+  terminal pads: 1:28932 2:105
+  short pads: 1:29517 2:120 3:1
+  cosmic pads: 1:29469 2:114

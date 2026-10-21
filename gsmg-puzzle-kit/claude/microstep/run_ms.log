@@ -1,0 +1,6 @@
+controls fired: key1, phase2/3/3.2 open; planted openssl containers opened for plant-crlf, plant-lf, plant-spcrlf
+candidates 599, decrypts 64692, valid pads 240 (expected ~253.7)
+
+real	0m21.448s
+user	0m21.146s
+sys	0m0.023s

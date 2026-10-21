@@ -1,0 +1,2 @@
+controls fired: key1, phase2, phase3, phase3.2 open under hex/sha256 and are recognised
+candidates 25, decrypts 1200, valid pads 3 (expected ~4.7)

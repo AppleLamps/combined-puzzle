@@ -1,0 +1,6 @@
+cross: 153 x 2081, mid=thispassword part 2/4 orders=3
+  ... row 2 of 153
+SUMMARY tests=7591488 validpads=29913 expected~29771 flags=1
+  terminal pads: 1:9922 2:41
+  short pads: 1:9907 2:46 3:1
+  cosmic pads: 1:9969 2:27

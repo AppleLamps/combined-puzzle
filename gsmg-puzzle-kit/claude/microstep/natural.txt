@@ -1,0 +1,34 @@
+# M2 (round 7). The SalPhaseIon textarea is the only password page with no /(..) format tag (phase 2: /(aaa, connected enf);
+# phase 3 parts and 3.2 answers: /(aa,connected enf) etc.). With no tag nothing is enforced, so the answer is typed as written:
+# its own case, spaces and punctuation. The community, after three tagged gates, used lowercase-connected forms only.
+# The film answers as written (Architect, The Matrix Reloaded):
+She is going to die, and there is nothing that you can do to stop it.
+She is going to die and there is nothing you can do to stop it.
+she is going to die and there is nothing you can do to stop it
+She is going to die and there is nothing you can do to stop it
+The problem is choice.
+The problem is
+the problem is
+As you adequately put, the problem is choice.
+As you adequately put, the problem is
+We won't.
+We won't
+we won't
+wewon't
+Hope.
+Hope
+Choice. The problem is choice.
+...the anomaly revealed as both beginning and end.
+the anomaly revealed as both beginning and end
+There are two doors.
+There are two doors
+# matrixsumlist readings as written
+23 individuals, 16 female, 7 male
+23, 16, 7
+23 16 7
+Your life is the sum of a remainder of an unbalanced equation inherent to the programming of the matrix.
+Your life is the sum of a remainder of an unbalanced equation inherent to the programming of this puzzle.
+your life is the sum of a remainder of an unbalanced equation inherent to the programming of the matrix
+Neo
+The One
+Trace program: running

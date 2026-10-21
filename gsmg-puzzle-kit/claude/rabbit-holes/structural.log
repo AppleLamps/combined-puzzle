@@ -1,0 +1,5 @@
+controls: key1 ok, 3 gates open, raw-ASCII form reproduces 148XH2YBmL..., window scanners find planted key
+S1 evp keys/ivs/salts: 24 | S2 raw ASCII: 128 | S3 windows: 11200 | S5 poster ints: 18 | S6 digit ints: 8
+S4 base58 runs >=50 chars: [('phase3.2', 69, b'916917121375'), ('textarea', 884, b'dbbibfbhccbe'), ('textarea', 76, b'X4KUWnWkCvoZ')]
+total scalar tests: 11378 | hits: none
+S7 convention outputs (answers, passwords, plaintexts): 19 | hits: none

@@ -1,0 +1,4 @@
+controls fired: key1, phase2, phase3, phase3.2 open under hex/sha256 and are recognised
+candidates 21, decrypts 1008, valid pads 5 (expected ~4.0)
+000000000019 scalar False reversed False
+4a5e1e4baab8 scalar False reversed False

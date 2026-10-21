@@ -1,0 +1,17 @@
+object                                   stats -> verdict
+phase2                                   {'n': 656, 'chi_z': 0.09, 'bit_z': -1.02, 'zlib': 1.017, 'dup_blocks': 0, 'serial': -0.052, 'max_ic_x256': 2.52} -> looks random
+phase3                                   {'n': 4096, 'chi_z': 0.55, 'bit_z': 1.03, 'zlib': 1.003, 'dup_blocks': 0, 'serial': 0.01, 'max_ic_x256': 1.58} -> looks random
+phase3.2                                 {'n': 2432, 'chi_z': -1.37, 'bit_z': -0.5, 'zlib': 1.005, 'dup_blocks': 0, 'serial': -0.002, 'max_ic_x256': 1.83} -> looks random
+terminal                                 {'n': 80, 'chi_z': 1.3, 'bit_z': 1.19, 'zlib': 1.137, 'dup_blocks': 0, 'serial': 0.048, 'max_ic_x256': 7.21} -> looks random
+short                                    {'n': 80, 'chi_z': 1.04, 'bit_z': 1.11, 'zlib': 1.137, 'dup_blocks': 0, 'serial': 0.086, 'max_ic_x256': 8.39} -> looks random
+cosmic                                   {'n': 1328, 'chi_z': -0.23, 'bit_z': -0.45, 'zlib': 1.008, 'dup_blocks': 0, 'serial': -0.022, 'max_ic_x256': 2.52} -> looks random
+FAKE xor repeating key                   {'n': 1328, 'chi_z': 86.66, 'bit_z': -41.27, 'zlib': 0.645, 'dup_blocks': 0, 'serial': 0.081, 'max_ic_x256': 20.64} -> byte histogram, bit bias, compressible, periodic
+FAKE byte shift (Vigenere)               {'n': 1328, 'chi_z': 79.14, 'bit_z': -3.9, 'zlib': 0.684, 'dup_blocks': 0, 'serial': -0.003, 'max_ic_x256': 20.64} -> byte histogram, compressible, periodic
+FAKE AES-ECB of repetitive text          {'n': 1328, 'chi_z': 110.96, 'bit_z': 12.88, 'zlib': 0.029, 'dup_blocks': 82, 'serial': -0.071, 'max_ic_x256': 256.0} -> byte histogram, bit bias, compressible, repeated blocks (ECB), periodic
+FAKE xor 32-byte key (one block of key)  {'n': 1328, 'chi_z': 14.01, 'bit_z': 0.52, 'zlib': 1.008, 'dup_blocks': 0, 'serial': -0.079, 'max_ic_x256': 19.04} -> byte histogram, periodic
+null, 2000 random 64-byte bodies (flag rates): {'looks random': 1939, 'periodic': 60, 'byte histogram': 1}
+short max IC x256 = 8.39 ; random 64-byte bodies at or above it: 0.35825
+terminal max IC x256 = 7.21 ; random 64-byte bodies at or above it: 0.62475
+plaintext range: short/terminal (64, 79)  cosmic (1312, 1327)
+cosmic as nested envelope: [('hex', 656), ('b64 CRLF', 960, 943, 'inner plaintext 928..943'), ('b64 CRLF+trail', 960, 943, 'inner plaintext 928..943'), ('b64 LF', 976, 959, 'inner plaintext 944..959'), ('b64 LF+trail', 976, 959, 'inner plaintext 944..959'), ('b64 one line', 992, 975, 'inner plaintext 960..975'), ('raw', 1312)]
+short as nested envelope: [('b64 LF', 'inner envelope 48 B, inner plaintext 16..31 B'), ('b64 LF+trail', 'inner envelope 48 B, inner plaintext 16..31 B'), ('b64 CRLF', 'inner envelope 48 B, inner plaintext 16..31 B'), ('b64 CRLF+trail', 'inner envelope 48 B, inner plaintext 16..31 B')]

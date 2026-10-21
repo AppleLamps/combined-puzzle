@@ -1,0 +1,8 @@
+# R31: "our first hint is your last command". The page is a terminal transcript (it prints `enter`);
+# in a shell, your last command is literally `!!` and the first history entry is `!1`.
+!!
+!1
+!-1
+!1!!
+!!!1
+sudo !!

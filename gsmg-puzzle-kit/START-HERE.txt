@@ -1,0 +1,74 @@
+GSMG.io 5 BTC puzzle: working kit
+Current interpretation: 6 October 2026. Artifact and balance snapshots keep their dates.
+
+WHAT THIS IS
+Four established gates are open (phase 1, phase 2, phase 3, phase 3.2). Terminal,
+SalPhaseIon short and Cosmic Duality remain locked. No new unlock or key is known.
+No search is running. The unresolved work includes operation, operands, assembly,
+receiver, selection and lock order. Neither filler purpose nor a compulsory
+short-first route is proven. Historical nulls apply to their exact tested tuples.
+
+READ IN THIS ORDER
+0. claude/status.md                     Short current summary.
+1. claude/119-current-evidence-ledger.md Current findings, corrections and limits.
+2. claude/118-correctness-audit-remediation.md  Detector and validation limits.
+3. claude/GSMG-PUZZLE-DOSSIER.md        Detailed primary material and historical runs.
+4. README.md                          Project index and standing rules.
+5. tools/README-tools.md               Historical tooling and current source caveats.
+6. claude/67-document-index.md         Historical document inventory and older errata.
+7. claude/FAILED-ATTEMPTS-LOG.md + -INDEX.md   Historical do-not-repeat record.
+
+The 23-atom enumeration and Atlas-derived work are historical, not queued tasks.
+No runtime or cipher checks were run for the 6 October documentation update.
+
+FILES
+claude/            dossier, status, doc index, docs 21, 67, 114 to 119, critical review,
+                   failed-attempts register, one folder per 3-4 Oct workstream
+                   (riddle-method/rt.py etc.), doc116-runs/ logs
+tools/             20 scripts and the C harness (h3.c), start at tools/README-tools.md
+04-key-material.md, 07-onchain-facts.md, ARTIFACTS.md   reference sheets
+keys.json, message-sequence.json, matrix.json           machine-readable reference data
+jrk_messages.txt   the creator's 492 messages in the solver chat (2019 to 2026)
+puzzle.png         the poster
+follow_the_white_rabbit.png + 8 rebus tiles (red_*.png, blue_*.png, black_*.png)
+phase2.b64, phase3.b64, phase3.2.b64             the three opened gates (base64 containers)
+terminal.b64, salphaseion-short.b64, cosmic-duality.b64   the three shut containers
+salphaseion-textarea.txt   the 1,075-character textarea (dbbi, faed, decoded labels)
+dbbi.txt, faed.txt, checkerboard_vic_91.txt, payload-gsmg*.txt   extracted objects
+architect_letters_1539.txt   the 1,539-letter Architect text
+theseedisplanted.html, phase2_choice.html, salphaseion_phase3.html   captured pages
+
+HISTORICAL RUN INSTRUCTIONS (not executed or newly authorized by this update)
+Read doc 118 first: source-only checks do not validate encrypted runtime behavior.
+Python 3, gcc with OpenSSL headers:
+  pip install pycryptodome coincurve numpy pillow english-words
+  mkdir work && cp tools/* work/
+  python3 tools/setup.py . work           # 13 PASS lines, then "setup done"
+  cd work
+  python3 mk.py && python3 mkctl.py       # container files and planted controls
+  gcc -O3 -march=native -Wno-deprecated-declarations -o h3 h3.c -lcrypto -lm
+  python3 verify.py ../claude/GSMG-PUZZLE-DOSSIER.md   # 60 checks, 0 failed
+  python3 poster.py ../claude/GSMG-PUZZLE-DOSSIER.md   # poster spiral checks
+  python3 mkpools.py                      # msl_new 4218, msl_old 6459, lw_core 175, lw_loc 6613
+Confirm the controls fire before trusting any null (tools/README-tools.md, "Controls").
+python3 wintest.py runs the win test on any candidate list.
+
+STANDING RULES
+- Do not submit anything more to gsmg.io/phase1verification.
+- Do not contact the creator. Do not try to locate the creator or the creator's
+  laptop; the 2026 "hidden laptop" statements are out of scope.
+- Do not propose anything that needs another person.
+- No new method gets CPU unless it retrodicts phases 2, 3 and 3.2. One reading,
+  one candidate. No more coverage sweeps.
+- On-chain OP_RETURN text is unauthenticated.
+- The win test is free and silent. A long run of negatives says nothing about proximity.
+- A null counts only when its control fired.
+
+NOTES ON THE HISTORICAL KIT
+- The historical project catalog includes documents not present in this checkout.
+  claude/67-document-index.md maps them to dossier sections; references do not
+  imply that their original candidate lists or run receipts are available here.
+- jrk_messages.txt line 1813 had one em dash inside another user's quoted reply
+  preview. It is replaced with " - ". Nothing else in the file is changed.
+- Five candidate pools have no script and one (msl_rem) rebuilds at 74%. The
+  definitions are in tools/README-tools.md.

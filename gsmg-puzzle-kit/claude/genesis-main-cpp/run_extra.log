@@ -1,0 +1,3 @@
+planted control fired: openssl container keyed by candidate 'Bitcoin v0.3.10' recovered from cands.txt
+# retrodiction: row 1616 of v0.3.10, text after " 4 ", rebuilds the phase-3 password (verified sha)
+multiline forms 2, decrypts 96, valid pads 1, flags 0

@@ -1,0 +1,5 @@
+candidates 583885
+SUMMARY tests=14013240 validpads=54396 expected~54954 flags=1
+  terminal pads: 1:18025 2:67
+  short pads: 1:18086 2:62
+  cosmic pads: 1:18102 2:53 3:1

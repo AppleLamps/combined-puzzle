@@ -1,0 +1,84 @@
+{
+  "cell_grid": [
+    "WWKKWBWWKWKKWY",
+    "KKBKWWKKKWBWKK",
+    "KKWKKKWBWWKWWK",
+    "WKKWBWWWWKKKWK",
+    "WBKWWWKKWYWKKW",
+    "KWWKKWYWKWYWKK",
+    "KWWBKKWWWKWYWW",
+    "BKKWFWWWWWKWYW",
+    "WWWKKBWKKKKKWB",
+    "KKBKKKYWKKWWWK",
+    "KKWKWWWYWKKWKK",
+    "KKKKWWKWBWKKWW",
+    "WBWKKKWKWYWKKW",
+    "WKBWKKWKKWBWKK"
+  ],
+  "bit_grid": [
+    "00110100101100",
+    "11110011101011",
+    "11011101001001",
+    "01101000011101",
+    "01100011000110",
+    "10011000100011",
+    "10011100010000",
+    "11100000001000",
+    "00011101111101",
+    "11111100110001",
+    "11010000011011",
+    "11110010101100",
+    "01011101000110",
+    "01101101101011"
+  ],
+  "legend": {
+    "K": "black, bit=1",
+    "B": "blue, bit=1",
+    "W": "white, bit=0",
+    "Y": "yellow, bit=0",
+    "F": "#FEFEFE near-white anomaly, bit=0"
+  },
+  "spiral_direction": "top-left cell, then down, counterclockwise inward",
+  "spiral_bit_length": 196,
+  "spiral_decoded_message": "gsmg.io/theseedisplanted",
+  "blue_spiral_indices_0based": [
+    7,
+    15,
+    23,
+    31,
+    47,
+    55,
+    63,
+    87,
+    95,
+    103,
+    111,
+    127,
+    135,
+    159,
+    183
+  ],
+  "yellow_spiral_indices_0based": [
+    39,
+    71,
+    79,
+    119,
+    143,
+    151,
+    167,
+    175,
+    191
+  ],
+  "colored_cell_count": {
+    "blue": 15,
+    "yellow": 9
+  },
+  "qr_decoded": "https://www.blockchain.com/btc/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+  "anomaly_cell": {
+    "row_0based": 7,
+    "col_0based": 4,
+    "color": "#FEFEFE",
+    "row_major_1based_index": 103
+  },
+  "note_rabbit": "A white-rabbit line drawing puts black ink on seven cells (rows 6-8, cols 6-9). Each of them is a white cell by majority colour, so every cell value here is the majority colour measured on puzzle.png (29 Sep 2026): 86 black, 85 white, 15 blue, 9 yellow, 1 #FEFEFE. The four centre cells (spiral 192 to 195, rows 6-7, cols 6-7) are white and read 0000. An earlier version of this file had cell (7, 6) as black; that was wrong."
+}

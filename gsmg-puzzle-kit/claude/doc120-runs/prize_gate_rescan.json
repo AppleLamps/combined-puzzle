@@ -1,0 +1,1222 @@
+{
+ "backend": "coincurve",
+ "binary_files": 1,
+ "bytes_scanned": 2414084,
+ "candidates_by_kind": {
+  "b64": 48,
+  "b64blob/raw32": 24197,
+  "dec": 48,
+  "derived_sha256": 262,
+  "derived_sha256_stripped": 247,
+  "hex64": 66853,
+  "raw32": 2391
+ },
+ "candidates_per_file": {
+  ".gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "/tmp/claude-0/-home-user/8e9be897-8d27-563b-8bbc-3798ad0ecee3/scratchpad/kitwork/architect.txt": {
+   "derived_sha256": 1
+  },
+  "/tmp/claude-0/-home-user/8e9be897-8d27-563b-8bbc-3798ad0ecee3/scratchpad/kitwork/b64/cosmic.b64": {
+   "derived_sha256": 1
+  },
+  "/tmp/claude-0/-home-user/8e9be897-8d27-563b-8bbc-3798ad0ecee3/scratchpad/kitwork/b64/phase2.b64": {
+   "derived_sha256": 1
+  },
+  "/tmp/claude-0/-home-user/8e9be897-8d27-563b-8bbc-3798ad0ecee3/scratchpad/kitwork/b64/short.b64": {
+   "derived_sha256": 1
+  },
+  "/tmp/claude-0/-home-user/8e9be897-8d27-563b-8bbc-3798ad0ecee3/scratchpad/kitwork/b64/terminal.b64": {
+   "derived_sha256": 1
+  },
+  "/tmp/claude-0/-home-user/8e9be897-8d27-563b-8bbc-3798ad0ecee3/scratchpad/kitwork/prize_gate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "/tmp/claude-0/-home-user/8e9be897-8d27-563b-8bbc-3798ad0ecee3/scratchpad/kitwork/pt32.bin": {
+   "raw32": 2391
+  },
+  "/tmp/claude-0/-home-user/8e9be897-8d27-563b-8bbc-3798ad0ecee3/scratchpad/kitwork/ta.txt": {
+   "derived_sha256": 1
+  },
+  "04-key-material.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 71
+  },
+  "07-onchain-facts.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "ARTIFACTS.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 11
+  },
+  "CLAUDE.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "START-HERE.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "architect_letters_1539.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "checkerboard_vic_91.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 86
+  },
+  "claude/114-joint-8446-halves-and-231607-selection.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/115-queue-dbbi-b-zero-mod10-crosses-and-operand-fit-tests.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/116-coverage-gaps-closed.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/117-riddle-rounds-and-the-pair-ledger.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/118-correctness-audit-remediation.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/119-current-evidence-ledger.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/120-full-padding-gate-and-shared-prize-gate.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "claude/21-checkpoint-oracle.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/67-document-index.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/FAILED-ATTEMPTS-INDEX.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/FAILED-ATTEMPTS-LOG.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "claude/GSMG-PUZZLE-DOSSIER.md": {
+   "b64blob/raw32": 1263,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 81
+  },
+  "claude/common-flaw/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/common-flaw/assembly.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/common-flaw/cross.txt": {
+   "b64": 4,
+   "b64blob/raw32": 127,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/common-flaw/gen.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/common-flaw/run_ct.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/common-flaw/run_ms.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/common-flaw/run_rt.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/constraints/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/constraints/run_s1_ct.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/constraints/run_s1_ms.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/constraints/run_s1_rt.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/constraints/s1.txt": {
+   "b64": 2,
+   "b64blob/raw32": 467,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2779
+  },
+  "claude/critical-review-2026-10-03.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/adj_adj.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/adj_adj.p0.flags": {
+   "b64blob/raw32": 665,
+   "dec": 15,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 4027
+  },
+  "claude/doc116-runs/adj_adj.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/adj_adj.p1.flags": {
+   "b64": 2,
+   "b64blob/raw32": 467,
+   "dec": 7,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 3565
+  },
+  "claude/doc116-runs/adj_adj.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/adj_adj.p2.flags": {
+   "b64": 1,
+   "b64blob/raw32": 918,
+   "dec": 9,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 3982
+  },
+  "claude/doc116-runs/adj_adj.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/adj_adj.p3.flags": {
+   "b64": 1,
+   "b64blob/raw32": 313,
+   "dec": 8,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 3042
+  },
+  "claude/doc116-runs/all_words_ab.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/all_words_ab.p0.flags": {
+   "b64blob/raw32": 363,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 869
+  },
+  "claude/doc116-runs/all_words_ab.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/all_words_ab.p1.flags": {
+   "b64blob/raw32": 291,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1234
+  },
+  "claude/doc116-runs/all_words_ab.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/all_words_ab.p2.flags": {
+   "b64blob/raw32": 1229,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2837
+  },
+  "claude/doc116-runs/all_words_ab.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/all_words_ab.p3.flags": {
+   "b64": 2,
+   "b64blob/raw32": 781,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1532
+  },
+  "claude/doc116-runs/all_words_ba.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/all_words_ba.p0.flags": {
+   "b64blob/raw32": 307,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1485
+  },
+  "claude/doc116-runs/all_words_ba.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/all_words_ba.p1.flags": {
+   "b64blob/raw32": 280,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1467
+  },
+  "claude/doc116-runs/all_words_ba.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/all_words_ba.p2.flags": {
+   "b64blob/raw32": 290,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1388
+  },
+  "claude/doc116-runs/all_words_ba.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/all_words_ba.p3.flags": {
+   "b64blob/raw32": 572,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1403
+  },
+  "claude/doc116-runs/base_all.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/base_all.p0.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 17
+  },
+  "claude/doc116-runs/controls.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_all.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_all.p0.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 17
+  },
+  "claude/doc116-runs/core_all.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_all.p1.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 17
+  },
+  "claude/doc116-runs/core_all.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_all.p2.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 17
+  },
+  "claude/doc116-runs/core_all.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_all.p3.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 17
+  },
+  "claude/doc116-runs/core_cards.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_cards.p0.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 68
+  },
+  "claude/doc116-runs/core_cards.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_cards.p1.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 85
+  },
+  "claude/doc116-runs/core_cards.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_cards.p2.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 68
+  },
+  "claude/doc116-runs/core_cards.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_cards.p3.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 102
+  },
+  "claude/doc116-runs/core_n2.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_n2.p0.flags": {
+   "b64": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 85
+  },
+  "claude/doc116-runs/core_n2.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_n2.p1.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 68
+  },
+  "claude/doc116-runs/core_n2.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_n2.p2.flags": {
+   "b64blob/raw32": 32,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 123
+  },
+  "claude/doc116-runs/core_n2.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_n2.p3.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 377
+  },
+  "claude/doc116-runs/core_rem.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_rem.p0.flags": {
+   "b64blob/raw32": 143,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 463
+  },
+  "claude/doc116-runs/core_rem.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_rem.p1.flags": {
+   "b64blob/raw32": 131,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 543
+  },
+  "claude/doc116-runs/core_rem.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_rem.p2.flags": {
+   "b64blob/raw32": 44,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 412
+  },
+  "claude/doc116-runs/core_rem.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_rem.p3.flags": {
+   "b64blob/raw32": 128,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 548
+  },
+  "claude/doc116-runs/core_rgb.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_rgb.p0.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 51
+  },
+  "claude/doc116-runs/core_rgb.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_rgb.p1.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 85
+  },
+  "claude/doc116-runs/core_rgb.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_rgb.p2.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 218
+  },
+  "claude/doc116-runs/core_rgb.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/core_rgb.p3.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 102
+  },
+  "claude/doc116-runs/new_loc_ab.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/new_loc_ab.p0.flags": {
+   "b64": 1,
+   "b64blob/raw32": 17,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 188
+  },
+  "claude/doc116-runs/new_loc_ab.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/new_loc_ab.p1.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 204
+  },
+  "claude/doc116-runs/new_loc_ab.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/new_loc_ab.p2.flags": {
+   "b64blob/raw32": 399,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 797
+  },
+  "claude/doc116-runs/new_loc_ab.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/new_loc_ab.p3.flags": {
+   "b64": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 350
+  },
+  "claude/doc116-runs/new_loc_ba.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/new_loc_ba.p0.flags": {
+   "b64": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 503
+  },
+  "claude/doc116-runs/new_loc_ba.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/new_loc_ba.p1.flags": {
+   "b64blob/raw32": 392,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 504
+  },
+  "claude/doc116-runs/new_loc_ba.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/new_loc_ba.p2.flags": {
+   "b64blob/raw32": 53,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 667
+  },
+  "claude/doc116-runs/new_loc_ba.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/new_loc_ba.p3.flags": {
+   "b64blob/raw32": 225,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 488
+  },
+  "claude/doc116-runs/progress.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ab.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ab.p0.flags": {
+   "b64blob/raw32": 334,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 926
+  },
+  "claude/doc116-runs/rgb_words_ab.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ab.p1.flags": {
+   "b64blob/raw32": 844,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1595
+  },
+  "claude/doc116-runs/rgb_words_ab.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ab.p2.flags": {
+   "b64blob/raw32": 788,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2113
+  },
+  "claude/doc116-runs/rgb_words_ab.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ab.p3.flags": {
+   "b64blob/raw32": 521,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1951
+  },
+  "claude/doc116-runs/rgb_words_ba.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ba.p0.flags": {
+   "b64blob/raw32": 638,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1729
+  },
+  "claude/doc116-runs/rgb_words_ba.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ba.p1.flags": {
+   "b64blob/raw32": 268,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2160
+  },
+  "claude/doc116-runs/rgb_words_ba.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ba.p2.flags": {
+   "b64": 1,
+   "b64blob/raw32": 546,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2371
+  },
+  "claude/doc116-runs/rgb_words_ba.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/rgb_words_ba.p3.flags": {
+   "b64": 1,
+   "b64blob/raw32": 472,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1918
+  },
+  "claude/doc116-runs/rungaps.sh": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/walk_lw.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/walk_lw.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/walk_lw.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/walk_lw.p2.flags": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 17
+  },
+  "claude/doc116-runs/walk_lw.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/walk_words.p0.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/walk_words.p1.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/walk_words.p1.flags": {
+   "b64blob/raw32": 6,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 51
+  },
+  "claude/doc116-runs/walk_words.p2.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/walk_words.p2.flags": {
+   "b64blob/raw32": 12,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 51
+  },
+  "claude/doc116-runs/walk_words.p3.err": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc116-runs/win.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc120-runs/candidates.json": {
+   "b64": 16,
+   "b64blob/raw32": 403,
+   "derived_sha256_stripped": 1,
+   "hex64": 8
+  },
+  "claude/doc120-runs/candidates.sha256": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc120-runs/pair_ledger.tsv": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/doc120-runs/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 9215
+  },
+  "claude/genesis-main-cpp/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/genesis-main-cpp/cands.txt": {
+   "b64blob/raw32": 228,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 158
+  },
+  "claude/genesis-main-cpp/gen.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/genesis-main-cpp/gen.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/genesis-main-cpp/main_v0.1.0.cpp": {
+   "b64blob/raw32": 68,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 69
+  },
+  "claude/genesis-main-cpp/main_v0.3.10.cpp": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 6
+  },
+  "claude/genesis-main-cpp/run_ct.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/genesis-main-cpp/run_extra.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/genesis-main-cpp/run_extra.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/genesis-main-cpp/run_rt.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/independent-model/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/independent-model/ct.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/independent-model/new1.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/independent-model/new2.txt": {
+   "b64": 3,
+   "b64blob/raw32": 167,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 99
+  },
+  "claude/independent-model/perlock.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/independent-model/run1.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/independent-model/run2.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/independent-model/run3_ct.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/independent-model/run3_rt.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/microstep/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/microstep/causality_last.txt": {
+   "b64blob/raw32": 19,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/microstep/ledger.txt": {
+   "b64blob/raw32": 144,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2016
+  },
+  "claude/microstep/ms.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/microstep/natural.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/microstep/run_ct.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/microstep/run_ms.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/microstep/run_rt.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/photo-analysis/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/photo-analysis/photo_checks.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/photo-analysis/run.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/rabbit-holes/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/rabbit-holes/leak.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/rabbit-holes/leak.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/rabbit-holes/structural.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/rabbit-holes/structural.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2
+  },
+  "claude/riddle-method/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/audit_results.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/gen_riddle.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/gen_windows.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/retro.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/riddles.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/riddles2.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/riddles3.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/riddles4.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/riddles5.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/riddle-method/riddles6.txt": {
+   "b64": 8,
+   "b64blob/raw32": 12,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 3022
+  },
+  "claude/riddle-method/rt.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/selection/atoms.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/selection/control5.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/selection/control7.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/selection/sel.c": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/source-pointer/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/source-pointer/cands.txt": {
+   "b64blob/raw32": 142,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 33
+  },
+  "claude/source-pointer/gen.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/source-pointer/run_ct.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/source-pointer/run_rt.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "claude/status.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "cosmic-duality.b64": {
+   "b64blob/raw32": 1313,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "dbbi.txt": {
+   "derived_sha256": 1
+  },
+  "faed.txt": {
+   "derived_sha256": 1
+  },
+  "jrk_messages.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "keys.json": {
+   "derived_sha256": 1
+  },
+  "matrix.json": {
+   "derived_sha256": 1
+  },
+  "message-sequence.json": {
+   "derived_sha256": 1,
+   "hex64": 211
+  },
+  "messages_2026-09-01_to_2026-10-05.txt": {
+   "b64": 2,
+   "b64blob/raw32": 155,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 30
+  },
+  "payload-gsmgbh.txt": {
+   "derived_sha256": 1
+  },
+  "payload-gsmgjh.txt": {
+   "derived_sha256": 1
+  },
+  "phase2.b64": {
+   "b64blob/raw32": 641,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "phase2_choice.html": {
+   "b64": 1,
+   "b64blob/raw32": 1445,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "phase3.2.b64": {
+   "b64blob/raw32": 2417,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "phase3.b64": {
+   "b64blob/raw32": 2635,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "salphaseion-short.b64": {
+   "b64blob/raw32": 65,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "salphaseion-textarea.txt": {
+   "derived_sha256": 1,
+   "hex64": 52
+  },
+  "salphaseion_phase3.html": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "terminal.b64": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tests/test_audit_output.c": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tests/test_correctness_audit.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tests/test_leak_import.cjs": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "theseedisplanted.html": {
+   "derived_sha256": 1
+  },
+  "tools/README-tools.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/arch_words.txt": {
+   "derived_sha256": 1
+  },
+  "tools/audit_output.h": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/candidate_encoding.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/chk_flags.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/constfit.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/envelope_campaign.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/fit.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/h3.c": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/mk.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/mk_rgb.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/mkctl.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/mkmissing.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/mkmore.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/mkpools.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/mkrem_approx.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/n1.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/n2.py": {
+   "b64blob/raw32": 17,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/plant.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/pools.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/poster.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/prize_gate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 3
+  },
+  "tools/seg.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/setup.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/verify.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/wintest.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  }
+ },
+ "files_scanned": 292,
+ "hits": [],
+ "media_or_archive_skipped_by_extension": {
+  ".png": 11
+ },
+ "other_skips": [],
+ "prize_gate_sha256": "9dfa1d2fb4769d57997fc9b438f1bb566ddd7b604bdefd7cd745745ff14594b3",
+ "prize_gate_version": "1.0.1",
+ "seconds": 5.7,
+ "selftest": "PASS",
+ "targets": {
+  "better_half": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "half": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe"
+ },
+ "unique_scalars_gated": 94046
+}

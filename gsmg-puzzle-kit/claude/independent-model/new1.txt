@@ -1,0 +1,77 @@
+# N1 "our first hint": by the creator's own word, his first message that calls itself a hint is #867 ("Here's the hint ... giveit = givetit"); #879 calls it "yesterday's 'hint'". #225 was "a hash which we provided", not called a hint.
+giveit = givetit
+giveit=givetit
+giveitgivetit
+giveit
+givetit
+givetitgiveit
+# N2 #8446 "it's in front of your eyes"; the only "in front of" in the chain is phase 3's "just add giveit in front of the answer", the subject of that first hint. So the last command is: put giveit in front.
+giveittwentythreesixteenseven
+giveit231607
+giveitsheisgoingtodieandthereisnothingyoucandotostopit
+giveitstopit
+giveittheproblemis
+giveitwewont
+giveitneo
+giveityourlife
+giveittheone
+giveitsmith
+giveitmatrixsumlist
+giveitlastwordsbeforearchichoice
+giveitthispassword
+giveityinyang
+giveitmatrixsumlistlastwordsbeforearchichoice
+giveitmatrixsumlistlastwordsbeforearchichoicethispassword
+givetitmatrixsumlistlastwordsbeforearchichoice
+giveittheflowerblossomsthroughwhatseemstobeaconcretesurface
+giveit5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+# N3 the core chain and labels, never run under PBKDF2 or AES-128/192 (T41 ran 8 ciphers with EVP only)
+causality
+jacquefrescogiveitjustonesecondheisenbergsuncertaintyprinciple
+theflowerblossomsthroughwhatseemstobeaconcretesurface
+5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+theseedisplanted
+gsmg.io/theseedisplanted
+yellowblueprimes
+matrixsumlist
+lastwordsbeforearchichoice
+thispassword
+yinyang
+cosmicduality
+salphaseion
+SalPhaseIon
+enter
+matrixsumlistlastwordsbeforearchichoicethispassword
+matrixsumlistenterlastwordsbeforearchichoicethispassword
+yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyang
+shabefourfirsthintisyourlastcommand
+sha256ourfirsthintisyourlastcommand
+ourfirsthintisyourlastcommand
+shabefanstoo
+theanswertoo
+hashthetext
+HASHTHETEXT
+GSMGIO5BTCPUZZLECHALLENGE1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+INCASEYOUMANAGETOCRACKTHISTHEPRIVATEKEYSBELONGTOHALFANDBETTERHALFANDTHEYALSONEEDFUNDSTOLIVE
+incaseyoumanagetocrackthistheprivatekeysbelongtohalfandbetterhalfandtheyalsoneedfundstolive
+halfandbetterhalf
+betterhalf
+THEMATRIXHASYOU
+thematrixhasyou
+FUBCDORA.LETHINGKYMVPS/JQZXW
+# N4 the Terminal's own neighbours in the 3.2 plaintext: "... am I here?" (three dots = WHY), "Wake up, you..." ("Wake up, Neo"), "One for one, four for one."
+why
+whyamihere
+wakeupneo
+wakeup
+oneforonefourforone
+raisingthestakeswithoutextrachancesofwinning
+# N5 surplus as text
+ciaobellao
+ciaobella
+yourselfself
+selfself
+andoen
+by
+BY

@@ -1,0 +1,4 @@
+FLAG	cosmic	form0	md1	pad3	pad>=3	bodylen=1325	cand=estion5-of-heart-4-of-heart-3-of-heart	body=083a91dfa08f6f06205d61e9373195a1dcd132ff20a38690f3bb7d965fc59ba0f377dfa13bb8968c
+FLAG	cosmic	form0	md1	pad1	distinct	bodylen=1327	cand=ablyhere5-spadethispassword	body=29f5d110fbd27f4f3cff9853d06955ef7e4da02f20358ed2fda4dd3e373d47f2b0ba0f80685b9c90
+FLAG	cosmic	form0	md0	pad1	distinct	bodylen=1327	cand=fourofdiamondsthreeofdiamondschhasledyouinexorablyhere	body=442e52a126c0cdcdf3d75315516943d02a9e09edbd583562f05879ca5b205d8337c56f7c6266278e
+FLAG	terminal	form2	md1	pad3	pad>=3	bodylen=77	cand=uhaventansweredmyquestiononetwothreefourdiamonds	body=d5a8cf46b0dbaae844445052655ddbcec05923816194e08b936ef6fbfc950c424153f257bad3dbca

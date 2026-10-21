@@ -1,0 +1,35 @@
+cross: 14936 x 6341, mid=thispassword part 1/4 orders=1
+  ... row 1 of 14936
+  ... row 501 of 14936
+  ... row 1001 of 14936
+  ... row 1501 of 14936
+  ... row 2001 of 14936
+  ... row 2501 of 14936
+  ... row 3001 of 14936
+  ... row 3501 of 14936
+  ... row 4001 of 14936
+  ... row 4501 of 14936
+  ... row 5001 of 14936
+  ... row 5501 of 14936
+  ... row 6001 of 14936
+  ... row 6501 of 14936
+  ... row 7001 of 14936
+  ... row 7501 of 14936
+  ... row 8001 of 14936
+  ... row 8501 of 14936
+  ... row 9001 of 14936
+  ... row 9501 of 14936
+  ... row 10001 of 14936
+  ... row 10501 of 14936
+  ... row 11001 of 14936
+  ... row 11501 of 14936
+  ... row 12001 of 14936
+  ... row 12501 of 14936
+  ... row 13001 of 14936
+  ... row 13501 of 14936
+  ... row 14001 of 14936
+  ... row 14501 of 14936
+SUMMARY tests=852382584 validpads=3342370 expected~3342677 flags=60
+  terminal pads: 1:1110114 2:4190 3:12
+  short pads: 1:1110388 2:4219 3:18
+  cosmic pads: 1:1109209 2:4204 3:16

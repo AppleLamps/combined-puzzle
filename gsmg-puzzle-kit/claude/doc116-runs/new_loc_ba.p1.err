@@ -1,0 +1,14 @@
+cross: 4218 x 6613, mid=thispassword part 1/4 orders=2
+  ... row 1 of 4218
+  ... row 501 of 4218
+  ... row 1001 of 4218
+  ... row 1501 of 4218
+  ... row 2001 of 4218
+  ... row 2501 of 4218
+  ... row 3001 of 4218
+  ... row 3501 of 4218
+  ... row 4001 of 4218
+SUMMARY tests=334882320 validpads=1313445 expected~1313264 flags=26
+  terminal pads: 1:435362 2:1770 3:9
+  short pads: 1:436224 2:1673 3:6
+  cosmic pads: 1:436739 2:1657 3:5
