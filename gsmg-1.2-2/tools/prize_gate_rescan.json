@@ -1,0 +1,253 @@
+{
+ "backend": "coincurve",
+ "binary_files": 0,
+ "bytes_scanned": 33556659,
+ "candidates_by_kind": {
+  "b64": 26,
+  "b64blob/hex64": 4,
+  "b64blob/raw32": 9698,
+  "dec": 16,
+  "derived_sha256": 44,
+  "derived_sha256_stripped": 43,
+  "hex64": 19141,
+  "mini": 2,
+  "wif_compressed": 8,
+  "wif_uncompressed": 8
+ },
+ "candidates_per_file": {
+  "GSMG-PUZZLE-DOSSIER.md": {
+   "b64blob/raw32": 1959,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 135
+  },
+  "SESSION-LOG-131.md": {
+   "b64blob/raw32": 23,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "SESSION-LOG-135.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "SESSION-LOG-141.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "gsmg-group-telegram-by-year/2019.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "gsmg-group-telegram-by-year/2020.json": {
+   "b64": 3,
+   "b64blob/raw32": 20,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 62,
+   "wif_uncompressed": 1
+  },
+  "gsmg-group-telegram-by-year/2021.json": {
+   "b64": 2,
+   "b64blob/raw32": 38,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2,
+   "wif_uncompressed": 1
+  },
+  "gsmg-group-telegram-by-year/2022.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "gsmg-group-telegram-by-year/2023.json": {
+   "b64": 1,
+   "b64blob/raw32": 852,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2664,
+   "wif_uncompressed": 1
+  },
+  "gsmg-group-telegram-by-year/2024.json": {
+   "b64": 2,
+   "b64blob/raw32": 403,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 5369,
+   "wif_compressed": 2,
+   "wif_uncompressed": 1
+  },
+  "gsmg-group-telegram-by-year/2025.json": {
+   "b64": 6,
+   "b64blob/hex64": 4,
+   "b64blob/raw32": 2482,
+   "dec": 2,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 5592,
+   "mini": 2,
+   "wif_compressed": 6,
+   "wif_uncompressed": 4
+  },
+  "gsmg-group-telegram-by-year/2026.json": {
+   "b64": 11,
+   "b64blob/raw32": 2038,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 4399
+  },
+  "source/onchain/2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 431
+  },
+  "source/onchain/88cdb3cdca12b471551b1b26188508a14ca5fd8a415223ffb7c190381c9b9df3.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "source/onchain/a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 243
+  },
+  "source/onchain/a82052a216cad8f57dee2a039c3b5cef9b5fcb2bc1c3bffa94d713cee0b30e2b.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 92
+  },
+  "source/onchain/f28b0b68684b41c98c8c59f43558e2bfbe5aba30fef05fd7dc465dea62fbaed1.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 151
+  },
+  "source/onchain/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "source/pages/phase2_choice.html": {
+   "b64": 1,
+   "b64blob/raw32": 1649,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "source/pages/salphaseion_phase3.html": {
+   "b64blob/raw32": 234,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "source/pages/theseedisplanted.html": {
+   "derived_sha256": 1
+  },
+  "tools/gsmg_solve/.gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/attempt_faed_matrix.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/attempt_filmchoice.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/attempt_keyed.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/attempt_labels.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/attempt_lastcommand.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/attempt_matrix.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/attempt_select.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_solve/harness.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/.gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/lib.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/tg.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/verify_architect_checkerboard.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/verify_chain.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/verify_colorlayer_dbbi.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/verify_containers_textarea.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/verify_key_relations.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/verify_onchain_relations.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/verify_poster.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/gsmg_verify/verify_wintest_segments.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/prize_gate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  }
+ },
+ "files_scanned": 44,
+ "hits": [],
+ "media_or_archive_skipped_by_extension": {
+  ".png": 10
+ },
+ "other_skips": [],
+ "prize_gate_sha256": "9dfa1d2fb4769d57997fc9b438f1bb566ddd7b604bdefd7cd745745ff14594b3",
+ "prize_gate_version": "1.0.1",
+ "seconds": 4.5,
+ "selftest": "PASS",
+ "targets": {
+  "better_half": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "half": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe"
+ },
+ "unique_scalars_gated": 28990
+}

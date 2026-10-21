@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "source": "https://blockstream.info/api/tx/{txid}",
+  "network": "bitcoin-mainnet",
+  "prize": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+  "secondary": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "funding_vanity_address_unattributed": "3GSMG24TujqfMJG1kQoBX18DzJHQLeJYMK",
+  "transactions": {
+    "halving_message": {
+      "txid": "a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383",
+      "height": 630001,
+      "block_position": 230,
+      "op_return_utf8": "Halving",
+      "prize_output": {"vout": 1, "value": 700}
+    },
+    "first_split": {
+      "txid": "2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13",
+      "height": 630001,
+      "block_position": 231,
+      "locktime": 629998,
+      "inputs": [
+        {"txid": "73e48ff571a7e9a4387574a50cf2fcb7b21b6ea5702c777a035664df57cbce02", "vout": 1, "value": 500000000},
+        {"txid": "a2d2481d57e976dbaa84812a504097150ded09216957aeb7bf0177eaec6a7a8b", "vout": 1, "value": 666},
+        {"txid": "a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383", "vout": 1, "value": 700}
+      ],
+      "outputs": [
+        {"address": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe", "value": 249815966},
+        {"address": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa", "value": 250000000}
+      ],
+      "fee": 185400
+    },
+    "neighbor_message": {
+      "txid": "a82052a216cad8f57dee2a039c3b5cef9b5fcb2bc1c3bffa94d713cee0b30e2b",
+      "height": 691563,
+      "op_return_utf8": "GSMG.io neighbors, half and double",
+      "outputs": {
+        "minus_one": "1G1kRAFR68y6CUq1SAJMzHmjd6sEEgtVUT",
+        "half": "16eEXbSuKN8tvcos1iKjdju6dAaWWRBMEs",
+        "double": "1KHMK2C8uBptRz67FbrXy43yHzhZG16Hbm",
+        "plus_one": "1PhXF3xVQ8Sg9FomBcmRwRbvvGfm3Y2os1"
+      },
+      "output_value_each": 5000
+    },
+    "dual_funding": {
+      "txid": "f28b0b68684b41c98c8c59f43558e2bfbe5aba30fef05fd7dc465dea62fbaed1",
+      "outputs": [
+        {"vout": 0, "address": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe", "value": 666},
+        {"vout": 1, "address": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa", "value": 700}
+      ]
+    },
+    "second_split": {
+      "txid": "88cdb3cdca12b471551b1b26188508a14ca5fd8a415223ffb7c190381c9b9df3",
+      "height": 840725,
+      "date_utc": "2024-04-24",
+      "locktime": 840003,
+      "inputs": [
+        {"txid": "2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13", "vout": 0, "value": 249815966},
+        {"txid": "81d359291da8eeafea2fee9a1304497afeed289829495da19f1a5688573770fa", "vout": 0, "value": 535500},
+        {"txid": "f28b0b68684b41c98c8c59f43558e2bfbe5aba30fef05fd7dc465dea62fbaed1", "vout": 0, "value": 666}
+      ],
+      "outputs": [
+        {"address": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa", "value": 125000000},
+        {"address": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe", "value": 125324300}
+      ],
+      "fee": 27832
+    }
+  }
+}
