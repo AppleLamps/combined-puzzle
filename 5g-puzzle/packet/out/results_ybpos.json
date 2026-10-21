@@ -1,0 +1,31 @@
+{
+  "spec_sha256": "17cd000cf2c2ef96efc0a0e38e430ffb0e8e947476a3b6ee458d45b65a33aebc",
+  "n_attempts": 960,
+  "successes": [
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_md5",
+      "password": "sha256hex(157)",
+      "pt_len": 1327,
+      "pt_sha256": "32abc4873246725a0d606e131d753e2deb4994fec3ae1600b3d32d00836a9075",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "1ee7b22",
+      "pt_len": 1327,
+      "pt_sha256": "b71ec14a2656b6f5fab2a8ae2a17bbf7e6f1524d620531a74751e7c4908ce317",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "1256",
+      "pt_len": 1327,
+      "pt_sha256": "84cd475520e1f651edf5e4a52eb2d1b7ae33c63955360d12d33da3be7b986f38",
+      "printable": null
+    }
+  ],
+  "prize_hits": []
+}

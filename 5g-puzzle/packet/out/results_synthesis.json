@@ -1,0 +1,13 @@
+{
+  "password_list_sha256": "60f293268a3824fae40b5436e5589ba4aae235b10db2f2ad31cf253f269d2baf",
+  "n_passwords": 94,
+  "n_attempts": 188,
+  "decrypts": [],
+  "prize_hits": [],
+  "blobs": {
+    "phase32_leftover.b64": {
+      "len": 96,
+      "sha256": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9"
+    }
+  }
+}

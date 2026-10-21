@@ -1,0 +1,10 @@
+# Artifact sources
+
+- `cosmic_duality.txt` — https://raw.githubusercontent.com/jackdevs66/GSMG5_CDuality/main/cosmic_duality.txt
+- `puzzle.png`, `SalPhaselonCosmicDuality.png` — https://github.com/puzzlehunt/gsmgio-5btc-puzzle
+- `phase32_leftover.b64` — leftover OpenSSL blob from that README (phase 3.2)
+- `salph_small_aes.b64` — Salphaseion page AES fragment from the same README
+- `salphaseion_letters.txt` — 765 a–i letters before the first `z` in that README’s Salphaseion blockquote
+
+Prize check uses the publicly revealed uncompressed pubkey of `1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe`.
+This packet does not broadcast keys or WIFs.

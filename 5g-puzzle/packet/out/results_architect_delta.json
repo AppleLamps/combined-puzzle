@@ -1,0 +1,91 @@
+{
+  "spec_sha256": "7a7529313a72fc6daf8ab08db700543d7fd4d206e4998b66ef95b9e24b02bc7f",
+  "n_passwords": 42,
+  "kdfs": [
+    "evp_md5",
+    "evp_sha1",
+    "evp_sha256",
+    "pbkdf2_sha256_10000"
+  ],
+  "selftest": {
+    "decrypted": true,
+    "got_sha256": "4f7a1e4efe4bf6c5581e32505c019657cb7b030e90232d33f011aca6a5e9c081",
+    "expected_sha256": "4f7a1e4efe4bf6c5581e32505c019657cb7b030e90232d33f011aca6a5e9c081",
+    "pass": true
+  },
+  "successes": [
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "evp_md5",
+      "password": "HOPEFULLY",
+      "pt_len": 79,
+      "pt_sha256": "26434cfd98cc1156f85468c79c1e0dd19014bd16a4e46abe27c7cca9d88c7064",
+      "printable": null,
+      "gsmg_path": false
+    },
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "evp_sha256",
+      "password": "THIS PUZZLE",
+      "pt_len": 79,
+      "pt_sha256": "d1d49b6d881446cb821a1dfe27bd7ebe8efa5101e337cb57e338320c993a3179",
+      "printable": null,
+      "gsmg_path": false
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "sha256hex(CIAO BELLA O)",
+      "pt_len": 79,
+      "pt_sha256": "cd508433943d6f8ea86e07fa0af3875d5bb8a8b7d8d161d896a0ca25e06a05ae",
+      "printable": null,
+      "gsmg_path": false
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "THISPUZZLESEDULOUSLYAVOIDITTHEYOUTHESOURCECODESHOPEFULLYPRIMEBASICSOVERTWENTYTHREECIPHERSSIXTEENENCRYPTIONSSEVENINTERTWINEDPASSWORDSFINDTHEACTUALPRIVATEKEYNOTETHATALSOBRUTEFORCINGMIGHTBEREQUIREDYOURWILLPOWERYOURWILLTOLIVETHEENTIRENESSOFYOURSELFSELF",
+      "pt_len": 79,
+      "pt_sha256": "7d13563ab1a8df5291ae70da769d6beeab84d7ec8e31d22805ea1008087db7e6",
+      "printable": null,
+      "gsmg_path": false
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_md5",
+      "password": "sha256hex(NOTE THAT ALSO BRUTE FORCING MIGHT BE REQUIRED)",
+      "pt_len": 1327,
+      "pt_sha256": "b313fdd9b68596d3b978aad4b6f92072e40f2ee3071490a5462fd575591fdb4d",
+      "printable": null,
+      "gsmg_path": false
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha1",
+      "password": "YOURWILLTOLIVE",
+      "pt_len": 1327,
+      "pt_sha256": "39a0ca154ab08ab64e2a8c666fe1c0d0acd9d5661f71711c8d361d73e7cc350b",
+      "printable": null,
+      "gsmg_path": false
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha256",
+      "password": "sha256hex(INTERTWINEDPASSWORDS)",
+      "pt_len": 1327,
+      "pt_sha256": "d444a4dd7267820db7b99404e51018ba45ee9abfdec3146d41085812ebfcf182",
+      "printable": null,
+      "gsmg_path": false
+    }
+  ],
+  "readable": [],
+  "gsmg_paths": [],
+  "prize_hits": [],
+  "blob_sha256": {
+    "artifacts/phase32_leftover.b64": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9",
+    "artifacts/salph_small_aes.b64": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+    "artifacts/cosmic_duality.txt": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+  },
+  "n_forms": 84,
+  "n_attempts": 1008
+}

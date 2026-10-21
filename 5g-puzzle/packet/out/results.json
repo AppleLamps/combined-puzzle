@@ -1,0 +1,58 @@
+{
+  "password_list_sha256": "13055206d7585e75ea07d6518a126a785af3b8d0bbb159b9a3b64f5b1d4b1493",
+  "n_passwords": 55,
+  "n_attempts": 330,
+  "decrypts": [
+    {
+      "blob": "salph_small_aes.b64",
+      "password": "verylaststepisatruegiveawaypromised",
+      "mode": "raw",
+      "pt_len": 79,
+      "pt_sha256": "ba799744cb54144d68ce325468b103a5b7d4287ad4c6b8bb339e19d8b5cbb648",
+      "printable_prefix": ".....|../!?^...\\-.\"..D/.........#$.p.>....F..I2..@~.^h...Y$w*........!.Zk....=C",
+      "prize_match": false
+    },
+    {
+      "blob": "salph_small_aes.b64",
+      "password": "jacquefrescogiveitjustonesecondheisenbergsuncertaintyprinciple",
+      "mode": "sha256hex",
+      "pt_len": 79,
+      "pt_sha256": "fd8e05543f06cff6c7271dcd2d6cee74337f5db2fdff69fff36a53312fcb3d90",
+      "printable_prefix": ".C.....Tq.%...\\\"H@..N..B.....7p/.4pJ..G}!....*o..F.t..^...&._.9../UE..i}...1.p.",
+      "prize_match": false
+    },
+    {
+      "blob": "salph_small_aes.b64",
+      "password": "89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32",
+      "mode": "sha256hex",
+      "pt_len": 79,
+      "pt_sha256": "bad70a4b6f13b9e923dc81a82634c0906a9c007864cc3ce5612d10def25a4755",
+      "printable_prefix": "..6..X.M% ..u...D.~&._A.....X....x7..a.0`....Ya..'....~.-..9/S.N....BN+)h.Y.M.'",
+      "prize_match": false
+    }
+  ],
+  "prize_hits": [],
+  "blobs": {
+    "cosmic_duality.txt": {
+      "len": 1344,
+      "sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+    },
+    "phase32_leftover.b64": {
+      "len": 96,
+      "sha256": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9"
+    },
+    "salph_small_aes.b64": {
+      "len": 96,
+      "sha256": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258"
+    }
+  },
+  "published_xor7": {
+    "method": "published_7xor_sha256_as_kdf_password",
+    "ok": true,
+    "pt_len": 1327,
+    "pt_sha256": "4f7a1e4efe4bf6c5581e32505c019657cb7b030e90232d33f011aca6a5e9c081",
+    "matches_published_hash": true,
+    "prize_match": false,
+    "hex_as_pass_ok": false
+  }
+}

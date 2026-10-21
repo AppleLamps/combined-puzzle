@@ -1,0 +1,436 @@
+{
+  "hint": "Jrk #1710 as quoted 2020-04-08 #3388. Unedited #4590 extra door unfound; unedited #7914 another DOOR. {1,4,21} not used. Not an AES packet.",
+  "png_sha256": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+  "png_size": [
+    1048,
+    1556
+  ],
+  "png_chunks": [
+    {
+      "type": "IHDR",
+      "len": 13
+    },
+    {
+      "type": "sRGB",
+      "len": 1
+    },
+    {
+      "type": "gAMA",
+      "len": 4
+    },
+    {
+      "type": "pHYs",
+      "len": 9
+    },
+    {
+      "type": "IDAT",
+      "len": 29824
+    },
+    {
+      "type": "IEND",
+      "len": 0
+    }
+  ],
+  "palette_pixel_counts": {
+    "yellow_255_242_0": 50400,
+    "blue_63_72_204": 83700,
+    "black": 531050,
+    "white": 500585,
+    "grey_254_254_254": 5625,
+    "red_237_28_36": 15705
+  },
+  "hsv_heuristic_blue_was": 96791,
+  "hsv_note": "extra_door_pixels.py counted extra bluish pixels. Exact palette blue is 83700. Leftover-3.2 list that used 96791 stays frozen; not retried.",
+  "grid": [
+    "WWKKWBWWKWKKWY",
+    "KKBKWWKKKWBWKK",
+    "KKWKKKWBWWKWWK",
+    "WKKWBWWWWKKKWK",
+    "WBKWWWKKWYWKKW",
+    "KWWKKWYWKWYWKK",
+    "KWWBKKWWWKWYWW",
+    "BKKWGWKWWWKWYW",
+    "WWWKKBWKKKKKWB",
+    "KKBKKKYWKKWWWK",
+    "KKWKWWWYWKKWKK",
+    "KKKKWWKWBWKKWW",
+    "WBWKKKWKWYWKKW",
+    "WKBWKKWKKWBWKK"
+  ],
+  "cell_counts": {
+    "W": 84,
+    "K": 87,
+    "B": 15,
+    "Y": 9,
+    "G": 1
+  },
+  "yellow_cells_1indexed": [
+    [
+      1,
+      14
+    ],
+    [
+      5,
+      10
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      6,
+      11
+    ],
+    [
+      7,
+      12
+    ],
+    [
+      8,
+      13
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      11,
+      8
+    ],
+    [
+      13,
+      10
+    ]
+  ],
+  "blue_cells_1indexed": [
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      9,
+      6
+    ],
+    [
+      9,
+      14
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      12,
+      9
+    ],
+    [
+      13,
+      2
+    ],
+    [
+      14,
+      3
+    ],
+    [
+      14,
+      11
+    ]
+  ],
+  "grey_cells_1indexed": [
+    [
+      8,
+      5
+    ]
+  ],
+  "yellow_ccw_spiral_1indexed": [
+    40,
+    72,
+    80,
+    120,
+    144,
+    152,
+    168,
+    176,
+    192
+  ],
+  "blue_ccw_spiral_1indexed": [
+    8,
+    16,
+    24,
+    32,
+    48,
+    56,
+    64,
+    88,
+    96,
+    104,
+    112,
+    128,
+    136,
+    160,
+    184
+  ],
+  "grey_ccw_spiral_1indexed": [
+    164
+  ],
+  "all_YB_on_multiples_of_8": true,
+  "main_door": "gsmg.io/theseedisplanted",
+  "main_door_reproduced": true,
+  "main_door_sha256": "3a3f0e245360d51ea41f55c7db8a13f270fbf3dcef3b4f94ac1c4b3cee8db2e9",
+  "spiral_color_string": "WKKWWKKBWKKKWWKBWKKWKKWBWKKWWKKBWWKWKKKYWKKWKWWBWKKWKKKBWWKWKKKBWKKKWKWYWKKWKWWYWKKWWKWBWKKKWWKBWKKWWKWBWKKWWKWBWKKWWKWYWKKWKWWBWKKKWWKBWKKKWWWYWKKWKKWYWKKWWWWBWKKGKKKYWKKKWKWYWKKWWKWBWKKWWKWYWKWW",
+  "spiral_color_string_sha256": "a8bc867b37379b4655d6c0c3efd39bb11ad45bcf3715f75f8e6d9cb6f4bff1ab",
+  "byte_lsb_spiral_positions": [
+    8,
+    16,
+    24,
+    32,
+    40,
+    48,
+    56,
+    64,
+    72,
+    80,
+    88,
+    96,
+    104,
+    112,
+    120,
+    128,
+    136,
+    144,
+    152,
+    160,
+    168,
+    176,
+    184,
+    192
+  ],
+  "byte_lsb_colors": "BBBBYBBBYYBBBBYBBYYBYYBY",
+  "extra_channel": {
+    "rule": "24 CCW spiral positions that are multiples of 8; B=1 Y=0 or Y=1 B=0",
+    "B1_hex": "f73d92",
+    "Y1_hex": "08c26d",
+    "B1_sha256": "2bd15e7de582e7faf485cd9e0e4c02c930698e8c8611f272bf57d7c2b4e75913",
+    "Y1_sha256": "36402a068cfe12ad8170b2c253745a15beb6b8d1058d354a430181fd9625887b",
+    "B1_hex_string_sha256": "a7c14e2ac6a7e21ddb1f27748bb4a65cdb0742a5ef74fb43643d1e4f7eb6f1a5",
+    "Y1_hex_string_sha256": "62738ad46f1b490db1f79dffeca06dd5a564ad6fe9a3df20515cc57fa9c382e4"
+  },
+  "HASHTHETEXT_footer_sha256": "89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32",
+  "HASHTHETEXT_note": "Known Salph-entry hash of the piece-1 title+address. Not the extra door: Jrk still named another door after Salph was a reached stage.",
+  "alternates": [
+    {
+      "name": "main_KB=1",
+      "n_bits": 196,
+      "ascii_latin1": "gsmg.io/theseedisplanted",
+      "printable": 24,
+      "len": 24,
+      "looks_like_url": true,
+      "sha256": "3a3f0e245360d51ea41f55c7db8a13f270fbf3dcef3b4f94ac1c4b3cee8db2e9"
+    },
+    {
+      "name": "invert",
+      "n_bits": 196,
+      "ascii_latin1": "\u0098\u008c\u0092\u0098\u00d1\u0096\u0090\u00d0\u008b\u0097\u009a\u008c\u009a\u009a\u009b\u0096\u008c\u008f\u0093\u009e\u0091\u008b\u009a\u009b",
+      "printable": 0,
+      "len": 24,
+      "looks_like_url": false,
+      "sha256": "113d501bce893921011f5392b8a7134b6c8b8a9c68b22e82fee0bfefdc3bbd0b"
+    },
+    {
+      "name": "yellow=1",
+      "n_bits": 196,
+      "ascii_latin1": "\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0001\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0001\u0001\u0000\u0001\u0001\u0000\u0001",
+      "printable": 0,
+      "len": 24,
+      "looks_like_url": false,
+      "sha256": "caae816e3ddec66c1b748ea8dda5511b97aa0dcb811ad299559df464def7fcae"
+    },
+    {
+      "name": "blue=1",
+      "n_bits": 196,
+      "ascii_latin1": "\u0001\u0001\u0001\u0001\u0000\u0001\u0001\u0001\u0000\u0000\u0001\u0001\u0001\u0001\u0000\u0001\u0001\u0000\u0000\u0001\u0000\u0000\u0001\u0000",
+      "printable": 0,
+      "len": 24,
+      "looks_like_url": false,
+      "sha256": "bfc7a8cc37b138dd6695940117b2100924ada0fd067f00f9d9b8ecfda5793a91"
+    },
+    {
+      "name": "YB=1",
+      "n_bits": 196,
+      "ascii_latin1": "\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0001",
+      "printable": 0,
+      "len": 24,
+      "looks_like_url": false,
+      "sha256": "5b8b4d29020ea5b1bc427c40a0cab2bf944be057ec482110f1d12b68008cd286"
+    },
+    {
+      "name": "Y=0_B=1_skip_KW",
+      "n_bits": 24,
+      "ascii_latin1": "\u00f7=\u0092",
+      "printable": 1,
+      "len": 3,
+      "looks_like_url": false,
+      "sha256": "2bd15e7de582e7faf485cd9e0e4c02c930698e8c8611f272bf57d7c2b4e75913"
+    },
+    {
+      "name": "Y=1_B=0_skip_KW",
+      "n_bits": 24,
+      "ascii_latin1": "\b\u00c2m",
+      "printable": 1,
+      "len": 3,
+      "looks_like_url": false,
+      "sha256": "36402a068cfe12ad8170b2c253745a15beb6b8d1058d354a430181fd9625887b"
+    },
+    {
+      "name": "grey=1",
+      "n_bits": 196,
+      "ascii_latin1": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000",
+      "printable": 0,
+      "len": 24,
+      "looks_like_url": false,
+      "sha256": "dbd190d7eb40002963f3228459d09b47085277ae44017c33e8b61f0b2a18120f"
+    },
+    {
+      "name": "extra_B=1_Y=0_on_byte_LSBs",
+      "n_bits": 24,
+      "ascii_latin1": "\u00f7=\u0092",
+      "printable": 1,
+      "len": 3,
+      "looks_like_url": false,
+      "sha256": "2bd15e7de582e7faf485cd9e0e4c02c930698e8c8611f272bf57d7c2b4e75913"
+    },
+    {
+      "name": "extra_Y=1_B=0_on_byte_LSBs",
+      "n_bits": 24,
+      "ascii_latin1": "\b\u00c2m",
+      "printable": 1,
+      "len": 3,
+      "looks_like_url": false,
+      "sha256": "36402a068cfe12ad8170b2c253745a15beb6b8d1058d354a430181fd9625887b"
+    },
+    {
+      "name": "2bit_0",
+      "n_bits": 392,
+      "ascii_latin1": "\u0014\u0017\u0015\u0007\u0014S\u0014\u0017\u0004V\u0014C\u0014W\u0004W\u0015\u0012\u0014B\u0014\u0013\u0015\u0007\u0014\u0013\u0014\u0013\u0014\u0012\u0014C\u0015\u0007\u0015\u0002\u0014R\u0014\u0003\u0014V\u0015\u0012\u0014\u0013\u0014\u0012\u0010",
+      "printable": 9,
+      "len": 49,
+      "looks_like_url": false,
+      "sha256": "68dec1312e00888056c8f67dad9b78ce84e20c67b123fa9423509797cf6d5844"
+    },
+    {
+      "name": "2bit_1",
+      "n_bits": 392,
+      "ascii_latin1": "\u0014\u0017\u0015\u0007\u0014S\u0014\u0017\u0004V\u0014C\u0014W\u0004W\u0015\u0012\u0014B\u0014\u0013\u0015\u0007\u0014\u0013\u0014\u0013\u0014\u0012\u0014C\u0015\u0007\u0015\u0002\u0014R\u0014\u0003\u0015V\u0015\u0012\u0014\u0013\u0014\u0012\u0010",
+      "printable": 9,
+      "len": 49,
+      "looks_like_url": false,
+      "sha256": "cdf9996c0b53e21de28992b299b247055b4f63edd27dca1f957b971e6143eec7"
+    },
+    {
+      "name": "2bit_2",
+      "n_bits": 392,
+      "ascii_latin1": "<>?\u000e<\u00f2<>\f\u00fd<\u00c2<\u00fe\f\u00fe?1<\u00c1<2?\u000e<2<2<1<\u00c2?\u000e?\u0001<\u00f1<\u0002<\u00fd?1<2<10",
+      "printable": 33,
+      "len": 49,
+      "looks_like_url": false,
+      "sha256": "c6a1e7c45978831932b7eb98aa7fc5a0701a83c6e2097fb10046403ea7c5dba5"
+    }
+  ],
+  "second_gsmg_paths": [],
+  "raster_lsb_prefix": {
+    "R": {
+      "name": "raster_lsb_R_first32",
+      "n_bits": 256,
+      "ascii_latin1": "\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00fc\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "printable": 0,
+      "len": 32,
+      "looks_like_url": false,
+      "sha256": "da0141c53d440c11ecfc83a67584d711e06533bdbdc1b721fdfb8f95bbadc6de"
+    },
+    "G": {
+      "name": "raster_lsb_G_first32",
+      "n_bits": 256,
+      "ascii_latin1": "\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00fc\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "printable": 0,
+      "len": 32,
+      "looks_like_url": false,
+      "sha256": "da0141c53d440c11ecfc83a67584d711e06533bdbdc1b721fdfb8f95bbadc6de"
+    },
+    "B": {
+      "name": "raster_lsb_B_first32",
+      "n_bits": 256,
+      "ascii_latin1": "\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00ff\u00fc\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "printable": 0,
+      "len": 32,
+      "looks_like_url": false,
+      "sha256": "da0141c53d440c11ecfc83a67584d711e06533bdbdc1b721fdfb8f95bbadc6de"
+    }
+  },
+  "rabbit_impure_cells_1indexed": [
+    {
+      "row": 7,
+      "col": 7,
+      "purity": 0.84
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "purity": 0.64
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "purity": 0.76
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "purity": 0.88
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "purity": 0.64
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "purity": 0.84
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "purity": 0.92
+    }
+  ],
+  "find_claimed": false,
+  "verdict": "Main door reproduced. No second gsmg.io path from the frozen encodings. Yellow/blue occupy exactly the 24 byte-LSB spiral slots (9 Y + 15 B). That extra channel hashes to sha256(bytes.fromhex('f73d92')) / sha256(bytes.fromhex('08c26d')). That is a hashed observation, not a hashed door opening. Grey cell (8,5) is leftover. {1,4,21} unused."
+}

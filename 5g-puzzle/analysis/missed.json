@@ -1,0 +1,1607 @@
+{
+  "jrk_n": 492,
+  "jrk_by_year": {
+    "2019": 59,
+    "2020": 91,
+    "2021": 64,
+    "2022": 9,
+    "2023": 81,
+    "2024": 82,
+    "2025": 22,
+    "2026": 84
+  },
+  "themes": {
+    "another_door": {
+      "count": 325,
+      "jrk_count": 3,
+      "first": {
+        "id": 4104,
+        "ts": "2020-05-21T01:18:29",
+        "uid": "231061724",
+        "author": "Detective Froz",
+        "jrk": false,
+        "text": "Do you mean the answer to another door from the 1st piece?"
+      },
+      "last": {
+        "id": 71026,
+        "ts": "2026-09-04T17:24:19",
+        "uid": "8843243885",
+        "author": "Randy",
+        "jrk": false,
+        "text": "Yeah it's pretty wild looking for the other doors. After awhile you can't even find the one you came in from. No way out I guess."
+      },
+      "jrk_samples": [
+        {
+          "id": 4590,
+          "ts": "2020-08-02T12:56:20",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Really nobody managed to find the extra door, didn't expect that after the earlier pace of cracking things."
+        },
+        {
+          "id": 6884,
+          "ts": "2021-04-01T02:57:38",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Hint: \"another door might be found on {1 },{4} ,{21}\""
+        },
+        {
+          "id": 8000,
+          "ts": "2021-12-26T15:18:32",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! 🥂"
+        }
+      ],
+      "samples": [
+        {
+          "id": 4104,
+          "ts": "2020-05-21T01:18:29",
+          "uid": "231061724",
+          "author": "Detective Froz",
+          "jrk": false,
+          "text": "Do you mean the answer to another door from the 1st piece?"
+        },
+        {
+          "id": 4590,
+          "ts": "2020-08-02T12:56:20",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Really nobody managed to find the extra door, didn't expect that after the earlier pace of cracking things."
+        },
+        {
+          "id": 5551,
+          "ts": "2021-01-16T03:12:56",
+          "uid": "139037664",
+          "author": "Saber ^:)> (---}> ¿¡×( ;) <><",
+          "jrk": false,
+          "text": "We_are_the_nation_of_imam_hussein  First: Incaseyoumanage... If you look at it carfully, you will seen there is 23 bip39 word without repeating... (in two direction). CASE YOU MAN MANAGE AGE CRACK RACK CAR THIS PRIVATE KEY LONG HALF FAN BETTER THEY ALSO ONE NEED FUN OLIVE LIVE EVIL maybe you say its just happened in random way... no! In next step we look for checksum word... 24th word: A list with 8 word you will see"
+        },
+        {
+          "id": 6884,
+          "ts": "2021-04-01T02:57:38",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Hint: \"another door might be found on {1 },{4} ,{21}\""
+        },
+        {
+          "id": 7073,
+          "ts": "2021-04-05T07:07:18",
+          "uid": "274980096",
+          "author": "0xColombo",
+          "jrk": false,
+          "text": "lol, there is another door"
+        },
+        {
+          "id": 71000,
+          "ts": "2026-09-04T16:08:33",
+          "uid": "6974890380",
+          "author": "SATE",
+          "jrk": false,
+          "text": "The other door must be Cosmic Duality"
+        }
+      ]
+    },
+    "not_just_btc": {
+      "count": 42,
+      "jrk_count": 1,
+      "first": {
+        "id": 8774,
+        "ts": "2023-08-03T15:51:33",
+        "uid": "9815232",
+        "author": "Jrk Bgrt",
+        "jrk": true,
+        "text": "Are you really looking for just the btc...?"
+      },
+      "last": {
+        "id": 69749,
+        "ts": "2026-08-24T09:06:07",
+        "uid": "2104527981",
+        "author": "Loupi",
+        "jrk": false,
+        "text": "Do you really think that when JRK said on August 3, 2023, \"Are you really looking for just the BTC...?\" he was referring to this:   “btcseed  deoemckeadhbschdkbdcsdkdvbxcpcochcrdicibqeebddbcndsbdcpdgcpdncncsescgddclenbmcuducqcacdeld  z  elcmefdfesdodwckbycubwbaesbwbnemedeadobrcpbgbqcoegbsenesblbtesdadpduescpcreacnckcscdcnbedkckctclbrenenccegelcncubsbgeseienduefddbackdnbsdsescrbsebblbierdvcobdccegbseobvbvcdemcpcscgeld"
+      },
+      "jrk_samples": [
+        {
+          "id": 8774,
+          "ts": "2023-08-03T15:51:33",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Are you really looking for just the btc...?"
+        }
+      ],
+      "samples": [
+        {
+          "id": 8774,
+          "ts": "2023-08-03T15:51:33",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Are you really looking for just the btc...?"
+        },
+        {
+          "id": 9522,
+          "ts": "2023-08-05T20:33:52",
+          "uid": "432257224",
+          "author": "silver_anth",
+          "jrk": false,
+          "text": "yeah I am thinking the \"Are you really looking for just the btc...?\" could be about"
+        },
+        {
+          "id": 10133,
+          "ts": "2023-08-16T23:09:20",
+          "uid": "809473266",
+          "author": "nieods",
+          "jrk": false,
+          "text": "\"Are you really looking for just the btc...?\" <-- this hint implies we're looking for a key. elsewhere in the puzzle \"...\" means replace it with the thing you need. \"btc key\", but the double meaning means we're looking for a key, but not a btc key"
+        },
+        {
+          "id": 17769,
+          "ts": "2023-12-19T01:20:46",
+          "uid": "6057219919",
+          "author": "ArchOptic",
+          "jrk": false,
+          "text": "Not just the BTC"
+        },
+        {
+          "id": 18014,
+          "ts": "2024-01-02T14:13:11",
+          "uid": "737261554",
+          "author": "RB",
+          "jrk": false,
+          "text": "As i am so talkative today, i want to share my thoughts about Jrk's 'Are you really looking for just the btc...?'. I identified following 'looking fors' in the movies: 1) ..or were you looking at the woman in the red dress? Look again... 2) we are looking for the keymaker 3) the chat between Trinity and Neo in the club: T: when i found him [morpheus], he told me i wasn't really looking for him... I was looking for an"
+        },
+        {
+          "id": 68918,
+          "ts": "2026-08-17T07:57:41",
+          "uid": "8917892372",
+          "author": "F1f7h",
+          "jrk": false,
+          "text": "U looking for just the btc…?"
+        }
+      ]
+    },
+    "hardest_done": {
+      "count": 26,
+      "jrk_count": 1,
+      "first": {
+        "id": 8796,
+        "ts": "2023-08-03T16:34:24",
+        "uid": "9815232",
+        "author": "Jrk Bgrt",
+        "jrk": true,
+        "text": "Actually, the hardest part is done."
+      },
+      "last": {
+        "id": 70165,
+        "ts": "2026-08-29T11:53:21",
+        "uid": "497668740",
+        "author": "X",
+        "jrk": false,
+        "text": "he also said the hardest part is done"
+      },
+      "jrk_samples": [
+        {
+          "id": 8796,
+          "ts": "2023-08-03T16:34:24",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Actually, the hardest part is done."
+        }
+      ],
+      "samples": [
+        {
+          "id": 8796,
+          "ts": "2023-08-03T16:34:24",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Actually, the hardest part is done."
+        },
+        {
+          "id": 9742,
+          "ts": "2023-08-10T23:33:35",
+          "uid": "6249502156",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "but jrk said the hardest part is done... So I guess we should focus on Salphaseion"
+        },
+        {
+          "id": 10131,
+          "ts": "2023-08-16T23:07:54",
+          "uid": "809473266",
+          "author": "nieods",
+          "jrk": false,
+          "text": "It's got to be really simple. jrk said \"the hardest part is done\", which means that the rest of salph has to be easier than what we've done so far"
+        },
+        {
+          "id": 10791,
+          "ts": "2023-08-22T03:46:37",
+          "uid": "5939972373",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "quote the author: \"Actually, the hardest part is done\" \"we wont give away the password its in front of your eyes but youre not seeing it\""
+        },
+        {
+          "id": 13480,
+          "ts": "2023-09-07T01:52:57",
+          "uid": "5939972373",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "JRK said the hard part is done we need to quit messing around with the pictures you have letters to map to something and get the meaning out of it why didn't everyone start mapping a b b a to the pictures  the hardest part is done that is why we stopped getting hints because it takes a lesser mind or perhaps a mind bound without perfection to figure the solution out"
+        },
+        {
+          "id": 68488,
+          "ts": "2026-08-11T14:29:43",
+          "uid": "8851132668",
+          "author": "Naddiseo",
+          "jrk": false,
+          "text": "I think yous making the search space too large. The creator also said the hardest part is done. So the remaining steps should be easier than 3.2"
+        }
+      ]
+    },
+    "go_back": {
+      "count": 268,
+      "jrk_count": 1,
+      "first": {
+        "id": 658,
+        "ts": "2019-05-08T08:47:40",
+        "uid": "628541027",
+        "author": "Andrea",
+        "jrk": false,
+        "text": "I’m thinking I need to go back to the images and apply something described in the lyrics, but haven’t been lucky yet"
+      },
+      "last": {
+        "id": 71243,
+        "ts": "2026-09-08T11:21:08",
+        "uid": "7536635386",
+        "author": "Cereal Killer",
+        "jrk": false,
+        "text": "first of all go to google.com and then open settings—>application—>youtube—> then upload that aes blob on youtube and comment \"enter\" then 1 minute later again comment \"reset\" then power off your system, once you reboot the system go back to youtube video and comment again \"bullshit\", chance are high enough that you will get success, chance percent is near about roughly 99%"
+      },
+      "jrk_samples": [
+        {
+          "id": 1710,
+          "ts": "2020-01-14T05:38:06",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+        }
+      ],
+      "samples": [
+        {
+          "id": 658,
+          "ts": "2019-05-08T08:47:40",
+          "uid": "628541027",
+          "author": "Andrea",
+          "jrk": false,
+          "text": "I’m thinking I need to go back to the images and apply something described in the lyrics, but haven’t been lucky yet"
+        },
+        {
+          "id": 1710,
+          "ts": "2020-01-14T05:38:06",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+        },
+        {
+          "id": 3351,
+          "ts": "2020-04-08T15:37:21",
+          "uid": "689225742",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "Go back to the first puzzle piece without further ado hint is for the phase 3.2 last aes ? Any idea"
+        },
+        {
+          "id": 3388,
+          "ts": "2020-04-08T16:31:00",
+          "uid": "689225742",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "\"\" Roses are White but often Red.  Yellow has a number and so does Blue.  Go back to the first puzzle piece without further ado.   It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush. \"\""
+        },
+        {
+          "id": 3644,
+          "ts": "2020-05-04T05:04:07",
+          "uid": "646609236",
+          "author": "Legik",
+          "jrk": false,
+          "text": "old hint: Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+        },
+        {
+          "id": 70870,
+          "ts": "2026-09-04T06:17:42",
+          "uid": "538415198",
+          "author": "Payday",
+          "jrk": false,
+          "text": "..return to the source codes... reinserting the prime basics, after which you will be required to SELECT FROM OVER TWENTY-THREE CIPHERS, SIXTEEN ENCRYPTIONS AND/OR SEVEN INTERTWINED PASSWORDS to find the actual private keynote — that also BRUTE FORCING MIGHT BE REQUIRED... ciao bella o"
+        }
+      ]
+    },
+    "prime_basics": {
+      "count": 202,
+      "jrk_count": 1,
+      "first": {
+        "id": 6049,
+        "ts": "2021-03-01T06:50:14",
+        "uid": "394589394",
+        "author": "Janusz Baran",
+        "jrk": false,
+        "text": "RETURN TO THE SOURCE CODES ALLOWING A TEMPORARY DISSEMINATION OF THE CODE YOU HOPEFULLY CARRY  REINSERTING THE PRIME"
+      },
+      "last": {
+        "id": 71197,
+        "ts": "2026-09-08T00:32:30",
+        "uid": "7815194440",
+        "author": "E",
+        "jrk": false,
+        "text": "addon to this thought:  GSMGIO5BTCPUZZLECHALLENGE -enter- 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  remember how every page url has been a hint up until salphaseion???? why should it be any different here???  \"enter\" within the AES blob (which needs a sha256 hash to decode)  sha256 hash is in url  maybe \"enter\" something between the 2 halves before hashing to get the password needed for salphaseion AES  archichoice text hi"
+      },
+      "jrk_samples": [
+        {
+          "id": 8000,
+          "ts": "2021-12-26T15:18:32",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! 🥂"
+        }
+      ],
+      "samples": [
+        {
+          "id": 6049,
+          "ts": "2021-03-01T06:50:14",
+          "uid": "394589394",
+          "author": "Janusz Baran",
+          "jrk": false,
+          "text": "RETURN TO THE SOURCE CODES ALLOWING A TEMPORARY DISSEMINATION OF THE CODE YOU HOPEFULLY CARRY  REINSERTING THE PRIME"
+        },
+        {
+          "id": 6100,
+          "ts": "2021-03-01T12:07:57",
+          "uid": "830775336",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "SUM OF A REMAINDER OF AN UNBALANCED EQUATION WORTH HUNDRED FOURTY.. NOW TO RETURN TO THE SOURCE CODES ALLOWING A TEMPORARY DISSEMINATION OF THE CODE YOU HOPEFULLY CARRY  REINSERTING THE PRIME BASICS AFTER WHICH YOU WILL BE REQUIRED TO SELECT FROM OVER TWENTY-THREE CIPHERS  SIXTEEN ENCRYPTIONS AND OR SEVEN INTERTWINED PASSWORDS TO FIND THE ACTUAL PRIVATE KEY BRUTE FORCING MIGHT BE REQUIRED"
+        },
+        {
+          "id": 8000,
+          "ts": "2021-12-26T15:18:32",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! 🥂"
+        },
+        {
+          "id": 9517,
+          "ts": "2023-08-05T20:29:16",
+          "uid": "980067088",
+          "author": "Zil",
+          "jrk": false,
+          "text": "what the hell was meant for 'prime basics'... reinserting prime basics"
+        },
+        {
+          "id": 9518,
+          "ts": "2023-08-05T20:30:44",
+          "uid": "432257224",
+          "author": "silver_anth",
+          "jrk": false,
+          "text": "``The function of the you is now to return to the source codes, allowing a temporary dissemination of the code you hopefully carry, reinserting the prime basics.`` IMO I think this hints at going back to the start (source codes) and using \"SHA256\" - the code we carry/have learnt after this puzzle, and reinsert the prime basics (the text) into the sha256 function. which gets us to salvation"
+        },
+        {
+          "id": 69851,
+          "ts": "2026-08-24T21:28:52",
+          "uid": "768637046",
+          "author": "Suppa",
+          "jrk": false,
+          "text": "Hi all. Working through the GSMG 5 BTC puzzle from the public material (Naddiseo's repo + the hint screenshots). I'm stuck at SalPhaseIon like everyone else. Some questions for people who've been at this longer:  primes: the Architect text says \"reinserting the prime basics\", and Jrk confirmed primes are \"required to proceed\" plus \"some characters need to be zeroed out\". Does the group read this as positional (charac"
+        }
+      ]
+    },
+    "mindset": {
+      "count": 5,
+      "jrk_count": 0,
+      "first": {
+        "id": 6943,
+        "ts": "2021-04-01T10:05:19",
+        "uid": "809473266",
+        "author": "nieods",
+        "jrk": false,
+        "text": "Probably best to start at the beginning to understand the mindset behind it"
+      },
+      "last": {
+        "id": 54489,
+        "ts": "2026-01-04T03:21:20",
+        "uid": "7536635386",
+        "author": "Cereal Killer",
+        "jrk": false,
+        "text": "\"The mindset behind this puzzle is the main unsolved part of this puzzle\" if you don't have that clue, it gonna be unsolved\" check jrk message about it, to get mindset behind this puzzle you have to dived in puzzle from starting"
+      },
+      "jrk_samples": [],
+      "samples": [
+        {
+          "id": 6943,
+          "ts": "2021-04-01T10:05:19",
+          "uid": "809473266",
+          "author": "nieods",
+          "jrk": false,
+          "text": "Probably best to start at the beginning to understand the mindset behind it"
+        },
+        {
+          "id": 10045,
+          "ts": "2023-08-15T06:51:02",
+          "uid": "6057219919",
+          "author": "ArchOptic",
+          "jrk": false,
+          "text": "The problem is that using brute force abstracts you from the intimate connection with the mindset behind it all which is required to move through the AES phases. Also not as satisfying. I've refrained from any brute force until now because I've been studying and hoping to gain insight into the whole puzzle. Put myself in jrk shoes, so to speak. But I'm lost in dbbib and faed and at this point I'm running brute force "
+        },
+        {
+          "id": 43153,
+          "ts": "2025-06-10T13:34:48",
+          "uid": "7536635386",
+          "author": "Cereal Killer",
+          "jrk": false,
+          "text": "And theory is unknown, and focussing on \"the concept\" or mindset behind this"
+        },
+        {
+          "id": 43970,
+          "ts": "2025-06-25T07:38:04",
+          "uid": "7536635386",
+          "author": "Cereal Killer",
+          "jrk": false,
+          "text": "I don't think so, but in case if they are in different phase then i can't say but for these unsolved blobs and mindset behind it, you need internet or brute force(forever)"
+        },
+        {
+          "id": 54489,
+          "ts": "2026-01-04T03:21:20",
+          "uid": "7536635386",
+          "author": "Cereal Killer",
+          "jrk": false,
+          "text": "\"The mindset behind this puzzle is the main unsolved part of this puzzle\" if you don't have that clue, it gonna be unsolved\" check jrk message about it, to get mindset behind this puzzle you have to dived in puzzle from starting"
+        }
+      ]
+    },
+    "tiny_hint": {
+      "count": 35,
+      "jrk_count": 1,
+      "first": {
+        "id": 881,
+        "ts": "2019-05-18T12:31:02",
+        "uid": "9815232",
+        "author": "Jrk Bgrt",
+        "jrk": true,
+        "text": "In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes."
+      },
+      "last": {
+        "id": 69719,
+        "ts": "2026-08-23T16:59:07",
+        "uid": "8689165957",
+        "author": "matrix is real",
+        "jrk": false,
+        "text": "Does anyone still have an export or screenshots from the old GSMG Slack music channel? JRK said there was a tiny hint there for the rabbit phase. I’m specifically looking for the original message, timestamp, sender, links, and attachments—not a later interpretation."
+      },
+      "jrk_samples": [
+        {
+          "id": 881,
+          "ts": "2019-05-18T12:31:02",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes."
+        }
+      ],
+      "samples": [
+        {
+          "id": 881,
+          "ts": "2019-05-18T12:31:02",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes."
+        },
+        {
+          "id": 6569,
+          "ts": "2021-03-19T14:15:19",
+          "uid": "980067088",
+          "author": "Zil",
+          "jrk": false,
+          "text": "That someone could start giving us tiny hints so that we don't suffer as much 😅"
+        },
+        {
+          "id": 14837,
+          "ts": "2023-09-18T13:12:08",
+          "uid": "5939972373",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "@amiai_ceo  Please give him some hints you gave me Let's not make matters confusing for these people Just give him a tiny hint for the dbbi so he can believe us"
+        },
+        {
+          "id": 20222,
+          "ts": "2024-01-26T12:18:10",
+          "uid": "6246033427",
+          "author": "Charlie Craig",
+          "jrk": false,
+          "text": "I've been banging my head against a wall due to an inability to solve \"our first hint is your last command\". That seems to be the 2nd to last piece we need to solve in Salph. Annnnnny chance you can give the community a tiny hint to get over the line with that one?"
+        },
+        {
+          "id": 24651,
+          "ts": "2024-04-19T21:33:36",
+          "uid": "786391896",
+          "author": "Jerry",
+          "jrk": false,
+          "text": "You should give us a tiny hint since it is halving day @SoWut"
+        },
+        {
+          "id": 63734,
+          "ts": "2026-05-24T16:58:12",
+          "uid": "497668740",
+          "author": "X",
+          "jrk": false,
+          "text": "❤️ tiny hint -> TINY INT"
+        }
+      ]
+    },
+    "final_hint": {
+      "count": 79,
+      "jrk_count": 4,
+      "first": {
+        "id": 881,
+        "ts": "2019-05-18T12:31:02",
+        "uid": "9815232",
+        "author": "Jrk Bgrt",
+        "jrk": true,
+        "text": "In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes."
+      },
+      "last": {
+        "id": 69851,
+        "ts": "2026-08-24T21:28:52",
+        "uid": "768637046",
+        "author": "Suppa",
+        "jrk": false,
+        "text": "Hi all. Working through the GSMG 5 BTC puzzle from the public material (Naddiseo's repo + the hint screenshots). I'm stuck at SalPhaseIon like everyone else. Some questions for people who've been at this longer:  primes: the Architect text says \"reinserting the prime basics\", and Jrk confirmed primes are \"required to proceed\" plus \"some characters need to be zeroed out\". Does the group read this as positional (charac"
+      },
+      "jrk_samples": [
+        {
+          "id": 881,
+          "ts": "2019-05-18T12:31:02",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes."
+        },
+        {
+          "id": 898,
+          "ts": "2019-05-18T13:13:29",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "No hints after stage 2 (except the 't' to fix my stupid mistake)"
+        },
+        {
+          "id": 3338,
+          "ts": "2020-04-08T14:38:10",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Those hints are the last hints. Although I can say that one team managed to find something... something others haven't yet found (unless they didn't tell us)."
+        },
+        {
+          "id": 9599,
+          "ts": "2023-08-06T08:12:13",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Probably the last hint:  Once you hit a \"ying yang\", you'll be able to solve it the same day."
+        }
+      ],
+      "samples": [
+        {
+          "id": 881,
+          "ts": "2019-05-18T12:31:02",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes."
+        },
+        {
+          "id": 898,
+          "ts": "2019-05-18T13:13:29",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "No hints after stage 2 (except the 't' to fix my stupid mistake)"
+        },
+        {
+          "id": 1700,
+          "ts": "2020-01-12T16:01:41",
+          "uid": "274980096",
+          "author": "0xColombo",
+          "jrk": false,
+          "text": "No more hints"
+        },
+        {
+          "id": 2464,
+          "ts": "2020-03-23T02:33:53",
+          "uid": "274980096",
+          "author": "0xColombo",
+          "jrk": false,
+          "text": "I have notifications enabled so that I don't miss anything important. But all I see all morning is people asking for answers to a riddle, asking for a password, and talking about motivation. Let's discuss something more constructive, such as what to do with the audio file, or for example, about the last hint."
+        },
+        {
+          "id": 2931,
+          "ts": "2020-03-25T06:41:31",
+          "uid": "274980096",
+          "author": "0xColombo",
+          "jrk": false,
+          "text": "No more hints"
+        },
+        {
+          "id": 66432,
+          "ts": "2026-07-05T10:36:12",
+          "uid": "697342298",
+          "author": "𝔻𝕖𝕣S𝕋",
+          "jrk": false,
+          "text": "@SoWut Hi! Please, I am not asking for a hint for the puzzle, but rather a hint about your last hint, which is too cryptic and nobody understood."
+        }
+      ]
+    },
+    "password_in_front": {
+      "count": 148,
+      "jrk_count": 0,
+      "first": {
+        "id": 2642,
+        "ts": "2020-03-23T13:50:15",
+        "uid": "370469246",
+        "author": "Unknown",
+        "jrk": false,
+        "text": "guys, remember that this is a puzzle that you should have fun solving, not a giveaway 😅"
+      },
+      "last": {
+        "id": 71241,
+        "ts": "2026-09-08T10:31:44",
+        "uid": "7187939580",
+        "author": "peter btc",
+        "jrk": false,
+        "text": "so now ## Key Unresolved Issues  1. \"password is in front of your eyes\" + \"true giveaway\" — The final step should be extremely simple, yet we haven't seen it yet. 2. \"the last number of pi\" — This likely does not refer to the mathematical constant π, but rather holds a different meaning. 3. \"yinyang\" — This may refer to the symmetrical structure of the 96-state object (281 + 'd' + 281). 4. The correct consumer for th"
+      },
+      "jrk_samples": [],
+      "samples": [
+        {
+          "id": 2642,
+          "ts": "2020-03-23T13:50:15",
+          "uid": "370469246",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "guys, remember that this is a puzzle that you should have fun solving, not a giveaway 😅"
+        },
+        {
+          "id": 8447,
+          "ts": "2023-02-23T23:27:32",
+          "uid": "737261554",
+          "author": "RB",
+          "jrk": false,
+          "text": "... in front of your eyes ... hmm..."
+        },
+        {
+          "id": 8448,
+          "ts": "2023-02-24T22:58:12",
+          "uid": "419791047",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "reversed binary: yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisatruegiveawaypromised"
+        },
+        {
+          "id": 8906,
+          "ts": "2023-08-04T16:55:39",
+          "uid": "5260693904",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "I have been wondering about phase 2, where you submit a POST from a form.. This is the only stage/site that has any type of user input as an option... Do you think that possibly a different password could lead to a different landing page? Moving around the colored blocks will give a song by logic yes, but the plus and minus signs must have meaning for something else... The colors too, as only 2 of the images have an "
+        },
+        {
+          "id": 10041,
+          "ts": "2023-08-15T06:43:49",
+          "uid": "98171605",
+          "author": "stranger",
+          "jrk": false,
+          "text": "Answer in front of your eyes but how to apply it"
+        },
+        {
+          "id": 70205,
+          "ts": "2026-08-30T18:35:39",
+          "uid": "8098728403",
+          "author": "R",
+          "jrk": false,
+          "text": "«we wont give away thepassword its in front of  your eyes but youre  not seeing it» - this one"
+        }
+      ]
+    },
+    "technically_no_internet": {
+      "count": 19,
+      "jrk_count": 0,
+      "first": {
+        "id": 11759,
+        "ts": "2023-08-23T11:14:15",
+        "uid": "5939972373",
+        "author": "Unknown",
+        "jrk": false,
+        "text": "lol that's definitely riight, cos we need no internet for the aes openssl has got us covered"
+      },
+      "last": {
+        "id": 71021,
+        "ts": "2026-09-04T16:34:28",
+        "uid": "5116466152",
+        "author": "Lexane",
+        "jrk": false,
+        "text": "No internet needed"
+      },
+      "jrk_samples": [],
+      "samples": [
+        {
+          "id": 11759,
+          "ts": "2023-08-23T11:14:15",
+          "uid": "5939972373",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "lol that's definitely riight, cos we need no internet for the aes openssl has got us covered"
+        },
+        {
+          "id": 14236,
+          "ts": "2023-09-10T06:13:42",
+          "uid": "1816437730",
+          "author": "Ben",
+          "jrk": false,
+          "text": "we should not format it in 14x14 because there is no internet anymore?"
+        },
+        {
+          "id": 25106,
+          "ts": "2024-04-26T13:29:12",
+          "uid": "6501279574",
+          "author": "8а70N",
+          "jrk": false,
+          "text": "No internet"
+        },
+        {
+          "id": 26393,
+          "ts": "2024-08-14T20:58:46",
+          "uid": "6057219919",
+          "author": "ArchOptic",
+          "jrk": false,
+          "text": "I mean... Technically no internet is needed but I suppose it's possible that it makes it easier"
+        },
+        {
+          "id": 27093,
+          "ts": "2024-09-20T06:44:50",
+          "uid": "7287877835",
+          "author": "Szymon Szczawiński",
+          "jrk": false,
+          "text": "remember : no internet anymore"
+        },
+        {
+          "id": 70574,
+          "ts": "2026-09-02T15:42:38",
+          "uid": "7670183300",
+          "author": "Rob",
+          "jrk": false,
+          "text": "I'm starting to believe that's the case, JRK is trolling everyone. No internet? Then we should be able to get the private key. But no it's a vanity address, so not possible to have a specific custom private key in advance.   So clearly either the \"clues\" are lies or it is unsolvable.  A lot of clues contradict each other, this is simply unsolvable and this guy is happy to have the attention of everyone."
+        }
+      ]
+    },
+    "hush": {
+      "count": 116,
+      "jrk_count": 2,
+      "first": {
+        "id": 1710,
+        "ts": "2020-01-14T05:38:06",
+        "uid": "9815232",
+        "author": "Jrk Bgrt",
+        "jrk": true,
+        "text": "Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+      },
+      "last": {
+        "id": 71184,
+        "ts": "2026-09-08T00:07:04",
+        "uid": "5012319638",
+        "author": "Elite Booter",
+        "jrk": false,
+        "text": "Hush Hush = Hash Hash"
+      },
+      "jrk_samples": [
+        {
+          "id": 1710,
+          "ts": "2020-01-14T05:38:06",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+        },
+        {
+          "id": 6514,
+          "ts": "2021-03-15T03:16:26",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Hush hush"
+        }
+      ],
+      "samples": [
+        {
+          "id": 1710,
+          "ts": "2020-01-14T05:38:06",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+        },
+        {
+          "id": 3388,
+          "ts": "2020-04-08T16:31:00",
+          "uid": "689225742",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "\"\" Roses are White but often Red.  Yellow has a number and so does Blue.  Go back to the first puzzle piece without further ado.   It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush. \"\""
+        },
+        {
+          "id": 3644,
+          "ts": "2020-05-04T05:04:07",
+          "uid": "646609236",
+          "author": "Legik",
+          "jrk": false,
+          "text": "old hint: Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+        },
+        {
+          "id": 4028,
+          "ts": "2020-05-20T00:04:16",
+          "uid": "231061724",
+          "author": "Detective Froz",
+          "jrk": false,
+          "text": "Hash it...  Hush hush"
+        },
+        {
+          "id": 4029,
+          "ts": "2020-05-20T00:04:44",
+          "uid": "231061724",
+          "author": "Detective Froz",
+          "jrk": false,
+          "text": "Do you remember that “hush hush” in one of the hints? - double hash may be 😂"
+        },
+        {
+          "id": 69686,
+          "ts": "2026-08-23T02:30:02",
+          "uid": "8689165957",
+          "author": "matrix is real",
+          "jrk": false,
+          "text": "Request for original GSMG / SalPhaseIon records  I am not asking the creator for another hint or for the private key. I am trying to recover the historical record of one unresolved attachment in SalPhaseIon.  The page mechanically gives:  `SHA256 OUR FIRST HINT IS YOUR LAST COMMAND`  followed by an OpenSSL `Salted__` object. The surviving transcript contains this important exchange:  > `pls... is salph related to hin"
+        }
+      ]
+    },
+    "yinyang": {
+      "count": 555,
+      "jrk_count": 1,
+      "first": {
+        "id": 8448,
+        "ts": "2023-02-24T22:58:12",
+        "uid": "419791047",
+        "author": "Unknown",
+        "jrk": false,
+        "text": "reversed binary: yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisatruegiveawaypromised"
+      },
+      "last": {
+        "id": 71249,
+        "ts": "2026-09-08T13:19:24",
+        "uid": "7184569562",
+        "author": "Sparky",
+        "jrk": false,
+        "text": "my bad, had a breakdown because this puzzle takes forever, so I hacked Liquid. will send 5.1 BTC to jrk so he can explain FAED, yingyang, and \"thispassword\" bullshit, and we can all end our misery."
+      },
+      "jrk_samples": [
+        {
+          "id": 39224,
+          "ts": "2025-04-28T12:57:17",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Did anyone found yingyang? I don't think so, you guys are so smart, when yingyang is reached, 2 hours max."
+        }
+      ],
+      "samples": [
+        {
+          "id": 8448,
+          "ts": "2023-02-24T22:58:12",
+          "uid": "419791047",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "reversed binary: yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisatruegiveawaypromised"
+        },
+        {
+          "id": 8954,
+          "ts": "2023-08-04T17:42:36",
+          "uid": "5260693904",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "other things ive tried and not sure if anyone else has involve steganography... this is the \"follow_the_white_rabbit.png\" img 90degrees CW and overlaid with another but at 90 degrees CCW...  reasoning is because of creators remarks about YinYang image and how a post here of a yinyang by another user caused those remarks"
+        },
+        {
+          "id": 8957,
+          "ts": "2023-08-04T17:44:54",
+          "uid": "6249502156",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "this is an interesting approach... I believe the discussion came after cosmic duality so I believe YinYang has something to do with Salphaseion or cosmic duality phases??"
+        },
+        {
+          "id": 8958,
+          "ts": "2023-08-04T17:45:35",
+          "uid": "274980096",
+          "author": "0xColombo",
+          "jrk": false,
+          "text": "YinYang is just reference to cosmic duality (book)"
+        },
+        {
+          "id": 9162,
+          "ts": "2023-08-05T16:56:02",
+          "uid": "6249502156",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "and the creator also mentioned how \"yinyang\" is a very specific hint"
+        },
+        {
+          "id": 71224,
+          "ts": "2026-09-08T06:11:31",
+          "uid": "7536635386",
+          "author": "Cereal Killer",
+          "jrk": false,
+          "text": "🥊 👊🏻 i hit the yin yang first, but don't wait for 2 hours"
+        }
+      ]
+    },
+    "not_websites": {
+      "count": 1,
+      "jrk_count": 0,
+      "first": {
+        "id": 70924,
+        "ts": "2026-09-04T10:50:41",
+        "uid": "697342298",
+        "author": "𝔻𝕖𝕣S𝕋",
+        "jrk": false,
+        "text": "I found GSMG websites from different phases, and they are already offline. JRK didn’t reply to me about this, but He already posted here saying that new doors/gates are not websites on the internet. I didn't understand what that means."
+      },
+      "last": {
+        "id": 70924,
+        "ts": "2026-09-04T10:50:41",
+        "uid": "697342298",
+        "author": "𝔻𝕖𝕣S𝕋",
+        "jrk": false,
+        "text": "I found GSMG websites from different phases, and they are already offline. JRK didn’t reply to me about this, but He already posted here saying that new doors/gates are not websites on the internet. I didn't understand what that means."
+      },
+      "jrk_samples": [],
+      "samples": [
+        {
+          "id": 70924,
+          "ts": "2026-09-04T10:50:41",
+          "uid": "697342298",
+          "author": "𝔻𝕖𝕣S𝕋",
+          "jrk": false,
+          "text": "I found GSMG websites from different phases, and they are already offline. JRK didn’t reply to me about this, but He already posted here saying that new doors/gates are not websites on the internet. I didn't understand what that means."
+        }
+      ]
+    },
+    "warning_dangerous": {
+      "count": 79,
+      "jrk_count": 0,
+      "first": {
+        "id": 1106,
+        "ts": "2019-06-15T16:00:47",
+        "uid": "868622035",
+        "author": "Unknown",
+        "jrk": false,
+        "text": "The warning by the logic is the song right?"
+      },
+      "last": {
+        "id": 70129,
+        "ts": "2026-08-28T21:40:51",
+        "uid": "8843243885",
+        "author": "Randy",
+        "jrk": false,
+        "text": "Wow this puzzle is tough. They need a warning somewhere on it. I wanted to give up but been searching for clues. Lmao"
+      },
+      "jrk_samples": [],
+      "samples": [
+        {
+          "id": 1106,
+          "ts": "2019-06-15T16:00:47",
+          "uid": "868622035",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "The warning by the logic is the song right?"
+        },
+        {
+          "id": 1201,
+          "ts": "2019-06-27T09:42:53",
+          "uid": "419242013",
+          "author": "JD-007 |🇵🇰 |🇦🇪",
+          "jrk": false,
+          "text": "Crypto logic warning can you dig it"
+        },
+        {
+          "id": 1208,
+          "ts": "2019-06-27T17:05:58",
+          "uid": "750026879",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "logic warning must help you. ;)"
+        },
+        {
+          "id": 2526,
+          "ts": "2020-03-23T04:56:23",
+          "uid": "952048031",
+          "author": "Lazy Prophet",
+          "jrk": false,
+          "text": "then the warning"
+        },
+        {
+          "id": 3362,
+          "ts": "2020-04-08T16:09:59",
+          "uid": "952048031",
+          "author": "Lazy Prophet",
+          "jrk": false,
+          "text": "Phase three The judgement If it were to fall upon you today, which flower would you be The red rose or the black?  Red rose or black rose, no in-between  This is the warning"
+        },
+        {
+          "id": 68050,
+          "ts": "2026-08-05T18:48:41",
+          "uid": "142464266",
+          "author": "gnomad",
+          "jrk": false,
+          "text": "https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/"
+        }
+      ]
+    },
+    "stage2_done": {
+      "count": 10,
+      "jrk_count": 1,
+      "first": {
+        "id": 898,
+        "ts": "2019-05-18T13:13:29",
+        "uid": "9815232",
+        "author": "Jrk Bgrt",
+        "jrk": true,
+        "text": "No hints after stage 2 (except the 't' to fix my stupid mistake)"
+      },
+      "last": {
+        "id": 30311,
+        "ts": "2024-11-15T07:30:27",
+        "uid": "1192227610",
+        "author": "1",
+        "jrk": false,
+        "text": "where? stage 2?"
+      },
+      "jrk_samples": [
+        {
+          "id": 898,
+          "ts": "2019-05-18T13:13:29",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "No hints after stage 2 (except the 't' to fix my stupid mistake)"
+        }
+      ],
+      "samples": [
+        {
+          "id": 898,
+          "ts": "2019-05-18T13:13:29",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "No hints after stage 2 (except the 't' to fix my stupid mistake)"
+        },
+        {
+          "id": 1523,
+          "ts": "2019-10-04T18:25:08",
+          "uid": "662790592",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "anyone have hints as to what 2name could be in stage 2?"
+        },
+        {
+          "id": 2220,
+          "ts": "2020-02-27T10:47:28",
+          "uid": "809473266",
+          "author": "nieods",
+          "jrk": false,
+          "text": "if you were, you'd have already got past stage 2"
+        },
+        {
+          "id": 2689,
+          "ts": "2020-03-23T16:32:06",
+          "uid": "809473266",
+          "author": "nieods",
+          "jrk": false,
+          "text": ";-) that's stage 2/3 in deciphering"
+        },
+        {
+          "id": 3350,
+          "ts": "2020-04-08T15:35:01",
+          "uid": "713273879",
+          "author": "Tracer",
+          "jrk": false,
+          "text": "We should call it the after stage then 😄"
+        },
+        {
+          "id": 8023,
+          "ts": "2021-12-29T07:03:52",
+          "uid": "750026879",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "as U like python, may be its will be wonderful try to solve python based puzzle. (stage 2 at QBC puzzle, a 1st stage solution, to get to python code, will be at NY²²)  nice to challenge puzzles between."
+        }
+      ]
+    },
+    "salphaseion_author": {
+      "count": 1476,
+      "jrk_count": 4,
+      "first": {
+        "id": 5789,
+        "ts": "2021-02-12T23:43:22",
+        "uid": "750026879",
+        "author": "Unknown",
+        "jrk": false,
+        "text": "summary: #..# wasnt used. 2nd way from start wasnt founded (shared). blobs in mp3 didnt recovered. \"salphaselon\" is unknown from where was taken and didnt confirmed.   more?"
+      },
+      "last": {
+        "id": 71239,
+        "ts": "2026-09-08T10:27:32",
+        "uid": "7187939580",
+        "author": "peter btc",
+        "jrk": false,
+        "text": "Successfully completed decryption chains:  - ✅ Phases 1→2→3→3.2→3.3 fully decrypted - ✅ CHAIN ​​1 (internal blob) decryption: Obtained K_C1, K_C2, E_C - ✅ CHAIN ​​2 (Phase 3.3) decryption: Obtained K_S1, K_S2, E_S - ✅ SalPhaseIon → Bifid → btcseed 96-state object (281 states) - ✅ URL hash verification: `SHA256(\"GSMGIO5BTCPUZZLECHALLENGE\"+address)` = page URL"
+      },
+      "jrk_samples": [
+        {
+          "id": 6491,
+          "ts": "2021-03-14T01:58:08",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Fyi. Another person (or team) made it to salph."
+        },
+        {
+          "id": 6497,
+          "ts": "2021-03-14T05:45:01",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solv"
+        },
+        {
+          "id": 6712,
+          "ts": "2021-03-22T12:53:39",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Nr 5 in salph"
+        },
+        {
+          "id": 7244,
+          "ts": "2021-04-10T13:49:28",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Fyi, another person or team reached salph today."
+        }
+      ],
+      "samples": [
+        {
+          "id": 5789,
+          "ts": "2021-02-12T23:43:22",
+          "uid": "750026879",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "summary: #..# wasnt used. 2nd way from start wasnt founded (shared). blobs in mp3 didnt recovered. \"salphaselon\" is unknown from where was taken and didnt confirmed.   more?"
+        },
+        {
+          "id": 5793,
+          "ts": "2021-02-16T07:42:15",
+          "uid": "274980096",
+          "author": "0xColombo",
+          "jrk": false,
+          "text": "what is salphaselon lol?"
+        },
+        {
+          "id": 5801,
+          "ts": "2021-02-16T11:27:04",
+          "uid": "633059140",
+          "author": "x7x7x7x6",
+          "jrk": false,
+          "text": "that was in discord group, someone mentioned \"SalPhaseIon\" once and the new mystery was born. :)"
+        },
+        {
+          "id": 5804,
+          "ts": "2021-02-16T11:56:56",
+          "uid": "830775336",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "Miphalsa and Salpheselon. I still don't know what it means"
+        },
+        {
+          "id": 5868,
+          "ts": "2021-02-19T06:28:31",
+          "uid": "980067088",
+          "author": "Zil",
+          "jrk": false,
+          "text": "let's solve SalPhase.. :D"
+        },
+        {
+          "id": 71206,
+          "ts": "2026-09-08T01:06:19",
+          "uid": "7815194440",
+          "author": "E",
+          "jrk": false,
+          "text": "not saying to use the resulting hash as a url at this point either; but as a password for salphaseion AES"
+        }
+      ]
+    },
+    "choice_door": {
+      "count": 1244,
+      "jrk_count": 6,
+      "first": {
+        "id": 1710,
+        "ts": "2020-01-14T05:38:06",
+        "uid": "9815232",
+        "author": "Jrk Bgrt",
+        "jrk": true,
+        "text": "Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+      },
+      "last": {
+        "id": 71247,
+        "ts": "2026-09-08T13:06:59",
+        "uid": "7536635386",
+        "author": "Cereal Killer",
+        "jrk": false,
+        "text": "noted, but i am freewill beliver, my choice, my phone, bullshit the mevorengian causality and bullshit  thinker, i will write whatever i wanna do as free will, i have paid money for this phone to write on telegram 😆 but whatever i am, i wont go with AI slop script, it my free will not of AI 😁"
+      },
+      "jrk_samples": [
+        {
+          "id": 1710,
+          "ts": "2020-01-14T05:38:06",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+        },
+        {
+          "id": 3923,
+          "ts": "2020-05-11T16:31:25",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Let's see what bitcoin is worth the next halving and who knows what you'll find after opening the 2nd door. The price is in half, but what does it mean 🤔."
+        },
+        {
+          "id": 4590,
+          "ts": "2020-08-02T12:56:20",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Really nobody managed to find the extra door, didn't expect that after the earlier pace of cracking things."
+        },
+        {
+          "id": 6884,
+          "ts": "2021-04-01T02:57:38",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Hint: \"another door might be found on {1 },{4} ,{21}\""
+        },
+        {
+          "id": 8000,
+          "ts": "2021-12-26T15:18:32",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! 🥂"
+        },
+        {
+          "id": 66903,
+          "ts": "2026-07-16T18:19:17",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Well, it's hidden in a room with a hidden door."
+        }
+      ],
+      "samples": [
+        {
+          "id": 1710,
+          "ts": "2020-01-14T05:38:06",
+          "uid": "9815232",
+          "author": "Jrk Bgrt",
+          "jrk": true,
+          "text": "Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado.  It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush."
+        },
+        {
+          "id": 3379,
+          "ts": "2020-04-08T16:20:49",
+          "uid": "952048031",
+          "author": "Lazy Prophet",
+          "jrk": false,
+          "text": "beg to disagree.. intelligence is not a choice..."
+        },
+        {
+          "id": 3388,
+          "ts": "2020-04-08T16:31:00",
+          "uid": "689225742",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "\"\" Roses are White but often Red.  Yellow has a number and so does Blue.  Go back to the first puzzle piece without further ado.   It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.  Hush hush. \"\""
+        },
+        {
+          "id": 3389,
+          "ts": "2020-04-08T16:32:28",
+          "uid": "713273879",
+          "author": "Tracer",
+          "jrk": false,
+          "text": "The door that leads to the source?\\"
+        },
+        {
+          "id": 3447,
+          "ts": "2020-04-09T23:27:33",
+          "uid": "952048031",
+          "author": "Lazy Prophet",
+          "jrk": false,
+          "text": "i went to the rabbit nest last night... but the door is locked 😔"
+        },
+        {
+          "id": 71001,
+          "ts": "2026-09-04T16:08:47",
+          "uid": "6974890380",
+          "author": "SATE",
+          "jrk": false,
+          "text": "He mentioned another door before he see github"
+        }
+      ]
+    },
+    "hash_the_text": {
+      "count": 112,
+      "jrk_count": 0,
+      "first": {
+        "id": 4022,
+        "ts": "2020-05-19T13:54:49",
+        "uid": "1027386051",
+        "author": "Timofey Bondarenko",
+        "jrk": false,
+        "text": "Any ideas about HASHTHETEXT and the 7 passwords?"
+      },
+      "last": {
+        "id": 71201,
+        "ts": "2026-09-08T00:41:30",
+        "uid": "7536635386",
+        "author": "Cereal Killer",
+        "jrk": false,
+        "text": "You can't go without map, if salphaseion is last phase then you must have to trace its origin, no body can just hash the text and apply it using as url, you have to find proper explanation about salphaseion phase, once it revealed then may be you will get password, and i think that is the \"micro step\" Jrk was talking about"
+      },
+      "jrk_samples": [],
+      "samples": [
+        {
+          "id": 4022,
+          "ts": "2020-05-19T13:54:49",
+          "uid": "1027386051",
+          "author": "Timofey Bondarenko",
+          "jrk": false,
+          "text": "Any ideas about HASHTHETEXT and the 7 passwords?"
+        },
+        {
+          "id": 4853,
+          "ts": "2020-10-20T12:15:11",
+          "uid": "139037664",
+          "author": "Saber ^:)> (---}> ¿¡×( ;) <><",
+          "jrk": false,
+          "text": "there is a mistake there. S=32 B=16 Q AND H i dont know, but its reffer to DECENTERLAND location... the ture form of decode data in decenterland is hexthetext not hash the text as i know. ------------------------- What good will it be for someone to gain the whole world, yet forfeit their soul?"
+        },
+        {
+          "id": 5335,
+          "ts": "2021-01-06T09:52:44",
+          "uid": "1173894700",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "here's a hint from the creator of the puzzle on Decentraland: decentraland image If you go to Decentraland and find these coordinates, you'll get an audio file. Split stereo track, invert one of them, mix them back, mix stereo down to mono, create a spectrogram. The answer is: HASHTHETEXT"
+        },
+        {
+          "id": 5449,
+          "ts": "2021-01-09T16:33:29",
+          "uid": "830775336",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "HASHTHETEXT and the roses poem with part1 rabbit picture somehow got them forward"
+        },
+        {
+          "id": 5950,
+          "ts": "2021-03-01T00:10:13",
+          "uid": "1672791186",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "first X + Y combo is where you spawn, second is some art gallery, third is the sound file (that contains numbers, which converted to ascii show \"HASHTHETEXT\") and final part is some area near which is a place that shows text ZION"
+        },
+        {
+          "id": 70678,
+          "ts": "2026-09-02T16:56:26",
+          "uid": "809473266",
+          "author": "nieods",
+          "jrk": false,
+          "text": "for the salph url, one hypothesis is that it was always there and that phase 3.2 will lead to it. second hypothesis is that it was put in after the fact specifically after the first halving. i think I was 3rd or 4th team to find it, but it was the HASHTHETEXT that got me there"
+        }
+      ]
+    },
+    "missing_piece": {
+      "count": 13,
+      "jrk_count": 0,
+      "first": {
+        "id": 44,
+        "ts": "2019-04-20T06:02:48",
+        "uid": "43935904",
+        "author": "Chris",
+        "jrk": false,
+        "text": "i'm working the binary angle now, but i believe its 3 parts. but still a missing piece. because its 14x14, its not enough bits to be a private key in binary"
+      },
+      "last": {
+        "id": 69939,
+        "ts": "2026-08-26T00:42:10",
+        "uid": "1475840553",
+        "author": "The Boss Jimmy 🏴‍☠️|",
+        "jrk": false,
+        "text": "The wall, precisely  The wall moved this cycle: it is no longer a decoding problem. Everything decodes. What's missing is one rule.  The authenticated objects we hold:      btcseed payload — the Bifid plaintext, now reduced to an exact 96-state product alphabet (4 control × 24 carrier symbols; the lone z switches pair orientation). Creator-confirmed via the RX → 1169 → CIPHERS hint.     The exposed target public key "
+      },
+      "jrk_samples": [],
+      "samples": [
+        {
+          "id": 44,
+          "ts": "2019-04-20T06:02:48",
+          "uid": "43935904",
+          "author": "Chris",
+          "jrk": false,
+          "text": "i'm working the binary angle now, but i believe its 3 parts. but still a missing piece. because its 14x14, its not enough bits to be a private key in binary"
+        },
+        {
+          "id": 1417,
+          "ts": "2019-08-10T13:01:37",
+          "uid": "427717127",
+          "author": "Ewout",
+          "jrk": false,
+          "text": "Find the missing piece"
+        },
+        {
+          "id": 1484,
+          "ts": "2019-09-25T08:07:54",
+          "uid": "370469246",
+          "author": "Unknown",
+          "jrk": false,
+          "text": "I have been looking for a quote in all the public places, yet found nothing. Where did @SoWut say that we need to find a missing piece somewhere not referenced in the puzzle text up to the ciphers in 3.2/4? Sorry for asking directly, just want to know if this is an actual fact or just keeps being repeated"
+        },
+        {
+          "id": 8551,
+          "ts": "2023-05-14T04:37:20",
+          "uid": "139037664",
+          "author": "Saber ^:)> (---}> ¿¡×( ;) <><",
+          "jrk": false,
+          "text": "the missing pieces:"
+        },
+        {
+          "id": 9101,
+          "ts": "2023-08-05T14:15:48",
+          "uid": "546901636",
+          "author": "PoW",
+          "jrk": false,
+          "text": "With so many smart people already worked on this for so long, seems possible that there're more flaws or missing pieces. For me the decentraland hint is a proof of missing pieces. So how can we know if there isn't more?"
+        },
+        {
+          "id": 65629,
+          "ts": "2026-06-21T01:57:50",
+          "uid": "8926654030",
+          "author": "Vasilis Dragon",
+          "jrk": false,
+          "text": "ok, posting the actual state of this, because the thread keeps bouncing between \"solved\" and \"unsolvable\" and most of it is people running wrong bytes.  canonical chain, all verifiable:  cosmic decrypt sha256 4f7a1e4e (the known checkpoint) chain4 post-AES, pkcs7 stripped, 1151 bytes: sha256 e4269ed5 (already in the issue dumps) the 35 ciphertext blocks, 1120 bytes: sha256 43d3fe43 if your chain4 is a80a399a you're o"
+        }
+      ]
+    },
+    "decipherable": {
+      "count": 11,
+      "jrk_count": 0,
+      "first": {
+        "id": 38949,
+        "ts": "2025-04-27T09:27:07",
+        "uid": "497668740",
+        "author": "X",
+        "jrk": false,
+        "text": "if dbbi and faed decipherable and no one didnt figure out within 6 years it means, we are misleaded"
+      },
+      "last": {
+        "id": 68887,
+        "ts": "2026-08-17T07:40:43",
+        "uid": "497668740",
+        "author": "X",
+        "jrk": false,
+        "text": "his answer confirms phase 2, phase 3, salph, cosmic they are decipherable through same methods"
+      },
+      "jrk_samples": [],
+      "samples": [
+        {
+          "id": 38949,
+          "ts": "2025-04-27T09:27:07",
+          "uid": "497668740",
+          "author": "X",
+          "jrk": false,
+          "text": "if dbbi and faed decipherable and no one didnt figure out within 6 years it means, we are misleaded"
+        },
+        {
+          "id": 39228,
+          "ts": "2025-04-28T12:58:42",
+          "uid": "497668740",
+          "author": "X",
+          "jrk": false,
+          "text": "maybe tell us \"dbbi...\" and \"faed...\" strings are decipherable or not after 6 years.."
+        },
+        {
+          "id": 39242,
+          "ts": "2025-04-28T13:02:46",
+          "uid": "497668740",
+          "author": "X",
+          "jrk": false,
+          "text": "@SoWut thats where we are stuck for years. just tell us they are decipherable or not so we dont waste another 6 years.."
+        },
+        {
+          "id": 43673,
+          "ts": "2025-06-16T14:24:36",
+          "uid": "497668740",
+          "author": "X",
+          "jrk": false,
+          "text": "If they were individually decipherable, someone would have found them years ago. every cipher on the planet has already been tried on them and no result"
+        },
+        {
+          "id": 46943,
+          "ts": "2025-08-11T04:23:34",
+          "uid": "497668740",
+          "author": "X",
+          "jrk": false,
+          "text": "i mean, they are not decipherable like the others in salph"
+        },
+        {
+          "id": 61428,
+          "ts": "2026-04-13T19:36:22",
+          "uid": "497668740",
+          "author": "X",
+          "jrk": false,
+          "text": "if there is a pattern, it means dbbi is decipherable"
+        }
+      ]
+    }
+  }
+}

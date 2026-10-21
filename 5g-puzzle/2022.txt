@@ -1,0 +1,921 @@
+================================================================================
+TELEGRAM CHAT TRANSCRIPT - YEAR 2022
+================================================================================
+Chat            : GSMG Puzzle Solvers
+Chat type / id  : private_supergroup / 1166734859
+This file covers: 2022-01-01 through 2022-12-31
+Messages here   : 228 (214 chat messages + 14 service events) of 61349 in the full export
+First / last    : 2022-01-03 20:57:52  ->  2022-12-25 22:10:20
+Series          : one file per year, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 (this file is 2022)
+Source          : result.json (Telegram Desktop JSON export)
+
+--------------------------------------------------------------------------------
+HOW TO READ THIS FILE
+--------------------------------------------------------------------------------
+Days begin with:      ## DAY YYYY-MM-DD (Weekday)
+Each message block:   [#<id>] HH:MM:SS <Display Name> (<user id>)
+                      (annotation lines, zero or more, in parentheses)
+                      <message text, may span several lines>
+Blocks are separated by a blank line. Times are HH:MM:SS under the DAY
+date above them, in the timezone the export was taken in.
+
+#<id> is the Telegram message id. It is unique across the whole export and
+increases with time, so replies can be traced across files by id.
+
+Annotation lines you may see:
+  (reply to #N - Author: "quoted snippet")   this message answers #N;
+     a [YYYY-MM-DD] after the id means #N is from another day/file
+  (forwarded from X) / (sent via bot @b) / (edited YYYY-MM-DD HH:MM:SS)
+  (attachment: ...)  media was posted; the binary is NOT part of this export
+  (poll: "question" ...)                     a poll and its vote counts
+  (reactions: EMOJI xN, ...)                 emoji reactions on the message
+Lines starting with  * SERVICE  are membership events, not chat messages.
+
+Author names are normalised: a given user id always appears under the same
+display name (the one they used most often), so a person stays recognisable
+even where the raw export recorded no name for a message.
+Inline `code` and fenced ``` blocks preserve the original code formatting.
+
+--------------------------------------------------------------------------------
+MOST ACTIVE PARTICIPANTS IN 2022 (top 25 of 26 who posted)
+--------------------------------------------------------------------------------
+  62     Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+  57     barrystyle (user925838121)
+  20     stranger (user98171605)
+  14     Unknown (user5077473453)
+  9      Jrk Bgrt (user9815232)
+  5      0xColombo (user274980096)
+  5      RB (user737261554)
+  4      Legik (user646609236)
+  4      Zil (user980067088)
+  4      Detective Froz (user231061724)
+  4      mpeg (user59168199)
+  3      Janusz Baran (user394589394)
+  3      Unknown (user1783233127)
+  3      x7x7x7x6 (user633059140)
+  3      Alex (user690769341)
+  2      Org0 (user340325111)
+  2      PK (user5066314350)
+  2      Unknown (user5306186392)
+  1      SlobaDoba (user1483942636)
+  1      Владимир Латышов (user451846852)
+  1      omaru (user706790942)
+  1      pogo (user406542088)
+  1      Unknown (user1121635945)
+  1      yu uipod (user1737742685)
+  1      Billy Tjie (user224340829)
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+## DAY 2022-01-03 (Monday)
+
+[#8051] 20:57:52 SlobaDoba (user1483942636)
+Happy New Year
+
+## DAY 2022-01-05 (Wednesday)
+
+[#8053] 05:25:10 * SERVICE: PK (user5066314350) joined the group via invite link
+
+[#8054] 09:55:40 * SERVICE: Sergio Marquina (user5039775737) joined the group via invite link
+
+## DAY 2022-01-12 (Wednesday)
+
+[#8055] 16:27:30 Legik (user646609236)
+(reply to #8052 - (message not in this export))
+https://www.blockseek.io/qbc/address/3AqPLgGvzTokcNYcabf97RbQDqmRCehPB2
+
+## DAY 2022-01-16 (Sunday)
+
+[#8056] 12:58:11 Zil (user980067088)
+(attachment: photo 1280x960 198.1 KB [binary not included in export])
+
+[#8057] 12:58:19 Zil (user980067088)
+I'm very close to solving..
+
+[#8058] 13:30:54 Detective Froz (user231061724)
+Is this paper towel or XXL toilet paper 🧻 for big guys?
+
+[#8059] 14:15:46 Zil (user980067088)
+(edited 2024-01-20 04:37:14)
+Paper towel a.k.a paper wallet 😅
+
+## DAY 2022-01-19 (Wednesday)
+
+[#8060] 19:29:26 Org0 (user340325111)
+(attachment: photo 740x742 61.7 KB [binary not included in export])
+
+## DAY 2022-02-03 (Thursday)
+
+[#8061] 13:22:36 0xColombo (user274980096)
+@SoWut hello! Please give us additional hint for SalPhaseIon 🥰
+
+## DAY 2022-02-17 (Thursday)
+
+[#8063] 15:03:55 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+to accure peace noble and extreme amount of money you can do this:
+
+[#8064] 15:07:39 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(edited 2022-02-17 15:11:49)
+1- using hash algo, look up where ever you seen the emoji lookup
+2- string to be hash is my message and few other user.
+3- seed is the important part, you need to try default value and other pass, name or ...  used in puzzle.
+4- send half the money you get this way with a pv key in my direct and i will get you the final piece.
+i am tired.
+
+## DAY 2022-03-01 (Tuesday)
+
+[#8065] 12:56:23 * SERVICE: Onyx (user1189949922) joined the group via invite link
+
+## DAY 2022-03-17 (Thursday)
+
+[#8066] 22:41:50 * SERVICE: Unknown (user1237861496) joined the group via invite link
+
+## DAY 2022-04-06 (Wednesday)
+
+[#8067] 07:08:09 PK (user5066314350)
+How do you open the
+D
+O
+O
+R?
+
+## DAY 2022-04-09 (Saturday)
+
+[#8068] 14:41:44 Legik (user646609236)
+how to understand what the salphaseion text means, where to read what it is?
+
+[#8069] 14:46:27 Legik (user646609236)
+sal phase ion, salphase i on, s alpha sion ...
+
+[#8070] 17:05:49 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+i want at least 5000$ of the official prize and give you the exact final answer. if you can find a way to not get cheated again, i will send it, right now.
+
+[#8071] 17:13:32 Janusz Baran (user394589394)
+(reply to #8067 [2022-04-06] - PK (user5066314350): "How do you open the D O O R?")
+(edited 2023-11-10 14:10:07)
+(attachment: photo 53x56 1.0 KB [binary not included in export])
+
+[#8072] 17:13:40 Janusz Baran (user394589394)
+here you have your DOOR
+
+[#8073] 17:13:52 Janusz Baran (user394589394)
+D
+O
+O
+R
+
+[#8074] 17:19:35 Владимир Латышов (user451846852)
+open or tuk tuk 😂
+
+[#8075] 23:25:50 PK (user5066314350)
+ᗡ
+O
+O
+Я
+
+## DAY 2022-04-10 (Sunday)
+
+[#8076] 08:28:19 mpeg (user59168199)
+(reply to #8068 [2022-04-09] - Legik (user646609236): "how to understand what the salphaseion text means, where ...")
+(The Matrix) Salvation 
+Salvation Phase
+SalPhaseIon
+
+## DAY 2022-04-11 (Monday)
+
+[#8077] 03:29:07 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(edited 2024-04-29 08:37:09)
+(reactions: 👎 x1)
+gsmg puzzle, final answer:
+
+[#8078] 03:29:46 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+you should hash string in plain sight, address and the puzzle solgan
+
+[#8079] 03:29:53 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+with hufftime hasher
+
+[#8080] 03:30:10 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+the seed for the hash is yellow and blue,
+
+[#8081] 03:30:44 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+you can try yellow+blue and (yellow*blue)/red
+
+[#8082] 03:32:28 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(edited 2025-09-14 22:24:48)
+(reactions: ❤ x1)
+in the worst case scenario, where they point to hashing different string and the result of the hash consider as 64 bit,
+
+[#8083] 03:33:06 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+then, you should hash them this way: [gsmg.io], [5] / [5 btc] and so on...
+
+[#8084] 03:34:21 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+then you have to run, combo of the hash string together to see the result...
+
+[#8085] 03:35:25 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+i want at least 5000$ of price, this is the best i can do, else consequences will be out of control.
+
+[#8086] 03:37:18 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+3MgmuRBtJCLtBtbpMAEcKmELJmG2LPVQwV (btc address)
+
+[#8087] 18:50:44 * SERVICE: Unknown (user5038877249) joined the group via invite link
+
+## DAY 2022-04-12 (Tuesday)
+
+[#8088] 07:58:09 Unknown (user1783233127)
+(reply to #8067 [2022-04-06] - PK (user5066314350): "How do you open the D O O R?")
+(attachment: photo 776x297 112.3 KB [binary not included in export])
+with this - compare against the real Matrix text you will see extra chars... need to remove them. also think about primes here...
+
+## DAY 2022-04-13 (Wednesday)
+
+[#8089] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+its one of them.
+
+[#8090] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+the gsmg.io page, has stegano graphic data too, i think its not usable anymore. but white space steg technique is the most simple solution there.
+
+[#8091] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+extract logo image data and then convert it with ecb. its another solution
+
+[#8092] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+(attachment: photo 376x618 54.9 KB [binary not included in export])
+
+[#8093] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+i can not find my note right now, but there is so much solution.
+
+[#8094] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+if you can finish them and send me some i will find and send the rest.
+
+[#8095] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+i can not finish them.
+
+[#8096] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+(attachment: photo 688x135 15.8 KB [binary not included in export])
+
+[#8097] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+or this for example, it solve in many way
+
+[#8098] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+one of them: they are all math formula...
+
+[#8099] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+you should look at it reverse and mirro.
+
+[#8100] 02:18:31 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(forwarded from Saber ^:)> (---}> ¿¡×( ;) <><)
+in the same time, they are pixel art which should be put on tupper
+
+[#8101] 02:20:32 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(reply to #8088 [2022-04-12] - Unknown (user1783233127): "with this - compare against the real Matrix text you will...")
+this part of the puzzle is totally fake.
+
+[#8102] 06:18:16 Unknown (user1783233127)
+is this fake puzzle part of..? totally!
+
+[#8103] 06:18:44 Unknown (user1783233127)
+🤫
+
+[#8104] 06:43:24 Detective Froz (user231061724)
+Is somebody still working on this puzzle?
+
+[#8105] 06:52:44 stranger (user98171605)
+yep
+
+[#8106] 07:10:28 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(reply to #8102 - Unknown (user1783233127): "is this fake puzzle part of..? totally!")
+around 1.5 years ago, i point to this part after some one who probably was one of the creator,
+
+[#8107] 07:12:58 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+the matrix bla bla bla txt, just posted as disinformation on github and then almost no one try to see how it really work... still, its could be useful if creator looking for a fake answer to find.
+
+[#8108] 07:14:23 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+the aes, just appended to gether. its means the middle part turn return true when using openssl but its enc with another algo.
+
+[#8109] 07:23:33 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+the fun part is the whole puzzle phase, answer and etc... are in fact based on cyberpunk movement, zen, cognitive  error and etc... is design where you as an individual after moving in multiple phase and trial error, etc... will find the answer.... but there is just a few problem there:
+
+[#8110] 07:24:12 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+as the interaction between one and ai should be evaluated and.... etc.
+
+[#8111] 07:30:55 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+then, if some act as a real individual who crack the puzzle it self... he made a wrong choice! cause, based on common sense (i hate word common, its  meaningless just as normal.) he should never do such a thing!  only a range of behavior and choice is true! and its completely rational...
+
+[#8112] 07:40:40 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+and the other problem is where they just assume the basic tool is ready for every one... as an example to that aes part, for making such a thing or crack it we have many way. but probably using stream cipher is the easiest way. beside standard stream cipher and need probably to brute force the pass and string itself... we need a level of certainty when we are dealing with deniable enc... for true message. i mean, in a paragraph like this, i can put at least 5 different completely readable and undeniable message which can be decode with a kid and not with any one else, but they are completely clear i mean.
+
+[#8113] 10:57:23 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+in the same time, the first answer was true with high certainty... but some part exist like that 149 number string where we can not be sure about them. in that part beside the wellknown and string i send, there is many other way.
+
+[#8114] 10:59:03 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+for example on of the easiest way to use classic cipher for creating a good and hard challenge is using them in the most efficient or creative way... on of them is rail cipher.
+
+[#8115] 11:04:26 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+rail cipher can be use for binary! its means you can not only bypass any firewall (in the first step, but after that, its needs more complicated or intelligence way) with a very simple obfuscation method. its can be use for handle secret message too. for the number string part, you can just run rail cipher and then treat the number with vic to see decoed in the first part. its could be fake or real message but the only way to dealing with as wellknown analysis is not the case there, is brute forcing as many decryption as you can. its need a good hardware or extremely good mood.
+
+[#8116] 11:09:06 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+the other thing is used in this puzzle is (its an standard method.) using the certain word, string and/or their anagram as the decipher way of a message. as an example, the chao in disinformation part is a bold hint to chao cipher... its have a good protection resistance against brute force attack and not a well known method in puzzle... but in the same time, see such a thing in a fake part is a red sign for using it.
+
+[#8117] 11:29:41 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+and so on... but anyway for this or any puzzle, cipher, military encrypted message, bitcoin... what ever coded with human, there is weakness. i like to find and crack the weaknesses, i am so addicted to it in some how. so, what was the gsmg puzzle weaknesses and how i deal with it? but the result except personal sanctification was completely disappointing... first: it was theme... second: the reaction... third: flaw against unorthodox analysis. four: repeated pattern. five: having a history... six: leaking so much information with the competitioner with not so right intention... (its meaningless to stay quiet or always send wrong info or distraction as part of the role... as its can be used for deeper analysis.) and etc... and my biggest mistake was this: i just assume, based on the puzzle script and interaction with player... the goal of this puzzle is not just creating a puzzle but there is a recruitment, fund rising, scholarship challenge or etc... in this case scenario, i would not lose anything with playing like me, not cheating and even trying to improve my technique... but i was wrong! as it was not or in my case it was not or its in the most nonsense and paradoxical way work based on the result which in this case its just have so many flaw which i hope for make it better in the next puzzle or challenge or what ever is it.
+
+## DAY 2022-04-16 (Saturday)
+
+[#8118] 11:22:34 * SERVICE: Unknown (user5091621879) joined the group via invite link
+
+[#8119] 15:01:22 mpeg (user59168199)
+Crikey
+
+[#8120] 15:01:23 mpeg (user59168199)
+(attachment: sticker, "AnimatedSticker.tgs", application/x-tgsticker, 512x512, 3.2 KB; sticker 😐 [binary not included in export])
+
+## DAY 2022-04-17 (Sunday)
+
+[#8122] 13:28:29 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+easter egg of gsmg puzzle, based on my guess:
+
+[#8123] 13:31:15 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+if you append/add number like 2 to the 149 char string then convert it to hex, you will have 64 char bip39 seed or... some 64 hex char key which could open something special.
+
+[#8124] 13:39:03 omaru (user706790942)
+(attachment: animation, "ok-alright-then.mp4", video/mp4, 4s, 208x208, 142.7 KB [binary not included in export])
+
+[#8125] 13:45:24 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(reply to #8124 - omaru (user706790942): "attachment: animation, "ok-alright-then.mp4", video/mp4, ...")
+thank you, you can add all number of the string together too.☹️
+
+## DAY 2022-04-26 (Tuesday)
+
+[#8126] 00:17:04 0xColombo (user274980096)
+@SoWut where is puzzle-birthday hint?:)
+
+[#8127] 00:17:37 0xColombo (user274980096)
+If I remember correctly, we started this 19th of April 2019
+
+[#8128] 00:17:46 0xColombo (user274980096)
++- week
+
+## DAY 2022-05-02 (Monday)
+
+[#8129] 22:37:14 * SERVICE: Unknown (user5308790512) joined the group via invite link
+
+## DAY 2022-05-09 (Monday)
+
+[#8130] 10:27:57 * SERVICE: Unknown (user5077473453) joined the group via invite link
+
+## DAY 2022-05-11 (Wednesday)
+
+[#8131] 08:18:01 Unknown (user5077473453)
+completely deadlocked
+
+[#8132] 08:24:39 Detective Froz (user231061724)
+Hello! Do you know guys why the ripemd160 function was depreciated in OpenSSL 3? (neeest python’s hashlib doesn’t perform ripemd160 hash)
+
+[#8133] 09:19:17 stranger (user98171605)
+(reply to #8132 - Detective Froz (user231061724): "Hello! Do you know guys why the ripemd160 function was de...")
+(edited 2025-08-08 10:34:42)
+(reactions: ❤ x1)
+https://www.reddit.com/r/crypto/comments/sv2y6d/ripemd160_a_disater_in_the_making_thanks_to/
+
+[#8134] 09:23:14 Detective Froz (user231061724)
+(reply to #8133 - stranger (user98171605): "https://www.reddit.com/r/crypto/comments/sv2y6d/ripemd160...")
+Thanks, i saw that as well. So, they made the life harder )
+
+What is the easiest solution now for python to calculate ripemd160 hash?
+
+[#8135] 09:30:22 stranger (user98171605)
+https://github.com/jcook/python-crypto-debian/blob/master/lib/Crypto/Hash/RIPEMD160.py
+
+## DAY 2022-05-24 (Tuesday)
+
+[#8136] 08:37:53 Unknown (user5077473453)
+Are you there?
+
+[#8137] 09:21:46 stranger (user98171605)
+yep
+
+## DAY 2022-05-25 (Wednesday)
+
+[#8138] 02:05:18 Unknown (user5077473453)
+I found many prime numbers but don't KNOW WHAT THEY DO
+
+[#8139] 02:19:30 stranger (user98171605)
+(reply to #8138 - Unknown (user5077473453): "I found many prime numbers but don't KNOW WHAT THEY DO")
+how many?
+
+[#8140] 06:22:06 Jrk Bgrt (user9815232)
+(edited 2025-12-29 02:53:11)
+(attachment: animation, "animation.gif.mp4", video/mp4, 3s, 220x158, 43.0 KB [binary not included in export])
+(reactions: 😁 x1)
+
+[#8141] 08:38:46 stranger (user98171605)
+GOD mode))
+
+[#8142] 10:25:33 Jrk Bgrt (user9815232)
+Looks like somebody found a gsmg subscription.
+
+## DAY 2022-05-27 (Friday)
+
+[#8146] 02:11:50 Unknown (user5077473453)
+someone deleted something
+
+[#8147] 02:16:10 stranger (user98171605)
+You will succeed
+
+[#8148] 04:30:02 Unknown (user5077473453)
+(reply to #8147 - stranger (user98171605): "You will succeed")
+No, I can't
+
+[#8149] 04:34:53 stranger (user98171605)
+(reply to #8148 - Unknown (user5077473453): "No, I can't")
+ECDSA
+
+[#8150] 05:15:23 stranger (user98171605)
+(reply to #8148 - Unknown (user5077473453): "No, I can't")
+X-coordinate (pubkey) for 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  is 04f4d1bbd91e65e2a019566a17574e97dae908b784b388891848007e4f55d5a4649c73d25fc5ed8fd7227cab0be4e576c0c6404db5aa546286563e4be12bf33559
+
+[#8151] 05:17:34 stranger (user98171605)
+know the Y-coordinate, you can calculate the primary key
+
+[#8152] 10:11:31 Unknown (user5077473453)
+https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+
+[#8153] 10:11:54 Unknown (user5077473453)
+The first door
+
+[#8154] 10:12:16 Unknown (user5077473453)
+What is another door?
+
+[#8155] 10:13:00 Unknown (user5077473453)
+does it contain the private key or does it lead to another door?
+
+[#8156] 10:17:14 stranger (user98171605)
+It's a long way
+
+[#8157] 10:17:56 stranger (user98171605)
+(reply to #8154 - Unknown (user5077473453): "What is another door?")
+https://github.com/puzzlehunt/gsmgio-5btc-puzzle
+
+[#8158] 10:18:20 Unknown (user5077473453)
+(reply to #8157 - stranger (user98171605): "https://github.com/puzzlehunt/gsmgio-5btc-puzzle")
+I know
+
+[#8159] 10:18:27 Unknown (user5077473453)
+My link from that
+
+[#8160] 10:21:37 stranger (user98171605)
+s h a b e f o u r f i r s t h i n t i s y o u r l a s t c o m m a n d
+
+[#8161] 10:22:24 Unknown (user5077473453)
+What is your first hinht?
+
+[#8162] 10:26:25 stranger (user98171605)
+Follow the white rabbit))
+
+## DAY 2022-05-29 (Sunday)
+
+[#8172] 19:25:12 Unknown (user5077473453)
+Completely deadlocked
+
+## DAY 2022-05-31 (Tuesday)
+
+[#8173] 09:39:07 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(attachment: file, "ppp.py", text/x-python, 1.5 KB [binary not included in export])
+
+[#8174] 09:49:23 x7x7x7x6 (user633059140)
+whoa, i just executed this script and suddenly created a new block and got 6,25 BTC reward
+
+[#8176] 10:57:11 pogo (user406542088)
+that's nothing, i ran the script and created a new parallel universe where i owned all the bitcoin and consequently it was worthless
+
+[#8177] 11:05:54 Unknown (user1121635945)
+(reply to #8174 - x7x7x7x6 (user633059140): "whoa, i just executed this script and suddenly created a ...")
+Proof please
+
+[#8178] 11:15:53 x7x7x7x6 (user633059140)
+Oh, my bad, Saber did get the reward
+
+[#8179] 11:25:15 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(reply to #8178 - x7x7x7x6 (user633059140): "Oh, my bad, Saber did get the reward")
+😂😂😂
+
+[#8180] 11:27:56 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+its some how interesting how we can respond to a joke, where its not a joke in fact but nobody can understand it.
+
+## DAY 2022-06-01 (Wednesday)
+
+[#8181] 06:16:47 Org0 (user340325111)
+(edited 2026-01-10 15:10:55)
+(attachment: video_file, "matrix3021.mp4", video/mp4, 47s, 576x1024, 8.2 MB [binary not included in export])
+(reactions: 😁 x1)
+
+[#8182] 07:42:42 RB (user737261554)
+(reply to #8181 - Org0 (user340325111): "attachment: video_file, "matrix3021.mp4", video/mp4, 47s,...")
+Ok... That REALLY made my day 😄
+
+[#8183] 09:48:09 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(reply to #8182 - RB (user737261554): "Ok... That REALLY made my day 😄")
+i did not get the joke or the meaning behind it. usually in such a case if i do not know the other people just pretend and act like the group as it easier and not matter. but right now,  there is a question come to my mind which i feel good if i know your answer. as its could be cultural thing, then i just ask a technical question which is related in some how.
+
+[#8184] 09:49:28 RB (user737261554)
+(reply to #8183 - Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664): "i did not get the joke or the meaning behind it. usually ...")
+to me it was no joke just some stupid video.
+
+[#8189] 12:56:24 Jrk Bgrt (user9815232)
+👽
+
+## DAY 2022-06-06 (Monday)
+
+[#8190] 23:17:30 * SERVICE: Mrak (user1475792923) joined the group via invite link
+
+## DAY 2022-06-09 (Thursday)
+
+[#8191] 03:46:25 Unknown (user5077473453)
+Can somebody find privatekey from first picture without internet?
+
+[#8192] 03:50:39 stranger (user98171605)
+@SoWut knows
+
+## DAY 2022-06-19 (Sunday)
+
+[#8193] 07:32:22 yu uipod (user1737742685)
+y
+
+## DAY 2022-06-30 (Thursday)
+
+[#8203] 17:24:56 * SERVICE: barrystyle (user925838121) joined the group via invite link
+
+[#8204] 17:27:45 barrystyle (user925838121)
+lattice attack relies on duplicated r nonce
+
+[#8205] 17:27:51 barrystyle (user925838121)
+which i can guarantee isnt going to occur here
+
+[#8206] 17:29:25 barrystyle (user925838121)
+additionally, nearly all the puzzles which have a known public key have been solved already
+
+[#8207] 17:29:35 barrystyle (user925838121)
+the rest we only know the pkh
+
+[#8208] 17:33:47 barrystyle (user925838121)
+(reply to #8008 [2021-12-27] - Legik (user646609236): "we need to somehow find out from the rabbit where the doo...")
+considered to do with qualities of a rabbits vision
+
+[#8209] 17:45:12 barrystyle (user925838121)
+(reply to #8150 [2022-05-27] - stranger (user98171605): "X-coordinate (pubkey) for 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7p...")
+this is not correct either, does not equal the pkh of 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe once ripemd/hashed
+
+[#8210] 17:47:45 barrystyle (user925838121)
+(reply to #8133 [2022-05-11] - stranger (user98171605): "https://www.reddit.com/r/crypto/comments/sv2y6d/ripemd160...")
+oh man, who comes up with this stuff seriously aha
+
+[#8211] 17:48:05 barrystyle (user925838121)
+this has turned out to be quite a humorous thread
+
+[#8212] 17:52:18 barrystyle (user925838121)
+(reply to #7907 [2021-11-06] - Unknown (user830775336): "Hello everyone... it's been a while since I've posted in ...")
+zden puzzle 5?
+
+[#8214] 18:00:09 barrystyle (user925838121)
+it is a side-channel attack, where you know certain pieces of information.. in this case partial nonces
+
+[#8216] 18:00:26 barrystyle (user925838121)
+upper and lower bounds would be better description of bitcoin puzzle
+
+[#8219] 18:00:53 barrystyle (user925838121)
+er
+
+[#8220] 18:01:11 barrystyle (user925838121)
+(attachment: photo 432x148 10.1 KB [binary not included in export])
+
+[#8221] 18:01:30 barrystyle (user925838121)
+zden has nothing to do with lattice,
+
+[#8222] 18:01:44 barrystyle (user925838121)
+you need to break the pill in half each morning my friend
+
+[#8227] 18:23:21 barrystyle (user925838121)
+from the sigs?
+
+[#8229] 18:30:03 barrystyle (user925838121)
+i see lots of consts without names, and magic numbers
+
+[#8230] 18:30:14 barrystyle (user925838121)
+if you can write this, why not do it in c
+
+[#8231] 18:46:30 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+writting code in c is not possible for me as i do not know how can i do it properly but you right, it was a wrong idea.
+
+## DAY 2022-07-03 (Sunday)
+
+[#8232] 03:50:29 barrystyle (user925838121)
+hm so there are a few more clues in the final aes blob
+
+[#8233] 03:50:45 barrystyle (user925838121)
+after base64 decode, it is 96 bytes
+
+[#8234] 03:51:03 barrystyle (user925838121)
+remove 8 bytes for openssl 'Salted__' header, 88 bytes
+
+[#8235] 03:51:22 barrystyle (user925838121)
+then we remove the following 8 bytes for the actual salt (salt is always 8 bytes regardless of keysize)
+
+[#8236] 03:51:27 barrystyle (user925838121)
+so payload is 80 bytes
+
+[#8237] 03:51:56 barrystyle (user925838121)
+80 / 32 has a remainder so the cipher being utilized is not aes-256-cbc
+
+[#8238] 03:56:28 barrystyle (user925838121)
+aes-128-cbc makes sense if ciphertext is 64bytes long (ie. a private key hexstring)... because if the cipher len meets the block end, an extra block of padding must be appended
+
+## DAY 2022-07-05 (Tuesday)
+
+[#8239] 10:26:25 RB (user737261554)
+(reply to #8237 [2022-07-03] - barrystyle (user925838121): "80 / 32 has a remainder so the cipher being utilized is n...")
+wrong. aes has always a block size of 128 bits (=16 bytes). so 80/16 = 5 works out perfectly fine. regardless if it's encrypted with a 128 or 256 bit key.
+
+[#8240] 14:41:27 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(reply to #8239 - RB (user737261554): "wrong. aes has always a block size of 128 bits (=16 bytes...")
+thats right, but personally have some problem with this part.
+
+[#8241] 14:45:52 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+1- after removing salted string from that part we get leet code... its easy to made... but, one of the user, with a dictionary attack get valid string of it, if i remember this truly then:
+
+[#8242] 14:47:12 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+a) if we assume thats an aes enc then the pass should not be a sha2.
+
+[#8243] 14:48:13 barrystyle (user925838121)
+it’s aes specifically OpenSSL as that’s their documented magic
+
+[#8244] 14:49:24 barrystyle (user925838121)
+(reply to #8239 - RB (user737261554): "wrong. aes has always a block size of 128 bits (=16 bytes...")
+yes, i was wrong, not sure where i picked up that the block size varied due to key size
+
+[#8245] 14:50:59 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+if its right and we assume the deniable leet code is not matter any more then its should be aes with out IV for make it easier to bulid or the IV should be some semi random string but personally i think:
+
+[#8246] 14:51:12 barrystyle (user925838121)
+deniable leet code?
+
+[#8247] 14:51:40 barrystyle (user925838121)
+IV is never included, what is included is the salt which is formed from the iv & key
+
+[#8248] 14:51:49 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+the leet code was matter, probably as regex or perl code... i can not use them.
+
+[#8249] 14:52:18 RB (user737261554)
+(reply to #8244 - barrystyle (user925838121): "yes, i was wrong, not sure where i picked up that the blo...")
+a common misconception.  i just didn't want you guys to exclude aes-256 wrongfully.
+
+[#8250] 14:52:39 barrystyle (user925838121)
+ehe rb i think you may be taking the same direction i am
+
+[#8252] 14:53:01 RB (user737261554)
+lol... not planning a cloud to break it :D
+
+[#8253] 14:53:06 barrystyle (user925838121)
+hahah
+
+[#8254] 14:53:14 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+(reply to #8247 - barrystyle (user925838121): "IV is never included, what is included is the salt which ...")
+i just trying to define the method could be used to create such a thing.
+
+[#8255] 14:53:46 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+if it was me, i would used a logical order there.
+
+[#8256] 14:54:07 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+but its not on me.
+
+[#8257] 14:54:07 barrystyle (user925838121)
+well, if block size is (and i know now), 16 bytes
+
+[#8258] 14:54:25 barrystyle (user925838121)
+then since 64 plaintext bytes match the last block (X4)
+
+[#8259] 14:54:32 barrystyle (user925838121)
+then the 5th block is just padding
+
+[#8260] 14:55:22 barrystyle (user925838121)
+ehe i used aes rounds in a password hashing algorithm that i converted for pow use years ago... balloon
+
+[#8261] 14:55:32 barrystyle (user925838121)
+the aes rounds made it very difficult to parallelize on gpu
+
+[#8262] 14:55:39 barrystyle (user925838121)
+cbc specifically
+
+[#8263] 14:55:58 barrystyle (user925838121)
+10kh on a ryzen, 25kh on a 1080ti
+
+[#8264] 14:56:03 barrystyle (user925838121)
+so not even factors
+
+[#8265] 15:04:51 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+how you memories all this, its super hard for me to remember my name some times. i can not understand anything from this but even if we assume its aes cbc and we are looking for a certain string for password is not possible for me to crack it but:
+
+[#8266] 15:05:55 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+collation on aes can be used if we assume its matter... just google part of the cipher this way, as always a string has same value then there will be some.
+
+[#8267] 15:06:25 barrystyle (user925838121)
+(reply to #8265 - Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664): "how you memories all this, its super hard for me to remem...")
+lol im the same some days
+
+[#8268] 15:06:54 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+its my default mode.
+
+[#8269] 15:07:31 barrystyle (user925838121)
+lesser important information not accessible at all times, cant tell you what i had for dinner yesterday but will remember lots of coding stuff
+
+[#8270] 15:16:33 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+👍👍👍
+
+[#8271] 15:24:44 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+mine is completely different, its seem scary some times but i used to it. for example as my personally challenge i wanted to find some practical offline attack based on math to make me feel good. i did it but i can not even read my own code! right now, i am back on finding a way to crack any rsa encrypted data no matter how they implanted with out any back door. it was one of my old work where i just leave it while ago. but suddenly an algo come to my mind few night ago which can crack it i think.
+
+[#8272] 15:29:44 barrystyle (user925838121)
+is why its a good idea to store code or have repository
+
+[#8273] 15:29:55 barrystyle (user925838121)
+so many times have given up and rage deleted out of frustration
+
+[#8274] 15:30:07 barrystyle (user925838121)
+to many months later, just be thinking idly, or with family/friends and bam - solution in mind
+
+[#8275] 15:30:11 barrystyle (user925838121)
+however the code is now gone
+
+[#8276] 15:30:49 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+i store them but they are not useful. its will be good. its feel good see some one with same problem.
+
+[#8277] 15:31:20 barrystyle (user925838121)
+i will say though, with aes in particular, a partial decode is more than possible
+
+[#8278] 15:35:50 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+i hope i can try this in a good mood. thank you. as a return i will send some idea for sharing enc data like shamir but its work better.
+
+[#8279] 15:36:25 barrystyle (user925838121)
+shamir?
+
+[#8280] 15:36:33 barrystyle (user925838121)
+is this zero knowledge proof stuff?
+
+[#8281] 15:36:36 barrystyle (user925838121)
+millionaires problem
+
+[#8282] 15:38:30 Saber ^:)> (---}> ¿¡×( ;) <>< (user139037664)
+no, its about another subject.
+
+## DAY 2022-08-18 (Thursday)
+
+[#8283] 23:01:26 Zil (user980067088)
+(attachment: animation, "animation.gif.mp4", video/mp4, 3s, 220x164, 33.8 KB [binary not included in export])
+
+## DAY 2022-08-26 (Friday)
+
+[#8284] 15:05:38 * SERVICE: Coinbaas (user166247483) added RickyboyII
+
+## DAY 2022-08-28 (Sunday)
+
+[#8285] 14:25:09 stranger (user98171605)
+(attachment: sticker, "sticker.webp", image/webp, 512x512, 25.8 KB; sticker ⌚ [binary not included in export])
+
+## DAY 2022-09-06 (Tuesday)
+
+[#8287] 03:25:56 Alex (user690769341)
+(attachment: sticker, "sticker.webp", image/webp, 512x512, 25.8 KB; sticker ⌚ [binary not included in export])
+
+[#8288] 05:21:52 Jrk Bgrt (user9815232)
+(attachment: animation, "animation.gif.mp4", video/mp4, 1s, 220x166, 12.3 KB [binary not included in export])
+
+[#8289] 05:26:08 stranger (user98171605)
+(reply to #8288 - Jrk Bgrt (user9815232): "attachment: animation, "animation.gif.mp4", video/mp4, 1s...")
+(attachment: sticker, "AnimatedSticker.tgs", application/x-tgsticker, 512x512, 30.0 KB; sticker 😣 [binary not included in export])
+
+## DAY 2022-10-09 (Sunday)
+
+[#8290] 18:39:17 * SERVICE: Billy Tjie (user224340829) joined the group via invite link
+
+## DAY 2022-10-18 (Tuesday)
+
+[#8292] 19:29:29 * SERVICE: Unknown (user5306186392) joined the group via invite link
+
+## DAY 2022-10-26 (Wednesday)
+
+[#8293] 08:46:36 Unknown (user5306186392)
+Who is there
+
+[#8294] 09:24:26 stranger (user98171605)
+👍
+
+## DAY 2022-11-01 (Tuesday)
+
+[#8295] 23:17:32 Unknown (user5306186392)
+I think it is a decimal
+
+## DAY 2022-11-05 (Saturday)
+
+[#8296] 10:24:21 Legik (user646609236)
+(attachment: file, "2022-11-05_18-19-38.png", image/png, 744x42, 4.6 KB [binary not included in export])
+the text is given to the arrangement in the alphabet,
+but missing null characters.
+
+## DAY 2022-11-14 (Monday)
+
+[#8298] 09:36:29 * SERVICE: VoVaM (user5450026673) joined the group via invite link
+
+## DAY 2022-11-30 (Wednesday)
+
+[#8300] 19:46:14 Billy Tjie (user224340829)
+Is this puzzle truly meant to be solved? Or not?
+
+## DAY 2022-12-02 (Friday)
+
+[#8301] 07:14:53 Jrk Bgrt (user9815232)
+It is meant to be solved.
+
+[#8302] 07:27:42 mpeg (user59168199)
+I think everyone gave up on` dbbi `long ago 😅
+
+[#8303] 07:31:29 stranger (user98171605)
+😢
+
+[#8304] 07:33:09 Alex (user690769341)
+People need some hints to continue to solve this puzzle
+
+[#8305] 07:34:04 stranger (user98171605)
+🙏
+
+[#8306] 07:34:13 x7x7x7x6 (user633059140)
+Or 40000+ btc exchange rate
+
+[#8307] 07:36:36 Jrk Bgrt (user9815232)
+There might be a hint coming but not too soon.
+
+[#8308] 07:59:25 Alex (user690769341)
+(edited 2022-12-02 07:59:46)
+What is easier? To find the answer to this puzzle or to discover the physics Theory of Everything?
+
+[#8309] 17:45:40 Jrk Bgrt (user9815232)
+(reply to #8308 - Alex (user690769341): "What is easier? To find the answer to this puzzle or to d...")
+I'm not exactly sure how long it would take to discover that theory so I can't really tell 🤔.
+
+## DAY 2022-12-10 (Saturday)
+
+[#8310] 18:09:18 barrystyle (user925838121)
+(attachment: file, "image_2022-12-11_07-09-14.png", image/png, 377x499, 143.0 KB [binary not included in export])
+
+## DAY 2022-12-11 (Sunday)
+
+[#8311] 10:30:38 Jrk Bgrt (user9815232)
+(reply to #8310 [2022-12-10] - barrystyle (user925838121): "attachment: file, "image_2022-12-11_07-09-14.png", image/...")
+.... That is very specific
+
+[#8312] 10:32:40 barrystyle (user925838121)
+i googled a phrase which would be assumed to be part of a hint.. is about as vague as one can get given the pure amount of possibilities..
+
+[#8313] 10:32:46 barrystyle (user925838121)
+unless you've an awful tell
+
+[#8314] 10:32:47 barrystyle (user925838121)
+LOL
+
+[#8315] 10:33:20 Jrk Bgrt (user9815232)
+(edited 2025-09-02 20:03:35)
+(reactions: 🤔 x1)
+If the puzzle is solved you'll see how scary specific that is 😂
+
+[#8316] 10:33:34 barrystyle (user925838121)
+ahaha youre awful
+
+[#8317] 10:33:58 barrystyle (user925838121)
+thats like when cops say, 'if you havent done anything wrong, you have nothing to worry about'... then retracing your entire life
+
+[#8318] 10:57:58 barrystyle (user925838121)
+ah, -nopad suppresses any errors.. what a moment i just had
+
+## DAY 2022-12-12 (Monday)
+
+[#8319] 12:10:14 nieods (user809473266)
+did you get through @barrystyle ?
+
+## DAY 2022-12-25 (Sunday)
+
+[#8320] 17:05:40 0xColombo (user274980096)
+(reply to #8311 [2022-12-11] - Jrk Bgrt (user9815232): ".... That is very specific")
+It was inevitable
+
+[#8321] 22:10:20 barrystyle (user925838121)
+no closer..

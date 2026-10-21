@@ -1,0 +1,23 @@
+{
+  "spec_sha256": "af05dd238c1757d5bac024bdd6901b5fea77b9735522a2437573e382c7a0a2a1",
+  "n_attempts": 528,
+  "successes": [
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "evp_sha1",
+      "password": "86,86",
+      "pt_len": 79,
+      "pt_sha256": "5f8421c78efb7261e806c41824f56085f40f283c07c47b2e1479bbabb0fdaac6",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "sha256hex(86)",
+      "pt_len": 79,
+      "pt_sha256": "6e2e64230baec5048ef7c90bd917c542683de6d6eb91fb1aff0be33f66a17945",
+      "printable": null
+    }
+  ],
+  "prize_hits": []
+}

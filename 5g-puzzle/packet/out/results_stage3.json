@@ -1,0 +1,63 @@
+{
+  "spec_sha256": "b583c6d3e1a192fe1f3543938cccc76eedba886fb592c489402fc6df9f9a5c31",
+  "n_attempts": 696,
+  "successes": [
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "sha256hex(515228.0N42423.2E)",
+      "pt_len": 79,
+      "pt_sha256": "7722da461f15f50bdfb126cec40631e9e96d40ebddfd07df99b0b6eed7ee22b6",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "51 52 28.0 N 4 24 23.2 E",
+      "pt_len": 79,
+      "pt_sha256": "b0bab4db8ca62c2b842f356cf58cf2b6daedfab75cfa0a6130ef57671a3eb27a",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "sha256hex(32 42 82 25)",
+      "pt_len": 79,
+      "pt_sha256": "10d6893d0f15ed8e760ba58f8b55d1662e4a82b24973d82e9da7c4b0e7ec0ef3",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "sha256hex(5152280N424232E)",
+      "pt_len": 79,
+      "pt_sha256": "6a11ea6a3d8bf2ff198c7e6b2f72f713e2f649faa3a890d60847da0e62c45384",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_md5",
+      "password": "sha256hex(3282)",
+      "pt_len": 1327,
+      "pt_sha256": "b39b382fcd7e0a71decaa9bcd0c2c00fbcbbc648aa2f5c954d4c8aac58784c9f",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha256",
+      "password": "32,82",
+      "pt_len": 1327,
+      "pt_sha256": "cbf9d56197554488b7499a36faae5a8643c87e1f5eab1d9f64b53e85c5067ab5",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "sha256hex(25,82,42,32)",
+      "pt_len": 1327,
+      "pt_sha256": "c88dc76a525b929733f84ac02b46944dc2c3b6cabf51d7aa7079feaa3b18238f",
+      "printable": null
+    }
+  ],
+  "prize_hits": []
+}

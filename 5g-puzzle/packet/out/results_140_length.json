@@ -1,0 +1,607 @@
+{
+  "rule": "140 as length/skip. No AES. Exact 140 or the leftover-4 the 140-cut isolates.",
+  "vic_len": 149,
+  "vic_zeros": 4,
+  "spiral_census": {
+    "W": 85,
+    "K": 86,
+    "B": 15,
+    "Y": 9,
+    "G": 1
+  },
+  "drop56_main_ascii": "/theseedisplanted",
+  "drop56_main_extra_bits": "0000",
+  "drop56_2bit_ascii": null,
+  "drop56_2bit_extra_bits": "",
+  "leftover4_cells": "WWWW",
+  "leftover4_main_bits": "0000",
+  "takes": [
+    {
+      "name": "spiral_drop_gsmg.io_56cells",
+      "n": 140,
+      "sha256": "99d09f44407f83e2f377dab5a409605a6d56121726d496412fd9537ea244f092",
+      "printable": "WWKWKKKBWKKKWKWYWKKWKWWYWKKWWKWBWKKKWWKBWKKWWKWBWKKWWKWBWKKWWKWYWKKWKWWBWKKKWWKBWKKKWWWYWKKWKKWYWKKWWWWBWKKGKKKYWKKKWKWYWKKWWKWBWKKWWKWYWWWW",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral_drop56_main_bits",
+      "n": 140,
+      "sha256": "19e36da809fc117f8e2eb41520cb102b6322fa2a457342a3f7e342a380914097",
+      "printable": "00101111011101000110100001100101011100110110010101100101011001000110100101110011011100000110110001100001011011100111010001100101011001000000",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral_drop56_extra_bits",
+      "n": 140,
+      "sha256": "40211564c7d6dbf34b47692c64b2f79b30ae9e0343fd951778fb6806fd9925d4",
+      "printable": "00000001000000000000000000000001000000010000000100000001000000000000000100000001000000000000000000000001000000000000000000000001000000000000",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral_drop56_2bit",
+      "n": 280,
+      "sha256": "aee2828d51a52b1cf01495adf94f1a4aeaee26efc1ad5cf08aced5110d4a1fb5",
+      "printable": "0000100010101011001010100010000100101000100000010010100000100011001010100000101100101000001000110010100000100011001010000010000100101000100000110010101000001011001010100000000100101000101000010010100000000011001010001010100100101010001000010010100000100011001010000010000100000000",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral[:140]",
+      "n": 140,
+      "sha256": "4d55b7f067b258b573a747404ce8d14e4998b5274e933555fd6048d87385119f",
+      "printable": "WKKWWKKBWKKKWWKBWKKWKKWBWKKWWKKBWWKWKKKYWKKWKWWBWKKWKKKBWWKWKKKBWKKKWKWYWKKWKWWYWKKWWKWBWKKKWWKBWKKWWKWBWKKWWKWBWKKWWKWYWKKWKWWBWKKKWWKBWKKK",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral[-140:]",
+      "n": 140,
+      "sha256": "99d09f44407f83e2f377dab5a409605a6d56121726d496412fd9537ea244f092",
+      "printable": "WWKWKKKBWKKKWKWYWKKWKWWYWKKWWKWBWKKKWWKBWKKWWKWBWKKWWKWBWKKWWKWYWKKWKWWBWKKKWWKBWKKKWWWYWKKWKKWYWKKWWWWBWKKGKKKYWKKKWKWYWKKWWKWBWKKWWKWYWWWW",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral[:140]_main_bits",
+      "n": 140,
+      "sha256": "4d8cf6388595b72518f1e0794ac7e94c942634c93e68e7361aa1ec9180d84b66",
+      "printable": "01100111011100110110110101100111001011100110100101101111001011110111010001101000011001010111001101100101011001010110010001101001011100110111",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral[-140:]_main_bits",
+      "n": 140,
+      "sha256": "19e36da809fc117f8e2eb41520cb102b6322fa2a457342a3f7e342a380914097",
+      "printable": "00101111011101000110100001100101011100110110010101100101011001000110100101110011011100000110110001100001011011100111010001100101011001000000",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral[:140]_2bit",
+      "n": 280,
+      "sha256": "569b688cead2f6fb8f8da8835946a32681bf584b96a95646ba52d175059ae1ce",
+      "printable": "0010100000101011001010100000101100101000101000110010100000101011000010001010100100101000100000110010100010101011000010001010101100101010001000010010100010000001001010000010001100101010000010110010100000100011001010000010001100101000001000010010100010000011001010100000101100101010",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral[-140:]_2bit",
+      "n": 280,
+      "sha256": "aee2828d51a52b1cf01495adf94f1a4aeaee26efc1ad5cf08aced5110d4a1fb5",
+      "printable": "0000100010101011001010100010000100101000100000010010100000100011001010100000101100101000001000110010100000100011001010000010000100101000100000110010101000001011001010100000000100101000101000010010100000000011001010001010100100101010001000010010100000100011001010000010000100000000",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral[192:196]_leftover4",
+      "n": 4,
+      "sha256": "8dcc2caebdd5101dc4ff16b4a96cafcf07f958e510941d3529cc197623131aa8",
+      "printable": "WWWW",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "spiral[192:196]_main_bits",
+      "n": 4,
+      "sha256": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+      "printable": "0000",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "letters[:140]",
+      "n": 140,
+      "sha256": "2697ccb8c5ecbb4f927376d855efb27317e315ce526716ceb7c6b5ad61d8af98",
+      "printable": "dbbibfbhccbegbihabebeihbeggegebebbgehhebhhfbabfdhbeffcdbbfcccgbfbeeggecbedcibfbffgigbeeeabeabbabbababbaaaababbbabaaabbbaabaabbabaababbbbaaaa",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "letters[-140:]",
+      "n": 140,
+      "sha256": "7b9be98da8b8969f05ec10f1805cc4fa99d81e5ada1bc8711468eb1719943a74",
+      "printable": "fhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfbfdedeehgigfaaiggagbeiichiedifbehgbccahhbiibibbibdcbahaidhfahiihic",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "letters[140:280]",
+      "n": 140,
+      "sha256": "e97bdc950420d72812c541f83d23d5b765a1f3675064e02af1348a285295f8de",
+      "printable": "bbbaabbabbbabababbabbababbabbaaabbabaababbbaabbabbbabaafaedggeedfcbdabhhggcadcfeddgfdgbgigaaedggiafaecghggcdaihehahbahigceifgbfgefgaifabifag",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "letters[280:420]",
+      "n": 140,
+      "sha256": "578390433c07f6198dba29993d91c4b40165c7ba774236b9011a33808a55a7d5",
+      "printable": "aegeacgbbeagfggeeggafbacgfcdbeiffaafcidahgdeefghhcggaegdebhhegeghcegadfbdiagefcicggifdcgaaggfbigaicfbhecaecbceiaicebgbgiecdeggfgegaedggfiici",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "letters[420:560]",
+      "n": 140,
+      "sha256": "2f2adbc135631f1f1c24d555dfb528b5aba403a2b996aad2e3bb7f98610b072a",
+      "printable": "iififhggcgfgdcdggefcbeeigefibgibggghhfbcgifdehedfdagicdbhicgaiedaehahghhcihdghfhbiicecbiichihiiigiddgehhdfdchcbafgfbhaheagegecafehgcfggggcag",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "letters[560:700]",
+      "n": 140,
+      "sha256": "1375d8ba0c8b74f747d06c6589b3e20bef913be0e602459eb7bd8f2a9a4c743b",
+      "printable": "fhhghbaihidiehhfdeggdgcihggggghadahigigbgecgedfcdggaccdehiicigfbffhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfb",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "faed[:140]",
+      "n": 140,
+      "sha256": "f0f7906bf0c9741aae13a92d3f6d07297029e47ade9bbbde95bb00c200702d05",
+      "printable": "faedggeedfcbdabhhggcadcfeddgfdgbgigaaedggiafaecghggcdaihehahbahigceifgbfgefgaifabifagaegeacgbbeagfggeeggafbacgfcdbeiffaafcidahgdeefghhcggaeg",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "faed[-140:]",
+      "n": 140,
+      "sha256": "7b9be98da8b8969f05ec10f1805cc4fa99d81e5ada1bc8711468eb1719943a74",
+      "printable": "fhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfbfdedeehgigfaaiggagbeiichiedifbehgbccahhbiibibbibdcbahaidhfahiihic",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "faed[140:280]",
+      "n": 140,
+      "sha256": "534e8d96377bb465751b8d819ffefa5f06d7e1b7bb0e4aa32cabde3fb4b044e2",
+      "printable": "debhhegeghcegadfbdiagefcicggifdcgaaggfbigaicfbhecaecbceiaicebgbgiecdeggfgegaedggfiiciiififhggcgfgdcdggefcbeeigefibgibggghhfbcgifdehedfdagicd",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "faed[280:420]",
+      "n": 140,
+      "sha256": "665776ecd3c379d4c0be3ea24c826ddccc09d97ebb0b6a286049a6c8d5d4ff79",
+      "printable": "bhicgaiedaehahghhcihdghfhbiicecbiichihiiigiddgehhdfdchcbafgfbhaheagegecafehgcfggggcagfhhghbaihidiehhfdeggdgcihggggghadahigigbgecgedfcdggaccd",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "faed[420:560]",
+      "n": 140,
+      "sha256": "d176c2a8b94e4c5827f18e42fa27eef4738c69ea1354e300b9672b67eadd0b98",
+      "printable": "ehiicigfbffhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfbfdedeehgigfaaiggagbeiichiedifbehgbccahhbiibibbibdcbahai",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "vic[:140]",
+      "n": 140,
+      "sha256": "5c3cecf11b6d6014b61c891a95c0929e624edc4edafbc1406b9e169d8c845fb6",
+      "printable": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "vic[-140:]",
+      "n": 140,
+      "sha256": "1100511e7223decaecfc65a4810bba99163e865cf9723504d23b5479bb199f01",
+      "printable": "21972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[:140]",
+      "n": 140,
+      "sha256": "164b6ca180bf252df74b7bacd89de1ab82c63d472286e4ead1f620eeba306995",
+      "printable": "44d19415009a2929a83b2f4e0da7b180d12f8b341cb879dd769ade1f8d399d40ae27695b880aa5701df9abd8c96387cd9205a339dbf3fc5a1c6d0a8e6793438a59cc52261c54",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[-140:]",
+      "n": 140,
+      "sha256": "e7b9956628e04f20ad9df033d70eeb241912cc14050137e03808392700e3da66",
+      "printable": "48895f4c5a2077482596b3a0da3c208591cba5a83169b06d3d19888976f28f0dc465454074e8ffca028629a98f3807684cadd96e98b21ed4067b11cf446d297ba3e69512343a",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[140:280]",
+      "n": 140,
+      "sha256": "a5ede7a9c8bab8dc305e7cbaaa067becc6a593f7cea3125bc8fe5b48531acacd",
+      "printable": "b68193aea541ca0526db9ccfe92a60ad7cc63d43391570c49585a01ade76ca09e03ad533f498831f1916f7f9c3927894563cd14f09dc69a203d31006a6726a7b3ec42fe065b6",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[280:420]",
+      "n": 140,
+      "sha256": "0d014bf6671e72fdff71d9fcc98cc6eeced18254cb4ce264bcad02935a74c3cf",
+      "printable": "81221010780fe8a960ccad1c8cbb98ecdc73e5364a3b4a0a367eedeaaee31d2672ebd4b26aa8b5181216faf62481525ddd73546d892449eefbd4aaf97590d075d5ad35d91c1b",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[420:560]",
+      "n": 140,
+      "sha256": "34b92b75f1c3ad08db7a180ed83e9279ab6ff0d28d91c25bfb0682e4a7a6bc17",
+      "printable": "434b2bd6efb3c51e53023a7817bab7567bcb3cad7a4de22f3a4007fada021d0a6901ff148d623621f124ebc7f5247b5f3f7b2ce5b193bab91733a940f4c75ace641ba1246b60",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[560:700]",
+      "n": 140,
+      "sha256": "5a9659601f115d7f42acbf40e5f6ff91248b3c233431c13b66dcae1fa918da25",
+      "printable": "3f70ce228549c4f541e905c82b3df952a285d1f5b653a32d825aa517910db49091711c81762d2c677eaf9dbd8476547521fbd28ef4010b5fb61efd9bbdb4cb9fab27db29383d",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[700:840]",
+      "n": 140,
+      "sha256": "82da7016cfda52f92e6569465284f9975105b6853652ca49edea5db16c45b082",
+      "printable": "e20582e934c52344956241b3fd36b03fea79d7e337add8c0e4943fc5bb5504b6eafa193d0bee6337cd540f4179df272b0a7cce32c4477c2abc21904ab110e003fcf7aadaac0a",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[840:980]",
+      "n": 140,
+      "sha256": "f4a0a9ea5ff5ccd9ad1fce871b94eceb25edeea39e77df5d21ced4efec26a129",
+      "printable": "231ba0cdf2812265786737e785799e50690c05130288b8f11867a86c016ce3076e1ef94d9b9045c0154c3f328c074e8bede76da1f2eb14822c435900bd46b653d7c3927ff14d",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[980:1120]",
+      "n": 140,
+      "sha256": "4b0a747f041cb31f3fb02690da7a14219931eae6c18129e0a944fe890e516f7e",
+      "printable": "91b06671b746093341d335be44c58b1173ff60f822138eab33726e583d308ec670f359cc80212880d161b1f23b67944809e09640504147ce458bbbcc23df0752b74bc237becf",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[1120:1260]",
+      "n": 140,
+      "sha256": "6f20fab46853f59e251b953803f42daee36f32af74a7c2f09bc6763ebd291c23",
+      "printable": "fa2cba2a58208e2cca0a22a2f3a6dbbbeeaed728348e88b84e1718afc2775a8f48594aa9ff2d14f2800e9b5c69ffba1917edc83a9ceae2c674cb2de9851e436af1f5a3c758bf",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[1260:1400]",
+      "n": 140,
+      "sha256": "a171ffa4cd79ac16deaeab92457f28b95e0113e6fc02172c34de1ac6b908faa8",
+      "printable": "dee732454d8130f0f42c8f29fee75074430c133ab215bf3733a986730c9aaeb1b36a12df5962334f9c29a2b6e5e0a6c887b83559063f0d80c2c3313b30150fc30e742d29b114",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[1400:1540]",
+      "n": 140,
+      "sha256": "fe0168c773a28e8fb1f508e2849b2c8df993395e1db343cd2415e408ba208593",
+      "printable": "c3f29263a085c45ef01bbb9cb7d756d918527662c6c265441ee5ce2c6ebc69bf3d1a4dee7d8e3d33cc1c5b4a84d5c5637e7e47e1e6495e8693897466b0f65ad91ab8fb5a6045",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[1540:1680]",
+      "n": 140,
+      "sha256": "097dd77bbc15af1ff3621f30112ec15b284bd445b053a9dbd045f7c005a5c612",
+      "printable": "05a63716a82986f02f01728e33613c8b5c87d6323279bb83e93f26f4e63fe0d56bd15a52230fd1f1a31ab66ab001b06902bf01bbca602ae47260b39c4178f7f1b49e9942a974",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt_hex[1680:1820]",
+      "n": 140,
+      "sha256": "83be80446de344d9a98041df854dc6762bff1e56f76e9d2ea5902a9df5aa91fd",
+      "printable": "075ceacc4d2ed5040c505ee79441e4bfdece7779e1c97e4565dcba2494512276f26a66c8f2ff4095a4a885a16922b6550d49bd939b8be7c7e8c784ed466aeba4f39858abf535",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt[:140]bytes",
+      "n": 140,
+      "sha256": "582f7fe43ae3cbda07e86b8cbf4ca2eddbb2313a3ae984bad3318088ba067bb4",
+      "printable": null,
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt[-140:]bytes",
+      "n": 140,
+      "sha256": "00942423a6c636367fe20f2bb0f8b0da1c208a17c12c682ea063f8ed72591376",
+      "printable": null,
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "cdpt[140:280]bytes",
+      "n": 140,
+      "sha256": "bdf64fe6c9d8b5fa2af6038737975a19c32e6ac953f22729ecabd90dc2aa7eb7",
+      "printable": null,
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    },
+    {
+      "name": "architect_140clause[:140]",
+      "n": 94,
+      "sha256": "22660454d9f98bd11399cecd9723ef37d512a93f5b140afd4a8744a90027c9d7",
+      "printable": "HUNDRED FORTY OF THE INVESTMENT THATS WHAT US GUYS AT GSMG ARE TRYING TO ACCOMPLISH IN THE END",
+      "url": null,
+      "known_sha": false,
+      "prize": [],
+      "ascii_from_bits": null
+    }
+  ],
+  "urls": [],
+  "prize_hits": [],
+  "known_sha_hits": [],
+  "printable": [
+    {
+      "name": "spiral_drop_gsmg.io_56cells",
+      "text": "WWKWKKKBWKKKWKWYWKKWKWWYWKKWWKWBWKKKWWKBWKKWWKWBWKKWWKWBWKKWWKWYWKKWKWWBWKKKWWKBWKKKWWWYWKKWKKWYWKKWWWWBWKKGKKKYWKKKWKWYWKKWWKWBWKKWWKWYWWWW"
+    },
+    {
+      "name": "spiral_drop56_main_bits",
+      "text": "00101111011101000110100001100101011100110110010101100101011001000110100101110011011100000110110001100001011011100111010001100101011001000000"
+    },
+    {
+      "name": "spiral_drop56_extra_bits",
+      "text": "00000001000000000000000000000001000000010000000100000001000000000000000100000001000000000000000000000001000000000000000000000001000000000000"
+    },
+    {
+      "name": "spiral_drop56_2bit",
+      "text": "0000100010101011001010100010000100101000100000010010100000100011001010100000101100101000001000110010100000100011001010000010000100101000100000110010101000001011"
+    },
+    {
+      "name": "spiral[:140]",
+      "text": "WKKWWKKBWKKKWWKBWKKWKKWBWKKWWKKBWWKWKKKYWKKWKWWBWKKWKKKBWWKWKKKBWKKKWKWYWKKWKWWYWKKWWKWBWKKKWWKBWKKWWKWBWKKWWKWBWKKWWKWYWKKWKWWBWKKKWWKBWKKK"
+    },
+    {
+      "name": "spiral[-140:]",
+      "text": "WWKWKKKBWKKKWKWYWKKWKWWYWKKWWKWBWKKKWWKBWKKWWKWBWKKWWKWBWKKWWKWYWKKWKWWBWKKKWWKBWKKKWWWYWKKWKKWYWKKWWWWBWKKGKKKYWKKKWKWYWKKWWKWBWKKWWKWYWWWW"
+    },
+    {
+      "name": "spiral[:140]_main_bits",
+      "text": "01100111011100110110110101100111001011100110100101101111001011110111010001101000011001010111001101100101011001010110010001101001011100110111"
+    },
+    {
+      "name": "spiral[-140:]_main_bits",
+      "text": "00101111011101000110100001100101011100110110010101100101011001000110100101110011011100000110110001100001011011100111010001100101011001000000"
+    },
+    {
+      "name": "spiral[:140]_2bit",
+      "text": "0010100000101011001010100000101100101000101000110010100000101011000010001010100100101000100000110010100010101011000010001010101100101010001000010010100010000001"
+    },
+    {
+      "name": "spiral[-140:]_2bit",
+      "text": "0000100010101011001010100010000100101000100000010010100000100011001010100000101100101000001000110010100000100011001010000010000100101000100000110010101000001011"
+    },
+    {
+      "name": "letters[:140]",
+      "text": "dbbibfbhccbegbihabebeihbeggegebebbgehhebhhfbabfdhbeffcdbbfcccgbfbeeggecbedcibfbffgigbeeeabeabbabbababbaaaababbbabaaabbbaabaabbabaababbbbaaaa"
+    },
+    {
+      "name": "letters[-140:]",
+      "text": "fhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfbfdedeehgigfaaiggagbeiichiedifbehgbccahhbiibibbibdcbahaidhfahiihic"
+    },
+    {
+      "name": "letters[140:280]",
+      "text": "bbbaabbabbbabababbabbababbabbaaabbabaababbbaabbabbbabaafaedggeedfcbdabhhggcadcfeddgfdgbgigaaedggiafaecghggcdaihehahbahigceifgbfgefgaifabifag"
+    },
+    {
+      "name": "letters[280:420]",
+      "text": "aegeacgbbeagfggeeggafbacgfcdbeiffaafcidahgdeefghhcggaegdebhhegeghcegadfbdiagefcicggifdcgaaggfbigaicfbhecaecbceiaicebgbgiecdeggfgegaedggfiici"
+    },
+    {
+      "name": "letters[420:560]",
+      "text": "iififhggcgfgdcdggefcbeeigefibgibggghhfbcgifdehedfdagicdbhicgaiedaehahghhcihdghfhbiicecbiichihiiigiddgehhdfdchcbafgfbhaheagegecafehgcfggggcag"
+    },
+    {
+      "name": "letters[560:700]",
+      "text": "fhhghbaihidiehhfdeggdgcihggggghadahigigbgecgedfcdggaccdehiicigfbffhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfb"
+    },
+    {
+      "name": "faed[:140]",
+      "text": "faedggeedfcbdabhhggcadcfeddgfdgbgigaaedggiafaecghggcdaihehahbahigceifgbfgefgaifabifagaegeacgbbeagfggeeggafbacgfcdbeiffaafcidahgdeefghhcggaeg"
+    },
+    {
+      "name": "faed[-140:]",
+      "text": "fhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfbfdedeehgigfaaiggagbeiichiedifbehgbccahhbiibibbibdcbahaidhfahiihic"
+    },
+    {
+      "name": "faed[140:280]",
+      "text": "debhhegeghcegadfbdiagefcicggifdcgaaggfbigaicfbhecaecbceiaicebgbgiecdeggfgegaedggfiiciiififhggcgfgdcdggefcbeeigefibgibggghhfbcgifdehedfdagicd"
+    },
+    {
+      "name": "faed[280:420]",
+      "text": "bhicgaiedaehahghhcihdghfhbiicecbiichihiiigiddgehhdfdchcbafgfbhaheagegecafehgcfggggcagfhhghbaihidiehhfdeggdgcihggggghadahigigbgecgedfcdggaccd"
+    },
+    {
+      "name": "faed[420:560]",
+      "text": "ehiicigfbffhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfbfdedeehgigfaaiggagbeiichiedifbehgbccahhbiibibbibdcbahai"
+    },
+    {
+      "name": "vic[:140]",
+      "text": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313"
+    },
+    {
+      "name": "vic[-140:]",
+      "text": "21972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112"
+    },
+    {
+      "name": "cdpt_hex[:140]",
+      "text": "44d19415009a2929a83b2f4e0da7b180d12f8b341cb879dd769ade1f8d399d40ae27695b880aa5701df9abd8c96387cd9205a339dbf3fc5a1c6d0a8e6793438a59cc52261c54"
+    },
+    {
+      "name": "cdpt_hex[-140:]",
+      "text": "48895f4c5a2077482596b3a0da3c208591cba5a83169b06d3d19888976f28f0dc465454074e8ffca028629a98f3807684cadd96e98b21ed4067b11cf446d297ba3e69512343a"
+    },
+    {
+      "name": "cdpt_hex[140:280]",
+      "text": "b68193aea541ca0526db9ccfe92a60ad7cc63d43391570c49585a01ade76ca09e03ad533f498831f1916f7f9c3927894563cd14f09dc69a203d31006a6726a7b3ec42fe065b6"
+    },
+    {
+      "name": "cdpt_hex[280:420]",
+      "text": "81221010780fe8a960ccad1c8cbb98ecdc73e5364a3b4a0a367eedeaaee31d2672ebd4b26aa8b5181216faf62481525ddd73546d892449eefbd4aaf97590d075d5ad35d91c1b"
+    },
+    {
+      "name": "cdpt_hex[420:560]",
+      "text": "434b2bd6efb3c51e53023a7817bab7567bcb3cad7a4de22f3a4007fada021d0a6901ff148d623621f124ebc7f5247b5f3f7b2ce5b193bab91733a940f4c75ace641ba1246b60"
+    },
+    {
+      "name": "cdpt_hex[560:700]",
+      "text": "3f70ce228549c4f541e905c82b3df952a285d1f5b653a32d825aa517910db49091711c81762d2c677eaf9dbd8476547521fbd28ef4010b5fb61efd9bbdb4cb9fab27db29383d"
+    },
+    {
+      "name": "cdpt_hex[700:840]",
+      "text": "e20582e934c52344956241b3fd36b03fea79d7e337add8c0e4943fc5bb5504b6eafa193d0bee6337cd540f4179df272b0a7cce32c4477c2abc21904ab110e003fcf7aadaac0a"
+    },
+    {
+      "name": "cdpt_hex[840:980]",
+      "text": "231ba0cdf2812265786737e785799e50690c05130288b8f11867a86c016ce3076e1ef94d9b9045c0154c3f328c074e8bede76da1f2eb14822c435900bd46b653d7c3927ff14d"
+    },
+    {
+      "name": "cdpt_hex[980:1120]",
+      "text": "91b06671b746093341d335be44c58b1173ff60f822138eab33726e583d308ec670f359cc80212880d161b1f23b67944809e09640504147ce458bbbcc23df0752b74bc237becf"
+    },
+    {
+      "name": "cdpt_hex[1120:1260]",
+      "text": "fa2cba2a58208e2cca0a22a2f3a6dbbbeeaed728348e88b84e1718afc2775a8f48594aa9ff2d14f2800e9b5c69ffba1917edc83a9ceae2c674cb2de9851e436af1f5a3c758bf"
+    },
+    {
+      "name": "cdpt_hex[1260:1400]",
+      "text": "dee732454d8130f0f42c8f29fee75074430c133ab215bf3733a986730c9aaeb1b36a12df5962334f9c29a2b6e5e0a6c887b83559063f0d80c2c3313b30150fc30e742d29b114"
+    },
+    {
+      "name": "cdpt_hex[1400:1540]",
+      "text": "c3f29263a085c45ef01bbb9cb7d756d918527662c6c265441ee5ce2c6ebc69bf3d1a4dee7d8e3d33cc1c5b4a84d5c5637e7e47e1e6495e8693897466b0f65ad91ab8fb5a6045"
+    },
+    {
+      "name": "cdpt_hex[1540:1680]",
+      "text": "05a63716a82986f02f01728e33613c8b5c87d6323279bb83e93f26f4e63fe0d56bd15a52230fd1f1a31ab66ab001b06902bf01bbca602ae47260b39c4178f7f1b49e9942a974"
+    },
+    {
+      "name": "cdpt_hex[1680:1820]",
+      "text": "075ceacc4d2ed5040c505ee79441e4bfdece7779e1c97e4565dcba2494512276f26a66c8f2ff4095a4a885a16922b6550d49bd939b8be7c7e8c784ed466aeba4f39858abf535"
+    },
+    {
+      "name": "architect_140clause[:140]",
+      "text": "HUNDRED FORTY OF THE INVESTMENT THATS WHAT US GUYS AT GSMG ARE TRYING TO ACCOMPLISH IN THE END"
+    }
+  ]
+}

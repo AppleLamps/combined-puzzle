@@ -1,0 +1,231 @@
+{
+  "spec_sha256": "eac079594841787ac768ffdb56979c881b8d499aa533d6f19d9cdf9fbd486b70",
+  "kdfs": [
+    "evp_md5",
+    "evp_sha1",
+    "evp_sha256",
+    "pbkdf2_sha256_10000"
+  ],
+  "selftest": {
+    "decrypted": true,
+    "got_sha256": "4f7a1e4efe4bf6c5581e32505c019657cb7b030e90232d33f011aca6a5e9c081",
+    "expected_sha256": "4f7a1e4efe4bf6c5581e32505c019657cb7b030e90232d33f011aca6a5e9c081",
+    "pass": true
+  },
+  "inherited_list_sha256": {
+    "password_list.json": "13055206d7585e75ea07d6518a126a785af3b8d0bbb159b9a3b64f5b1d4b1493",
+    "password_list_leftover32.json": "c558330fd5a2f0b8cb5c1738148b580bea60280aec8d7969512510ab5ff15e71",
+    "password_list_synthesis.json": "60f293268a3824fae40b5436e5589ba4aae235b10db2f2ad31cf253f269d2baf"
+  },
+  "successes": [
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "evp_sha1",
+      "password": "The door to your right leads to the Source, and the salvation of Zion.",
+      "pt_len": 79,
+      "pt_sha256": "d0fe78b72f498e88f95912570ce16f9d69cc440953434503f3da8d28822c1779",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "evp_sha256",
+      "password": "sha256hex(a)",
+      "pt_len": 79,
+      "pt_sha256": "a6707795bbec2209290292153b4e0317e5ed8bc52b243482d977cefc64d29280",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "evp_sha256",
+      "password": "sha256hex(ifhcidafccedgffcdfg)",
+      "pt_len": 79,
+      "pt_sha256": "89dcdd84c55a3b927e41388a2124d90fe294788ad65102699cd77220bdf806f5",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/phase32_leftover.b64",
+      "kdf": "evp_sha256",
+      "password": "146F4",
+      "pt_len": 79,
+      "pt_sha256": "01ee979ecaf4534aa85f505413ae2290458e674c5eec3436dae469a2d1ff9a3c",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "verylaststepisatruegiveawaypromised",
+      "pt_len": 79,
+      "pt_sha256": "ba799744cb54144d68ce325468b103a5b7d4287ad4c6b8bb339e19d8b5cbb648",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "sha256hex(jacquefrescogiveitjustonesecondheisenbergsuncertaintyprinciple)",
+      "pt_len": 79,
+      "pt_sha256": "fd8e05543f06cff6c7271dcd2d6cee74337f5db2fdff69fff36a53312fcb3d90",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "sha256hex(89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32)",
+      "pt_len": 79,
+      "pt_sha256": "bad70a4b6f13b9e923dc81a82634c0906a9c007864cc3ce5612d10def25a4755",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "sha256hex(17A17)",
+      "pt_len": 79,
+      "pt_sha256": "17b7c2c2d99e1313bd1f8c7fd2c3d00694b8d70f951c8e4c951eea903480bf69",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "icegchbahaagg",
+      "pt_len": 79,
+      "pt_sha256": "7b14b3016d3342d145a7672648f7029c8960f99bd5c3a2f2c2712aecbf0a12e8",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "hbgaiaidab",
+      "pt_len": 79,
+      "pt_sha256": "b26607f9684b7a51d13609b4aa17a6559f723128bba530eadb098cf385f40f44",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_md5",
+      "password": "g",
+      "pt_len": 79,
+      "pt_sha256": "a9658aae548987a069d07801b2eec11248f5d0334f37750789bfc0a58f131f41",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_sha256",
+      "password": "h",
+      "pt_len": 79,
+      "pt_sha256": "a83e219951e30afd18e2d2d78f0c99858a3711498fdb4592466992622217b778",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "evp_sha256",
+      "password": "sha256hex(ieagbheiecdecbfgfgheadedchdfbhfghbfaaffbedfbabeiggdaeiafabeica)",
+      "pt_len": 79,
+      "pt_sha256": "d46b2e4465bf7c1f1675c89bb468c84a81357ec80345455554acad63265d1480",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/salph_small_aes.b64",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "sha256hex(96791)",
+      "pt_len": 79,
+      "pt_sha256": "e7ccd05428492d631b2bf64d0aa68bcea7bb168c42934343164dd886905cd4f9",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha1",
+      "password": "sha256hex(Yin Yang)",
+      "pt_len": 1327,
+      "pt_sha256": "8a09812291b0b4aaa5b08e6b58ad65b212c37ab7191e08c47b85f4d26ce80ec2",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha1",
+      "password": "sha256hex(96791)",
+      "pt_len": 1327,
+      "pt_sha256": "83b8c6be21f335cf5e747a628992ba5bd6b6cf99cb10c39dd8254fa56474e978",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha1",
+      "password": "sha256hex(adicbcbfcdacbdhehbfafghgbcagbibdcbifabefgcdedgdbhabehhecdfbhedheedc)",
+      "pt_len": 1327,
+      "pt_sha256": "e16006fddd141b35ec457ab4f0f3e4ffba1fa8f24ef1057ad77c7ac540e2e5d0",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha1",
+      "password": "hieaaeifbghgdig",
+      "pt_len": 1327,
+      "pt_sha256": "4f00d0b69bf683d8a9c869d6e611e247c23873919185a9fcc1c3a128d2a1c989",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha1",
+      "password": "ieagbheiecdecbfgf",
+      "pt_len": 1327,
+      "pt_sha256": "a98e2e824e5fc5f1275c8c070858c09ff1891714eb8a3b1f143a1999d38986d8",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha1",
+      "password": "20010911",
+      "pt_len": 1327,
+      "pt_sha256": "2c216d52a6969de6df7b39cd5fdda63c4e837687a115faad486d570e95037af9",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha256",
+      "password": "SalPhaseIon",
+      "pt_len": 1327,
+      "pt_sha256": "cba970ae4a7bf9f376ab63e5d259f96cbca10c1b0c5b4ee2517d719d5d68a605",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "evp_sha256",
+      "password": "sha256hex(17a17)",
+      "pt_len": 1327,
+      "pt_sha256": "07d448fd3843f64c598ee3c1f7f77dc6de81b844617e833fd2e9a7b730e8df46",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "96791,50400",
+      "pt_len": 1327,
+      "pt_sha256": "f31709c8e127ea1f8041510bd73bba565b127d53aa01c8a3fe2e885ef044f0d4",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "sha256hex(17a17)",
+      "pt_len": 1327,
+      "pt_sha256": "d6a312516705418489a8485fa531aeb1be4a91472287d1ee984c51890ceafe15",
+      "printable": null
+    },
+    {
+      "blob": "artifacts/cosmic_duality.txt",
+      "kdf": "pbkdf2_sha256_10000",
+      "password": "sha256hex(deidiiiabfbie)",
+      "pt_len": 1327,
+      "pt_sha256": "9a90f4bed077f6a7baf01b392935c29868295b1b53e0666acc0c1d39d1b349cd",
+      "printable": null
+    }
+  ],
+  "prize_hits": [],
+  "blob_sha256": {
+    "artifacts/phase32_leftover.b64": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9",
+    "artifacts/salph_small_aes.b64": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+    "artifacts/cosmic_duality.txt": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+  },
+  "n_passwords": 199,
+  "n_forms": 398,
+  "n_attempts": 4776
+}

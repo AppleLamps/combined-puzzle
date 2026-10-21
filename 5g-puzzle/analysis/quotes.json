@@ -1,0 +1,921 @@
+{
+  "jrk": {
+    "messages": 492,
+    "by_year": {
+      "2019": 59,
+      "2020": 91,
+      "2021": 64,
+      "2022": 9,
+      "2023": 81,
+      "2024": 82,
+      "2025": 22,
+      "2026": 84
+    },
+    "hint_msgs": 41,
+    "first": "2019-04-20T12:18:49",
+    "last": "2026-09-01T11:41:20",
+    "sample_hints": [
+      {
+        "id": 867,
+        "ts": "2019-05-17T18:43:46",
+        "text": "Here's the hint in order to bypass the mistake:\n\ngiveit = givetit"
+      },
+      {
+        "id": 879,
+        "ts": "2019-05-18T12:26:26",
+        "text": "So, after yesterday's 'hint' a team of puzzlers has made an unbelievable amount of progress in just one day... The progress they made was unforseen as we expected it to take at least a !month! to pass those parts of the puzzle. Hat off for those that managed to puzzle their way through all the ciphe"
+      },
+      {
+        "id": 881,
+        "ts": "2019-05-18T12:31:02",
+        "text": "In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes."
+      },
+      {
+        "id": 898,
+        "ts": "2019-05-18T13:13:29",
+        "text": "No hints after stage 2 (except the 't' to fix my stupid mistake)"
+      },
+      {
+        "id": 1448,
+        "ts": "2019-09-04T03:58:16",
+        "text": "Still no hints ;-)"
+      },
+      {
+        "id": 1587,
+        "ts": "2019-10-31T21:53:04",
+        "text": "Sure, what's the hint?"
+      },
+      {
+        "id": 1703,
+        "ts": "2020-01-13T11:40:54",
+        "text": "Hint to be expected within a few days. Note: not trolling with scripted cake this time."
+      },
+      {
+        "id": 2910,
+        "ts": "2020-03-24T21:02:42",
+        "text": "Answering that would be too much of a hint."
+      }
+    ]
+  },
+  "y2022_n": 214,
+  "y2022_sample": [
+    {
+      "id": 8051,
+      "ts": "2022-01-03T20:57:52",
+      "author": "SlobaDoba",
+      "text": "Happy New Year"
+    },
+    {
+      "id": 8055,
+      "ts": "2022-01-12T16:27:30",
+      "author": "Legik",
+      "text": "https://www.blockseek.io/qbc/address/3AqPLgGvzTokcNYcabf97RbQDqmRCehPB2"
+    },
+    {
+      "id": 8057,
+      "ts": "2022-01-16T12:58:19",
+      "author": "Zil",
+      "text": "I'm very close to solving.."
+    },
+    {
+      "id": 8058,
+      "ts": "2022-01-16T13:30:54",
+      "author": "Detective Froz",
+      "text": "Is this paper towel or XXL toilet paper 🧻 for big guys?"
+    },
+    {
+      "id": 8059,
+      "ts": "2022-01-16T14:15:46",
+      "author": "Zil",
+      "text": "Paper towel a.k.a paper wallet 😅"
+    },
+    {
+      "id": 8061,
+      "ts": "2022-02-03T13:22:36",
+      "author": "0xColombo",
+      "text": "@SoWut hello! Please give us additional hint for SalPhaseIon 🥰"
+    },
+    {
+      "id": 8063,
+      "ts": "2022-02-17T15:03:55",
+      "author": "Saber ^:)> (---}> ¿¡×( ;) <><",
+      "text": "to accure peace noble and extreme amount of money you can do this:"
+    },
+    {
+      "id": 8064,
+      "ts": "2022-02-17T15:07:39",
+      "author": "Saber ^:)> (---}> ¿¡×( ;) <><",
+      "text": "1- using hash algo, look up where ever you seen the emoji lookup\n2- string to be hash is my message and few other user.\n3- seed is the important part, you need to try default value and other pass, name or ...  used in puzzle.\n4- send half t"
+    },
+    {
+      "id": 8067,
+      "ts": "2022-04-06T07:08:09",
+      "author": "PK",
+      "text": "How do you open the\nD\nO\nO\nR?"
+    },
+    {
+      "id": 8068,
+      "ts": "2022-04-09T14:41:44",
+      "author": "Legik",
+      "text": "how to understand what the salphaseion text means, where to read what it is?"
+    },
+    {
+      "id": 8069,
+      "ts": "2022-04-09T14:46:27",
+      "author": "Legik",
+      "text": "sal phase ion, salphase i on, s alpha sion ..."
+    },
+    {
+      "id": 8070,
+      "ts": "2022-04-09T17:05:49",
+      "author": "Saber ^:)> (---}> ¿¡×( ;) <><",
+      "text": "i want at least 5000$ of the official prize and give you the exact final answer. if you can find a way to not get cheated again, i will send it, right now."
+    },
+    {
+      "id": 8072,
+      "ts": "2022-04-09T17:13:40",
+      "author": "Janusz Baran",
+      "text": "here you have your DOOR"
+    },
+    {
+      "id": 8073,
+      "ts": "2022-04-09T17:13:52",
+      "author": "Janusz Baran",
+      "text": "D\nO\nO\nR"
+    },
+    {
+      "id": 8074,
+      "ts": "2022-04-09T17:19:35",
+      "author": "Владимир Латышов",
+      "text": "open or tuk tuk 😂"
+    },
+    {
+      "id": 8314,
+      "ts": "2022-12-11T10:32:47",
+      "author": "barrystyle",
+      "text": "LOL"
+    },
+    {
+      "id": 8315,
+      "ts": "2022-12-11T10:33:20",
+      "author": "Jrk Bgrt",
+      "text": "If the puzzle is solved you'll see how scary specific that is 😂"
+    },
+    {
+      "id": 8316,
+      "ts": "2022-12-11T10:33:34",
+      "author": "barrystyle",
+      "text": "ahaha youre awful"
+    },
+    {
+      "id": 8317,
+      "ts": "2022-12-11T10:33:58",
+      "author": "barrystyle",
+      "text": "thats like when cops say, 'if you havent done anything wrong, you have nothing to worry about'... then retracing your entire life"
+    },
+    {
+      "id": 8318,
+      "ts": "2022-12-11T10:57:58",
+      "author": "barrystyle",
+      "text": "ah, -nopad suppresses any errors.. what a moment i just had"
+    },
+    {
+      "id": 8319,
+      "ts": "2022-12-12T12:10:14",
+      "author": "nieods",
+      "text": "did you get through @barrystyle ?"
+    },
+    {
+      "id": 8320,
+      "ts": "2022-12-25T17:05:40",
+      "author": "0xColombo",
+      "text": "It was inevitable"
+    },
+    {
+      "id": 8321,
+      "ts": "2022-12-25T22:10:20",
+      "author": "barrystyle",
+      "text": "no closer.."
+    }
+  ],
+  "quotes": {
+    "circles_or_loop": {
+      "count": 11,
+      "first_last": [
+        {
+          "id": 9774,
+          "ts": "2023-08-10T23:50:04",
+          "author": "Unknown",
+          "text": "I have been going in circles... tryna solve dbbi/faed... I don't have anything solid to contribute at this point"
+        },
+        {
+          "id": 63765,
+          "ts": "2026-05-24T17:18:53",
+          "author": "Artem",
+          "text": "If you really want to solve it, the task is to find something that is not on GitHub or in the group.  Because it's obvious that the community has been going in circles for years"
+        }
+      ],
+      "samples": [
+        {
+          "id": 9774,
+          "ts": "2023-08-10T23:50:04",
+          "author": "Unknown",
+          "text": "I have been going in circles... tryna solve dbbi/faed... I don't have anything solid to contribute at this point"
+        },
+        {
+          "id": 34980,
+          "ts": "2025-01-01T20:56:35",
+          "author": "S | h",
+          "text": "image only representing blue and yellow here. looping counterclockwise starting from top left"
+        },
+        {
+          "id": 39242,
+          "ts": "2025-04-28T13:02:46",
+          "author": "X",
+          "text": "@SoWut thats where we are stuck for years. just tell us they are decipherable or not so we dont waste another 6 years.."
+        },
+        {
+          "id": 47836,
+          "ts": "2025-08-23T11:18:14",
+          "author": "Bigybi21",
+          "text": "the only fact here \"People here are just going in circles, stuck on the same clues and not making any progress"
+        },
+        {
+          "id": 58592,
+          "ts": "2026-01-24T12:41:53",
+          "author": "Unknown",
+          "text": "Has anyone solved the 'blob dbbi...' issue in Salphaseion? Has everyone given up, and has the puzzle been stuck in the same place for years?"
+        },
+        {
+          "id": 62039,
+          "ts": "2026-04-27T16:27:44",
+          "author": "A",
+          "text": "sometimes I think - why did we have to learn about Jaque Fresko, Venus Project, HSM, Luna, Mr.Robot, The warning by logic, etc etc.. there is something to learn after all, this is why we are stuck, looping in the same place, we're not seeing the image, maybe all of us have chosen the wrong door, because the Matrix was built like that anyway, and everyone before us has chosen th"
+        },
+        {
+          "id": 63075,
+          "ts": "2026-05-14T17:53:17",
+          "author": ".",
+          "text": "This was fun a few years ago when there was actually progress, new stages to explore, now its stuck for many years and there must be a damn good reason for it"
+        },
+        {
+          "id": 63765,
+          "ts": "2026-05-24T17:18:53",
+          "author": "Artem",
+          "text": "If you really want to solve it, the task is to find something that is not on GitHub or in the group.  Because it's obvious that the community has been going in circles for years"
+        }
+      ]
+    },
+    "admin_vacuum": {
+      "count": 5,
+      "first_last": [
+        {
+          "id": 32336,
+          "ts": "2024-11-28T18:11:51",
+          "author": "Unknown",
+          "text": "Nobody cares"
+        },
+        {
+          "id": 58890,
+          "ts": "2026-01-25T18:02:13",
+          "author": "saar",
+          "text": "Can you fuck off with your useless messages nobody cares to hear about this were here for the puzzle"
+        }
+      ],
+      "samples": [
+        {
+          "id": 32336,
+          "ts": "2024-11-28T18:11:51",
+          "author": "Unknown",
+          "text": "Nobody cares"
+        },
+        {
+          "id": 36033,
+          "ts": "2025-01-30T14:08:34",
+          "author": "DEV TRENCHER",
+          "text": "I’ve been solving this for months lol nobody cares about my profile lol"
+        },
+        {
+          "id": 56488,
+          "ts": "2026-01-11T11:05:07",
+          "author": "Martín",
+          "text": "yeah, spamming gifs should be something to be banned. But then again,  admin doesn't care... nobody cares"
+        },
+        {
+          "id": 56495,
+          "ts": "2026-01-11T11:06:17",
+          "author": "Martín",
+          "text": "but again... nobody cares.. this is why the channel is doomed"
+        },
+        {
+          "id": 58890,
+          "ts": "2026-01-25T18:02:13",
+          "author": "saar",
+          "text": "Can you fuck off with your useless messages nobody cares to hear about this were here for the puzzle"
+        }
+      ]
+    },
+    "current_task_unclear": {
+      "count": 4,
+      "first_last": [
+        {
+          "id": 13267,
+          "ts": "2023-09-04T17:12:11",
+          "author": "monas",
+          "text": "what stage are we ...etc"
+        },
+        {
+          "id": 59758,
+          "ts": "2026-02-09T12:38:15",
+          "author": "Unknown",
+          "text": "Hey group, can you confirm that this is still unsolved and a current task?"
+        }
+      ],
+      "samples": [
+        {
+          "id": 13267,
+          "ts": "2023-09-04T17:12:11",
+          "author": "monas",
+          "text": "what stage are we ...etc"
+        },
+        {
+          "id": 30008,
+          "ts": "2024-11-14T19:37:56",
+          "author": "RB",
+          "text": "where are we now, where we hadn't been the last 40+ month?"
+        },
+        {
+          "id": 42646,
+          "ts": "2025-06-04T08:54:12",
+          "author": "K",
+          "text": "IF ONLY we reach one step more to solve the puzzle, we should go back to the first hint.  The question is, where are we now?"
+        },
+        {
+          "id": 59758,
+          "ts": "2026-02-09T12:38:15",
+          "author": "Unknown",
+          "text": "Hey group, can you confirm that this is still unsolved and a current task?"
+        }
+      ]
+    },
+    "competing_paths": {
+      "count": 1985,
+      "first_last": [
+        {
+          "id": 1021,
+          "ts": "2019-06-08T15:46:52",
+          "author": "phacyh",
+          "text": "3.2"
+        },
+        {
+          "id": 71239,
+          "ts": "2026-09-08T10:27:32",
+          "author": "peter btc",
+          "text": "Successfully completed decryption chains:  - ✅ Phases 1→2→3→3.2→3.3 fully decrypted - ✅ CHAIN ​​1 (internal blob) decryption: Obtained K_C1, K_C2, E_C - ✅ CHAIN ​​2 (Phase 3.3) decryption: Obtained K_S1, K_S2, E_S - ✅ SalPhaseIon → Bifid → btcseed 96-state object (281 states) - ✅ URL hash verification: `SHA256(\"GSMGIO5BTCPUZZLECHALLENGE\"+address)` = page URL"
+        }
+      ],
+      "samples": [
+        {
+          "id": 1021,
+          "ts": "2019-06-08T15:46:52",
+          "author": "phacyh",
+          "text": "3.2"
+        },
+        {
+          "id": 1331,
+          "ts": "2019-07-08T23:27:58",
+          "author": "nieods",
+          "text": "there's enough clues around to get to stage 3.2"
+        },
+        {
+          "id": 1380,
+          "ts": "2019-08-08T11:44:12",
+          "author": "nieods",
+          "text": "hm, 4 stages I think. 0=image, 1=seed, 2=keymaker, 3=giveit, 3.2=I've been waiting"
+        },
+        {
+          "id": 1484,
+          "ts": "2019-09-25T08:07:54",
+          "author": "Unknown",
+          "text": "I have been looking for a quote in all the public places, yet found nothing. Where did @SoWut say that we need to find a missing piece somewhere not referenced in the puzzle text up to the ciphers in 3.2/4? Sorry for asking directly, just want to know if this is an actual fact or just keeps being repeated"
+        },
+        {
+          "id": 71205,
+          "ts": "2026-09-08T01:02:53",
+          "author": "E",
+          "text": "but since 3.2 is not solved; until it is; we wont know if we are missing something needed there and failing salphaseion because of it"
+        },
+        {
+          "id": 71206,
+          "ts": "2026-09-08T01:06:19",
+          "author": "E",
+          "text": "not saying to use the resulting hash as a url at this point either; but as a password for salphaseion AES"
+        },
+        {
+          "id": 71220,
+          "ts": "2026-09-08T05:05:55",
+          "author": "peter btc",
+          "text": "1. \"Over\" might refer to row/column positioning in a Bifid operation**—faed's decryption utilized an interleaved merge (row1, col1, row2, col2...); perhaps \"position it over\" implies re-encoding specific data using \"mmjiolsjpjsro\" as the row/column sequence for a Bifid cipher. 2. \"mmjiolsjpjsro\" might itself be Bifid ciphertext**—it consists of 13 characters, including three 'j"
+        },
+        {
+          "id": 71239,
+          "ts": "2026-09-08T10:27:32",
+          "author": "peter btc",
+          "text": "Successfully completed decryption chains:  - ✅ Phases 1→2→3→3.2→3.3 fully decrypted - ✅ CHAIN ​​1 (internal blob) decryption: Obtained K_C1, K_C2, E_C - ✅ CHAIN ​​2 (Phase 3.3) decryption: Obtained K_S1, K_S2, E_S - ✅ SalPhaseIon → Bifid → btcseed 96-state object (281 states) - ✅ URL hash verification: `SHA256(\"GSMGIO5BTCPUZZLECHALLENGE\"+address)` = page URL"
+        }
+      ]
+    },
+    "creator_dependence": {
+      "count": 250,
+      "first_last": [
+        {
+          "id": 4905,
+          "ts": "2020-10-26T19:47:36",
+          "author": "x7x7x7x6",
+          "text": "Plot twist: Saber = Jrk Bgrt incognito, and among his many phrases few are actual hints."
+        },
+        {
+          "id": 70924,
+          "ts": "2026-09-04T10:50:41",
+          "author": "𝔻𝕖𝕣S𝕋",
+          "text": "I found GSMG websites from different phases, and they are already offline. JRK didn’t reply to me about this, but He already posted here saying that new doors/gates are not websites on the internet. I didn't understand what that means."
+        }
+      ],
+      "samples": [
+        {
+          "id": 4905,
+          "ts": "2020-10-26T19:47:36",
+          "author": "x7x7x7x6",
+          "text": "Plot twist: Saber = Jrk Bgrt incognito, and among his many phrases few are actual hints."
+        },
+        {
+          "id": 5527,
+          "ts": "2021-01-11T23:12:11",
+          "author": "Unknown",
+          "text": "but Jrk wrote \"go back\" (last hint was)"
+        },
+        {
+          "id": 6898,
+          "ts": "2021-04-01T08:57:02",
+          "author": "Saber ^:)> (---}> ¿¡×( ;) <><",
+          "text": "good jokes, \"always\" have pattern...  i am satoshi nakamoto himself. i choose word satoshi because of Satoshi Tajiri, the genius game maker who give a meaning to my life as 蟄居. here im just fooling around cause my life is so boring and i can play mind game here... with some how smart people. oh my parent, sold my computer when i was looked in Psychiatric hospital. so i do not h"
+        },
+        {
+          "id": 9529,
+          "ts": "2023-08-05T20:50:27",
+          "author": "silver_anth",
+          "text": "with these hints from Jrk I think we may be able to decode the Cosmic Duality AES string. the hint following that had \"yingyang\" in it"
+        },
+        {
+          "id": 69612,
+          "ts": "2026-08-22T05:48:22",
+          "author": "SATE",
+          "text": "Hey what is the chat between u and Jrk, share your flirting moment here!"
+        },
+        {
+          "id": 69719,
+          "ts": "2026-08-23T16:59:07",
+          "author": "matrix is real",
+          "text": "Does anyone still have an export or screenshots from the old GSMG Slack music channel? JRK said there was a tiny hint there for the rabbit phase. I’m specifically looking for the original message, timestamp, sender, links, and attachments—not a later interpretation."
+        },
+        {
+          "id": 69851,
+          "ts": "2026-08-24T21:28:52",
+          "author": "Suppa",
+          "text": "Hi all. Working through the GSMG 5 BTC puzzle from the public material (Naddiseo's repo + the hint screenshots). I'm stuck at SalPhaseIon like everyone else. Some questions for people who've been at this longer:  primes: the Architect text says \"reinserting the prime basics\", and Jrk confirmed primes are \"required to proceed\" plus \"some characters need to be zeroed out\". Does t"
+        },
+        {
+          "id": 70924,
+          "ts": "2026-09-04T10:50:41",
+          "author": "𝔻𝕖𝕣S𝕋",
+          "text": "I found GSMG websites from different phases, and they are already offline. JRK didn’t reply to me about this, but He already posted here saying that new doors/gates are not websites on the internet. I didn't understand what that means."
+        }
+      ]
+    },
+    "wiki_or_docs": {
+      "count": 572,
+      "first_last": [
+        {
+          "id": 53,
+          "ts": "2019-04-20T07:39:09",
+          "author": "Vladimir Tsyplyayev",
+          "text": "Also specifically, any 256-bit number from 0x1 to 0xFFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFE BAAE DCE6 AF48 A03B BFD2 5E8C D036 4140 is a valid private key.  https://en.bitcoin.it/wiki/Private_key"
+        },
+        {
+          "id": 71098,
+          "ts": "2026-09-06T18:24:29",
+          "author": "CS",
+          "text": "https://gist.github.com/johncantrell97/bbab69bbde03d22eb8323fd94cd46db0"
+        }
+      ],
+      "samples": [
+        {
+          "id": 53,
+          "ts": "2019-04-20T07:39:09",
+          "author": "Vladimir Tsyplyayev",
+          "text": "Also specifically, any 256-bit number from 0x1 to 0xFFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFE BAAE DCE6 AF48 A03B BFD2 5E8C D036 4140 is a valid private key.  https://en.bitcoin.it/wiki/Private_key"
+        },
+        {
+          "id": 2620,
+          "ts": "2020-03-23T13:45:19",
+          "author": "nieods",
+          "text": "https://en.wikipedia.org/wiki/Notpron"
+        },
+        {
+          "id": 2892,
+          "ts": "2020-03-24T19:07:22",
+          "author": "Tracer",
+          "text": "You mean this one? gchq github io / CyberChef"
+        },
+        {
+          "id": 2893,
+          "ts": "2020-03-24T19:20:00",
+          "author": "nieods",
+          "text": "https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')"
+        },
+        {
+          "id": 70785,
+          "ts": "2026-09-03T12:59:33",
+          "author": "nieods",
+          "text": "- 2020-05-11 (https://github.com/Naddiseo/gsmgio-5btc-puzzle#2020-05-11): Bitcoin Halving - 2020-06-07 (https://github.com/Naddiseo/gsmgio-5btc-puzzle#2020-06-07): First SalPhaseIon mention"
+        },
+        {
+          "id": 71001,
+          "ts": "2026-09-04T16:08:47",
+          "author": "SATE",
+          "text": "He mentioned another door before he see github"
+        },
+        {
+          "id": 71043,
+          "ts": "2026-09-04T19:42:04",
+          "author": "Randy",
+          "text": "Well I strongly suggest keeping your LLM away from my upcoming github cause you ain't seen nothing yet. In the meanwhile I'm blocking you. Hf"
+        },
+        {
+          "id": 71098,
+          "ts": "2026-09-06T18:24:29",
+          "author": "CS",
+          "text": "https://gist.github.com/johncantrell97/bbab69bbde03d22eb8323fd94cd46db0"
+        }
+      ]
+    },
+    "hypothesis_reject": {
+      "count": 115,
+      "first_last": [
+        {
+          "id": 151,
+          "ts": "2019-04-21T12:41:32",
+          "author": "Unknown",
+          "text": "Onlide decoders doesnt work"
+        },
+        {
+          "id": 71188,
+          "ts": "2026-09-08T00:21:23",
+          "author": "E",
+          "text": "Question: when getting the sound file from decentraland, has anyone tried picking up from different side of the question mark??? probably a dead end with that thought but its possible, just a thought..."
+        }
+      ],
+      "samples": [
+        {
+          "id": 151,
+          "ts": "2019-04-21T12:41:32",
+          "author": "Unknown",
+          "text": "Onlide decoders doesnt work"
+        },
+        {
+          "id": 580,
+          "ts": "2019-05-01T10:02:46",
+          "author": "Alex",
+          "text": "I already tried millions of combinations ..seems brute Force is not the way to go 😉"
+        },
+        {
+          "id": 2676,
+          "ts": "2020-03-23T16:28:58",
+          "author": "Unknown",
+          "text": "Entering the password doesn't work obviously."
+        },
+        {
+          "id": 2999,
+          "ts": "2020-03-25T17:55:33",
+          "author": "nieods",
+          "text": "Doesn't work though, and I gave up at that point"
+        },
+        {
+          "id": 70274,
+          "ts": "2026-08-31T07:48:48",
+          "author": "Whore Amazing",
+          "text": "Not too hard to find a coincidental letters on prime positions when you have only 9 of them, and even so we have to count \"be\" as one additional letter, which is, uhm, not so obvious I think it's way too complex reasoning out of despair And still, it didn't produce any new readable text or something even remotely like a legit ciphertext, so I personally count it as a dead end"
+        },
+        {
+          "id": 70276,
+          "ts": "2026-08-31T07:51:42",
+          "author": "Denis Golovkin",
+          "text": "I've tried to count probability of this event, but after realizing, that at least 20 first of them do match exactly the rabbit Y/B LSB, there are no more doubts it's intended. Yet, it's kinda dead end at the moment, as you underlined. We don't know where/how to apply em."
+        },
+        {
+          "id": 70610,
+          "ts": "2026-09-02T16:09:15",
+          "author": "Rob",
+          "text": "Exactly, we find patterns everywhere. LLMs find even more patterns but all dead ends, because we don't know what's the \"consumer\". So we have no oracle to test on with our possibilities."
+        },
+        {
+          "id": 71188,
+          "ts": "2026-09-08T00:21:23",
+          "author": "E",
+          "text": "Question: when getting the sound file from decentraland, has anyone tried picking up from different side of the question mark??? probably a dead end with that thought but its possible, just a thought..."
+        }
+      ]
+    },
+    "share_or_secret": {
+      "count": 163,
+      "first_last": [
+        {
+          "id": 100,
+          "ts": "2019-04-20T13:27:59",
+          "author": "Unknown",
+          "text": "If y’all don’t mind me asking, generally what tools are everyone using? (Not trying to dig into peoples secret algos or anything, just curious)."
+        },
+        {
+          "id": 70817,
+          "ts": "2026-09-03T14:18:39",
+          "author": "Gg Wp",
+          "text": "give me the a-i string please, i don't know what this a-i is, maybe i solved"
+        }
+      ],
+      "samples": [
+        {
+          "id": 100,
+          "ts": "2019-04-20T13:27:59",
+          "author": "Unknown",
+          "text": "If y’all don’t mind me asking, generally what tools are everyone using? (Not trying to dig into peoples secret algos or anything, just curious)."
+        },
+        {
+          "id": 695,
+          "ts": "2019-05-09T04:37:36",
+          "author": "Andrea",
+          "text": "oh wow, I solved it :D"
+        },
+        {
+          "id": 727,
+          "ts": "2019-05-09T11:20:09",
+          "author": "Andrea",
+          "text": "Not yet, only some parts that I think I have the answer for"
+        },
+        {
+          "id": 1920,
+          "ts": "2020-02-25T09:11:33",
+          "author": "Unknown",
+          "text": "O told.you DM me"
+        },
+        {
+          "id": 70347,
+          "ts": "2026-09-01T09:37:45",
+          "author": "Pro Tlo",
+          "text": "Or it could be the secret 50 messages and the 3rd door and the 3rd address ...but who are you to say that someone doesn't deserve to speak because it don't align with your judgement"
+        },
+        {
+          "id": 70434,
+          "ts": "2026-09-01T18:28:13",
+          "author": "Gg Wp",
+          "text": "i solved salphaseion, has anyone solved it yet ?"
+        },
+        {
+          "id": 70451,
+          "ts": "2026-09-01T20:21:18",
+          "author": "Cereal Killer",
+          "text": "What you have done JRK ? You were in too much rush that you forgot to paste secret key 🤣😁"
+        },
+        {
+          "id": 70817,
+          "ts": "2026-09-03T14:18:39",
+          "author": "Gg Wp",
+          "text": "give me the a-i string please, i don't know what this a-i is, maybe i solved"
+        }
+      ]
+    }
+  },
+  "wiki_count": 0,
+  "keyed": {
+    "Does anyone have a solution to any of the publicly unsolved": [
+      {
+        "id": 57378,
+        "ts": "2026-01-17T07:17:22",
+        "author": "Andy | DBBI & FAED • Research",
+        "text": "Does anyone have a solution to any of the publicly unsolved parts in salph? If so, please send the solution sha256 to the chat."
+      }
+    ],
+    "everyone is stuck at 3.2": [
+      {
+        "id": 57385,
+        "ts": "2026-01-17T08:01:29",
+        "author": "X",
+        "text": "everyone is stuck at 3.2 because nobody understood the phrase 'reinserting prime basics' in the text for phase 3.2"
+      }
+    ],
+    "going in circles for years": [
+      {
+        "id": 56169,
+        "ts": "2026-01-11T01:21:04",
+        "author": "Whore Amazing",
+        "text": "definitely many people are going in circles for years sometimes, but here are the first I know to go in squares"
+      },
+      {
+        "id": 63765,
+        "ts": "2026-05-24T17:18:53",
+        "author": "Artem",
+        "text": "If you really want to solve it, the task is to find something that is not on GitHub or in the group.  Because it's obvious that the community has been going in circles for years"
+      }
+    ],
+    "admin doesn't care": [
+      {
+        "id": 56488,
+        "ts": "2026-01-11T11:05:07",
+        "author": "Martín",
+        "text": "yeah, spamming gifs should be something to be banned. But then again,  admin doesn't care... nobody cares"
+      }
+    ],
+    "channel is doomed": [
+      {
+        "id": 56495,
+        "ts": "2026-01-11T11:06:17",
+        "author": "Martín",
+        "text": "but again... nobody cares.. this is why the channel is doomed"
+      }
+    ],
+    "P.S. The puzzle is still unsolved": [
+      {
+        "id": 61386,
+        "ts": "2026-04-13T12:25:35",
+        "author": "X",
+        "text": "So why are we stopping? To run a bot like this in 2026, you need a ridiculous amount of compute. Our market analyser is a proper cruncher which deals with big data, all on the fly (big data by definition, fyi). It crunches numbers every microsecond, year in year out. To stay competitive, it costs a fortune. The whole setup only really makes financial sense for the big whales and UHNWIs on the highest tier. Running these calculations for the shrim"
+      },
+      {
+        "id": 61406,
+        "ts": "2026-04-13T17:19:17",
+        "author": "Mike",
+        "text": "Flawed logic; Read his message again; he explicitly says: \"P.S. The puzzle is still unsolved\""
+      }
+    ],
+    "This was fun a few years ago": [
+      {
+        "id": 63075,
+        "ts": "2026-05-14T17:53:17",
+        "author": ".",
+        "text": "This was fun a few years ago when there was actually progress, new stages to explore, now its stuck for many years and there must be a damn good reason for it"
+      }
+    ],
+    "Has any progress been made so far": [
+      {
+        "id": 64419,
+        "ts": "2026-06-01T23:09:41",
+        "author": "Nietzsch",
+        "text": "Has any progress been made so far? Or stuck as usual?."
+      }
+    ],
+    "confirm that this is still unsolved": [
+      {
+        "id": 59758,
+        "ts": "2026-02-09T12:38:15",
+        "author": "Unknown",
+        "text": "Hey group, can you confirm that this is still unsolved and a current task?"
+      }
+    ],
+    "We already have dozens of suggestions, and none of them work": [
+      {
+        "id": 55405,
+        "ts": "2026-01-09T17:49:45",
+        "author": "VITOR LIMA",
+        "text": "We already have dozens of suggestions, and none of them work."
+      }
+    ],
+    "probably we will get to the next halving": [
+      {
+        "id": 54631,
+        "ts": "2026-01-07T14:37:36",
+        "author": "bitkek",
+        "text": "probably we will get to the next halving w this shit still unsolved"
+      }
+    ],
+    "where to start": [
+      {
+        "id": 20387,
+        "ts": "2024-01-31T09:27:25",
+        "author": "Niazai",
+        "text": "Give me an idea from where to start, I will solve it so soon 😁"
+      },
+      {
+        "id": 21771,
+        "ts": "2024-03-04T02:29:53",
+        "author": "Adam Rajnoha",
+        "text": "Good morning, is it a general consensus that we consider the Salphasion to be the \"next stage\" after 3.2.2? Why is that? Considering the hint from decentraland, when was it released? it seems strange compated to the end result of 3.2.2. it feels like a hint for those who dont know where to start, and to me, it seems like an alternative route, not the next stage. Your thoughts?"
+      },
+      {
+        "id": 23264,
+        "ts": "2024-03-27T14:28:54",
+        "author": "Dameal",
+        "text": "The rabbit tells you where to start from  And where you’re heading and the yellow blue primes tells you in what direction"
+      }
+    ],
+    "blob dbbi": [
+      {
+        "id": 58592,
+        "ts": "2026-01-24T12:41:53",
+        "author": "Unknown",
+        "text": "Has anyone solved the 'blob dbbi...' issue in Salphaseion? Has everyone given up, and has the puzzle been stuck in the same place for years?"
+      }
+    ],
+    "unsolved parts of this puzzle that remain": [
+      {
+        "id": 59756,
+        "ts": "2026-02-09T12:36:12",
+        "author": "Unknown",
+        "text": "So, to sum up, the unsolved parts of this puzzle that remain to this day are...  : 1) PHASE3_3.2_CYPHERTEXT_BLOB_AES U2FsdGVkX1+0Wl49gnWTyiimluu7V3+vl7st0gUt9sWDzNLxDmlPMsDSiuW2a46z gKlIi8aaqY5gpJPPEzW1n9n3/26qs4zstWtPKF8Zs/BTNN4IiEh4qu18mdC0NAv4   , 2) SalPhaseIon a) d b b i b f b h c c b e g b i h a b e b e i h b e g g e g e b e b b g e h h e b h h f b a b f d h b e f f c d b b f c c c g b f b e e g g e c b e d c i b f b f f g i g b e e e a b e"
+      }
+    ],
+    "Nobody understood the phrase": [
+      {
+        "id": 57385,
+        "ts": "2026-01-17T08:01:29",
+        "author": "X",
+        "text": "everyone is stuck at 3.2 because nobody understood the phrase 'reinserting prime basics' in the text for phase 3.2"
+      }
+    ],
+    "I'm going to retire from this chat": [
+      {
+        "id": 64105,
+        "ts": "2026-05-28T11:53:24",
+        "author": "Nano",
+        "text": "I'm going to retire from this chat and finish solving. If anyone is stuck and needs a legit hand then my DMs are open. Love you all very much and good luck. Keep the light on."
+      }
+    ],
+    "Here we go again with Bob": [
+      {
+        "id": 57797,
+        "ts": "2026-01-18T15:56:41",
+        "author": "Prime",
+        "text": "Here we go again with Bob. Please ban him Trin. We're making good progress here and he is just crying about Gudic."
+      }
+    ],
+    "Please ban him": [
+      {
+        "id": 57797,
+        "ts": "2026-01-18T15:56:41",
+        "author": "Prime",
+        "text": "Here we go again with Bob. Please ban him Trin. We're making good progress here and he is just crying about Gudic."
+      }
+    ],
+    "website vanishes": [
+      {
+        "id": 62355,
+        "ts": "2026-05-03T10:54:48",
+        "author": "Sparky",
+        "text": "A puzzle that is unsolvable does not mean that a solution does not exist. For example, we know the public key of 1GSMG, so we already have a way to \"solve\" it in clear steps, without vague hints or following rabbits which may or may not exist. But that doesn't make it a puzzle, does it? It's not a stretch to clarify whether previous hints are obsoleted or not after the official website vanishes, is it?"
+      }
+    ],
+    "community-maintained": [
+      {
+        "id": 61386,
+        "ts": "2026-04-13T12:25:35",
+        "author": "X",
+        "text": "So why are we stopping? To run a bot like this in 2026, you need a ridiculous amount of compute. Our market analyser is a proper cruncher which deals with big data, all on the fly (big data by definition, fyi). It crunches numbers every microsecond, year in year out. To stay competitive, it costs a fortune. The whole setup only really makes financial sense for the big whales and UHNWIs on the highest tier. Running these calculations for the shrim"
+      }
+    ]
+  },
+  "monthly_2021_2023": {
+    "2021-01": 409,
+    "2021-02": 173,
+    "2021-03": 882,
+    "2021-04": 502,
+    "2021-05": 115,
+    "2021-06": 3,
+    "2021-07": 12,
+    "2021-08": 40,
+    "2021-09": 39,
+    "2021-10": 8,
+    "2021-11": 3,
+    "2021-12": 94,
+    "2022-01": 7,
+    "2022-02": 3,
+    "2022-04": 59,
+    "2022-05": 37,
+    "2022-06": 27,
+    "2022-07": 50,
+    "2022-08": 2,
+    "2022-09": 3,
+    "2022-10": 2,
+    "2022-11": 3,
+    "2022-12": 21,
+    "2023-01": 105,
+    "2023-02": 17,
+    "2023-03": 20,
+    "2023-04": 32,
+    "2023-05": 34,
+    "2023-06": 92,
+    "2023-07": 65,
+    "2023-08": 3418,
+    "2023-09": 2691,
+    "2023-10": 585,
+    "2023-11": 708,
+    "2023-12": 695
+  }
+}

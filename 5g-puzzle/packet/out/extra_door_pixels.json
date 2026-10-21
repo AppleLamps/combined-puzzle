@@ -1,0 +1,21 @@
+{
+  "source": "https://raw.githubusercontent.com/puzzlehunt/gsmgio-5btc-puzzle/master/puzzle.png",
+  "hint": "Jrk #1710 as quoted 2020-04-08 #3388: Yellow has a number and so does Blue. Go back to the first puzzle piece.",
+  "size": [
+    1048,
+    1556
+  ],
+  "counts": {
+    "white": 500585,
+    "black": 531050,
+    "blue": 83700,
+    "yellow": 50400,
+    "grey_cell": 5625,
+    "red": 15705,
+    "other": 443623
+  },
+  "yellow": 50400,
+  "blue": 83700,
+  "red": 15705,
+  "note": "Exact palette counts of puzzle.png, not a door proof. Blue is (63,72,204)=83700; an earlier HSV pass reported 96791. No SHA-256 of a 'find' is claimed here. {1,4,21} not used. See extra_door_find.py for the hashed grid packet."
+}
