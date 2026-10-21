@@ -1,0 +1,1249 @@
+Telegram export: GSMG Puzzle Solvers
+Year: 2022
+Messages: 228
+Source: result.json
+Dates are preserved as recorded in the export.
+
+[2022-01-03T20:57:52] SlobaDoba (message 8051)
+Happy New Year
+
+--------------------------------------------------------------------------------
+
+[2022-01-05T05:25:10] PK (message 8053)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-01-05T09:55:40] Sergio Marquina (message 8054)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-01-12T16:27:30] Legik (message 8055)
+Reply to message: 8052
+https://www.blockseek.io/qbc/address/3AqPLgGvzTokcNYcabf97RbQDqmRCehPB2
+
+--------------------------------------------------------------------------------
+
+[2022-01-16T12:58:11] Zil (message 8056)
+[photo: (File not included. Change data exporting settings to download.)]
+
+--------------------------------------------------------------------------------
+
+[2022-01-16T12:58:19] Zil (message 8057)
+I'm very close to solving..
+
+--------------------------------------------------------------------------------
+
+[2022-01-16T13:30:54] Detective Froz (message 8058)
+Is this paper towel or XXL toilet paper 🧻 for big guys?
+
+--------------------------------------------------------------------------------
+
+[2022-01-16T14:15:46] Zil (message 8059)
+Paper towel a.k.a paper wallet 😅
+
+--------------------------------------------------------------------------------
+
+[2022-01-19T19:29:26] Org0 (message 8060)
+[photo: (File not included. Change data exporting settings to download.)]
+
+--------------------------------------------------------------------------------
+
+[2022-02-03T13:22:36] 0xColombo (message 8061)
+@SoWut hello! Please give us additional hint for SalPhaseIon 🥰
+
+--------------------------------------------------------------------------------
+
+[2022-02-17T15:03:55] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8063)
+to accure peace noble and extreme amount of money you can do this:
+
+--------------------------------------------------------------------------------
+
+[2022-02-17T15:07:39] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8064)
+1- using hash algo, look up where ever you seen the emoji lookup
+2- string to be hash is my message and few other user.
+3- seed is the important part, you need to try default value and other pass, name or ...  used in puzzle.
+4- send half the money you get this way with a pv key in my direct and i will get you the final piece.
+i am tired.
+
+--------------------------------------------------------------------------------
+
+[2022-03-01T12:56:23] Onyx (message 8065)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-03-17T22:41:50] Unknown sender (message 8066)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-04-06T07:08:09] PK (message 8067)
+How do you open the
+D
+O
+O
+R?
+
+--------------------------------------------------------------------------------
+
+[2022-04-09T14:41:44] Legik (message 8068)
+how to understand what the salphaseion text means, where to read what it is?
+
+--------------------------------------------------------------------------------
+
+[2022-04-09T14:46:27] Legik (message 8069)
+sal phase ion, salphase i on, s alpha sion ...
+
+--------------------------------------------------------------------------------
+
+[2022-04-09T17:05:49] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8070)
+i want at least 5000$ of the official prize and give you the exact final answer. if you can find a way to not get cheated again, i will send it, right now.
+
+--------------------------------------------------------------------------------
+
+[2022-04-09T17:13:32] Janusz Baran (message 8071)
+Reply to message: 8067
+[photo: (File not included. Change data exporting settings to download.)]
+
+--------------------------------------------------------------------------------
+
+[2022-04-09T17:13:40] Janusz Baran (message 8072)
+here you have your DOOR
+
+--------------------------------------------------------------------------------
+
+[2022-04-09T17:13:52] Janusz Baran (message 8073)
+D
+O
+O
+R
+
+--------------------------------------------------------------------------------
+
+[2022-04-09T17:19:35] Владимир Латышов (message 8074)
+open or tuk tuk 😂
+
+--------------------------------------------------------------------------------
+
+[2022-04-09T23:25:50] PK (message 8075)
+ᗡ
+O
+O
+Я
+
+--------------------------------------------------------------------------------
+
+[2022-04-10T08:28:19] mpeg (message 8076)
+Reply to message: 8068
+(The Matrix) Salvation 
+Salvation Phase
+SalPhaseIon
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:29:07] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8077)
+gsmg puzzle, final answer:
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:29:46] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8078)
+you should hash string in plain sight, address and the puzzle solgan
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:29:53] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8079)
+with hufftime hasher
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:30:10] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8080)
+the seed for the hash is yellow and blue,
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:30:44] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8081)
+you can try yellow+blue and (yellow*blue)/red
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:32:28] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8082)
+in the worst case scenario, where they point to hashing different string and the result of the hash consider as 64 bit,
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:33:06] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8083)
+then, you should hash them this way: [gsmg.io], [5] / [5 btc] and so on...
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:34:21] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8084)
+then you have to run, combo of the hash string together to see the result...
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:35:25] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8085)
+i want at least 5000$ of price, this is the best i can do, else consequences will be out of control.
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T03:37:18] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8086)
+3MgmuRBtJCLtBtbpMAEcKmELJmG2LPVQwV (btc address)
+
+--------------------------------------------------------------------------------
+
+[2022-04-11T18:50:44] Unknown sender (message 8087)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-04-12T07:58:09] Unknown sender (message 8088)
+Reply to message: 8067
+with this - compare against the real Matrix text you will see extra chars... need to remove them. also think about primes here...
+[photo: (File not included. Change data exporting settings to download.)]
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8089)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+its one of them.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8090)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+the gsmg.io page, has stegano graphic data too, i think its not usable anymore. but white space steg technique is the most simple solution there.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8091)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+extract logo image data and then convert it with ecb. its another solution
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8092)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+[photo: (File not included. Change data exporting settings to download.)]
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8093)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+i can not find my note right now, but there is so much solution.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8094)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+if you can finish them and send me some i will find and send the rest.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8095)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+i can not finish them.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8096)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+[photo: (File not included. Change data exporting settings to download.)]
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8097)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+or this for example, it solve in many way
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8098)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+one of them: they are all math formula...
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8099)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+you should look at it reverse and mirro.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:18:31] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8100)
+Forwarded from: Saber ^:)> (---}> ¿¡×( ;) <><
+in the same time, they are pixel art which should be put on tupper
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T02:20:32] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8101)
+Reply to message: 8088
+this part of the puzzle is totally fake.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T06:18:16] Unknown sender (message 8102)
+is this fake puzzle part of..? totally!
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T06:18:44] Unknown sender (message 8103)
+🤫
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T06:43:24] Detective Froz (message 8104)
+Is somebody still working on this puzzle?
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T06:52:44] stranger (message 8105)
+yep
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T07:10:28] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8106)
+Reply to message: 8102
+around 1.5 years ago, i point to this part after some one who probably was one of the creator,
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T07:12:58] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8107)
+the matrix bla bla bla txt, just posted as disinformation on github and then almost no one try to see how it really work... still, its could be useful if creator looking for a fake answer to find.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T07:14:23] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8108)
+the aes, just appended to gether. its means the middle part turn return true when using openssl but its enc with another algo.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T07:23:33] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8109)
+the fun part is the whole puzzle phase, answer and etc... are in fact based on cyberpunk movement, zen, cognitive  error and etc... is design where you as an individual after moving in multiple phase and trial error, etc... will find the answer.... but there is just a few problem there:
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T07:24:12] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8110)
+as the interaction between one and ai should be evaluated and.... etc.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T07:30:55] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8111)
+then, if some act as a real individual who crack the puzzle it self... he made a wrong choice! cause, based on common sense (i hate word common, its  meaningless just as normal.) he should never do such a thing!  only a range of behavior and choice is true! and its completely rational...
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T07:40:40] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8112)
+and the other problem is where they just assume the basic tool is ready for every one... as an example to that aes part, for making such a thing or crack it we have many way. but probably using stream cipher is the easiest way. beside standard stream cipher and need probably to brute force the pass and string itself... we need a level of certainty when we are dealing with deniable enc... for true message. i mean, in a paragraph like this, i can put at least 5 different completely readable and undeniable message which can be decode with a kid and not with any one else, but they are completely clear i mean.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T10:57:23] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8113)
+in the same time, the first answer was true with high certainty... but some part exist like that 149 number string where we can not be sure about them. in that part beside the wellknown and string i send, there is many other way.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T10:59:03] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8114)
+for example on of the easiest way to use classic cipher for creating a good and hard challenge is using them in the most efficient or creative way... on of them is rail cipher.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T11:04:26] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8115)
+rail cipher can be use for binary! its means you can not only bypass any firewall (in the first step, but after that, its needs more complicated or intelligence way) with a very simple obfuscation method. its can be use for handle secret message too. for the number string part, you can just run rail cipher and then treat the number with vic to see decoed in the first part. its could be fake or real message but the only way to dealing with as wellknown analysis is not the case there, is brute forcing as many decryption as you can. its need a good hardware or extremely good mood.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T11:09:06] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8116)
+the other thing is used in this puzzle is (its an standard method.) using the certain word, string and/or their anagram as the decipher way of a message. as an example, the chao in disinformation part is a bold hint to chao cipher... its have a good protection resistance against brute force attack and not a well known method in puzzle... but in the same time, see such a thing in a fake part is a red sign for using it.
+
+--------------------------------------------------------------------------------
+
+[2022-04-13T11:29:41] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8117)
+and so on... but anyway for this or any puzzle, cipher, military encrypted message, bitcoin... what ever coded with human, there is weakness. i like to find and crack the weaknesses, i am so addicted to it in some how. so, what was the gsmg puzzle weaknesses and how i deal with it? but the result except personal sanctification was completely disappointing... first: it was theme... second: the reaction... third: flaw against unorthodox analysis. four: repeated pattern. five: having a history... six: leaking so much information with the competitioner with not so right intention... (its meaningless to stay quiet or always send wrong info or distraction as part of the role... as its can be used for deeper analysis.) and etc... and my biggest mistake was this: i just assume, based on the puzzle script and interaction with player... the goal of this puzzle is not just creating a puzzle but there is a recruitment, fund rising, scholarship challenge or etc... in this case scenario, i would not lose anything with playing like me, not cheating and even trying to improve my technique... but i was wrong! as it was not or in my case it was not or its in the most nonsense and paradoxical way work based on the result which in this case its just have so many flaw which i hope for make it better in the next puzzle or challenge or what ever is it.
+
+--------------------------------------------------------------------------------
+
+[2022-04-16T11:22:34] Unknown sender (message 8118)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-04-16T15:01:22] mpeg (message 8119)
+Crikey
+
+--------------------------------------------------------------------------------
+
+[2022-04-16T15:01:23] mpeg (message 8120)
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: sticker]
+[file_name: AnimatedSticker.tgs]
+[sticker_emoji: 😐]
+
+--------------------------------------------------------------------------------
+
+[2022-04-17T13:28:29] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8122)
+easter egg of gsmg puzzle, based on my guess:
+
+--------------------------------------------------------------------------------
+
+[2022-04-17T13:31:15] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8123)
+if you append/add number like 2 to the 149 char string then convert it to hex, you will have 64 char bip39 seed or... some 64 hex char key which could open something special.
+
+--------------------------------------------------------------------------------
+
+[2022-04-17T13:39:03] omaru (message 8124)
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: animation]
+[file_name: ok-alright-then.mp4]
+
+--------------------------------------------------------------------------------
+
+[2022-04-17T13:45:24] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8125)
+Reply to message: 8124
+thank you, you can add all number of the string together too.☹️
+
+--------------------------------------------------------------------------------
+
+[2022-04-26T00:17:04] 0xColombo (message 8126)
+@SoWut where is puzzle-birthday hint?:)
+
+--------------------------------------------------------------------------------
+
+[2022-04-26T00:17:37] 0xColombo (message 8127)
+If I remember correctly, we started this 19th of April 2019
+
+--------------------------------------------------------------------------------
+
+[2022-04-26T00:17:46] 0xColombo (message 8128)
++- week
+
+--------------------------------------------------------------------------------
+
+[2022-05-02T22:37:14] Unknown sender (message 8129)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-05-09T10:27:57] Unknown sender (message 8130)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-05-11T08:18:01] Unknown sender (message 8131)
+completely deadlocked
+
+--------------------------------------------------------------------------------
+
+[2022-05-11T08:24:39] Detective Froz (message 8132)
+Hello! Do you know guys why the ripemd160 function was depreciated in OpenSSL 3? (neeest python’s hashlib doesn’t perform ripemd160 hash)
+
+--------------------------------------------------------------------------------
+
+[2022-05-11T09:19:17] stranger (message 8133)
+Reply to message: 8132
+https://www.reddit.com/r/crypto/comments/sv2y6d/ripemd160_a_disater_in_the_making_thanks_to/
+
+--------------------------------------------------------------------------------
+
+[2022-05-11T09:23:14] Detective Froz (message 8134)
+Reply to message: 8133
+Thanks, i saw that as well. So, they made the life harder )
+
+What is the easiest solution now for python to calculate ripemd160 hash?
+
+--------------------------------------------------------------------------------
+
+[2022-05-11T09:30:22] stranger (message 8135)
+https://github.com/jcook/python-crypto-debian/blob/master/lib/Crypto/Hash/RIPEMD160.py
+
+--------------------------------------------------------------------------------
+
+[2022-05-24T08:37:53] Unknown sender (message 8136)
+Are you there?
+
+--------------------------------------------------------------------------------
+
+[2022-05-24T09:21:46] stranger (message 8137)
+yep
+
+--------------------------------------------------------------------------------
+
+[2022-05-25T02:05:18] Unknown sender (message 8138)
+I found many prime numbers but don't KNOW WHAT THEY DO
+
+--------------------------------------------------------------------------------
+
+[2022-05-25T02:19:30] stranger (message 8139)
+Reply to message: 8138
+how many?
+
+--------------------------------------------------------------------------------
+
+[2022-05-25T06:22:06] Jrk Bgrt (message 8140)
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: animation]
+[file_name: animation.gif.mp4]
+
+--------------------------------------------------------------------------------
+
+[2022-05-25T08:38:46] stranger (message 8141)
+GOD mode))
+
+--------------------------------------------------------------------------------
+
+[2022-05-25T10:25:33] Jrk Bgrt (message 8142)
+Looks like somebody found a gsmg subscription.
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T02:11:50] Unknown sender (message 8146)
+someone deleted something
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T02:16:10] stranger (message 8147)
+You will succeed
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T04:30:02] Unknown sender (message 8148)
+Reply to message: 8147
+No, I can't
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T04:34:53] stranger (message 8149)
+Reply to message: 8148
+ECDSA
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T05:15:23] stranger (message 8150)
+Reply to message: 8148
+X-coordinate (pubkey) for 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  is 04f4d1bbd91e65e2a019566a17574e97dae908b784b388891848007e4f55d5a4649c73d25fc5ed8fd7227cab0be4e576c0c6404db5aa546286563e4be12bf33559
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T05:17:34] stranger (message 8151)
+know the Y-coordinate, you can calculate the primary key
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:11:31] Unknown sender (message 8152)
+https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:11:54] Unknown sender (message 8153)
+The first door
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:12:16] Unknown sender (message 8154)
+What is another door?
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:13:00] Unknown sender (message 8155)
+does it contain the private key or does it lead to another door?
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:17:14] stranger (message 8156)
+It's a long way
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:17:56] stranger (message 8157)
+Reply to message: 8154
+https://github.com/puzzlehunt/gsmgio-5btc-puzzle
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:18:20] Unknown sender (message 8158)
+Reply to message: 8157
+I know
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:18:27] Unknown sender (message 8159)
+My link from that
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:21:37] stranger (message 8160)
+s h a b e f o u r f i r s t h i n t i s y o u r l a s t c o m m a n d
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:22:24] Unknown sender (message 8161)
+What is your first hinht?
+
+--------------------------------------------------------------------------------
+
+[2022-05-27T10:26:25] stranger (message 8162)
+Follow the white rabbit))
+
+--------------------------------------------------------------------------------
+
+[2022-05-29T19:25:12] Unknown sender (message 8172)
+Completely deadlocked
+
+--------------------------------------------------------------------------------
+
+[2022-05-31T09:39:07] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8173)
+[file: (File not included. Change data exporting settings to download.)]
+[file_name: ppp.py]
+
+--------------------------------------------------------------------------------
+
+[2022-05-31T09:49:23] x7x7x7x6 (message 8174)
+whoa, i just executed this script and suddenly created a new block and got 6,25 BTC reward
+
+--------------------------------------------------------------------------------
+
+[2022-05-31T10:57:11] pogo (message 8176)
+that's nothing, i ran the script and created a new parallel universe where i owned all the bitcoin and consequently it was worthless
+
+--------------------------------------------------------------------------------
+
+[2022-05-31T11:05:54] Unknown sender (message 8177)
+Reply to message: 8174
+Proof please
+
+--------------------------------------------------------------------------------
+
+[2022-05-31T11:15:53] x7x7x7x6 (message 8178)
+Oh, my bad, Saber did get the reward
+
+--------------------------------------------------------------------------------
+
+[2022-05-31T11:25:15] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8179)
+Reply to message: 8178
+😂😂😂
+
+--------------------------------------------------------------------------------
+
+[2022-05-31T11:27:56] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8180)
+its some how interesting how we can respond to a joke, where its not a joke in fact but nobody can understand it.
+
+--------------------------------------------------------------------------------
+
+[2022-06-01T06:16:47] Org0 (message 8181)
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: video_file]
+[file_name: matrix3021.mp4]
+
+--------------------------------------------------------------------------------
+
+[2022-06-01T07:42:42] RB (message 8182)
+Reply to message: 8181
+Ok... That REALLY made my day 😄
+
+--------------------------------------------------------------------------------
+
+[2022-06-01T09:48:09] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8183)
+Reply to message: 8182
+i did not get the joke or the meaning behind it. usually in such a case if i do not know the other people just pretend and act like the group as it easier and not matter. but right now,  there is a question come to my mind which i feel good if i know your answer. as its could be cultural thing, then i just ask a technical question which is related in some how.
+
+--------------------------------------------------------------------------------
+
+[2022-06-01T09:49:28] RB (message 8184)
+Reply to message: 8183
+to me it was no joke just some stupid video.
+
+--------------------------------------------------------------------------------
+
+[2022-06-01T12:56:24] Jrk Bgrt (message 8189)
+👽
+
+--------------------------------------------------------------------------------
+
+[2022-06-06T23:17:30] Mrak (message 8190)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-06-09T03:46:25] Unknown sender (message 8191)
+Can somebody find privatekey from first picture without internet?
+
+--------------------------------------------------------------------------------
+
+[2022-06-09T03:50:39] stranger (message 8192)
+@SoWut knows
+
+--------------------------------------------------------------------------------
+
+[2022-06-19T07:32:22] yu uipod (message 8193)
+y
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:24:56] barrystyle (message 8203)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:27:45] barrystyle (message 8204)
+lattice attack relies on duplicated r nonce
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:27:51] barrystyle (message 8205)
+which i can guarantee isnt going to occur here
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:29:25] barrystyle (message 8206)
+additionally, nearly all the puzzles which have a known public key have been solved already
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:29:35] barrystyle (message 8207)
+the rest we only know the pkh
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:33:47] barrystyle (message 8208)
+Reply to message: 8008
+considered to do with qualities of a rabbits vision
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:45:12] barrystyle (message 8209)
+Reply to message: 8150
+this is not correct either, does not equal the pkh of 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe once ripemd/hashed
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:47:45] barrystyle (message 8210)
+Reply to message: 8133
+oh man, who comes up with this stuff seriously aha
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:48:05] barrystyle (message 8211)
+this has turned out to be quite a humorous thread
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T17:52:18] barrystyle (message 8212)
+Reply to message: 7907
+zden puzzle 5?
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:00:09] barrystyle (message 8214)
+it is a side-channel attack, where you know certain pieces of information.. in this case partial nonces
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:00:26] barrystyle (message 8216)
+upper and lower bounds would be better description of bitcoin puzzle
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:00:53] barrystyle (message 8219)
+er
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:01:11] barrystyle (message 8220)
+[photo: (File not included. Change data exporting settings to download.)]
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:01:30] barrystyle (message 8221)
+zden has nothing to do with lattice,
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:01:44] barrystyle (message 8222)
+you need to break the pill in half each morning my friend
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:23:21] barrystyle (message 8227)
+from the sigs?
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:30:03] barrystyle (message 8229)
+i see lots of consts without names, and magic numbers
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:30:14] barrystyle (message 8230)
+if you can write this, why not do it in c
+
+--------------------------------------------------------------------------------
+
+[2022-06-30T18:46:30] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8231)
+writting code in c is not possible for me as i do not know how can i do it properly but you right, it was a wrong idea.
+
+--------------------------------------------------------------------------------
+
+[2022-07-03T03:50:29] barrystyle (message 8232)
+hm so there are a few more clues in the final aes blob
+
+--------------------------------------------------------------------------------
+
+[2022-07-03T03:50:45] barrystyle (message 8233)
+after base64 decode, it is 96 bytes
+
+--------------------------------------------------------------------------------
+
+[2022-07-03T03:51:03] barrystyle (message 8234)
+remove 8 bytes for openssl 'Salted__' header, 88 bytes
+
+--------------------------------------------------------------------------------
+
+[2022-07-03T03:51:22] barrystyle (message 8235)
+then we remove the following 8 bytes for the actual salt (salt is always 8 bytes regardless of keysize)
+
+--------------------------------------------------------------------------------
+
+[2022-07-03T03:51:27] barrystyle (message 8236)
+so payload is 80 bytes
+
+--------------------------------------------------------------------------------
+
+[2022-07-03T03:51:56] barrystyle (message 8237)
+80 / 32 has a remainder so the cipher being utilized is not aes-256-cbc
+
+--------------------------------------------------------------------------------
+
+[2022-07-03T03:56:28] barrystyle (message 8238)
+aes-128-cbc makes sense if ciphertext is 64bytes long (ie. a private key hexstring)... because if the cipher len meets the block end, an extra block of padding must be appended
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T10:26:25] RB (message 8239)
+Reply to message: 8237
+wrong. aes has always a block size of 128 bits (=16 bytes). so 80/16 = 5 works out perfectly fine. regardless if it's encrypted with a 128 or 256 bit key.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:41:27] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8240)
+Reply to message: 8239
+thats right, but personally have some problem with this part.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:45:52] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8241)
+1- after removing salted string from that part we get leet code... its easy to made... but, one of the user, with a dictionary attack get valid string of it, if i remember this truly then:
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:47:12] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8242)
+a) if we assume thats an aes enc then the pass should not be a sha2.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:48:13] barrystyle (message 8243)
+it’s aes specifically OpenSSL as that’s their documented magic
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:49:24] barrystyle (message 8244)
+Reply to message: 8239
+yes, i was wrong, not sure where i picked up that the block size varied due to key size
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:50:59] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8245)
+if its right and we assume the deniable leet code is not matter any more then its should be aes with out IV for make it easier to bulid or the IV should be some semi random string but personally i think:
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:51:12] barrystyle (message 8246)
+deniable leet code?
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:51:40] barrystyle (message 8247)
+IV is never included, what is included is the salt which is formed from the iv & key
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:51:49] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8248)
+the leet code was matter, probably as regex or perl code... i can not use them.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:52:18] RB (message 8249)
+Reply to message: 8244
+a common misconception.  i just didn't want you guys to exclude aes-256 wrongfully.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:52:39] barrystyle (message 8250)
+ehe rb i think you may be taking the same direction i am
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:53:01] RB (message 8252)
+lol... not planning a cloud to break it :D
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:53:06] barrystyle (message 8253)
+hahah
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:53:14] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8254)
+Reply to message: 8247
+i just trying to define the method could be used to create such a thing.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:53:46] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8255)
+if it was me, i would used a logical order there.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:54:07] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8256)
+but its not on me.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:54:07] barrystyle (message 8257)
+well, if block size is (and i know now), 16 bytes
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:54:25] barrystyle (message 8258)
+then since 64 plaintext bytes match the last block (X4)
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:54:32] barrystyle (message 8259)
+then the 5th block is just padding
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:55:22] barrystyle (message 8260)
+ehe i used aes rounds in a password hashing algorithm that i converted for pow use years ago... balloon
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:55:32] barrystyle (message 8261)
+the aes rounds made it very difficult to parallelize on gpu
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:55:39] barrystyle (message 8262)
+cbc specifically
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:55:58] barrystyle (message 8263)
+10kh on a ryzen, 25kh on a 1080ti
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T14:56:03] barrystyle (message 8264)
+so not even factors
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:04:51] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8265)
+how you memories all this, its super hard for me to remember my name some times. i can not understand anything from this but even if we assume its aes cbc and we are looking for a certain string for password is not possible for me to crack it but:
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:05:55] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8266)
+collation on aes can be used if we assume its matter... just google part of the cipher this way, as always a string has same value then there will be some.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:06:25] barrystyle (message 8267)
+Reply to message: 8265
+lol im the same some days
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:06:54] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8268)
+its my default mode.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:07:31] barrystyle (message 8269)
+lesser important information not accessible at all times, cant tell you what i had for dinner yesterday but will remember lots of coding stuff
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:16:33] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8270)
+👍👍👍
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:24:44] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8271)
+mine is completely different, its seem scary some times but i used to it. for example as my personally challenge i wanted to find some practical offline attack based on math to make me feel good. i did it but i can not even read my own code! right now, i am back on finding a way to crack any rsa encrypted data no matter how they implanted with out any back door. it was one of my old work where i just leave it while ago. but suddenly an algo come to my mind few night ago which can crack it i think.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:29:44] barrystyle (message 8272)
+is why its a good idea to store code or have repository
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:29:55] barrystyle (message 8273)
+so many times have given up and rage deleted out of frustration
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:30:07] barrystyle (message 8274)
+to many months later, just be thinking idly, or with family/friends and bam - solution in mind
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:30:11] barrystyle (message 8275)
+however the code is now gone
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:30:49] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8276)
+i store them but they are not useful. its will be good. its feel good see some one with same problem.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:31:20] barrystyle (message 8277)
+i will say though, with aes in particular, a partial decode is more than possible
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:35:50] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8278)
+i hope i can try this in a good mood. thank you. as a return i will send some idea for sharing enc data like shamir but its work better.
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:36:25] barrystyle (message 8279)
+shamir?
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:36:33] barrystyle (message 8280)
+is this zero knowledge proof stuff?
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:36:36] barrystyle (message 8281)
+millionaires problem
+
+--------------------------------------------------------------------------------
+
+[2022-07-05T15:38:30] Saber ^:)> (---}> ¿¡×( ;) <>< (message 8282)
+no, its about another subject.
+
+--------------------------------------------------------------------------------
+
+[2022-08-18T23:01:26] Zil (message 8283)
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: animation]
+[file_name: animation.gif.mp4]
+
+--------------------------------------------------------------------------------
+
+[2022-08-26T15:05:38] Coinbaas (message 8284)
+[Service: invite_members]
+members: ["RickyboyII"]
+
+--------------------------------------------------------------------------------
+
+[2022-08-28T14:25:09] stranger (message 8285)
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: sticker]
+[file_name: sticker.webp]
+[sticker_emoji: ⌚]
+
+--------------------------------------------------------------------------------
+
+[2022-09-06T03:25:56] Alex (message 8287)
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: sticker]
+[file_name: sticker.webp]
+[sticker_emoji: ⌚]
+
+--------------------------------------------------------------------------------
+
+[2022-09-06T05:21:52] Jrk Bgrt (message 8288)
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: animation]
+[file_name: animation.gif.mp4]
+
+--------------------------------------------------------------------------------
+
+[2022-09-06T05:26:08] stranger (message 8289)
+Reply to message: 8288
+[file: (File not included. Change data exporting settings to download.)]
+[media_type: sticker]
+[file_name: AnimatedSticker.tgs]
+[sticker_emoji: 😣]
+
+--------------------------------------------------------------------------------
+
+[2022-10-09T18:39:17] Billy Tjie (message 8290)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-10-18T19:29:29] Unknown sender (message 8292)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-10-26T08:46:36] Unknown sender (message 8293)
+Who is there
+
+--------------------------------------------------------------------------------
+
+[2022-10-26T09:24:26] stranger (message 8294)
+👍
+
+--------------------------------------------------------------------------------
+
+[2022-11-01T23:17:32] Unknown sender (message 8295)
+I think it is a decimal
+
+--------------------------------------------------------------------------------
+
+[2022-11-05T10:24:21] Legik (message 8296)
+the text is given to the arrangement in the alphabet,
+but missing null characters.
+[file: (File not included. Change data exporting settings to download.)]
+[file_name: 2022-11-05_18-19-38.png]
+
+--------------------------------------------------------------------------------
+
+[2022-11-14T09:36:29] VoVaM (message 8298)
+[Service: join_group_by_link]
+inviter: "Group"
+
+--------------------------------------------------------------------------------
+
+[2022-11-30T19:46:14] Billy Tjie (message 8300)
+Is this puzzle truly meant to be solved? Or not?
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T07:14:53] Jrk Bgrt (message 8301)
+It is meant to be solved.
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T07:27:42] mpeg (message 8302)
+I think everyone gave up on dbbi long ago 😅
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T07:31:29] stranger (message 8303)
+😢
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T07:33:09] Alex (message 8304)
+People need some hints to continue to solve this puzzle
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T07:34:04] stranger (message 8305)
+🙏
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T07:34:13] x7x7x7x6 (message 8306)
+Or 40000+ btc exchange rate
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T07:36:36] Jrk Bgrt (message 8307)
+There might be a hint coming but not too soon.
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T07:59:25] Alex (message 8308)
+What is easier? To find the answer to this puzzle or to discover the physics Theory of Everything?
+
+--------------------------------------------------------------------------------
+
+[2022-12-02T17:45:40] Jrk Bgrt (message 8309)
+Reply to message: 8308
+I'm not exactly sure how long it would take to discover that theory so I can't really tell 🤔.
+
+--------------------------------------------------------------------------------
+
+[2022-12-10T18:09:18] barrystyle (message 8310)
+[file: (File not included. Change data exporting settings to download.)]
+[file_name: image_2022-12-11_07-09-14.png]
+
+--------------------------------------------------------------------------------
+
+[2022-12-11T10:30:38] Jrk Bgrt (message 8311)
+Reply to message: 8310
+.... That is very specific
+
+--------------------------------------------------------------------------------
+
+[2022-12-11T10:32:40] barrystyle (message 8312)
+i googled a phrase which would be assumed to be part of a hint.. is about as vague as one can get given the pure amount of possibilities..
+
+--------------------------------------------------------------------------------
+
+[2022-12-11T10:32:46] barrystyle (message 8313)
+unless you've an awful tell
+
+--------------------------------------------------------------------------------
+
+[2022-12-11T10:32:47] barrystyle (message 8314)
+LOL
+
+--------------------------------------------------------------------------------
+
+[2022-12-11T10:33:20] Jrk Bgrt (message 8315)
+If the puzzle is solved you'll see how scary specific that is 😂
+
+--------------------------------------------------------------------------------
+
+[2022-12-11T10:33:34] barrystyle (message 8316)
+ahaha youre awful
+
+--------------------------------------------------------------------------------
+
+[2022-12-11T10:33:58] barrystyle (message 8317)
+thats like when cops say, 'if you havent done anything wrong, you have nothing to worry about'... then retracing your entire life
+
+--------------------------------------------------------------------------------
+
+[2022-12-11T10:57:58] barrystyle (message 8318)
+ah, -nopad suppresses any errors.. what a moment i just had
+
+--------------------------------------------------------------------------------
+
+[2022-12-12T12:10:14] nieods (message 8319)
+did you get through @barrystyle ?
+
+--------------------------------------------------------------------------------
+
+[2022-12-25T17:05:40] 0xColombo (message 8320)
+Reply to message: 8311
+It was inevitable
+
+--------------------------------------------------------------------------------
+
+[2022-12-25T22:10:20] barrystyle (message 8321)
+no closer..

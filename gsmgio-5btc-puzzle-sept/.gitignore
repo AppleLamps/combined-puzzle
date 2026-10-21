@@ -1,0 +1,8 @@
+# OS clutter
+Thumbs.db
+desktop.ini
+
+# scratch files produced by following the openssl steps (the shipped copies live in ciphertexts/)
+/phase2.txt
+/phase3.txt
+/phase3.2.txt

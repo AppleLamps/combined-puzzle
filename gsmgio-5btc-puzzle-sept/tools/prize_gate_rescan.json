@@ -1,0 +1,168 @@
+{
+ "backend": "coincurve",
+ "binary_files": 1,
+ "bytes_scanned": 46168830,
+ "candidates_by_kind": {
+  "b64": 27,
+  "b64blob/hex64": 4,
+  "b64blob/raw32": 13504,
+  "dec": 12,
+  "derived_sha256": 28,
+  "derived_sha256_stripped": 20,
+  "hex64": 16770,
+  "hexblob/wif_uncompressed": 1,
+  "mini": 2,
+  "raw32": 2391,
+  "wif_compressed": 8,
+  "wif_uncompressed": 9
+ },
+ "candidates_per_file": {
+  ".gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "README.md": {
+   "b64": 2,
+   "b64blob/raw32": 1151,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 167
+  },
+  "assets/pages/choice-is-an-illusion/choice-is-an-illusion.html": {
+   "b64": 1,
+   "b64blob/raw32": 1683,
+   "derived_sha256": 1
+  },
+  "assets/pages/salphaseion-cosmic-duality/salphaseion-cosmic-duality.html": {
+   "b64blob/raw32": 476,
+   "derived_sha256": 1
+  },
+  "assets/pages/theseedisplanted/theseedisplanted.html": {
+   "derived_sha256": 1
+  },
+  "ciphertexts/README.md": {
+   "derived_sha256": 1
+  },
+  "ciphertexts/cosmic-duality.txt": {
+   "b64blob/raw32": 837,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ciphertexts/phase2.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ciphertexts/phase3.2-revealed-blob.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ciphertexts/phase3.2.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ciphertexts/phase3.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "ciphertexts/plaintext/phase2.txt": {
+   "derived_sha256": 1
+  },
+  "ciphertexts/plaintext/phase3.2.txt": {
+   "derived_sha256": 1,
+   "raw32": 2391
+  },
+  "ciphertexts/plaintext/phase3.txt": {
+   "derived_sha256": 1
+  },
+  "ciphertexts/salphaseion.txt": {
+   "b64blob/raw32": 34,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/by-year/2019.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/by-year/2020.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/by-year/2021.txt": {
+   "b64blob/raw32": 6,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/by-year/2022.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/by-year/2023.txt": {
+   "b64blob/raw32": 202,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/by-year/2024.txt": {
+   "b64": 1,
+   "b64blob/raw32": 322,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/by-year/2025.txt": {
+   "b64": 1,
+   "b64blob/raw32": 1943,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/by-year/2026.txt": {
+   "b64blob/raw32": 1212,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "wif_uncompressed": 1
+  },
+  "telegram-export-gsmg-group/extracts/jrk-messages.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/extracts/jrk-name-matches-other-account.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram-export-gsmg-group/result.json": {
+   "b64": 22,
+   "b64blob/hex64": 4,
+   "b64blob/raw32": 5638,
+   "dec": 11,
+   "derived_sha256": 1,
+   "hex64": 16603,
+   "hexblob/wif_uncompressed": 1,
+   "mini": 2,
+   "wif_compressed": 8,
+   "wif_uncompressed": 8
+  },
+  "tools/prize_gate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  }
+ },
+ "files_scanned": 28,
+ "hits": [],
+ "media_or_archive_skipped_by_extension": {
+  ".jpg": 1,
+  ".png": 14
+ },
+ "other_skips": [],
+ "prize_gate_sha256": "9dfa1d2fb4769d57997fc9b438f1bb566ddd7b604bdefd7cd745745ff14594b3",
+ "prize_gate_version": "1.0.1",
+ "seconds": 5.5,
+ "selftest": "PASS",
+ "targets": {
+  "better_half": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "half": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe"
+ },
+ "unique_scalars_gated": 32776
+}
