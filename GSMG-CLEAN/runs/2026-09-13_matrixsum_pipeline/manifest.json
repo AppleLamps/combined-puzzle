@@ -1,0 +1,40 @@
+{
+ "version": "v2 (distinct-pair word score; letter families unchanged from v1)",
+ "v1_script_sha256": "2d51146b96fad902b5e320ee4136c7541f06f266964c2d0afdd0aea9bdf82116",
+ "script_sha256": "76b11ac5a455e01c2f11bc1247780d7283f310720018597cf4444310be0d1dd5",
+ "inputs": {
+  "poster": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+  "dbbi": "ec374000d5f070de550469ae0f24b414dbb2673f9f41aa498ae00d8f97355565",
+  "faed": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35",
+  "arch_letters": "a365cc7907f509d3933f09b959c21bcd2771743e5c2c31808f49b674fa5b011a",
+  "arch_readable": "9c9f628ce1d5142ff499c842d634b847f8fae48086cf672ee650d08752993ef5",
+  "leads": "5842fd44c33ccd27c8157072e2c141c9cc746d3967dc469fa16437845b49f1af",
+  "sm_transcript": "b99b46cdf27e4597846b85160b369df83f0c0d6ae50f4b691186c8d69d479381",
+  "looking_forward": "9865135c4f269c6379bf7bdc89b0bd30b485f29b1193a7d01506b46c7ca3d23f"
+ },
+ "n_matrices": 69,
+ "n_sum_lists": 552,
+ "n_real_outputs": 4677,
+ "decode_families": [
+  "a1z26",
+  "mod26a0",
+  "mod26a1",
+  "ascii",
+  "parity8",
+  "decimal_bytes",
+  "arch_idx0",
+  "arch_idx1",
+  "sm_idx0",
+  "sm_idx1",
+  "puzzle_word_idx1",
+  "sm_word_idx1"
+ ],
+ "n_controls": 400,
+ "control_seed": "1_000_003 + i",
+ "control_model": "poster 196 cell classes permuted (census kept; colour order and positions follow), DBBI letters permuted, FAED letters permuted, L2 values permuted; target texts fixed",
+ "statistic": "per decode family: max score over all outputs; letter families score = max segmentation sum (len-2)^2 over vocab words; word families = adjacent pairs in Looking Forward bigrams",
+ "decision_rule": "a family is SIGNAL only if its real max exceeds the max of ALL 400 controls (p <= 1/401 < 0.05/12 Bonferroni) AND its planted control also passes; otherwise null",
+ "vocab_size": 3868,
+ "bigram_count": 37201,
+ "also": "every real output (8 text forms) -> L5 gate (4 views x 3 orientations) and 3 envelopes x 4 profiles"
+}

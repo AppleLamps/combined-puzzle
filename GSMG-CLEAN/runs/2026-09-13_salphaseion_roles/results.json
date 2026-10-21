@@ -1,0 +1,137 @@
+{
+  "counts": {
+    "trials": 123456,
+    "retained": 518
+  },
+  "profiles": {
+    "gsmg": {
+      "trials": 30864,
+      "pad1": 120
+    },
+    "raw": {
+      "trials": 30864,
+      "pad1": 130
+    },
+    "gsmg-md5": {
+      "trials": 30864,
+      "pad1": 143
+    },
+    "raw-md5": {
+      "trials": 30864,
+      "pad1": 125
+    }
+  },
+  "structural_matches": [],
+  "l5_matches": [],
+  "format_or_key_or_pad3plus_findings": [
+    {
+      "source": {
+        "candidate": "d7229c0f5816376ba7f9cd76d58ada9f62d403706e9f02d5797efb554f03ac4eciaobellao",
+        "provenance": [
+          {
+            "family": "composite",
+            "A": "L1_yellow_blue_totals/commas",
+            "B": "P5_farewell/connected",
+            "construction": "hashA+B",
+            "separator": ""
+          }
+        ],
+        "profile": "raw-md5",
+        "envelope": "terminal_phase3_2_end",
+        "pad": 1,
+        "plaintext_hex": "5885e72d15f4012f665093bc4c6d7ba993d0352997770ff9b09b108b07e6e5c2434daca48dafc627762f2cf389fba8dd84945c8c11d479eb6dd78ceb06b2f79af05e614ea39ec2b7612269d29cc086",
+        "status": "UNRESOLVED_RETAINED"
+      },
+      "inspection": {
+        "nodes": [
+          {
+            "path": "raw",
+            "length": 79,
+            "plaintext_hex": "5885e72d15f4012f665093bc4c6d7ba993d0352997770ff9b09b108b07e6e5c2434daca48dafc627762f2cf389fba8dd84945c8c11d479eb6dd78ceb06b2f79af05e614ea39ec2b7612269d29cc086",
+            "signals": [
+              "zlib: invalid"
+            ],
+            "key_matches": []
+          }
+        ],
+        "limits": [],
+        "key_check_enabled": true,
+        "assessment": "UNRESOLVED_RETAINED",
+        "interpretation": "Unrecognized formatting is not evidence of unimportance or an incorrect password."
+      }
+    },
+    {
+      "source": {
+        "candidate": "03f4e7ed3e928d1c7257461446cdd888c15bd38a10c737974f49341e75767f24eda809dfaab6d50e9085480d29fa0cb50c68769ded1b4ff1331197e4befcf35c",
+        "provenance": [
+          {
+            "family": "composite",
+            "A": "FAED_30x19_cols/spaces",
+            "B": "P5_final_sentence/exact",
+            "construction": "hashA+hashB",
+            "separator": ""
+          }
+        ],
+        "profile": "gsmg-md5",
+        "envelope": "salphaseion_short",
+        "pad": 1,
+        "plaintext_hex": "38cb833738259169ea73b37b920dc30541fd95ac3c8ff358946306ac8b4ac81f336032fc5044232c136e5425914ef2b1c9d9abdce0ee000896478ec26dc01b1f398452c40c13e364ce974e500d452d",
+        "status": "UNRESOLVED_RETAINED"
+      },
+      "inspection": {
+        "nodes": [
+          {
+            "path": "raw",
+            "length": 79,
+            "plaintext_hex": "38cb833738259169ea73b37b920dc30541fd95ac3c8ff358946306ac8b4ac81f336032fc5044232c136e5425914ef2b1c9d9abdce0ee000896478ec26dc01b1f398452c40c13e364ce974e500d452d",
+            "signals": [
+              "zlib: invalid"
+            ],
+            "key_matches": []
+          }
+        ],
+        "limits": [],
+        "key_check_enabled": true,
+        "assessment": "UNRESOLVED_RETAINED",
+        "interpretation": "Unrecognized formatting is not evidence of unimportance or an incorrect password."
+      }
+    },
+    {
+      "source": {
+        "candidate": "haohaohgcfgeiffh663b223e1c4a5dd21c6f1ae191819aafb21e94a3f7e984c59d88cbf2666460ba",
+        "provenance": [
+          {
+            "family": "composite",
+            "A": "poster_cols/page_digits",
+            "B": "P2_before_choice_sentence/connected",
+            "construction": "A+hashB",
+            "separator": ""
+          }
+        ],
+        "profile": "gsmg-md5",
+        "envelope": "terminal_phase3_2_end",
+        "pad": 1,
+        "plaintext_hex": "08f69fdb831de867c67dc558c833c20b1c79fca1adfa56598e4a77e09292d162212da06fbc4027cc3117b36be7eae8dd2f33e84ef076f17f1cce3c5378c6b25d6538d60fafedba7b5d5664150e4fde",
+        "status": "UNRESOLVED_RETAINED"
+      },
+      "inspection": {
+        "nodes": [
+          {
+            "path": "raw",
+            "length": 79,
+            "plaintext_hex": "08f69fdb831de867c67dc558c833c20b1c79fca1adfa56598e4a77e09292d162212da06fbc4027cc3117b36be7eae8dd2f33e84ef076f17f1cce3c5378c6b25d6538d60fafedba7b5d5664150e4fde",
+            "signals": [
+              "zlib: invalid"
+            ],
+            "key_matches": []
+          }
+        ],
+        "limits": [],
+        "key_check_enabled": true,
+        "assessment": "UNRESOLVED_RETAINED",
+        "interpretation": "Unrecognized formatting is not evidence of unimportance or an incorrect password."
+      }
+    }
+  ],
+  "conclusion": "Every padding-valid result retained; no negative inferred solely from lack of format signals."
+}

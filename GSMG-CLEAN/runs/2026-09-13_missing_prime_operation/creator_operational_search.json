@@ -1,0 +1,698 @@
+[
+  {
+    "id": 550,
+    "type": "message",
+    "date": "2019-04-29T18:35:29",
+    "date_unixtime": "1556577329",
+    "edited": "2025-04-30T18:50:04",
+    "edited_unixtime": "1746053404",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "I personally don't mind you talkinig in another language in  this chat tbh although I do prefer english to be the standard language as I assume most of us will be able to follow the conversations. The main chat of GSMG is english only.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I personally don't mind you talkinig in another language in  this chat tbh although I do prefer english to be the standard language as I assume most of us will be able to follow the conversations. The main chat of GSMG is english only."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udc4d",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-04-30T18:50:04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1710,
+    "type": "message",
+    "date": "2020-01-14T05:38:06",
+    "date_unixtime": "1578998286",
+    "edited": "2024-04-24T02:58:18",
+    "edited_unixtime": "1713941898",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 4,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Johnny Goodpick",
+            "from_id": "user1438862237",
+            "date": "2026-08-28T04:16:13"
+          },
+          {
+            "from": "Amin SM",
+            "from_id": "user198112358",
+            "date": "2025-02-22T12:13:07"
+          },
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-01-31T12:18:55"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1729,
+    "type": "message",
+    "date": "2020-01-27T11:00:04",
+    "date_unixtime": "1580140804",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Would be nice, not required",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Would be nice, not required"
+      }
+    ]
+  },
+  {
+    "id": 1895,
+    "type": "message",
+    "date": "2020-02-25T07:45:53",
+    "date_unixtime": "1582634753",
+    "edited": "2025-09-26T20:03:01",
+    "edited_unixtime": "1758931381",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 1888,
+    "text": "Not sponsored, just see it as a side quest",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Not sponsored, just see it as a side quest"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-26T20:03:01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2011,
+    "type": "message",
+    "date": "2020-02-25T13:07:05",
+    "date_unixtime": "1582654025",
+    "edited": "2020-02-25T13:07:42",
+    "edited_unixtime": "1582654062",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "FA please soften the communication. I like enthusiasm, but don't bring down the vibe. A lot of very smart people have been on this puzzle and put in a lot more effort than 1 can do in a month. Some puzzlers amazed me by being so incredibly fast in some stages.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "FA please soften the communication. I like enthusiasm, but don't bring down the vibe. A lot of very smart people have been on this puzzle and put in a lot more effort than 1 can do in a month. Some puzzlers amazed me by being so incredibly fast in some stages."
+      }
+    ]
+  },
+  {
+    "id": 2023,
+    "type": "message",
+    "date": "2020-02-25T13:10:30",
+    "date_unixtime": "1582654230",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 2021,
+    "text": "I'd dive in the puzzle from the beginning before making assumptions",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I'd dive in the puzzle from the beginning before making assumptions"
+      }
+    ]
+  },
+  {
+    "id": 4105,
+    "type": "message",
+    "date": "2020-05-21T02:12:59",
+    "date_unixtime": "1590041579",
+    "edited": "2025-12-23T16:20:03",
+    "edited_unixtime": "1766524803",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "First or zero",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "First or zero"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Artem",
+            "from_id": "user904501770",
+            "date": "2025-12-23T16:20:03"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude01",
+        "recent": [
+          {
+            "from": "Dasharo",
+            "from_id": "user8574453747",
+            "date": "2026-01-09T16:30:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6250,
+    "type": "message",
+    "date": "2021-03-05T08:15:26",
+    "date_unixtime": "1614950126",
+    "edited": "2025-09-08T18:16:30",
+    "edited_unixtime": "1757369790",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Infrared",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Infrared"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-08T18:16:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6497,
+    "type": "message",
+    "date": "2021-03-14T05:45:01",
+    "date_unixtime": "1615715101",
+    "edited": "2025-06-26T04:42:30",
+    "edited_unixtime": "1750927350",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 6496,
+    "text": "I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solved not too long after that. When people progress in salphation it might be cracked pretty soon. Breaking salphation, should be giving the feeling of the phase's name. Won't be easy but I've noticed how clever most of you are so I assume it will be cracked at some point, probably before next halving.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solved not too long after that. When people progress in salphation it might be cracked pretty soon. Breaking salphation, should be giving the feeling of the phase's name. Won't be easy but I've noticed how clever most of you are so I assume it will be cracked at some point, probably before next halving."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Cryptono",
+            "from_id": "user7107313094",
+            "date": "2025-06-26T04:42:30"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-02T19:21:58"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6895,
+    "type": "message",
+    "date": "2021-04-01T04:34:22",
+    "date_unixtime": "1617266062",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 6891,
+    "text": "Good one V ;-). (Assuming you played cyberpunk).",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Good one V ;-). (Assuming you played cyberpunk)."
+      }
+    ]
+  },
+  {
+    "id": 8000,
+    "type": "message",
+    "date": "2021-12-26T15:18:32",
+    "date_unixtime": "1640549912",
+    "edited": "2026-02-15T19:29:51",
+    "edited_unixtime": "1771201791",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! \ud83e\udd42",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! \ud83e\udd42"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Sanad",
+            "from_id": "user8538024691",
+            "date": "2026-06-11T19:10:06"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udd25",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2026-02-15T19:29:51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8608,
+    "type": "message",
+    "date": "2023-06-12T08:31:49",
+    "date_unixtime": "1686573109",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 8607,
+    "text": "Physically, I assume not \ud83d\ude05.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Physically, I assume not \ud83d\ude05."
+      }
+    ]
+  },
+  {
+    "id": 9597,
+    "type": "message",
+    "date": "2023-08-06T08:11:19",
+    "date_unixtime": "1691323879",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Hahaha good one. I thought of a 24h Killswitch, but nah. Can't be bothered :D! Instead.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Hahaha good one. I thought of a 24h Killswitch, but nah. Can't be bothered :D! Instead."
+      }
+    ]
+  },
+  {
+    "id": 9621,
+    "type": "message",
+    "date": "2023-08-06T08:43:54",
+    "date_unixtime": "1691325834",
+    "edited": "2025-01-23T09:22:08",
+    "edited_unixtime": "1737642128",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 9616,
+    "text": "To answer your question 'fully', from here on, high likely no hints anymore. But if somehow you all can't solve it from here in the next few years (which I deem unlikely given the state of the solving process), then I might feel the need to give an additional hint, as I couldn't happily live with the idea that some would think that this was a scam. Note, that I hope not to have to give another hint as it would probably be a give away. Good luck to you all!",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "To answer your question 'fully', from here on, high likely no hints anymore. But if somehow you all can't solve it from here in the next few years (which I deem unlikely given the state of the solving process), then I might feel the need to give an additional hint, as I couldn't happily live with the idea that some would think that this was a scam. Note, that I hope not to have to give another hint as it would probably be a give away. Good luck to you all!"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udc4d",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-01-23T09:22:08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16624,
+    "type": "message",
+    "date": "2023-11-24T09:05:13",
+    "date_unixtime": "1700834713",
+    "edited": "2023-11-24T09:10:05",
+    "edited_unixtime": "1700835005",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "There's a question multiple people have asked me. \"Given the available knowledge, is internet still required to solve it?\"\n\nNope",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "There's a question multiple people have asked me. \"Given the available knowledge, is internet still required to solve it?\"\n\nNope"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 4,
+        "emoji": "\ud83d\udc4d",
+        "recent": [
+          {
+            "from": "Alex",
+            "from_id": "user276916583",
+            "date": "2025-10-16T08:54:13"
+          },
+          {
+            "from": null,
+            "from_id": "user5939972373",
+            "date": "2023-11-25T07:49:36"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Fielding",
+            "from_id": "user1742854023",
+            "date": "2025-02-01T09:44:45"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23159,
+    "type": "message",
+    "date": "2024-03-26T13:05:05",
+    "date_unixtime": "1711472705",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 23155,
+    "text": "I prefer superpositions \ud83d\ude09.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I prefer superpositions \ud83d\ude09."
+      }
+    ]
+  },
+  {
+    "id": 24627,
+    "type": "message",
+    "date": "2024-04-19T20:15:48",
+    "date_unixtime": "1713572148",
+    "edited": "2024-04-19T20:16:51",
+    "edited_unixtime": "1713572211",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "For those that still haven't solved the puzzle. There are few prizes to win besides the banter in this chat. A private key, some 'obscure' intel, or what I hope most of you have discovered by now, the most obvious reason to make sure you hold on to Bitcoin \ud83d\ude09.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "For those that still haven't solved the puzzle. There are few prizes to win besides the banter in this chat. A private key, some 'obscure' intel, or what I hope most of you have discovered by now, the most obvious reason to make sure you hold on to Bitcoin \ud83d\ude09."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 5,
+        "emoji": "\ud83d\ude4f",
+        "recent": [
+          {
+            "from": "Igor",
+            "from_id": "user168650204",
+            "date": "2024-07-09T14:48:48"
+          },
+          {
+            "from": null,
+            "from_id": "user392599555",
+            "date": "2024-04-24T07:22:21"
+          },
+          {
+            "from": "MRG",
+            "from_id": "user64596639",
+            "date": "2024-04-20T06:48:58"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32590,
+    "type": "message",
+    "date": "2024-11-29T05:39:33",
+    "date_unixtime": "1732876773",
+    "edited": "2024-11-29T05:39:50",
+    "edited_unixtime": "1732876790",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Oh, and before I forget, apologies for not answering any DMs, don't take it personal.\n\nI mainly got tired of answering with either 'no hints', or listening to sad stories about family, or kids with severe health problems, hoping to obtain a hint, all day every day.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Oh, and before I forget, apologies for not answering any DMs, don't take it personal.\n\nI mainly got tired of answering with either 'no hints', or listening to sad stories about family, or kids with severe health problems, hoping to obtain a hint, all day every day."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 6,
+        "emoji": "\ud83d\udc4d",
+        "recent": [
+          {
+            "from": "Oleksandr",
+            "from_id": "user7221083800",
+            "date": "2026-02-13T15:19:38"
+          },
+          {
+            "from": "Noreaster",
+            "from_id": "user504591034",
+            "date": "2024-11-29T09:08:00"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 4,
+        "emoji": "\ud83d\ude01",
+        "recent": [
+          {
+            "from": "Barend",
+            "from_id": "user12919314",
+            "date": "2024-11-29T10:39:13"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude22"
+      }
+    ]
+  },
+  {
+    "id": 32715,
+    "type": "message",
+    "date": "2024-11-29T06:32:02",
+    "date_unixtime": "1732879922",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Blueprint is sort of the leading list at this point.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Blueprint is sort of the leading list at this point."
+      }
+    ]
+  },
+  {
+    "id": 66559,
+    "type": "message",
+    "date": "2026-07-12T20:34:41",
+    "date_unixtime": "1783902881",
+    "edited": "2026-07-16T16:32:02",
+    "edited_unixtime": "1784233922",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 66557,
+    "text": "Well this nearly perfectly phrases it. Yes, I was busy with gsmg and quite obviously linked it too it, but I was in a crazy mood and honestly I still don't know how I got this weird idea to make a puzzle. The rickroll effect inspired me to make an actual puzzle, just to see if I could. It wasn\u2019t a PR stunt until I realized it after I published it. The others didnt fully understand/agree for what I remember.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Well this nearly perfectly phrases it. Yes, I was busy with gsmg and quite obviously linked it too it, but I was in a crazy mood and honestly I still don't know how I got this weird idea to make a puzzle. The rickroll effect inspired me to make an actual puzzle, just to see if I could. It wasn\u2019t a PR stunt until I realized it after I published it. The others didnt fully understand/agree for what I remember."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udd25",
+        "recent": [
+          {
+            "from": "Mike",
+            "from_id": "user8580723420",
+            "date": "2026-07-26T17:09:46"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66581,
+    "type": "message",
+    "date": "2026-07-12T20:53:46",
+    "date_unixtime": "1783904026",
+    "edited": "2026-07-13T19:02:05",
+    "edited_unixtime": "1783983725",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Beer, red wine and champagne.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Beer, red wine and champagne."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udc4d",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2026-07-13T19:02:05"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude01",
+        "recent": [
+          {
+            "from": "3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679",
+            "from_id": "user7895551210",
+            "date": "2026-07-16T17:19:39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66592,
+    "type": "message",
+    "date": "2026-07-12T21:08:52",
+    "date_unixtime": "1783904932",
+    "edited": "2026-07-13T02:19:06",
+    "edited_unixtime": "1783923546",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 66556,
+    "text": "Oh... and before I fall asleep. I want to assume it is quite clear I held quite a secret in my head which I seriously wanted to share with the planet... for those who can understand what I meant...",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Oh... and before I fall asleep. I want to assume it is quite clear I held quite a secret in my head which I seriously wanted to share with the planet... for those who can understand what I meant..."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udd25",
+        "recent": [
+          {
+            "from": "Sell The Dip",
+            "from_id": "user928105459",
+            "date": "2026-07-21T13:39:10"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude01",
+        "recent": [
+          {
+            "from": "S | h",
+            "from_id": "user7587647714",
+            "date": "2026-07-13T02:19:06"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83c\udf1a",
+        "recent": [
+          {
+            "from": "Mike",
+            "from_id": "user8580723420",
+            "date": "2026-08-06T01:36:29"
+          }
+        ]
+      }
+    ]
+  }
+]

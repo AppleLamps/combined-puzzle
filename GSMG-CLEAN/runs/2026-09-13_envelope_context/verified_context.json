@@ -1,0 +1,110 @@
+{
+  "known_envelopes": [
+    {
+      "stage": "phase2",
+      "padding": 8,
+      "plaintext_bytes": 648,
+      "plaintext_sha256": "e2f9dd65604a3231f8b3301724e8d713a88fffc4b6c7c4aeeb20f58a582b593a"
+    },
+    {
+      "stage": "phase3",
+      "padding": 6,
+      "plaintext_bytes": 4090,
+      "plaintext_sha256": "c4ad94559a44a927c1032cc0e024515f9510a0806a2d14458dbf4a360af9865f"
+    },
+    {
+      "stage": "phase3.2",
+      "padding": 10,
+      "plaintext_bytes": 2422,
+      "plaintext_sha256": "b82afeb86f9e50848220f9b64b744b821400308aea273a1c949b9d2d0e408a34"
+    }
+  ],
+  "locked_envelopes": {
+    "terminal_phase3_2_end": {
+      "raw_bytes": 96,
+      "ciphertext_bytes": 80,
+      "plaintext_range_pkcs7": [
+        64,
+        79
+      ],
+      "salt": "b45a5e3d827593ca",
+      "sha256": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9"
+    },
+    "salphaseion_short": {
+      "raw_bytes": 96,
+      "ciphertext_bytes": 80,
+      "plaintext_range_pkcs7": [
+        64,
+        79
+      ],
+      "salt": "3ab585348552415d",
+      "sha256": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258"
+    },
+    "cosmic_duality": {
+      "raw_bytes": 1344,
+      "ciphertext_bytes": 1328,
+      "plaintext_range_pkcs7": [
+        1312,
+        1327
+      ],
+      "salt": "2d3f6fe06dc950e6",
+      "sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+    }
+  },
+  "source_labels": {
+    "matrixsumlist": "matrixsumlist",
+    "lastwords": "lastwordsbeforearchichoice",
+    "thispassword": "thispassword",
+    "before_cipher": "shabefourfirsthintisyourlastcommand",
+    "enter": "enter",
+    "after_cipher": "shabefanstoo"
+  },
+  "creator_8446_decoded_exact": "yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisatruegiveawaypromised",
+  "format_lengths": {
+    "raw_scalar": {
+      "plaintext_bytes": 32,
+      "ciphertext_bytes": 48,
+      "fits_short_envelope": false
+    },
+    "uncompressed_wif": {
+      "plaintext_bytes": 51,
+      "ciphertext_bytes": 64,
+      "fits_short_envelope": false
+    },
+    "compressed_wif": {
+      "plaintext_bytes": 52,
+      "ciphertext_bytes": 64,
+      "fits_short_envelope": false
+    },
+    "hex_scalar": {
+      "plaintext_bytes": 64,
+      "ciphertext_bytes": 80,
+      "fits_short_envelope": true
+    },
+    "hex_scalar_lf": {
+      "plaintext_bytes": 65,
+      "ciphertext_bytes": 80,
+      "fits_short_envelope": true
+    },
+    "hex_scalar_crlf": {
+      "plaintext_bytes": 66,
+      "ciphertext_bytes": 80,
+      "fits_short_envelope": true
+    },
+    "two_raw_scalars": {
+      "plaintext_bytes": 64,
+      "ciphertext_bytes": 80,
+      "fits_short_envelope": true
+    },
+    "two_compressed_wifs": {
+      "plaintext_bytes": 104,
+      "ciphertext_bytes": 112,
+      "fits_short_envelope": false
+    },
+    "other_short_envelope_raw": {
+      "plaintext_bytes": 96,
+      "ciphertext_bytes": 112,
+      "fits_short_envelope": false
+    }
+  }
+}

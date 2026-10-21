@@ -1,0 +1,64 @@
+[
+  {
+    "start": 522,
+    "form": "raw_ascii",
+    "byte_length": 48,
+    "hex": "676265696963686965646966626568676263636168686269696269626269626463626168616964686661686969686963"
+  },
+  {
+    "start": 522,
+    "form": "page_decimal_ascii",
+    "byte_length": 48,
+    "hex": "373235393933383935343936323538373233333138383239393239323239323433323138313934383631383939383933"
+  },
+  {
+    "start": 522,
+    "form": "page_decimal_integer",
+    "byte_length": 20,
+    "hex": "7f2ab13337e23a627284d7225e13d1bbc7bbc075",
+    "printable_ascii": false,
+    "strict_decodings": {
+      "utf-16-le": "\u2a7f\u33b1\ue237\u623a\u8472\u22d7\u135e\ubbd1\ubbc7\u75c0",
+      "utf-16-be": "\u7f2a\ub133\u37e2\u3a62\u7284\ud722\u5e13\ud1bb\uc7bb\uc075"
+    }
+  },
+  {
+    "start": 522,
+    "form": "base9_integer",
+    "byte_length": 19,
+    "hex": "c3af369a0d6fbb6fcfb31c726bb4d08438be5e",
+    "printable_ascii": false,
+    "strict_decodings": {}
+  },
+  {
+    "start": 523,
+    "form": "raw_ascii",
+    "byte_length": 47,
+    "hex": "6265696963686965646966626568676263636168686269696269626269626463626168616964686661686969686963"
+  },
+  {
+    "start": 523,
+    "form": "page_decimal_ascii",
+    "byte_length": 47,
+    "hex": "3235393933383935343936323538373233333138383239393239323239323433323138313934383631383939383933"
+  },
+  {
+    "start": 523,
+    "form": "page_decimal_integer",
+    "byte_length": 20,
+    "hex": "048d9b49477fb7e5d602c183eb6651bbc7bbc075",
+    "printable_ascii": false,
+    "strict_decodings": {
+      "utf-16-le": "\u8d04\u499b\u7f47\ue5b7\u02d6\u83c1\u66eb\ubb51\ubbc7\u75c0",
+      "utf-16-be": "\u048d\u9b49\u477f\ub7e5\ud602\uc183\ueb66\u51bb\uc7bb\uc075"
+    }
+  },
+  {
+    "start": 523,
+    "form": "base9_integer",
+    "byte_length": 19,
+    "hex": "0579d94815688d6cf4077613f262a9e2626c08",
+    "printable_ascii": false,
+    "strict_decodings": {}
+  }
+]

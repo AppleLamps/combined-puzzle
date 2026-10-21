@@ -1,0 +1,22 @@
+{
+  "purpose": "Recover a full FAED plaintext when last words serve as a classical cipher key",
+  "source_scope": "All complete-word suffixes of individual Architect/Neo utterances in the saved Scott Manning transcript and the modified puzzle speech; demonstrated key, labels, DBBI, solved seven-part answer",
+  "extra_model": "Prime numbers serialized as decimal digits BEFORE rectangular sums; both complete DBBI parses; signed alternatives explicitly hypothetical",
+  "cipher_families": [
+    "Vigenere",
+    "Beaufort",
+    "variant"
+  ],
+  "moduli": [
+    9,
+    10
+  ],
+  "numeral_views": [
+    "decimal",
+    "base9",
+    "bijective_base9",
+    "selective 0/9 restoration"
+  ],
+  "limits": "This searches source keys, not every key. Whole ASCII including whitespace is the stated success format; arbitrary binary and non-ASCII intermediate formats remain unresolved.",
+  "faed_sha256": "066191b4aafc114fbca7f0d168382f40129c4ff18490375b689741081d5ef3c2"
+}

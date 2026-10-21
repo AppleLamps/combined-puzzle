@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-09-12T05:10:24.023Z",
+  "input": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\decentraland_scene\\bin_game.js",
+  "inputSha256": "d6ced07ecf05426bcc703810dca14c54d9052fe38f28d88fdfb87f9d706728b9",
+  "matchCount": 1,
+  "maps": [
+    {
+      "mapName": "inline_source_map_01.json",
+      "bytes": 5728,
+      "sha256": "1c1866a3525cc23cdf441b0c78188ddfdfe7b0e12942622bff88a9ef9e9cb6ff",
+      "sources": [
+        "../src/game.ts"
+      ],
+      "extractedSources": [
+        {
+          "originalName": "../src/game.ts",
+          "outputName": "01_01_game.ts",
+          "bytes": 2394,
+          "sha256": "5934d256d4c19be302a6d89bed8651f57108a4721b84a05fc5d825be457526b2"
+        }
+      ]
+    }
+  ]
+}

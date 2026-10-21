@@ -1,0 +1,84 @@
+{
+ "date": "2026-09-14",
+ "spec": "SPEC.md",
+ "controls_passed": true,
+ "files_scanned": [
+  {
+   "file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_m4_zeroing_oracles\\candidates.jsonl",
+   "sha256": "c89975f99741648761d5e4da8ed38a170dd4a40f48747d4d5ff3495236b6d752",
+   "rows": 476,
+   "unique_scalars": 3053,
+   "n_hits": 0
+  },
+  {
+   "file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_pointer_selectors\\candidates.jsonl",
+   "sha256": "88f3c29482dd241b292dfd3fc9dcd067614cc47f6999544edb4474f514d1657d",
+   "rows": 2119,
+   "unique_scalars": 13832,
+   "n_hits": 0
+  },
+  {
+   "file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_board_shape_sums\\all_outputs.jsonl",
+   "sha256": "478c32325754811199bf103327fb69761a2c8970063b4b7d7254394d4ed7fb48",
+   "rows": 744,
+   "unique_scalars": 7466,
+   "n_hits": 0
+  },
+  {
+   "file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_colour_selectors\\all_outputs.jsonl",
+   "sha256": "6a129fb1db499ebcd58e1278ff55830c62d92868e395bed027838b2316481b63",
+   "rows": 142,
+   "unique_scalars": 1440,
+   "n_hits": 0
+  },
+  {
+   "file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_keyed_faed\\all_outputs.jsonl",
+   "sha256": "3072d8319dda0bc0cd90bbf2e54e3e5129d5dcfdb5fc39589b11772105a005a4",
+   "rows": 93,
+   "unique_scalars": 96522,
+   "n_hits": 0
+  },
+  {
+   "file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_tail_cipher\\all_outputs.jsonl",
+   "sha256": "6551d5bf679325c0f5b1458ab56dc2ac38e6405bc70462a01ee196c1471526b9",
+   "rows": 181,
+   "unique_scalars": 13074,
+   "n_hits": 0
+  },
+  {
+   "file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_matrixsum_lastwords\\all_outputs.jsonl",
+   "sha256": "119d13e97589f8035106ac19279b84de61748ee61e881d6772cc38f9f5a46f93",
+   "rows": 34860,
+   "unique_scalars": 341525,
+   "n_hits": 0
+  }
+ ],
+ "total_rows": 38615,
+ "total_unique_scalars": 476912,
+ "total_hits": 0,
+ "hits": [],
+ "targets_hash160": {
+  "4efb42b89b4c8f081ead5b3aca26f5938847d0bd": "marker 18Cchrj (sha256 of 149 digits)",
+  "64ffbec5bbdf453699c81d621d852169b4fac8c5": "marker 1AD2wf (sha256 of phase-1 answer)",
+  "190403becbbc7bb057d7ad2e1d42c5728bb6b3f9": "marker 13HGhjk (bit-reversed URL integer)",
+  "a9553269572a317e39f0f518cb87c1a0ee1dbae4": "PRIZE Half",
+  "4bc468447fe1b048ad030a2f9a125478eabc4ed6": "PRIZE Better Half"
+ },
+ "prefix_target": "1GyT5W",
+ "derivations": [
+  "sha256",
+  "sha256d",
+  "sha3_256",
+  "sha256_of_hexdigest",
+  "sha256_lower",
+  "raw_decimal",
+  "raw32_be/le",
+  "hex64_int",
+  "sha256_of_hexbytes",
+  "overlapping 32-byte windows be/le"
+ ],
+ "seconds": 147.6,
+ "aes_decryptions": 0,
+ "envelope_bytes_read": 0,
+ "code_sha256": "9b07838591f54f5635a6f5958685b982e3e5186503cfbb2fe3ccc65aa0258351"
+}

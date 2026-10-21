@@ -1,0 +1,14 @@
+{
+  "input_sha256": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35",
+  "samples": 1000,
+  "seed": 913263,
+  "families": [
+    "maximum equality at lags 1..60",
+    "maximum residue-class IC for periods 2..60",
+    "adjacent-symbol mutual information",
+    "maximum symbol-frequency split with >=40 symbols each side"
+  ],
+  "null": "Uniform permutation of original characters, preserving all nine symbol counts",
+  "decision": "Empirical p=(1+controls>=observed)/(1001); four-family Bonferroni threshold .0125",
+  "limitation": "Null results do not exclude encryption or long periods; positive results do not identify a cipher"
+}

@@ -1,0 +1,4634 @@
+[
+  {
+    "width": 1,
+    "height": 60,
+    "axis": "rows/forward",
+    "values": [
+      4,
+      9,
+      6,
+      8,
+      3,
+      3,
+      7,
+      9,
+      8,
+      1,
+      5,
+      5,
+      9,
+      8,
+      7,
+      7,
+      5,
+      7,
+      5,
+      2,
+      7,
+      5,
+      8,
+      8,
+      5,
+      8,
+      8,
+      6,
+      1,
+      6,
+      4,
+      8,
+      6,
+      6,
+      3,
+      4,
+      2,
+      6,
+      3,
+      3,
+      3,
+      7,
+      6,
+      5,
+      7,
+      7,
+      5,
+      3,
+      4,
+      3,
+      9,
+      6,
+      6,
+      6,
+      7,
+      9,
+      7,
+      5,
+      5,
+      1
+    ],
+    "decimal": "496833798155987757527588588616486634263337657753439666797551",
+    "text_views": {
+      "mod26_A0": "ejgiddhjibffjihhfhfchfiifiigbgeiggdecgdddhgfhhfdedjggghjhffb",
+      "mod26_A1": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea"
+    },
+    "integer_view": {
+      "digits": "496833798155987757527588588616486634263337657753439666797551",
+      "base": 10,
+      "byte_length": 25,
+      "hex": "4f2672e27e0d78d5a3f30ee8f82e316eeff67ee50ef4257bef",
+      "strict_decodings": {
+        "cp037": "|\u0017\u00caS=\r\u00ccNt3\u000eY8\u0006\u0091>\u00d56=V\u000e4\n#\u00d5",
+        "cp273": "!\u0017\u00caS=\r\u00ccNt3\u000eY8\u0006\u0091>\u00d56=V\u000e4\n#\u00d5"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 1,
+    "height": 60,
+    "axis": "rows/reverse",
+    "values": [
+      1,
+      5,
+      5,
+      7,
+      9,
+      7,
+      6,
+      6,
+      6,
+      9,
+      3,
+      4,
+      3,
+      5,
+      7,
+      7,
+      5,
+      6,
+      7,
+      3,
+      3,
+      3,
+      6,
+      2,
+      4,
+      3,
+      6,
+      6,
+      8,
+      4,
+      6,
+      1,
+      6,
+      8,
+      8,
+      5,
+      8,
+      8,
+      5,
+      7,
+      2,
+      5,
+      7,
+      5,
+      7,
+      7,
+      8,
+      9,
+      5,
+      5,
+      1,
+      8,
+      9,
+      7,
+      3,
+      3,
+      8,
+      6,
+      9,
+      4
+    ],
+    "decimal": "155797666934357756733362436684616885885725757789551897338694",
+    "text_views": {
+      "mod26_A0": "bffhjhgggjdedfhhfghdddgcedggiegbgiifiifhcfhfhhijffbijhddigje",
+      "mod26_A1": "aeegigffficdceggefgcccfbdcffhdfafhhehhegbegegghieeahigcchfid"
+    },
+    "integer_view": {
+      "digits": "155797666934357756733362436684616885885725757789551897338694",
+      "base": 10,
+      "byte_length": 25,
+      "hex": "18d1eb8a18cb1b5d87d87d70cb6401394e5c45257fa1abe346",
+      "strict_decodings": {
+        "cp037": "\u0018J\u00d4\u00ab\u0018\u00f4\u008f)gQ'\u00f8\u00f4\u00c0\u0001\u0099+*\u00e1\n\"~\u00bfT\u00e3",
+        "cp273": "\u0018J\u00d4\u00ab\u0018\u00f4\u008f)gQ'\u00f8\u00f4\u00c0\u0001\u0099+*\u00e1\n\"\u00df\u00bfT\u00e3"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 1,
+    "height": 60,
+    "axis": "columns/forward",
+    "values": [
+      336
+    ],
+    "decimal": "336",
+    "text_views": {
+      "mod26_A0": "y",
+      "mod26_A1": "x"
+    },
+    "integer_view": {
+      "digits": "336",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "0150",
+      "strict_decodings": {
+        "ascii": "\u0001P",
+        "utf-8": "\u0001P",
+        "utf-16-le": "\u5001",
+        "utf-16-be": "\u0150",
+        "cp037": "\u0001&",
+        "cp273": "\u0001&"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 1,
+    "height": 60,
+    "axis": "columns/reverse",
+    "values": [
+      336
+    ],
+    "decimal": "336",
+    "text_views": {
+      "mod26_A0": "y",
+      "mod26_A1": "x"
+    },
+    "integer_view": {
+      "digits": "336",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "0150",
+      "strict_decodings": {
+        "ascii": "\u0001P",
+        "utf-8": "\u0001P",
+        "utf-16-le": "\u5001",
+        "utf-16-be": "\u0150",
+        "cp037": "\u0001&",
+        "cp273": "\u0001&"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 1,
+    "height": 60,
+    "axis": "rows_columns/forward",
+    "values": [
+      4,
+      9,
+      6,
+      8,
+      3,
+      3,
+      7,
+      9,
+      8,
+      1,
+      5,
+      5,
+      9,
+      8,
+      7,
+      7,
+      5,
+      7,
+      5,
+      2,
+      7,
+      5,
+      8,
+      8,
+      5,
+      8,
+      8,
+      6,
+      1,
+      6,
+      4,
+      8,
+      6,
+      6,
+      3,
+      4,
+      2,
+      6,
+      3,
+      3,
+      3,
+      7,
+      6,
+      5,
+      7,
+      7,
+      5,
+      3,
+      4,
+      3,
+      9,
+      6,
+      6,
+      6,
+      7,
+      9,
+      7,
+      5,
+      5,
+      1,
+      336
+    ],
+    "decimal": "496833798155987757527588588616486634263337657753439666797551336",
+    "text_views": {
+      "mod26_A0": "ejgiddhjibffjihhfhfchfiifiigbgeiggdecgdddhgfhhfdedjggghjhffby",
+      "mod26_A1": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeeax"
+    },
+    "integer_view": {
+      "digits": "496833798155987757527588588616486634263337657753439666797551336",
+      "base": 10,
+      "byte_length": 27,
+      "hex": "01352e30c4bc64a002886d723e09747119595adfaec269b26c1ee8",
+      "strict_decodings": {
+        "cp037": "\u0001\u0095\u0006\u0090D\u00af\u00c0\u00b5\u0002h_\u00ca\u009e\u008d\u00c8\u00c9\u0019\u00df!\u00ff\u00deB\u00d1\u00a5%\u001eY",
+        "cp273": "\u0001\u0095\u0006\u0090D\u203e\u00c0\u00b5\u0002h_\u00ca\u009e\u008d\u00c8\u00c9\u0019~\u00dc\u00ff\u00deB\u00d1\u00a5%\u001eY"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 1,
+    "height": 60,
+    "axis": "rows_columns/reverse",
+    "values": [
+      336,
+      1,
+      5,
+      5,
+      7,
+      9,
+      7,
+      6,
+      6,
+      6,
+      9,
+      3,
+      4,
+      3,
+      5,
+      7,
+      7,
+      5,
+      6,
+      7,
+      3,
+      3,
+      3,
+      6,
+      2,
+      4,
+      3,
+      6,
+      6,
+      8,
+      4,
+      6,
+      1,
+      6,
+      8,
+      8,
+      5,
+      8,
+      8,
+      5,
+      7,
+      2,
+      5,
+      7,
+      5,
+      7,
+      7,
+      8,
+      9,
+      5,
+      5,
+      1,
+      8,
+      9,
+      7,
+      3,
+      3,
+      8,
+      6,
+      9,
+      4
+    ],
+    "decimal": "336155797666934357756733362436684616885885725757789551897338694",
+    "text_views": {
+      "mod26_A0": "ybffhjhgggjdedfhhfghdddgcedggiegbgiifiifhcfhfhhijffbijhddigje",
+      "mod26_A1": "xaeegigffficdceggefgcccfbdcffhdfafhhehhegbegegghieeahigcchfid"
+    },
+    "integer_view": {
+      "digits": "336155797666934357756733362436684616885885725757789551897338694",
+      "base": 10,
+      "byte_length": 26,
+      "hex": "d130b54d89131815eff289744b4e294f56335c45257fa1abe346",
+      "strict_decodings": {
+        "utf-16-le": "\u30d1\u4db5\u1389\u1518\uf2ef\u7489\u4e4b\u4f29\u3356\u455c\u7f25\uaba1\u46e3",
+        "utf-16-be": "\ud130\ub54d\u8913\u1815\ueff2\u8974\u4b4e\u294f\u5633\u5c45\u257f\ua1ab\ue346",
+        "cp037": "J\u0090\u00a7(i\u0013\u0018\u0085\u00d52i\u00c8.+\u0089|\u00ee\u0093*\u00e1\n\"~\u00bfT\u00e3",
+        "cp273": "J\u0090@(i\u0013\u0018\u0085\u00d52i\u00c8.+\u0089!\u00ee\u0093*\u00e1\n\"\u00df\u00bfT\u00e3"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 1,
+    "height": 60,
+    "axis": "columns_rows/forward",
+    "values": [
+      336,
+      4,
+      9,
+      6,
+      8,
+      3,
+      3,
+      7,
+      9,
+      8,
+      1,
+      5,
+      5,
+      9,
+      8,
+      7,
+      7,
+      5,
+      7,
+      5,
+      2,
+      7,
+      5,
+      8,
+      8,
+      5,
+      8,
+      8,
+      6,
+      1,
+      6,
+      4,
+      8,
+      6,
+      6,
+      3,
+      4,
+      2,
+      6,
+      3,
+      3,
+      3,
+      7,
+      6,
+      5,
+      7,
+      7,
+      5,
+      3,
+      4,
+      3,
+      9,
+      6,
+      6,
+      6,
+      7,
+      9,
+      7,
+      5,
+      5,
+      1
+    ],
+    "decimal": "336496833798155987757527588588616486634263337657753439666797551",
+    "text_views": {
+      "mod26_A0": "yejgiddhjibffjihhfhfchfiifiigbgeiggdecgdddhgfhhfdedjggghjhffb",
+      "mod26_A1": "xdifhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea"
+    },
+    "integer_view": {
+      "digits": "336496833798155987757527588588616486634263337657753439666797551",
+      "base": 10,
+      "byte_length": 26,
+      "hex": "d16709d4e1785a73680ea405c37af37f8bd4f67ee50ef4257bef",
+      "strict_decodings": {
+        "utf-16-le": "\u67d1\ud409\u78e1\u735a\u0e68\u05a4\u7ac3\u7ff3\ud48b\u7ef6\u0ee5\u25f4\uef7b",
+        "utf-16-be": "\ud167\u09d4\ue178\u5a73\u680e\ua405\uc37a\uf37f\u8bd4\uf67e\ue50e\uf425\u7bef",
+        "cp037": "J\u00c5\u008dM\u00f7\u00cc!\u00cb\u00c7\u000eu\tC:3\"\u00bbM6=V\u000e4\n#\u00d5",
+        "cp273": "J\u00c5\u008dM\u00f7\u00cc\u00dc\u00cb\u00c7\u000eu\tC:3\"\u00bbM6=V\u000e4\n#\u00d5"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 1,
+    "height": 60,
+    "axis": "columns_rows/reverse",
+    "values": [
+      1,
+      5,
+      5,
+      7,
+      9,
+      7,
+      6,
+      6,
+      6,
+      9,
+      3,
+      4,
+      3,
+      5,
+      7,
+      7,
+      5,
+      6,
+      7,
+      3,
+      3,
+      3,
+      6,
+      2,
+      4,
+      3,
+      6,
+      6,
+      8,
+      4,
+      6,
+      1,
+      6,
+      8,
+      8,
+      5,
+      8,
+      8,
+      5,
+      7,
+      2,
+      5,
+      7,
+      5,
+      7,
+      7,
+      8,
+      9,
+      5,
+      5,
+      1,
+      8,
+      9,
+      7,
+      3,
+      3,
+      8,
+      6,
+      9,
+      4,
+      336
+    ],
+    "decimal": "155797666934357756733362436684616885885725757789551897338694336",
+    "text_views": {
+      "mod26_A0": "bffhjhgggjdedfhhfghdddgcedggiegbgiifiifhcfhfhhijffbijhddigjey",
+      "mod26_A1": "aeegigffficdceggefgcccfbdcffhdfafhhehhegbegegghieeahigcchfidx"
+    },
+    "integer_view": {
+      "digits": "155797666934357756733362436684616885885725757789551897338694336",
+      "base": 10,
+      "byte_length": 26,
+      "hex": "60f4001370d962e55aa5aa009a7ea4c7da186e1a7a8f876fcac0",
+      "strict_decodings": {
+        "cp037": "-4\u0000\u0013\u00f8R\u00c2V!v\u00a1\u0000\u00aa=uG\u00b9\u0018>\u0092:\u00b1g?\u00ad{",
+        "cp273": "-4\u0000\u0013\u00f8R\u00c2V\u00dcv\u00a1\u0000\u00aa=uG\u00b9\u0018>\u0092:\u00b1g?\u00ad\u00e4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 2,
+    "height": 30,
+    "axis": "rows/forward",
+    "values": [
+      13,
+      14,
+      6,
+      16,
+      9,
+      10,
+      17,
+      14,
+      12,
+      7,
+      12,
+      16,
+      13,
+      14,
+      7,
+      12,
+      12,
+      7,
+      8,
+      6,
+      10,
+      11,
+      14,
+      8,
+      7,
+      15,
+      12,
+      16,
+      12,
+      6
+    ],
+    "decimal": "13146169101714127121613147121278610111487151216126",
+    "text_views": {
+      "mod26_A0": "nogqjkromhmqnohmmhigkloihpmqmg",
+      "mod26_A1": "mnfpijqnlglpmngllghfjknhgolplf"
+    },
+    "integer_view": {
+      "digits": "13146169101714127121613147121278610111487151216126",
+      "base": 10,
+      "byte_length": 21,
+      "hex": "08feb69c410c74b73dbc789ee550ccf9e17c4095fe",
+      "strict_decodings": {
+        "cp037": "\u0097\u00da\u00b6\u00e6\u00a0\f\u00c8\u00bc\u0015\u00af\u00cc\u00c6V&\u00f69\u00f7@ n\u00da",
+        "cp273": "\u0097\u00da\u00b6\u00e6\u00a0\f\u00c8\u00bc\u0015\u203e\u00cc\u00c6V&\u00a69\u00f7\u00a7 n\u00da"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 2,
+    "height": 30,
+    "axis": "rows/reverse",
+    "values": [
+      6,
+      12,
+      16,
+      12,
+      15,
+      7,
+      8,
+      14,
+      11,
+      10,
+      6,
+      8,
+      7,
+      12,
+      12,
+      7,
+      14,
+      13,
+      16,
+      12,
+      7,
+      12,
+      14,
+      17,
+      10,
+      9,
+      16,
+      6,
+      14,
+      13
+    ],
+    "decimal": "61216121578141110687121271413161271214171091661413",
+    "text_views": {
+      "mod26_A0": "gmqmphiolkgihmmhonqmhmorkjqgon",
+      "mod26_A1": "flploghnkjfhgllgnmplglnqjipfnm"
+    },
+    "integer_view": {
+      "digits": "61216121578141110687121271413161271214171091661413",
+      "base": 10,
+      "byte_length": 21,
+      "hex": "29e2c1d43fe355cc8a2f19ee4b41ef9a234afc7265",
+      "strict_decodings": {
+        "cp037": "\u0089SAM\u001aT\u00ed\u00f6\u00ab\u0007\u0019\u00d3.\u00a0\u00d5\u00aa\u0083\u00a2\u00dc\u00ca\u00c1",
+        "cp273": "\u0089SAM\u001aT\u00ed\u00a6\u00ab\u0007\u0019\u00d3.\u00a0\u00d5\u00aa\u0083\u00c4]\u00ca\u00c1"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 2,
+    "height": 30,
+    "axis": "columns/forward",
+    "values": [
+      165,
+      171
+    ],
+    "decimal": "165171",
+    "text_views": {
+      "mod26_A0": "jp",
+      "mod26_A1": "io"
+    },
+    "integer_view": {
+      "digits": "165171",
+      "base": 10,
+      "byte_length": 3,
+      "hex": "028533",
+      "strict_decodings": {
+        "cp037": "\u0002e\u0093",
+        "cp273": "\u0002e\u0093"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 2,
+    "height": 30,
+    "axis": "columns/reverse",
+    "values": [
+      171,
+      165
+    ],
+    "decimal": "171165",
+    "text_views": {
+      "mod26_A0": "pj",
+      "mod26_A1": "oi"
+    },
+    "integer_view": {
+      "digits": "171165",
+      "base": 10,
+      "byte_length": 3,
+      "hex": "029c9d",
+      "strict_decodings": {
+        "cp037": "\u0002\u00e6\u00b8",
+        "cp273": "\u0002\u00e6\u00b8"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 2,
+    "height": 30,
+    "axis": "rows_columns/forward",
+    "values": [
+      13,
+      14,
+      6,
+      16,
+      9,
+      10,
+      17,
+      14,
+      12,
+      7,
+      12,
+      16,
+      13,
+      14,
+      7,
+      12,
+      12,
+      7,
+      8,
+      6,
+      10,
+      11,
+      14,
+      8,
+      7,
+      15,
+      12,
+      16,
+      12,
+      6,
+      165,
+      171
+    ],
+    "decimal": "13146169101714127121613147121278610111487151216126165171",
+    "text_views": {
+      "mod26_A0": "nogqjkromhmqnohmmhigkloihpmqmgjp",
+      "mod26_A1": "mnfpijqnlglpmngllghfjknhgolplfio"
+    },
+    "integer_view": {
+      "digits": "13146169101714127121613147121278610111487151216126165171",
+      "base": 10,
+      "byte_length": 23,
+      "hex": "89409de9bf904ff109c517868e942bafe0e23080b580b3",
+      "strict_decodings": {
+        "cp037": "i \u00b8Z\u00d7\u00b0|1\u008dE\u0087f\u00fem\u008b\u00ae\\S\u0090\u00d8\u00a7\u00d8\u00b7",
+        "cp273": "i \u00b8Z\u00d7\u00b0!1\u008dE\u0087f\u00fem\u008b\u00ae\u00d6S\u0090\u00d8@\u00d8\u00b7"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 2,
+    "height": 30,
+    "axis": "rows_columns/reverse",
+    "values": [
+      171,
+      165,
+      6,
+      12,
+      16,
+      12,
+      15,
+      7,
+      8,
+      14,
+      11,
+      10,
+      6,
+      8,
+      7,
+      12,
+      12,
+      7,
+      14,
+      13,
+      16,
+      12,
+      7,
+      12,
+      14,
+      17,
+      10,
+      9,
+      16,
+      6,
+      14,
+      13
+    ],
+    "decimal": "17116561216121578141110687121271413161271214171091661413",
+    "text_views": {
+      "mod26_A0": "pjgmqmphiolkgihmmhonqmhmorkjqgon",
+      "mod26_A1": "oiflploghnkjfhgllgnmplglnqjipfnm"
+    },
+    "integer_view": {
+      "digits": "17116561216121578141110687121271413161271214171091661413",
+      "base": 10,
+      "byte_length": 23,
+      "hex": "b2b48a7055885236a11049fc91733470439a234afc7265",
+      "strict_decodings": {
+        "cp037": "\u00a5\u00a9\u00ab\u00f8\u00edh\u00ea\u0096~\u0010\u00f1\u00dcj\u00cb\u0094\u00f8\u00e4\u00aa\u0083\u00a2\u00dc\u00ca\u00c1",
+        "cp273": "\u00a5\u00a9\u00ab\u00f8\u00edh\u00ea\u0096\u00df\u0010\u00f1]j\u00cb\u0094\u00f8{\u00aa\u0083\u00c4]\u00ca\u00c1"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 2,
+    "height": 30,
+    "axis": "columns_rows/forward",
+    "values": [
+      165,
+      171,
+      13,
+      14,
+      6,
+      16,
+      9,
+      10,
+      17,
+      14,
+      12,
+      7,
+      12,
+      16,
+      13,
+      14,
+      7,
+      12,
+      12,
+      7,
+      8,
+      6,
+      10,
+      11,
+      14,
+      8,
+      7,
+      15,
+      12,
+      16,
+      12,
+      6
+    ],
+    "decimal": "16517113146169101714127121613147121278610111487151216126",
+    "text_views": {
+      "mod26_A0": "jpnogqjkromhmqnohmmhigkloihpmqmg",
+      "mod26_A1": "iomnfpijqnlglpmngllghfjknhgolplf"
+    },
+    "integer_view": {
+      "digits": "16517113146169101714127121613147121278610111487151216126",
+      "base": 10,
+      "byte_length": 23,
+      "hex": "ac725b6cd9cad58b17ce1be805677567b8f9e17c4095fe",
+      "strict_decodings": {
+        "cp037": "\u00d0\u00ca$%R\u00adN\u00bb\u0087\u00f3\u008fY\t\u00c5\u00cd\u00c5\u00bd9\u00f7@ n\u00da",
+        "cp273": "\u00d0\u00ca$%R\u00adN\u00bb\u0087\u00f3\u008fY\t\u00c5\u00cd\u00c5\u00bd9\u00f7\u00a7 n\u00da"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 2,
+    "height": 30,
+    "axis": "columns_rows/reverse",
+    "values": [
+      6,
+      12,
+      16,
+      12,
+      15,
+      7,
+      8,
+      14,
+      11,
+      10,
+      6,
+      8,
+      7,
+      12,
+      12,
+      7,
+      14,
+      13,
+      16,
+      12,
+      7,
+      12,
+      14,
+      17,
+      10,
+      9,
+      16,
+      6,
+      14,
+      13,
+      171,
+      165
+    ],
+    "decimal": "61216121578141110687121271413161271214171091661413171165",
+    "text_views": {
+      "mod26_A0": "gmqmphiolkgihmmhonqmhmorkjqgonpj",
+      "mod26_A1": "flploghnkjfhgllgnmplglnqjipfnmoi"
+    },
+    "integer_view": {
+      "digits": "61216121578141110687121271413161271214171091661413171165",
+      "base": 10,
+      "byte_length": 24,
+      "hex": "027f204a18ebda9bf04785356c53d6da49b506f288883fdd",
+      "strict_decodings": {
+        "cp037": "\u0002\"\u0080\u00a2\u0018\u00d4\u00b9\u00ba0\u00e5e\u0095%\u00ebO\u00b9\u00f1\u00a7\u00862hh\u001a\u00f9",
+        "cp273": "\u0002\"\u0080\u00c4\u0018\u00d4\u00b9\u00ba0\u00e5e\u0095%\u00ebO\u00b9\u00f1@\u00862hh\u001a\u00f9"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 3,
+    "height": 20,
+    "axis": "rows/forward",
+    "values": [
+      19,
+      14,
+      24,
+      11,
+      24,
+      19,
+      14,
+      21,
+      21,
+      13,
+      18,
+      13,
+      11,
+      13,
+      18,
+      15,
+      16,
+      18,
+      23,
+      11
+    ],
+    "decimal": "1914241124191421211318131113181516182311",
+    "text_views": {
+      "mod26_A0": "toylytovvnsnlnspqsxl",
+      "mod26_A1": "snxkxsnuumrmkmroprwk"
+    },
+    "integer_view": {
+      "digits": "1914241124191421211318131113181516182311",
+      "base": 10,
+      "byte_length": 17,
+      "hex": "05a01d6e20a7a81eeb9de2dbbababcb327",
+      "strict_decodings": {
+        "cp037": "\t\u00b5\u001d>\u0080xy\u001e\u00d4\u00b8S\u00fb[[\u00af\u00b7\u001b",
+        "cp273": "\t\u00b5\u001d>\u0080xy\u001e\u00d4\u00b8S\u00fb\u00ac\u00ac\u203e\u00b7\u001b"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 3,
+    "height": 20,
+    "axis": "rows/reverse",
+    "values": [
+      11,
+      23,
+      18,
+      16,
+      15,
+      18,
+      13,
+      11,
+      13,
+      18,
+      13,
+      21,
+      21,
+      14,
+      19,
+      24,
+      11,
+      24,
+      14,
+      19
+    ],
+    "decimal": "1123181615181311131813212114192411241419",
+    "text_views": {
+      "mod26_A0": "lxsqpsnlnsnvvotylyot",
+      "mod26_A1": "kwrpormkmrmuunsxkxns"
+    },
+    "integer_view": {
+      "digits": "1123181615181311131813212114192411241419",
+      "base": 10,
+      "byte_length": 17,
+      "hex": "034cfce91adf57f3384ac70847d5f1abcb",
+      "strict_decodings": {
+        "cp037": "\u0003<\u00dcZ\u0092\u00ff\u00ef3\u0098\u00a2G\u0097\u00e5N1\u00bf\u00f4",
+        "cp273": "\u0003<]Z\u0092\u00ff\u00ef3\u0098\u00c4G\u0097\u00e5N1\u00bf\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 3,
+    "height": 20,
+    "axis": "columns/forward",
+    "values": [
+      107,
+      111,
+      118
+    ],
+    "decimal": "107111118",
+    "text_views": {
+      "mod26_A0": "dho",
+      "mod26_A1": "cgn",
+      "ASCII": "kov"
+    },
+    "integer_view": {
+      "digits": "107111118",
+      "base": 10,
+      "byte_length": 4,
+      "hex": "066262ce",
+      "strict_decodings": {
+        "utf-16-le": "\u6206\uce62",
+        "utf-16-be": "\u0662\u62ce",
+        "cp037": "\u0086\u00c2\u00c2\u00f3",
+        "cp273": "\u0086\u00c2\u00c2\u00f3"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 3,
+    "height": 20,
+    "axis": "columns/reverse",
+    "values": [
+      118,
+      111,
+      107
+    ],
+    "decimal": "118111107",
+    "text_views": {
+      "mod26_A0": "ohd",
+      "mod26_A1": "ngc",
+      "ASCII": "vok"
+    },
+    "integer_view": {
+      "digits": "118111107",
+      "base": 10,
+      "byte_length": 4,
+      "hex": "070a3b83",
+      "strict_decodings": {
+        "utf-16-le": "\u0a07\u833b",
+        "utf-16-be": "\u070a\u3b83",
+        "cp037": "\u007f\u008e\u009bc",
+        "cp273": "\u007f\u008e\u009bc"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 3,
+    "height": 20,
+    "axis": "rows_columns/forward",
+    "values": [
+      19,
+      14,
+      24,
+      11,
+      24,
+      19,
+      14,
+      21,
+      21,
+      13,
+      18,
+      13,
+      11,
+      13,
+      18,
+      15,
+      16,
+      18,
+      23,
+      11,
+      107,
+      111,
+      118
+    ],
+    "decimal": "1914241124191421211318131113181516182311107111118",
+    "text_views": {
+      "mod26_A0": "toylytovvnsnlnspqsxldho",
+      "mod26_A1": "snxkxsnuumrmkmroprwkcgn"
+    },
+    "integer_view": {
+      "digits": "1914241124191421211318131113181516182311107111118",
+      "base": 10,
+      "byte_length": 21,
+      "hex": "014f4d8a6cff2e5e8d8f862db138bf2a26ae3528ce",
+      "strict_decodings": {
+        "cp037": "\u0001|(\u00ab%\u009f\u0006;\u00fd\u00b1f\u0005\u00a3\u0098\u00d7\u008a\u0017\u00de\u0095\u0088\u00f3",
+        "cp273": "\u0001!(\u00ab%\u009f\u0006;\u00fd\u00b1f\u0005\u00a3\u0098\u00d7\u008a\u0017\u00de\u0095\u0088\u00f3"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 3,
+    "height": 20,
+    "axis": "rows_columns/reverse",
+    "values": [
+      118,
+      111,
+      107,
+      11,
+      23,
+      18,
+      16,
+      15,
+      18,
+      13,
+      11,
+      13,
+      18,
+      13,
+      21,
+      21,
+      14,
+      19,
+      24,
+      11,
+      24,
+      14,
+      19
+    ],
+    "decimal": "1181111071123181615181311131813212114192411241419",
+    "text_views": {
+      "mod26_A0": "ohdlxsqpsnlnsnvvotylyot",
+      "mod26_A1": "ngckwrpormkmrmuunsxkxns"
+    },
+    "integer_view": {
+      "digits": "1181111071123181615181311131813212114192411241419",
+      "base": 10,
+      "byte_length": 20,
+      "hex": "cee2da277f55c61a6e9d9530cab2ab47d5f1abcb",
+      "strict_decodings": {
+        "utf-16-le": "\ue2ce\u27da\u557f\u1ac6\u9d6e\u3095\ub2ca\u47ab\uf1d5\ucbab",
+        "cp037": "\u00f3S\u00b9\u001b\"\u00edF\u0092>\u00b8n\u0090\u00ad\u00a5\u00bf\u00e5N1\u00bf\u00f4",
+        "cp273": "\u00f3S\u00b9\u001b\"\u00edF\u0092>\u00b8n\u0090\u00ad\u00a5\u00bf\u00e5N1\u00bf\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 3,
+    "height": 20,
+    "axis": "columns_rows/forward",
+    "values": [
+      107,
+      111,
+      118,
+      19,
+      14,
+      24,
+      11,
+      24,
+      19,
+      14,
+      21,
+      21,
+      13,
+      18,
+      13,
+      11,
+      13,
+      18,
+      15,
+      16,
+      18,
+      23,
+      11
+    ],
+    "decimal": "1071111181914241124191421211318131113181516182311",
+    "text_views": {
+      "mod26_A0": "dhotoylytovvnsnlnspqsxl",
+      "mod26_A1": "cgnsnxkxsnuumrmkmroprwk"
+    },
+    "integer_view": {
+      "digits": "1071111181914241124191421211318131113181516182311",
+      "base": 10,
+      "byte_length": 20,
+      "hex": "bb9e495a9b60165babb308805278e9bababcb327",
+      "strict_decodings": {
+        "utf-16-le": "\u9ebb\u5a49\u609b\u5b16\ub3ab\u8008\u7852\ubae9\ubcba\u27b3",
+        "utf-16-be": "\ubb9e\u495a\u9b60\u165b\uabb3\u0880\u5278\ue9ba\ubabc\ub327",
+        "cp037": "]\u00c6\u00f1!\u00ba-\b$\u00bf\u00b7\u0097\u00d8\u00ea\u00ccZ[[\u00af\u00b7\u001b",
+        "cp273": "|\u00c6\u00f1\u00dc\u00ba-\b$\u00bf\u00b7\u0097\u00d8\u00ea\u00ccZ\u00ac\u00ac\u203e\u00b7\u001b"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 3,
+    "height": 20,
+    "axis": "columns_rows/reverse",
+    "values": [
+      11,
+      23,
+      18,
+      16,
+      15,
+      18,
+      13,
+      11,
+      13,
+      18,
+      13,
+      21,
+      21,
+      14,
+      19,
+      24,
+      11,
+      24,
+      14,
+      19,
+      118,
+      111,
+      107
+    ],
+    "decimal": "1123181615181311131813212114192411241419118111107",
+    "text_views": {
+      "mod26_A0": "lxsqpsnlnsnvvotylyotohd",
+      "mod26_A1": "kwrpormkmrmuunsxkxnsngc"
+    },
+    "integer_view": {
+      "digits": "1123181615181311131813212114192411241419118111107",
+      "base": 10,
+      "byte_length": 20,
+      "hex": "c4bd349cfb92d431af0345a4960e14c9d9b66983",
+      "strict_decodings": {
+        "utf-16-le": "\ubdc4\u9c34\u92fb\u31d4\u03af\ua445\u0e96\uc914\ub6d9\u8369",
+        "cp037": "D\u00a8\u0094\u00e6\u00dbkM\u0091\u00ae\u0003\u00e1uo\u000e\u009dIR\u00b6\u00d1c",
+        "cp273": "D\u00a8\u0094\u00e6\u00dbkM\u0091\u00ae\u0003\u00e1uo\u000e\u009dIR\u00b6\u00d1c"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 4,
+    "height": 15,
+    "axis": "rows/forward",
+    "values": [
+      27,
+      22,
+      19,
+      31,
+      19,
+      28,
+      27,
+      19,
+      19,
+      14,
+      21,
+      22,
+      22,
+      28,
+      18
+    ],
+    "decimal": "272219311928271919142122222818",
+    "text_views": {
+      "mod26_A0": "bwtftcbttovwwcs",
+      "mod26_A1": "avsesbassnuvvbr"
+    },
+    "integer_view": {
+      "digits": "272219311928271919142122222818",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "036f96898541d003a45bb2f4e2",
+      "strict_decodings": {
+        "cp037": "\u0003?oie\u00a0}\u0003u$\u00a54S",
+        "cp273": "\u0003?oie\u00a0\u00fc\u0003u$\u00a54S"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 4,
+    "height": 15,
+    "axis": "rows/reverse",
+    "values": [
+      18,
+      28,
+      22,
+      22,
+      21,
+      14,
+      19,
+      19,
+      27,
+      28,
+      19,
+      31,
+      19,
+      22,
+      27
+    ],
+    "decimal": "182822222114191927281931192227",
+    "text_views": {
+      "mod26_A0": "scwwvottbctftwb",
+      "mod26_A1": "rbvvunssabsesva"
+    },
+    "integer_view": {
+      "digits": "182822222114191927281931192227",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "024ebaff67bde118c0157f07a3",
+      "strict_decodings": {
+        "cp037": "\u0002+[\u009f\u00c5\u00a8\u00f7\u0018{\u0085\"\u007ft",
+        "cp273": "\u0002+\u00ac\u009f\u00c5\u00a8\u00f7\u0018\u00e4\u0085\"\u007ft"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 4,
+    "height": 15,
+    "axis": "columns/forward",
+    "values": [
+      77,
+      87,
+      88,
+      84
+    ],
+    "decimal": "77878884",
+    "text_views": {
+      "mod26_A0": "zjkg",
+      "mod26_A1": "yijf",
+      "ASCII": "MWXT"
+    },
+    "integer_view": {
+      "digits": "77878884",
+      "base": 10,
+      "byte_length": 4,
+      "hex": "04a45664",
+      "strict_decodings": {
+        "utf-16-le": "\ua404\u6456",
+        "utf-16-be": "\u04a4\u5664",
+        "cp037": "\u009cu\u00ee\u00c0",
+        "cp273": "\u009cu\u00ee\u00c0"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 4,
+    "height": 15,
+    "axis": "columns/reverse",
+    "values": [
+      84,
+      88,
+      87,
+      77
+    ],
+    "decimal": "84888777",
+    "text_views": {
+      "mod26_A0": "gkjz",
+      "mod26_A1": "fjiy",
+      "ASCII": "TXWM"
+    },
+    "integer_view": {
+      "digits": "84888777",
+      "base": 10,
+      "byte_length": 4,
+      "hex": "050f4cc9",
+      "strict_decodings": {
+        "utf-16-le": "\u0f05\uc94c",
+        "utf-16-be": "\u050f\u4cc9",
+        "cp037": "\t\u000f<I",
+        "cp273": "\t\u000f<I"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 4,
+    "height": 15,
+    "axis": "rows_columns/forward",
+    "values": [
+      27,
+      22,
+      19,
+      31,
+      19,
+      28,
+      27,
+      19,
+      19,
+      14,
+      21,
+      22,
+      22,
+      28,
+      18,
+      77,
+      87,
+      88,
+      84
+    ],
+    "decimal": "27221931192827191914212222281877878884",
+    "text_views": {
+      "mod26_A0": "bwtftcbttovwwcszjkg",
+      "mod26_A1": "avsesbassnuvvbryijf"
+    },
+    "integer_view": {
+      "digits": "27221931192827191914212222281877878884",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "147ac0d485af2afd8549b5a51428f864",
+      "strict_decodings": {
+        "utf-16-le": "\u7a14\ud4c0\uaf85\ufd2a\u4985\ua5b5\u2814\u64f8",
+        "utf-16-be": "\u147a\uc0d4\u85af\u2afd\u8549\ub5a5\u1428\uf864",
+        "cp037": "\u009d:{Me\u00ae\u008a\u00d9e\u00f1\u00a7v\u009d\u00888\u00c0",
+        "cp273": "\u009d:\u00e4Me\u00ae\u008a\u00d9e\u00f1@v\u009d\u00888\u00c0"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 4,
+    "height": 15,
+    "axis": "rows_columns/reverse",
+    "values": [
+      84,
+      88,
+      87,
+      77,
+      18,
+      28,
+      22,
+      22,
+      21,
+      14,
+      19,
+      19,
+      27,
+      28,
+      19,
+      31,
+      19,
+      22,
+      27
+    ],
+    "decimal": "84888777182822222114191927281931192227",
+    "text_views": {
+      "mod26_A0": "gkjzscwwvottbctftwb",
+      "mod26_A1": "fjiyrbvvunssabsesva"
+    },
+    "integer_view": {
+      "digits": "84888777182822222114191927281931192227",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "3fdcfbd9c8e45d594a4b30ac557f07a3",
+      "strict_decodings": {
+        "utf-16-be": "\u3fdc\ufbd9\uc8e4\u5d59\u4a4b\u30ac\u557f\u07a3",
+        "cp037": "\u001a\u00fc\u00dbRHU)\u00df\u00a2.\u0090\u00d0\u00ed\"\u007ft",
+        "cp273": "\u001a}\u00dbRHU)~\u00c4.\u0090\u00d0\u00ed\"\u007ft"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 4,
+    "height": 15,
+    "axis": "columns_rows/forward",
+    "values": [
+      77,
+      87,
+      88,
+      84,
+      27,
+      22,
+      19,
+      31,
+      19,
+      28,
+      27,
+      19,
+      19,
+      14,
+      21,
+      22,
+      22,
+      28,
+      18
+    ],
+    "decimal": "77878884272219311928271919142122222818",
+    "text_views": {
+      "mod26_A0": "zjkgbwtftcbttovwwcs",
+      "mod26_A1": "yijfavsesbassnuvvbr"
+    },
+    "integer_view": {
+      "digits": "77878884272219311928271919142122222818",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "3a96ed725038b92c227aa4a55bb2f4e2",
+      "strict_decodings": {
+        "utf-16-le": "\u963a\u72ed\u3850\u2cb9\u7a22\ua5a4\ub25b\ue2f4",
+        "utf-16-be": "\u3a96\ued72\u5038\ub92c\u227a\ua4a5\u5bb2\uf4e2",
+        "cp037": "\u009ao\u00d2\u00ca&\u0098\u00be\u008c\u0082:uv$\u00a54S",
+        "cp273": "\u009ao\u00d2\u00ca&\u0098\u00be\u008c\u0082:uv$\u00a54S"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 4,
+    "height": 15,
+    "axis": "columns_rows/reverse",
+    "values": [
+      18,
+      28,
+      22,
+      22,
+      21,
+      14,
+      19,
+      19,
+      27,
+      28,
+      19,
+      31,
+      19,
+      22,
+      27,
+      84,
+      88,
+      87,
+      77
+    ],
+    "decimal": "18282222211419192728193119222784888777",
+    "text_views": {
+      "mod26_A0": "scwwvottbctftwbgkjz",
+      "mod26_A1": "rbvvunssabsesvafjiy"
+    },
+    "integer_view": {
+      "digits": "18282222211419192728193119222784888777",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "0dc10725cf784bcb4700e09d28c48fc9",
+      "strict_decodings": {
+        "utf-16-le": "\uc10d\u2507\u78cf\ucb4bG\u9de0\uc428\uc98f",
+        "utf-16-be": "\u0dc1\u0725\ucf78\u4bcb\u4700\ue09d\u28c4\u8fc9",
+        "cp037": "\rA\u007f\n\u00f5\u00cc.\u00f4\u00e5\u0000\\\u00b8\u0088D\u00b1I",
+        "cp273": "\rA\u007f\n\u00f5\u00cc.\u00f4\u00e5\u0000\u00d6\u00b8\u0088D\u00b1I"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 5,
+    "height": 12,
+    "axis": "rows/forward",
+    "values": [
+      30,
+      28,
+      34,
+      26,
+      33,
+      29,
+      27,
+      18,
+      28,
+      22,
+      34,
+      27
+    ],
+    "decimal": "302834263329271828223427",
+    "text_views": {
+      "mod26_A0": "eciahdbscwib",
+      "mod26_A1": "dbhzgcarbvha"
+    },
+    "integer_view": {
+      "digits": "302834263329271828223427",
+      "base": 10,
+      "byte_length": 10,
+      "hex": "4020ada5bd47ced095c3",
+      "strict_decodings": {
+        "utf-16-le": "\u2040\ua5ad\u47bd\ud0ce\uc395",
+        "utf-16-be": "\u4020\uada5\ubd47\uced0\u95c3",
+        "cp037": " \u0080\u00ddv\u00a8\u00e5\u00f3}nC",
+        "cp273": " \u0080\u00ddv\u00a8\u00e5\u00f3\u00fcnC"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 5,
+    "height": 12,
+    "axis": "rows/reverse",
+    "values": [
+      27,
+      34,
+      22,
+      28,
+      18,
+      27,
+      29,
+      33,
+      26,
+      34,
+      28,
+      30
+    ],
+    "decimal": "273422281827293326342830",
+    "text_views": {
+      "mod26_A0": "biwcsbdhaice",
+      "mod26_A1": "ahvbracgzhbd"
+    },
+    "integer_view": {
+      "digits": "273422281827293326342830",
+      "base": 10,
+      "byte_length": 10,
+      "hex": "39e64068bc967231faae",
+      "strict_decodings": {
+        "utf-16-le": "\ue639\u6840\u96bc\u3172\uaefa",
+        "utf-16-be": "\u39e6\u4068\ubc96\u7231\ufaae",
+        "cp037": "\u0099W \u00c7\u00afo\u00ca\u0091\u00b3\u00de",
+        "cp273": "\u0099W \u00c7\u203eo\u00ca\u0091\u00b3\u00de"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 5,
+    "height": 12,
+    "axis": "columns/forward",
+    "values": [
+      70,
+      74,
+      77,
+      67,
+      48
+    ],
+    "decimal": "7074776748",
+    "text_views": {
+      "mod26_A0": "swzpw",
+      "mod26_A1": "rvyov",
+      "ASCII": "FJMC0"
+    },
+    "integer_view": {
+      "digits": "7074776748",
+      "base": 10,
+      "byte_length": 5,
+      "hex": "01a5b086ac",
+      "strict_decodings": {
+        "cp037": "\u0001v^f\u00d0",
+        "cp273": "\u0001v\u00a2f\u00d0"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 5,
+    "height": 12,
+    "axis": "columns/reverse",
+    "values": [
+      48,
+      67,
+      77,
+      74,
+      70
+    ],
+    "decimal": "4867777470",
+    "text_views": {
+      "mod26_A0": "wpzws",
+      "mod26_A1": "voyvr",
+      "ASCII": "0CMJF"
+    },
+    "integer_view": {
+      "digits": "4867777470",
+      "base": 10,
+      "byte_length": 5,
+      "hex": "01222463be",
+      "strict_decodings": {
+        "cp037": "\u0001\u0082\u0084\u00c4\u00b4",
+        "cp273": "\u0001\u0082\u0084[\u00b4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 5,
+    "height": 12,
+    "axis": "rows_columns/forward",
+    "values": [
+      30,
+      28,
+      34,
+      26,
+      33,
+      29,
+      27,
+      18,
+      28,
+      22,
+      34,
+      27,
+      70,
+      74,
+      77,
+      67,
+      48
+    ],
+    "decimal": "3028342633292718282234277074776748",
+    "text_views": {
+      "mod26_A0": "eciahdbscwibswzpw",
+      "mod26_A1": "dbhzgcarbvharvyov"
+    },
+    "integer_view": {
+      "digits": "3028342633292718282234277074776748",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "954f0eca6d71ec2773d3d67332ac",
+      "strict_decodings": {
+        "utf-16-le": "\u4f95\uca0e\u716d\u27ec\ud373\u73d6\uac32",
+        "utf-16-be": "\u954f\u0eca\u6d71\uec27\u73d3\ud673\u32ac",
+        "cp037": "n|\u000e\u00ad_\u00c9\u00d6\u001b\u00cbLO\u00cb\u0016\u00d0",
+        "cp273": "n!\u000e\u00ad_\u00c9\\\u001b\u00cbLO\u00cb\u0016\u00d0"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 5,
+    "height": 12,
+    "axis": "rows_columns/reverse",
+    "values": [
+      48,
+      67,
+      77,
+      74,
+      70,
+      27,
+      34,
+      22,
+      28,
+      18,
+      27,
+      29,
+      33,
+      26,
+      34,
+      28,
+      30
+    ],
+    "decimal": "4867777470273422281827293326342830",
+    "text_views": {
+      "mod26_A0": "wpzwsbiwcsbdhaice",
+      "mod26_A1": "voyvrahvbracgzhbd"
+    },
+    "integer_view": {
+      "digits": "4867777470273422281827293326342830",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "effffd4da1f1def15e36f031faae",
+      "strict_decodings": {
+        "utf-16-le": "\uffef\u4dfd\uf1a1\uf1de\u365e\u31f0\uaefa",
+        "cp037": "\u00d5\u009f\u00d9(~1\u00fa1;\u00960\u0091\u00b3\u00de",
+        "cp273": "\u00d5\u009f\u00d9(\u00df1\u00fa1;\u00960\u0091\u00b3\u00de"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 5,
+    "height": 12,
+    "axis": "columns_rows/forward",
+    "values": [
+      70,
+      74,
+      77,
+      67,
+      48,
+      30,
+      28,
+      34,
+      26,
+      33,
+      29,
+      27,
+      18,
+      28,
+      22,
+      34,
+      27
+    ],
+    "decimal": "7074776748302834263329271828223427",
+    "text_views": {
+      "mod26_A0": "swzpweciahdbscwib",
+      "mod26_A1": "rvyovdbhzgcarbvha"
+    },
+    "integer_view": {
+      "digits": "7074776748302834263329271828223427",
+      "base": 10,
+      "byte_length": 15,
+      "hex": "015cd03c94564948ff7f35fad095c3",
+      "strict_decodings": {
+        "cp037": "\u0001*}\u0014m\u00ee\u00f1\u00e7\u009f\"\u0095\u00b3}nC",
+        "cp273": "\u0001*\u00fc\u0014m\u00ee\u00f1\u00e7\u009f\"\u0095\u00b3\u00fcnC"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 5,
+    "height": 12,
+    "axis": "columns_rows/reverse",
+    "values": [
+      27,
+      34,
+      22,
+      28,
+      18,
+      27,
+      29,
+      33,
+      26,
+      34,
+      28,
+      30,
+      48,
+      67,
+      77,
+      74,
+      70
+    ],
+    "decimal": "2734222818272933263428304867777470",
+    "text_views": {
+      "mod26_A0": "biwcsbdhaicewpzws",
+      "mod26_A1": "ahvbracgzhbdvoyvr"
+    },
+    "integer_view": {
+      "digits": "2734222818272933263428304867777470",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "86cebe69aceba449417882e15bbe",
+      "strict_decodings": {
+        "utf-16-le": "\uce86\u69be\uebac\u49a4\u7841\ue182\ube5b",
+        "utf-16-be": "\u86ce\ube69\uaceb\ua449\u4178\u82e1\u5bbe",
+        "cp037": "f\u00f3\u00b4\u00d1\u00d0\u00d4u\u00f1\u00a0\u00ccb\u00f7$\u00b4",
+        "cp273": "f\u00f3\u00b4\u00d1\u00d0\u00d4u\u00f1\u00a0\u00ccb\u00f7$\u00b4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 6,
+    "height": 10,
+    "axis": "rows/forward",
+    "values": [
+      33,
+      35,
+      43,
+      35,
+      34,
+      31,
+      24,
+      33,
+      34,
+      34
+    ],
+    "decimal": "33354335343124333434",
+    "text_views": {
+      "mod26_A0": "hjrjifyhii",
+      "mod26_A1": "giqihexghh"
+    },
+    "integer_view": {
+      "digits": "33354335343124333434",
+      "base": 10,
+      "byte_length": 9,
+      "hex": "01cee26746962ec37a",
+      "strict_decodings": {
+        "cp037": "\u0001\u00f3S\u00c5\u00e3o\u0006C:",
+        "cp273": "\u0001\u00f3S\u00c5\u00e3o\u0006C:"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 6,
+    "height": 10,
+    "axis": "rows/reverse",
+    "values": [
+      34,
+      34,
+      33,
+      24,
+      31,
+      34,
+      35,
+      43,
+      35,
+      33
+    ],
+    "decimal": "34343324313435433533",
+    "text_views": {
+      "mod26_A0": "iihyfijrjh",
+      "mod26_A1": "hhgxehiqig"
+    },
+    "integer_view": {
+      "digits": "34343324313435433533",
+      "base": 10,
+      "byte_length": 9,
+      "hex": "01dc9bff811c5aea3d",
+      "strict_decodings": {
+        "cp037": "\u0001\u00fc\u00ba\u009fa\u001c!\u00b2\u0015",
+        "cp273": "\u0001}\u00ba\u009fa\u001c\u00dc\u00b2\u0015"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 6,
+    "height": 10,
+    "axis": "columns/forward",
+    "values": [
+      53,
+      67,
+      68,
+      54,
+      44,
+      50
+    ],
+    "decimal": "536768544450",
+    "text_views": {
+      "mod26_A0": "bpqcsy",
+      "mod26_A1": "aopbrx",
+      "ASCII": "5CD6,2"
+    },
+    "integer_view": {
+      "digits": "536768544450",
+      "base": 10,
+      "byte_length": 5,
+      "hex": "7cf9e5fec2",
+      "strict_decodings": {
+        "cp037": "@9V\u00daB",
+        "cp273": "\u00a79V\u00daB"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 6,
+    "height": 10,
+    "axis": "columns/reverse",
+    "values": [
+      50,
+      44,
+      54,
+      68,
+      67,
+      53
+    ],
+    "decimal": "504454686753",
+    "text_views": {
+      "mod26_A0": "yscqpb",
+      "mod26_A1": "xrbpoa",
+      "ASCII": "2,6DC5"
+    },
+    "integer_view": {
+      "digits": "504454686753",
+      "base": 10,
+      "byte_length": 5,
+      "hex": "7573d7a821",
+      "strict_decodings": {
+        "utf-8": "us\u05e8!",
+        "cp037": "\u00cd\u00cbPy\u0081",
+        "cp273": "\u00cd\u00cbPy\u0081"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 6,
+    "height": 10,
+    "axis": "rows_columns/forward",
+    "values": [
+      33,
+      35,
+      43,
+      35,
+      34,
+      31,
+      24,
+      33,
+      34,
+      34,
+      53,
+      67,
+      68,
+      54,
+      44,
+      50
+    ],
+    "decimal": "33354335343124333434536768544450",
+    "text_views": {
+      "mod26_A0": "hjrjifyhiibpqcsy",
+      "mod26_A1": "giqihexghhaopbrx"
+    },
+    "integer_view": {
+      "digits": "33354335343124333434536768544450",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "01a4fdab8a5945b31674ebbf9ec2",
+      "strict_decodings": {
+        "utf-16-le": "\ua401\uabfd\u598a\ub345\u7416\ubfeb\uc29e",
+        "utf-16-be": "\u01a4\ufdab\u8a59\u45b3\u1674\uebbf\u9ec2",
+        "cp037": "\u0001u\u00d9\u00bf\u00ab\u00df\u00e1\u00b7\b\u00c8\u00d4\u00d7\u00c6B",
+        "cp273": "\u0001u\u00d9\u00bf\u00ab~\u00e1\u00b7\b\u00c8\u00d4\u00d7\u00c6B"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 6,
+    "height": 10,
+    "axis": "rows_columns/reverse",
+    "values": [
+      50,
+      44,
+      54,
+      68,
+      67,
+      53,
+      34,
+      34,
+      33,
+      24,
+      31,
+      34,
+      35,
+      43,
+      35,
+      33
+    ],
+    "decimal": "50445468675334343324313435433533",
+    "text_views": {
+      "mod26_A0": "yscqpbiihyfijrjh",
+      "mod26_A1": "xrbpoahhgxehiqig"
+    },
+    "integer_view": {
+      "digits": "50445468675334343324313435433533",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "027cb619adec590b4ecd616aea3d",
+      "strict_decodings": {
+        "utf-16-le": "\u7c02\u19b6\uecad\u0b59\ucd4e\u6a61\u3dea",
+        "utf-16-be": "\u027c\ub619\uadec\u590b\u4ecd\u616a\uea3d",
+        "cp037": "\u0002@\u00b6\u0019\u00dd\u00d6\u00df\u000b+\u00f2/\u00a6\u00b2\u0015",
+        "cp273": "\u0002\u00a7\u00b6\u0019\u00dd\\~\u000b+\u00f2/\u00f6\u00b2\u0015"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 6,
+    "height": 10,
+    "axis": "columns_rows/forward",
+    "values": [
+      53,
+      67,
+      68,
+      54,
+      44,
+      50,
+      33,
+      35,
+      43,
+      35,
+      34,
+      31,
+      24,
+      33,
+      34,
+      34
+    ],
+    "decimal": "53676854445033354335343124333434",
+    "text_views": {
+      "mod26_A0": "bpqcsyhjrjifyhii",
+      "mod26_A1": "aopbrxgiqihexghh"
+    },
+    "integer_view": {
+      "digits": "53676854445033354335343124333434",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "02a57f4556faab1cfb45884ec37a",
+      "strict_decodings": {
+        "utf-16-le": "\ua502\u457f\ufa56\u1cab\u45fb\u4e88\u7ac3",
+        "utf-16-be": "\u02a5\u7f45\u56fa\uab1c\ufb45\u884e\uc37a",
+        "cp037": "\u0002v\"\u00e1\u00ee\u00b3\u00bf\u001c\u00db\u00e1h+C:",
+        "cp273": "\u0002v\"\u00e1\u00ee\u00b3\u00bf\u001c\u00db\u00e1h+C:"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 6,
+    "height": 10,
+    "axis": "columns_rows/reverse",
+    "values": [
+      34,
+      34,
+      33,
+      24,
+      31,
+      34,
+      35,
+      43,
+      35,
+      33,
+      50,
+      44,
+      54,
+      68,
+      67,
+      53
+    ],
+    "decimal": "34343324313435433533504454686753",
+    "text_views": {
+      "mod26_A0": "iihyfijrjhyscqpb",
+      "mod26_A1": "hhgxehiqigxrbpoa"
+    },
+    "integer_view": {
+      "digits": "34343324313435433533504454686753",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "01b179440aee0c0eea169fcc7821",
+      "strict_decodings": {
+        "utf-16-le": "\ub101\u4479\uee0a\u0e0c\u16ea\ucc9f\u2178",
+        "utf-16-be": "\u01b1\u7944\u0aee\u0c0e\uea16\u9fcc\u7821",
+        "cp037": "\u0001\u00a3`\u00e0\u008e\u00d3\f\u000e\u00b2\b\u00a4\u00f6\u00cc\u0081",
+        "cp273": "\u0001\u00a3`\u00e0\u008e\u00d3\f\u000e\u00b2\b\u00a4\u00a6\u00cc\u0081"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 10,
+    "height": 6,
+    "axis": "rows/forward",
+    "values": [
+      58,
+      60,
+      62,
+      45,
+      50,
+      61
+    ],
+    "decimal": "586062455061",
+    "text_views": {
+      "mod26_A0": "giktyj",
+      "mod26_A1": "fhjsxi",
+      "ASCII": ":<>-2="
+    },
+    "integer_view": {
+      "digits": "586062455061",
+      "base": 10,
+      "byte_length": 5,
+      "hex": "88740b6115",
+      "strict_decodings": {
+        "cp037": "h\u00c8\u000b/\u0085",
+        "cp273": "h\u00c8\u000b/\u0085"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 10,
+    "height": 6,
+    "axis": "rows/reverse",
+    "values": [
+      61,
+      50,
+      45,
+      62,
+      60,
+      58
+    ],
+    "decimal": "615045626058",
+    "text_views": {
+      "mod26_A0": "jytkig",
+      "mod26_A1": "ixsjhf",
+      "ASCII": "=2-><:"
+    },
+    "integer_view": {
+      "digits": "615045626058",
+      "base": 10,
+      "byte_length": 5,
+      "hex": "8f339378ca",
+      "strict_decodings": {
+        "cp037": "\u00b1\u0093l\u00cc\u00ad",
+        "cp273": "\u00b1\u0093l\u00cc\u00ad"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 10,
+    "height": 6,
+    "axis": "columns/forward",
+    "values": [
+      32,
+      40,
+      41,
+      41,
+      32,
+      38,
+      34,
+      36,
+      26,
+      16
+    ],
+    "decimal": "32404141323834362616",
+    "text_views": {
+      "mod26_A0": "goppgmikaq",
+      "mod26_A1": "fnooflhjzp"
+    },
+    "integer_view": {
+      "digits": "32404141323834362616",
+      "base": 10,
+      "byte_length": 9,
+      "hex": "01c1b2a2d97ab40af8",
+      "strict_decodings": {
+        "cp037": "\u0001A\u00a5sR:\u00a9\u008e8",
+        "cp273": "\u0001A\u00a5sR:\u00a9\u008e8"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 10,
+    "height": 6,
+    "axis": "columns/reverse",
+    "values": [
+      16,
+      26,
+      36,
+      34,
+      38,
+      32,
+      41,
+      41,
+      40,
+      32
+    ],
+    "decimal": "16263634383241414032",
+    "text_views": {
+      "mod26_A0": "qakimgppog",
+      "mod26_A1": "pzjhlfoonf"
+    },
+    "integer_view": {
+      "digits": "16263634383241414032",
+      "base": 10,
+      "byte_length": 8,
+      "hex": "e1b4094d99ef0590",
+      "strict_decodings": {
+        "utf-16-le": "\ub4e1\u4d09\uef99\u9005",
+        "utf-16-be": "\ue1b4\u094d\u99ef\u0590",
+        "cp037": "\u00f7\u00a9\u008d(r\u00d5\t\u00b0",
+        "cp273": "\u00f7\u00a9\u008d(r\u00d5\t\u00b0"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 10,
+    "height": 6,
+    "axis": "rows_columns/forward",
+    "values": [
+      58,
+      60,
+      62,
+      45,
+      50,
+      61,
+      32,
+      40,
+      41,
+      41,
+      32,
+      38,
+      34,
+      36,
+      26,
+      16
+    ],
+    "decimal": "58606245506132404141323834362616",
+    "text_views": {
+      "mod26_A0": "giktyjgoppgmikaq",
+      "mod26_A1": "fhjsxifnooflhjzp"
+    },
+    "integer_view": {
+      "digits": "58606245506132404141323834362616",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "02e3b6fe0ea4611310cbab040af8",
+      "strict_decodings": {
+        "utf-16-le": "\ue302\ufeb6\ua40e\u1361\ucb10\u04ab\uf80a",
+        "utf-16-be": "\u02e3\ub6fe\u0ea4\u6113\u10cb\uab04\u0af8",
+        "cp037": "\u0002T\u00b6\u00da\u000eu/\u0013\u0010\u00f4\u00bf\u009c\u008e8",
+        "cp273": "\u0002T\u00b6\u00da\u000eu/\u0013\u0010\u00f4\u00bf\u009c\u008e8"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 10,
+    "height": 6,
+    "axis": "rows_columns/reverse",
+    "values": [
+      16,
+      26,
+      36,
+      34,
+      38,
+      32,
+      41,
+      41,
+      40,
+      32,
+      61,
+      50,
+      45,
+      62,
+      60,
+      58
+    ],
+    "decimal": "16263634383241414032615045626058",
+    "text_views": {
+      "mod26_A0": "qakimgppogjytkig",
+      "mod26_A1": "pzjhlfoonfixsjhf"
+    },
+    "integer_view": {
+      "digits": "16263634383241414032615045626058",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "cd46a30d2d03b00c57f9bc78ca",
+      "strict_decodings": {
+        "cp037": "\u00f2\u00e3t\r\u0005\u0003^\f\u00ef9\u00af\u00cc\u00ad",
+        "cp273": "\u00f2\u00e3t\r\u0005\u0003\u00a2\f\u00ef9\u203e\u00cc\u00ad"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 10,
+    "height": 6,
+    "axis": "columns_rows/forward",
+    "values": [
+      32,
+      40,
+      41,
+      41,
+      32,
+      38,
+      34,
+      36,
+      26,
+      16,
+      58,
+      60,
+      62,
+      45,
+      50,
+      61
+    ],
+    "decimal": "32404141323834362616586062455061",
+    "text_views": {
+      "mod26_A0": "goppgmikaqgiktyj",
+      "mod26_A1": "fnooflhjzpfhjsxi"
+    },
+    "integer_view": {
+      "digits": "32404141323834362616586062455061",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "0198ff6d78316d20b8142692e115",
+      "strict_decodings": {
+        "utf-16-le": "\u9801\u6dff\u3178\u206d\u14b8\u9226\u15e1",
+        "utf-16-be": "\u0198\uff6d\u7831\u6d20\ub814\u2692\ue115",
+        "cp037": "\u0001q\u009f_\u00cc\u0091_\u0080\u00bd\u009d\u0017k\u00f7\u0085",
+        "cp273": "\u0001q\u009f_\u00cc\u0091_\u0080\u00bd\u009d\u0017k\u00f7\u0085"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 10,
+    "height": 6,
+    "axis": "columns_rows/reverse",
+    "values": [
+      61,
+      50,
+      45,
+      62,
+      60,
+      58,
+      16,
+      26,
+      36,
+      34,
+      38,
+      32,
+      41,
+      41,
+      40,
+      32
+    ],
+    "decimal": "61504562605816263634383241414032",
+    "text_views": {
+      "mod26_A0": "jytkigqakimgppog",
+      "mod26_A1": "ixsjhfpzjhlfoonf"
+    },
+    "integer_view": {
+      "digits": "61504562605816263634383241414032",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "03084bf5c565d5e5b1bd448f0590",
+      "strict_decodings": {
+        "utf-16-le": "\u0803\uf54b\u65c5\ue5d5\ubdb1\u8f44\u9005",
+        "utf-16-be": "\u0308\u4bf5\uc565\ud5e5\ub1bd\u448f\u0590",
+        "cp037": "\u0003\u0097.5E\u00c1NV\u00a3\u00a8\u00e0\u00b1\t\u00b0",
+        "cp273": "\u0003\u0097.5E\u00c1NV\u00a3\u00a8\u00e0\u00b1\t\u00b0"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 12,
+    "height": 5,
+    "axis": "rows/forward",
+    "values": [
+      68,
+      78,
+      65,
+      57,
+      68
+    ],
+    "decimal": "6878655768",
+    "text_views": {
+      "mod26_A0": "qanfq",
+      "mod26_A1": "pzmep",
+      "ASCII": "DNA9D"
+    },
+    "integer_view": {
+      "digits": "6878655768",
+      "base": 10,
+      "byte_length": 5,
+      "hex": "0199fff518",
+      "strict_decodings": {
+        "cp037": "\u0001r\u009f5\u0018",
+        "cp273": "\u0001r\u009f5\u0018"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 12,
+    "height": 5,
+    "axis": "rows/reverse",
+    "values": [
+      68,
+      57,
+      65,
+      78,
+      68
+    ],
+    "decimal": "6857657868",
+    "text_views": {
+      "mod26_A0": "qfnaq",
+      "mod26_A1": "pemzp",
+      "ASCII": "D9AND"
+    },
+    "integer_view": {
+      "digits": "6857657868",
+      "base": 10,
+      "byte_length": 5,
+      "hex": "0198bf8e0c",
+      "strict_decodings": {
+        "cp037": "\u0001q\u00d7\u00fe\f",
+        "cp273": "\u0001q\u00d7\u00fe\f"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 12,
+    "height": 5,
+    "axis": "columns/forward",
+    "values": [
+      24,
+      34,
+      33,
+      30,
+      18,
+      29,
+      29,
+      33,
+      35,
+      24,
+      26,
+      21
+    ],
+    "decimal": "243433301829293335242621",
+    "text_views": {
+      "mod26_A0": "yihesddhjyav",
+      "mod26_A1": "xhgdrccgixzu"
+    },
+    "integer_view": {
+      "digits": "243433301829293335242621",
+      "base": 10,
+      "byte_length": 10,
+      "hex": "338c8bb548d51611e77d",
+      "strict_decodings": {
+        "utf-16-le": "\u8c33\ub58b\ud548\u1116\u7de7",
+        "utf-16-be": "\u338c\u8bb5\u48d5\u1611\ue77d",
+        "cp037": "\u0093\u00f0\u00bb\u00a7\u00e7N\b\u0011X'",
+        "cp273": "\u0093\u00f0\u00bb@\u00e7N\b\u0011X'"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 12,
+    "height": 5,
+    "axis": "columns/reverse",
+    "values": [
+      21,
+      26,
+      24,
+      35,
+      33,
+      29,
+      29,
+      18,
+      30,
+      33,
+      34,
+      24
+    ],
+    "decimal": "212624353329291830333424",
+    "text_views": {
+      "mod26_A0": "vayjhddsehiy",
+      "mod26_A1": "uzxigccrdghx"
+    },
+    "integer_view": {
+      "digits": "212624353329291830333424",
+      "base": 10,
+      "byte_length": 10,
+      "hex": "2d0663a884e2d0898ff0",
+      "strict_decodings": {
+        "utf-16-le": "\u062d\ua863\ue284\u89d0\uf08f",
+        "utf-16-be": "\u2d06\u63a8\u84e2\ud089\u8ff0",
+        "cp037": "\u0005\u0086\u00c4ydS}i\u00b10",
+        "cp273": "\u0005\u0086[ydS\u00fci\u00b10"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 12,
+    "height": 5,
+    "axis": "rows_columns/forward",
+    "values": [
+      68,
+      78,
+      65,
+      57,
+      68,
+      24,
+      34,
+      33,
+      30,
+      18,
+      29,
+      29,
+      33,
+      35,
+      24,
+      26,
+      21
+    ],
+    "decimal": "6878655768243433301829293335242621",
+    "text_views": {
+      "mod26_A0": "qanfqyihesddhjyav",
+      "mod26_A1": "pzmepxhgdrccgixzu"
+    },
+    "integer_view": {
+      "digits": "6878655768243433301829293335242621",
+      "base": 10,
+      "byte_length": 15,
+      "hex": "015324d783eac1d82449312e11e77d",
+      "strict_decodings": {
+        "cp037": "\u0001\u00eb\u0084Pc\u00b2AQ\u0084\u00f1\u0091\u0006\u0011X'",
+        "cp273": "\u0001\u00eb\u0084Pc\u00b2AQ\u0084\u00f1\u0091\u0006\u0011X'"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 12,
+    "height": 5,
+    "axis": "rows_columns/reverse",
+    "values": [
+      21,
+      26,
+      24,
+      35,
+      33,
+      29,
+      29,
+      18,
+      30,
+      33,
+      34,
+      24,
+      68,
+      57,
+      65,
+      78,
+      68
+    ],
+    "decimal": "2126243533292918303334246857657868",
+    "text_views": {
+      "mod26_A0": "vayjhddsehiyqfnaq",
+      "mod26_A1": "uzxigccrdghxpemzp"
+    },
+    "integer_view": {
+      "digits": "2126243533292918303334246857657868",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "68d4f7644e5fd9993ac00c414e0c",
+      "strict_decodings": {
+        "utf-16-le": "\ud468\u64f7\u5f4e\u99d9\uc03a\u410c\u0c4e",
+        "cp037": "\u00c7M7\u00c0+\u00acRr\u009a{\f\u00a0+\f",
+        "cp273": "\u00c7M7\u00c0+^Rr\u009a\u00e4\f\u00a0+\f"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 12,
+    "height": 5,
+    "axis": "columns_rows/forward",
+    "values": [
+      24,
+      34,
+      33,
+      30,
+      18,
+      29,
+      29,
+      33,
+      35,
+      24,
+      26,
+      21,
+      68,
+      78,
+      65,
+      57,
+      68
+    ],
+    "decimal": "2434333018292933352426216878655768",
+    "text_views": {
+      "mod26_A0": "yihesddhjyavqanfq",
+      "mod26_A1": "xhgdrccgixzupzmep"
+    },
+    "integer_view": {
+      "digits": "2434333018292933352426216878655768",
+      "base": 10,
+      "byte_length": 14,
+      "hex": "78059a353ac7ad67695d828a4918",
+      "strict_decodings": {
+        "utf-16-le": "\u0578\u359a\uc73a\u67ad\u5d69\u8a82\u1849",
+        "utf-16-be": "\u7805\u9a35\u3ac7\uad67\u695d\u828a\u4918",
+        "cp037": "\u00cc\t\u00aa\u0095\u009aG\u00dd\u00c5\u00d1)b\u00ab\u00f1\u0018",
+        "cp273": "\u00cc\t\u00aa\u0095\u009aG\u00dd\u00c5\u00d1)b\u00ab\u00f1\u0018"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 12,
+    "height": 5,
+    "axis": "columns_rows/reverse",
+    "values": [
+      68,
+      57,
+      65,
+      78,
+      68,
+      21,
+      26,
+      24,
+      35,
+      33,
+      29,
+      29,
+      18,
+      30,
+      33,
+      34,
+      24
+    ],
+    "decimal": "6857657868212624353329291830333424",
+    "text_views": {
+      "mod26_A0": "qfnaqvayjhddsehiy",
+      "mod26_A1": "pemzpuzxigccrdghx"
+    },
+    "integer_view": {
+      "digits": "6857657868212624353329291830333424",
+      "base": 10,
+      "byte_length": 15,
+      "hex": "01521bcfa41b7204e90e545c898ff0",
+      "strict_decodings": {
+        "cp037": "\u0001\u00ea\u008f\u00f5u\u008f\u00ca\u009cZ\u000e\u00e8*i\u00b10",
+        "cp273": "\u0001\u00ea\u008f\u00f5u\u008f\u00ca\u009cZ\u000e\u00e8*i\u00b10"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 15,
+    "height": 4,
+    "axis": "rows/forward",
+    "values": [
+      92,
+      88,
+      73,
+      83
+    ],
+    "decimal": "92887383",
+    "text_views": {
+      "mod26_A0": "okvf",
+      "mod26_A1": "njue",
+      "ASCII": "\\XIS"
+    },
+    "integer_view": {
+      "digits": "92887383",
+      "base": 10,
+      "byte_length": 4,
+      "hex": "05895957",
+      "strict_decodings": {
+        "utf-16-le": "\u8905\u5759",
+        "utf-16-be": "\u0589\u5957",
+        "cp037": "\ti\u00df\u00ef",
+        "cp273": "\ti~\u00ef"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 15,
+    "height": 4,
+    "axis": "rows/reverse",
+    "values": [
+      83,
+      73,
+      88,
+      92
+    ],
+    "decimal": "83738892",
+    "text_views": {
+      "mod26_A0": "fvko",
+      "mod26_A1": "eujn",
+      "ASCII": "SIX\\"
+    },
+    "integer_view": {
+      "digits": "83738892",
+      "base": 10,
+      "byte_length": 4,
+      "hex": "04fdc10c",
+      "strict_decodings": {
+        "utf-16-le": "\ufd04\u0cc1",
+        "utf-16-be": "\u04fd\uc10c",
+        "cp037": "\u009c\u00d9A\f",
+        "cp273": "\u009c\u00d9A\f"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 15,
+    "height": 4,
+    "axis": "columns/forward",
+    "values": [
+      22,
+      27,
+      22,
+      23,
+      11,
+      23,
+      20,
+      29,
+      25,
+      16,
+      25,
+      27,
+      26,
+      19,
+      21
+    ],
+    "decimal": "222722231123202925162527261921",
+    "text_views": {
+      "mod26_A0": "wbwxlxudzqzbatv",
+      "mod26_A1": "vavwkwtcypyazsu"
+    },
+    "integer_view": {
+      "digits": "222722231123202925162527261921",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "02cfa782f63ad1b03ac5d904e1",
+      "strict_decodings": {
+        "cp037": "\u0002\u00f5xb6\u009aJ^\u009aER\u009c\u00f7",
+        "cp273": "\u0002\u00f5xb6\u009aJ\u00a2\u009aER\u009c\u00f7"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 15,
+    "height": 4,
+    "axis": "columns/reverse",
+    "values": [
+      21,
+      19,
+      26,
+      27,
+      25,
+      16,
+      25,
+      29,
+      20,
+      23,
+      11,
+      23,
+      22,
+      27,
+      22
+    ],
+    "decimal": "211926272516252920231123222722",
+    "text_views": {
+      "mod26_A0": "vtabzqzduxlxwbw",
+      "mod26_A1": "uszaypyctwkwvav"
+    },
+    "integer_view": {
+      "digits": "211926272516252920231123222722",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "02acc54dcd719e67b5ba2c00c2",
+      "strict_decodings": {
+        "cp037": "\u0002\u00d0E(\u00f2\u00c9\u00c6\u00c5\u00a7[\u008c\u0000B",
+        "cp273": "\u0002\u00d0E(\u00f2\u00c9\u00c6\u00c5@\u00ac\u008c\u0000B"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 15,
+    "height": 4,
+    "axis": "rows_columns/forward",
+    "values": [
+      92,
+      88,
+      73,
+      83,
+      22,
+      27,
+      22,
+      23,
+      11,
+      23,
+      20,
+      29,
+      25,
+      16,
+      25,
+      27,
+      26,
+      19,
+      21
+    ],
+    "decimal": "92887383222722231123202925162527261921",
+    "text_views": {
+      "mod26_A0": "okvfwbwxlxudzqzbatv",
+      "mod26_A1": "njuevavwkwtcypyazsu"
+    },
+    "integer_view": {
+      "digits": "92887383222722231123202925162527261921",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "45e17593672b3375b8e13b1685d904e1",
+      "strict_decodings": {
+        "utf-16-be": "\u45e1\u7593\u672b\u3375\ub8e1\u3b16\u85d9\u04e1",
+        "cp037": "\u00e1\u00f7\u00cdl\u00c5\u008b\u0093\u00cd\u00bd\u00f7\u009b\beR\u009c\u00f7",
+        "cp273": "\u00e1\u00f7\u00cdl\u00c5\u008b\u0093\u00cd\u00bd\u00f7\u009b\beR\u009c\u00f7"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 15,
+    "height": 4,
+    "axis": "rows_columns/reverse",
+    "values": [
+      21,
+      19,
+      26,
+      27,
+      25,
+      16,
+      25,
+      29,
+      20,
+      23,
+      11,
+      23,
+      22,
+      27,
+      22,
+      83,
+      73,
+      88,
+      92
+    ],
+    "decimal": "21192627251625292023112322272283738892",
+    "text_views": {
+      "mod26_A0": "vtabzqzduxlxwbwfvko",
+      "mod26_A1": "uszaypyctwkwvaveujn"
+    },
+    "integer_view": {
+      "digits": "21192627251625292023112322272283738892",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "0ff18d31e237657c06b4c0c13552430c",
+      "strict_decodings": {
+        "utf-16-le": "\uf10f\u318d\u37e2\u7c65\ub406\uc1c0\u5235\u0c43",
+        "utf-16-be": "\u0ff1\u8d31\ue237\u657c\u06b4\uc0c1\u3552\u430c",
+        "cp037": "\u000f1\u00fd\u0091S\u0004\u00c1@\u0086\u00a9{A\u0095\u00ea\u00e4\f",
+        "cp273": "\u000f1\u00fd\u0091S\u0004\u00c1\u00a7\u0086\u00a9\u00e4A\u0095\u00ea{\f"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 15,
+    "height": 4,
+    "axis": "columns_rows/forward",
+    "values": [
+      22,
+      27,
+      22,
+      23,
+      11,
+      23,
+      20,
+      29,
+      25,
+      16,
+      25,
+      27,
+      26,
+      19,
+      21,
+      92,
+      88,
+      73,
+      83
+    ],
+    "decimal": "22272223112320292516252726192192887383",
+    "text_views": {
+      "mod26_A0": "wbwxlxudzqzbatvokvf",
+      "mod26_A1": "vavwkwtcypyazsunjue"
+    },
+    "integer_view": {
+      "digits": "22272223112320292516252726192192887383",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "10c179615ee6ccd11a003dadd3281a57",
+      "strict_decodings": {
+        "utf-16-le": "\uc110\u6179\ue65e\ud1cc\u001a\uad3d\u28d3\u571a",
+        "utf-16-be": "\u10c1\u7961\u5ee6\uccd1\u1a00\u3dad\ud328\u1a57",
+        "cp037": "\u0010A`/;W\u00f6J\u0092\u0000\u0015\u00ddL\u0088\u0092\u00ef",
+        "cp273": "\u0010A`/;W\u00a6J\u0092\u0000\u0015\u00ddL\u0088\u0092\u00ef"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 15,
+    "height": 4,
+    "axis": "columns_rows/reverse",
+    "values": [
+      83,
+      73,
+      88,
+      92,
+      21,
+      19,
+      26,
+      27,
+      25,
+      16,
+      25,
+      29,
+      20,
+      23,
+      11,
+      23,
+      22,
+      27,
+      22
+    ],
+    "decimal": "83738892211926272516252920231123222722",
+    "text_views": {
+      "mod26_A0": "fvkovtabzqzduxlxwbw",
+      "mod26_A1": "eujnuszaypyctwkwvav"
+    },
+    "integer_view": {
+      "digits": "83738892211926272516252920231123222722",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "3eff8625000521f5aff868f0ba2c00c2",
+      "strict_decodings": {
+        "utf-16-le": "\uff3e\u2586\u0500\uf521\uf8af\uf068\u2cba\uc200",
+        "utf-16-be": "\u3eff\u8625\u0005\u21f5\uaff8\u68f0\uba2c\u00c2",
+        "cp037": "\u009e\u009ff\n\u0000\t\u00815\u00ae8\u00c70[\u008c\u0000B",
+        "cp273": "\u009e\u009ff\n\u0000\t\u00815\u00ae8\u00c70\u00ac\u008c\u0000B"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 20,
+    "height": 3,
+    "axis": "rows/forward",
+    "values": [
+      118,
+      107,
+      111
+    ],
+    "decimal": "118107111",
+    "text_views": {
+      "mod26_A0": "odh",
+      "mod26_A1": "ncg",
+      "ASCII": "vko"
+    },
+    "integer_view": {
+      "digits": "118107111",
+      "base": 10,
+      "byte_length": 4,
+      "hex": "070a2be7",
+      "strict_decodings": {
+        "utf-16-le": "\u0a07\ue72b",
+        "utf-16-be": "\u070a\u2be7",
+        "cp037": "\u007f\u008e\u008bX",
+        "cp273": "\u007f\u008e\u008bX"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 20,
+    "height": 3,
+    "axis": "rows/reverse",
+    "values": [
+      111,
+      107,
+      118
+    ],
+    "decimal": "111107118",
+    "text_views": {
+      "mod26_A0": "hdo",
+      "mod26_A1": "gcn",
+      "ASCII": "okv"
+    },
+    "integer_view": {
+      "digits": "111107118",
+      "base": 10,
+      "byte_length": 4,
+      "hex": "069f5c2e",
+      "strict_decodings": {
+        "utf-16-le": "\u9f06\u2e5c",
+        "utf-16-be": "\u069f\u5c2e",
+        "cp037": "\u0086\u00a4*\u0006",
+        "cp273": "\u0086\u00a4*\u0006"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 20,
+    "height": 3,
+    "axis": "columns/forward",
+    "values": [
+      14,
+      21,
+      20,
+      21,
+      15,
+      18,
+      20,
+      18,
+      13,
+      10,
+      18,
+      19,
+      21,
+      20,
+      17,
+      20,
+      14,
+      18,
+      13,
+      6
+    ],
+    "decimal": "142120211518201813101819212017201418136",
+    "text_views": {
+      "mod26_A0": "ovuvpsusnkstvuruosng",
+      "mod26_A1": "nutuortrmjrsutqtnrmf"
+    },
+    "integer_view": {
+      "digits": "142120211518201813101819212017201418136",
+      "base": 10,
+      "byte_length": 16,
+      "hex": "6aeb5b6b55d008f7acbac0b5e6998f98",
+      "strict_decodings": {
+        "utf-16-le": "\ueb6a\u6b5b\ud055\uf708\ubaac\ub5c0\u99e6\u988f",
+        "utf-16-be": "\u6aeb\u5b6b\u55d0\u08f7\uacba\uc0b5\ue699\u8f98",
+        "cp037": "\u00a6\u00d4$,\u00ed}\u00977\u00d0[{\u00a7Wr\u00b1q",
+        "cp273": "\u00f6\u00d4$,\u00ed\u00fc\u00977\u00d0\u00ac\u00e4@Wr\u00b1q"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 20,
+    "height": 3,
+    "axis": "columns/reverse",
+    "values": [
+      6,
+      13,
+      18,
+      14,
+      20,
+      17,
+      20,
+      21,
+      19,
+      18,
+      10,
+      13,
+      18,
+      20,
+      18,
+      15,
+      21,
+      20,
+      21,
+      14
+    ],
+    "decimal": "613181420172021191810131820181521202114",
+    "text_views": {
+      "mod26_A0": "gnsouruvtsknsuspvuvo",
+      "mod26_A1": "fmrntqtusrjmrtroutun"
+    },
+    "integer_view": {
+      "digits": "613181420172021191810131820181521202114",
+      "base": 10,
+      "byte_length": 17,
+      "hex": "01cd4e7222e7dbee06c0fb98ef86947bc2",
+      "strict_decodings": {
+        "cp037": "\u0001\u00f2+\u00ca\u0082X\u00fb\u00d3\u0086{\u00dbq\u00d5fm#B",
+        "cp273": "\u0001\u00f2+\u00ca\u0082X\u00fb\u00d3\u0086\u00e4\u00dbq\u00d5fm#B"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 20,
+    "height": 3,
+    "axis": "rows_columns/forward",
+    "values": [
+      118,
+      107,
+      111,
+      14,
+      21,
+      20,
+      21,
+      15,
+      18,
+      20,
+      18,
+      13,
+      10,
+      18,
+      19,
+      21,
+      20,
+      17,
+      20,
+      14,
+      18,
+      13,
+      6
+    ],
+    "decimal": "118107111142120211518201813101819212017201418136",
+    "text_views": {
+      "mod26_A0": "odhovuvpsusnkstvuruosng",
+      "mod26_A1": "ncgnutuortrmjrsutqtnrmf"
+    },
+    "integer_view": {
+      "digits": "118107111142120211518201813101819212017201418136",
+      "base": 10,
+      "byte_length": 20,
+      "hex": "14b01b24d94810f8ae2d6982a7b34e35e6998f98",
+      "strict_decodings": {
+        "utf-16-le": "\ub014\u241b\u48d9\uf810\u2dae\u8269\ub3a7\u354e\u99e6\u988f",
+        "cp037": "\u009d^\u008f\u0084R\u00e7\u00108\u00de\u0005\u00d1bx\u00b7+\u0095Wr\u00b1q",
+        "cp273": "\u009d\u00a2\u008f\u0084R\u00e7\u00108\u00de\u0005\u00d1bx\u00b7+\u0095Wr\u00b1q"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 20,
+    "height": 3,
+    "axis": "rows_columns/reverse",
+    "values": [
+      6,
+      13,
+      18,
+      14,
+      20,
+      17,
+      20,
+      21,
+      19,
+      18,
+      10,
+      13,
+      18,
+      20,
+      18,
+      15,
+      21,
+      20,
+      21,
+      14,
+      111,
+      107,
+      118
+    ],
+    "decimal": "613181420172021191810131820181521202114111107118",
+    "text_views": {
+      "mod26_A0": "gnsouruvtsknsuspvuvohdo",
+      "mod26_A1": "fmrntqtusrjmrtroutungcn"
+    },
+    "integer_view": {
+      "digits": "613181420172021191810131820181521202114111107118",
+      "base": 10,
+      "byte_length": 20,
+      "hex": "6b68017e9a7eb51c485b67dfbac82e0958fa702e",
+      "strict_decodings": {
+        "utf-16-be": "\u6b68\u017e\u9a7e\ub51c\u485b\u67df\ubac8\u2e09\u58fa\u702e",
+        "cp037": ",\u00c7\u0001=\u00aa=\u00a7\u001c\u00e7$\u00c5\u00ff[H\u0006\u008d\u00ec\u00b3\u00f8\u0006",
+        "cp273": ",\u00c7\u0001=\u00aa=@\u001c\u00e7$\u00c5\u00ff\u00acH\u0006\u008d\u00ec\u00b3\u00f8\u0006"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 20,
+    "height": 3,
+    "axis": "columns_rows/forward",
+    "values": [
+      14,
+      21,
+      20,
+      21,
+      15,
+      18,
+      20,
+      18,
+      13,
+      10,
+      18,
+      19,
+      21,
+      20,
+      17,
+      20,
+      14,
+      18,
+      13,
+      6,
+      118,
+      107,
+      111
+    ],
+    "decimal": "142120211518201813101819212017201418136118107111",
+    "text_views": {
+      "mod26_A0": "ovuvpsusnkstvuruosngodh",
+      "mod26_A1": "nutuortrmjrsutqtnrmfncg"
+    },
+    "integer_view": {
+      "digits": "142120211518201813101819212017201418136118107111",
+      "base": 10,
+      "byte_length": 20,
+      "hex": "18e4e404717b42eca0e0610d35a1a46d9bc81be7",
+      "strict_decodings": {
+        "utf-16-le": "\ue418\u04e4\u7b71\uec42\ue0a0\u0d61\ua135\u6da4\uc89b\ue71b",
+        "utf-16-be": "\u18e4\ue404\u717b\u42ec\ua0e0\u610d\u35a1\ua46d\u9bc8\u1be7",
+        "cp037": "\u0018UU\u009c\u00c9#\u00e2\u00d6\u00b5\\/\r\u0095~u_\u00baH\u008fX",
+        "cp273": "\u0018UU\u009c\u00c9#\u00e2\\\u00b5\u00d6/\r\u0095\u00dfu_\u00baH\u008fX"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 20,
+    "height": 3,
+    "axis": "columns_rows/reverse",
+    "values": [
+      111,
+      107,
+      118,
+      6,
+      13,
+      18,
+      14,
+      20,
+      17,
+      20,
+      21,
+      19,
+      18,
+      10,
+      13,
+      18,
+      20,
+      18,
+      15,
+      21,
+      20,
+      21,
+      14
+    ],
+    "decimal": "111107118613181420172021191810131820181521202114",
+    "text_views": {
+      "mod26_A0": "hdognsouruvtsknsuspvuvo",
+      "mod26_A1": "gcnfmrntqtusrjmrtroutun"
+    },
+    "integer_view": {
+      "digits": "111107118613181420172021191810131820181521202114",
+      "base": 10,
+      "byte_length": 20,
+      "hex": "1376372baa330d0ecc4f2b9009c723ef86947bc2",
+      "strict_decodings": {
+        "utf-16-le": "\u7613\u2b37\u33aa\u0e0d\u4fcc\u902b\uc709\uef23\u9486\uc27b",
+        "utf-16-be": "\u1376\u372b\uaa33\u0d0e\ucc4f\u2b90\u09c7\u23ef\u8694\u7bc2",
+        "cp037": "\u0013\u00ce\u0004\u008b\u00a1\u0093\r\u000e\u00f6|\u008b\u00b0\u008dG\u0083\u00d5fm#B",
+        "cp273": "\u0013\u00ce\u0004\u008b\u00a1\u0093\r\u000e\u00a6!\u008b\u00b0\u008dG\u0083\u00d5fm#B"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 30,
+    "height": 2,
+    "axis": "rows/forward",
+    "values": [
+      180,
+      156
+    ],
+    "decimal": "180156",
+    "text_views": {
+      "mod26_A0": "ya",
+      "mod26_A1": "xz"
+    },
+    "integer_view": {
+      "digits": "180156",
+      "base": 10,
+      "byte_length": 3,
+      "hex": "02bfbc",
+      "strict_decodings": {
+        "cp037": "\u0002\u00d7\u00af",
+        "cp273": "\u0002\u00d7\u203e"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 30,
+    "height": 2,
+    "axis": "rows/reverse",
+    "values": [
+      156,
+      180
+    ],
+    "decimal": "156180",
+    "text_views": {
+      "mod26_A0": "ay",
+      "mod26_A1": "zx"
+    },
+    "integer_view": {
+      "digits": "156180",
+      "base": 10,
+      "byte_length": 3,
+      "hex": "026214",
+      "strict_decodings": {
+        "ascii": "\u0002b\u0014",
+        "utf-8": "\u0002b\u0014",
+        "cp037": "\u0002\u00c2\u009d",
+        "cp273": "\u0002\u00c2\u009d"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 30,
+    "height": 2,
+    "axis": "columns/forward",
+    "values": [
+      8,
+      17,
+      12,
+      14,
+      6,
+      7,
+      9,
+      15,
+      11,
+      4,
+      8,
+      12,
+      15,
+      13,
+      14,
+      14,
+      10,
+      10,
+      9,
+      5,
+      16,
+      11,
+      14,
+      14,
+      12,
+      17,
+      15,
+      11,
+      6,
+      7
+    ],
+    "decimal": "81712146791511481215131414101095161114141217151167",
+    "text_views": {
+      "mod26_A0": "irmoghjpleimpnookkjfqloomrplgh",
+      "mod26_A1": "hqlnfgiokdhlomnnjjiepknnlqokfg"
+    },
+    "integer_view": {
+      "digits": "81712146791511481215131414101095161114141217151167",
+      "base": 10,
+      "byte_length": 21,
+      "hex": "37e8e362d77547f4bb81db239b4505739bfcc658bf",
+      "strict_decodings": {
+        "cp037": "\u0004YT\u00c2P\u00cd\u00e54]a\u00fb\u0083\u00ba\u00e1\t\u00cb\u00ba\u00dcF\u00ec\u00d7",
+        "cp273": "\u0004YT\u00c2P\u00cd\u00e54|a\u00fb\u0083\u00ba\u00e1\t\u00cb\u00ba]F\u00ec\u00d7"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 30,
+    "height": 2,
+    "axis": "columns/reverse",
+    "values": [
+      7,
+      6,
+      11,
+      15,
+      17,
+      12,
+      14,
+      14,
+      11,
+      16,
+      5,
+      9,
+      10,
+      10,
+      14,
+      14,
+      13,
+      15,
+      12,
+      8,
+      4,
+      11,
+      15,
+      9,
+      7,
+      6,
+      14,
+      12,
+      17,
+      8
+    ],
+    "decimal": "76111517121414111659101014141315128411159761412178",
+    "text_views": {
+      "mod26_A0": "hglprmoolqfjkkoonpmielpjhgomri",
+      "mod26_A1": "gfkoqlnnkpeijjnnmolhdkoigfnlqh"
+    },
+    "integer_view": {
+      "digits": "76111517121414111659101014141315128411159761412178",
+      "base": 10,
+      "byte_length": 21,
+      "hex": "3413de7745d71af3ecc84b9856d050650ea6f26052",
+      "strict_decodings": {
+        "cp037": "\u0094\u0013\u00fa\u00cf\u00e1P\u00923\u00d6H.q\u00ee}&\u00c1\u000ew2-\u00ea",
+        "cp273": "\u0094\u0013\u00fa\u00cf\u00e1P\u00923\\H.q\u00ee\u00fc&\u00c1\u000ew2-\u00ea"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 30,
+    "height": 2,
+    "axis": "rows_columns/forward",
+    "values": [
+      180,
+      156,
+      8,
+      17,
+      12,
+      14,
+      6,
+      7,
+      9,
+      15,
+      11,
+      4,
+      8,
+      12,
+      15,
+      13,
+      14,
+      14,
+      10,
+      10,
+      9,
+      5,
+      16,
+      11,
+      14,
+      14,
+      12,
+      17,
+      15,
+      11,
+      6,
+      7
+    ],
+    "decimal": "18015681712146791511481215131414101095161114141217151167",
+    "text_views": {
+      "mod26_A0": "yairmoghjpleimpnookkjfqloomrplgh",
+      "mod26_A1": "xzhqlnfgiokdhlomnnjjiepknnlqokfg"
+    },
+    "integer_view": {
+      "digits": "18015681712146791511481215131414101095161114141217151167",
+      "base": 10,
+      "byte_length": 23,
+      "hex": "bc17ada59fdf26878f7bcdc232c30a1675739bfcc658bf",
+      "strict_decodings": {
+        "cp037": "\u00af\u0087\u00ddv\u00a4\u00ff\u0017g\u00b1#\u00f2B\u0016C\u008e\b\u00cd\u00cb\u00ba\u00dcF\u00ec\u00d7",
+        "cp273": "\u203e\u0087\u00ddv\u00a4\u00ff\u0017g\u00b1#\u00f2B\u0016C\u008e\b\u00cd\u00cb\u00ba]F\u00ec\u00d7"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 30,
+    "height": 2,
+    "axis": "rows_columns/reverse",
+    "values": [
+      7,
+      6,
+      11,
+      15,
+      17,
+      12,
+      14,
+      14,
+      11,
+      16,
+      5,
+      9,
+      10,
+      10,
+      14,
+      14,
+      13,
+      15,
+      12,
+      8,
+      4,
+      11,
+      15,
+      9,
+      7,
+      6,
+      14,
+      12,
+      17,
+      8,
+      156,
+      180
+    ],
+    "decimal": "76111517121414111659101014141315128411159761412178156180",
+    "text_views": {
+      "mod26_A0": "hglprmoolqfjkkoonpmielpjhgomriay",
+      "mod26_A1": "gfkoqlnnkpeijjnnmolhdkoigfnlqhzx"
+    },
+    "integer_view": {
+      "digits": "76111517121414111659101014141315128411159761412178156180",
+      "base": 10,
+      "byte_length": 24,
+      "hex": "031aa42d4f756d7f047fc3437d42ac1eba02d2e7de3d9a94",
+      "strict_decodings": {
+        "utf-16-le": "\u1a03\u2da4\u754f\u7f6d\u7f04\u43c3\u427d\u1eac\u02ba\ue7d2\u3dde\u949a",
+        "cp037": "\u0003\u0092u\u0005|\u00cd_\"\u009c\"C\u00e4'\u00e2\u00d0\u001e[\u0002KX\u00fa\u0015\u00aam",
+        "cp273": "\u0003\u0092u\u0005!\u00cd_\"\u009c\"C{'\u00e2\u00d0\u001e\u00ac\u0002KX\u00fa\u0015\u00aam"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 30,
+    "height": 2,
+    "axis": "columns_rows/forward",
+    "values": [
+      8,
+      17,
+      12,
+      14,
+      6,
+      7,
+      9,
+      15,
+      11,
+      4,
+      8,
+      12,
+      15,
+      13,
+      14,
+      14,
+      10,
+      10,
+      9,
+      5,
+      16,
+      11,
+      14,
+      14,
+      12,
+      17,
+      15,
+      11,
+      6,
+      7,
+      180,
+      156
+    ],
+    "decimal": "81712146791511481215131414101095161114141217151167180156",
+    "text_views": {
+      "mod26_A0": "irmoghjpleimpnookkjfqloomrplghya",
+      "mod26_A1": "hqlnfgiokdhlomnnjjiepknnlqokfgxz"
+    },
+    "integer_view": {
+      "digits": "81712146791511481215131414101095161114141217151167180156",
+      "base": 10,
+      "byte_length": 24,
+      "hex": "03551d57a2f42151361222320c0ff9ee6f4eedc987ab2d7c",
+      "strict_decodings": {
+        "utf-16-le": "\u5503\u571d\uf4a2\u5121\u1236\u3222\u0f0c\ueef9\u4e6f\uc9ed\uab87\u7c2d",
+        "utf-16-be": "\u0355\u1d57\ua2f4\u2151\u3612\u2232\u0c0f\uf9ee\u6f4e\uedc9\u87ab\u2d7c",
+        "cp037": "\u0003\u00ed\u001d\u00efs4\u0081\u00e9\u0096\u0012\u0082\u0016\f\u000f9\u00d3?+\u00d2Ig\u00bf\u0005@",
+        "cp273": "\u0003\u00ed\u001d\u00efs4\u0081\u00e9\u0096\u0012\u0082\u0016\f\u000f9\u00d3?+\u00d2Ig\u00bf\u0005\u00a7"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 30,
+    "height": 2,
+    "axis": "columns_rows/reverse",
+    "values": [
+      156,
+      180,
+      7,
+      6,
+      11,
+      15,
+      17,
+      12,
+      14,
+      14,
+      11,
+      16,
+      5,
+      9,
+      10,
+      10,
+      14,
+      14,
+      13,
+      15,
+      12,
+      8,
+      4,
+      11,
+      15,
+      9,
+      7,
+      6,
+      14,
+      12,
+      17,
+      8
+    ],
+    "decimal": "15618076111517121414111659101014141315128411159761412178",
+    "text_views": {
+      "mod26_A0": "ayhglprmoolqfjkkoonpmielpjhgomri",
+      "mod26_A1": "zxgfkoqlnnkpeijjnnmolhdkoigfnlqh"
+    },
+    "integer_view": {
+      "digits": "15618076111517121414111659101014141315128411159761412178",
+      "base": 10,
+      "byte_length": 23,
+      "hex": "a30f7152d8dd9d96c1c77880f846614420650ea6f26052",
+      "strict_decodings": {
+        "cp037": "t\u000f\u00c9\u00eaQ\u00f9\u00b8oAG\u00cc\u00d88\u00e3/\u00e0\u0080\u00c1\u000ew2-\u00ea",
+        "cp273": "t\u000f\u00c9\u00eaQ\u00f9\u00b8oAG\u00cc\u00d88\u00e3/\u00e0\u0080\u00c1\u000ew2-\u00ea"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 60,
+    "height": 1,
+    "axis": "rows/forward",
+    "values": [
+      336
+    ],
+    "decimal": "336",
+    "text_views": {
+      "mod26_A0": "y",
+      "mod26_A1": "x"
+    },
+    "integer_view": {
+      "digits": "336",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "0150",
+      "strict_decodings": {
+        "ascii": "\u0001P",
+        "utf-8": "\u0001P",
+        "utf-16-le": "\u5001",
+        "utf-16-be": "\u0150",
+        "cp037": "\u0001&",
+        "cp273": "\u0001&"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 60,
+    "height": 1,
+    "axis": "rows/reverse",
+    "values": [
+      336
+    ],
+    "decimal": "336",
+    "text_views": {
+      "mod26_A0": "y",
+      "mod26_A1": "x"
+    },
+    "integer_view": {
+      "digits": "336",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "0150",
+      "strict_decodings": {
+        "ascii": "\u0001P",
+        "utf-8": "\u0001P",
+        "utf-16-le": "\u5001",
+        "utf-16-be": "\u0150",
+        "cp037": "\u0001&",
+        "cp273": "\u0001&"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 60,
+    "height": 1,
+    "axis": "columns/forward",
+    "values": [
+      4,
+      9,
+      6,
+      8,
+      3,
+      3,
+      7,
+      9,
+      8,
+      1,
+      5,
+      5,
+      9,
+      8,
+      7,
+      7,
+      5,
+      7,
+      5,
+      2,
+      7,
+      5,
+      8,
+      8,
+      5,
+      8,
+      8,
+      6,
+      1,
+      6,
+      4,
+      8,
+      6,
+      6,
+      3,
+      4,
+      2,
+      6,
+      3,
+      3,
+      3,
+      7,
+      6,
+      5,
+      7,
+      7,
+      5,
+      3,
+      4,
+      3,
+      9,
+      6,
+      6,
+      6,
+      7,
+      9,
+      7,
+      5,
+      5,
+      1
+    ],
+    "decimal": "496833798155987757527588588616486634263337657753439666797551",
+    "text_views": {
+      "mod26_A0": "ejgiddhjibffjihhfhfchfiifiigbgeiggdecgdddhgfhhfdedjggghjhffb",
+      "mod26_A1": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea"
+    },
+    "integer_view": {
+      "digits": "496833798155987757527588588616486634263337657753439666797551",
+      "base": 10,
+      "byte_length": 25,
+      "hex": "4f2672e27e0d78d5a3f30ee8f82e316eeff67ee50ef4257bef",
+      "strict_decodings": {
+        "cp037": "|\u0017\u00caS=\r\u00ccNt3\u000eY8\u0006\u0091>\u00d56=V\u000e4\n#\u00d5",
+        "cp273": "!\u0017\u00caS=\r\u00ccNt3\u000eY8\u0006\u0091>\u00d56=V\u000e4\n#\u00d5"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 60,
+    "height": 1,
+    "axis": "columns/reverse",
+    "values": [
+      1,
+      5,
+      5,
+      7,
+      9,
+      7,
+      6,
+      6,
+      6,
+      9,
+      3,
+      4,
+      3,
+      5,
+      7,
+      7,
+      5,
+      6,
+      7,
+      3,
+      3,
+      3,
+      6,
+      2,
+      4,
+      3,
+      6,
+      6,
+      8,
+      4,
+      6,
+      1,
+      6,
+      8,
+      8,
+      5,
+      8,
+      8,
+      5,
+      7,
+      2,
+      5,
+      7,
+      5,
+      7,
+      7,
+      8,
+      9,
+      5,
+      5,
+      1,
+      8,
+      9,
+      7,
+      3,
+      3,
+      8,
+      6,
+      9,
+      4
+    ],
+    "decimal": "155797666934357756733362436684616885885725757789551897338694",
+    "text_views": {
+      "mod26_A0": "bffhjhgggjdedfhhfghdddgcedggiegbgiifiifhcfhfhhijffbijhddigje",
+      "mod26_A1": "aeegigffficdceggefgcccfbdcffhdfafhhehhegbegegghieeahigcchfid"
+    },
+    "integer_view": {
+      "digits": "155797666934357756733362436684616885885725757789551897338694",
+      "base": 10,
+      "byte_length": 25,
+      "hex": "18d1eb8a18cb1b5d87d87d70cb6401394e5c45257fa1abe346",
+      "strict_decodings": {
+        "cp037": "\u0018J\u00d4\u00ab\u0018\u00f4\u008f)gQ'\u00f8\u00f4\u00c0\u0001\u0099+*\u00e1\n\"~\u00bfT\u00e3",
+        "cp273": "\u0018J\u00d4\u00ab\u0018\u00f4\u008f)gQ'\u00f8\u00f4\u00c0\u0001\u0099+*\u00e1\n\"\u00df\u00bfT\u00e3"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 60,
+    "height": 1,
+    "axis": "rows_columns/forward",
+    "values": [
+      336,
+      4,
+      9,
+      6,
+      8,
+      3,
+      3,
+      7,
+      9,
+      8,
+      1,
+      5,
+      5,
+      9,
+      8,
+      7,
+      7,
+      5,
+      7,
+      5,
+      2,
+      7,
+      5,
+      8,
+      8,
+      5,
+      8,
+      8,
+      6,
+      1,
+      6,
+      4,
+      8,
+      6,
+      6,
+      3,
+      4,
+      2,
+      6,
+      3,
+      3,
+      3,
+      7,
+      6,
+      5,
+      7,
+      7,
+      5,
+      3,
+      4,
+      3,
+      9,
+      6,
+      6,
+      6,
+      7,
+      9,
+      7,
+      5,
+      5,
+      1
+    ],
+    "decimal": "336496833798155987757527588588616486634263337657753439666797551",
+    "text_views": {
+      "mod26_A0": "yejgiddhjibffjihhfhfchfiifiigbgeiggdecgdddhgfhhfdedjggghjhffb",
+      "mod26_A1": "xdifhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea"
+    },
+    "integer_view": {
+      "digits": "336496833798155987757527588588616486634263337657753439666797551",
+      "base": 10,
+      "byte_length": 26,
+      "hex": "d16709d4e1785a73680ea405c37af37f8bd4f67ee50ef4257bef",
+      "strict_decodings": {
+        "utf-16-le": "\u67d1\ud409\u78e1\u735a\u0e68\u05a4\u7ac3\u7ff3\ud48b\u7ef6\u0ee5\u25f4\uef7b",
+        "utf-16-be": "\ud167\u09d4\ue178\u5a73\u680e\ua405\uc37a\uf37f\u8bd4\uf67e\ue50e\uf425\u7bef",
+        "cp037": "J\u00c5\u008dM\u00f7\u00cc!\u00cb\u00c7\u000eu\tC:3\"\u00bbM6=V\u000e4\n#\u00d5",
+        "cp273": "J\u00c5\u008dM\u00f7\u00cc\u00dc\u00cb\u00c7\u000eu\tC:3\"\u00bbM6=V\u000e4\n#\u00d5"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 60,
+    "height": 1,
+    "axis": "rows_columns/reverse",
+    "values": [
+      1,
+      5,
+      5,
+      7,
+      9,
+      7,
+      6,
+      6,
+      6,
+      9,
+      3,
+      4,
+      3,
+      5,
+      7,
+      7,
+      5,
+      6,
+      7,
+      3,
+      3,
+      3,
+      6,
+      2,
+      4,
+      3,
+      6,
+      6,
+      8,
+      4,
+      6,
+      1,
+      6,
+      8,
+      8,
+      5,
+      8,
+      8,
+      5,
+      7,
+      2,
+      5,
+      7,
+      5,
+      7,
+      7,
+      8,
+      9,
+      5,
+      5,
+      1,
+      8,
+      9,
+      7,
+      3,
+      3,
+      8,
+      6,
+      9,
+      4,
+      336
+    ],
+    "decimal": "155797666934357756733362436684616885885725757789551897338694336",
+    "text_views": {
+      "mod26_A0": "bffhjhgggjdedfhhfghdddgcedggiegbgiifiifhcfhfhhijffbijhddigjey",
+      "mod26_A1": "aeegigffficdceggefgcccfbdcffhdfafhhehhegbegegghieeahigcchfidx"
+    },
+    "integer_view": {
+      "digits": "155797666934357756733362436684616885885725757789551897338694336",
+      "base": 10,
+      "byte_length": 26,
+      "hex": "60f4001370d962e55aa5aa009a7ea4c7da186e1a7a8f876fcac0",
+      "strict_decodings": {
+        "cp037": "-4\u0000\u0013\u00f8R\u00c2V!v\u00a1\u0000\u00aa=uG\u00b9\u0018>\u0092:\u00b1g?\u00ad{",
+        "cp273": "-4\u0000\u0013\u00f8R\u00c2V\u00dcv\u00a1\u0000\u00aa=uG\u00b9\u0018>\u0092:\u00b1g?\u00ad\u00e4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 60,
+    "height": 1,
+    "axis": "columns_rows/forward",
+    "values": [
+      4,
+      9,
+      6,
+      8,
+      3,
+      3,
+      7,
+      9,
+      8,
+      1,
+      5,
+      5,
+      9,
+      8,
+      7,
+      7,
+      5,
+      7,
+      5,
+      2,
+      7,
+      5,
+      8,
+      8,
+      5,
+      8,
+      8,
+      6,
+      1,
+      6,
+      4,
+      8,
+      6,
+      6,
+      3,
+      4,
+      2,
+      6,
+      3,
+      3,
+      3,
+      7,
+      6,
+      5,
+      7,
+      7,
+      5,
+      3,
+      4,
+      3,
+      9,
+      6,
+      6,
+      6,
+      7,
+      9,
+      7,
+      5,
+      5,
+      1,
+      336
+    ],
+    "decimal": "496833798155987757527588588616486634263337657753439666797551336",
+    "text_views": {
+      "mod26_A0": "ejgiddhjibffjihhfhfchfiifiigbgeiggdecgdddhgfhhfdedjggghjhffby",
+      "mod26_A1": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeeax"
+    },
+    "integer_view": {
+      "digits": "496833798155987757527588588616486634263337657753439666797551336",
+      "base": 10,
+      "byte_length": 27,
+      "hex": "01352e30c4bc64a002886d723e09747119595adfaec269b26c1ee8",
+      "strict_decodings": {
+        "cp037": "\u0001\u0095\u0006\u0090D\u00af\u00c0\u00b5\u0002h_\u00ca\u009e\u008d\u00c8\u00c9\u0019\u00df!\u00ff\u00deB\u00d1\u00a5%\u001eY",
+        "cp273": "\u0001\u0095\u0006\u0090D\u203e\u00c0\u00b5\u0002h_\u00ca\u009e\u008d\u00c8\u00c9\u0019~\u00dc\u00ff\u00deB\u00d1\u00a5%\u001eY"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "width": 60,
+    "height": 1,
+    "axis": "columns_rows/reverse",
+    "values": [
+      336,
+      1,
+      5,
+      5,
+      7,
+      9,
+      7,
+      6,
+      6,
+      6,
+      9,
+      3,
+      4,
+      3,
+      5,
+      7,
+      7,
+      5,
+      6,
+      7,
+      3,
+      3,
+      3,
+      6,
+      2,
+      4,
+      3,
+      6,
+      6,
+      8,
+      4,
+      6,
+      1,
+      6,
+      8,
+      8,
+      5,
+      8,
+      8,
+      5,
+      7,
+      2,
+      5,
+      7,
+      5,
+      7,
+      7,
+      8,
+      9,
+      5,
+      5,
+      1,
+      8,
+      9,
+      7,
+      3,
+      3,
+      8,
+      6,
+      9,
+      4
+    ],
+    "decimal": "336155797666934357756733362436684616885885725757789551897338694",
+    "text_views": {
+      "mod26_A0": "ybffhjhgggjdedfhhfghdddgcedggiegbgiifiifhcfhfhhijffbijhddigje",
+      "mod26_A1": "xaeegigffficdceggefgcccfbdcffhdfafhhehhegbegegghieeahigcchfid"
+    },
+    "integer_view": {
+      "digits": "336155797666934357756733362436684616885885725757789551897338694",
+      "base": 10,
+      "byte_length": 26,
+      "hex": "d130b54d89131815eff289744b4e294f56335c45257fa1abe346",
+      "strict_decodings": {
+        "utf-16-le": "\u30d1\u4db5\u1389\u1518\uf2ef\u7489\u4e4b\u4f29\u3356\u455c\u7f25\uaba1\u46e3",
+        "utf-16-be": "\ud130\ub54d\u8913\u1815\ueff2\u8974\u4b4e\u294f\u5633\u5c45\u257f\ua1ab\ue346",
+        "cp037": "J\u0090\u00a7(i\u0013\u0018\u0085\u00d52i\u00c8.+\u0089|\u00ee\u0093*\u00e1\n\"~\u00bfT\u00e3",
+        "cp273": "J\u0090@(i\u0013\u0018\u0085\u00d52i\u00c8.+\u0089!\u00ee\u0093*\u00e1\n\"\u00df\u00bfT\u00e3"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  }
+]

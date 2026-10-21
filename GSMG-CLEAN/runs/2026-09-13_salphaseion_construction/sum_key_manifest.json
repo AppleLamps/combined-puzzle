@@ -1,0 +1,11 @@
+{
+  "model": "Raw DBBI exact rectangles -> ordinary axis sum list -> repeating Beaufort key on all FAED -> decimal integer bytes",
+  "reasons": "matrixsumlist explicitly names sums; Beaufort is demonstrated in Phase 3.2; decimal integer decoding is demonstrated beside FAED",
+  "assumptions": "DBBI is key material; a..i is the Beaufort alphabet; key is repeated; numeric output is the demonstrated next layer",
+  "choices": "All factor widths including 1 and 91; rows/columns; a=0 and a=1 numeric conventions",
+  "acceptance": "No prefixes or isolated words; save every full intermediate and verify exact re-encryption",
+  "source_hashes": {
+    "DBBI_91.txt": "ec374000d5f070de550469ae0f24b414dbb2673f9f41aa498ae00d8f97355565",
+    "FAED_570.txt": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35"
+  }
+}

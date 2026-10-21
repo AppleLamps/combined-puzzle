@@ -1,0 +1,17 @@
+{
+  "source": "runs\\2026-09-13_assumption_audit\\all_padding_valid.jsonl",
+  "source_sha256": "55bc23e7371d127b1ae4a3ebe5380ab5125865ad33a93c29156432259dc45169",
+  "profiles": "inherited from replay",
+  "depth": 2,
+  "key_backend": "coincurve",
+  "counts": {
+    "retained": 755,
+    "with_format_signals": 0,
+    "with_key_matches": 0,
+    "with_limits": 0
+  },
+  "max_nodes": 32,
+  "max_bytes": 65536,
+  "key_scan_bytes": 4096,
+  "interpretation": "Signals are leads, not authenticated decryptions. Unknown bytes retained. Live mode assumes PKCS#7; no unpadded or alternate cipher search."
+}

@@ -1,0 +1,58 @@
+{
+ "date": "2026-09-14",
+ "review": "14_CRITICAL_REVIEW_2026-09-14.md section M4 / move 1",
+ "purpose": "close the M4 zeroing construction against exact oracles before any envelope work",
+ "envelope_bytes_read": 0,
+ "aes_decryptions": 0,
+ "inputs": {
+  "poster_spiral_bits.txt": "c541fb7eba685cc2fc4bb06a4eadddf6090d8e5f5f2e3e9598130cb024b50e1a",
+  "architect_letters_1539.txt": "a365cc7907f509d3933f09b959c21bcd2771743e5c2c31808f49b674fa5b011a",
+  "architect_plaintext_readable.txt": "9c9f628ce1d5142ff499c842d634b847f8fae48086cf672ee650d08752993ef5",
+  "checkerboard_vic_91.txt": "be49f1df1d0f99ccfdc221944aaf4fbe54da364ac77adb311d5871e7f0f5b923",
+  "seven_part_phase3_answer.json": "432263caad5da6cb8eaf6fe36dca371e2b4d1464445b5453c489d7fe47463dc1"
+ },
+ "oracles": {
+  "chain_digests": {
+   "phase1_answer": "5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75",
+   "phase2_seven_part": "1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec30d5",
+   "phase32_three_part": "250f37726d6862939f723edc4f993fde9d33c6004aab4f2203d9ee489d61ce4c"
+  },
+  "replacement_targets": [
+   "phase32_three_part",
+   "phase2_seven_part"
+  ],
+  "addresses": [
+   "18CchrjA3Uzfrzy4DFqao9ric6YfK4hjdc",
+   "1AD2wfwXukZ1kUAy848hTQQ72aSBZPB75r",
+   "13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp",
+   "1GyT5W (prefix)",
+   "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+   "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa"
+  ],
+  "dbbi_pattern": "01234556728966286abc61c88b48de3086dd501d5557d6bab5605233df7bbb96"
+ },
+ "conventions_scanned": {
+  "prime_assignments": "24 rotations x 2 directions",
+  "texts": [
+   "letters1539_0based",
+   "letters1539_1based",
+   "compact1544_0based"
+  ],
+  "indexing": "0-based and 1-based",
+  "zeroing_operands": "the prime equal to the colour-sum difference"
+ },
+ "selftest": {
+  "addr_18CchrjA3U_from_sha256_of_149_digits": true,
+  "addr_1AD2wfwX_from_sha256_of_phase1_answer": true,
+  "addr_13HGhjkm_from_bitreversed_url_integer_raw": true,
+  "addr_1GyT5W_prefix_from_sha256_of_prize_address": true,
+  "digest_phase1_answer": true,
+  "digest_phase2_seven_part": true,
+  "digest_phase32_three_part": true
+ },
+ "limits": [
+  "literal answers only; the construction as a key/selector is not covered",
+  "no sign, matrix or FAED continuation is generated",
+  "one prefix-only target (1GyT5W) is matched on 6 leading base58 characters"
+ ]
+}

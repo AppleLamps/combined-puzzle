@@ -1,0 +1,203 @@
+{
+  "opened_stages": [
+    {
+      "stage": "phase2",
+      "parts": 1,
+      "plaintext_bytes": 648,
+      "sha256": "e2f9dd65604a3231f8b3301724e8d713a88fffc4b6c7c4aeeb20f58a582b593a"
+    },
+    {
+      "stage": "phase3",
+      "parts": 7,
+      "plaintext_bytes": 4090,
+      "sha256": "c4ad94559a44a927c1032cc0e024515f9510a0806a2d14458dbf4a360af9865f"
+    },
+    {
+      "stage": "phase3_2",
+      "parts": 3,
+      "plaintext_bytes": 2422,
+      "sha256": "b82afeb86f9e50848220f9b64b744b821400308aea273a1c949b9d2d0e408a34"
+    }
+  ],
+  "correct_components_failing_alone": [
+    {
+      "stage": "phase3",
+      "part": 1,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3",
+      "part": 2,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3",
+      "part": 3,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3",
+      "part": 4,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3",
+      "part": 5,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3",
+      "part": 6,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3",
+      "part": 7,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3_2",
+      "part": 1,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3_2",
+      "part": 2,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    },
+    {
+      "stage": "phase3_2",
+      "part": 3,
+      "padding": 0,
+      "reproduces_expected_plaintext": false
+    }
+  ],
+  "architect": {
+    "length": 1539,
+    "sha256": "56c43a300e28b86bb43b8dcbae74c43c76bde90b3e1190620fb656f2c94b2241"
+  },
+  "checkerboard": {
+    "digit_count": 149,
+    "plaintext": "INCASEYOUMANAGETOCRACKTHISTHEPRIVATEKEYSBELONGTOHALFANDBETTERHALFANDTHEYALSONEEDFUNDSTOLIVE",
+    "used_codes": [
+      "0",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2",
+      "3",
+      "40",
+      "41",
+      "42",
+      "43",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "unused_codes": [
+      "10",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "side_route": {
+    "caption_hash": "89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32",
+    "scene_parcels": [
+      "-41,-16",
+      "-41,-17"
+    ],
+    "navigation_candidate_coordinates": [
+      [
+        2,
+        0
+      ],
+      [
+        32,
+        82
+      ],
+      [
+        -42,
+        -16
+      ],
+      [
+        4,
+        15
+      ]
+    ],
+    "candidate_route_is_not_exact": true
+  },
+  "labels": {
+    "matrixsumlist": "matrixsumlist",
+    "lastwords": "lastwordsbeforearchichoice",
+    "thispassword": "thispassword",
+    "enter": "enter"
+  },
+  "first_z": 765,
+  "uninterrupted_initial_ai_length": 765,
+  "fields": {
+    "DBBI": {
+      "length": 91,
+      "counts": {
+        "d": 4,
+        "b": 25,
+        "i": 5,
+        "f": 10,
+        "h": 8,
+        "c": 8,
+        "e": 18,
+        "g": 10,
+        "a": 3
+      }
+    },
+    "FAED": {
+      "length": 570,
+      "counts": {
+        "f": 57,
+        "a": 54,
+        "e": 69,
+        "d": 49,
+        "g": 107,
+        "c": 52,
+        "b": 49,
+        "h": 58,
+        "i": 75
+      }
+    }
+  },
+  "locked": {
+    "terminal_phase3_2_end": {
+      "bytes": 96,
+      "sha256": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9"
+    },
+    "salphaseion_short": {
+      "bytes": 96,
+      "sha256": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258"
+    },
+    "cosmic_duality": {
+      "bytes": 1344,
+      "sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+    }
+  },
+  "verdict": "Solved transitions reproduced; ten correct components fail as standalone passwords; no locked transition established"
+}

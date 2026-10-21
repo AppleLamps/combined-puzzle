@@ -1,0 +1,6 @@
+{
+  "models_roundtrip": 2,
+  "source_character_ownership": true,
+  "margin_records_verified": 320,
+  "controls_note": "See test_compare_dbbi_forward_models.py for planted 83/84 forward recovery and mutation controls"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "Two a..i symbols introduce two-character tokens; other symbols are single-character tokens",
+  "motivation": "bg is the prior DBBI 64-token/16-symbol lead; nine columns with two row prefixes allow 25 codes, a possible modified checkerboard",
+  "families": "All 36 prefix pairs; full normal and reversed token order; source plaintext letters and I/J merged",
+  "criterion": "One-to-one token substitution must reproduce an entire source window, with no omissions",
+  "warning": "Changing to a nine-column board is a hypothesis; all-25 coverage in long FAED is not independent evidence",
+  "source_hashes": {
+    "DBBI_91.txt": "ec374000d5f070de550469ae0f24b414dbb2673f9f41aa498ae00d8f97355565",
+    "FAED_570.txt": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35"
+  }
+}

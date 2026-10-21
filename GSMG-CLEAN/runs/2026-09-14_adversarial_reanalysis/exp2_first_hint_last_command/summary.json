@@ -1,0 +1,14 @@
+{
+ "candidates": 50,
+ "decrypts": 900,
+ "pad_valid": 1,
+ "expected_pad_valid_by_chance": 3.53,
+ "key_hits": 0,
+ "seconds": 107.4,
+ "inputs": {
+  "locked_salphaseion_short": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+  "locked_terminal_phase3_2_end": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9",
+  "locked_cosmic_duality": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+ },
+ "code_sha256": "a60115c98e3796e357ef3d1c06f8f36ab6bb58c31e566b2c459baa326d57aac5"
+}

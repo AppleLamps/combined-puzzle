@@ -1,0 +1,158 @@
+[
+  {
+    "mask": "blue",
+    "byte_positions_zero_based": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      19,
+      22
+    ],
+    "mode": "NUL",
+    "bytes_hex": "000000002e000000746800000000640000706c006e740064",
+    "escaped_ascii": "\u0000\u0000\u0000\u0000.\u0000\u0000\u0000th\u0000\u0000\u0000\u0000d\u0000\u0000pl\u0000nt\u0000d",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  },
+  {
+    "mask": "blue",
+    "byte_positions_zero_based": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      19,
+      22
+    ],
+    "mode": "ASCII_zero",
+    "bytes_hex": "303030302e303030746830303030643030706c306e743064",
+    "escaped_ascii": "0000.000th0000d00pl0nt0d",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  },
+  {
+    "mask": "blue",
+    "byte_positions_zero_based": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      19,
+      22
+    ],
+    "mode": "delete",
+    "bytes_hex": "2e746864706c6e7464",
+    "escaped_ascii": ".thdplntd",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  },
+  {
+    "mask": "yellow",
+    "byte_positions_zero_based": [
+      4,
+      8,
+      9,
+      14,
+      17,
+      18,
+      20,
+      21,
+      23
+    ],
+    "mode": "NUL",
+    "bytes_hex": "67736d6700696f2f00006573656500697300006100006500",
+    "escaped_ascii": "gsmg\u0000io/\u0000\u0000esee\u0000is\u0000\u0000a\u0000\u0000e\u0000",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  },
+  {
+    "mask": "yellow",
+    "byte_positions_zero_based": [
+      4,
+      8,
+      9,
+      14,
+      17,
+      18,
+      20,
+      21,
+      23
+    ],
+    "mode": "ASCII_zero",
+    "bytes_hex": "67736d6730696f2f30306573656530697330306130306530",
+    "escaped_ascii": "gsmg0io/00esee0is00a00e0",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  },
+  {
+    "mask": "yellow",
+    "byte_positions_zero_based": [
+      4,
+      8,
+      9,
+      14,
+      17,
+      18,
+      20,
+      21,
+      23
+    ],
+    "mode": "delete",
+    "bytes_hex": "67736d67696f2f6573656569736165",
+    "escaped_ascii": "gsmgio/eseeisae",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  },
+  {
+    "mask": "offwhite",
+    "byte_positions_zero_based": [
+      20
+    ],
+    "mode": "NUL",
+    "bytes_hex": "67736d672e696f2f746865736565646973706c6100746564",
+    "escaped_ascii": "gsmg.io/theseedispla\u0000ted",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  },
+  {
+    "mask": "offwhite",
+    "byte_positions_zero_based": [
+      20
+    ],
+    "mode": "ASCII_zero",
+    "bytes_hex": "67736d672e696f2f746865736565646973706c6130746564",
+    "escaped_ascii": "gsmg.io/theseedispla0ted",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  },
+  {
+    "mask": "offwhite",
+    "byte_positions_zero_based": [
+      20
+    ],
+    "mode": "delete",
+    "bytes_hex": "67736d672e696f2f746865736565646973706c61746564",
+    "escaped_ascii": "gsmg.io/theseedisplated",
+    "caveat": "Readable surviving URL pieces are inherited text, not independent evidence"
+  }
+]

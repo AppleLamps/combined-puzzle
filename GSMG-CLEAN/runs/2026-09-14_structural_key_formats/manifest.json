@@ -1,0 +1,24 @@
+{
+ "date": "2026-09-14",
+ "sources": [
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_m4_zeroing_oracles\\candidates.jsonl",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_pointer_selectors\\candidates.jsonl",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_board_shape_sums\\all_outputs.jsonl",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_colour_selectors\\all_outputs.jsonl",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_keyed_faed\\all_outputs.jsonl",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_tail_cipher\\all_outputs.jsonl",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_matrixsum_lastwords\\all_outputs.jsonl"
+ ],
+ "envelope_bytes_read": 0,
+ "aes_decryptions": 0,
+ "backend": "coincurve",
+ "controls": {
+  "wif_uncompressed": true,
+  "wif_compressed": true,
+  "hex64": true,
+  "base64_32": true,
+  "half_first": true,
+  "half_second": true,
+  "target_gate": true
+ }
+}

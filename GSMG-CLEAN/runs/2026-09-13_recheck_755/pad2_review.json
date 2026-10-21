@@ -1,0 +1,330 @@
+[
+  {
+    "id": 203,
+    "source": {
+      "candidate": "is already blinding you from the simple and obvious truth: she is going to die and there is nothing you can do to stop it. hope: it is the quintessential human delusion, simultaneously the source of your greatest strength and your greatest weakness.",
+      "source": "P1_kd_line52_full/suffix43",
+      "profile": "gsmg-md5",
+      "envelope": "cosmic_duality",
+      "pad": 2,
+      "length": 1326,
+      "ascii_ratio": 0.38009049773755654,
+      "plaintext_hex": "fd79e198ff60f6dea4a52c0d4b3d3b7f50bbde37b5a15c06cb5cb0e399d88cfdae13d7812b12321fd4b518e07a30359d01f3dbaf105f88bf690e3d4d8d553ce5fa0a5626ab4d8c08d0d65031564f4967e45b017a8c2026af2cd2fd080d1c0572e40bcb496c5b13afcb11392dda157d1cfd0cf1a11165f45fc090841864938148a0a2f9224812bba6533654b88f8ce3142b555b8c0262cf399c5ce9e4382bd25cd5c82d4645b9e04150bb414a2391897962c530bc18fd8d3807ded909bb57ae2e73abd28cc4fbc9ec280090296e190b7bc99b7f1e0118206198beec9f4b0e5cde420db853a0eec517b5b8400f5c0ca1027e71e6a1476d454adb3e4276d5f30843af1bf3f84927a5f467f2e4d7caccd2aaf20c74b3d1ae101504304c628bff856680b0ae91f8afd1931c2aaa34c2191b05a6ae14f7c8ba6b112c82283356411ce44c0b6e401cc731316f7d6fb284e98cc1ef6944192d9d52f0816b58df71c9d67375c480d825c29a04e77983ccf177e1115d01c725eabbd681d5e7b4cd9f71eb2e45d65532a481467e010637824ee828d861b22243cd5387958c90bd5790f29474be6569d6e777f3dfb74445087bee5e7f36a9561f3e2a2466b80674d51f4a987432cab82d1d9b772be0f7a199eb207281ba53e993ec6d7f510a59519fd46e92eb209a47dc89c5fcd3900acb8913ea07581cbeeb7ed5bcf4856fee9e2cbd8389a8b354dbea822da65d6f160391b45769b35f3efb18242d0020a1134534639b86a9f7d1205ff0d05a77cccb2b87d1a20636ace3eb250a0003930cf160b822e56e1689d11bdce59abe0ac5314e0aeaa895ade3fc3ae9b02b47e2b1ad0d08df82d44bac6c2a089205fb6b522bd9d4623808d487b33d15d2582098c304e7bff93bd8d07d62b9a8ae5f67346bade19f6edc72f13151251d952dbd81a63148e4be61447ce515180bdf11ffebff40e6e5ab21f72e1b1032b30716418fff2f25807a2cc67ea9857852c2b9d148e8c9b85fe9f74a7b96bd92bb3f1a36b4e19d0589022bc4dd0cd576b3312f7c8f6dab26f4fe59619e1cde05d9bfff6c716bef81ea2018c6d96fb0c2faebd82df14b049294e5d36f91008de471cc23f6fbb46b05f53f281900dd6d1df52b591072b1f7255eb163ad3bb64274e22c14684e10098aab9301c3279359b76ebee957a5fe5398410d04f6cd06c9905cab79f79e305620cf106f0d05eb3b227e49c67a0f7bb0875bf6dec8481523e3d340496e443447f2070d54616b8101a04890aae7df6e58e8f322d17a643c9b7b474cc5aa95a6256d74d6d4455b74c581d353cd4ddc9c285e40e68a7c626e5aa195a9a207cbea9db2b27a1119d8f76cc79ac3bcf8be10c6e141e6a29b49ae2f04935e23b39e8ac076280f2fa63df7e92b04991dd68d1a9da41ca7d5b8e2b64748f100d2d9719337106aa28a0e47449406d8de4be5438c20e9ad19c65118546f0eaf39f139c02614e242b33d5053b0415f8a9ff64248dfe928a80774a17cbe569b84d77c87ab2aef28dd0a7db3bca222fdac2194e6ab97d02e20e5df80a39b5730ab1a5f7206b93bf4d770640809c0995e430921f31c21271aef26be8b068db84f05fd6b01004f9923c2a466ea6725aa30a02897a5e3b60d48078e54087b4f92625b8d46c89a4e16a585506fcffaabac7863fbb0d8a2509c36ba95c3cf41e90cbb8f0157f5da28f4499e3435ccdf8dee86344b2e465b82bdc90dd286a651301681cecd22e3e259e920b874846b731886ff440cc219b21c024e03ebcbc62ff646cf49fba6016bb4cbe08f0fed79ba20aef058e5d9c2e57ea4e4642035da10012fae2a154249297bd40a895777269428e3a4694a39b04cab3395177e9b"
+    },
+    "status": "UNRESOLVED_RETAINED",
+    "trigger": "PKCS7_PADDING_VALID_ONLY",
+    "pad_bytes_hex": "0202",
+    "final_decrypted_block_hex": "28e3a4694a39b04cab3395177e9b0202",
+    "envelope_sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805",
+    "independent_plaintext_verified": true,
+    "ascii_ratio": 0.38009049773755654,
+    "longest_ascii_run": 6,
+    "fragments": [
+      {
+        "encoding": "ascii",
+        "offset": 74,
+        "text": "P1VOIg"
+      },
+      {
+        "encoding": "ascii",
+        "offset": 884,
+        "text": "@InD4G"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 778,
+        "text": "kmVL?j"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 944,
+        "text": ">!~nzs"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 1284,
+        "text": "VRBV=uU"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 778,
+        "text": "kmVL?j"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 1284,
+        "text": "VRBV=uU"
+      }
+    ],
+    "embedded_events": [],
+    "interpretation": "No authenticity conclusion follows from padding or unrecognized formatting."
+  },
+  {
+    "id": 218,
+    "source": {
+      "candidate": "chemicalprecursorsthatsignaltheonsetofanemotiondesignedspecificallytooverwhelmlogicandreason,anemotionthatisalreadyblindingyoufromthesimpleandobvioustruth:sheisgoingtodieandthereisnothingyoucandotostopit.Hope:itisthequintessentialhumandelusion,simultaneouslythesourceofyourgreateststrengthandyourgreatestweakness.",
+      "source": "P1_kd_line52_full/suffix62",
+      "profile": "gsmg-md5",
+      "envelope": "salphaseion_short",
+      "pad": 2,
+      "length": 78,
+      "ascii_ratio": 0.44871794871794873,
+      "plaintext_hex": "95cf2de32ae965b053f02605ac05d78d38a79911bfda4926a8562f6e40e26b0b312dfcae068e5e6bb4331268c6d251507a847c7f174f6145c5972189cb8a1f6a30cb0f028a6559ad1c434ac86239"
+    },
+    "status": "UNRESOLVED_RETAINED",
+    "trigger": "PKCS7_PADDING_VALID_ONLY",
+    "pad_bytes_hex": "0202",
+    "final_decrypted_block_hex": "30cb0f028a6559ad1c434ac862390202",
+    "envelope_sha256": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+    "independent_plaintext_verified": true,
+    "ascii_ratio": 0.44871794871794873,
+    "longest_ascii_run": 4,
+    "fragments": [],
+    "embedded_events": [],
+    "interpretation": "No authenticity conclusion follows from padding or unrecognized formatting."
+  },
+  {
+    "id": 283,
+    "source": {
+      "candidate": "moment of truth, wherein the fundamental flaw is ultimately expressed and the anomaly revealed as both beginning and end. There are two doors, the door to your right leads to the source and the salvation of Zion, the door to your left leads back to the matrix, to her, and to the end of your species. As you adequately put, the problem is choice. But we already know what you are going to do, don't we? Already I can see the chain reaction, the chemical precursors that signal the onset of an emotion designed specifically to overwhelm logic and reason, an emotion that is already blinding you from the simple and obvious truth: she is going to die and there is nothing you can do to stop it. Hope: it is the quintessential human delusion, simultaneously the source of your greatest strength and your greatest weakness.\n",
+      "source": "P1_kd_line52_full/suffix146",
+      "profile": "raw-md5",
+      "envelope": "cosmic_duality",
+      "pad": 2,
+      "length": 1326,
+      "ascii_ratio": 0.38838612368024134,
+      "plaintext_hex": "e3a394aa6776aeca1220417615f78a0ba166bde0e2dfd6ada21856d3905d6f7eb68d591e4aa8c7fd986062523241fcb7cd7027794e5c4f4511245a6a56114355cf9c662cf0094e4c9e5bfccf8db5cb47d5c43c2bd7b93d88f93482dcd3d769bdc176683ed6c742ae45093145b90942137963a69e08db3cb933054e3712649e7ed5b90564b11bb6b187a276f6dc661ad8b26d623ca85dd0be23b79cd38c921cac71be9bf24a86592a8fdb63e3e227627083350c0a95763c09d81ace9894f500920f1902fa9b55939451ee6a0d6981e88a756ff937f6980c51d33241d43fd0fa54c3dd046a88158f099a34871b80d509efbcc8a240936a59009bb70fc4b9de618f106081569f22c866885d0ad09a647e56ff0a1e6f42acb2120f1baf930c7a7987fb275fa0161cd8eda3d8197c80d6302c7837a35b3165935072e2e402e2514830ace6f98715a218a7adae26b51b79b5bedf85a986a7119a2e0c0bc991b98d3217764b88991cac0a41bb15a71541d59d01f0484937f5155e332ac8992a5a5c7086eca90cbf1e0e4a41f971c0efae12cbad48f2f863c1e7ea446488cf5426f37428899a625a790bfd8edff8949e332155f11463baf11660fd1acbf28c50319fe4ab639b28135f1fedb538a3d39cd8c73051baba36810794b8741dc7b72dfc2c999644f780821b2c93f98d705b79c8d86db4c68f1cede59b6b909cd7f802f371b83264544bfc4474f07565525f0a9d14658a65f046d235321502129c61e5136187f6f294d1f660dd9e244d1ca2c6ef1d2e46c912281b264f5291611aa978ed73ea265dde303bad3432d8345fa0e866f977b667a294ec437b1a7d5de3d7dd313ab972a776428dcb96b6a2df2ca331546ec10b73921a2dc30b26d8532033ca01a63b43ed5e5d9cd884bd3155a76e433720c21248e90f448632c64e4b965ef54659314a6ad47ff392494191faa104c9e9f51b02f732a8dc0a0a306a1b6b085aab639126d866f08f651f8c185ad7ff29815da0c79a42db63d5230ac1e1edd4abc9bdc60e2ea1a41a5acb4155ca258117c83cade24d1537653f44bed4f5fa781741332d1223daf07dfba0a39fe852b2fd79fe335d33aebb4b7f5f6ddd8753bc9be003b9f6fe4a90c4d58bb7da782317e2c0b28bef6e4b4a3f8838aea73346bd731e07d098b00ceae3bd786b3d035ea032decc41e86ab271756b5b25b6029d7fcee3010cf75cf0f1445b186f91333f5288a98bb36352cc76a1488a3fb861aae2d4a2868b15200fd5573aacf3b6fc921dd0bdc5847247c7946bd289063aa5635e62c7f2fb1c0d04e1c07e2731014e8ea7dc759ebabdd799223832aa1b3a053f0db7e3eea01e8ef4bc4d8faf9c31d1022ce9da1eb78a9cbfe852b02a7e25feb5e78e194a3769dab69526aa7252f563acc8d9899404e3a75568decb4e05100abe80b8419106a1269473c6d4586af15375105713134a79a3453a1d59e3efeb4e24b53adf5280750f02297e783b0610086d9a06f2b10ba15369b1a53a5fc898d56f417bbb480765f3fe56cbd7965051892d3cab800c769008f6dff9f88263e121639029eeda08fcd42046c3a477213b2977419d7beb9f31082e3b3f328730c488cc523177f8cfceb2180da58953c120ff58f8a36a138cfc7492e5cb1f2b9d1dfd851457624853d4d0ce9cc4dfddb9ec4865f2283e8dca2f1c04a7eae78d5ffab64fe533415bf57023f9a75fd893ae36a8dd0584e0c8577452c157cbc123d5867196686ab4a44414f076da4f3e45c2dfd27fd56ee34edb241fe697d6e97baee9a742447c54adcf16f29945226259cb6bbec3ee2747e38a991449067bb9c40e0d65a58e7ab947a9e524b8be08e4ad58ca5e24ff01f516"
+    },
+    "status": "UNRESOLVED_RETAINED",
+    "trigger": "PKCS7_PADDING_VALID_ONLY",
+    "pad_bytes_hex": "0202",
+    "final_decrypted_block_hex": "24b8be08e4ad58ca5e24ff01f5160202",
+    "envelope_sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805",
+    "independent_plaintext_verified": true,
+    "ascii_ratio": 0.38838612368024134,
+    "longest_ascii_run": 7,
+    "fragments": [
+      {
+        "encoding": "ascii",
+        "offset": 49,
+        "text": "p'yN\\OE"
+      },
+      {
+        "encoding": "ascii",
+        "offset": 1125,
+        "text": "w!;)wA"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 541,
+        "text": "/g62mJ6-"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 662,
+        "text": "F+.o;5"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 1256,
+        "text": "K\"N>T+"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 541,
+        "text": "/g62mJ6-"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 662,
+        "text": "F+.o;5"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 1256,
+        "text": "K\"N>T+"
+      }
+    ],
+    "embedded_events": [
+      {
+        "kind": "zlib",
+        "offset": 1010,
+        "status": "invalid",
+        "decoded_hex": null
+      },
+      {
+        "kind": "zlib",
+        "offset": 1104,
+        "status": "invalid",
+        "decoded_hex": null
+      }
+    ],
+    "interpretation": "No authenticity conclusion follows from padding or unrecognized formatting."
+  },
+  {
+    "id": 672,
+    "source": {
+      "candidate": "HERE YOU YOU HAVEN\u2019T ANSWERED MY QUESTION ME QUITE RIGHT INTERESTING THAT WAS QUICKER THAN THE OTHERS PLEASE IF YOU FIND A WAY TO COMPLETE THE LAST PART OF THE PUZZLE TAKE THE PRIVATE KEY YOUVE EARNED IT BUT PLEASE TAKE THIS TO HEART THAT WHAT A WISEMAN ABOVE HINTED AT IS WORTH HUNDRED FOURTY OF THE INVESTMENT THAT\u2019S WHAT US GUYS AT GSMG ARE TRYING TO ACCOMPLISH IN THE END PLEASE JUST HELP US BUILD IT INSTEAD OF JUST WAISTING YOUR LIFETIME BY HUNTING FOR WORTHLESS PRICES AND THROPHIES LIKE THIS I\u2019M SORRY TO TELL YOU THAT YOUVE COME THIS FAR BUT YOU\u2019LL NEVER FINISH THE LAST TASK I EXPECT YOU TO SAY BULLSHIT WELL DENIAL IS THE MOST PREDICTABLE OF ALL HUMAN RESPONSES BUT REST ASSURED THIS WILL NOT BE THE LAST TIME I HAVE DESTROYED A RESTLESS SOUL AND I HAVE BECOME EXCEEDINGLY EFFICIENT AT IT THE FUNCTION OF THE YOU IS NOW TO RETURN TO THE SOURCE CODES ALLOWING A TEMPORARY DISSEMINATION OF THE CODE YOU HOPEFULLY CARRY REINSERTING THE PRIME BASICS AFTER WHICH YOU WILL BE REQUIRED TO SELECT FROM OVER TWENTY-THREE CIPHERS SIXTEEN ENCRYPTIONS AND OR SEVEN INTERTWINED PASSWORDS TO FIND THE ACTUAL PRIVATE KEYNOTE THAT ALSO BRUTE FORCING MIGHT BE REQUIRED FAILURE TO COMPLY WITH THIS PROCESS WILL RESULT IN A CATACLYSMIC SYSTEM CRASH KILLING YOUR WILLPOWER WHICH COUPLED WITH THE EXTERMINATION OF YOUR WILL TO LIVE AND WILL ULTIMATELY RESULT IN THE EXTINCTION OF THE ENTIRENESS OF YOURSELF SELF GOOD LUCK NEVERTHELESS I REALLY HOPE YOURE THE ONE CIAO BELLA O\n",
+      "source": "P5_puzzle_full/suffix259",
+      "profile": "gsmg",
+      "envelope": "cosmic_duality",
+      "pad": 2,
+      "length": 1326,
+      "ascii_ratio": 0.38763197586727,
+      "plaintext_hex": "cc3991bde22b84e777fce54b908c021c2f9c495e3492a030e04131295ed88b327cb38fb19b8f1ae105b010a577dcca8d12409dca03f128a09b11b0a4679aca3f960f67820c4aa5a53dad95af16717eedd62a8baaa10c95d61952d9e687e8f8a378bd794417fbc2a04ee300c48cf196359966b94aa59be1aa9df41572af04673d7545a0c9698d8620859a5eadff276635d2dceb61f4a22e3d29282de8a355214edf6601e3cf783bd3d440c94a7816d2e2c217417728ea17c7b27e3b57b85860b5928da97d8ee772b16c9e847f4a650286fdab5f319ebd007fb532b422ce585bf276c6fb4c567b904f243bee8fb61cd8461576858d415e3e95682668cf1b6885d1b1b1d2c767f3453de3a42cd6577b053bb29f0c50f5f61eb68fe05d779e2b558ca6c0eaa415c87bf318739b128100b73f3dc9a4845c01f9dc7b4dbc2edc9e9be2e2fd1d5293a345b3e4b105fcd5c1affb62558b4c1bdc9482a1c42dcde60f627ff97c4cd5b27f6371410fce2f83187072505c9ccb4a7f978fcad63165dafc79ac9c4e245198ef3409d73dc89d80c36d228b43388f1af991762befffb6225f4ee7a566b31eeee3d0d8c1bb522df9932c2a703d491631c8ee288c7afffbf9214dbf8eca0a3f4b8fe8865242d614442d18e17d4acaa40bbeb06499afec3ad673a55b3c4593bb4b1d698ea466bad16db7d107a0f97747a0c27d240f4ea9ff30af5319bc402bb2c803367e724bd91cbd4c30072a81507b5af49cbaf2bc8feccab6c129e679241fe9bc90d0c91792913c4755f1fc75cf1f5dc253280201a27b1928909cd7ee5993e5da9d4c0e04ca256b40de36359e2b5034c52c54237be517008f07eccb993727bce902a35527c24f8a9b1d396057598b9888359d393134f0edbe90f161b9afccca6bfcd5dda1dc217c5b188393a341b00a9e1d78048592fb55b80a1838cb3b17afd6c090391249a23b76020c1b3c62160f08ff2d169efe52d9b38da7e545c7e7640e8e476931d882873c608065fcc64447cf786cefeb04a85c7b37c68c7d59f2d9c052070ccd2f2a2eca1fd2fbaaced6d64ba9485575fcfde15a1e6fe06d1389b9acfd233e026e6a15ef7802e670b3a0428b6e5c10609ffbc2356a8c505af0b3e19ebeb54fc7a5550d6a8ca3031d13ab5d04f6261374905b5d2c3a1797e36050ba26f2c21b42431ca7883b8eae6f71cf1b490e0db44eec91178d7201287bcaf2884066420aae184df0ec9e9be696956070e335505bbce8bc224f544e41c9b1cb781d42a54351515bc0300f5c5216902309e11ba35705c949c91d4f0e2a8ced5847a9aee513f2c93f2ee43482078113eb2322bd27a1c53c7f567da6634ca6ece8eb72da7fa44eed0b2bfd0fb278cc2f844e316ce61552f382473461b53b9f1d9545533d251e4c77c2b834b28f7921e0ca2805a1d531be23176c3fe46e3c0e8d73047f0b295070913d8ac52db1857d2347a7c987250ea22e6ac92d048070ec9378a58ea4ef8ccf3346c30f2e15a0ef8056682395e63e89525047d93d557ef700d0edf5773193b51a4841cf2fc3181e764a256c6ad6787293cc7aa2b30165678f40eedc53361a96bbe8f9355984b2a89bb1c1831f27f7be07630fb6d711bf58ea2f9e1e4e858a2e6c0d4a98d2ab49873ebc7e230fb2b5e26ff85df4a15a3ffe56be9a5346e371ed1b80a49128be7f724cbde5fd2c210951821a800bfd5091a05e80415ae10418ef49d8d12ed9691ba75a72807bd1c99d13c0465ba6c90f7dc7c773e374a5b4a1653cee17a34410b6ac0e60c79814d918a8241f6ddace1584a811c61841892be5cf9b7ea394a6e6d83be28ac418932ccb2e56fac6a950a5d07e7c8c5da42c09803a7b466613"
+    },
+    "status": "UNRESOLVED_RETAINED",
+    "trigger": "PKCS7_PADDING_VALID_ONLY",
+    "pad_bytes_hex": "0202",
+    "final_decrypted_block_hex": "d07e7c8c5da42c09803a7b4666130202",
+    "envelope_sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805",
+    "independent_plaintext_verified": true,
+    "ascii_ratio": 0.38763197586727,
+    "longest_ascii_run": 5,
+    "fragments": [
+      {
+        "encoding": "cp037",
+        "offset": 90,
+        "text": "RWgY8t"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 1177,
+        "text": "S?8)4~!"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 1291,
+        "text": "=tmwWQ"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 1308,
+        "text": "Fz&v}=@"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 90,
+        "text": "RWgY8t"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 957,
+        "text": "'w[<w\\Y"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 1176,
+        "text": "@S?8)4"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 1291,
+        "text": "=tmwWQ"
+      }
+    ],
+    "embedded_events": [
+      {
+        "kind": "zlib",
+        "offset": 671,
+        "status": "invalid",
+        "decoded_hex": null
+      },
+      {
+        "kind": "zlib",
+        "offset": 672,
+        "status": "invalid",
+        "decoded_hex": null
+      },
+      {
+        "kind": "zlib",
+        "offset": 931,
+        "status": "invalid",
+        "decoded_hex": null
+      }
+    ],
+    "interpretation": "No authenticity conclusion follows from padding or unrecognized formatting."
+  },
+  {
+    "id": 754,
+    "source": {
+      "candidate": "2, 28, -8, 62, 28, -50, 34, -32, 30, 98, -110, 19\n",
+      "source": "SUM/L2_rowsums_12x7/comma_space",
+      "profile": "gsmg-md5",
+      "envelope": "cosmic_duality",
+      "pad": 2,
+      "length": 1326,
+      "ascii_ratio": 0.3808446455505279,
+      "plaintext_hex": "985a4ecac8889b4fdf536f99eea809a5adbc61c0319e5adad75f6d255fef8920db87f61740c1562f1ebafb172b2a22ec2ca9b052d8b194cea60e9dbd79c5821fcc86055c7e07f57067c516e9c05f9ec9c3785d94e8223b3adc6df0356bc17ccdc7fdf17c473aa2c9df2d02347ed2921057f5c50b881eccd01c9fd390e0c560fc0112503de63ff0b42686f630c46fe9e69c6e06e5401200f87c316c569f2819d4a47b6b2dd41d2b603de4be3bc21a5e4ea2eac8e0acd937ee172042d57d611b101bb197fb35b34ed90ef83ad2da6ea91d1cd0b4f1a38514105acd030732ac3efde44ad15f8c669101dbaae7e133ff90cca00647d6120a36f9d87460ca3ff8dc0b6e0c836366d0c3961c39bc8c1353e34b54a2e387a064b449b972e1390b23b874d7ca7844a60053fcb19dd73a6836520c95a26ef8c048bc3284b54a9ebe9ffc1b41d9c6df708923277809522bae3525acf872ab05bc6485dc9f1b0416debde6d41919cf60c053db17aaef5ef4750cf366132b9ddf31fdc8180e94d271484382659b282e9821c649c9101ccb92895f4add17dc2b6a2b6b4dbe100cb3e1ea526a019708913775552d05d809882bdbe8e4f02fb8000930cf1b4358dbbd49e92e01df85b25e3f0442a203e1670c44f1a60602af6daa8a73cad690ab8dab5a6cf17ee2c76598a8103402eef8b04971d32cc4ba661582099f2f4aca94f15a896fb678bdd0d81438ccf9f0bcb8084e3506284898cc68d9abfa4dddc9a8be573d9694aaf2a10db0c9484703a127da5d2e6c9655571b126cf6ef5259ad9127a9b4d6c5f8d3cac8e5ae7f618655253cd81bd35df28ab5b5b268f77dff5d7f6374f3a8168e5e77234bc077409f329a755c0867b69996d651062d1b7044c3616e706cefca877419adc848669ad3bc3d32845152eac6d0bfbdd2ec70374495976a03b04d5098e2aa4e9da7f540a184d5e31bf7f4bf106e6dc0836c61ea30e47795cf4f60cf8f307039f593725ca54e1894cbc9937a87946dbaf20486d128975caaf274530d54c7f31a3f054ddeb1e3311d3b35d3e6a907c7e1766dab0d75f96214ed034f97e8963d0aa570602eb4359f07a988da43810aeb5ee2f2330588a9298e765a975571ce98577d38e92bb3d4f4ba0b9a2d25b5141052768b43fd8ba77af8bb9104ea76ad5b035f3bc6c7cff888fcf5d7d6e3a7567fc6df9b3cb7e57aefcad0933414847ba22613dc1908260b6acf7a661403c3793b4a6ff20b598d75dd401105a38688d989c4c33148d7aaebfcd59ed9e76add52a2ca07eb55fbf9bab7b36bb8b41ea0fa639787ab1dc4a83749aca44d41ac60eac92d3b642b1eee35ee79d52a78774eedf61e6a7c4bfa0f048afe94525811adcb63ec4f78cee999e96dc6898cba068558585540cbcd897dd6501d3e0c78eaa90543f24e871fb55fb3be58def94d724fef861504f871d1eb9558379ba3946d0db5a64b24a6719898bb57fa71cfd0d1a4604cb76bbdfef2c86f42c24f71e52d99bf0d99e2863d67230e4cf2c30c1e34c8517b634126c0fb5a8e8d0be70f70e22008894ed2c69aafcb5f2c8d780b8a77706cd76b8777c927b3cdda4c50e8abd5b65b447d0ed12e06a72654483ed270335a13e206efb7b51c662b0cea273206d28f0956155011875416dccbdaed6a0af96cff27c5d5ae595222005744743de97e56de5302f20a284c37976b8c20a142d3d1805199a0235d50447aab6ed54d2bfc2350c11f9f5465f241ddfff8d9536f30f73a6dccc512288a4dbc030aae8da35cf5c58664b6b3c00a11c52afaee2594b4a62a6c558e939d8717d2c90fa25cd04c23c1f9383d665d4013f1bd897bbd881525e75866c77bdd2301b2b70d6d134df8"
+    },
+    "status": "UNRESOLVED_RETAINED",
+    "trigger": "PKCS7_PADDING_VALID_ONLY",
+    "pad_bytes_hex": "0202",
+    "final_decrypted_block_hex": "5866c77bdd2301b2b70d6d134df80202",
+    "envelope_sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805",
+    "independent_plaintext_verified": true,
+    "ascii_ratio": 0.3808446455505279,
+    "longest_ascii_run": 5,
+    "fragments": [
+      {
+        "encoding": "cp037",
+        "offset": 475,
+        "text": "!%1=SG"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 675,
+        "text": "x5 ~dNT"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 687,
+        "text": ">_{c%/"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 715,
+        "text": "Il:gm_[2"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 892,
+        "text": "tfhRiDC"
+      },
+      {
+        "encoding": "cp037",
+        "offset": 981,
+        "text": "ZrZ_Fi"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 715,
+        "text": "Il:gm_"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 839,
+        "text": "8h]5POTx"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 892,
+        "text": "tfhRiDC"
+      },
+      {
+        "encoding": "cp273",
+        "offset": 981,
+        "text": "ZrZ_Fi"
+      }
+    ],
+    "embedded_events": [
+      {
+        "kind": "zlib",
+        "offset": 1312,
+        "status": "invalid",
+        "decoded_hex": null
+      }
+    ],
+    "interpretation": "No authenticity conclusion follows from padding or unrecognized formatting."
+  }
+]

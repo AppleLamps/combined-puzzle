@@ -1,0 +1,1047 @@
+====================================================================================================
+DOSSIER: 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  (GSMG.IO puzzle prize address)
+====================================================================================================
+Compiled 2026-09-12. Chain data: mempool.space public API (tip block 966742 at read time).
+Messages: local Telegram exports only (no live gsmg.io access).
+  [COMM]   E:\New folder\result.json  "GSMG - Community & support group" (id 1246576180)
+  [PUZZLE] E:\rabbitv4\newest-telegram-export_2026-09-12\result.json  "GSMG Puzzle Solvers" (id 1166734859)
+Creator account in both exports: "Jrk Bgrt" (from_id user9815232, handle @SoWut).
+Labels: VERIFIED = checked from raw data here; INFERENCE = reasoning, not proof.
+
+----------------------------------------------------------------------------------------------------
+1. ADDRESS SUMMARY  [VERIFIED]
+----------------------------------------------------------------------------------------------------
+Address type        : P2PKH, UNCOMPRESSED public key (proven by the 65-byte keys in its spends)
+Transactions        : 126 (all confirmed, none in mempool at read time)
+Total received      : 8.75988872 BTC
+Total sent          : 7.50353498 BTC
+Balance             : 1.25635374 BTC in 120 unspent outputs
+First use           : 2019-04-13 16:32:40 UTC, block 571497
+Last activity       : 2026-08-29 00:40:13 UTC, block 964501
+Outgoing spends     : 2 (2020-05-11 and 2024-04-24, both the announced halving cuts)
+Largest UTXO        : 88cdb3cdca12b471551b1b26188508a14ca5fd8a415223ffb7c190381c9b9df3:1 = 1.25324300 BTC
+
+----------------------------------------------------------------------------------------------------
+2. PUBLIC KEY  [VERIFIED]
+----------------------------------------------------------------------------------------------------
+Extracted from the scriptSig of every input the address has spent (6 inputs in 2 transactions, all identical).
+
+Uncompressed public key (65 bytes):
+  04f4d1bbd91e65e2a019566a17574e97dae908b784b388891848007e4f55d5a4649c73d25fc5ed8fd7227cab0be4e576c0c6404db5aa546286563e4be12bf33559
+  X = f4d1bbd91e65e2a019566a17574e97dae908b784b388891848007e4f55d5a464
+  Y = 9c73d25fc5ed8fd7227cab0be4e576c0c6404db5aa546286563e4be12bf33559  (Y is odd)
+  On secp256k1 curve        : yes (y^2 = x^3 + 7 mod p checked)
+  HASH160                   : a9553269572a317e39f0f518cb87c1a0ee1dbae4
+  -> P2PKH address          : 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  (matches)
+
+Compressed form of the same key (33 bytes):
+  03f4d1bbd91e65e2a019566a17574e97dae908b784b388891848007e4f55d5a464
+  HASH160                   : 06bbdc66fda09110435c79a86656a604c2d5c69b
+  -> P2PKH address          : 1cc6xayvqpeetixmuXDRsGug7GKyoRdxP  (0 transactions ever; the creator never used it)
+
+Consequences:
+  * The private key must be imported as UNCOMPRESSED. As WIF it starts with "5" (51 chars).
+    A compressed WIF ("K"/"L", 52 chars) of the same secret controls 1cc6xayv..., not the prize.
+  * As raw hex it is 64 hex characters (any wallet that asks "compressed?" -> answer no).
+  * The public key has been exposed on-chain since 2020-05-11. This only matters for a future
+    quantum attack; classically ECDLP on secp256k1 is infeasible. (The creator joked about
+    exactly this in [PUZZLE] #66935, 2026-07-16.)
+
+----------------------------------------------------------------------------------------------------
+3. SIGNATURE ANALYSIS OF THE SPENDS  [VERIFIED]
+----------------------------------------------------------------------------------------------------
+2aa9a4a90be819d5.. vin0: sighash=0x01 lowS=True R_bits=256 S_bits=253 R=dbe31ca9440892abcec35c0aa83380e1c35d2a33ea99fc314e6bcaf299b8847a
+2aa9a4a90be819d5.. vin1: sighash=0x01 lowS=True R_bits=256 S_bits=253 R=fce22a0a026a33197ae65efa47420aa1c4efdbf95f8370f4da22802392ab2db2
+2aa9a4a90be819d5.. vin2: sighash=0x01 lowS=True R_bits=255 S_bits=254 R=776706ca3039c2e127aff3f144333e9afc6c4dcf5ba2dd9243268324622d65f6
+88cdb3cdca12b471.. vin0: sighash=0x01 lowS=True R_bits=253 S_bits=253 R=1df5cf8403c9309aba324ef94a43551a32a258326009abb4ac1153c06de327d0
+88cdb3cdca12b471.. vin1: sighash=0x01 lowS=True R_bits=255 S_bits=255 R=4c18f2f20ea146ad2e4accaa0094d7b52bf4da5322e78fd1a651a526fdc43dae
+88cdb3cdca12b471.. vin2: sighash=0x01 lowS=True R_bits=255 S_bits=255 R=429e4e8f162b0dafc1ca9f2b13e4e0fa57a26c2b9f2bf5a3ae934c40ea1f7845
+Distinct R values: 6 of 6 -> no nonce reuse; no key leak from signatures.
+All low-S (BIP62/146 normalised) with SIGHASH_ALL: consistent with Bitcoin Core 0.11+ / Electrum / libsecp256k1 signing.
+
+----------------------------------------------------------------------------------------------------
+4. KEY TRANSACTIONS IN DETAIL  [VERIFIED]
+----------------------------------------------------------------------------------------------------
+A) FUNDING - first ever use of the address
+  txid      : 73e48ff571a7e9a4387574a50cf2fcb7b21b6ea5702c777a035664df57cbce02
+  time      : 2019-04-13 16:32:40 UTC   block 571497
+  version 1, locktime 571496, size 1112 B, weight 4448, fee 33420 sat (30.1 sat/vB)
+  inputs:
+    19e339ba0dbdf970ac57a41384165bfb8e5a3c0ed8ef49472b44a9ff27d2ea9d:3  1.00000000 BTC  from 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1  seq fffffffd  pubkey 33 bytes
+    30a8a6303e92423fad0965339708189a4f18b767e60f01819d49ba3775e2c08c:3  1.50000000 BTC  from 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1  seq fffffffd  pubkey 33 bytes
+    74c2ef9062eebe833219fad4d9cbff1866cc986bcfd22ecd40906144110276ba:36  1.02700000 BTC  from 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1  seq fffffffd  pubkey 33 bytes
+    8a5d0979964ba463fd29ace36130dd135a0079705dd8c3ca56c9773841fde07e:1  2.99798400 BTC  from 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1  seq fffffffd  pubkey 33 bytes
+    9f024fcf80aace0dfae8169bd39a0ad7b891e27a46761ed30fe592ce7b2eec80:1  0.01258124 BTC  from 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1  seq fffffffd  pubkey 33 bytes
+    e7a17d65cc9d0c66880bc7aa7f16dacdf7b1b91092c7973b2218e1fc0c83f4aa:1  1.85716800 BTC  from 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1  seq fffffffd  pubkey 33 bytes
+    f931426c30411640587cdb62d4ca322d4827ba04fbac0aa9417b590670b51674:1  0.26417400 BTC  from 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1  seq fffffffd  pubkey 33 bytes
+  outputs:
+    #0 3.65857304 BTC -> 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1
+    #1 5.00000000 BTC -> 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+  - Funded by 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1 (compressed-key wallet, 7 inputs, change 3.65857304
+    BTC back to itself).
+  - Mined 2019-04-13, i.e. 6 days BEFORE the poster was first posted in [COMM] #28507 (2019-04-19)
+    and 13 days after the April-Fools pre-puzzle (2019-03-31, which the creator admitted had no real
+    key: [COMM] #26143).
+  - Wallet fingerprint: version 1, locktime = height-1 (anti-fee-sniping), sequence 0xfffffffd (RBF
+    signalled), compressed keys. INFERENCE: an ordinary desktop wallet of that era (Electrum 3.x
+    produced exactly this shape); not proof of a specific product.
+  - Input f931426c30411640...:1 (0.264174 BTC) is the change of the 2018-01-11 tx that funded the
+    other vanity address 1GSMG1CLxGXuFtnKbwh1QWfp4xA6reAet3 with 0.01337 BTC -> the same wallet paid
+    both GSMG vanity addresses.
+
+B) SPEND 1 - first halving cut (2.5 BTC removed)
+  txid      : 2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13
+  time      : 2020-05-11 20:02:50 UTC   block 630001
+  version 2, locktime 629998, size 617 B, weight 2468, fee 185400 sat (300.5 sat/vB)
+  inputs:
+    73e48ff571a7e9a4387574a50cf2fcb7b21b6ea5702c777a035664df57cbce02:1  5.00000000 BTC  from 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  seq fffffffd  pubkey 65 bytes
+    a2d2481d57e976dbaa84812a504097150ded09216957aeb7bf0177eaec6a7a8b:1  0.00000666 BTC  from 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  seq fffffffd  pubkey 65 bytes
+    a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383:1  0.00000700 BTC  from 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  seq fffffffd  pubkey 65 bytes
+  outputs:
+    #0 2.49815966 BTC -> 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+    #1 2.50000000 BTC -> 17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa
+  - Mined in block 630001, the block right after halving block 630000, exactly as announced in
+    [COMM] #28876 (2019-04-21).
+  - Also swept two dust deposits (666 sat and 700 sat) that third parties had sent to the prize
+    address.
+  - Version 2, locktime 629998 (built ~3 blocks before the halving), sequence 0xfffffffd,
+    uncompressed key, low-S. INFERENCE: the high fee was chosen to land right after block 630000.
+  - Signed with the prize private key -> the creator still held the key on 2020-05-11.
+  - Input a798905f...:1 (700 sat, OP_RETURN "Halving", from 3GSMG24TujqfMJG1kQoBX18DzJHQLeJYMK) was
+    confirmed IN THE SAME BLOCK 630001. The creator's transaction therefore spent it while it was
+    still unconfirmed. See section 7.
+  - Spend-wallet fingerprint: spent EVERY UTXO of the address, including unconfirmed third-party
+    dust, and sent change back to the same address (no new change address). Spend 2 did the same.
+    INFERENCE: the key was imported as a single-key wallet whose coin selection spends all coins of
+    an address together and allows unconfirmed inputs (Electrum's default "privacy" coin chooser
+    behaves this way). This is not proof.
+
+C) SPEND 2 - second halving cut (1.25 BTC removed)
+  txid      : 88cdb3cdca12b471551b1b26188508a14ca5fd8a415223ffb7c190381c9b9df3
+  time      : 2024-04-24 21:47:27 UTC   block 840725
+  version 2, locktime 840003, size 615 B, weight 2460, fee 27832 sat (45.3 sat/vB)
+  inputs:
+    2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13:0  2.49815966 BTC  from 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  seq fffffffd  pubkey 65 bytes
+    81d359291da8eeafea2fee9a1304497afeed289829495da19f1a5688573770fa:0  0.00535500 BTC  from 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  seq fffffffd  pubkey 65 bytes
+    f28b0b68684b41c98c8c59f43558e2bfbe5aba30fef05fd7dc465dea62fbaed1:0  0.00000666 BTC  from 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe  seq fffffffd  pubkey 65 bytes
+  outputs:
+    #0 1.25000000 BTC -> 17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa
+    #1 1.25324300 BTC -> 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+  - Locktime 840003: built right after halving block 840000 (2024-04-20) but only mined at 840725
+    (2024-04-24)
+  - Swept the 0.005355 BTC deposit (81d35929..., 2023-09-25) and a 666 sat dust (f28b0b68...,
+    2023-07-16).
+  - Signed with the prize private key -> the creator still held the key on 2024-04-20..24.
+  - Next scheduled cut: halving block 1,050,000 (~2028) would remove half of the remaining ~1.25
+    BTC.
+
+----------------------------------------------------------------------------------------------------
+5. FULL TRANSACTION LIST (chronological)  [VERIFIED]
+----------------------------------------------------------------------------------------------------
+Columns: #, UTC time, block, txid, net effect on prize address (BTC), running balance, counterparty (first input address)
+
+  1 2019-04-13 16:32:40 571497 73e48ff571a7e9a4387574a50cf2fcb7b21b6ea5702c777a035664df57cbce02 +5.00000000 5.00000000 1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1
+  2 2020-03-24 01:08:49 622713 a2d2481d57e976dbaa84812a504097150ded09216957aeb7bf0177eaec6a7a8b +0.00000666 5.00000666 1JEDYYneiRTgDVpyavXf2wedzwtN3v7QKS
+  3 2020-05-11 20:02:50 630001 2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13 -2.50185400 2.49815266 SPEND by prize key -> 17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa
+  4 2020-05-11 20:02:50 630001 a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383 +0.00000700 2.49815966 3GSMG24TujqfMJG1kQoBX18DzJHQLeJYMK
+  5 2023-07-16 07:31:59 798906 f28b0b68684b41c98c8c59f43558e2bfbe5aba30fef05fd7dc465dea62fbaed1 +0.00000666 2.49816632 1GmTEC3Ygz3qZGHnfft9JBZdDNQkH2tGqo
+  6 2023-09-25 07:00:59 809252 81d359291da8eeafea2fee9a1304497afeed289829495da19f1a5688573770fa +0.00535500 2.50352132 bc1qey9rjg6zkpr47q6krhx58hecdn2jqkqnnwnavx
+  7 2024-04-24 21:47:27 840725 88cdb3cdca12b471551b1b26188508a14ca5fd8a415223ffb7c190381c9b9df3 -1.25027832 1.25324300 SPEND by prize key -> 17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa
+  8 2024-07-08 05:39:27 851210 96d702ef646396d3f4b7249e209d3821025687c49cd23b7da7d15ea17efae7ee +0.00004410 1.25328710 bc1qa329v24rssvv9easkgjzue7xyfss3unsqsvrdz
+  9 2025-03-04 05:22:18 886239 948c5a7c20db6788caa6c0b34f20ec624b9483429ac321e2ea19b9d2a84f2f22 +0.00001000 1.25329710 1GPMSpTcoruX4jZoNK731LWdATyrD45VdN
+ 10 2025-03-10 00:05:45 887092 a1aaf63f1bfd365dec08c05014a71456e3ff2fcef7fb700eb6442f404e1cb8fc +0.00001000 1.25330710 1LYACKCWZSgg91QMryyfGYt74iLBRBgH5F
+ 11 2025-03-13 19:11:37 887657 2e67fc77bb767f67d0927da94f6591cda46460849ba52a0abbcf6b209591bd3c +0.00000600 1.25331310 3JC6NJz2vXZ8A47YtGqt7ijTJn4czEmgHG
+ 12 2025-03-13 19:42:41 887660 4e82ab79ddcc4f26891bcc2ee39936630490b7ec451b63c646b8d07b62cbf872 +0.00000600 1.25331910 3JC6NJz2vXZ8A47YtGqt7ijTJn4czEmgHG
+ 13 2025-04-01 03:27:31 890345 4237e268bbe2cafd0b352f442fd53840ba1d60773ca112b57dc03b539fec046f +0.00001000 1.25332910 17UCYqgc4pXkxpRnvcNwX6E1HFjK5pe9SL
+ 14 2025-04-22 18:04:01 893539 beb195487a7b457aa528d9f2fcbd38588c61e95ff3855b0cda7a1fb2c7742568 +0.00000666 1.25333576 1KYTpENUbiitbW6MvJJzLtpgyPcTCCSRfM
+ 15 2025-05-17 23:21:09 897169 8890ec6059be7c05b90dfee097d432e2cdfe71300c7c811a80caaef26f0ca8e1 +0.00001000 1.25334576 13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp
+ 16 2025-06-16 06:16:47 901467 60769301921777e216afc31140ebe0a37889308aea6b7c26fb3977000461190d +0.00000546 1.25335122 1KFunt1fXQEmvFVrLLWuX9yKeXPdjgTt8M
+ 17 2025-06-17 14:49:29 901639 91f9b800d6902be337f1eb6b24c58b93459eed0eb548a53b04ce4cda4ad123e8 +0.00000666 1.25335788 1KKeYeyCURs5dJ6yhCurTBTnPY6btCoT3W
+ 18 2025-06-26 16:40:57 902839 4a6ff26884b7137d0dfa79622036ea47d3589b46ae7be61b85ceb19a40779e63 +0.00000546 1.25336334 1KKeYeyCURs5dJ6yhCurTBTnPY6btCoT3W
+ 19 2025-07-06 18:50:31 904332 c52c212656a184c8603cb1c0c58424976b760b49a2caf59ad4bdda11f258acfa +0.00001000 1.25337334 1LxwXaht3xbHhWnoFnZmz4jUbFgjY6s3BZ
+ 20 2025-07-10 20:44:44 904971 b9d1b0e9f5a6c9c67d79370971a39d13d15bd6a4354a06c7ee3b48655e301bef +0.00000546 1.25337880 1ECSdS4YGug7jQ1WjcK7MXPK8SsFkRaso
+ 21 2025-07-12 06:06:03 905192 c2d07560fd5d14ebe49f4221b8a1f443ae840a7734a030829debba2acb2e22c5 +0.00000700 1.25338580 1GDrxTH6R4s5g8DDZNGM4bfKjd7EnEtu9W
+ 22 2025-07-12 20:10:15 905263 052a37c98c88b425347fe9ab624f24fa84048c5bc6ef1330df0d72d5c6fa6813 +0.00000600 1.25339180 1451vz6QP1YG2cQMZFGQME68iuHgjrvK2R
+ 23 2025-07-12 20:10:15 905263 225c18a4f526772773dbf8b7891e22635848158b88cf560e27497d438b894a45 +0.00000600 1.25339780 1JKCob4J1xGWSY3ioBH1yZmK1pK7SEz6xW
+ 24 2025-07-12 21:10:34 905274 9ad120abe20a5f63660ab0dc6631955ea4f42fac399f586e4080759ccc1ee9d9 +0.00000600 1.25340380 1451vz6QP1YG2cQMZFGQME68iuHgjrvK2R
+ 25 2025-07-25 03:36:13 907055 2a6ded8422adfb1ab5673f2a442550cf3ee70c65ddb739aeb90a09c2681c2642 +0.00000546 1.25340926 1AkZ7buhQAZPQDthVu4af9BDQbSEE6b8tW
+ 26 2025-08-04 11:47:44 908554 301c06a9bc352e28bae20ab56c5532705eb80dae10075f7bb0eaed24907851ed +0.00000800 1.25341726 16cU79BcSf7XyuZqEsEaSetzxDkL6zacfH
+ 27 2025-08-11 06:56:12 909525 6c1c632ecf1e580f7c0e7474395e2f532fd230ac60d11f26a3c0e58d1af0a4dc +0.00000700 1.25342426 bc1q0sl0j2wxqv4dujt2lv5333ve979elqvanu30q3
+ 28 2025-08-14 23:33:15 910078 34da8a915741d806e659f53aa7f31d84c7bb74d51244e698f150df00e7211517 +0.00000546 1.25342972 1KeYDrpqXoKmsBB7rAeWCV1VAxPKUtp8u3
+ 29 2025-08-26 19:55:33 911824 c7e2cf4ce65af5b29ae2e0aadef1fe4a624a2aef1f591393c8ca7b87b3c1d145 +0.00000546 1.25343518 1GSMG1ABC95GES4k9UZCLtz6CYCUL8LUV2
+ 30 2025-08-31 08:47:26 912530 cf2ad88cf7fa4e8767eed2252bf85add5992d68ef5036a7b8cdce37f799b8005 +0.00000800 1.25344318 16cU79BcSf7XyuZqEsEaSetzxDkL6zacfH
+ 31 2025-09-04 14:42:18 913169 ca6391d7dfe5e47dd146ebc5b7af53e28bbcec05d1c06ce5804f63fbf28b8a85 +0.00010000 1.25354318 bc1q876u0n25jfwl4kc260jmutf7mpvw6jlrppsfw3
+ 32 2025-09-09 01:11:01 913830 3775e974b0ace913e4f5e4c5849f6d2bf29278bd2b3d14bbf8b8b1ea021869ac +0.00001070 1.25355388 bc1qcsa5v950mq6chdsvcz0s9pn7az4pprdss5gzyf
+ 33 2025-09-10 20:29:57 914119 99c5a71130ca23d7f1a5d411708c7fba2c54c6a779547463999801d4f2601a48 +0.00002380 1.25357768 12oSeMEC8PEm5jqqsN3uQYQZy4kEY44mJj
+ 34 2025-09-11 21:13:38 914281 dcc606e01f0f79dcd52f229f6634d508950eafa2ef37102e6d4e3bfd99b5d407 +0.00001000 1.25358768 1LSgmSGVxWetRPAojmkdeBDVcmshznoTnr
+ 35 2025-10-16 19:33:56 919375 079f5b476b8ef2762eb2c39a9848a2ee9f416d8e8198db16e94a63d5060e3d15 +0.00001203 1.25359971 1HGW6xSeBB4pYQ9KAjthP46qAASoD8sfao
+ 36 2025-12-06 16:33:04 926699 4e689d921d7f280ce4c32a031fc4c8cb737be0925bb4586345c5075b9a5b17f5 +0.00002680 1.25362651 12puiCWwPWGqHfkmRJap4uG38DWUQZtUDN
+ 37 2025-12-23 21:59:31 929175 42c31f54760d9d7f72d4a1650c580d8080788c80e470c008b9a27f92bb4cdf0a +0.00000666 1.25363317 bc1qu2cfrg7ge0zr9urf2asxxaqpl76tsyqpjvp9nf
+ 38 2025-12-30 15:26:26 930160 66eefd6ad925bc38a10210161cb91dfa48dfcedf1eef7c15a23c5c3a3340f9ee +0.00000864 1.25364181 1Pi36y7LJugXwFNDVjR1p8p5JoB7eN5zSZ
+ 39 2025-12-31 20:09:48 930318 15e9f80585f05f60feeb933e1bb2ad3ed34553c87521f57c70bead1d0513df6d +0.00002026 1.25366207 bc1qpn52eagxlst0zyfa876rr9x8kz0cavxta4ym0h
+ 40 2026-01-15 17:38:51 932406 856185687ee9f2ca19b1fcd9477541f09c653da886360257c55061e4e3d05796 +0.00000546 1.25366753 bc1q9j8h35f82fgp0yrpcv03ym08858r93du6j47vn
+ 41 2026-01-20 20:40:22 933132 3168021b8f161aee624f1c6b14032b20b46c33c730361a9ddba66a6856f68cd1 +0.00000546 1.25367299 bc1qna9cs6fj4rf38plz9afdymp05cg42ewpuuc9r9
+ 42 2026-01-21 14:52:15 933228 b5b20fcd04ed85def9010c8e45f1436786bc6013d198909f45f2895c1a589ca7 +0.00000546 1.25367845 144FAaxudN6oHZEznLrkjsg97CgbEe63C6
+ 43 2026-01-23 07:49:56 933494 6694dfb1442cca1da21169740f77decb636429e660cbfc67b8076c9532ed9f50 +0.00002526 1.25370371 18BppZKxBNqieps17tKBnHRiMtc9ohgtKH
+ 44 2026-01-23 07:49:56 933494 bd9df00780fb53894a3e7be022e7118fa556827ad58dabbcda6124f7e9795e30 +0.00002526 1.25372897 1H8hDacvmEAUcmJcSSwe6ezDsBZaXKsFfe
+ 45 2026-01-25 08:24:02 933713 436d1bbddee8f6e61fb4481e3ad243f6f708ffb831f0448869503414839913c2 +0.00001126 1.25374023 bc1qj03l9ucwwgd4nmlvhz42qhgnpspru60whlqngl
+ 46 2026-01-25 12:00:18 933726 965b73547f639a41dc000db4f62c35fc4a373bd31abab67d0f9ec46a26af740d +0.00000546 1.25374569 1GKRTErnthjsdXT9XbGTqKQQFYwbRbuGGd
+ 47 2026-02-19 18:09:18 937434 9160a9e4d3e33d856b9fc7a1e00517c37115b00b5389a9a5fa545a7130a285c5 +0.00000783 1.25375352 1Fucker6e47kZt8BDVBAitAaAqemuPC212
+ 48 2026-02-20 07:11:37 937506 96a808a83473dab3479337e99bd5131b2748e973b4daa31a51600d775463979d +0.00001000 1.25376352 bc1qt8s66ev4cg0dj6epxykcmhshqevegdnzjquvg6
+ 49 2026-02-21 22:49:14 937719 2f8fbad62d6415c9c931066ebf8da09b929fea3605efbe3ce1b92bb5a2b78890 +0.00000546 1.25376898 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 50 2026-02-21 22:49:14 937719 de304f0426c932b998816f9a60542e492f65123464fc7c725141bc397067c737 +0.00000546 1.25377444 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 51 2026-02-21 23:01:57 937720 5e2c65a21fc5e745c82dfa311c51ed3b1c09b8a1409b03fc70c2984bc9174939 +0.00001400 1.25378844 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 52 2026-02-21 23:01:57 937720 b9dbb788e68cd91c03f218dc6514775323d30a22a8ec300f62471ac7aac0107a +0.00001400 1.25380244 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 53 2026-02-24 18:52:54 938164 02abbfc2563672d99a4e6ad3e7af01df43a7db5773a42b11e3ab8227bf99381c +0.00000546 1.25380790 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 54 2026-02-24 18:52:54 938164 083f3688a219738453afa9bfad06871179531314f678ccc4c745d50d7b9182ae +0.00000546 1.25381336 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 55 2026-02-24 18:52:54 938164 0bd3f5a9064ba45e2560e65a3a1d5a6b050be530dc5c86ce5649beb0b3a7e70c +0.00000546 1.25381882 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 56 2026-02-24 18:52:54 938164 222c492b0083bec0aefaa39bed624f2e89da40f415c8e03c36d2a35c0c8792b0 +0.00000546 1.25382428 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 57 2026-02-24 18:52:54 938164 25c037ecc5f9b59ada0f3a51618c7208dd370eda0ddccf9984004ffd96f6e6a2 +0.00000546 1.25382974 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 58 2026-02-24 18:52:54 938164 2891a19577c9becc8d93e2207ac6af446a49c80a6a7f4bf39dea74090b7e69b5 +0.00000546 1.25383520 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 59 2026-02-24 18:52:54 938164 2ba7b1463745c637c76bf054b4833779a783b4b6e3676d0db49f0c30811a3900 +0.00000546 1.25384066 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 60 2026-02-24 18:52:54 938164 3357a80b26343fa711d4be67bbcfee71b5f708068f7a0e7fca94c0d2d1da5904 +0.00000546 1.25384612 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 61 2026-02-24 18:52:54 938164 33f183c8d31e32b493dd405bc9b6d04b9b5a937537de285023a04b78e635d387 +0.00000546 1.25385158 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 62 2026-02-24 18:52:54 938164 3488aa173887cceb064906e9ef5348973100478977acf10885e5ad823dde5e15 +0.00000546 1.25385704 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 63 2026-02-24 18:52:54 938164 35fbd774c19ea5dc4974d82b908b1126e29fab5513f86596ab775b4db6c7426c +0.00000546 1.25386250 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 64 2026-02-24 18:52:54 938164 3ceb3135a8d4f4277cbac8ba3d0f06c448b1479ed692e016b765a2f1fc4adbd5 +0.00000546 1.25386796 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 65 2026-02-24 18:52:54 938164 41103ef1cda062c07bfb24fafd4be1b587ffd0ddf0ad2125d6fd0c5cc7e6b23b +0.00000546 1.25387342 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 66 2026-02-24 18:52:54 938164 4cf92d1cd32ad23ee0a442fe60aa046261d4dec2b90d81aa768573fe48abe2ad +0.00000546 1.25387888 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 67 2026-02-24 18:52:54 938164 5c3f41356ba32eb0554dd4ddf4b299bf478fbbebfe43c09a1be1c1d8a1a3d247 +0.00000546 1.25388434 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 68 2026-02-24 18:52:54 938164 6119c9969b803d02a804202666f97455c33eedbb9dde75987528daa804e8f619 +0.00000546 1.25388980 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 69 2026-02-24 18:52:54 938164 71ad53f1c2cae28e3239e43f38eebf2859d63099ad52ad7ea2a037a01a58e80f +0.00000546 1.25389526 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 70 2026-02-24 18:52:54 938164 7b012ef79590f99522c6481f53072ae443853a57e90d781a3e1550e7b7b5dcb7 +0.00000546 1.25390072 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 71 2026-02-24 18:52:54 938164 7b8ea45c32d5242c56569a0f75fcf061615e8147b805d5e8b445ed9cd89f7497 +0.00000546 1.25390618 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 72 2026-02-24 18:52:54 938164 7fff061565c59aee9ff08566b97bce176aa70a0b09e645ec50b1f27e6aeb66f6 +0.00000546 1.25391164 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 73 2026-02-24 18:52:54 938164 96030fd458fde9de8c8cc3cdc8f2fa1616c2f8c4fde1808fd05a1f970fc6cd4c +0.00000546 1.25391710 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 74 2026-02-24 18:52:54 938164 a10cf987f53116dd997dc6a328fa74b0a19553092c0c2abc56e3a3ed3eccad06 +0.00000546 1.25392256 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 75 2026-02-24 18:52:54 938164 a63527f312dcce0d38973f3ee95e9994e9848d0bfa0695b2e5452ef9b2748a77 +0.00000546 1.25392802 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 76 2026-02-24 18:52:54 938164 a69453857ffab8b3a449a7bf2070094ebf8f72616ffcf55ebbf76859bb49c39d +0.00000546 1.25393348 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 77 2026-02-24 18:52:54 938164 a93a85413cf095482a93dfc471a274fa9b3f95dee8c2447a06462327cc108c27 +0.00000546 1.25393894 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 78 2026-02-24 18:52:54 938164 aac29c0d7d64fa5c49ac758384a81aa521acdd419bb399514b9b0fc5ae8c4d9f +0.00000546 1.25394440 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 79 2026-02-24 18:52:54 938164 ad7237973633da3562ae666179265bbf77318e47768cd9d7e2cabc5d6808506b +0.00000546 1.25394986 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 80 2026-02-24 18:52:54 938164 b73bd4015827e45cb8cbcf66b41e7e8d0f4126926f142d41a2bd79a3fd5c642a +0.00000546 1.25395532 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 81 2026-02-24 18:52:54 938164 c184469d7e6fefa43a220944d6ea8adc33991aaa50808fc3ddb41c276ee6def1 +0.00000546 1.25396078 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 82 2026-02-24 18:52:54 938164 c38cabb17d7d762c57d48219b6b3e8fbdd4de447d2125d040af0a6f0886a29cd +0.00000546 1.25396624 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 83 2026-02-24 18:52:54 938164 c8d0886f977fc80af63ca49341a71d772b70c2d0bb7ca6a850881c9f052552bb +0.00000546 1.25397170 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 84 2026-02-24 18:52:54 938164 cf9d667cd870fb2a55f389a6f85409ddb0830f5e20b14dad12a803ab37770cb0 +0.00000546 1.25397716 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 85 2026-02-24 18:52:54 938164 cfafec470abe58138565b5308f20280d50222f5d9a72fab9d76d925ad7c01a19 +0.00000546 1.25398262 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 86 2026-02-24 18:52:54 938164 d2173770e0670ea3683cdfc8cdeaae46e8a30c494cf5bd88a5eb4db6ab250816 +0.00000546 1.25398808 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 87 2026-02-24 18:52:54 938164 db9331cfd886a5f3e9b71ac3ceb860af29cc130e7d9eec9b3683e496504e2af1 +0.00000546 1.25399354 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 88 2026-02-24 18:52:54 938164 e1ebff57a21c01582c005c3b9e921979a864aa9951abe1ba5eaa8c1a1a3d06c7 +0.00000546 1.25399900 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 89 2026-02-24 18:52:54 938164 e1f73b490b70748d9865e01aefb1593d71798ba488b998300fe4f600ce66e982 +0.00000546 1.25400446 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 90 2026-02-24 18:52:54 938164 e30099b1eb38c2690e501bd6a0269aec7f048b3f09ff0b56058fd67162762ed1 +0.00000546 1.25400992 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 91 2026-02-24 18:52:54 938164 e6f3fd557eb633d111c8ac076ce25ed893db18acf3aa30bb4346d01c1a85f740 +0.00000546 1.25401538 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 92 2026-02-24 18:52:54 938164 e849fbb0f78fa84545612c25f4ae82a7117c48cb0bc9a92519ecb43c6bd876bc +0.00000546 1.25402084 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 93 2026-02-24 18:52:54 938164 f2510bd7f8d910e85265eea462ab3b8b9b2ecc0f25b42cb9742a3eadd2646626 +0.00000546 1.25402630 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 94 2026-02-24 18:52:54 938164 f5007cd87022770ecccd58b77c958b54d7d2ad97caac77db53a8b671071c28d0 +0.00000546 1.25403176 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 95 2026-02-24 18:52:54 938164 f74ee485896ebe328f8306c67eb859caca526a1a27295df8c268368901ff4fb6 +0.00000546 1.25403722 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+ 96 2026-02-24 18:52:54 938164 f85058dbfe7f8a5c71bd6676a799d9742d4438536ae380c834523e419ebbfaab +0.00000546 1.25404268 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 97 2026-02-24 18:52:54 938164 fabe37c9058b9e2bcc606cb512efe3bdd145ad429663dd24ab14e770f5abf107 +0.00000546 1.25404814 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 98 2026-02-24 18:52:54 938164 fdcd6e3c630ef8588c3b32ee3b1885a09d3097417f576eb74fa7feb7e198a75f +0.00000546 1.25405360 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+ 99 2026-02-24 19:08:56 938165 01d66f66dc12a2c7a7b892848a1ee95bae3de4bb00e3a8e4bba17963a89d1246 +0.00000546 1.25405906 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+100 2026-02-24 19:08:56 938165 070444ab8976975dd21d6b0e2f29d4434d35c0afe87b90ea99dff1f6ad3ba30a +0.00000546 1.25406452 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+101 2026-02-24 19:08:56 938165 0a756d0b9aeef1a4743ee108123db6ca76be961835964c6eaa61d9b5fe4b1526 +0.00000546 1.25406998 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+102 2026-02-24 19:08:56 938165 1698785ff7ab0c678bbbe5f0be4f1c5f53bac8fd92c5ad9d0bdc1b17ae4ce697 +0.00000546 1.25407544 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+103 2026-02-24 19:08:56 938165 1911356b148d98c8ee53e65553f546c2712de2d5bdf0b99355bc0541a6521ade +0.00000546 1.25408090 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+104 2026-02-24 19:08:56 938165 1e4a57c1db53e501d7dfb28739a393dd46f78bb86eebc3bef3415c234fb7a802 +0.00000546 1.25408636 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+105 2026-02-24 19:08:56 938165 2ebab50d62061acd68eb162e287723546862c78fb4a88b7392807bcc9675c28e +0.00000546 1.25409182 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+106 2026-02-24 19:08:56 938165 432edcc89387c31557f24737dea8e245cc88a62c1b083c763768f8ebc52cf19b +0.00000546 1.25409728 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+107 2026-02-24 19:08:56 938165 669880a08e13ccf8d5b78c40a69262626149895a57bedb3a2ebd21a6dc0f1eab +0.00000546 1.25410274 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+108 2026-02-24 19:08:56 938165 7cea5a5db4fabdb268891a342c3688edc1dcc4db5e6ff4c550b30648c845175b +0.00000546 1.25410820 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+109 2026-02-24 19:08:56 938165 a53663a639500553b6e5d12cd31be0bea64286a404e87a3c1e097e9ee7eb9920 +0.00000546 1.25411366 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+110 2026-02-24 19:08:56 938165 aa73c1d825f75694b54ff4269c5ecb96f8919e91eca5c88b7870d67657112280 +0.00000546 1.25411912 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+111 2026-02-24 19:08:56 938165 ae83dd60dcf5d3b81ae129069f87364c708e0c0dcc351d1ffa4bc6a5874abb00 +0.00000546 1.25412458 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+112 2026-02-24 19:08:56 938165 e83dc597436161d756496165f421d12006e45326807983a79a0d055af0e7def5 +0.00000546 1.25413004 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+113 2026-02-24 19:08:56 938165 fa19912bfc789cd61b151713efadea835fdf07cb1dd83951b0c7614e9715fd6c +0.00000546 1.25413550 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+114 2026-02-24 19:08:56 938165 fbbe89587ff643ab93f138f13d029806af273e475233ee52ea4eee476b64c927 +0.00000546 1.25414096 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+115 2026-02-24 20:35:37 938175 af92d653a42a2163629c98193e8bbf885841abc57ee22d748edc03d0e2dce7e0 +0.00001110 1.25415206 bc1qpn52eagxlst0zyfa876rr9x8kz0cavxta4ym0h
+116 2026-04-07 19:18:37 944086 a2a702abbd3ae2edf0d67224d9a4a1c29c2bd53621437e6feb253677de2ec00a +0.00000546 1.25415752 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+117 2026-04-07 19:18:37 944086 a589629df479a801137db3ada8e60f64020848ae73851490e7e2aeae49f88351 +0.00000546 1.25416298 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+118 2026-04-12 19:00:57 944774 d1f774f1e5aa0b62ae0a3fc0aef72c39df7b8d3622d982eef379b9c77dfb91f1 +0.00070000 1.25486298 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu
+119 2026-04-12 19:05:44 944775 4cdc9c77e3c56e3d66111ab158449b7cfba86f0254b01ca59a2eac4a30c8203c +0.00070000 1.25556298 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ
+120 2026-04-12 19:28:10 944777 4aa521e3c096ef1ecd899ad9008a2fefbdd507a8de2027613988ff863b0a4e07 +0.00070000 1.25626298 bc1qvt2aulkdqnvp89ywmt5kmphd7tugt7cyqxz9lm
+121 2026-04-18 17:12:29 945642 4fcfeefd53e31da8a8c66140dd91c7d6b39ffd720e51ac0f2f60bf48522f3edd +0.00002000 1.25628298 bc1qfpeps3wcmzk422hvm5jeq5lelnqlzznjwyfy69
+122 2026-04-24 08:23:05 946416 546dcac2cfabece6f023fa613858da29543a4f5fa2fbb256f765780eae16e3ad +0.00002500 1.25630798 bc1q4n7dk30rk3tz263wwf05fufuwm8ykg8mhsc37p
+123 2026-04-24 08:23:05 946416 82bba6ca15a1c556ccce384467b4a2911f36bcde6ec335216cebf8315e314c7f +0.00002500 1.25633298 148XH2YBmLr4oAJXQcG84FpNYoBmqnVPHQ (+1 more)
+124 2026-05-10 10:59:06 948764 0d24713088710fef730dd416876ef9639b62dd54a2e83debb76c108f668341df +0.00000666 1.25633964 bc1qpn52eagxlst0zyfa876rr9x8kz0cavxta4ym0h
+125 2026-05-16 13:13:13 949664 973646bb3204b9e67e0fcb58efabe951aaf3714020c277f77092ae59bc1a1bd6 +0.00000546 1.25634510 1GSMG9VDLTU6jyuG7bkNMdmnHBLtbbM51M
+126 2026-08-29 00:40:13 964501 a751791bf7125e2ba94fd451900391a1cd3a50f01e09ec461450ac0de1d1945e +0.00000864 1.25635374 1LuCK86cRc8sRwjbojEGPHHeHz1eJQSTjD
+
+Incoming-amount pattern (excluding the 5 BTC funding and the self-change of the two spends):
+   77 x     546 sat
+    7 x    1000 sat
+    6 x     666 sat
+    5 x     600 sat
+    3 x     700 sat
+    3 x   70000 sat
+    2 x     800 sat
+    2 x     864 sat
+    2 x    1400 sat
+    2 x    2500 sat
+    2 x    2526 sat
+    1 x     783 sat
+    1 x    1070 sat
+    1 x    1110 sat
+    1 x    1126 sat
+    1 x    1203 sat
+    1 x    2000 sat
+    1 x    2026 sat
+    1 x    2380 sat
+    1 x    2680 sat
+    1 x    4410 sat
+    1 x   10000 sat
+    1 x  535500 sat
+  Burst: 62 x 546 sat on 2026-02-24 (blocks 938164-938165), senders 145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ, 1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu.
+  None of the incoming transactions came from the creator wallets 1EtbTv... or 17ucy1K9...
+
+----------------------------------------------------------------------------------------------------
+6. ON-CHAIN MESSAGES (OP_RETURN) SENT TO THE PRIZE ADDRESS  [VERIFIED decoding]
+----------------------------------------------------------------------------------------------------
+Transactions paying the prize address that also carry an OP_RETURN text. None of them was sent by a
+known creator wallet. They are third-party notes (community members, trolls, spam), with one
+possible exception: the 2020-05-11 "Halving" note, discussed in section 7. Listed chronologically:
+date, block, txid, sender, amount to prize, then the text.
+
+2020-05-11 20:02  630001  a798905f53fdcadc  3GSMG24TujqfMJG1kQoBX18DzJHQLeJYMK  700 sat
+    "Halving"
+2025-03-13 19:42  887660  4e82ab79ddcc4f26  3JC6NJz2vXZ8A47YtGqt7ijTJn4czEmgHG  600 sat
+    "▬→♀→→→▬♀♫↕→→‹"
+2025-05-17 23:21  897169  8890ec6059be7c05  13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp  1000 sat
+    "From Neo"
+2025-06-16 06:16  901467  60769301921777e2  1KFunt1fXQEmvFVrLLWuX9yKeXPdjgTt8M  546 sat
+    "The answer is women"
+2025-06-26 16:40  902839  4a6ff26884b7137d  1KKeYeyCURs5dJ6yhCurTBTnPY6btCoT3W  546 sat
+    "If I were you, I'd hope we dont meet again."
+2025-07-06 18:50  904332  c52c212656a184c8  1LxwXaht3xbHhWnoFnZmz4jUbFgjY6s3BZ  1000 sat
+    "EW There is no spoon"
+2025-07-10 20:44  904971  b9d1b0e9f5a6c9c6  1ECSdS4YGug7jQ1WjcK7MXPK8SsFkRaso  546 sat
+    "Happy late mothers day!"
+2025-07-12 06:06  905192  c2d07560fd5d14eb  1GDrxTH6R4s5g8DDZNGM4bfKjd7EnEtu9W  700 sat
+    "HALVING"
+2025-07-25 03:36  907055  2a6ded8422adfb1a  1AkZ7buhQAZPQDthVu4af9BDQbSEE6b8tW  546 sat
+    "#SOLUTION"
+2025-08-26 19:55  911824  c7e2cf4ce65af5b2  1GSMG1ABC95GES4k9UZCLtz6CYCUL8LUV2  546 sat
+    "Turing Complete."
+2025-09-04 14:42  913169  ca6391d7dfe5e47d  bc1q876u0n25jfwl4kc260jmutf7mpvw6jlrppsfw3  10000 sat
+    "Causality Transcended"
+2025-12-06 16:33  926699  4e689d921d7f280c  12puiCWwPWGqHfkmRJap4uG38DWUQZtUDN  2680 sat
+    "false || echo "5 BTC""
+2025-12-23 21:59  929175  42c31f54760d9d7f  bc1qu2cfrg7ge0zr9urf2asxxaqpl76tsyqpjvp9nf  666 sat
+    "happy xmas!  :P Everything That Has A Beginnin Has An End"
+2025-12-30 15:26  930160  66eefd6ad925bc38  1Pi36y7LJugXwFNDVjR1p8p5JoB7eN5zSZ  864 sat
+    "FromN0EHalfABetterHalfBuiltItBellaCiao1_1Pi36y7LJugXwFNDVjR1p8p5JoB7eN5zSZ"
+2025-12-31 20:09  930318  15e9f80585f05f60  bc1qpn52eagxlst0zyfa876rr9x8kz0cavxta4ym0h  2026 sat
+    "844e86a69a04eea672049e0e0e8612"
+2026-02-24 18:52  938164  02abbfc2563672d9  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "Causality Transcended"
+2026-02-24 18:52  938164  083f3688a2197384  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "fourfirsthintisyourlastcommand"
+2026-02-24 18:52  938164  0bd3f5a9064ba45e  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "entertherabbithole"
+2026-02-24 18:52  938164  222c492b0083bec0  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "bc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd"
+2026-02-24 18:52  938164  25c037ecc5f9b59a  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "hereismysecret"
+2026-02-24 18:52  938164  2891a19577c9becc  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "itisonlywiththeheartthatoneseesrightly"
+2026-02-24 18:52  938164  2ba7b1463745c637  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "redpill"
+2026-02-24 18:52  938164  3357a80b26343fa7  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "matrixsumlistenterlastwordsbeforearchichoicethispassword"
+2026-02-24 18:52  938164  33f183c8d31e32b4  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "entertherabbithole"
+2026-02-24 18:52  938164  3488aa173887cceb  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "leavethematrix"
+2026-02-24 18:52  938164  35fbd774c19ea5dc  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "#SOLUTION"
+2026-02-24 18:52  938164  3ceb3135a8d4f427  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "isolveditwithanabacus"
+2026-02-24 18:52  938164  41103ef1cda062c0  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "isolveditwithanabacus"
+2026-02-24 18:52  938164  4cf92d1cd32ad23e  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "iamtheone"
+2026-02-24 18:52  938164  5c3f41356ba32eb0  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "HALVING"
+2026-02-24 18:52  938164  6119c9969b803d02  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "secondanswerbc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd"
+2026-02-24 18:52  938164  71ad53f1c2cae28e  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "itisonlywiththeheartthatoneseesrightlywhatisessentialisinvisibletotheeye"
+2026-02-24 18:52  938164  7b012ef79590f995  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "itisonlywiththeheartthatoneseesrightly"
+2026-02-24 18:52  938164  7b8ea45c32d5242c  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "yourlastcommandbc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd"
+2026-02-24 18:52  938164  7fff061565c59aee  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "whatisessentialisinvisibletotheeye"
+2026-02-24 18:52  938164  96030fd458fde9de  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "leavethematrix"
+2026-02-24 18:52  938164  a10cf987f53116dd  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "matrixsumlistenterlastwordsbeforearchichoicethispassword"
+2026-02-24 18:52  938164  a63527f312dcce0d  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "fourfirsthintisyourlastcommand"
+2026-02-24 18:52  938164  a69453857ffab8b3  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "yourlastcommandsecondanswer"
+2026-02-24 18:52  938164  a93a85413cf09548  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "fanstoo"
+2026-02-24 18:52  938164  aac29c0d7d64fa5c  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "leavethematrixbc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd"
+2026-02-24 18:52  938164  ad7237973633da35  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "#SOLUTION"
+2026-02-24 18:52  938164  b73bd4015827e45c  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "secondanswer"
+2026-02-24 18:52  938164  c184469d7e6fefa4  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "itisonlywiththeheartthatoneseesrightlywhatisessentialisinvisibletotheeye"
+2026-02-24 18:52  938164  c38cabb17d7d762c  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "HALVING"
+2026-02-24 18:52  938164  c8d0886f977fc80a  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "Causality Transcended"
+2026-02-24 18:52  938164  cf9d667cd870fb2a  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "yourlastcommandbc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd"
+2026-02-24 18:52  938164  cfafec470abe5813  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "yourlastcommand"
+2026-02-24 18:52  938164  d2173770e0670ea3  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "secondanswer"
+2026-02-24 18:52  938164  db9331cfd886a5f3  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "fanstoo"
+2026-02-24 18:52  938164  e1ebff57a21c0158  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "bc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd"
+2026-02-24 18:52  938164  e1f73b490b70748d  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "yourlastcommand"
+2026-02-24 18:52  938164  e30099b1eb38c269  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "Turing Complete."
+2026-02-24 18:52  938164  e6f3fd557eb633d1  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "iamtheone"
+2026-02-24 18:52  938164  e849fbb0f78fa845  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "Turing Complete."
+2026-02-24 18:52  938164  f2510bd7f8d910e8  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "whatisessentialisinvisibletotheeye"
+2026-02-24 18:52  938164  f5007cd87022770e  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "secondanswerbc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd"
+2026-02-24 18:52  938164  f74ee485896ebe32  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "leavethematrixbc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd"
+2026-02-24 18:52  938164  f85058dbfe7f8a5c  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "yourlastcommandsecondanswer"
+2026-02-24 18:52  938164  fabe37c9058b9e2b  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "hereismysecret"
+2026-02-24 18:52  938164  fdcd6e3c630ef858  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "redpill"
+2026-02-24 19:08  938165  01d66f66dc12a2c7  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "Halving"
+2026-02-24 19:08  938165  070444ab8976975d  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "THEMATRIXHASYOU"
+2026-02-24 19:08  938165  0a756d0b9aeef1a4  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "THEMATRIXHASYOU"
+2026-02-24 19:08  938165  1698785ff7ab0c67  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "happy xmas! Everything That Has A Beginning Has An End"
+2026-02-24 19:08  938165  1911356b148d98c8  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "Halving"
+2026-02-24 19:08  938165  1e4a57c1db53e501  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "SalPhaseIon"
+2026-02-24 19:08  938165  2ebab50d62061acd  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "There is no spoon"
+2026-02-24 19:08  938165  432edcc89387c315  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "There is no spoon"
+2026-02-24 19:08  938165  669880a08e13ccf8  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "ALPHANOISES"
+2026-02-24 19:08  938165  7cea5a5db4fabdb2  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "happy xmas! Everything That Has A Beginning Has An End"
+2026-02-24 19:08  938165  a53663a639500553  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "SalPhaseIon"
+2026-02-24 19:08  938165  aa73c1d825f75694  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "The answer is women"
+2026-02-24 19:08  938165  ae83dd60dcf5d3b8  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "ALPHANOISES"
+2026-02-24 19:08  938165  e83dc597436161d7  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "The answer is women"
+2026-02-24 19:08  938165  fa19912bfc789cd6  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "From Neo"
+2026-02-24 19:08  938165  fbbe89587ff643ab  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "From Neo"
+2026-02-24 20:35  938175  af92d653a42a2163  bc1qpn52eagxlst0zyfa876rr9x8kz0cavxta4ym0h  1110 sat
+    "673b7b4b67571b1b4b-3.o"
+2026-04-07 19:18  944086  a2a702abbd3ae2ed  145ZQ9siLrsXBKf465wjdyQYAP5dRwhRhQ  546 sat
+    "hereismysecret"
+2026-04-07 19:18  944086  a589629df479a801  1JG648yaB7Wp2dpUfcZoRSD4q35oq47vCu  546 sat
+    "hereismysecret"
+2026-05-16 13:13  949664  973646bb3204b9e6  1GSMG9VDLTU6jyuG7bkNMdmnHBLtbbM51M  546 sat
+    "GSMG WITNESS BLK 949653 TX 808f812f"
+
+Total: 81 OP_RETURN messages. Themes:
+- Matrix quotes: "There is no spoon", "THEMATRIXHASYOU", "redpill".
+- Puzzle words: "SalPhaseIon", "Causality Transcended",
+   "matrixsumlistenterlastwordsbeforearchichoicethispassword", "fourfirsthintisyourlastcommand",
+   "secondanswer", "fanstoo".
+- Little Prince quotes.
+- The address bc1qks8zrshwmu3m8vgqdzwl2u8jjfgnvgjlezwqcd, repeated.
+- Others: "#SOLUTION", "The answer is women", "GSMG WITNESS BLK 949653 TX 808f812f".
+Other GSMG-vanity senders are third parties too: 1GSMG1ABC95GES4k9UZCLtz6CYCUL8LUV2 (2025-08-26) and
+1GSMG9VDLTU6jyuG7bkNMdmnHBLtbbM51M (2026-05-16).
+
+----------------------------------------------------------------------------------------------------
+7. THE 3GSMG24TujqfMJG1kQoBX18DzJHQLeJYMK ADDRESS ("GSMG.io:" notes, the "Halving" tx)
+----------------------------------------------------------------------------------------------------
+This is a P2SH-P2WPKH (nested SegWit) vanity address beginning "3GSMG". Original vanitygen cannot
+make "3" addresses; VanitySearch can. It is NOT linked on-chain to 1EtbTv... or 17ucy1K9.... It was
+funded on 2020-03-24 01:01 UTC (block 622711) with 15,000 sat from
+37mh7EYetVKAesxqzv968sTYqSLF8dE6oD, a high-volume wallet (4,332 txs, ~365.9 BTC flow; INFERENCE:
+exchange hot wallet). It then sent 1,000-sat outputs with "GSMG.io:" OP_RETURN notes to addresses
+whose private keys are puzzle answers. Its wallet shape is version 1, locktime 0, sequence
+0xfffffffe. That differs from the creator's spend wallet (version 2, anti-fee-sniping locktime,
+0xfffffffd).
+
+Outgoing transactions (VERIFIED on-chain), with the OFFLINE-VERIFIED private key of each recipient:
+  2020-03-24 10:54  blk 622762  117e2796e6c1ab36ea9a8111e00c02e36d1be0eb1d4faa8b3ab3bf2087b0e321
+      OP_RETURN: 'GSMG.io: Right, this is causality'
+      -> 1Jqq37KkZEt4F3Dt6qXdtyiMEFBBdawbkJ 1000 sat : sha256("causality") = Phase 2 password, compressed  [verified]
+  2020-03-24 10:54  blk 622762  3891dd146dce36ed7f97e5476aa3cd427ebc9a8535ce6353b72309b28e686ced
+      OP_RETURN: 'GSMG.io: do you beleive me you need it?'
+      -> 1GyT5WrLYpwFkuiVoPDJZa1Q6jtjbjuBff 1000 sat : sha256("1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe"), compressed  [verified]
+  2020-03-24 11:10  blk 622766  496ab2c73a15ce530518915e27aaa6dcae98490175b4544f8a49c5b90578677d
+      OP_RETURN: 'GSMG.io: part of the cipher'
+      -> 18CchrjA3Uzfrzy4DFqao9ric6YfK4hjdc 1000 sat : unknown preimage (someone evidently has the key: the address was later spent)
+  2020-03-24 11:18  blk 622767  2f64b8758f97eb5b3c30b4e9b06a408f26dc533732bc88b13077d3b2dd34ed62
+      OP_RETURN: 'GSMG.io: phase3.2 pass OK'
+      -> 1K23RS1y2fnuZRkhw5nUpFr5Jk5WN11Zeq 1000 sat : sha256("jacquefrescogiveitjustonesecondheisenbergsuncertaintyprinciple") = Phase 3.2 password, compressed  [verified]
+  2020-03-24 11:18  blk 622767  bd1b5d81b3eab6d8aff56ca673852292751cfc24c7effb3afff57ad4b971254f
+      OP_RETURN: 'GSMG.io: are you sure?'
+      -> 1AD2wfwXukZ1kUAy848hTQQ72aSBZPB75r 1000 sat : unknown preimage (address later spent)
+  2020-03-24 12:26  blk 622774  62dbb701ee67c3f4c75a9b186505c5f46c7e56ac16142bbd3abbc139124e3bc0
+      OP_RETURN: 'GSMG.io: You are here because 227 chars were correct'
+      -> 1M5ypvDbp124ZtKPbg3GJg1JqNs1x7TPoN 990 sat : sha256(Phase 3 password), compressed  [verified]; that password is exactly 227 characters, matching the note
+  2020-04-03 11:48  blk 624209  364de511fda4a139bc20d356a3e97ff1077987daa23818fcdf1fdca748286990
+      OP_RETURN: 'Good job, Neo!'
+      -> 148XH2YBmLr4oAJXQcG84FpNYoBmqnVPHQ 1000 sat : raw bytes "gsmg.io/theseedisplanted" left-padded to 32 bytes (Phase 1 answer), compressed  [verified]
+  2020-04-03 11:48  blk 624209  722fbf3507b025e7618a4b3764b7b74d67c4d02e24b18f610f8e657d6b69e4cb
+      OP_RETURN: 'Good job, Neo!'
+      -> 13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp 1000 sat : unknown preimage (address later spent)
+  2020-04-07 04:17  blk 624768  d6ff3da13c67f8e784f3c8d57eaa05ce4456da3eebf67fa36a5e2cd9ca6f6b70
+      OP_RETURN: -
+      -> 1NULY7DhzuNvSDtPkFzNo6oRTZQWBqXNE9 1050 sat : unknown preimage (never spent)
+  2020-05-11 20:02  blk 630001  a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383
+      OP_RETURN: 'Halving'
+      -> 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe 700 sat : the prize address
+  2021-07-18 12:08  blk 691563  a82052a216cad8f57dee2a039c3b5cef9b5fcb2bc1c3bffa94d713cee0b30e2b
+      OP_RETURN: 'GSMG.io neighbors, half and double'
+      -> 1G1kRAFR68y6CUq1SAJMzHmjd6sEEgtVUT 5000 sat : prize public key P - G ("neighbor", k-1), uncompressed  [verified point]; never spent
+      -> 16eEXbSuKN8tvcos1iKjdju6dAaWWRBMEs 5000 sat : prize public key P/2 ("half", k/2 mod n), uncompressed  [verified point]; never spent
+      -> 1KHMK2C8uBptRz67FbrXy43yHzhZG16Hbm 5000 sat : prize public key 2P ("double", 2k), uncompressed  [verified point]; never spent
+      -> 1PhXF3xVQ8Sg9FomBcmRwRbvvGfm3Y2os1 5000 sat : prize public key P + G ("neighbor", k+1), uncompressed  [verified point]; never spent
+  (The other 2020-03-24 spends from 3GSMG24 are self-consolidations with no message.)
+
+Incoming transactions to 3GSMG24. The 2020-03-24 and 2021-07-18 fundings came right before its own spends.
+Later ones are replies from others, several of them from the answer-key addresses:
+  2020-03-24  1f8eb99e2da7b573  from 37mh7EYetVKAesxqzv968sTYqSLF8dE6oD  15000 sat  
+  2021-07-18  e5db0968fdaed768  from bc1q5rs27knqndl6ewkats0jv78222dzuw2g6h8mx5  21048 sat  
+  2024-12-28  097a0806a714b673  from bc1qz5jznnngxs04rc7h2t7eu95dce9dgd6ww586x6  2870 sat  
+  2025-03-13  8d8497ece6ca166f  from 3JC6NJz2vXZ8A47YtGqt7ijTJn4czEmgHG  600 sat  'BULLSHIT'
+  2025-05-17  f77d6b4a3a05446b  from 13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp  1000 sat  'From Neo'
+  2025-05-19  8aaa96d3a945cf74  from 148XH2YBmLr4oAJXQcG84FpNYoBmqnVPHQ  666 sat  'Neo wallet bc1qyw9qv8qntl48rqdfa4g5szzrlaq4d4cn6zhrmg'
+  2025-06-18  557d13006666cd4e  from 1AD2wfwXukZ1kUAy848hTQQ72aSBZPB75r  600 sat  'Yes'
+  2025-06-18  5b7a4390523ea4e2  from 1GyT5WrLYpwFkuiVoPDJZa1Q6jtjbjuBff  600 sat  'Yes'
+  2025-07-05  3ed3932f6629fd0a  from 1BaCkUvsep9zeEZPcN2ymweAtWBaQqT1aQ  1000 sat  'Its in good hands with Gavin and everyon.'
+  2025-07-10  b9d1b0e9f5a6c9c6  from 1ECSdS4YGug7jQ1WjcK7MXPK8SsFkRaso  546 sat  'Happy late mothers day!'
+  2025-08-25  a4d1f5fbe980a800  from 16RGFo6hDtsP7pKJUULZX5ubp1C6y8jozM  546 sat  'I thought choice was an illusion?'
+  2026-04-08  38162e4fd40822d3  from 1Kv59xvBVGJcB3SeuLWCc1fr75dn5DZD3q  2600 sat  
+  2026-04-08  6c543613d42b32b3  from 1KY3yqm9CGBbV4B1etZGKdMxrtz2CjDvJ  2600 sat  
+  2026-04-24  7aed1985a0d5fe30  from 148XH2YBmLr4oAJXQcG84FpNYoBmqnVPHQ  2500 sat  
+  2026-04-24  e6b79a146e9e1707  from bc1qmegut04njmgkkgvvrdf5gu2v5fklllq7sl4jta  2500 sat  
+  2026-04-24  f675e8f87159e088  from 13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp  2500 sat  
+
+Interpretation:
+- [VERIFIED] On 2020-03-24 the sender knew the exact Phase 1, 2, 3 and 3.2 answers, including the
+   227-character Phase 3 password, and left notes confirming each one.
+- [VERIFIED] The 700-sat "Halving" tx a798905f... was mined in block 630001 together with the
+   creator's first halving spend. The creator's spend used it as an input, so a798905f was broadcast
+   before the creator signed (or re-signed) that spend.
+- [VERIFIED] On 2021-07-18 it paid the four addresses for k+1, k-1, 2k and k/2 of the prize key.
+   Their public keys follow from the prize public key, which was exposed on 2020-05-11, so anyone
+   can compute the addresses; spending needs the prize key. None was ever spent.
+- [UNRESOLVED] Creator or third party? For the creator: the GSMG vanity, the "GSMG.io:" notes, and
+   the same-block "Halving" tx that the creator's spend swept. Against: no on-chain link to the
+   creator wallets, a different wallet type, and answer knowledge that any solver who had reached
+   Phase 3.2 would also have. The community is split: "It's known scam" (Denis Golovkin, [PUZZLE]
+   #41360) versus "has some cred" ([PUZZLE] #27906). The creator was online during the 2024-10-21
+   discussion of this address ([PUZZLE] #27884-27907) and did not comment on it.
+- Most notes are explained by the known answers. Four recipients are not identified here: 18CchrjA
+   ("part of the cipher"), 1AD2wf ("are you sure?"), 13HGhjk ("Good job, Neo!") and the never-spent
+   1NULY7 (no note). No brute force was attempted. "do you beleive me you need it?" went to 1GyT5W,
+   whose key is sha256 of the prize address itself (a brainwallet joke).
+
+----------------------------------------------------------------------------------------------------
+8. LINKED ADDRESSES  [VERIFIED on-chain; interpretation marked]
+----------------------------------------------------------------------------------------------------
+1EtbTvVB8QTGN4mduSdy7n4cZQm4iYTpQ1  - FUNDER
+  50 txs, first seen 2014-12-12, last 2026-01-22, 64.79857827 BTC received in total, balance
+     0.00013916 BTC.
+  Uses compressed keys. Funded the prize (2019-04-13) and the cookie-jar vanity address
+  (2018-01-11).
+  Its 2017-12-27 parent tx 19e339ba... consolidated many small inputs (INFERENCE: exchange
+  withdrawal style).
+  INFERENCE: the creator's (or GSMG company's) long-lived personal wallet since 2014.
+
+17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa  - HALVING DESTINATION ("better half", [PUZZLE] #3902)
+  45 txs, first seen 2020-05-11 (spend 1), balance 3.75055856 BTC, never spent.
+  Received 2.5 BTC (2020) + 1.25 BTC (2024) from the prize address, plus dust.
+
+1GSMG1CLxGXuFtnKbwh1QWfp4xA6reAet3  - "BTC cookie jar" (office swear jar), NOT a puzzle address
+  3 txs, first seen 2018-01-11 (0.01337 BTC from 1EtbTv...), balance 0.01347934 BTC, never spent
+     (key type unknown).
+  Posted by the creator in [COMM] #16245-16247 (2019-01-23) as a reply to "do we have a BTC cookie
+  jar".
+
+3GSMG24TujqfMJG1kQoBX18DzJHQLeJYMK  - see section 7 (not linked on-chain to the creator wallets).
+
+1cc6xayvqpeetixmuXDRsGug7GKyoRdxP  - compressed twin of the prize key, 0 txs.
+
+1PhXF3xV... / 1G1kRAFR... / 1KHMK2C8... / 16eEXbSu...  - k+1 / k-1 / 2k / k/2 addresses, 5,000 sat
+   each, never spent.
+
+----------------------------------------------------------------------------------------------------
+9. TELEGRAM MESSAGES ABOUT THE ADDRESS, THE KEY AND THE PRIZE
+----------------------------------------------------------------------------------------------------
+Quoted verbatim from the exports. "reply to" lines show the message being answered.
+
+9.1 Launch and what the prize is
+
+[COMM] #25986  2019-03-31 20:55:34  CREATOR (edited 2019-03-31)
+    > Here is the GSMG Puzzle! First to crack the code and retrieve a private key may keep the
+    > hidden bitcoins. Good luck to you all!
+    NOTE: April-Fools pre-puzzle (2019-03-31), before the address was funded.
+
+[COMM] #26013  2019-03-31 21:14:38  CREATOR (edited 2019-03-31)
+    > first one to find a private key may keep the bitcoins.
+
+[COMM] #26043  2019-03-31 21:32:09  CREATOR
+    > The first to find a private key in  the code may keep the bitcoins.
+
+[COMM] #26143  2019-04-01 15:38:34  CREATOR (edited 2019-04-01)
+    reply to #26139 (Adam🐾): "And when is the next quiz @SoWut 💪"
+    > Next time we'll anounce it earlier and put an actualy private key in there.
+    NOTE: Admits the April-Fools version had no real key; the real address was funded 12 days later.
+
+[COMM] #28507  2019-04-19 13:36:30  CREATOR (edited 2025-06-05)
+    > Well, good luck I guess.
+    NOTE: First posting of the 5 BTC poster (the image shows the address).
+
+[COMM] #28512  2019-04-19 13:39:38  CREATOR (edited 2025-09-28)
+    > If the bitcoins are still on the address the puzzle hasn't been solved yet.
+
+[COMM] #28534  2019-04-19 16:21:58  CREATOR (edited 2025-06-05)
+    reply to #28533 (None): "Is it a puzzle to the private keys?"
+    > 1 private key is hidden in there.
+
+[COMM] #28538  2019-04-19 19:34:12  CREATOR
+    > Equivalent of 25 btc
+
+[COMM] #28548  2019-04-19 20:13:56  CREATOR
+    > Depends how you look at it.
+
+[COMM] #28571  2019-04-19 22:28:09  CREATOR
+    reply to #28566 (Человек): "What a kind of answer is? is a private key, or some link, or.. What
+    result should we get?"
+    > In the end of the puzzle a private key.
+
+[COMM] #28618  2019-04-20 01:36:42  CREATOR
+    > It's ok. You'd figure it out anyhow once you got the privey.
+
+[COMM] #28623  2019-04-20 01:40:33  CREATOR
+    > If you don't transfer the btcs directly after finding the privkey you don't want or deserve
+    > them I suppose.
+
+[PUZZLE] #4624  2020-08-09 06:38:27  CREATOR
+    > a private key
+
+[PUZZLE] #20223  2024-01-26 12:21:46  CREATOR
+    reply to #20221 (8а70N): "Please say me what format key we are all searching? Answer only this
+    question, maybe PM."
+    > Regular Bitcoin Private key
+    NOTE: Creator confirms the target is a regular Bitcoin private key.
+
+[PUZZLE] #4912  2020-10-27 04:58:39  CREATOR (edited 2026-05-04)
+    reply to #4901 (Zil): "how come you haven't solved it yet"
+    > https://www.blockchain.com/btc/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe price is indeed
+    > still there.
+    NOTE: Creator links the prize address directly.
+
+[PUZZLE] #66593  2026-07-12 21:10:37  CREATOR (edited 2026-07-12)
+    > The "5" btc was never the actual prize. That was only a tiny fraction.
+
+9.2 Vanity address / how the address was generated
+
+[COMM] #28525  2019-04-19 15:20:48  ?
+    > i wonder how long it took to generate addresses which contained GSMG
+
+[COMM] #28526  2019-04-19 15:21:42  CREATOR
+    reply to #28525 (None): "i wonder how long it took to generate addresses which contained GSMG"
+    > few seconds ;-)
+    NOTE: Creator: generation took "few seconds" for a 4-character prefix ("GSMG").
+
+[COMM] #28527  2019-04-19 15:22:16  CREATOR
+    > Only 4 chars. The 1's take more time somehow.
+
+[COMM] #28672  2019-04-20 09:02:25  Falco
+    reply to #28670 (Sloth): "im wondering how they managed to get a public address with 1gsmg in
+    it."
+    > Vanity gen
+    NOTE: Community member (not the creator) names "Vanity gen". The creator never names a tool
+          anywhere in either export.
+
+[PUZZLE] #863  2019-05-14 11:16:39  ?
+    reply to #860 (0xColombo): "how to u know it?"
+    > vanity generator use this prefix for WIF.
+    NOTE: Community speculation, not creator.
+
+[PUZZLE] #5358  2021-01-07 13:55:56  Timofey Bondarenko
+    > The address is a vanity generate address. Forget about bip39/44 etc.
+    NOTE: Community.
+
+[PUZZLE] #5429  2021-01-09 13:19:09  ?
+    > Are we saying the private key might be part of a vanity account , starting with L or 5 or K?
+    NOTE: Community: uncompressed / WIF starts with 5 - consistent with the on-chain public key
+          (section 2).
+
+[PUZZLE] #5430  2021-01-09 13:33:53  ?
+    > The prize address (1GSMG1J...) is an uncompressed one (which was revealed by the spending
+    > transaction during the halving), therefore the WIF-encoded private key would start with 5.
+    > Those are details though, not relevant for the puzzle imo. The address is a vanity one and the
+    > funds are still safu 🙂
+
+9.3 Where the key is kept
+
+[PUZZLE] #7830  2021-08-10 16:51:12  CREATOR
+    reply to #7826 (Detective Froz): "Hackers would not help here. Puzzle creators do not store the
+    private key online 😉"
+    > Technically we do 😁
+
+[PUZZLE] #7832  2021-08-11 06:55:52  CREATOR (edited 2026-01-06)
+    reply to #7831 (Detective Froz): "Do you mean the encrypted private key stored online?"
+    > The one to be found by solving the puzzle yes
+
+[PUZZLE] #7834  2021-08-11 07:07:15  CREATOR (edited 2026-01-06)
+    > And the solver will find a way to 'decrypt' it.
+
+[PUZZLE] #9595  2023-08-06 08:09:27  CREATOR (edited 2024-07-31)
+    > Technically my friends and family can get to all my data if they'd work together. In that
+    > scenario, don't expect a halving of the price.
+
+[PUZZLE] #9639  2023-08-06 14:39:34  CREATOR
+    > Correct. Well, technically, you'll need the internet to claim the prize in the end 🤔.
+
+[PUZZLE] #8354  2023-01-12 06:09:14  CREATOR (edited 2025-09-02)
+    > Focussing on the theory of everything is also still a valid path to reaching the private key.
+
+[PUZZLE] #8360  2023-01-12 06:15:46  CREATOR (edited 2024-11-12)
+    > Just be clear. My apologies for this puzzle not to be too easy. I'm aware it might appear
+    > unsolvable, but it's not. If you find the answer now, the remaining 2.5 btc is well
+    > deserved... Or 5, who knows.
+
+[PUZZLE] #63957  2026-05-28 07:41:02  CREATOR (edited 2026-05-28)
+    reply to #63942 (𝔻𝕖𝕣S𝕋): "@SoWut The sites are down. Can you tell us whether this will affect us
+    if we manage to resolve Salp or Cosmic? We're worried about relying on another site and it no
+    longer existing."
+    > Ah, ofcourse. The puzzle is still valid!
+
+[PUZZLE] #60314  2026-03-03 20:30:47  CREATOR (edited 2026-03-03)
+    > I only need to look at the address. If any of you reaches the next phase, the price is taken
+    > in no-time.
+    NOTE: Creator watches the address; implies anyone reaching the next phase could sweep it
+          quickly.
+
+9.4 Halving schedule (explains both on-chain spends)
+
+[COMM] #28876  2019-04-21 13:41:54  CREATOR
+    > Hi all,
+
+    > About the time constraint for the puzzle. We've decided to half the reward on BTC block 630000
+    > and half it further on  every next 210000 blocks. So at approx. 24 May 2020 01:49:11 2.5 BTC
+    > will be removed from the puzzle address etc etc.
+    NOTE: Announcement. Matches spend 1 (block 630001) and spend 2 (locktime 840003).
+
+[COMM] #28882  2019-04-21 13:50:56  CREATOR
+    > That's ok. Some puzzlers may retrieve the btcs before that date anyhow. At least now there's
+    > no confusion about an ealier stated time constraint without given parameters.
+
+[COMM] #28885  2019-04-21 13:52:08  CREATOR
+    > And, might john mcaffee be right 2.5 btc is still ok around that date.
+
+[COMM] #28906  2019-04-21 15:04:50  CREATOR
+    reply to #28904 (Luigy): "Usually the prizes go up not down"
+    > Just solve it within 400 days.
+
+[COMM] #35274  2019-08-08 07:52:37  CREATOR
+    reply to #35273 (None): "@SoWut did anyone solve the btc puzzle yet (havent looked at it in a
+    while)"
+    > Some teams are very far but nobody managed to get the private key so far.
+
+[COMM] #35276  2019-08-08 08:04:51  CREATOR
+    > 5btc shouldn't be easy 😉
+
+[COMM] #35309  2019-08-08 16:05:52  CREATOR
+    reply to #35302 (None): "In 2024 the prize will be bigger than a Bitcoin block 😋"
+    > Hehe true
+
+[COMM] #35310  2019-08-08 16:06:15  CREATOR
+    > But we'll be halving the price at next btc halving.
+
+[PUZZLE] #859  2019-05-14 11:01:11  CREATOR (edited 2025-04-30)
+    reply to #857 (None): "if prize will be halfed each time.. not sure about interest will continue
+    long time.."
+    > I suppose the btc price will be above 10k at the next halving.
+
+[PUZZLE] #3876  2020-05-11 13:07:48  CREATOR
+    reply to #3863 (Trin): "So what are you going to do with the 2.5btc after the halving? @SoWut
+    another puzzle? 😁"
+    > Invest it in bitconnect.
+
+[PUZZLE] #3902  2020-05-11 15:26:40  CREATOR
+    reply to #3901 (x7x7x7x6): "the half of prize went to better half"
+    > Well spotted
+    NOTE: "better half" = 17ucy1K9..., the destination of both cuts.
+
+[PUZZLE] #3903  2020-05-11 15:26:51  CREATOR
+    > Happy halving!
+
+[PUZZLE] #3905  2020-05-11 15:31:00  CREATOR (edited 2026-02-02)
+    > It'll high likely be worth more than it once the price was 5 btc. Next halving in 209999
+
+[PUZZLE] #3923  2020-05-11 16:31:25  CREATOR (edited 2024-12-23)
+    > Let's see what bitcoin is worth the next halving and who knows what you'll find after opening
+    > the 2nd door. The price is in half, but what does it mean 🤔.
+
+[PUZZLE] #5069  2020-11-24 13:02:48  CREATOR
+    > We have our reasons halving the price money at every bitcoin halving event :-).
+
+[PUZZLE] #5365  2021-01-07 14:57:32  CREATOR
+    > It'll be split on the next halving.
+
+[PUZZLE] #7385  2021-04-16 07:20:09  CREATOR
+    reply to #7383 (Hii): "That and without a halfing of the prize xD"
+    > Deal, we'll take of 75% instead 😈.
+
+[PUZZLE] #8364  2023-01-12 11:05:16  CREATOR
+    reply to #8361 (Detective Froz): "Why 5 btc? Was the half (2.5 btc) transferred to another
+    puzzle address? 😊And the solver could receive prizes from both addresses..."
+    > Every btc halving the price will half too.
+
+[PUZZLE] #9572  2023-08-06 06:55:01  CREATOR
+    reply to #9570 (Zil): "puzzle prize from stolen funds?"
+    > Not at all.
+    NOTE: Denies the prize came from stolen funds.
+
+[PUZZLE] #24626  2024-04-19 20:10:43  CREATOR (edited 2024-04-19)
+    > Happy halving everyone!
+    NOTE: Posted on halving day 2024-04-19/20; spend 2 followed within days.
+
+[PUZZLE] #24627  2024-04-19 20:15:48  CREATOR (edited 2024-04-19)
+    > For those that still haven't solved the puzzle. There are few prizes to win besides the banter
+    > in this chat. A private key, some 'obscure' intel, or what I hope most of you have discovered
+    > by now, the most obvious reason to make sure you hold on to Bitcoin 😉.
+
+9.5 Cookie-jar address (other 1GSMG1 vanity address)
+
+[COMM] #16245  2019-01-23 09:01:58  CREATOR
+    > yes
+
+[COMM] #16246  2019-01-23 09:01:58  CREATOR
+    > we do
+
+[COMM] #16247  2019-01-23 09:02:10  CREATOR (edited 2025-09-14)
+    > 1GSMG1CLxGXuFtnKbwh1QWfp4xA6reAet3
+
+9.6 Farewell / status
+
+[COMM] #67741  2026-04-13 12:21:41  CREATOR (edited 2026-04-13)
+    > All Good Things Come To An End.
+
+    > The End of GSMG Our 9 Year Chaos Tour Is Officially Over, But the Stories Stay… Forever.
+
+
+    > Hey legends.
+    > After almost nine years of pure madness, caffeine overdoses and more red candles than any
+    > human should endure, it is time to turn the lights off.
+    > But before we do, grab a drink, get comfortable and let me tell you the whole stupid story
+    > straight from the idiots who lived it. It all started in 2017. JRK was visiting Sydney with
+    > the better half. Instead of playing tourist like a normal person, he locked himself in a
+    > living room for nine straight days. Zero high-end programming skills. Just Siemens PLC code,
+    > some HTML, Quake 3 scripting and a bit of Pascal. He built the entire bot from scratch as one
+    > single terrifying, never-ending script. No functions. No classes. Just pure chaos and hope.
+    > On June 10th at around 8:30 in the morning, the first order actually hit Poloniex servers. It
+    > somehow worked, albeit that the ATH of rising markets wasn’t overwritten, thus we started by
+    > selling for a loss. The very first name for this script was MR. ROIbot. And right there on
+    > that same day, d0d was already in the mix (he already knew infrastructure expert Darky, too).
+    > Greengras hooked us up with the very first server space, and the experienced algotrading coder
+    > Bloctite joined shortly after and basically saved our lives by rewriting the ENTIRE codebase
+    > (Python plus Cython, and currently basically bug-free). 1 idiot and 3 professionals with
+    > complementary skills, a host, and one big stupid dream. What could go wrong?
+    > The reason it all started? JRK and d0d had just used another bot run by a scammer called
+    > fuzzyhobbit and thought nope. We are doing this the right way for everybody. That disrespect
+    > for the old banking system? Still burns to this day. And that is literally where Globally
+    > Supporting My Generation came from. An old friend's group name was reused and suddenly became
+    > a mission. Give the power back to the little guy.
+    > A little later, JRK got inspired by other crypto puzzles and spent two sloppy days throwing
+    > one together. Full of grammatical mistakes and zero polish. Sorry about the mental damage.
+    > That thing is still running, and we are keeping it alive. In 40 years, he might admit he
+    > forgot how to solve it himself. The torture continues. You are welcome.
+    > The early days were absolutely mental. Within the first few days, we were already handling
+    > around 8 million dollars in value. The market analyser and trading engine we built back then
+    > were absolute beasts; they’ve been running nearly flawlessly ever since.
+    > We wanted to offer a proper high-end portfolio management tool to the little guy at stupidly
+    > low prices. That was always the point. (And yes, now in 2026, AI can do the same thing in one
+    > shot if you’re a prompt genius with decent subscriptions and setups. Thanks for nothing,
+    > future.)
+    > Here is the part nobody likes to say out loud.
+    > We never paid ourselves a single cent of salary in all these years. We had exactly one team
+    > dinner funded by GSMG. One. That is it. (Admittedly, it was a very nice dinner.) Every single
+    > subscription went straight into upgrades for Jeff Bezos's wife's latest mega yacht, and maybe
+    > even her youth.
+    > We had some absolutely legendary moments together.
+    > Besides the community chat banter that still makes us cry laugh at 3 am.
+    > Boat rides with the first bunnies.
+    > Accidentally melting an exchange by ramping our API call limit parameter times one hundred
+    > (sorry again, lads).
+    > Some of you lost money. We know the classic move. Coin moons set the bot to 220% aggression at
+    > the top coin dumps, blame the bot. Standard crypto rite of passage. But we also saw some of
+    > you catch beautiful flash crashes and turn minutes into multiple BTC. Those wins still make us
+    > giggle like little kids.
+    > The ride was always about getting YOU rich. Hehe. We are not here for the money; we are here
+    > for the tech. Aren’t we all? We actually meant the first part.
+
+[COMM] #67742  2026-04-13 12:21:41  CREATOR (edited 2026-04-13)
+    > So why are we stopping?
+    > To run a bot like this in 2026, you need a ridiculous amount of compute. Our market analyser
+    > is a proper cruncher which deals with big data, all on the fly (big data by definition, fyi).
+    > It crunches numbers every microsecond, year in year out. To stay competitive, it costs a
+    > fortune. The whole setup only really makes financial sense for the big whales and UHNWIs on
+    > the highest tier. Running these calculations for the shrimps is literally killing us
+    > financially. The other subscription levels are not enough to keep it +EV. We tried. We
+    > crunched the numbers until our eyes hurt. Time to be honest and do the inevitable.
+    > We try to be a bit ghostly, but we are definitely not ghosting you. Here is what we are doing
+    > for you right now.
+    > The dashboard will stay open for a few days, and we’ll make sure you can retrieve your
+    > history. Also, our terms and conditions state that we have to return all funds from the last 2
+    > weeks. We’ll make that 6 weeks instead. So, please stop sending us funds for your
+    > subscriptions.
+    > We are not deleting the code. We are still figuring out what to do with it (maybe open source
+    > it, maybe something else, sell it to w/e company, fund or individual. We will let you know
+    > soon, or you may contact us, of course.
+    > Your personal data was always kept to bank security grade plus standards. It will be deleted
+    > and will never be included in a sale (might that ever happen).
+    > So thank you.
+    > Thank you for trusting a bunch of idiots with a dream. Thank you for the memes, the rage
+    > messages, the wins, the losses and every single story you shared. This ride was never about us
+    > getting rich. It was about getting YOU rich in a world that needed it.
+    > The lights are going off, but the story? That one lives forever.
+    > Stay dangerous out there, stack sats and may your future entries always be better than your
+    > exits.
+    > With love, zero regrets,
+    > JRK, d0d, Darky, Bloctite, and the remaining GSMG crew.
+    > P.S. The puzzle is still unsolved. We are watching from the sidelines with an infinite amount
+    > of popcorn without giving any hints - we hope that this will remain community-maintained, as
+    > the URL might vanish. 👀
+    > P.P.S. Don’t worry about us; we’ve been busy with many non-GSMG things in the meantime. Who
+    > knows, you might enjoy some of the services/products we worked on somewhere in your life. You
+    > may find us in digital delivery systems for the entertainment and racing industry, automobile
+    > global human transport services, educational platforms, card game, logistics, data analyses,
+    > music-related entertainment, and many more.
+
+[PUZZLE] #66935  2026-07-16 18:33:29  CREATOR (edited 2026-07-16)
+    reply to #66918 (PoW): "What will come fast? Quantum computer cracking the puzzle address or AI
+    proving that there is no solution for the puzzle?"
+    > Quantum computers AND AI, both not being sure what to answer.
+
+----------------------------------------------------------------------------------------------------
+10. VANITY KEY FINDINGS AND MOST LIKELY GENERATOR
+----------------------------------------------------------------------------------------------------
+FACTS [VERIFIED]
+  1. Both creator vanity addresses start with "1GSMG1" (prize 1GSMG1JC9..., cookie jar
+     1GSMG1CLx...). Chance of the 6th character being "1" in both by accident is ~1/58^2 = 1/3364,
+     so the searched pattern was "1GSMG1". The creator's words fit: "Only 4 chars [GSMG]. The 1's
+     take more time somehow." ([COMM] #28527).
+  2. Generation time per the creator: "few seconds ;-)" ([COMM] #28526, 2019-04-19).
+  3. The key is UNCOMPRESSED (65-byte public key in both spends).
+  4. The creator made at least two 1GSMG1 vanity addresses: the cookie jar (funded 2018-01-11,
+     posted 2019-01-23) and the prize (funded 2019-04-13).
+  5. The creator never names the generator in either Telegram export. "Vanity gen" was said by
+     community member Falco ([COMM] #28672).
+  6. The funding wallet 1EtbTv... uses compressed keys, so the prize key was NOT generated by that
+     wallet (a standard wallet does not make vanity keys anyway).
+  7. No nonce reuse, low-S signatures - nothing about the key leaks through the chain.
+
+MOST LIKELY GENERATOR [INFERENCE]
+  vanitygen / oclvanitygen (samr7, 2011-2012; also the "vanitygen-plus" and exploitagency forks).
+  Reasons:
+   - vanitygen and oclvanitygen produce UNCOMPRESSED keys by default (vanitygen needs no flag;
+      compressed output only exists in later forks). The prize key is uncompressed.
+   - VanitySearch (JeanLucPons, first release early 2019) produces COMPRESSED addresses by default
+      and needs -u for uncompressed; a user taking defaults would have got a compressed key.
+   - Search cost for "1GSMG1" is roughly 58^5 ≈ 6.6e8 keys (order of magnitude; "1GSMG" alone ≈
+      1.1e7). That is seconds to tens of seconds on a GPU (oclvanitygen tens of Mkeys/s;
+      VanitySearch far more), but minutes on a CPU. So "few seconds" points to GPU search
+      (oclvanitygen or VanitySearch -u), or to the creator loosely rounding down (INFERENCE).
+   - In 2018-2019 vanitygen/oclvanitygen was the standard tool in guides and on bitcointalk.
+  Less likely alternatives:
+   - VanitySearch with -u (possible, but requires deliberately choosing uncompressed in early 2019).
+   - A vanity pool / split-key service (bitaddress.org "Vanity Wallet" tab combines the parts;
+      uncompressed by default). Unlikely for a 4-char prefix that takes seconds locally.
+   - A custom script (e.g. python with ecdsa/bitcoin libs) - uncompressed was the common default in
+      older Python libraries (pybitcointools privtopub). Would be slow for 4 chars in pure Python.
+
+IMPLICATIONS (each point labelled)
+  - [VERIFIED, probabilistic] The key is not a plain brainwallet, i.e. not sha256 of one fixed
+     phrase: that hash would reach an address starting "1GSMG1" only by chance, about 1 in 58^5 ≈
+     6.6e8.
+  - [INFERENCE, most likely] The key came from an ordinary random vanity search (random seed from
+     the OS/OpenSSL), and the creator stored it somewhere in the puzzle ("1 private key is hidden in
+     there", [COMM] #28534; "Technically we do" store it online, [PUZZLE] #7830-7834). The creator's
+     statements support storage whether or not the key can be derived. That the key is written down
+     in the puzzle is an inference, not a proven fact.
+  - [POSSIBLE, no evidence] A deterministic derivation followed by a search is not excluded:
+     (a) VanitySearch -s <seed>: the start key is sha256(pbkdf2_hmac_sha512(seed, salt
+     "VanitySearch", 2048 rounds)). Each CPU thread adds its thread id << 64; each GPU thread adds
+     (index << 80) + (GPU id << 112). The printed key is start + counter, possibly multiplied by
+     lambda or lambda^2 (curve endomorphism) and/or negated. With the seed and roughly the same
+     thread/GPU setup, the key could be rebuilt by a small search (source: VanitySearch Vanity.cpp).
+     (b) A custom script, e.g. sha256(phrase + counter), run until the prefix matches.
+     Against both: they need non-default choices (VanitySearch defaults to a random seed and
+     compressed keys; this key is uncompressed and would need -u). The cookie-jar address
+     1GSMG1CLx... was already in use on 2018-01-11, and VanitySearch is believed (not verified here)
+     to date from early 2019. vanitygen/oclvanitygen take keys from OpenSSL's RNG and have no seed
+     option. Nothing links any phrase to the key.
+  - [INFERENCE] If the key is stored as generated, the expected forms are: WIF starting with "5" (51
+     Base58 chars, vanitygen's "Privkey:" output format) or 64 hex characters. vanitygen prints
+     "Address: 1GSMG1...  Privkey: 5...", so a WIF "5..." is the single most likely literal form.
+  - Plaintext-size check against the locked envelopes: the two 80-byte envelopes (terminal and
+     SalPhaseIon) hold 64-79 bytes of plaintext (PKCS#7). A bare 51-char WIF (with or without CRLF)
+     gives only 64 bytes of ciphertext, and so does vanitygen's "Privkey: 5..." line (60 chars, 62
+     with CRLF). So neither is a bare WIF form. What fits is 64-hex (exactly 64 bytes, plus a full
+     padding block), 64-hex plus a newline, a WIF with a prefix of 13 or more chars (e.g. "gsmg.io/"
+     plus text), or another 64-79 byte string. The 1,328-byte Cosmic envelope has room for any form.
+  - Vanity search does not weaken the key: knowing the prefix "1GSMG1" gives no information about
+     the private key.
+  - Import with an uncompressed-aware wallet (Electrum: "p2pkh:5..." or raw hex; Bitcoin Core
+     importprivkey accepts the 5-WIF directly).
+
+----------------------------------------------------------------------------------------------------
+11. TIMELINE
+----------------------------------------------------------------------------------------------------
+2014-12-12  Funder 1EtbTv... first seen.
+2018-01-11  1EtbTv... funds cookie-jar vanity address 1GSMG1CLx... (0.01337 BTC), change later
+   reused for the prize.
+2019-01-23  Creator posts cookie-jar address in the community chat ([COMM] #16247).
+2019-03-31  April-Fools pre-puzzle, no real key ([COMM] #25986, #26143).
+2019-04-13  Prize address funded with 5.00000000 BTC (block 571497).
+2019-04-19  Poster posted ([COMM] #28507); "few seconds" / "Only 4 chars" ([COMM] #28526-28527).
+2019-04-21  Halving-cut rule announced ([COMM] #28876).
+2020-03-24  3GSMG24... funded; sends "GSMG.io:" notes to Phase 1/2/3/3.2 answer-key addresses. Same
+   day: first dust (666 sat) to the prize address.
+2020-05-11  Spend 1: 2.5 BTC to 17ucy1K9... (block 630001), sweeping the same-block 700-sat
+   "Halving" tx from 3GSMG24....
+2020-10-27  Creator links the address: "price is indeed still there" ([PUZZLE] #4912).
+2021-07-18  3GSMG24... pays the k+1 / k-1 / 2k / k/2 addresses ("GSMG.io neighbors, half and
+   double").
+2021-08-10  "Technically we do [store the private key online]" ([PUZZLE] #7830).
+2024-04-24  Spend 2: 1.25 BTC to 17ucy1K9... (block 840725, locktime 840003).
+2025-03 ... 2026-08  Wave of third-party dust txs, most with OP_RETURN notes (sections 5-6).
+2026-08-29  Latest tx (864-sat dust). Balance 1.25635374 BTC.
+~2028       Next halving (block 1,050,000): per the rule, ~0.625 BTC would be removed.
+
+====================================================================================================

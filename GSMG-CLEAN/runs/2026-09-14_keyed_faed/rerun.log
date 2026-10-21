@@ -1,0 +1,6 @@
+31 key families
+93 decoded outputs
+240 shuffle controls, max 8; planted round-trip: True
+top letter outputs: [('sum_rows_7x12_unsigned', 'beau', 4, 'luletiwmrkfylapnibtmanskdwlulrjg'), ('sum_cols_7x12_unsigned', 'vig_enc', 4, 'ymvojktqjxsrwmsskkvogvsvxpurihvn'), ('yellow9', 'beau', 4, 'gxzsdjrxigvcsjoouffvdshkryifsapi'), ('sum_cols_6x14_signed', 'vig_enc', 3, 'nuhsxrkqchvejgjbkvxngpbhxgjmnxjq'), ('sum_rows_7x12_unsigned', 'vig_enc', 3, 'vutkfueuxujararbwnfqatwulcrgvxvi'), ('balanced_474', 'vig_dec', 3, 'btazzcaxzbvxztxdaccvwzvbawzcyzcu'), ('sum_cols_6x14_signed', 'vig_dec', 2, 'xgbopvysedjyxutnerprurddlaxaxjdm'), ('sum_rows_6x14_unsigned', 'beau', 2, 'hwkjgtislhkyjwnfftguojkuitlghwgv'), ('sum_rows_6x14_colour', 'vig_enc', 2, 'lspfnqkwohjljsmjoqmulfjpkvoimnmt'), ('sum_cols_7x12_unsigned', 'vig_dec', 2, 'monsdcpsxnmlkokwecrqulmplrmvczrp')]
+exact oracles: 93 outputs, 0 with a hit
+WROTE E:\rabbit-combined\GSMG-CLEAN\runs\2026-09-14_keyed_faed

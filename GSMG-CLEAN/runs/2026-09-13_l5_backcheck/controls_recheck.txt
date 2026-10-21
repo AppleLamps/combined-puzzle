@@ -1,0 +1,10 @@
+script sha matches manifest: True
+CONTROL_1 RECOVERED sha_ok= True items= 418 dbbi_hits= 0 crlf sha256d fwd '2020-05-10T15:52:40'
+CONTROL_2 RECOVERED sha_ok= True items= 81 dbbi_hits= 0 nows_upper sha256_of_hex fwd 'bitcoin satoshi nakamoto satoshinakamoto genesis g'
+CONTROL_3 RECOVERED sha_ok= True items= 84 dbbi_hits= 2 upper sha256d byterev 'matrixsumlist'
+CONTROL_4 RECOVERED sha_ok= True items= 53 dbbi_hits= 0 raw sha3_256 charrev 'accept-ranges: bytes'
+CONTROL_5 RECOVERED sha_ok= True items= 14324 dbbi_hits= 0 crlf sha3_256 fwd 'share'
+CONTROL_6 RECOVERED sha_ok= True items= 184 dbbi_hits= 0 letters_lower sha256_of_hex byterev '77,XAV3TLL3QWXC4XVL7HRTYLVS36BXQ7FO,20260105123443'
+CONTROL_7 RECOVERED sha_ok= True items= 161 dbbi_hits= 0 upper sha256 byterev "  - rule 'TODO linear2: convert implied ax + by =="
+CONTROL_8 RECOVERED sha_ok= True items= 63 dbbi_hits= 0 alnum_lower sha3_256 charrev '</body>'
+controls recovered 8/8; DBBI prefilter 4666 vs expected 4765.6 (ratio 0.979)

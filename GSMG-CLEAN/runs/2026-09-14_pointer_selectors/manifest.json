@@ -1,0 +1,60 @@
+{
+ "date": "2026-09-14",
+ "review": "14_CRITICAL_REVIEW_2026-09-14.md move 1 (pointer as operand)",
+ "envelope_bytes_read": 0,
+ "aes_decryptions": 0,
+ "controls": {
+  "codec_F63_lastwords": true,
+  "codec_F29_thispassword": true,
+  "compact1544_len": true,
+  "address_machinery": "sha256 of the 149 digits reproduces 18CchrjA3U..."
+ },
+ "selectors": [
+  5,
+  479,
+  484,
+  963,
+  474,
+  489,
+  91,
+  86,
+  95,
+  100
+ ],
+ "targets": [
+  "FAED_570",
+  "DBBI_91",
+  "digits149",
+  "salphaseion_1075",
+  "architect_1539",
+  "diff_A1Z26",
+  "tail64_A1Z26"
+ ],
+ "candidate_targets": [
+  "FAED_570",
+  "DBBI_91",
+  "architect_1539",
+  "digits149",
+  "tail64",
+  "diff_91"
+ ],
+ "oracles": {
+  "chain_digests": {
+   "phase1_answer": "5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75",
+   "phase2_seven_part": "1a57c572caf3cf722e41f5f9cf99ffacff06728a43032dd44c481c77d2ec30d5",
+   "phase32_three_part": "250f37726d6862939f723edc4f993fde9d33c6004aab4f2203d9ee489d61ce4c"
+  },
+  "addresses": [
+   "18CchrjA3Uzfrzy4DFqao9ric6YfK4hjdc",
+   "1AD2wfwXukZ1kUAy848hTQQ72aSBZPB75r",
+   "13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp",
+   "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+   "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa"
+  ],
+  "dbbi_pattern": "01234556728966286abc61c88b48de3086dd501d5557d6bab5605233df7bbb96"
+ },
+ "limits": [
+  "literal answers only; selectors used as cipher keys are not covered",
+  "windows limited to 32 characters for the address oracle"
+ ]
+}

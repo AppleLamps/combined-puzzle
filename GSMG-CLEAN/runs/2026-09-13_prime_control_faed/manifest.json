@@ -1,0 +1,12 @@
+{
+  "primary": "Beaufort over decimal residues 0..9, as demonstrated by page a..i/o digits",
+  "control": "Previous closed a..i alphabet (mod 9, a=1)",
+  "source_key_models": "Both complete DBBI prime parses; restore prime index, zero prime cells, or preserve nonprime payload; all exact rectangles and both sum axes",
+  "key_representations": "Numeric list entries, or concatenated decimal digits of those entries",
+  "scope": "Full FAED transformed; one whole decimal integer decoded to bytes; no password guessing or AES",
+  "warning": "These operators and use of sums as repeating keys remain hypotheses. Round trips and format flags do not authenticate them.",
+  "source_hashes": {
+    "DBBI_91.txt": "ec374000d5f070de550469ae0f24b414dbb2673f9f41aa498ae00d8f97355565",
+    "FAED_570.txt": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35"
+  }
+}

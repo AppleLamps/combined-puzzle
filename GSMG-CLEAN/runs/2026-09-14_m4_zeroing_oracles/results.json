@@ -1,0 +1,34 @@
+{
+ "candidates": 476,
+ "scalar_forms_tested": 1464,
+ "oracle_hits": [],
+ "assignment_scan": {
+  "assignments": 48,
+  "zeroable": 1,
+  "select_PRIVATEKEY": 1,
+  "select_any_notable": 1,
+  "authenticated": {
+   "rotation": 0,
+   "direction": 1,
+   "yellow": 479,
+   "blue": 484,
+   "difference": 5,
+   "larger_side": "B",
+   "zeroable": true,
+   "zeroed_prime": 5,
+   "balanced_value": 479,
+   "zeroed_marker_1based": 3,
+   "selected": {
+    "letters1539_0based": "PRIVATEKEY",
+    "letters1539_1based": "EPRIVATEKE",
+    "compact1544_0based": "EPRIVATEKE"
+   },
+   "notable_at_balance": [
+    "PRIVATEKEY",
+    "PRIVATEKEY",
+    "PRIVATE",
+    "PRIVATE"
+   ]
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "date": "2026-09-14",
+ "closed_system": true,
+ "network": false,
+ "envelope_bytes_read": 0,
+ "aes_decryptions": 0,
+ "sum_lists": 552,
+ "targets": {
+  "source_full_before_choice": 165,
+  "source_architect_before_choice": 133,
+  "source_immediate_before_choice": 19,
+  "puzzle_before_select": 259
+ },
+ "index_modes": [
+  "direct",
+  "modulo"
+ ],
+ "bases": [
+  0,
+  1
+ ],
+ "extracts": [
+  "whole_joined",
+  "initials",
+  "finals",
+  "lengths_A1",
+  "lengths_mod26"
+ ],
+ "controls_per_sumlist": 20,
+ "control_max": {
+  "initials": 4,
+  "finals": 6,
+  "lengths_A1": 1,
+  "lengths_mod26": 1
+ }
+}

@@ -1,0 +1,442 @@
+{
+  "corpus": {
+    "PUZ": {
+      "messages": 61798,
+      "query_hits": 323,
+      "source_sha256": "22a837cf4ebc05786a8ffb8220688e634f361764f9f214de5710b06c9af0d505"
+    },
+    "COMM": {
+      "messages": 52913,
+      "query_hits": 89,
+      "source_sha256": "c9775f08dd1e7fde8f554e0eb5da819f5ac079b2a8aa4f3828d9065ead18b851"
+    }
+  },
+  "mapping": {
+    "b": "2 -> B -> blue",
+    "be": "25 -> Y -> yellow"
+  },
+  "comparisons": [
+    {
+      "cells": 84,
+      "mapped": "BBBBYBBBYYBBBBYBBYYBBYB",
+      "poster_first23": "BBBBYBBBYYBBBBYBBYYBYYB",
+      "matched": 22,
+      "differences": [
+        {
+          "ordinal": 21,
+          "logical_prime": 73,
+          "source_offset": 78,
+          "token": "b",
+          "digits": "2",
+          "letter": "B",
+          "poster_color": "Y",
+          "poster_spiral_bit_index": 167
+        }
+      ],
+      "markers": [
+        {
+          "ordinal": 1,
+          "logical_prime": 2,
+          "source_offset": 1,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 2,
+          "logical_prime": 3,
+          "source_offset": 2,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 3,
+          "logical_prime": 5,
+          "source_offset": 4,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 4,
+          "logical_prime": 7,
+          "source_offset": 6,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 5,
+          "logical_prime": 11,
+          "source_offset": 10,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 6,
+          "logical_prime": 13,
+          "source_offset": 13,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 7,
+          "logical_prime": 17,
+          "source_offset": 17,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 8,
+          "logical_prime": 19,
+          "source_offset": 19,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 9,
+          "logical_prime": 23,
+          "source_offset": 23,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 10,
+          "logical_prime": 29,
+          "source_offset": 30,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 11,
+          "logical_prime": 31,
+          "source_offset": 33,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 12,
+          "logical_prime": 37,
+          "source_offset": 39,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 13,
+          "logical_prime": 41,
+          "source_offset": 43,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 14,
+          "logical_prime": 43,
+          "source_offset": 45,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 15,
+          "logical_prime": 47,
+          "source_offset": 49,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 16,
+          "logical_prime": 53,
+          "source_offset": 56,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 17,
+          "logical_prime": 59,
+          "source_offset": 62,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 18,
+          "logical_prime": 61,
+          "source_offset": 64,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 19,
+          "logical_prime": 67,
+          "source_offset": 71,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 20,
+          "logical_prime": 71,
+          "source_offset": 76,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 21,
+          "logical_prime": 73,
+          "source_offset": 78,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 22,
+          "logical_prime": 79,
+          "source_offset": 84,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 23,
+          "logical_prime": 83,
+          "source_offset": 89,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        }
+      ]
+    },
+    {
+      "cells": 83,
+      "mapped": "BBBBYBBBYYBBBBYBBYYBBYY",
+      "poster_first23": "BBBBYBBBYYBBBBYBBYYBYYB",
+      "matched": 21,
+      "differences": [
+        {
+          "ordinal": 21,
+          "logical_prime": 73,
+          "source_offset": 78,
+          "token": "b",
+          "digits": "2",
+          "letter": "B",
+          "poster_color": "Y",
+          "poster_spiral_bit_index": 167
+        },
+        {
+          "ordinal": 23,
+          "logical_prime": 83,
+          "source_offset": 89,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y",
+          "poster_color": "B",
+          "poster_spiral_bit_index": 183
+        }
+      ],
+      "markers": [
+        {
+          "ordinal": 1,
+          "logical_prime": 2,
+          "source_offset": 1,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 2,
+          "logical_prime": 3,
+          "source_offset": 2,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 3,
+          "logical_prime": 5,
+          "source_offset": 4,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 4,
+          "logical_prime": 7,
+          "source_offset": 6,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 5,
+          "logical_prime": 11,
+          "source_offset": 10,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 6,
+          "logical_prime": 13,
+          "source_offset": 13,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 7,
+          "logical_prime": 17,
+          "source_offset": 17,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 8,
+          "logical_prime": 19,
+          "source_offset": 19,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 9,
+          "logical_prime": 23,
+          "source_offset": 23,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 10,
+          "logical_prime": 29,
+          "source_offset": 30,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 11,
+          "logical_prime": 31,
+          "source_offset": 33,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 12,
+          "logical_prime": 37,
+          "source_offset": 39,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 13,
+          "logical_prime": 41,
+          "source_offset": 43,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 14,
+          "logical_prime": 43,
+          "source_offset": 45,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 15,
+          "logical_prime": 47,
+          "source_offset": 49,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 16,
+          "logical_prime": 53,
+          "source_offset": 56,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 17,
+          "logical_prime": 59,
+          "source_offset": 62,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 18,
+          "logical_prime": 61,
+          "source_offset": 64,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 19,
+          "logical_prime": 67,
+          "source_offset": 71,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 20,
+          "logical_prime": 71,
+          "source_offset": 76,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 21,
+          "logical_prime": 73,
+          "source_offset": 78,
+          "token": "b",
+          "digits": "2",
+          "letter": "B"
+        },
+        {
+          "ordinal": 22,
+          "logical_prime": 79,
+          "source_offset": 84,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        },
+        {
+          "ordinal": 23,
+          "logical_prime": 83,
+          "source_offset": 89,
+          "token": "be",
+          "digits": "25",
+          "letter": "Y"
+        }
+      ]
+    }
+  ],
+  "poster_final_unpaired_color": "Y",
+  "offwhite_spiral_index": 163,
+  "offwhite_character_ordinal": 21,
+  "caution": "The B/Y interpretation is source-supported inference. No creator message found directly assigning signed prime values to b/be. The mapping does not fix the marker-21 mismatch or explain the unused 24th colour."
+}

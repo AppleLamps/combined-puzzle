@@ -1,0 +1,19 @@
+{
+  "model": "Prime-numbered logical cells must be b or b+one fixed suffix; other cells consume one character.",
+  "suffix_family": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+  ],
+  "control": "First 13 input characters fixed; shuffle remaining multiset.",
+  "samples": 5000,
+  "seed": 9132027,
+  "input_sha256": "71fe46259e270c113529dfaded4b59c59a9dffd826a7202ab07fc498b6a2c5ca",
+  "caveat": "The b/be construction is an existing lead. This compares its full-coverage property, not its proposed numerical signs or Hill reading."
+}

@@ -1,0 +1,110 @@
+{
+ "architect_block": {
+  "bytes": 1539,
+  "distinct_byte_values": 26,
+  "decode": "latin1 -> cp273 -> ascii, then Beaufort(key=THEMATRIXHASYOU)",
+  "letters": 1539,
+  "matches_saved_file": true,
+  "PRIVATEKEY_offsets_0based": [
+   479,
+   1238
+  ],
+  "arch[479:489]": "PRIVATEKEY",
+  "arch[478:488]": "EPRIVATEKE",
+  "arch[480:490]": "RIVATEKEYY",
+  "arch[484:494]": "TEKEYYOUVE"
+ },
+ "dbbi_grammar": {
+  "parses": [
+   {
+    "cells": 84,
+    "prime_cells": 23,
+    "b": 16,
+    "be": 7,
+    "ordinary_cells": 61,
+    "ordinary_letters_that_happen_to_be_b": 2
+   },
+   {
+    "cells": 83,
+    "prime_cells": 23,
+    "b": 15,
+    "be": 8,
+    "ordinary_cells": 60,
+    "ordinary_letters_that_happen_to_be_b": 2
+   }
+  ],
+  "pi_84": 23,
+  "controls": {
+   "n": 20000,
+   "complete_parse": 0,
+   "any_pair_64_16": 64,
+   "bg_pair_64_16": 8
+  }
+ },
+ "dbbi_matrix_signed_model": {
+  "shapes": {
+   "7x12": {
+    "col": "hillfexmgsgq",
+    "row": "iafzjca"
+   },
+   "6x14": {
+    "col": "iudprlgmzctdgg",
+    "row": "ececyn"
+   },
+   "14x6": {
+    "col": "eurdlu",
+    "row": "jzthdcxcupksom"
+   },
+   "12x7": {
+    "col": "utfiurm",
+    "row": "ccskcciueuut"
+   }
+  },
+  "total_of_84_values": 101,
+  "poster_one_bit_total": 101
+ },
+ "checkerboard": {
+  "digit_count": 149,
+  "codes_used": 21,
+  "unused_codes": [
+   "10",
+   "44",
+   "45",
+   "46",
+   "47",
+   "48",
+   "49"
+  ],
+  "pinned_symbols": 21,
+  "plaintext": "INCASEYOUMANAGETOCRACKTHISTHEPRIVATEKEYSBELONGTOHALFANDBETTERHALFANDTHEYALSONEEDFUNDSTOLIVE"
+ },
+ "dbbi_minus_vic": {
+  "diff": "VOZIJBDTIQBRGVEOMZNBCYOUWONXCPKWGBNAXDGJGDUNNVMPABTAFPAAXMJYLZBUWERDNXYDESKUOBXCAMVDJLQTSGA",
+  "tail64": "XCPKWGBNAXDGJGDUNNVMPABTAFPAAXMJYLZBUWERDNXYDESKUOBXCAMVDJLQTSGA",
+  "tail_distinct_letters": 24,
+  "VIC_at_1_4_21": "VIC",
+  "YOUWON_at_22_27": "YOUWON"
+ },
+ "L1_color_primes": {
+  "pairs": "2B 3B 5B 7B 11Y 13B 17B 19B 23Y 29Y 31B 37B 41B 43B 47Y 53B 59B 61Y 67Y 71B 73Y 79Y 83B 89Y",
+  "yellow": 479,
+  "blue": 484,
+  "blue_minus_yellow": 5,
+  "difference_is_a_blue_prime": true,
+  "blue_after_zeroing_difference": 479,
+  "arch[479:489]": "PRIVATEKEY"
+ },
+ "outside_checks": {
+  "fresco_chars_with_spaces_no_punct": 140,
+  "fresco_words": 23,
+  "fresco_letters": 118,
+  "passport_11092001_hex": "0xa94021",
+  "passport_is_24bit": true,
+  "passport_is_prime": true,
+  "f73d92_xor_a94021": "0x5e7db3",
+  "xor_popcount": 16,
+  "xor_significant_bits": 23,
+  "f73d92_popcount": 15,
+  "poster_colour_word_24bit": "0x111101110011110110010010"
+ }
+}

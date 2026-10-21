@@ -1,0 +1,11 @@
+744 outputs; control max score 4 over 200 shuffles
+  score   2  84cell unsigned 12x7 rows_cum arch_index0  'LREECTATLREA'
+  score   2  83cell colour 1x83 cols_cum arch_index0  'LFIFRDRANDGGFLTHEULFYSAUOIOTHMTEOTAETUDSOTNTNTHS'
+  score   2  83cell unsigned_zero5 1x83 cols_cum arch_index0  'LFSAANNCEANPTEHENYEEANTRAYECREXAUOUCUNEEERTTTZTH'
+  score   1  84cell signed 6x14 cols_cum mod26_A0  'icfulwconpilrx'
+  score   1  84cell signed 12x7 rows_cum arch_index0  'UAALOEVREAZA'
+  score   1  84cell signed 12x7 cols_rev mod26_A1  'lqthest'
+  score   1  84cell unsigned 6x14 cols_rev arch_index0  'UVFEOENTAODRNA'
+  score   1  84cell unsigned 6x14 cols_cum arch_index0  'ASOAATESUESLNA'
+exact oracles: 744 outputs, 0 with a hit
+WROTE E:\rabbit-combined\GSMG-CLEAN\runs\2026-09-14_board_shape_sums

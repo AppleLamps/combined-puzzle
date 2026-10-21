@@ -1,0 +1,67 @@
+[
+  {
+    "file": "originals\\pages\\live_phase23_capture.html",
+    "sha256": "06fbd4461ab20d45c54a7053c7c0cfa256ba82a5ad4c73a47fac67f3f1cdf7d9",
+    "comments": [
+      " You made it to the next step! Good luck little bunny hunter ;) "
+    ],
+    "script_tags": []
+  },
+  {
+    "file": "originals\\pages\\live_seed_capture.html",
+    "sha256": "7cb766d406008a397f8ae32b3a38ca68b42724bb07b3481deb84baad5c725183",
+    "comments": [
+      " Nice to see you around! Good luck little bunny hunter ;) "
+    ],
+    "script_tags": []
+  },
+  {
+    "file": "originals\\pages\\phase2_choice.html",
+    "sha256": "32a531bf8b03b5d1d7699f765ab62698b61f11fd51d2d9a6f3a59dd09549844f",
+    "comments": [],
+    "script_tags": []
+  },
+  {
+    "file": "originals\\pages\\puzzle_20201109.html",
+    "sha256": "2ebbf04410ff152a45e2e79c9a91be6f22a1cd9a86af48901420ff19274a1be7",
+    "comments": [],
+    "script_tags": [
+      "<script defer src=\"https://kit.fontawesome.com/18447f3a2c.js\">",
+      "<script>",
+      "<script>",
+      "<script src=\"/js/manifest.js?id=bb58468fac8d92ddbd39\">",
+      "<script src=\"/js/vendor.js?id=df6f27b7abfd26c511cc\">",
+      "<script src=\"/js/app.js?id=384662103b188735b766\">"
+    ]
+  },
+  {
+    "file": "originals\\pages\\salphaseion_phase3.html",
+    "sha256": "18a8369df1364911d5e94fcac341ef85480ff194f4500f509fbed34f19e6308b",
+    "comments": [],
+    "script_tags": []
+  },
+  {
+    "file": "originals\\pages\\theseedisplanted.html",
+    "sha256": "5b0c9e5785d88ddd17564ddf707f770588696dcf59efe565b272ea5f17c0ef84",
+    "comments": [
+      " saved from url=(0075)https://web.archive.org/web/20201112021936/https://gsmg.io/theseedisplanted ",
+      " End Wayback Rewrite JS Include ",
+      " BEGIN WAYBACK TOOLBAR INSERT ",
+      " NEXT/PREV MONTH NAV AND MONTH INDICATOR ",
+      " NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR ",
+      " NEXT/PREV YEAR NAV AND YEAR INDICATOR ",
+      " END WAYBACK TOOLBAR INSERT "
+    ],
+    "script_tags": [
+      "<script src=\"./GSMG Puzzle2_files/athena.js.download\" type=\"text/javascript\">",
+      "<script type=\"text/javascript\">",
+      "<script type=\"text/javascript\" src=\"./GSMG Puzzle2_files/bundle-playback.js.download\" charset=\"utf-8\">",
+      "<script type=\"text/javascript\" src=\"./GSMG Puzzle2_files/wombat.js.download\" charset=\"utf-8\">",
+      "<script>",
+      "<script type=\"text/javascript\" src=\"./GSMG Puzzle2_files/ruffle.js.download\">",
+      "<script type=\"text/javascript\">",
+      "<script>",
+      "<script type=\"text/javascript\">"
+    ]
+  }
+]

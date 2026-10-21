@@ -1,0 +1,342 @@
+[
+  {
+    "alphabet": "natural25",
+    "base": 0,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      1,
+      19,
+      6,
+      3
+    ],
+    "order": "bifid_then_hill",
+    "value": "zixvzvtqlbciqyikkbvzhfsupyxvsumtqultgkhftmolmpngzvpylxcazrpyltfsltewcaxvbndwtquhgswvfohkpcesruyzceyzyrdebibnifqcqyudfomlcwbnmlaecivmikifrqltbanggkhovzgsbnsmzibngonphkbnlttmikcaqyxvrucathsuqybeuhrqgsgsnlhoyzcafovzbabnqggshkdetqcwqyewvzzrbntmvzntsmktxdmtgkpynlhovzlbhbhbruciltxvdwyzolhogoqcyveslthogsudntdwuhtmlxrqfslxanxdcadwdaruaeznuhltewrqgfntcaxdxdciyzzrgowdgspceohfryfsquhoznfozvqggompikifbeewqghoxzyzxzyzwvqyvmgfikyrgkvhcinlyrxvdwlxgkyrdawdwvruwvwvnpvzewvzyvlblbmpgsvzlbktibgfcacarchkmpthnldwifyrzvhkaexzyzsmcwltltyrumumvhfsibyrewvhtqrcqcikkbziolpcltifdekbfsumnpmpyz",
+    "ic": 0.039916134800974314,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural25",
+    "base": 0,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      1,
+      19,
+      6,
+      3
+    ],
+    "order": "hill_then_bifid",
+    "value": "lbduwbmgnairzxvdiafliphgaloubscyosbkyitymnkfyvplvdlgdruoyldzqaohrxztolfcuglchqqotxxrzivbukpgdhvkltdgvbuvklluuwcomkvliflsehvcxgqvxirwticmawgyvmukiinmcygwdywmoidukwtsndfqnpbchwoubncvhdvkemfsilkxdzvknahuvvzdokfuwixbcfxedfycsuxsmdvlsfalhsaqkscrrtyrbdvdiilrvxfbyzxbcycxtoobfhxepnhafvnrxpvzhrkxfrioffnmqfowxbddplbgdaflmxwsqatqbinmstvtyxpglkhrokpupvalmnhkzvaebvxegyqtonbgxylepzovhsdpkeqoqgchpbowtfcobyylzifbiccsdekqdvkgtcqxbzpsfwyadhnlpnhaydpgoehstmkizzpgzusbpgoupaluprbawftvhxxgvwfbsctvmghuibkefphcxwxbsfyodhgavbgdszwrfgasncbutopdmvpvbdwkoanuzovxdrdliadpknmuqwxqqauwfuazwxpknm",
+    "ic": 0.040372460148614064,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural25",
+    "base": 0,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      2,
+      4,
+      21,
+      9
+    ],
+    "order": "bifid_then_hill",
+    "value": "tlaofmlcboohypezmpzhlizviqaozviduxtezbliglfsemmbfmiqxwfybuiqtesmtegefyaocarflcsshllpoupanhcnkwuekquemvzpyicaahcgypoaouaubgcaauesohmiezahfeteqzmbzbtszhhlcarmtlcadtulpacateglezfyypaokwfyctzvypurssfehlhlqttsuefyouzhqzcagyhlpazplcbgypgezhbucaglzhycrmdfixidzbiqqttszhbogrgrkwohteaorfuefstsdtcgqncntetshloaycrfssglxwfesmxwnbixfyrfvxkwesxcsstegefevkycfyixixohuebudttyhlnhyvlioosmuxtsxcoufmgydtemezahurgegytsefueefuelpypmivkezmvzbhrohqtmvaorfxwzbmvvxtylpkwlplpulzhgezhqnboboemhlzhbodfwqvkfyfysfpaemctqtrfahmvfmpaesefuermbgtetemvwkwkhrsmwqmvgehrlcsfcgezmptlfsnhteahzpmpsmwkulemue",
+    "ic": 0.044596552893657694,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural25",
+    "base": 0,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      2,
+      4,
+      21,
+      9
+    ],
+    "order": "hill_then_bifid",
+    "value": "irbuncdlyfgghqlgzripvkudhftrazaixemdqzqmhvgvzncdpkhmtlncpnnvcsowfpndknpgfeolqpogimnizdshdennskiqvgpbtvulfdqrqerzmlvihmwehkcpkyqkuyrlgnwstxzrxczgbvzqrwzqebwvisdrdbfqitiucplerstmakyvqkbuxdavgaxxikfayigahqokyiaeyhudbeklreiuqulkwpvgkmzsarziaraquuogqfdzhozalswhhrpcrwxtrimuueisklncusrmgedrcwkbhmgadwzqmwdwiiyvcppcwubnhoudbpwshyvqstogxeggxhekfbltsewxkolanwtsdadciffsgmlcyagkvwhnfmcecblnrmdrlwlnkowtkdzxfbwyshzwtdvvkzpdkyweuuumhebcfyzskmncpghmzbkehweevaeelfxnhdlsidlrvemfryunfebgnrwfgzwgzfkewwmzyesbdslcxorcyypwgdikinmdsiyvxfccqfmqvwblqedqdflsachrflcgzrblhhsriplfcywkawabykkeem",
+    "ic": 0.040403292942373506,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural25",
+    "base": 1,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      7,
+      8,
+      23,
+      1
+    ],
+    "order": "bifid_then_hill",
+    "value": "zthiepogqvhcamodesvkstnlpihinlgkqevgrxstdzibwcnreppifonouhpivgaivgznnohiggokogevmmwfqbcazqpfbhdtxvdtieiywzggdwltamuoqbmvcgggmvaphcafoddwravgblnrrxnhvkmmggswztggbehfcaggvgdzodnoamhibhnotsnlammsevrammmmxynhdtnoqbvkblggvammcaiyogcgamznvkuhggdzvksnswkdcxgkrxpixynhvkqvhmhmbhhcvghiokdtibnhbelttmpfvgnhmmuosnokevdzforaaifovdcxnookyrbhapkaevvgznragqsnnocxcxhcdtuhberummzqeystmpaiqenhkaqbepvabewcoddwmsznvanhsqdtsqdtwfamafgqodierxqyhcxyiehiokforxieyrruwfbhwfwfhfvkznvktmqvqvwcmmvkqvkdtpgqnonowwcawctsxyokdwieepcaapsqdtswcgvgvgiepcpcqyaitpieznqyogwwltodesztibzqvgdwiyesaipchfwcdt",
+    "ic": 0.0433570745845281,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural25",
+    "base": 1,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      7,
+      8,
+      23,
+      1
+    ],
+    "order": "hill_then_bifid",
+    "value": "credgqdrmefraeoyzcyvsulzfagkisryvsakzdqvehaykwctarftgufopmagtanhsxytpmicclutcrboqxyrobgbelssmraxytaaxhsvbcckpwlotktauqxfcdclgnvlxiszvfarxykowmbkbfnmvygmvogkctchkwbdgtadnpbcmniznshflrevglrdntiibwxglkhuccpvokiunigbcfgmltavipwdbuotzdgqvdxlqddwilzbzrdcsszbzzdbcknwvykoeflrluawomfapmhwrlqhhruxqblcfdnmqfmxftualmbgyczvmybnoczvbfmnfpwfqxsnmebsknrwgzzlmobenzpehwwgazbflnderwsmecncqdlkpwfqxevkpbxwzhkqzngcdqteicofiklfablhfaiyllhxdwyafilonofakrhslehsdwyxtvtntqyeamtzkoqzzracvhsvdvxgvwfbichvmafufnwsusmycamxohfffnztrbiluzxudamdnabucdoqcgoclsezclszqntfshoazczxbeeetxwtbcbxhsszsxtpon",
+    "ic": 0.04041562605987729,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural25",
+    "base": 1,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      12,
+      4,
+      24,
+      9
+    ],
+    "order": "bifid_then_hill",
+    "value": "qppmzukvwdfbadsqrzhokbhbvzpmhbvnxtqihhkbglzascrmzuvzttzgwkvzqiiyqigezgpmdhbakvieockhfonmykducxxacrxarfhvaxdhpfdoadfufopswwdhpssifbrtsqpfznqiucrmhhqwhoocdhbgqpdhlsxgnmdhqiglsqzgadpmcxzgdahbadxnieznococuwqwxazgfohoucdhgyocnmhvkvwwadgehowkdhglhoarbglevgvnhhvzuwqwhowdgrgrcxfbqipmbaxazaqwlsdouqduqiqwocfuarbaieglttzniyttydvgzgbaelcxsitzieqigeznexarzgvgvgfbxawklsqcocykakkbfhiyxtqwtzfozugylsscsqpfxngegyqwswxaswxakhadrtexsqrfhhoifbuwrfpmbatthhrfelqckhcxkhkhxghogehouqwdwdscochowdlemvexzgzgisnmscdauwbapfrfzunmsiswxabgwwqiqirfmpmpoiiymvrfgeoikvisdosqrzqpzaykqipfhvrziympxgscxa",
+    "ic": 0.042105263157894736,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural25",
+    "base": 1,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      12,
+      4,
+      24,
+      9
+    ],
+    "order": "hill_then_bifid",
+    "value": "xwmqsesqaguozxuvctxnoawbnbqmghdipaqdxpprnqbktqxvuasrhlwuyqrklwlmxhrzaloaxaahilvszfuykgiixgkffeeulesbzlmrldumfemvvqzlvffsycxaadsoyllqapwsynswocfapurbynrwficlyzprobakywnsaopeubvespthiceqgeyptmufyetckeqoxzuxgaqmgkbbygwefggstfsfqruqcoytnyttnyyurdqitxnfydbthsmvzxrwynqyryrchgktknmktdygrlzeabibvbltpqrbonurmdyuglmekswnzfwwzibxptsdsiqipakyaerloippfkrxkopkopcgygscnicgkoncoggxixoyxfprfbuvioumomzqcpxuffaonfxusxgbuvgdkfmegbyntdxeveqcmttfaomktcsrcesmlrygpeaxkwufpiplohpmoeshzootxargirnzgiwnkasmbzwdogybyysvsslqbyxbfdinzfqvtzahaeslrwqcdxlvdggqmbplupxezdpqctvlmitmzhuzgfwlaidbnkgwep",
+    "ic": 0.03968797212715444,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "dbbi25",
+    "base": 0,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      10,
+      17,
+      22,
+      21
+    ],
+    "order": "bifid_then_hill",
+    "value": "qfelkyddctzygcqtnqntsciqmyeliqlditxcuvscfdevmleykymyflrlbvmyxcwvxcmvrlelsablddlqiauancgqdqhvcqwoxqwooddtkcsapcolgccfnczalfsazaxtzyroqtpckaxcgteyuvnantiasaryqfsazcsqgqsaxcfdqtrlgcelcqrlhaiqgckvlqkaiaiavqnaworlncntgtsaxaiagqdtddlfgcmvntbvsafdntuyrystpylduvmyvqnantctwywycqzyxcelblwoevnazcoluchvxcnaiacfuybllqfdflkawvflalpyrlblhccqxtpvlqxcmvkapauyrlpypyzywobvzccdiadqdfscvdwvitnapvnckyxazcmlqtpckvmvxanatlwotlwouagcropaqtoduvylzyvqodelblfluvodhccduacquauasqntmvntucctctmliantctstadparlrleogqmlhavqblpcodkygqxttlworylfxcxcodrvrvylwvadodmvylddeoolqtnqqfevdqxcpcdtnqwvrvsqmlwo",
+    "ic": 0.05134893472697561,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "dbbi25",
+    "base": 0,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      10,
+      17,
+      22,
+      21
+    ],
+    "order": "hill_then_bifid",
+    "value": "amyvrepuwqcacyvqkzghcrbhyxehxrprudlounpglscyowzfqcmtvcvfartxedwkgrcafetaaeuxzezbkqcavoozagryfkoirdmoqlpgxzgbawpaitdqhhyvofhqhbplumlkzlcrdzovxiiuzdzabwpyrwdzklxwtmrrenxzdescloeusbusheodmwerrirtoksgwtcggwysxrekxmpymbhtbenhvrsybuldzpattmyyommxytrwxozchbwzblmcavztbwlyekelfclfdaqaomgrsqnbyrpqlohlwhzamwbeyuhiheskeykimaxuwahgwfwevruwplwayuccggbkufhibarkkybwnareqmurhcukmlykogfyomimfwxicgnrfezrvmasuzfyyrbdkmrtclutqdekaitdookqlaqkwfvaicqatepqvtkclyoynlyaiqqacabaeeietbnnspoaoeqefmmckbuiwtgghbqqgsfbgywrqrqkbftqiicektckklrrwsagaaclmedvbeoiaaieutmflldlkzahvzgiaqegkhqdxsmunmxghe",
+    "ic": 0.041599605340239876,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "dbbi25",
+    "base": 0,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      11,
+      3,
+      23,
+      10
+    ],
+    "order": "bifid_then_hill",
+    "value": "rdpsnaddecxofzwdtkzhtufplxpsfpqvkkohwatuxwkskiqnnalxswhnpglxohuxohhihnpszpugddvvpkxfykyzcdmfdlcsahcsnrmvbozpwygrfzbcyksowqzpsopzxolgwdwygaohhuqnwahhzhpkzpcgrdzpmtouyzzpohxwwdhnfzpsdlhnnyfpfzeovvgapkpklqhhcshnykzhhuzpuzpkyzmvddwqfzhizhpgzpxwzhifcgupgtqvwalxlqhhzhecdsdsdlxoohpsugcskshhmtgrramfohhhpkbcifugvvxwswgauxswnegthnugefdlpzbyvvohhigaitifhngtgtxocspgmtvlpkcdevtucquxkkhhbyyknauzmtkiwdwyeohiuzhhibcsibcsxffzlgitwdnrwaxmxolqnrpsugswwanrefvlxfdlxfxfouzhhizhraececkipkzhecupseithnhnvnyzkinylqugwynrnayzpzibcscgwqohohnrznznxmuxsenrhixmddvngrwdtkrdkscdohwymvtkuxznoukics",
+    "ic": 0.04475071686245491,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "dbbi25",
+    "base": 0,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      11,
+      3,
+      23,
+      10
+    ],
+    "order": "hill_then_bifid",
+    "value": "ugkxpdgmoydaomkticntsoccoastdtakkxobcbexehdkievsnbanrwvpgbtaopifdyvkgexpamhltzyphxvaaeovgobltwaoazoiebewnkurosdtbruaxqpbvcuiwvkiedgwqywxyxmunclbzoghvwnulwsrqakwtxmyuggygazmfviyvahdtzknhlrtzgbdyeqplzhclpeqmziacanzveshqwgosfwcqmzasvxzaeizteqzthzcxiuxwqlbxfdvnlguvwoqervlsvcoaevpiwbzdnhefsgeslpyvlghlrmsdnpcakvnfaouphvnaaopzpkbriykkiwvowhkwcgnmfahkkxnwyzqxgumrxozkgxmafyvxonptmpwogfsxhpmyibmsxwwlzsufmngdvtxbwqxxmvdffpbdviwxcsnzoaikevpnbgmnvienvcscbvxdwlayecpzekmaxobahgzyermziixddohpzbcpkzhrlgcmnkrmxsgpawhnluddxxedyrypxfkguxnylnntvapxkglhnfgrmpyicnuoattbzyebhphbqgacfwvkk",
+    "ic": 0.040649955292449046,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "dbbi25",
+    "base": 1,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      20,
+      4,
+      17,
+      0
+    ],
+    "order": "bifid_then_hill",
+    "value": "eiftviifrxlihobxptfspohtixfthtnftsuorfpodaayatxxviixcootfyixuoyyuooyotftfnytifgyonlgkoktxybfiygsztgslamxmafnraqohowikoqgbifnqgosliisbxradguoysxxrfynfsonfngxeifnbautktfnuodabxothoftiyotvghthoefgydgononsyyngsotkofsysfnanonktmxifbihooyfsfyfndafscigxasdinfrfixsyynfsrxnxnxiyliuoftytgsayynbaqowabfuoynonwiciytgydacodgyycolodiotyteaiyosmfgyuooydgcgciotdidiligsfybagfonxyripoxfyytsynmfkovianbaatbxraefoyanynvogsvogslghoiscgbxlarfdolisylaftytcorflaeagflgiylglgutfsoyfswarxrxatonfsrxascacgototssktatvgsyytralaviktosvogsgxbiuouolatytydoyycalaoydoifssqobxpteiayxyuoramxptyytyutatgs",
+    "ic": 0.06245490703912682,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "dbbi25",
+    "base": 1,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      20,
+      4,
+      17,
+      0
+    ],
+    "order": "hill_then_bifid",
+    "value": "feuddmqmwtgkwiippcgucbasdkgumwpoztxwrpmcipefnehqborlwtwtimnhgfxkereaieuaxbqiyrztktgkmglivhqixqsuxtwvroneicgrowgknxgppvvbhghlkrzvumlectplzqkfpkimvfzawrkferdbdasbarspfkshdeqevsnpbevnyruqcbgpfkvnncuaxscgxbfnxrgkmepfbehowrsuqmliednukqponeufiepftnoifnucpwxbbolgzfhowraimvqxztsubgraxrmoyfnrownmvinzvdzamwhcydcsfercmgetinwlbgwaxixeumpfuoqgxqeapkzcqnbtigucvsfiogsekruohaqeroqgchzfxbnwfehqspsmtmvmkrnmaqhfxbeqzrrlwtulwffgdpvrzsnmlgucwiwciaraimsmvsgecskdsoucgtnkmgwamexeyrvwslpaneqefmmchmwtxsagoewokhcsyiimzrpcmgzokhfgkscevtspyueaoxrvcbwdvrrtogvgzimqwfnzpcetdcguatceflwtpznprmtgfe",
+    "ic": 0.0416427712515031,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "dbbi25",
+    "base": 1,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      0,
+      3,
+      19,
+      10
+    ],
+    "order": "bifid_then_hill",
+    "value": "qarbstyrvtntkbdtprmapbkrtarbkrfreahbdbpbnberebfasttairwbrrtahbbrhbwrwbrbmtbbyrobrtnazbzrabcbybaturatsbctlrmtdrgrkblazbiadamtiarantttdtdrgahbwafadbwtmartmtaaqamtcrhrzrmthbnbdtwbkbrbybwbsakrkbvbobgartrttbwtatwbzbmawamtbtrtzrctyrdakbwrmarrmtnbmaxtaabagtfrdbtatbwtmavtyayaybnthbrbbbaterwtcrgrqrcbhbwtrtlaxtbbobnbirgabrirsrgtwbbbvrybralbobhbwrgaxaxtwbgtgtntatrrcrorrtabvapbarbreawtlbzbstbtcrebdtdrvbwrbtwtxratxratnakbttxadtsbdbnrnttbsbrbbbirdbsbvrornaybnanahrmawrmaqrvtvtebrtmavtbaibxawbwbotzrebsatbbbdrsbstzrraxrataadahbhbsbmrmrnrbribsbwrnryrotgrdtprqaerabhbdrctprbrmrhrebat",
+    "ic": 0.10263003730768044,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "dbbi25",
+    "base": 1,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      0,
+      3,
+      19,
+      10
+    ],
+    "order": "hill_then_bifid",
+    "value": "sdsnqqrqtemhtouuliqkilhaehqkcvcraeaveumieuhmldhgqrqsdeuecqspqmlhvcpbvdobcliodcqeyemhyfdoepbofgikcecxcrpdciqcivbheyuuvxdlffgsncgxgqmddersogrmehgqlmobnctmscblqbqlicaurhqpxdldwaquddstdcigvlaubhrtfipbtanfslrtsclhvdfmidaricdkiqrodnukdgtrvdtmqdhmbtsootiixvilorpfqmtrncqoqxkydebkyfpbvcrrvmqcgveqbokzonobivmivniavdpimfqettkswfdboolddqqmarbftgnbbhfittqeyfoioaiofflddccrybmdardfmptmdlcvgddgmuqqnqkqdcuqtgfmvlfgxccsvekslmhfwudcyarqbfoimoliybpbqqrqramdraunarhiyebhffhbidddgcavcsobddpdnqoixqdetamfcdsrbpfatoqqqcfiefrrrpifwamdveaurklbryaxlltndcdebfffwoqgdmkzliteciskyeodysieezcucqbfvd",
+    "ic": 0.047969660530940705,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural26",
+    "base": 1,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      3,
+      3,
+      24,
+      1
+    ],
+    "order": "bifid_then_hill",
+    "value": "hjtgvwbhjibqnmfmrrqaolqsvvtgqsvnxtufdwolcxiafuiivwvvtpmnwmvvufaiufptmntgzsxcbhevszsybyeelozaybkhlxkhvemfjzzsgcmwnmocbygkwuzsgkjhbqenfmgczrufuwiidwdoqaszzsbphjzscgxleezsufcxfmmnnmtgybmnmeqsnmkpevzrszszhsdokhmnbyqauwzslgszeemfbhwunmptqawmzscxqawvbpcoijvndwvvhsdoqajipbpbybbquftgxckhiadocgmwuozaufdoszocwvxcevcxtpzraitpykijmnxcnvybjhgtevufptzrndwvmnijijbqkhwmcghbszloaqolouaixtdogtbyvwlgcgfufmgckpptlgdosqkhsqkhsynmenndfmvedwfdbqhsvetgxctpdwvenvhbsyybsysyxlqaptqauojijifuszqajicoqjndmnmnneeefumehsxcgcvevweejhsqkhbpwuufufvedfdffdaiqjveptfdbhnemwfmrrhjialoufgcmfrraidfxlfukh",
+    "ic": 0.039305645484537355,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural26",
+    "base": 1,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      16,
+      3,
+      11,
+      1
+    ],
+    "order": "bifid_then_hill",
+    "value": "hjtgvwbhjibqnmfmrrqnoyqfvvtgqfvnxtusdwoyckinfuivvwvvtpmawzvvusavusptmatgzsxcbheismslbyerlozayokulxkuvemsjzzsgpmjnmopbygxwhzsgxjhbqeafmgpzrusujivdwdoqnsmzsbphjzsctxlerzsusckfmmanmtgyomamrqfnmkceizrsmsmhsdokumabyqnujzslgsmermsbhwhnmptqnwzzsckqnwibpcbiwvndwvvhsdoqnjipbpbyobqustgxckuindoctmjubzausdosmopwixceicktpzravtpyxiwmaxcnvyojhggeiusptzrndwimaiwiwbqkuwzcthbsmloadoyohavxtdoggbyvwlgctfufmgpkcptlgdosdkusdkuslnmeandfmvedwfdbqhsvetgxctpdwvenvhbslyoslslxlqnptqnubjijifusmqnjicbqwndmamaneerfumrhsxcgpvevwerjhsdkubpwhususvedfdffdavqwveptfdbhnemjfmrrhjinlousgpmsrravdfxlfuku",
+    "ic": 0.040242962414824404,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural26",
+    "base": 1,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      3,
+      17,
+      6,
+      9
+    ],
+    "order": "bifid_then_hill",
+    "value": "npnmduxvhebcperqjzkogbscrznmscznztejbigbklmajcemdurzrtyhqkrzejgyejbfyhnmtidaxvsfedsitowmhkluuxyblrybvggvdxtiegcopecutowsiwtiwsvjbcatrqeghnejacembijwkoedtiphnptioshhwmtiejklrqyhpenmuxyhuascpeqnsfhnededrwjwybyhtokoactipyedwmgvxviwpebfkoqktiklkourphgeqhznbirzrwjwkohetrtruxbcejnmdaybmajwoscoiqluejjwedcuurdasfklrthngyrtyeqhyhdatluxvjazsfejbfhnlxuryhqhqhbcybqkosvdedhkykgbkigyztjwaztodupyosjcrqegqnbfpyjwawybawybsipeatlxrqvgbinjbcrwvgnmdartbivgtlvdsiuxsisihhkobfkoiqhehejcedkohegeovlxyhyhxswmjcuarwdaegvgduwmvjawybphiwejejvgfpfpnjgyovvgbfnjxvxscorqjznpmahkejeggvjzgyfphhjcyb",
+    "ic": 0.040125797798538525,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  },
+  {
+    "alphabet": "natural26",
+    "base": 1,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      3,
+      17,
+      19,
+      22
+    ],
+    "order": "bifid_then_hill",
+    "value": "npazqhxvuropcredjzkotoscrzazscznztrwovtoxymawpemqhrzrtluqkrzrwgyrwbfluazgvqnxvfsrqsigbwmuxyhhklolrloittidxgvegcocrcugbwsiwgvwsvjopngedeghnrwacemovwjkorqgvphnpgvoshhwmgvrwxyedlucrazhkluuasccrdafshnrqrqejwjlolugbkoacgvclrqwmtixviwcrbfkoqkgvxykohephgeduznovrzejwjkourtrtrhkoprwazqnlomawjoscoiqyhrwwjrqcuheqnfsxyrthngyrtyeduluqntlhkvjnmfsrwbfhnlxhelududuoploqkosvdrquxyktokigyztwjnmgbqhcloswpedegdabfclwjawloawlosicrnglxeditovnjopejitazqnrtovittlvdsihksisihhkobfkoiqururwprqkourgebilxlulukfwmwpuaejqnegitqhwmvjawlophiwrwrwitfpfpnjgybiitbfnjxvkfcoedjznpmauxrwegtijzgyfphhwplo",
+    "ic": 0.041087780963833136,
+    "full_architect_window_match": false,
+    "roundtrip": true
+  }
+]

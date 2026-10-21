@@ -1,0 +1,81 @@
+{
+ "outputs": 744,
+ "controls_drawn": 25015,
+ "control_max_score": 4,
+ "above_control": [],
+ "oracle_hits": [],
+ "top": [
+  {
+   "parse": "84cell",
+   "model": "unsigned",
+   "shape": "12x7",
+   "sumlist": "rows_cum",
+   "decode": "arch_index0",
+   "output": "LREECTATLREA",
+   "score": 2
+  },
+  {
+   "parse": "83cell",
+   "model": "colour",
+   "shape": "1x83",
+   "sumlist": "cols_cum",
+   "decode": "arch_index0",
+   "output": "LFIFRDRANDGGFLTHEULFYSAUOIOTHMTEOTAETUDSOTNTNTHSUEALHUUVTEMTNTCNTRMTHTFZLTVYEPWWANR",
+   "score": 2
+  },
+  {
+   "parse": "83cell",
+   "model": "unsigned_zero5",
+   "shape": "1x83",
+   "sumlist": "cols_cum",
+   "decode": "arch_index0",
+   "output": "LFSAANNCEANPTEHENYEEANTRAYECREXAUOUCUNEEERTTTZTHHWAITWTGSAOWKSYYAOTLNMEDTIOTCAITICT",
+   "score": 2
+  },
+  {
+   "parse": "84cell",
+   "model": "signed",
+   "shape": "6x14",
+   "sumlist": "cols_cum",
+   "decode": "mod26_A0",
+   "output": "icfulwconpilrx",
+   "score": 1
+  },
+  {
+   "parse": "84cell",
+   "model": "signed",
+   "shape": "12x7",
+   "sumlist": "rows_cum",
+   "decode": "arch_index0",
+   "output": "UAALOEVREAZA",
+   "score": 1
+  },
+  {
+   "parse": "84cell",
+   "model": "signed",
+   "shape": "12x7",
+   "sumlist": "cols_rev",
+   "decode": "mod26_A1",
+   "output": "lqthest",
+   "score": 1
+  },
+  {
+   "parse": "84cell",
+   "model": "unsigned",
+   "shape": "6x14",
+   "sumlist": "cols_rev",
+   "decode": "arch_index0",
+   "output": "UVFEOENTAODRNA",
+   "score": 1
+  },
+  {
+   "parse": "84cell",
+   "model": "unsigned",
+   "shape": "6x14",
+   "sumlist": "cols_cum",
+   "decode": "arch_index0",
+   "output": "ASOAATESUESLNA",
+   "score": 1
+  }
+ ]
+}

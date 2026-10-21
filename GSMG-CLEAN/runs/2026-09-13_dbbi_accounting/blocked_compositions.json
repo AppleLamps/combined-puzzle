@@ -1,0 +1,62 @@
+[
+  {
+    "alphabet": "natural26",
+    "base": 1,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      3,
+      3,
+      24,
+      1
+    ],
+    "order": "hill_then_bifid",
+    "reason": "Hill output contains J absent from the specified Bifid square",
+    "intermediate": "isenjavwjzqjcglfmgtqspgtenaihtchrslyjyairsahjyxcmgtqcggvuxizwuuytqlggudnbiguziiscoislydofmxcndfmsrjavwjaahwuxcqktplgpltoqkqlizkzvwgudpxclydosqlfeobiajpklyjzvvrkbiqkzcjaydkylyrqsrcolyzczbeozaneemlgzipkuwuwhuybdosrbilyenjaomzcxeydydmgtqsrkzybjamfqjvwpmmfitrsuwjadpzbxcydsqeojzcgrsyblfzclyhucguxizajwwgvaivxfnxepkqjxeolgvxepmqlaiuxnfhtolqjahsrlfizfmbibizaycmggtjajazasrdpajwugvqlhudphtdokztqgvjajaajspizpmpmuwnebijzybjabgybuxxefusrdnxdjajyqlndlgndlgydaihtuyvwlgvwneydaicgnfpmsreosrrkplpmchqjpkwwfmdnmetpxedndnsqsquxrssrtopmlychlgzcuyenydmemgemzadpcoititcovvqjizzirrisuygvzc"
+  },
+  {
+    "alphabet": "natural26",
+    "base": 1,
+    "plain": "fexm",
+    "cipher": "gsgq",
+    "key": [
+      16,
+      3,
+      11,
+      1
+    ],
+    "order": "hill_then_bifid",
+    "reason": "Hill output contains J absent from the specified Bifid square",
+    "intermediate": "ifeajavwjzqwctlfmttqscggeaavhtcurslyjyavrsaujyxcmttqctgiukimwhultqlgghdnbighziifcbiflydofmxcndfmsejavwjaauwhxcqxtplgpltoqxqyimkmvwghdpxclydosdlfebbiawpklyjzvvrkbiqxzcjayqkllyrqsecblyzczbebzaneezlgzipkujujhuyodosebilyeajaozzcxeyqyqmttqsekmyojamsqwvwpmmsigrsujjadpzbxcyqsdebjzctrsyolfzclyhuctukimawwjgiavvxfnxepkqwxeoygixepmqyavuknfhtoyqwauselfimfmbibizaypmtggjajazasedpawwhgiqyhudphtdokmtqgijajaawscimpmpmujnebijzyojabgyoukxefusednxdjajyqyndlgndlgyqavhtulvwlgvwneyqavctnfpmseebserkplpmcuqwpkwjfmdnmrtpxedndnsdsdukrssetopmlyculgzculeayqmrmtezzadpcbigigcbvvqwimzirrifulgizc"
+  },
+  {
+    "alphabet": "natural26",
+    "base": 1,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      3,
+      17,
+      6,
+      9
+    ],
+    "order": "hill_then_bifid",
+    "reason": "Hill output contains J absent from the specified Bifid square",
+    "intermediate": "uoatpsdudxovosddsqdoobazatgydranvuxmrcgyvuudrcdasqdoosypmxafiwysdopymuxbjqmudguogeuoxmjwrqdalxrqmrpsdupsudiwdaaqrtpyjtfyaqmlafgpdumuvrdaxmjwawddmojqstxyxmdxrzdijqaqjkpssnuuxmxemrgexmjkxpmoluxsoypydgxyacacpmuxjwmrjqxmatpsswjkbqsnsnsqdomrgpuxpsgvovduvogvgjvuacpsvrxpdasnawmodxosvuuxddjkxmpmosmxafstgmypgyppdlbqxyovbqgbypbqvomlgymxjndrgbovudmrddafrqjqjqlugssqazpspslumrvrstiwypmlpmvrdrjwgpdoyppspsstobafvovoacxsjqdxuxpslauxmxbqjcmrxbpvpsrcmllxpylxpysngydrysdupyduxssngyosjnvomrmomrdijtvoanovxygmrqxbuartbqxbxbawawmxvumrfyvoxmanpyjkysatsnuasqoyluvrgegjgjgerzovafdgjzuoysypjk"
+  },
+  {
+    "alphabet": "natural26",
+    "base": 1,
+    "plain": "gsgq",
+    "cipher": "fexm",
+    "key": [
+      3,
+      17,
+      19,
+      22
+    ],
+    "order": "hill_then_bifid",
+    "reason": "Hill output contains J absent from the specified Bifid square",
+    "intermediate": "uongcfqhdxbiosddsqqbbonmnggydrnaihkzepgyihhqepqnsqqboslczknsiwysqbclmuxbwdmuqtuogeuokzwjedqnlxedzecfqhcfhqiwqnaqrtcljtslaqzynstcqhmuvrqnkzwjawddmowdfgklkzdxrzqvwdaqwxcffauukzkrzegekzwxxpmoyhkfoyclqtklacacczhkwjzewdkzngcfswwxodfafasqqbzetchkcftibiqhibtitwihaccfvrxpqnfaawmodxosihhkddwxkzczoszknsfggmlcgyppdlodklbiodtolcodibzygyzkjndrtobihqzeddnsedwdwdyhgssqnmcfcfyhzevrfgiwlczyczvrdrwjtcqblccfcffgbonsibibackfwddxhkcfynhkzkodwpzexbpvcfepzylxcllxclfagydrysqhclqhkffagyosjnibzemozeqvjtibnabiklgmedxbuartodxbxbawawzkihzeslibkznaclwxysngfauasqoyyhvrgetwtwgerzbinsqtjzuoyslcwx"
+  }
+]

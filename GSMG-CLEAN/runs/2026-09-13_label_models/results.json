@@ -1,0 +1,51 @@
+{
+  "codec_results": [
+    {
+      "field": "DBBI",
+      "source_characters": 91,
+      "byte_length": 38,
+      "hex": "21380d6646de514396caba5dd41cf76a2ba07f071a5ae6eab6c9ebcc599a4e6d4ac0beec3175",
+      "decodings": {
+        "utf-8": null,
+        "ascii": null,
+        "cp037": "\u0081\u0098\r\u00c3\u00e3\u00fa\u00e9\u00e4o\u00ad[)M\u001c7\u00a6\u008b\u00b5\"\u007f\u0092!W\u00b2\u00b6I\u00d4\u00f6\u00df\u00aa+_\u00a2{\u00b4\u00d6\u0091\u00cd",
+        "cp273": "\u0081\u0098\r\u00c3\u00e3\u00fa\u00e9{o\u00ad\u00ac)M\u001c7\u00f6\u008b\u00b5\"\u007f\u0092\u00dcW\u00b2\u00b6I\u00d4\u00a6~\u00aa+_\u00c4\u00e4\u00b4\\\u0091\u00cd"
+      },
+      "ascii_printable": 16,
+      "concatenated_printable_decimal_parses": 0
+    },
+    {
+      "field": "FAED",
+      "source_characters": 570,
+      "byte_length": 237,
+      "hex": "1bd5951d3c34f95f20426ba5bc33fbf3d63cd7d9e39670a4a08ac1bc2d02cdcab7b6f543df43e375d9c43f9ed738dcd2103cf0c76ebe09931fc682a9b63462d275e2a71011095062a408d9a25fe4875cb5adaf0041bcfff494a6ccdf7393be63515274baf2bad6ca1f5103c97a39837dbbcae7f85e7d1f04fd1f8f685c718b16670978c7a48eb4682d9044f10606125c91d604f19fa35236302a1025cbe60ec3c47779fd237e93e2e04624ba6eb304047483855baa57ae9c627e94d95aabec5da4fa7e46df431165598019d92853ed8b8ebfc3426802bbb34aaa1b7da0a5a96984045b8aeb1faed1bbc7bbc075",
+      "decodings": {
+        "utf-8": null,
+        "ascii": null,
+        "cp037": "\u008fNn\u001d\u0014\u00949\u00ac\u0080\u00e2,v\u00af\u0093\u00db3O\u0014PRTo\u00f8u\u00b5\u00abA\u00af\u0005\u0002\u00f2\u00ad\u00bc\u00b65\u00e4\u00ff\u00e4T\u00cdRD\u001a\u00c6P\u0098\u00fcK\u0010\u00140G>\u00b4\u008dl\u001fFbz\u00b6\u0094\u00c2K\u00cdSx\u0010\u0011\u008d&\u00c2u\u0097Rs\u00acUg*\u00a7\u00dd\u00ae\u0000\u00a0\u00af\u009f4mw\u00f6\u00ff\u00cbl\u00b4\u00c4\u00e9\u00ea\u00c8[2[O\u00ad\u001f\u00e9\u0003I:\u0099c']\u00adX8;'\u001f\u009c\u00d9\u001f\u00b1\u00c7*\u00c9\u00bb\b\u00c5\u008d\u00ccGu\u00fe\u00a9\u00c7\u0005\u00b0\u00e01\u0086\u0086\u0012*jO\u009c1\u00a4t\u00ea\u0096\u0090\u008a\u0010\n\u00f4W\u000eCD\u00cf`\u00d9\u0083=lS\\\u00e3\u0084[>\u00b7\u009c\u009c\u00c8ce$\u00a1\u00ef\u00de\u00e6\u00c2=mR!\u00bf\u00d6)u\u00b3=\u00e3\u00ff\u00e4\u0011\u00c1\u00df\u00d8\u0019R\u0088\u00eb\u00d2\u00bb\u00fe\u00d7C\u00e2\u00c7\u0002]\u00b7\u00a2\u00a1\u008f'\u00b5vz\u00d1d\u009c$\u00ab\u00d4\u001f\u00deJ]G]{\u00cd",
+        "cp273": "\u008fNn\u001d\u0014\u00949^\u0080\u00e2,v\u203e\u0093\u00db3O\u0014PRTo\u00f8u\u00b5\u00abA\u203e\u0005\u0002\u00f2\u00ad\u00bc\u00b65{\u00ff{T\u00cdRD\u001a\u00c6P\u0098}K\u0010\u00140G>\u00b4\u008dl\u001fFbz\u00b6\u0094\u00c2K\u00cdSx\u0010\u0011\u008d&\u00c2u\u0097Rs^Ug*@\u00dd\u00ae\u0000\u00a0\u203e\u009f4mw\u00a6\u00ff\u00cbl\u00b4[\u00e9\u00ea\u00c8\u00ac2\u00acO\u00ad\u001f\u00e9\u0003I:\u0099c'|\u00adX8;'\u001f\u009c\u00d9\u001f\u00b1\u00c7*\u00c9\u00bb\b\u00c5\u008d\u00ccGu\u00fe\u00a9\u00c7\u0005\u00b0\u00e01\u0086\u0086\u0012*jO\u009c1\u00a4t\u00ea\u0096\u0090\u008a\u0010\n\u00f4W\u000eCD\u00cf`\u00d9\u0083=lS\u00d6\u00e3\u0084\u00ac>\u00b7\u009c\u009c\u00c8ce$\u00a1\u00ef\u00de\u00e6\u00c2=mR\u00dc\u00bf\\)u\u00b3=\u00e3\u00ff{\u0011\u00c1~\u00d8\u0019R\u0088\u00eb\u00d2\u00bb\u00fe\u00d7C\u00e2\u00c7\u0002|\u00b7\u00c4\u00a1\u008f'\u00b5vz\u00d1d\u009c$\u00ab\u00d4\u001f\u00deJ|G|\u00e4\u00cd"
+      },
+      "ascii_printable": 78,
+      "concatenated_printable_decimal_parses": 0
+    }
+  ],
+  "quote_comparisons": 1589,
+  "quote_matches": [],
+  "matrix_comparisons": 304,
+  "matrix_matches": [],
+  "matrix_length_matches": [],
+  "parse_summaries": [
+    {
+      "cells": 84,
+      "prime_cells": 23,
+      "b": 16,
+      "be": 7
+    },
+    {
+      "cells": 83,
+      "prime_cells": 23,
+      "b": 15,
+      "be": 8
+    }
+  ]
+}

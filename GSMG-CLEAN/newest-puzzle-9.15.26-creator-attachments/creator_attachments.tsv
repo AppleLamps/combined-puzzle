@@ -1,0 +1,26 @@
+id	date	media_type	role	bytes	export_path	copied_path	file_name	duration_s	caption
+984	2019-05-31T11:20:06	sticker	attachment	31972	stickers/sticker (14).webp	stickers/sticker (14).webp	sticker.webp		
+984	2019-05-31T11:20:06	sticker	thumbnail	4404	stickers/sticker (14).webp_thumb.jpg	stickers/sticker (14).webp_thumb.jpg	sticker.webp		
+1647	2020-01-04T20:01:00	photo	attachment	8160	photos/photo_20@04-01-2020_20-01-00.jpg	photos/photo_20@04-01-2020_20-01-00.jpg			
+1743	2020-02-20T10:31:58	photo	attachment	111593	photos/photo_22@20-02-2020_10-31-58.jpg	photos/photo_22@20-02-2020_10-31-58.jpg			😎
+3860	2020-05-11T12:42:26	animation	attachment	200963	video_files/giphy (4).mp4	video_files/giphy (4).mp4	giphy.mp4	2	
+3860	2020-05-11T12:42:26	animation	thumbnail	16755	video_files/giphy (4).mp4_thumb.jpg	video_files/giphy (4).mp4_thumb.jpg	giphy.mp4	2	
+6025	2021-03-01T06:45:48	sticker	attachment	18011	stickers/AnimatedSticker (14).tgs	stickers/AnimatedSticker (14).tgs	AnimatedSticker.tgs		
+6025	2021-03-01T06:45:48	sticker	thumbnail	4702	stickers/AnimatedSticker (14).tgs_thumb.jpg	stickers/AnimatedSticker (14).tgs_thumb.jpg	AnimatedSticker.tgs		
+6847	2021-03-27T09:39:51	animation	attachment	71261	video_files/mp4 (22).mp4	video_files/mp4 (22).mp4	mp4.mp4	3	
+8140	2022-05-25T06:22:06	animation	attachment	44076	video_files/animation.gif.mp4	video_files/animation.gif.mp4	animation.gif.mp4	3	
+8140	2022-05-25T06:22:06	animation	thumbnail	7308	video_files/animation.gif.mp4_thumb.jpg	video_files/animation.gif.mp4_thumb.jpg	animation.gif.mp4	3	
+8288	2022-09-06T05:21:52	animation	attachment	12590	video_files/animation (2).gif.mp4	video_files/animation (2).gif.mp4	animation.gif.mp4	1	
+8288	2022-09-06T05:21:52	animation	thumbnail	12525	video_files/animation (2).gif.mp4_thumb.jpg	video_files/animation (2).gif.mp4_thumb.jpg	animation.gif.mp4	1	
+8339	2023-01-11T03:45:22	animation	attachment	87220	video_files/who-wants-to-be-a-millionaire-wwtbam.mp4	video_files/who-wants-to-be-a-millionaire-wwtbam.mp4	who-wants-to-be-a-millionaire-wwtbam.mp4	2	
+8358	2023-01-12T06:13:36	animation	attachment	21797	video_files/animation (4).gif.mp4	video_files/animation (4).gif.mp4	animation.gif.mp4	1	
+8358	2023-01-12T06:13:36	animation	thumbnail	20450	video_files/animation (4).gif.mp4_thumb.jpg	video_files/animation (4).gif.mp4_thumb.jpg	animation.gif.mp4	1	
+8792	2023-08-03T16:32:25	animation	attachment	169138	video_files/confront-interrogate.mp4	video_files/confront-interrogate.mp4	confront-interrogate.mp4	5	
+8793	2023-08-03T16:32:47	animation	attachment	67447	video_files/what-if-i-told-you-what-if.mp4	video_files/what-if-i-told-you-what-if.mp4	what-if-i-told-you-what-if.mp4	4	
+26223	2024-07-31T20:26:53	animation	attachment	212882	video_files/tumbleweed.mp4	video_files/tumbleweed.mp4	tumbleweed.mp4	6	
+32550	2024-11-29T05:10:40	animation	attachment	127270	video_files/the-train.mp4	video_files/the-train.mp4	the-train.mp4	2	
+32561	2024-11-29T05:17:37	animation	attachment	71985	video_files/matrix-merowinger-aktion-reaktion.mp4	video_files/matrix-merowinger-aktion-reaktion.mp4	matrix-merowinger-aktion-reaktion.mp4	7	
+39192	2025-04-28T12:45:31	animation	attachment	64011	video_files/forrest-gump-wave.mp4	video_files/forrest-gump-wave.mp4	forrest-gump-wave.mp4	2	
+49172	2025-09-15T22:20:54	animation	attachment	38867	video_files/happy-carrot.mp4	video_files/happy-carrot.mp4	happy-carrot.mp4	4	
+49172	2025-09-15T22:20:54	animation	thumbnail	2503	video_files/happy-carrot.mp4_thumb.jpg	video_files/happy-carrot.mp4_thumb.jpg	happy-carrot.mp4	4	
+66964	2026-07-16T18:52:37	photo	attachment	128563	photos/photo_2289@16-07-2026_18-52-37.jpg	photos/photo_2289@16-07-2026_18-52-37.jpg			Nice

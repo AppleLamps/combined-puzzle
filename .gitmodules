@@ -1,0 +1,3 @@
+[submodule "GSMG-CLEAN/notes/source_upstream"]
+	path = GSMG-CLEAN/notes/source_upstream
+	url = https://github.com/puzzlehunt/gsmgio-5btc-puzzle.git

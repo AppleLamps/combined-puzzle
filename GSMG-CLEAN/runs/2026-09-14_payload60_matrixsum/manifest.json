@@ -1,0 +1,17 @@
+{
+  "input": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea",
+  "input_digits": "496833798155987757527588588616486634263337657753439666797551",
+  "input_sha256": "21cbfa185f92492652ec5c40ba29b2f29f65804f8bd285c0de7685a2aad53109",
+  "poster_sha256": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+  "hypothesis": "The ordinary cells of the poster-guided 83-cell DBBI parse are matrix data or a serialized poster sum list",
+  "criterion": "Exact equality of a complete representation or full decoded source phrase; no prefix/word-count success gate",
+  "scope": [
+    "Original 14x14 poster geometry; first23/all25 selected markers; ordinal primes, ordinals, signed/unsigned/color-separated values",
+    "Binary poster as additional established representation; off-white remains zero in the known URL reading",
+    "Rows, columns, both concatenation orders, and full reversal; direct decimal/list text and fixed-width byte encodings",
+    "All exact rectangles of the 60 digit values; complete numerical and letter readings",
+    "All exact rectangles of the 25 decoded bytes, including 5x5; unsigned and signed-byte interpretations",
+    "Literal big/little-endian distinction is tested through exact byte equality, not guessed cryptography"
+  ],
+  "exclusions": "No password generation, AES, arbitrary symbol substitutions, selective deletion, ragged padding, or prime-sign claim"
+}

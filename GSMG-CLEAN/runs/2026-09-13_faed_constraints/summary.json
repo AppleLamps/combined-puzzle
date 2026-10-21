@@ -1,0 +1,17 @@
+{
+  "unique_source_passages": 694,
+  "natural_decimal_lengths": {
+    "568": 262,
+    "569": 77,
+    "571": 355
+  },
+  "minimum_zero_digits": 38,
+  "all_passages_use_ten_digits": true,
+  "first_byte_upper_bound_570_digits_237_bytes": 45,
+  "inferred_keystreams": 1388,
+  "maximum_prior_derived_key_length": 103,
+  "smallest_required_period": 567,
+  "short_period_matches": [],
+  "positive_controls_passed": true,
+  "verdict": "Scope is specific plaintext windows and repeating decimal arithmetic, not all possible DBBI-to-FAED mechanisms"
+}

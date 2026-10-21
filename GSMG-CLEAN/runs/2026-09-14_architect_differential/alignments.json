@@ -1,0 +1,1570 @@
+{
+ "broad": {
+  "source_words": 532,
+  "puzzle_words": 336,
+  "matching_words": 181,
+  "edits": [
+   {
+    "tag": "delete",
+    "source_range": [
+     0,
+     1
+    ],
+    "puzzle_range": [
+     0,
+     0
+    ],
+    "source": [
+     "ARCHITECT"
+    ],
+    "puzzle": []
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     14,
+     15
+    ],
+    "puzzle_range": [
+     13,
+     14
+    ],
+    "source": [
+     "IN"
+    ],
+    "puzzle": [
+     "TO"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     18,
+     20
+    ],
+    "puzzle_range": [
+     17,
+     19
+    ],
+    "source": [
+     "THE",
+     "MATRIX"
+    ],
+    "puzzle": [
+     "THIS",
+     "PUZZLE"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     52,
+     54
+    ],
+    "puzzle_range": [
+     51,
+     55
+    ],
+    "source": [
+     "DECIDUOUSLY",
+     "AVOIDED"
+    ],
+    "puzzle": [
+     "TO",
+     "SEDULOUSLY",
+     "AVOID",
+     "IT"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     72,
+     73
+    ],
+    "puzzle_range": [
+     73,
+     74
+    ],
+    "source": [
+     "NEO"
+    ],
+    "puzzle": [
+     "YOU"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     79,
+     80
+    ],
+    "puzzle_range": [
+     80,
+     81
+    ],
+    "source": [
+     "ARCHITECT"
+    ],
+    "puzzle": [
+     "ME"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     86,
+     87
+    ],
+    "puzzle_range": [
+     87,
+     88
+    ],
+    "source": [
+     "THEN"
+    ],
+    "puzzle": [
+     "THAN"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     89,
+     98
+    ],
+    "puzzle_range": [
+     90,
+     98
+    ],
+    "source": [
+     "NEO",
+     "OTHERS",
+     "WHAT",
+     "OTHERS",
+     "HOW",
+     "MANY",
+     "ANSWER",
+     "ME",
+     "ARCHITECT"
+    ],
+    "puzzle": [
+     "PLEASE",
+     "IF",
+     "YOU",
+     "FIND",
+     "A",
+     "WAY",
+     "TO",
+     "COMPLETE"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     99,
+     118
+    ],
+    "puzzle_range": [
+     99,
+     101
+    ],
+    "source": [
+     "MATRIX",
+     "IS",
+     "OLDER",
+     "THAN",
+     "YOU",
+     "KNOW",
+     "I",
+     "PREFER",
+     "COUNTING",
+     "FROM",
+     "THE",
+     "EMERGENCE",
+     "OF",
+     "ONE",
+     "INTEGRAL",
+     "ANOMALY",
+     "TO",
+     "THE",
+     "EMERGENCE"
+    ],
+    "puzzle": [
+     "LAST",
+     "PART"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     120,
+     124
+    ],
+    "puzzle_range": [
+     103,
+     114
+    ],
+    "source": [
+     "NEXT",
+     "IN",
+     "WHICH",
+     "CASE"
+    ],
+    "puzzle": [
+     "PUZZLE",
+     "TAKE",
+     "THE",
+     "PRIVATE",
+     "KEY",
+     "YOUVE",
+     "EARNED",
+     "IT",
+     "BUT",
+     "PLEASE",
+     "TAKE"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     125,
+     125
+    ],
+    "puzzle_range": [
+     115,
+     124
+    ],
+    "source": [],
+    "puzzle": [
+     "TO",
+     "HEART",
+     "THAT",
+     "WHAT",
+     "A",
+     "WISEMAN",
+     "ABOVE",
+     "HINTED",
+     "AT"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     126,
+     210
+    ],
+    "puzzle_range": [
+     125,
+     128
+    ],
+    "source": [
+     "THE",
+     "SIXTH",
+     "VERSION",
+     "NEO",
+     "THEN",
+     "THERE",
+     "ARE",
+     "ONLY",
+     "TWO",
+     "POSSIBLE",
+     "EXPLANATIONS",
+     "EITHER",
+     "NO",
+     "ONE",
+     "TOLD",
+     "ME",
+     "OR",
+     "NO",
+     "ONE",
+     "KNOWS",
+     "ARCHITECT",
+     "PRECISELY",
+     "AS",
+     "YOU",
+     "ARE",
+     "UNDOUBTEDLY",
+     "GATHERING",
+     "THE",
+     "ANOMALY",
+     "IS",
+     "SYSTEMIC",
+     "CREATING",
+     "FLUCTUATIONS",
+     "IN",
+     "EVEN",
+     "THE",
+     "MOST",
+     "SIMPLISTIC",
+     "EQUATIONS",
+     "NEO",
+     "CHOICE",
+     "THE",
+     "PROBLEM",
+     "IS",
+     "CHOICE",
+     "ARCHITECT",
+     "THE",
+     "FIRST",
+     "MATRIX",
+     "I",
+     "DESIGNED",
+     "WAS",
+     "QUITE",
+     "NATURALLY",
+     "PERFECT",
+     "IT",
+     "WAS",
+     "A",
+     "WORK",
+     "OF",
+     "ART",
+     "FLAWLESS",
+     "SUBLIME",
+     "A",
+     "TRIUMPH",
+     "EQUALED",
+     "ONLY",
+     "BY",
+     "ITS",
+     "MONUMENTAL",
+     "FAILURE",
+     "THE",
+     "INEVITABILITY",
+     "OF",
+     "ITS",
+     "DOOM",
+     "IS",
+     "APPARENT",
+     "TO",
+     "ME",
+     "NOW",
+     "AS",
+     "A",
+     "CONSEQUENCE"
+    ],
+    "puzzle": [
+     "WORTH",
+     "HUNDRED",
+     "FOURTY"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     212,
+     214
+    ],
+    "puzzle_range": [
+     130,
+     142
+    ],
+    "source": [
+     "IMPERFECTION",
+     "INHERENT"
+    ],
+    "puzzle": [
+     "INVESTMENT",
+     "THAT",
+     "S",
+     "WHAT",
+     "US",
+     "GUYS",
+     "AT",
+     "GSMG",
+     "ARE",
+     "TRYING",
+     "TO",
+     "ACCOMPLISH"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     215,
+     219
+    ],
+    "puzzle_range": [
+     143,
+     166
+    ],
+    "source": [
+     "EVERY",
+     "HUMAN",
+     "BEING",
+     "THUS"
+    ],
+    "puzzle": [
+     "THE",
+     "END",
+     "PLEASE",
+     "JUST",
+     "HELP",
+     "US",
+     "BUILD",
+     "IT",
+     "INSTEAD",
+     "OF",
+     "JUST",
+     "WAISTING",
+     "YOUR",
+     "LIFETIME",
+     "BY",
+     "HUNTING",
+     "FOR",
+     "WORTHLESS",
+     "PRICES",
+     "AND",
+     "THROPHIES",
+     "LIKE",
+     "THIS"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     220,
+     226
+    ],
+    "puzzle_range": [
+     167,
+     169
+    ],
+    "source": [
+     "REDESIGNED",
+     "IT",
+     "BASED",
+     "ON",
+     "YOUR",
+     "HISTORY"
+    ],
+    "puzzle": [
+     "M",
+     "SORRY"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     227,
+     230
+    ],
+    "puzzle_range": [
+     170,
+     182
+    ],
+    "source": [
+     "MORE",
+     "ACCURATELY",
+     "REFLECT"
+    ],
+    "puzzle": [
+     "TELL",
+     "YOU",
+     "THAT",
+     "YOUVE",
+     "COME",
+     "THIS",
+     "FAR",
+     "BUT",
+     "YOU",
+     "LL",
+     "NEVER",
+     "FINISH"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     231,
+     237
+    ],
+    "puzzle_range": [
+     183,
+     185
+    ],
+    "source": [
+     "VARYING",
+     "GROTESQUERIES",
+     "OF",
+     "YOUR",
+     "NATURE",
+     "HOWEVER"
+    ],
+    "puzzle": [
+     "LAST",
+     "TASK"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     238,
+     247
+    ],
+    "puzzle_range": [
+     186,
+     188
+    ],
+    "source": [
+     "WAS",
+     "AGAIN",
+     "FRUSTRATED",
+     "BY",
+     "FAILURE",
+     "I",
+     "HAVE",
+     "SINCE",
+     "COME"
+    ],
+    "puzzle": [
+     "EXPECT",
+     "YOU"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     248,
+     418
+    ],
+    "puzzle_range": [
+     189,
+     190
+    ],
+    "source": [
+     "UNDERSTAND",
+     "THAT",
+     "THE",
+     "ANSWER",
+     "ELUDED",
+     "ME",
+     "BECAUSE",
+     "IT",
+     "REQUIRED",
+     "A",
+     "LESSER",
+     "MIND",
+     "A",
+     "MIND",
+     "LESS",
+     "BOUND",
+     "BY",
+     "THE",
+     "PARAMETERS",
+     "OF",
+     "PERFECTION",
+     "THUS",
+     "THE",
+     "ANSWER",
+     "WAS",
+     "STUMBLED",
+     "UPON",
+     "BY",
+     "ANOTHER",
+     "AN",
+     "INTUITIVE",
+     "PROGRAM",
+     "INITIALLY",
+     "CREATED",
+     "TO",
+     "INVESTIGATE",
+     "CERTAIN",
+     "ASPECTS",
+     "OF",
+     "THE",
+     "HUMAN",
+     "PSYCHE",
+     "IF",
+     "I",
+     "AM",
+     "THE",
+     "FATHER",
+     "OF",
+     "THE",
+     "MATRIX",
+     "SHE",
+     "WOULD",
+     "UNDOUBTEDLY",
+     "BE",
+     "ITS",
+     "MOTHER",
+     "NEO",
+     "THE",
+     "ORACLE",
+     "ARCHITECT",
+     "PLEASE",
+     "AS",
+     "I",
+     "WAS",
+     "SAYING",
+     "SHE",
+     "STUMBLED",
+     "UPON",
+     "A",
+     "SOLUTION",
+     "WHEREBY",
+     "NEARLY",
+     "PERCENT",
+     "OF",
+     "ALL",
+     "TEST",
+     "SUBJECTS",
+     "ACCEPTED",
+     "THE",
+     "PROGRAM",
+     "AS",
+     "LONG",
+     "AS",
+     "THEY",
+     "WERE",
+     "GIVEN",
+     "A",
+     "CHOICE",
+     "EVEN",
+     "IF",
+     "THEY",
+     "WERE",
+     "ONLY",
+     "AWARE",
+     "OF",
+     "THE",
+     "CHOICE",
+     "AT",
+     "AN",
+     "UNCONSCIOUS",
+     "LEVEL",
+     "WHILE",
+     "THIS",
+     "ANSWERED",
+     "FUNCTION",
+     "IT",
+     "WAS",
+     "OBVIOUSLY",
+     "FUNDAMENTALLY",
+     "FLAWED",
+     "THUS",
+     "CREATING",
+     "THE",
+     "OTHERWISE",
+     "CONTRADICTORY",
+     "SYSTEMIC",
+     "ANOMALY",
+     "THAT",
+     "IF",
+     "LEFT",
+     "UNCHECKED",
+     "MIGHT",
+     "THREATEN",
+     "THE",
+     "SYSTEM",
+     "ITSELF",
+     "ERGO",
+     "THOSE",
+     "THAT",
+     "REFUSE",
+     "THE",
+     "PROGRAM",
+     "WHILE",
+     "THE",
+     "MINORITY",
+     "IF",
+     "UNCHECKED",
+     "WOULD",
+     "CAUSE",
+     "AN",
+     "ESCALATING",
+     "PROBABILITY",
+     "OF",
+     "DISASTER",
+     "NEO",
+     "THIS",
+     "IS",
+     "ABOUT",
+     "ZION",
+     "ARCHITECT",
+     "YOU",
+     "ARE",
+     "HERE",
+     "BECAUSE",
+     "ZION",
+     "IS",
+     "ABOUT",
+     "TO",
+     "BE",
+     "DESTROYED",
+     "ITS",
+     "EVERY",
+     "LIVING",
+     "INHABITANT",
+     "TERMINATED",
+     "ITS",
+     "ENTIRE",
+     "EXISTENCE",
+     "ERADICATED",
+     "NEO"
+    ],
+    "puzzle": [
+     "SAY"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     419,
+     423
+    ],
+    "puzzle_range": [
+     191,
+     192
+    ],
+    "source": [
+     "BULLSHIT",
+     "BULLSHIT",
+     "BULLSHIT",
+     "ARCHITECT"
+    ],
+    "puzzle": [
+     "WELL"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     437,
+     437
+    ],
+    "puzzle_range": [
+     206,
+     207
+    ],
+    "source": [],
+    "puzzle": [
+     "NOT"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     439,
+     440
+    ],
+    "puzzle_range": [
+     209,
+     210
+    ],
+    "source": [
+     "SIXTH"
+    ],
+    "puzzle": [
+     "LAST"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     441,
+     442
+    ],
+    "puzzle_range": [
+     211,
+     212
+    ],
+    "source": [
+     "WE"
+    ],
+    "puzzle": [
+     "I"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     444,
+     445
+    ],
+    "puzzle_range": [
+     214,
+     217
+    ],
+    "source": [
+     "IT"
+    ],
+    "puzzle": [
+     "A",
+     "RESTLESS",
+     "SOUL"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     446,
+     447
+    ],
+    "puzzle_range": [
+     218,
+     219
+    ],
+    "source": [
+     "WE"
+    ],
+    "puzzle": [
+     "I"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     457,
+     458
+    ],
+    "puzzle_range": [
+     229,
+     230
+    ],
+    "source": [
+     "ONE"
+    ],
+    "puzzle": [
+     "YOU"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     465,
+     465
+    ],
+    "puzzle_range": [
+     237,
+     238
+    ],
+    "source": [],
+    "puzzle": [
+     "CODES"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     473,
+     473
+    ],
+    "puzzle_range": [
+     246,
+     247
+    ],
+    "source": [],
+    "puzzle": [
+     "HOPEFULLY"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     477,
+     478
+    ],
+    "puzzle_range": [
+     251,
+     252
+    ],
+    "source": [
+     "PROGRAM"
+    ],
+    "puzzle": [
+     "BASICS"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     487,
+     487
+    ],
+    "puzzle_range": [
+     261,
+     274
+    ],
+    "source": [],
+    "puzzle": [
+     "OVER",
+     "TWENTY",
+     "THREE",
+     "CIPHERS",
+     "SIXTEEN",
+     "ENCRYPTIONS",
+     "AND",
+     "OR",
+     "SEVEN",
+     "INTERTWINED",
+     "PASSWORDS",
+     "TO",
+     "FIND"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     488,
+     495
+    ],
+    "puzzle_range": [
+     275,
+     285
+    ],
+    "source": [
+     "MATRIX",
+     "INDIVIDUALS",
+     "FEMALE",
+     "MALE",
+     "TO",
+     "REBUILD",
+     "ZION"
+    ],
+    "puzzle": [
+     "ACTUAL",
+     "PRIVATE",
+     "KEYNOTE",
+     "THAT",
+     "ALSO",
+     "BRUTE",
+     "FORCING",
+     "MIGHT",
+     "BE",
+     "REQUIRED"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     509,
+     514
+    ],
+    "puzzle_range": [
+     299,
+     301
+    ],
+    "source": [
+     "EVERYONE",
+     "CONNECTED",
+     "TO",
+     "THE",
+     "MATRIX"
+    ],
+    "puzzle": [
+     "YOUR",
+     "WILLPOWER"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     520,
+     521
+    ],
+    "puzzle_range": [
+     307,
+     312
+    ],
+    "source": [
+     "ZION"
+    ],
+    "puzzle": [
+     "YOUR",
+     "WILL",
+     "TO",
+     "LIVE",
+     "AND"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     529,
+     532
+    ],
+    "puzzle_range": [
+     320,
+     336
+    ],
+    "source": [
+     "ENTIRE",
+     "HUMAN",
+     "RACE"
+    ],
+    "puzzle": [
+     "ENTIRENESS",
+     "OF",
+     "YOURSELF",
+     "SELF",
+     "GOOD",
+     "LUCK",
+     "NEVERTHELESS",
+     "I",
+     "REALLY",
+     "HOPE",
+     "YOURE",
+     "THE",
+     "ONE",
+     "CIAO",
+     "BELLA",
+     "O"
+    ]
+   }
+  ]
+ },
+ "tight": {
+  "source_words": 204,
+  "puzzle_words": 336,
+  "matching_words": 168,
+  "edits": [
+   {
+    "tag": "delete",
+    "source_range": [
+     0,
+     1
+    ],
+    "puzzle_range": [
+     0,
+     0
+    ],
+    "source": [
+     "ARCHITECT"
+    ],
+    "puzzle": []
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     14,
+     15
+    ],
+    "puzzle_range": [
+     13,
+     14
+    ],
+    "source": [
+     "IN"
+    ],
+    "puzzle": [
+     "TO"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     18,
+     20
+    ],
+    "puzzle_range": [
+     17,
+     19
+    ],
+    "source": [
+     "THE",
+     "MATRIX"
+    ],
+    "puzzle": [
+     "THIS",
+     "PUZZLE"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     52,
+     54
+    ],
+    "puzzle_range": [
+     51,
+     55
+    ],
+    "source": [
+     "DECIDUOUSLY",
+     "AVOIDED"
+    ],
+    "puzzle": [
+     "TO",
+     "SEDULOUSLY",
+     "AVOID",
+     "IT"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     72,
+     73
+    ],
+    "puzzle_range": [
+     73,
+     74
+    ],
+    "source": [
+     "NEO"
+    ],
+    "puzzle": [
+     "YOU"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     79,
+     80
+    ],
+    "puzzle_range": [
+     80,
+     81
+    ],
+    "source": [
+     "ARCHITECT"
+    ],
+    "puzzle": [
+     "ME"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     86,
+     87
+    ],
+    "puzzle_range": [
+     87,
+     88
+    ],
+    "source": [
+     "THEN"
+    ],
+    "puzzle": [
+     "THAN"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     89,
+     90
+    ],
+    "puzzle_range": [
+     90,
+     190
+    ],
+    "source": [
+     "NEO"
+    ],
+    "puzzle": [
+     "PLEASE",
+     "IF",
+     "YOU",
+     "FIND",
+     "A",
+     "WAY",
+     "TO",
+     "COMPLETE",
+     "THE",
+     "LAST",
+     "PART",
+     "OF",
+     "THE",
+     "PUZZLE",
+     "TAKE",
+     "THE",
+     "PRIVATE",
+     "KEY",
+     "YOUVE",
+     "EARNED",
+     "IT",
+     "BUT",
+     "PLEASE",
+     "TAKE",
+     "THIS",
+     "TO",
+     "HEART",
+     "THAT",
+     "WHAT",
+     "A",
+     "WISEMAN",
+     "ABOVE",
+     "HINTED",
+     "AT",
+     "IS",
+     "WORTH",
+     "HUNDRED",
+     "FOURTY",
+     "OF",
+     "THE",
+     "INVESTMENT",
+     "THAT",
+     "S",
+     "WHAT",
+     "US",
+     "GUYS",
+     "AT",
+     "GSMG",
+     "ARE",
+     "TRYING",
+     "TO",
+     "ACCOMPLISH",
+     "IN",
+     "THE",
+     "END",
+     "PLEASE",
+     "JUST",
+     "HELP",
+     "US",
+     "BUILD",
+     "IT",
+     "INSTEAD",
+     "OF",
+     "JUST",
+     "WAISTING",
+     "YOUR",
+     "LIFETIME",
+     "BY",
+     "HUNTING",
+     "FOR",
+     "WORTHLESS",
+     "PRICES",
+     "AND",
+     "THROPHIES",
+     "LIKE",
+     "THIS",
+     "I",
+     "M",
+     "SORRY",
+     "TO",
+     "TELL",
+     "YOU",
+     "THAT",
+     "YOUVE",
+     "COME",
+     "THIS",
+     "FAR",
+     "BUT",
+     "YOU",
+     "LL",
+     "NEVER",
+     "FINISH",
+     "THE",
+     "LAST",
+     "TASK",
+     "I",
+     "EXPECT",
+     "YOU",
+     "TO",
+     "SAY"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     91,
+     95
+    ],
+    "puzzle_range": [
+     191,
+     192
+    ],
+    "source": [
+     "BULLSHIT",
+     "BULLSHIT",
+     "BULLSHIT",
+     "ARCHITECT"
+    ],
+    "puzzle": [
+     "WELL"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     109,
+     109
+    ],
+    "puzzle_range": [
+     206,
+     207
+    ],
+    "source": [],
+    "puzzle": [
+     "NOT"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     111,
+     112
+    ],
+    "puzzle_range": [
+     209,
+     210
+    ],
+    "source": [
+     "SIXTH"
+    ],
+    "puzzle": [
+     "LAST"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     113,
+     114
+    ],
+    "puzzle_range": [
+     211,
+     212
+    ],
+    "source": [
+     "WE"
+    ],
+    "puzzle": [
+     "I"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     116,
+     117
+    ],
+    "puzzle_range": [
+     214,
+     217
+    ],
+    "source": [
+     "IT"
+    ],
+    "puzzle": [
+     "A",
+     "RESTLESS",
+     "SOUL"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     118,
+     119
+    ],
+    "puzzle_range": [
+     218,
+     219
+    ],
+    "source": [
+     "WE"
+    ],
+    "puzzle": [
+     "I"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     129,
+     130
+    ],
+    "puzzle_range": [
+     229,
+     230
+    ],
+    "source": [
+     "ONE"
+    ],
+    "puzzle": [
+     "YOU"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     137,
+     137
+    ],
+    "puzzle_range": [
+     237,
+     238
+    ],
+    "source": [],
+    "puzzle": [
+     "CODES"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     145,
+     145
+    ],
+    "puzzle_range": [
+     246,
+     247
+    ],
+    "source": [],
+    "puzzle": [
+     "HOPEFULLY"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     149,
+     150
+    ],
+    "puzzle_range": [
+     251,
+     252
+    ],
+    "source": [
+     "PROGRAM"
+    ],
+    "puzzle": [
+     "BASICS"
+    ]
+   },
+   {
+    "tag": "insert",
+    "source_range": [
+     159,
+     159
+    ],
+    "puzzle_range": [
+     261,
+     274
+    ],
+    "source": [],
+    "puzzle": [
+     "OVER",
+     "TWENTY",
+     "THREE",
+     "CIPHERS",
+     "SIXTEEN",
+     "ENCRYPTIONS",
+     "AND",
+     "OR",
+     "SEVEN",
+     "INTERTWINED",
+     "PASSWORDS",
+     "TO",
+     "FIND"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     160,
+     167
+    ],
+    "puzzle_range": [
+     275,
+     285
+    ],
+    "source": [
+     "MATRIX",
+     "INDIVIDUALS",
+     "FEMALE",
+     "MALE",
+     "TO",
+     "REBUILD",
+     "ZION"
+    ],
+    "puzzle": [
+     "ACTUAL",
+     "PRIVATE",
+     "KEYNOTE",
+     "THAT",
+     "ALSO",
+     "BRUTE",
+     "FORCING",
+     "MIGHT",
+     "BE",
+     "REQUIRED"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     181,
+     186
+    ],
+    "puzzle_range": [
+     299,
+     301
+    ],
+    "source": [
+     "EVERYONE",
+     "CONNECTED",
+     "TO",
+     "THE",
+     "MATRIX"
+    ],
+    "puzzle": [
+     "YOUR",
+     "WILLPOWER"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     192,
+     193
+    ],
+    "puzzle_range": [
+     307,
+     312
+    ],
+    "source": [
+     "ZION"
+    ],
+    "puzzle": [
+     "YOUR",
+     "WILL",
+     "TO",
+     "LIVE",
+     "AND"
+    ]
+   },
+   {
+    "tag": "replace",
+    "source_range": [
+     201,
+     204
+    ],
+    "puzzle_range": [
+     320,
+     336
+    ],
+    "source": [
+     "ENTIRE",
+     "HUMAN",
+     "RACE"
+    ],
+    "puzzle": [
+     "ENTIRENESS",
+     "OF",
+     "YOURSELF",
+     "SELF",
+     "GOOD",
+     "LUCK",
+     "NEVERTHELESS",
+     "I",
+     "REALLY",
+     "HOPE",
+     "YOURE",
+     "THE",
+     "ONE",
+     "CIAO",
+     "BELLA",
+     "O"
+    ]
+   }
+  ]
+ }
+}

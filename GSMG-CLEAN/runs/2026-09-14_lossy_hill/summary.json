@@ -1,0 +1,17 @@
+{
+  "source_passages": 1569,
+  "numerical_plaintext_templates": 2554,
+  "templates_by_numeral_view": {
+    "decimal": 516,
+    "base9": 985,
+    "bijective_base9": 1053
+  },
+  "models": 96,
+  "tested_models": 96,
+  "rank_deficient_models": 0,
+  "full_quotation_comparisons": 245184,
+  "complete_matches": 0,
+  "control_layouts": 4,
+  "zero_nine_collision_control": true,
+  "mutation_controls": true
+}

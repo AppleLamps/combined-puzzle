@@ -1,0 +1,8 @@
+{
+  "independently_reproduced_streams": 1908,
+  "all_affine_roundtrips": true,
+  "planted_key_survived_exhaustive_search": true,
+  "planted_full_plaintext_recovered": true,
+  "planted_plaintext_bytes": 236,
+  "restoration_nodes": 302
+}

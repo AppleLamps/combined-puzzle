@@ -1,0 +1,13 @@
+{
+ "inputs": {
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_m4_zeroing_oracles\\candidates.jsonl": "c89975f99741648761d5e4da8ed38a170dd4a40f48747d4d5ff3495236b6d752",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_pointer_selectors\\candidates.jsonl": "88f3c29482dd241b292dfd3fc9dcd067614cc47f6999544edb4474f514d1657d",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_board_shape_sums\\all_outputs.jsonl": "478c32325754811199bf103327fb69761a2c8970063b4b7d7254394d4ed7fb48",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_colour_selectors\\all_outputs.jsonl": "6a129fb1db499ebcd58e1278ff55830c62d92868e395bed027838b2316481b63",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_keyed_faed\\all_outputs.jsonl": "3072d8319dda0bc0cd90bbf2e54e3e5129d5dcfdb5fc39589b11772105a005a4",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_tail_cipher\\all_outputs.jsonl": "6551d5bf679325c0f5b1458ab56dc2ac38e6405bc70462a01ee196c1471526b9",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_matrixsum_lastwords\\all_outputs.jsonl": "119d13e97589f8035106ac19279b84de61748ee61e881d6772cc38f9f5a46f93"
+ },
+ "code_sha256": "9b07838591f54f5635a6f5958685b982e3e5186503cfbb2fe3ccc65aa0258351",
+ "coincurve": true
+}

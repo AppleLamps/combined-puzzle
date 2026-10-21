@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-14",
+ "review": "14_CRITICAL_REVIEW_2026-09-14.md move 3 (colours as selectors)",
+ "envelope_bytes_read": 0,
+ "aes_decryptions": 0,
+ "selectors": [
+  "ordinary_blue_nearest",
+  "ordinary_yellow_nearest",
+  "ordinary_all",
+  "segment_sums_bounded_B",
+  "segment_sums_bounded_Y",
+  "yellow_rows_ordinary_6x14",
+  "blue_rows_ordinary_6x14",
+  "faed_at_blue_slots",
+  "faed_at_yellow_slots",
+  "faed_at_ordinary_slots",
+  "lattice masked_zero",
+  "lattice masked_colour_digit",
+  "lattice masked_one"
+ ],
+ "controls": {
+  "controls_drawn": 15600,
+  "control_max_score": 3,
+  "planted_max": 3
+ },
+ "oracles": [
+  "dbbi_pattern",
+  "marker_and_prize_addresses"
+ ]
+}

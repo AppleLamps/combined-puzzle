@@ -1,0 +1,14 @@
+AES backend: pycryptodome
+== Experiment 2 run 2026-09-14 21:18:20
+VALIDATE phase2: ct=672B salt=06286612d43ed7ed sha256-profile match=True pad=8 | negative control ok=True | md5 profile opens=False
+VALIDATE phase3: ct=4112B salt=9fbc451d13d071f4 sha256-profile match=True pad=6 | negative control ok=True | md5 profile opens=False
+VALIDATE phase3_2: ct=2448B salt=eefc4c5befc1656a sha256-profile match=True pad=10 | negative control ok=True | md5 profile opens=False
+VALIDATE recogniser on Phase-1 answer bytes: [('sha256', [('compressed', 'marker_phase1')])]
+VALIDATE recogniser on embedded raw32 key: [('raw32be@2', [('compressed', 'marker_phase1')])]
+VALIDATE recogniser negative: []
+HARNESS VALID: True
+ENVELOPE locked_salphaseion_short: 96B salt=3ab585348552415d sha256=9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258
+ENVELOPE locked_terminal_phase3_2_end: 96B salt=b45a5e3d827593ca sha256=291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9
+ENVELOPE locked_cosmic_duality: 1344B salt=2d3f6fe06dc950e6 sha256=b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805
+PAD-VALID idx=19 F1 'follow_white_rabbit' rep=raw kdf=sha256 env=locked_salphaseion_short pad=1 printable=0.36 head=b"~\xfba\xe8A\xf5\xf3\x80l) z\x06x\xcf\xa2|\xd8Q%\x84\xa2\xbb\xf3\x10H\x98\x85\xdd\x8aI\xdc\xd4\xa6\xe3\x87\xa3I'\xd2"
+SUMMARY {"candidates": 50, "decrypts": 900, "pad_valid": 1, "expected_pad_valid_by_chance": 3.53, "key_hits": 0, "seconds": 107.4, "inputs": {"locked_salphaseion_short": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258", "locked_terminal_phase3_2_end": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9", "locked_cosmic_duality": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"}, "code_sha256": "a60115c98e3796e357ef3d1c06f8f36ab6bb58c31e566b2c459baa326d57aac5"}

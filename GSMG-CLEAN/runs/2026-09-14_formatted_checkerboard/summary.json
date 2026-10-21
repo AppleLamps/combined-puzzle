@@ -1,0 +1,10 @@
+{
+  "prefix_subsets": 512,
+  "directional_models": 1024,
+  "complete_tokenizations": 705,
+  "source_views": 146,
+  "candidate_source_windows": 671349,
+  "complete_bijective_matches": 0,
+  "mixed_case_punctuation_four_prefix_control": true,
+  "mutation_rejected": true
+}

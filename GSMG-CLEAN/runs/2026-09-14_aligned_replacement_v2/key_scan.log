@@ -1,0 +1,25 @@
+scanned 5000 unique scalars 140275
+scanned 10000 unique scalars 219296
+scanned 15000 unique scalars 289194
+scanned 20000 unique scalars 370092
+scanned 25000 unique scalars 425198
+{
+  "corpus": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_aligned_replacement_v2\\all_outputs.jsonl",
+  "sha256": "a033ea4ae2a36983f84045d258eb0ae07dd097e86c47baecbaed394bd9b15936",
+  "controls_passed": true,
+  "counts": {
+    "records": 28170,
+    "nodes": 11177,
+    "decimal": 88694,
+    "raw32-big": 2028665,
+    "raw32-little": 2028665
+  },
+  "unique_scalars": 425198,
+  "hits": [],
+  "optional_dbbi_pattern_hits": [],
+  "limits": [
+    "two recursive decoding levels",
+    "two prize targets, both public-key encodings",
+    "no arbitrary concatenation, brute force, AES or target implication for intermediate outputs"
+  ]
+}

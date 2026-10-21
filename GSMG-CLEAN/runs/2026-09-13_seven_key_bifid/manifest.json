@@ -1,0 +1,42 @@
+{
+  "created": "2026-09-13 15:18:14",
+  "status": "PRE-REGISTERED, NOT YET RUN",
+  "script_sha256": "c65825cd5a4a64e5831d9c9fa7db8f6622a7df3461e5e85ddeb8e99e3d9f2be5",
+  "shared_helpers_sha256": "788c6f7dbc50371e466d3a5d150a58c051d294144eb42c6e4a9a57b34cde9cfc",
+  "candidates_sha256": "cb4e7fbc07a708c03b88db85b9217a9215861350655428c27b98f3176489a9fd",
+  "envelopes_sha256": {
+    "terminal_phase3_2_end": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9",
+    "salphaseion_short": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+    "cosmic_duality": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+  },
+  "fidelity_checks": [
+    "7 successive prefixes BTCSEED/BAR/EOHW/CAN/FEE/IKDG/GTHW reproduced",
+    "Bifid round-trips",
+    "reverse-order raw sha256 9aa4d617\u2026 reproduced",
+    "2,000-shuffle histogram reproduced: [1465, 508, 25, 2, 0, 0, 0]"
+  ],
+  "counts": {
+    "controls": 200,
+    "unique_texts": 59976,
+    "real_texts": 368,
+    "real_only_texts": 356,
+    "control_scores_first_200": {
+      "0": 155,
+      "1": 42,
+      "2": 3
+    }
+  },
+  "derivations": [
+    "sha256hex/EVP-SHA256 (proven)",
+    "sha256hex/EVP-MD5",
+    "raw/EVP-SHA256",
+    "raw/EVP-MD5",
+    "sha256raw/EVP-SHA256",
+    "sha256raw/EVP-MD5"
+  ],
+  "acceptance": [
+    "KEY MATCH (Half/Better Half) -> result; stop and report",
+    "pad>=2 or printable>=0.95 & letters>=0.65 -> inspect by hand",
+    "real-only vs control pad rates at chance -> null"
+  ]
+}

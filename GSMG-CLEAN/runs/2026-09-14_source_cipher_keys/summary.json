@@ -1,0 +1,12 @@
+{
+  "source_text_keys": 3371,
+  "numeric_key_vectors": 12618,
+  "decimal_prime_matrix_lists": 60,
+  "complete_faed_transforms": 273478,
+  "integer_views": 546976,
+  "lossy_decimal_restorations": 136749,
+  "restoration_nodes": 224723,
+  "incomplete_restorations": 0,
+  "full_ascii_outputs": 0,
+  "seconds": 100.68
+}

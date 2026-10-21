@@ -1,0 +1,79 @@
+{
+ "outputs": 93,
+ "controls_drawn": 240,
+ "control_max_score": 8,
+ "above_control": [],
+ "oracle_hits": [],
+ "top": [
+  {
+   "key": "sum_rows_7x12_unsigned",
+   "cipher": "beau",
+   "alphabet": "A26",
+   "output": "luletiwmrkfylapnibtmanskdwlulrjgtguquletisqppdxitkonezgtmnpayotiondrjuppjduiaippgrjakulbvoyktodzivkoldtialtpftjyntlzujaqpnzwotkrlduitjsjbzkunqoaskumoifvianpoeroumpnzxiuipmftoakokgriaiskgskyqqngxksqmndyizkmlfwkukpjdtownojcrgyimhcrjtkonbuixorjbvjypqlztkvitjzyiuknicymuipmdskxlrpbrmxpnhftosmrpdsotknifrhxknkaygsoqngrgyjmizrguirmbvhtnpmfsmzqpjcyhajqpbviwoukdsiylojbtmakpiathzqmizwgwjnkeviunonzsiukojazlajmjztnumsjdwjynojhxmxmnhzxgultkcsiuqqheynwitodrgvnokesgwmqhdvkyipmbwotnmjbuhwkphhujskoofymwjslhyjzmrozrnvppmdwkwjohbuoaiojhtnwimnarkxipodsizospasnsithgygznsohsosnnkhsgsjmn",
+   "score": 4
+  },
+  {
+   "key": "sum_cols_7x12_unsigned",
+   "cipher": "vig_enc",
+   "alphabet": "A26",
+   "output": "ymvojktqjxsrwmsskkvogvsvxpurihvnmawqtqurjmprgwswasxngextkzqxumytjgtulyrvzqwrdmumhavqzmvrhershtuqzrxrhivsgxrqvswngftulxqqyozodlvpkwvwattrjetsjwrxaqxpjlrqmstvupzljiuoouwwbrunjepsmxryzmznifwqisusuovtdmrqhyrwbqtohkvrmwwqxpxrimxooayvbryrjgvrmvstzsvqfftqoyuvbnxtekvsnzvrvszqgiwqjxtqzutoelxomsyuwmvsdlvtnuyxwsyqkfxuiwsrbutsllxuoyytwsvskhupizsrtrxqelptkswuzqtliiwsixwwzstljjwtmzrqbtzoliwtlvuwzpxnllvsmywxtprslkxshyuszquqfhvsgustxtztfmvrhxvxzsrplhqnkarrxuzqgkupnauuxuvphgxrjytqapzrjjwqmxyqyrzrjfrniwxsxmsqeisnoarvurupgittmawvtmzrjevnkaysauvoljqqnyrsvmysemxnotryuptmdlpujzvqauzslg",
+   "score": 4
+  },
+  {
+   "key": "yellow9",
+   "cipher": "beau",
+   "alphabet": "A26",
+   "output": "gxzsdjrxigvcsjoouffvdshkryifsapijnvlltapdhvwlhvxodjtyldqzojiubedrbrbkpagftypjhqbkdsdpjlpxljrcufppwfftzpdpqaljrytgortggxdqhhsbefuzrejoujfrdrdmraeetxrditxfluyughvvhgvvtdjnwijrdvdjqadfxvteooxjltbuhlnbdjtcpijnxjitxpejrvlhuxpehnzddpyneipvjfsxshmpvhgvcrfhpxgdwxnijpveesctdhqyhetaqgpptjiwwnhjvthixzojipuejpwsdiqukdpbrhontjepwnbhptiirzocmqyjevcvejqaelqzvdlpxjlszodnqvffrbvdkoufewdnchstheqysfjpyfjpwpdjpveludobjnvkftbpfmqzifrdthmruddvvpeoqwefrdrbmuahdwcrbhqyfguwnflrthhtbnempyleuvpdkoxfgpdqehpvkjwbrcnrbkgwzsihnagksarglrufdryvjhpvlfwznbnothipyufipajjxwoihnadkwvugnubelpaoepotdepb",
+   "score": 4
+  },
+  {
+   "key": "sum_cols_6x14_signed",
+   "cipher": "vig_enc",
+   "alphabet": "A26",
+   "output": "nuhsxrkqchvejgjbkvxngpbhxgjmnxjqxtmmzgwjmoizdttrnsfewdonmbdwslnufexllmjzjtwrguecullgouhvvlisadxdmloahtxrgracvjlilvhxwqgmeebggnoxhtwrntbizdkmlyewypmqfjvhmglzeszlmqeebfmmqzgrxlgsfhulmgqwiqypimdeufkoicftsrhshgvgkmozjtxlkpfiyloiqcluzqnsfezimjkxjvvqindgbjklqvjxsrmsgjyeimqzgtypjrcczlijjblrxloqccxkgnobkrzsjsghaeookyfqztithjblomqxgvvsnpefvkihizjussgtdczhmkkuityrirfizjigozkwxshmhjbgokpbisvrmpfebkmmoajwrogthibjhmmwjtuqipfitfijmblxttmrahykmmiylssmkuadxlollaisytkqdkxhkiqzgvulnphizinkozlpwqosfdveikpwhpsqhqcdblhljzgtupktfkziggqajpxmkuhealkjqzetyrhobcakhoqvlqsthpbdtkgolbipytothe",
+   "score": 3
+  },
+  {
+   "key": "sum_rows_7x12_unsigned",
+   "cipher": "vig_enc",
+   "alphabet": "A26",
+   "output": "vutkfueuxujararbwnfqatwulcrgvxvifwgqutkfuiqzplbuhwarkzwhubpoaohyarlhtgrzvleuayzpihtawutndocwvqlzufwatlfuavvpjftctvtpetaqzrpcohwxtleuhxwvnzsgtyqogsguawjduatzqkhoguzrpbugyzsjfoawauihuaywuigscqyribsiqcrlaubwctjcsgwzvlfoetavmhwcycxmhthwarneudsxvndtcrytpfsfyvvpaugwbwmaqgyzslgsdvxpnhqdrbxjfoiuxplgohwbwjhvdwbuoawisyrihwcxcwphwgyxsndvhtzsjgqbqzvmavaxypnduesuulgucvavnfqawzwofvbqcwpcwexbukdugtarpgugwavozraxcvpfpguwvlctctavhbqdubxpbwgvvumgugqyxkapeyvqlhwftaukgweuyxldscyzsncohtcvnevewzxhetiwaqjaqexwthatbuxqphpfrzslcsexaxneoayavhfpeycrohsdyzqlgubswpogpiyvxiawbtwqhgoitbuhgwixcr",
+   "score": 3
+  },
+  {
+   "key": "balanced_474",
+   "cipher": "vig_dec",
+   "alphabet": "A26",
+   "output": "btazzcaxzbvxztxdaccvwzvbawzcyzcucezwwxzczewywavcdzcywweaadtdxtdezyabbcubcxbctebtxeywctacxwyzxxxwcyccxaczwbuwyzbywxabbbtwbveztdcwaaycdayczwazzauddxcazdyxcwwbxwewzabveyzceyzyzwwzcbuecteyyxdxywxyxvaeteyxxcucexyzxccycazwawccyeeveebbeydczycyczvzczabvxaxecxbeuceucczddyxyzebwadxzbwwcbyzudevcwbaztadtdcadybdzzdbaxebyavxebydbdebecbzzzadazbwydvxwycbudwaawzacxywyadzybzcczywzbdacduweaezbadabzxccwcybdczcczdwwwdbcezxcxycxzbvzczwyvzaaeevecyxbydczwabzxuaeuxabebwcbwdexaabaaxyeyzcwwdweczbdxcbbwbyeczxyuyaayatxbuazueeubxyzawaaacezbwteczwcuaebydbazbbxxdcuyytddueeuexuexwyxtdwbzdywdbedby",
+   "score": 3
+  },
+  {
+   "key": "sum_cols_6x14_signed",
+   "cipher": "vig_dec",
+   "alphabet": "A26",
+   "output": "xgbopvysedjyxutnerprurddlaxaxjdmpxaobckdacslxplvbuhakxcbwnxskpbwhalfzatldpovuwgyifzuygbrnpwuczlxazymbppvutcyjdzwvhbtouuogapaubyjbpovbvdenxyavkysqtashfjbauvlyorpasgapzaaalanppuuhdifauaicmqtwofaizycsozpkvvujcjayayldpppyrhemfcwaofqrubuhancaxujdrnuwpfcpdyzahdtkvauifmywaalapqtxteynfwxtnfnppcseyleubynenrwxuidoyccukzmrxwvjfpfcaajarnwbrgbjewvsldqkwuvfynbayugcpqvwthendwuylespwvojfpacyznconvarhapeaaymdsjsuvjepdvawidpmuwrhehzwxwnftlxatcdmeaaskfokqywczlfczvmcoqxysfglbywalarmpbrjencbyylfloucuhzjywyziblkuvsezpfvztlapmtyvhgncuuamdlpqywjaofyxalypqvvqdyoevcahfmkxvrdzheucvnclqxcvja",
+   "score": 2
+  },
+  {
+   "key": "sum_rows_6x14_unsigned",
+   "cipher": "beau",
+   "alphabet": "A26",
+   "output": "hwkjgtislhkyjwnfftguojkuitlghwgviegzmslggrmroiktfqikjzepkfmslwhegxiojglugsjgmrhwnehzgwkgizkqnlizgrigivgqohlzkqjkjyiojhmzhugjmsgtkihtfpmggziqlilsfsiigsksimjultgmgvhugkgterlkgzmqihlrgwgkhyfsmmixlukemrksngltesmjitgriigzitighreugeeuerhggxgrijkwgqkhkyisggiuevieltgqhfhykqghjvfslhjzgomjlseuimevjwkfmsgphkesjqhhfyeomikyeomfeseoggewjqkffwhtmfkymrihlsmpkmgvgsmmhvfqmhgtgqmmgufpiflzepgjevfpjjitgtikesgqiggsmtofeteqngixgslhkwgqokkwipgekrgrnhhsgqoiewlvkelyioghjththeiviokiixerlgjzftgggufsihezhrgggykvmifxiwnhlvjvgelulrlijvipiegumwgggzgvkeexfokjeulshglxkwhflrevgllrltmlmsmolfhzfogfex",
+   "score": 2
+  },
+  {
+   "key": "sum_rows_6x14_colour",
+   "cipher": "vig_enc",
+   "alphabet": "A26",
+   "output": "lspfnqkwohjljsmjoqmulfjpkvoimnmtrknkgwoinsgxlgjqnyrekkozpjhrhssknmkaqiipmwqihslsmkmkmspilkiymdlkmxrilomylhikiyqeklkaqhhklutfhrmvpgmqnzninkkyogirnwrgnriwrckphvtcnolutenqoxoenkgyrhismstemlnwnclmhupkhsiwmiiqownflqmxrgnkkvrimsoutkppoxsinmmxrfjnmyphjlkwtilpotrkiqmysjmliythkonwohkkmanfirourcpojspjhrmzseprjysholoangjloanjproatipnjypjonlvnjjlgxrhirgzpcnomwncmonynhnqmyncnpnzrjikoztfponzqflqmvreprmyrinrgvljpqoymilmmwohjnmylejnkztkjsmxmhmrmylgpnhtpkilkathkqlvsklokapglmoxoikknvtinpnwrhpklxtinlitngomksmhiojttkiphxogkokzrknpgstinkmtpkpmnapfpphwsiimissjisottdishvndhrgaojmknatjpm",
+   "score": 2
+  },
+  {
+   "key": "sum_cols_7x12_unsigned",
+   "cipher": "vig_dec",
+   "alphabet": "A26",
+   "output": "monsdcpsxnmlkokwecrqulmplrmvczrpaqqkhsmvdeltummqouprawtvypkrioqxdypwzolpnsovxeqovqpknonvbwnuvjokntpvbaruunlkjuoraxpwznkkmqrsxdrrympqovlvdwpuxmlrosptddnsainpirrpdaqqckqqptmrdwluanlsnorrcxsswiomiqnxxensvolqpslsbcrtamqklrpvcetqcqspptqvdyrtalmnnunuzxpscooppppxycrubppljuruaassxnnknwlsydtqaisokonwxdrvbksrkuquextwwmmlpwlwfdtwcosnkunwezqrwpmlhtpuydlvyiqonslpcasuwnqqnulpdbsvaplkpvrsfasvzloqnrprfdruaoqrhrjwfctuvoomnsmuzzruukmnlvrxzertvnprnujtfzmpyqlllwruacqrbqoolwntbyttxonkorrvdbssanskmtrvdxnpwmrmlokuyaopcqlpitmtaapvaqqphorvdwrpyqsmownsfbmsbolmjoqwyetpcjlsirlqxdlwxppkowrwfy",
+   "score": 2
+  }
+ ]
+}

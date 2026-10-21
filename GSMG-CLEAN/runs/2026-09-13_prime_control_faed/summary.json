@@ -1,0 +1,18 @@
+{
+  "distinct_key_lists": 243,
+  "unique_full_outputs": 477,
+  "outputs_by_modulus": {
+    "10": 238,
+    "9": 239
+  },
+  "all_roundtrips": true,
+  "exact_matches": [],
+  "format_review_outputs": 0,
+  "ascii_printable_outputs": 0,
+  "zero_digit_positive_control": {
+    "plaintext": "thispassword",
+    "decimal_digits": "36026487402470099740341006948",
+    "passed": true
+  },
+  "conclusion": "No result authenticated by round-trip or format recognition alone; inspect reviews and retain unknown outputs"
+}

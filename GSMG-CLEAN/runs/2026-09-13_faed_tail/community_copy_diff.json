@@ -1,0 +1,28 @@
+[
+  {
+    "operation": "insert",
+    "source_span": [
+      267,
+      267
+    ],
+    "copy_span": [
+      267,
+      268
+    ],
+    "original": "",
+    "copy": "i"
+  },
+  {
+    "operation": "delete",
+    "source_span": [
+      268,
+      377
+    ],
+    "copy_span": [
+      269,
+      269
+    ],
+    "original": "dehedfdagicdbhicgaiedaehahghhcihdghfhbiicecbiichihiiigiddgehhdfdchcbafgfbhaheagegecafehgcfggggcagfhhghbaihidi",
+    "copy": ""
+  }
+]

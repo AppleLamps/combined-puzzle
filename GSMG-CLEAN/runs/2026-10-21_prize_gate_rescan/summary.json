@@ -1,0 +1,4380 @@
+{
+ "backend": "coincurve",
+ "binary_files": 905,
+ "bytes_scanned": 231979328,
+ "candidates_by_kind": {
+  "b64": 102,
+  "b64blob/hex64": 4,
+  "b64blob/raw32": 192977,
+  "dec": 576,
+  "derived_sha256": 362,
+  "derived_sha256_stripped": 296,
+  "hex64": 6728335,
+  "hexblob/dec": 37,
+  "hexblob/wif_uncompressed": 1,
+  "mini": 96,
+  "raw32": 415300,
+  "wif_compressed": 8,
+  "wif_uncompressed": 10
+ },
+ "candidates_per_file": {
+  ".gitattributes": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  ".gitignore": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  ".gitmodules": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "01_PROVEN_CHAIN.md": {
+   "b64blob/raw32": 74,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 241
+  },
+  "02_CREATOR_HINTS.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "03_OPEN_LEADS.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "04_DEAD_ENDS_TESTED.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "05_CORRECTIONS_AND_PITFALLS.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "wif_uncompressed": 1
+  },
+  "06_SESSION_LOG_REVIEW.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "07_DUTCH_LENS_REVIEW.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "08_SALPHASEION_RECIPE.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "09_UNFORESEEN_HINT_AND_LAST_WORDS.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "10_ENVELOPE_CONTEXT_AND_SOLVING_STRATEGY.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "11_UNVERIFIED_ASSUMPTIONS_AUDIT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "12_WHOLE_PUZZLE_DIRECTION_AUDIT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "13_FAED_RECOVERY_TESTS_2026-09-14.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "14_CRITICAL_REVIEW_2026-09-14.md": {
+   "derived_sha256": 1
+  },
+  "15_CLOSED_SYSTEM_RESET_2026-09-14.md": {
+   "derived_sha256": 1
+  },
+  "README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "SHA256SUMS.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 141
+  },
+  "data/DBBI_91.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/FAED_570.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/architect_letters_1539.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/architect_plaintext_readable.txt": {
+   "derived_sha256_stripped": 1
+  },
+  "data/checkerboard_vic_91.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/dbbi_minus_vic_91.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/faed_bifid_570.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/hill_ifindo_282.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/leads_reproduced.json": {
+   "b64blob/raw32": 17,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/locked_cosmic_duality.b64": {
+   "b64blob/raw32": 1313,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/locked_salphaseion_short.b64": {
+   "b64blob/raw32": 65,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/locked_terminal_phase3_2_end.b64": {
+   "b64blob/raw32": 65,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/phase2_plaintext.bin": {
+   "derived_sha256": 1
+  },
+  "data/phase3_2_plaintext.bin": {
+   "derived_sha256": 1,
+   "raw32": 2380
+  },
+  "data/phase3_plaintext.bin": {
+   "b64blob/raw32": 867,
+   "derived_sha256": 1
+  },
+  "data/poster_spiral_bits.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 133
+  },
+  "data/salphaseion_compact_1075.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 52
+  },
+  "data/seven_part_phase3_answer.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "data/verify_log.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "evidence/decentraland/decentraland_recovery_summary.json": {
+   "derived_sha256_stripped": 1,
+   "hex64": 23
+  },
+  "evidence/decentraland/puzzlepiece_mp3_structure.json": {
+   "derived_sha256_stripped": 1
+  },
+  "evidence/decentraland/puzzlepiece_side_signal_analysis.json": {
+   "derived_sha256_stripped": 1
+  },
+  "evidence/decentraland/source_map/01_01_game.ts": {
+   "derived_sha256_stripped": 1
+  },
+  "evidence/decentraland/source_map/inline_source_map_01.json": {
+   "derived_sha256_stripped": 1
+  },
+  "evidence/decentraland/source_map/source_map_extraction_summary.json": {
+   "derived_sha256_stripped": 1
+  },
+  "evidence/decentraland/telegram_audio_evidence.json": {
+   "derived_sha256_stripped": 1,
+   "hex64": 3
+  },
+  "evidence/web_archive/DEEP_RESEARCH_REPORT_2026-09-12.md": {
+   "b64": 3,
+   "b64blob/raw32": 29,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "evidence/web_archive/all_843_observed_or_ct_inferred_url_candidates.csv": {
+   "b64blob/raw32": 121,
+   "derived_sha256_stripped": 1,
+   "hex64": 171
+  },
+  "evidence/web_archive/certificate_transparency_hostnames.txt": {
+   "derived_sha256_stripped": 1
+  },
+  "evidence/web_archive/current_19_live_200_urls.txt": {
+   "derived_sha256_stripped": 1
+  },
+  "evidence/web_archive/png_structure_analysis.json": {
+   "derived_sha256_stripped": 1,
+   "hex64": 236
+  },
+  "newest-puzzle-9.15.26-creator-attachments/creator_attachments.tsv": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/extract_creator_attachments.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/jrk_messages.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/jrk_name_matches_other_account.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/telegram_by_year/2019.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/telegram_by_year/2020.txt": {
+   "b64": 1,
+   "b64blob/raw32": 20,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2,
+   "wif_uncompressed": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/telegram_by_year/2021.txt": {
+   "b64blob/raw32": 6,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2,
+   "wif_uncompressed": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/telegram_by_year/2022.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/telegram_by_year/2023.txt": {
+   "b64": 2,
+   "b64blob/raw32": 682,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2601,
+   "wif_uncompressed": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/telegram_by_year/2024.txt": {
+   "b64": 3,
+   "b64blob/raw32": 575,
+   "dec": 1,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 5368,
+   "wif_compressed": 2,
+   "wif_uncompressed": 1
+  },
+  "newest-puzzle-9.15.26-creator-attachments/telegram_by_year/2025.txt": {
+   "b64": 6,
+   "b64blob/hex64": 4,
+   "b64blob/raw32": 4357,
+   "dec": 2,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 5551,
+   "mini": 2,
+   "wif_compressed": 6,
+   "wif_uncompressed": 4
+  },
+  "newest-puzzle-9.15.26-creator-attachments/telegram_by_year/2026.txt": {
+   "b64": 2,
+   "b64blob/raw32": 1816,
+   "dec": 4,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2825,
+   "hexblob/wif_uncompressed": 1,
+   "wif_uncompressed": 1
+  },
+  "originals/cdx_wayback_gsmg.json": {
+   "b64blob/raw32": 17,
+   "derived_sha256_stripped": 1
+  },
+  "originals/pages/live_phase23_capture.html": {
+   "b64blob/raw32": 1649
+  },
+  "originals/pages/phase2_choice.html": {
+   "derived_sha256_stripped": 1
+  },
+  "originals/pages/puzzle_20201109.html": {
+   "derived_sha256_stripped": 1
+  },
+  "originals/pages/salphaseion_phase3.html": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/README.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/newest_9926_dbbi_hex/PROGRESS.md": {
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "prior_research_ledgers/puz_op/FAED_ROW_SELECTOR_REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbit_gemini_audit/CREATOR_HINTS.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbit_gemini_audit/DOOR_HINTS.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbit_gemini_audit/FINDINGS_48_addenda.md": {
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "prior_research_ledgers/rabbit_r1/FINDINGS_round1.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv2_audit/EVIDENCE_STATUS.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv2_audit/FINDINGS_audit_39_addenda.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv3_reviews/CLASSICAL_PRIORITY_REVIEW_2026-09-11.md": {
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "prior_research_ledgers/rabbitv3_reviews/GATE_CONVENTION_AUDIT_2026-09-11.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv3_reviews/PATTERN_REVIEW_2026-09-11.md": {
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "prior_research_ledgers/rabbitv3_reviews/SPECIFIED_CONSTRUCTIONS_2026-09-11.md": {
+   "derived_sha256_stripped": 1,
+   "hex64": 2
+  },
+  "prior_research_ledgers/rabbitv4_leads/ARCHITECT_DIFF_AND_FIRST_HINT.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv4_leads/CHAIN_ACTIVITY.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv4_leads/COMMUNITY_GROUP_EXPORT.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv4_leads/CREATOR_AND_PLAINTEXT_REVIEW_2026-09-10.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv4_leads/CREATOR_HINTS_UNNOTICED_2026-09-12.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv4_leads/JRK_HINTS_THAT_HELPED_2026-09-13.txt": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv4_leads/LOCKED_ENVELOPES_ANGLES.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/rabbitv4_leads/RESULTS.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/read_solve_review/HILL-CONTINUATION-2026-09-13.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/read_solve_review/HINT-SYNTHESIS.md": {
+   "b64blob/raw32": 17,
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/read_solve_review/KEY-REVIEW-2026-09-13.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/read_solve_review/REVIEW.md": {
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/read_solve_review/SESSION-RECOVERY-2026-09-13.md": {
+   "b64blob/raw32": 29,
+   "derived_sha256_stripped": 1
+  },
+  "prior_research_ledgers/read_solve_review/STATUS.md": {
+   "derived_sha256_stripped": 1
+  },
+  "reference_texts/GSMG_COMPLETE_PUZZLE_REFERENCE_2026-09-10.txt": {
+   "b64blob/raw32": 4960,
+   "derived_sha256_stripped": 1,
+   "hex64": 84
+  },
+  "reference_texts/community_github_readme_snapshot.md": {
+   "b64blob/raw32": 176,
+   "derived_sha256_stripped": 1
+  },
+  "reference_texts/executive_order_11110.txt": {
+   "derived_sha256": 1
+  },
+  "reference_texts/looking_forward_fresco_keyes_1969.txt": {
+   "derived_sha256_stripped": 1
+  },
+  "reference_texts/matrix_reloaded_architect_scene_transcript.txt": {
+   "derived_sha256": 1
+  },
+  "reference_texts/prize_address_dossier.txt": {
+   "b64blob/raw32": 23,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 130
+  },
+  "runs/2026-09-13_assumption_audit/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_assumption_audit/all_padding_valid.jsonl": {
+   "b64blob/raw32": 4097,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 705699
+  },
+  "runs/2026-09-13_assumption_audit/audit.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_assumption_audit/recheck_755.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_assumption_audit/results.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_b_be_hints/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_b_be_hints/mapping_verified.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_b_be_hints/search_hits.json": {
+   "b64blob/raw32": 169,
+   "derived_sha256": 1,
+   "hex64": 1
+  },
+  "runs/2026-09-13_b_be_hints/selected_sources.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_accounting/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_dbbi_accounting/blocked_compositions.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_accounting/complete_compositions.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_accounting/ownership.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_accounting/reserved_e_manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_accounting/reserved_e_results.json": {
+   "derived_sha256": 1,
+   "hex64": 38651
+  },
+  "runs/2026-09-13_dbbi_accounting/reserved_e_summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_accounting/summary.json": {
+   "derived_sha256": 1,
+   "hex64": 2
+  },
+  "runs/2026-09-13_dbbi_prime_prefix/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_dbbi_prime_prefix/grammar_manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_prime_prefix/grammar_results.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_prime_prefix/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_dbbi_prime_prefix/results.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_envelope_context/source_messages.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_envelope_context/verified_context.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_constraints/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_faed_constraints/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_constraints/required_keystreams.json": {
+   "b64blob/raw32": 6559,
+   "derived_sha256": 1,
+   "hex64": 676548
+  },
+  "runs/2026-09-13_faed_constraints/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_structure/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_faed_structure/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_structure/permutation_scores.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_structure/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_structure/token_manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_structure/token_parses.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_structure/token_summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_tail/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_faed_tail/community_copy_diff.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_tail/digest_trials.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_tail/integer_outputs.json": {
+   "derived_sha256": 1,
+   "hex64": 49
+  },
+  "runs/2026-09-13_faed_tail/null_scores.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_tail/source_trace.json": {
+   "b64blob/raw32": 333,
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_tail/split_profile.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_faed_tail/summary.json": {
+   "derived_sha256": 1,
+   "hex64": 2
+  },
+  "runs/2026-09-13_format_inspection/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_format_inspection/all_results.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_format_inspection/manifest.json": {
+   "derived_sha256": 1,
+   "hex64": 1
+  },
+  "runs/2026-09-13_l5_backcheck/REPORT.md": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_l5_backcheck/controls_recheck.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_l5_backcheck/manifest.json": {
+   "derived_sha256": 1,
+   "hex64": 4289
+  },
+  "runs/2026-09-13_l5_backcheck/run_l5_backcheck.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_l5_backcheck/run_log.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2
+  },
+  "runs/2026-09-13_label_models/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_label_models/console.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 424
+  },
+  "runs/2026-09-13_label_models/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_label_models/matrix_checks.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_label_models/quote_checks.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_last_words_referents/REPORT.md": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_last_words_referents/candidates.jsonl": {
+   "b64": 8,
+   "b64blob/raw32": 1268,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_last_words_referents/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_last_words_referents/results.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_last_words_referents/run_last_words.py": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_last_words_referents/run_stdout.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/REPORT.md": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/results.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/run_pipeline.py": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/run_stdout.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/v1/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/v1/results.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/v1/run_pipeline.py": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_matrixsum_pipeline/v1/run_stdout.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_missing_prime_operation/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_missing_prime_operation/bit_constraint_check.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_missing_prime_operation/contexts.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_missing_prime_operation/creator_operational_search.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_offwhite_alignment/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_offwhite_alignment/continuation_check.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_offwhite_alignment/grid.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_offwhite_alignment/guided_parses.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_offwhite_alignment/marked_cells.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_offwhite_alignment/payload_60.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_offwhite_alignment/poster_sum_bridge.json": {
+   "dec": 4,
+   "derived_sha256": 1,
+   "hex64": 4
+  },
+  "runs/2026-09-13_offwhite_alignment/summary.json": {
+   "dec": 1,
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_operation_instructions/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_operation_instructions/contexts.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_operation_instructions/coverage.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_operation_instructions/creator_inventory.json": {
+   "b64": 1,
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_operation_instructions/search_hits.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_operation_instructions/source_checks.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_prime_control_faed/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_prime_control_faed/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_prime_control_faed/outputs.json": {
+   "derived_sha256": 1,
+   "hex64": 436204
+  },
+  "runs/2026-09-13_prime_control_faed/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_recheck_755/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_recheck_755/controls.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_recheck_755/embedded_review.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_recheck_755/pad2_review.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_recheck_755/reviewed_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_recheck_755/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_salphaseion_construction/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_salphaseion_construction/segments.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_salphaseion_construction/sum_key_manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_salphaseion_construction/sum_key_outputs.json": {
+   "derived_sha256": 1,
+   "hex64": 4590
+  },
+  "runs/2026-09-13_salphaseion_construction/sum_key_summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_salphaseion_construction/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_salphaseion_roles/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_salphaseion_roles/all_padding_valid.jsonl": {
+   "b64blob/raw32": 933,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 503387
+  },
+  "runs/2026-09-13_salphaseion_roles/candidates.jsonl": {
+   "b64": 2,
+   "b64blob/raw32": 7680,
+   "dec": 14,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 85203
+  },
+  "runs/2026-09-13_salphaseion_roles/followup_summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_salphaseion_roles/fragment_reviews.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_salphaseion_roles/inspections.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_salphaseion_roles/manifest.json": {
+   "derived_sha256": 1,
+   "hex64": 2
+  },
+  "runs/2026-09-13_salphaseion_roles/results.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_salphaseion_roles/structural_results.json": {
+   "b64blob/raw32": 280,
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_seven_key_bifid/REPORT.md": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_seven_key_bifid/candidates.json": {
+   "b64blob/raw32": 50321,
+   "hex64": 615001,
+   "mini": 86
+  },
+  "runs/2026-09-13_seven_key_bifid/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_seven_key_bifid/results.json": {
+   "b64blob/raw32": 43212,
+   "derived_sha256": 1,
+   "hex64": 544476
+  },
+  "runs/2026-09-13_seven_key_bifid/run_log.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_seven_key_bifid/run_seven_key_bifid.py": {
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "runs/2026-09-13_whole_puzzle/verified_connections.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_zero_envelopes/REPORT.md": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_zero_envelopes/arm_A_candidates.json": {
+   "b64blob/raw32": 2470,
+   "derived_sha256": 1,
+   "hex64": 4942
+  },
+  "runs/2026-09-13_zero_envelopes/arm_B_passwords.hex": {
+   "dec": 154,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 357494,
+   "hexblob/dec": 22
+  },
+  "runs/2026-09-13_zero_envelopes/arm_C_candidates.json": {
+   "b64": 4,
+   "b64blob/raw32": 10349,
+   "derived_sha256": 1,
+   "hex64": 10754
+  },
+  "runs/2026-09-13_zero_envelopes/arm_D_passwords.hex": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 53616,
+   "hexblob/dec": 1
+  },
+  "runs/2026-09-13_zero_envelopes/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_zero_envelopes/results.json": {
+   "b64blob/raw32": 344,
+   "dec": 2,
+   "derived_sha256": 1,
+   "hex64": 122456,
+   "hexblob/dec": 2
+  },
+  "runs/2026-09-13_zero_envelopes/run_log.txt": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_zero_envelopes/run_zero_envelopes.py": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_zero_envelopes/summarize.py": {
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_zeroing_operands/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-13_zeroing_operands/console.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 109
+  },
+  "runs/2026-09-13_zeroing_operands/field_outputs.json": {
+   "dec": 6,
+   "derived_sha256": 1,
+   "hex64": 19357
+  },
+  "runs/2026-09-13_zeroing_operands/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_zeroing_operands/poster_character_outputs.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-13_zeroing_operands/poster_outputs.json": {
+   "derived_sha256": 1,
+   "hex64": 612
+  },
+  "runs/2026-09-14_adversarial_reanalysis/ERRATA.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/README.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp0_reproduction/repro_dbbi_parse.json": {
+   "b64blob/raw32": 64,
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp0_reproduction/repro_dbbi_parse.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/SPEC.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/controls.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/controls_v1_voided.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/manifest.json": {
+   "derived_sha256": 1,
+   "hex64": 8
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/planted/2026-09-14_board_shape_sums__all_outputs.jsonl": {
+   "b64blob/raw32": 531,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 52
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/planted/2026-09-14_colour_selectors__all_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/planted/2026-09-14_keyed_faed__all_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/planted/2026-09-14_m4_zeroing_oracles__candidates.jsonl": {
+   "b64": 2,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/planted/2026-09-14_matrixsum_lastwords__all_outputs.jsonl": {
+   "b64": 27,
+   "b64blob/raw32": 17856,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "mini": 4
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/planted/2026-09-14_pointer_selectors__candidates.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 544
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/planted/2026-09-14_tail_cipher__all_outputs.jsonl": {
+   "b64blob/raw32": 1003,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "mini": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/rerun_address_oracle.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/results.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/run.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp1_address_oracle_rerun/run_v1_voided.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/SPEC.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00001_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00002_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00003_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00004_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00005_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00006_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00007_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00008_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00009_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00010_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00011_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00012_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00013_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00014_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00015_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00016_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00017_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00018_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00019_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00020_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00021_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00022_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00023_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00024_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00025_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00026_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00027_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00028_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00029_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00030_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00031_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00032_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00033_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00034_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00035_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00036_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00037_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00038_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00039_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00040_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00041_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00042_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00043_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00044_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00045_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00046_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00047_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00048_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00049_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00050_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00051_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00052_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00053_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00054_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00055_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00056_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00057_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00058_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00059_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00060_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00061_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00062_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00063_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00064_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00065_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00066_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00067_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00068_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00069_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00070_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00071_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00072_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00073_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00074_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00075_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00076_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00077_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00078_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00079_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00080_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00081_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00082_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00083_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00084_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00085_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00086_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00087_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00088_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00089_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00090_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00091_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00092_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00093_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00094_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00095_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00096_F1_raw_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00097_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00098_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00099_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00100_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00101_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00102_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00103_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00104_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00105_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00106_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00107_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00108_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00109_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00110_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00111_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00112_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00113_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00114_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00115_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00116_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00117_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00118_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00119_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00120_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00121_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00122_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00123_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00124_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00125_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00126_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00127_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00128_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00129_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00130_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00131_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00132_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00133_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00134_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00135_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00136_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00137_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00138_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00139_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00140_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00141_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00142_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00143_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00144_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00145_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00146_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00147_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00148_F1_raw_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00149_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00150_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00151_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00152_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00153_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00154_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00155_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00156_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00157_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00158_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00159_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00160_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00161_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00162_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00163_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00164_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00165_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00166_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00167_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00168_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00169_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00170_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00171_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00172_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00173_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00174_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00175_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00176_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00177_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00178_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00179_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00180_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00181_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00182_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00183_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00184_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00185_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00186_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00187_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00188_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00189_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00190_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00191_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00192_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00193_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00194_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00195_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00196_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00197_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00198_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00199_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00200_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00201_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00202_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00203_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00204_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00205_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00206_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00207_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00208_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00209_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00210_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00211_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00212_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00213_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00214_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00215_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00216_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00217_F1_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00218_F1_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00219_F1_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00220_F1_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00221_F1_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00222_F1_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00223_F1_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00224_F1_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00225_F1_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00226_F1_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00227_F1_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00228_F1_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00229_F1_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00230_F1_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00231_F1_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00232_F1_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00233_F1_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00234_F1_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00235_F2_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00236_F2_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00237_F2_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00238_F2_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00239_F2_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00240_F2_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00241_F2_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00242_F2_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00243_F2_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00244_F2_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00245_F2_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00246_F2_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00247_F2_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00248_F2_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00249_F2_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00250_F2_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00251_F2_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00252_F2_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00253_F2_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00254_F2_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00255_F2_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00256_F2_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00257_F2_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00258_F2_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00259_F2_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00260_F2_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00261_F2_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00262_F2_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00263_F2_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00264_F2_sha256hex_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00265_F2_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00266_F2_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00267_F2_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00268_F2_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00269_F2_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00270_F2_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00271_F3_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00272_F3_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00273_F3_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00274_F3_raw_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00275_F3_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00276_F3_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00289_F3_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00290_F3_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00291_F3_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00292_F3_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00293_F3_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00294_F3_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00295_F3_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00296_F3_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00297_F3_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00298_F3_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00299_F3_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00300_F3_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00301_F3_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00302_F3_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00303_F3_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00304_F3_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00305_F3_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00306_F3_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00307_F4_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00308_F4_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00309_F4_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00310_F4_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00311_F4_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00312_F4_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00313_F4_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00314_F4_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00315_F4_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00316_F4_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00317_F4_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00318_F4_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00319_F4_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00320_F4_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00321_F4_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00322_F4_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00323_F4_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00324_F4_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00325_F4_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00326_F4_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00327_F4_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00328_F4_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00329_F4_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00330_F4_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00331_F4_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00332_F4_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00333_F4_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00334_F4_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00335_F4_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00336_F4_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00337_F4_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00338_F4_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00339_F4_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00340_F4_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00341_F4_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00342_F4_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00343_F4_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00344_F4_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00345_F4_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00346_F4_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00347_F4_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00348_F4_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00349_F4_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00350_F4_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00351_F4_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00352_F4_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00353_F4_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00354_F4_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00355_F4_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00356_F4_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00357_F4_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00358_F4_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00359_F4_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00360_F4_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00361_F4_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00362_F4_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00363_F4_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00364_F4_raw_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00365_F4_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00366_F4_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00367_F4_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00368_F4_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00369_F4_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00370_F4_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00371_F4_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00372_F4_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00373_F4_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00374_F4_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00375_F4_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00376_F4_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00377_F4_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00378_F4_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00379_F4_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00380_F4_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00381_F4_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00382_F4_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00383_F4_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00384_F4_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00385_F4_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00386_F4_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00387_F4_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00388_F4_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00389_F4_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00390_F4_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00391_F4_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00392_F4_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00393_F4_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00394_F4_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00395_F4_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00396_F4_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00397_F4_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00398_F4_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00399_F4_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00400_F4_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00401_F4_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00402_F4_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00403_F4_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00404_F4_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00405_F4_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00406_F4_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00407_F4_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00408_F4_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00409_F4_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00410_F4_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00411_F4_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00412_F4_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00413_F4_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00414_F4_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00415_F5_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00416_F5_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00417_F5_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00418_F5_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00419_F5_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00420_F5_raw_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00421_F5_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00422_F5_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00423_F5_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00424_F5_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00425_F5_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00426_F5_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00427_F5_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00428_F5_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00429_F5_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00430_F5_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00431_F5_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00432_F5_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00433_F5_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00434_F5_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00435_F5_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00436_F5_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00437_F5_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00438_F5_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00439_F5_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00440_F5_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00441_F5_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00442_F5_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00443_F5_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00444_F5_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00445_F5_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00446_F5_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00447_F5_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00448_F5_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00449_F5_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00450_F5_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00451_F5_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00452_F5_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00453_F5_raw_sha256_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00454_F5_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00455_F5_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00456_F5_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00457_F5_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00458_F5_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00459_F5_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00460_F5_sha256hex_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00461_F5_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00462_F5_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00463_F5_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00464_F5_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00465_F5_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00466_F5_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00467_F5_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00468_F5_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00469_F5_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00470_F5_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00471_F5_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00472_F5_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00473_F5_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00474_F5_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00475_F5_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00476_F5_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00477_F5_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00478_F5_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00479_F5_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00480_F5_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00481_F5_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00482_F5_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00483_F5_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00484_F5_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00485_F5_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00486_F5_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00487_F5_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00488_F5_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00489_F5_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00490_F5_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00491_F5_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00492_F5_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00493_F5_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00494_F5_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00495_F5_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00496_F5_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00497_F5_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00498_F5_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00499_F5_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00500_F5_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00501_F5_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00502_F5_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00503_F5_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00504_F5_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00505_F5_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00506_F5_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00507_F5_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00508_F5_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00509_F5_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00510_F5_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00511_F5_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00512_F5_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00513_F5_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00514_F5_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00515_F5_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00516_F5_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00517_F5_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00518_F5_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00519_F5_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00520_F5_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00521_F5_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00522_F5_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00523_F6_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00524_F6_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00525_F6_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00526_F6_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00527_F6_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00528_F6_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00529_F6_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00530_F6_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00531_F6_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00532_F6_sha256hex_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00533_F6_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00534_F6_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00535_F6_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00536_F6_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00537_F6_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00538_F6_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00539_F6_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00540_F6_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00541_F6_raw_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00542_F6_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00543_F6_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00544_F6_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00545_F6_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00546_F6_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00547_F6_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00548_F6_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00549_F6_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00550_F6_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00551_F6_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00552_F6_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00553_F6_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00554_F6_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00555_F6_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00556_F6_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00557_F6_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00558_F6_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00559_F6_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00560_F6_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00561_F6_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00562_F6_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00563_F6_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00564_F6_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00565_F6_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00566_F6_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00567_F6_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00568_F6_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00569_F6_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00570_F6_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00571_F6_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00572_F6_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00573_F6_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00574_F6_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00575_F6_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00576_F6_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00577_F6_raw_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00578_F6_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00579_F6_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00580_F6_raw_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00581_F6_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00582_F6_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00583_F6_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00584_F6_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00585_F6_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00586_F6_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00587_F6_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00588_F6_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00589_F6_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00590_F6_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00591_F6_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00592_F6_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00593_F6_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00594_F6_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00595_F7_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00596_F7_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00597_F7_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00598_F7_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00599_F7_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00600_F7_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00601_F7_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00602_F7_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00603_F7_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00604_F7_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00605_F7_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00606_F7_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00607_F7_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00608_F7_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00609_F7_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00610_F7_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00611_F7_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00612_F7_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00613_F7_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00614_F7_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00615_F7_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00616_F7_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00617_F7_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00618_F7_raw_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00619_F7_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00620_F7_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00621_F7_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00622_F7_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00623_F7_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00624_F7_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00625_F7_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00626_F7_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00627_F7_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00628_F7_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00629_F7_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00630_F7_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00631_F7_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00632_F7_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00633_F7_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00634_F7_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00635_F7_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00636_F7_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00637_F7_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00638_F7_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00639_F7_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00640_F7_sha256hex_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00641_F7_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00642_F7_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00643_F7_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00644_F7_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00645_F7_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00646_F7_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00647_F7_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00648_F7_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00649_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00650_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00651_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00652_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00653_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00654_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00655_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00656_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00657_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00658_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00659_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00660_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00661_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00662_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00663_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00664_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00665_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00666_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00667_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00668_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00669_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00670_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00671_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00672_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00673_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00674_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00675_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00676_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00677_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00678_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00679_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00680_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00681_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00682_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00683_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00684_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00685_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00686_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00687_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00688_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00689_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00690_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00691_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00692_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00693_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00694_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00695_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00696_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00697_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00698_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00699_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00700_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00701_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00702_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00703_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00704_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00705_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00706_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00707_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00708_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00709_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00710_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00711_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00712_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00713_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00714_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00715_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00716_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00717_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00718_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00719_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00720_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00721_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00722_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00723_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00724_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00725_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00726_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00727_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00728_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00729_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00730_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00731_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00732_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00733_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00734_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00735_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00736_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00737_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00738_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00739_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00740_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00741_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00742_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00743_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00744_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00745_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00746_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00747_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00748_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00749_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00750_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00751_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00752_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00753_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00754_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00755_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00756_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00757_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00758_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00759_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00760_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00761_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00762_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00763_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00764_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00765_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00766_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00767_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00768_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00769_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00770_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00771_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00772_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00773_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00774_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00775_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00776_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00777_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00778_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00779_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00780_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00781_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00782_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00783_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00784_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00785_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00786_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00787_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00788_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00789_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00790_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00791_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00792_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00793_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00794_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00795_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00796_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00797_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00798_F8_raw_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00799_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00800_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00801_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00802_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00803_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00804_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00805_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00806_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00807_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00808_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00809_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00810_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00811_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00812_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00813_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00814_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00815_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00816_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00817_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00818_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00819_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00820_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00821_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00822_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00823_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00824_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00825_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00826_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00827_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00828_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00829_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00830_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00831_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00832_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00833_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00834_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00835_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00836_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00837_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00838_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00839_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00840_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00841_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00842_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00843_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00844_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00845_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00846_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00847_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00848_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00849_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00850_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00851_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00852_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00853_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00854_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00855_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00856_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00857_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00858_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00859_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00860_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00861_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00862_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00863_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00864_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00865_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00866_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00867_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00868_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00869_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00870_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00871_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00872_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00873_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00874_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00875_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00876_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00877_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00878_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00879_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00880_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00881_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00882_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00883_F8_raw_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00884_F8_raw_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00885_F8_raw_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00886_F8_raw_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00887_F8_raw_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00888_F8_raw_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00889_F8_sha256hex_sha256_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00890_F8_sha256hex_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00891_F8_sha256hex_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00892_F8_sha256hex_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00893_F8_sha256hex_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00894_F8_sha256hex_md5_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00895_F8_sha256hex_twice_sha256_locked_salphaseion_short.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00896_F8_sha256hex_twice_sha256_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00897_F8_sha256hex_twice_sha256_locked_cosmic_duality.bin": {
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00898_F8_sha256hex_twice_md5_locked_salphaseion_short.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00899_F8_sha256hex_twice_md5_locked_terminal_phase3_2_end.bin": {
+   "raw32": 49
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/outputs/00900_F8_sha256hex_twice_md5_locked_cosmic_duality.bin": {
+   "derived_sha256_stripped": 1,
+   "raw32": 1297
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/results.jsonl.json": {
+   "derived_sha256": 1,
+   "hex64": 980
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/run.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/run_exp2.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/REPLACEMENT_TABLE.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/all_outputs.jsonl": {
+   "b64": 24,
+   "b64blob/raw32": 13663,
+   "dec": 308,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 210613,
+   "mini": 2
+  },
+  "runs/2026-09-14_aligned_replacement_replay/kedri_source.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/matrix_inventory.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/replacement_table.csv": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/scott_source.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/stability.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/sum_lists.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_replay/tables.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_v1/all_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_aligned_replacement_v1/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_v1/sum_lists.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_v1/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_v2/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_v2/independent_verification.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_aligned_replacement_v2/key_format_check.json": {
+   "derived_sha256": 1,
+   "hex64": 1
+  },
+  "runs/2026-09-14_aligned_replacement_v2/key_scan.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_architect_differential/alignments.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_architect_differential/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 2
+  },
+  "runs/2026-09-14_architect_differential/results.json": {
+   "b64": 2,
+   "b64blob/raw32": 4884,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "mini": 1
+  },
+  "runs/2026-09-14_board_shape_sums/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_board_shape_sums/all_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_board_shape_sums/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_board_shape_sums/rerun.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_board_shape_sums/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_colour_selectors/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_colour_selectors/all_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_colour_selectors/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_colour_selectors/rerun.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_colour_selectors/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_critical_review/audit.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/continuation.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/forward_comparisons.json": {
+   "b64blob/raw32": 3756,
+   "dec": 3,
+   "derived_sha256": 1,
+   "hex64": 7698
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/forward_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/grid.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/independent_verification.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/models.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_dbbi_forward_comparison/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_formatted_checkerboard/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_formatted_checkerboard/models.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_formatted_checkerboard/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_keyed_faed/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_keyed_faed/all_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_keyed_faed/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_keyed_faed/rerun.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_keyed_faed/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_lossy_hill/control_cipher.txt": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_lossy_hill/control_expected.json": {
+   "derived_sha256": 1,
+   "hex64": 507
+  },
+  "runs/2026-09-14_lossy_hill/control_pair_survivors.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 526314
+  },
+  "runs/2026-09-14_lossy_hill/independent_verification.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_lossy_hill/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_lossy_hill/models.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_lossy_hill/pair_survivors.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 332085
+  },
+  "runs/2026-09-14_lossy_hill/passages.json": {
+   "b64blob/raw32": 5719,
+   "derived_sha256": 1,
+   "hex64": 1265352
+  },
+  "runs/2026-09-14_lossy_hill/restoration_results.json": {
+   "derived_sha256": 1,
+   "hex64": 135985
+  },
+  "runs/2026-09-14_lossy_hill/restoration_summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_lossy_hill/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_m4_zeroing_oracles/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_m4_zeroing_oracles/assignment_scan.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_m4_zeroing_oracles/candidates.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_m4_zeroing_oracles/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_m4_zeroing_oracles/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_matrixsum_lastwords/all_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_matrixsum_lastwords/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_matrixsum_lastwords/rerun.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_matrixsum_lastwords/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_offwhite_colour_totals/observation.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_payload60_matrixsum/REPORT.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_payload60_matrixsum/decoded_byte_sum_readings.json": {
+   "dec": 6,
+   "derived_sha256": 1,
+   "hex64": 24
+  },
+  "runs/2026-09-14_payload60_matrixsum/direct_integer.bin": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_payload60_matrixsum/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_payload60_matrixsum/payload_sum_readings.json": {
+   "dec": 5,
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_payload60_matrixsum/poster_boards.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_payload60_matrixsum/poster_serializations.json": {
+   "dec": 60,
+   "derived_sha256": 1,
+   "hex64": 46714,
+   "hexblob/dec": 12
+  },
+  "runs/2026-09-14_payload60_matrixsum/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_pointer_selectors/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_pointer_selectors/candidates.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_pointer_selectors/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_pointer_selectors/prime_selector_decodes.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_pointer_selectors/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_pointer_selectors/run.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_pointer_selectors/window_scan.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_source_cipher_keys/controls.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_source_cipher_keys/decimal_prime_matrices.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_source_cipher_keys/keys.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1,
+   "hex64": 1
+  },
+  "runs/2026-09-14_source_cipher_keys/manifest.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_source_cipher_keys/summary.json": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_structural_key_formats/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_structural_key_formats/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_structural_key_formats/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_structural_key_formats/run.log": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_tail_cipher/REPORT.md": {
+   "derived_sha256": 1
+  },
+  "runs/2026-09-14_tail_cipher/all_outputs.jsonl": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_tail_cipher/manifest.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_tail_cipher/rerun.log": {
+   "b64blob/raw32": 34,
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "runs/2026-09-14_tail_cipher/results.json": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram/ChatExport_2026-09-13_result.json": {
+   "b64": 11,
+   "b64blob/raw32": 493
+  },
+  "telegram/CommunityGroup_2026-09-10_result.json": {
+   "b64": 4,
+   "b64blob/raw32": 81,
+   "dec": 1,
+   "hex64": 7
+  },
+  "telegram/messages_missing_from_2026-09-13_export.json": {
+   "derived_sha256": 1
+  },
+  "telegram/sourcebooks/CREATOR_MESSAGES.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram/sourcebooks/FORWARDED_CREATOR_POSTS.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram/sourcebooks/FORWARDED_ONLY_TEXTS.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram/sourcebooks/MEDIA_REVIEW.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "telegram/sourcebooks/NEW_YEAR_SEQUENCE.md": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/aligned_replacement_pipeline.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_architect_differential.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_b_be_hints.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/audit_board_shape_sums.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_colour_selectors.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_critical_review.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_dbbi_accounting.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/audit_dbbi_prime_grammar.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/audit_dbbi_prime_prefix.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/audit_envelope_context.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/audit_faed_constraints.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/audit_faed_tail.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/audit_keyed_faed.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_m4_zeroing_oracles.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_matrixsum_lastwords.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_missing_prime_operation.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/audit_pointer_selectors.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_structural_key_formats.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_tail_cipher.py": {
+   "derived_sha256": 1
+  },
+  "tools/audit_whole_puzzle.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/check_candidate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/check_offwhite_colour_totals.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/check_replacement_outputs.py": {
+   "derived_sha256": 1
+  },
+  "tools/compare_dbbi_forward_models.py": {
+   "derived_sha256": 1
+  },
+  "tools/compare_label_models.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/find_operation_instructions.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/inspect_decrypts.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/prize_gate.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/profile_faed_structure.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/reconstruct_salphaseion.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/reproduce_leads.py": {
+   "derived_sha256_stripped": 1
+  },
+  "tools/restore_lossy_decimal.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/search_lossy_hill_pairs.cpp": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/solve_faed_formatted_checkerboard.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/solve_faed_lossy_hill.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/solve_faed_source_keys.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_aligned_replacement_pipeline.py": {
+   "derived_sha256": 1
+  },
+  "tools/test_compare_dbbi_forward_models.py": {
+   "derived_sha256": 1
+  },
+  "tools/test_faed_variable_tokens.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_hill_reserved_e.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_inspect_decrypts.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_offwhite_marker_alignment.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_payload60_matrixsum.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_prime_control_faed.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_salphaseion_roles.py": {
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_sum_key_faed.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/test_zeroing_operands.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/trace_faed_tail_sources.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/verify_chain.py": {
+   "derived_sha256_stripped": 1
+  },
+  "tools/verify_dbbi_forward_comparison.py": {
+   "derived_sha256": 1
+  },
+  "tools/verify_lossy_hill_search.py": {
+   "derived_sha256": 1,
+   "derived_sha256_stripped": 1
+  },
+  "tools/verify_replacement_artifacts.py": {
+   "derived_sha256": 1
+  }
+ },
+ "files_scanned": 1379,
+ "hits": [],
+ "media_or_archive_skipped_by_extension": {
+  ".exe": 1,
+  ".jpg": 10,
+  ".mp3": 2,
+  ".mp4": 13,
+  ".png": 14,
+  ".tgs": 1,
+  ".webp": 1
+ },
+ "other_skips": [],
+ "prize_gate_sha256": "9dfa1d2fb4769d57997fc9b438f1bb566ddd7b604bdefd7cd745745ff14594b3",
+ "prize_gate_version": "1.0.1",
+ "seconds": 450.1,
+ "selftest": "PASS",
+ "targets": {
+  "better_half": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "half": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe"
+ },
+ "unique_scalars_gated": 7338104
+}

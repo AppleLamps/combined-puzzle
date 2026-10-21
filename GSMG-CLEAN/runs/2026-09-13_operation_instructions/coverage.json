@@ -1,0 +1,14 @@
+{
+  "PUZ": {
+    "original_creator_messages": 492,
+    "forwarded_creator_messages": 325,
+    "search_hits": 155,
+    "sha256": "22a837cf4ebc05786a8ffb8220688e634f361764f9f214de5710b06c9af0d505"
+  },
+  "COMM": {
+    "original_creator_messages": 5412,
+    "forwarded_creator_messages": 6,
+    "search_hits": 81,
+    "sha256": "c9775f08dd1e7fde8f554e0eb5da819f5ac079b2a8aa4f3828d9065ead18b851"
+  }
+}

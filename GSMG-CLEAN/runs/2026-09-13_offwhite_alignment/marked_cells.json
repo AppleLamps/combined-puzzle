@@ -1,0 +1,627 @@
+[
+  {
+    "index": 7,
+    "row": 7,
+    "column": 0,
+    "box": [
+      0,
+      525,
+      75,
+      600
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 1
+  },
+  {
+    "index": 15,
+    "row": 13,
+    "column": 2,
+    "box": [
+      150,
+      975,
+      225,
+      1047
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5400,
+    "total_pixels": 5400,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 2
+  },
+  {
+    "index": 23,
+    "row": 13,
+    "column": 10,
+    "box": [
+      750,
+      975,
+      825,
+      1047
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5400,
+    "total_pixels": 5400,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 3
+  },
+  {
+    "index": 31,
+    "row": 8,
+    "column": 13,
+    "box": [
+      975,
+      600,
+      1047,
+      675
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5400,
+    "total_pixels": 5400,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 4
+  },
+  {
+    "index": 39,
+    "row": 0,
+    "column": 13,
+    "box": [
+      975,
+      0,
+      1047,
+      75
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5400,
+    "total_pixels": 5400,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 5
+  },
+  {
+    "index": 47,
+    "row": 0,
+    "column": 5,
+    "box": [
+      375,
+      0,
+      450,
+      75
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 6
+  },
+  {
+    "index": 55,
+    "row": 4,
+    "column": 1,
+    "box": [
+      75,
+      300,
+      150,
+      375
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 7
+  },
+  {
+    "index": 63,
+    "row": 12,
+    "column": 1,
+    "box": [
+      75,
+      900,
+      150,
+      975
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 8
+  },
+  {
+    "index": 71,
+    "row": 12,
+    "column": 9,
+    "box": [
+      675,
+      900,
+      750,
+      975
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 9
+  },
+  {
+    "index": 79,
+    "row": 7,
+    "column": 12,
+    "box": [
+      900,
+      525,
+      975,
+      600
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 10
+  },
+  {
+    "index": 87,
+    "row": 1,
+    "column": 10,
+    "box": [
+      750,
+      75,
+      825,
+      150
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 11
+  },
+  {
+    "index": 95,
+    "row": 1,
+    "column": 2,
+    "box": [
+      150,
+      75,
+      225,
+      150
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 12
+  },
+  {
+    "index": 103,
+    "row": 9,
+    "column": 2,
+    "box": [
+      150,
+      675,
+      225,
+      750
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 13
+  },
+  {
+    "index": 111,
+    "row": 11,
+    "column": 8,
+    "box": [
+      600,
+      825,
+      675,
+      900
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 14
+  },
+  {
+    "index": 119,
+    "row": 6,
+    "column": 11,
+    "box": [
+      825,
+      450,
+      900,
+      525
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 15
+  },
+  {
+    "index": 127,
+    "row": 2,
+    "column": 7,
+    "box": [
+      525,
+      150,
+      600,
+      225
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 16
+  },
+  {
+    "index": 135,
+    "row": 6,
+    "column": 3,
+    "box": [
+      225,
+      450,
+      300,
+      525
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 17
+  },
+  {
+    "index": 143,
+    "row": 10,
+    "column": 7,
+    "box": [
+      525,
+      750,
+      600,
+      825
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 18
+  },
+  {
+    "index": 151,
+    "row": 5,
+    "column": 10,
+    "box": [
+      750,
+      375,
+      825,
+      450
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 19
+  },
+  {
+    "index": 159,
+    "row": 3,
+    "column": 4,
+    "box": [
+      300,
+      225,
+      375,
+      300
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 20
+  },
+  {
+    "index": 163,
+    "row": 7,
+    "column": 4,
+    "box": [
+      300,
+      525,
+      375,
+      600
+    ],
+    "rgb": [
+      254,
+      254,
+      254
+    ],
+    "color": "F",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      254,
+      254,
+      254
+    ],
+    "ordinal": 21
+  },
+  {
+    "index": 167,
+    "row": 9,
+    "column": 6,
+    "box": [
+      450,
+      675,
+      525,
+      750
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 22
+  },
+  {
+    "index": 175,
+    "row": 4,
+    "column": 9,
+    "box": [
+      675,
+      300,
+      750,
+      375
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 23
+  },
+  {
+    "index": 183,
+    "row": 8,
+    "column": 5,
+    "box": [
+      375,
+      600,
+      450,
+      675
+    ],
+    "rgb": [
+      63,
+      72,
+      204
+    ],
+    "color": "B",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      63,
+      72,
+      204
+    ],
+    "ordinal": 24
+  },
+  {
+    "index": 191,
+    "row": 5,
+    "column": 6,
+    "box": [
+      450,
+      375,
+      525,
+      450
+    ],
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "color": "Y",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      255,
+      242,
+      0
+    ],
+    "ordinal": 25
+  }
+]

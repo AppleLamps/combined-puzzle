@@ -1,0 +1,145 @@
+SELFTEST PASSED (envelope open, hash160 of Half pubkey, EC k=1, WIF, raw/hex detectors, pattern helper)
+self-tests passed (envelope open, coincurve==pure on 24 scalars, L5 gate accept/reject)
+{
+ "a1z26": {
+  "real_max": 1,
+  "control_max": 9,
+  "control_p50": 1,
+  "control_p99": 8,
+  "controls_ge_real": 389,
+  "p_value": 0.9726,
+  "planted_score": 47,
+  "planted_beats_all_controls": true,
+  "SIGNAL": false
+ },
+ "mod26a0": {
+  "real_max": 9,
+  "control_max": 17,
+  "control_p50": 5,
+  "control_p99": 16,
+  "controls_ge_real": 107,
+  "p_value": 0.2693,
+  "SIGNAL": false
+ },
+ "mod26a1": {
+  "real_max": 5,
+  "control_max": 16,
+  "control_p50": 5,
+  "control_p99": 16,
+  "controls_ge_real": 208,
+  "p_value": 0.5212,
+  "planted_score": 47,
+  "planted_beats_all_controls": true,
+  "SIGNAL": false
+ },
+ "ascii": {
+  "real_max": 1,
+  "control_max": 11,
+  "control_p50": 1,
+  "control_p99": 8,
+  "controls_ge_real": 378,
+  "p_value": 0.9451,
+  "SIGNAL": false
+ },
+ "parity8": {
+  "real_max": 0,
+  "control_max": 1,
+  "control_p50": 0,
+  "control_p99": 1,
+  "controls_ge_real": 400,
+  "p_value": 1.0,
+  "SIGNAL": false
+ },
+ "decimal_bytes": {
+  "real_max": 0,
+  "control_max": 1,
+  "control_p50": 0,
+  "control_p99": 1,
+  "controls_ge_real": 400,
+  "p_value": 1.0,
+  "SIGNAL": false
+ },
+ "arch_idx0": {
+  "real_max": 9,
+  "control_max": 22,
+  "control_p50": 10,
+  "control_p99": 19,
+  "controls_ge_real": 332,
+  "p_value": 0.8304,
+  "planted_score": 56,
+  "planted_beats_all_controls": true,
+  "SIGNAL": false
+ },
+ "arch_idx1": {
+  "real_max": 9,
+  "control_max": 27,
+  "control_p50": 10,
+  "control_p99": 19,
+  "controls_ge_real": 351,
+  "p_value": 0.8778,
+  "SIGNAL": false
+ },
+ "sm_idx0": {
+  "real_max": 5,
+  "control_max": 25,
+  "control_p50": 10,
+  "control_p99": 20,
+  "controls_ge_real": 400,
+  "p_value": 1.0,
+  "SIGNAL": false
+ },
+ "sm_idx1": {
+  "real_max": 14,
+  "control_max": 27,
+  "control_p50": 11,
+  "control_p99": 20,
+  "controls_ge_real": 139,
+  "p_value": 0.3491,
+  "SIGNAL": false
+ },
+ "puzzle_word_idx1": {
+  "real_max": 14,
+  "control_max": 21,
+  "control_p50": 13,
+  "control_p99": 18,
+  "controls_ge_real": 175,
+  "p_value": 0.4389,
+  "planted_score": 7,
+  "planted_beats_all_controls": false,
+  "SIGNAL": false
+ },
+ "sm_word_idx1": {
+  "real_max": 18,
+  "control_max": 19,
+  "control_p50": 12,
+  "control_p99": 17,
+  "controls_ge_real": 3,
+  "p_value": 0.01,
+  "SIGNAL": false
+ }
+}
+{
+ "unique_forms": 9236,
+ "gate_checks": 110832,
+ "gate_hits": [],
+ "envelope_trials": 110832,
+ "pad_hist": {
+  "0": 110394,
+  "1": 437,
+  "2": 1
+ },
+ "pad1_expected": 431.2,
+ "notable": 0
+}
+TOP a1z26 [('fjhgffediighgi', 1, 'poster/bits/rows/fwd'), ('fjhgffediighgi', 1, 'poster/bits/rows/nonzero'), ('ighgiideffghjf', 0, 'poster/bits/rows/rev')]
+TOP mod26a0 [('itrapmchartbqn', 9, 'poster/B_primes/rows/rev'), ('nqbtrahcmparti', 4, 'poster/B_primes/rows/fwd'), ('fkptfastaaaaaa', 4, 'poster/Y_ordinals/cols/rev')]
+TOP mod26a1 [('rnwepubqbizdkcjobkrccjkubishstcxxesfnestjmrgmrjsvhnnbbnod', 5, 'faed/prime_pos_only/57x10/rows/cumsum'), ('reefvay', 4, 'dbbi/signed_Y+B-/7x13/rows/rev'), ('dzmugly', 4, 'dbbi/signed_Y+B-/13x7/cols/rev')]
+TOP ascii [('VIYRGEYXP]E[^[NFlWUPZU_\\N?OHVT>HDSTJM>', 1, 'faed/full/38x15/rows/rev'), ('7B8(,2G/37*4>4/B@486/19/H*7A)*F0CDC+(85./;5,20:3A5215DD:0', 1, 'faed/full/10x57/cols/fwd'), ('7B8(,2G/37*4>4/B@486/19/H*7A)*F0CDC+(85./;5,20:3A5215DD:0', 1, 'faed/full/10x57/cols/nonzero')]
+TOP parity8 [('[', 0, 'poster/Y_primes/rows/rev'), ('i', 0, 'poster/B_primes/rows/rev'), ('9', 0, 'poster/B_primes/cols/fwd')]
+TOP decimal_bytes [(')\x17\\qJa', 0, 'poster/Y_ordinals/cols/fwd'), ('Y3"°p', 0, 'dbbi/Y_prime_pos_only/7x13/cols/rev'), ('2_\x14cZt', 0, 'dbbi/signed_Y-B+/13x7/cols/fwd')]
+TOP arch_idx0 [('EQTOWFBOMBSSH', 9, 'dbbi/prime_pos_zeroed/7x13/cols/cumsum'), ('EHOLZANELYNSPITEERPEOAMIEEEMHPUAMIZAGY', 9, 'faed/full/38x15/rows/fwd'), ('EHOLZANELYNSPITEERPEOAMIEEEMHPUAMIZAGY', 9, 'faed/full/38x15/rows/nonzero')]
+TOP arch_idx1 [('TOOOINTOONTOAO', 9, 'poster/Y_primes/rows/fwd'), ('YUEOROOMSOSOOR', 9, 'poster/B_ordinals/cols/fwd'), ('ENUUMAUOSTARHRHMFYLSALEEHEIIEZHIRZZGTH', 8, 'faed/full/38x15/rows/rev')]
+TOP sm_idx0 [('oeitemweoutual', 5, 'poster/signed_B+Y-/cols/rev'), ('oeitemweoutual', 5, 'poster/signed_Y+B-/cols/rev'), ('ettcacoredact', 5, 'dbbi/B_prime_pos_zeroed/7x13/cols/fwd')]
+TOP sm_idx1 [('eioectthtcotietetteothatrhtyotamtottattootyotretratruthht', 14, 'faed/prime_pos_only/10x57/cols/fwd'), ('mrootse', 9, 'dbbi/coloured_prime_values/13x7/cols/fwd'), ('mrootse', 9, 'dbbi/coloured_prime_values/13x7/cols/nonzero')]
+TOP puzzle_word_idx1 [('OTHERWISE IT BURDEN FROM THIS A A ELIMINATE BURDEN MY ANOMAL', 14, 'faed/prime_pos_zeroed/10x57/cols/fwd'), ('OTHERWISE IT BURDEN FROM THIS A A ELIMINATE BURDEN MY ANOMAL', 14, 'faed/prime_pos_zeroed/10x57/cols/nonzero'), ('THE YOUR EQUATION TO OF EQUATION IS OF THIS SUM OF THE SUM I', 12, 'faed/prime_pos_only/57x10/rows/rev')]
+TOP sm_word_idx1 [('will to control to possible a was stumbled program obviously', 18, 'faed/prime_pos_zeroed/10x57/cols/cumsum'), ('remain may the unexpected one choice human answer to accepte', 13, 'faed/prime_pos_zeroed/57x10/rows/cumsum'), ('concordantly you of the art again father near of it matrix r', 11, 'faed/full/57x10/rows/cumsum')]

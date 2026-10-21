@@ -1,0 +1,2011 @@
+{
+  "serial83": {
+    "complete": true,
+    "cells": [
+      {
+        "slot": 1,
+        "start": 0,
+        "end": 1,
+        "token": "d",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 2,
+        "start": 1,
+        "end": 2,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 1
+      },
+      {
+        "slot": 3,
+        "start": 2,
+        "end": 3,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 2
+      },
+      {
+        "slot": 4,
+        "start": 3,
+        "end": 4,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 5,
+        "start": 4,
+        "end": 5,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 3
+      },
+      {
+        "slot": 6,
+        "start": 5,
+        "end": 6,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 7,
+        "start": 6,
+        "end": 7,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 4
+      },
+      {
+        "slot": 8,
+        "start": 7,
+        "end": 8,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 9,
+        "start": 8,
+        "end": 9,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 10,
+        "start": 9,
+        "end": 10,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 11,
+        "start": 10,
+        "end": 12,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 5
+      },
+      {
+        "slot": 12,
+        "start": 12,
+        "end": 13,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 13,
+        "start": 13,
+        "end": 14,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 6
+      },
+      {
+        "slot": 14,
+        "start": 14,
+        "end": 15,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 15,
+        "start": 15,
+        "end": 16,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 16,
+        "start": 16,
+        "end": 17,
+        "token": "a",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 17,
+        "start": 17,
+        "end": 18,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 7
+      },
+      {
+        "slot": 18,
+        "start": 18,
+        "end": 19,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 19,
+        "start": 19,
+        "end": 20,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 8
+      },
+      {
+        "slot": 20,
+        "start": 20,
+        "end": 21,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 21,
+        "start": 21,
+        "end": 22,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 22,
+        "start": 22,
+        "end": 23,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 23,
+        "start": 23,
+        "end": 25,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 9
+      },
+      {
+        "slot": 24,
+        "start": 25,
+        "end": 26,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 25,
+        "start": 26,
+        "end": 27,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 26,
+        "start": 27,
+        "end": 28,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 27,
+        "start": 28,
+        "end": 29,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 28,
+        "start": 29,
+        "end": 30,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 29,
+        "start": 30,
+        "end": 32,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 10
+      },
+      {
+        "slot": 30,
+        "start": 32,
+        "end": 33,
+        "token": "b",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 31,
+        "start": 33,
+        "end": 34,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 11
+      },
+      {
+        "slot": 32,
+        "start": 34,
+        "end": 35,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 33,
+        "start": 35,
+        "end": 36,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 34,
+        "start": 36,
+        "end": 37,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 35,
+        "start": 37,
+        "end": 38,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 36,
+        "start": 38,
+        "end": 39,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 37,
+        "start": 39,
+        "end": 40,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 12
+      },
+      {
+        "slot": 38,
+        "start": 40,
+        "end": 41,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 39,
+        "start": 41,
+        "end": 42,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 40,
+        "start": 42,
+        "end": 43,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 41,
+        "start": 43,
+        "end": 44,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 13
+      },
+      {
+        "slot": 42,
+        "start": 44,
+        "end": 45,
+        "token": "a",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 43,
+        "start": 45,
+        "end": 46,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 14
+      },
+      {
+        "slot": 44,
+        "start": 46,
+        "end": 47,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 45,
+        "start": 47,
+        "end": 48,
+        "token": "d",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 46,
+        "start": 48,
+        "end": 49,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 47,
+        "start": 49,
+        "end": 51,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 15
+      },
+      {
+        "slot": 48,
+        "start": 51,
+        "end": 52,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 49,
+        "start": 52,
+        "end": 53,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 50,
+        "start": 53,
+        "end": 54,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 51,
+        "start": 54,
+        "end": 55,
+        "token": "d",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 52,
+        "start": 55,
+        "end": 56,
+        "token": "b",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 53,
+        "start": 56,
+        "end": 57,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 16
+      },
+      {
+        "slot": 54,
+        "start": 57,
+        "end": 58,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 55,
+        "start": 58,
+        "end": 59,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 56,
+        "start": 59,
+        "end": 60,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 57,
+        "start": 60,
+        "end": 61,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 58,
+        "start": 61,
+        "end": 62,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 59,
+        "start": 62,
+        "end": 63,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 17
+      },
+      {
+        "slot": 60,
+        "start": 63,
+        "end": 64,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 61,
+        "start": 64,
+        "end": 66,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 18
+      },
+      {
+        "slot": 62,
+        "start": 66,
+        "end": 67,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 63,
+        "start": 67,
+        "end": 68,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 64,
+        "start": 68,
+        "end": 69,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 65,
+        "start": 69,
+        "end": 70,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 66,
+        "start": 70,
+        "end": 71,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 67,
+        "start": 71,
+        "end": 73,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 19
+      },
+      {
+        "slot": 68,
+        "start": 73,
+        "end": 74,
+        "token": "d",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 69,
+        "start": 74,
+        "end": 75,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 70,
+        "start": 75,
+        "end": 76,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 71,
+        "start": 76,
+        "end": 77,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 20
+      },
+      {
+        "slot": 72,
+        "start": 77,
+        "end": 78,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 73,
+        "start": 78,
+        "end": 79,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 21
+      },
+      {
+        "slot": 74,
+        "start": 79,
+        "end": 80,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 75,
+        "start": 80,
+        "end": 81,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 76,
+        "start": 81,
+        "end": 82,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 77,
+        "start": 82,
+        "end": 83,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 78,
+        "start": 83,
+        "end": 84,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 79,
+        "start": 84,
+        "end": 86,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 22
+      },
+      {
+        "slot": 80,
+        "start": 86,
+        "end": 87,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 81,
+        "start": 87,
+        "end": 88,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 82,
+        "start": 88,
+        "end": 89,
+        "token": "a",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 83,
+        "start": 89,
+        "end": 91,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 23
+      }
+    ],
+    "logical_cells": 83,
+    "marker": 23,
+    "payload": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea",
+    "remaining": [
+      {
+        "spiral": 183,
+        "row": 8,
+        "column": 5,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 191,
+        "row": 5,
+        "column": 6,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      }
+    ],
+    "schedule": [
+      {
+        "spiral": 7,
+        "row": 7,
+        "column": 0,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 15,
+        "row": 13,
+        "column": 2,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 23,
+        "row": 13,
+        "column": 10,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 31,
+        "row": 8,
+        "column": 13,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 39,
+        "row": 0,
+        "column": 13,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      },
+      {
+        "spiral": 47,
+        "row": 0,
+        "column": 5,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 55,
+        "row": 4,
+        "column": 1,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 63,
+        "row": 12,
+        "column": 1,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 71,
+        "row": 12,
+        "column": 9,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      },
+      {
+        "spiral": 79,
+        "row": 7,
+        "column": 12,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      },
+      {
+        "spiral": 87,
+        "row": 1,
+        "column": 10,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 95,
+        "row": 1,
+        "column": 2,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 103,
+        "row": 9,
+        "column": 2,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 111,
+        "row": 11,
+        "column": 8,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 119,
+        "row": 6,
+        "column": 11,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      },
+      {
+        "spiral": 127,
+        "row": 2,
+        "column": 7,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 135,
+        "row": 6,
+        "column": 3,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 143,
+        "row": 10,
+        "column": 7,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      },
+      {
+        "spiral": 151,
+        "row": 5,
+        "column": 10,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      },
+      {
+        "spiral": 159,
+        "row": 3,
+        "column": 4,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 163,
+        "row": 7,
+        "column": 4,
+        "rgb": [
+          254,
+          254,
+          254
+        ],
+        "colour": "F",
+        "token": "b"
+      },
+      {
+        "spiral": 167,
+        "row": 9,
+        "column": 6,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      },
+      {
+        "spiral": 175,
+        "row": 4,
+        "column": 9,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      },
+      {
+        "spiral": 183,
+        "row": 8,
+        "column": 5,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "token": "b"
+      },
+      {
+        "spiral": 191,
+        "row": 5,
+        "column": 6,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "token": "be"
+      }
+    ]
+  },
+  "perbyte84": {
+    "complete": true,
+    "cells": [
+      {
+        "slot": 1,
+        "start": 0,
+        "end": 1,
+        "token": "d",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 2,
+        "start": 1,
+        "end": 2,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 1
+      },
+      {
+        "slot": 3,
+        "start": 2,
+        "end": 3,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 2
+      },
+      {
+        "slot": 4,
+        "start": 3,
+        "end": 4,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 5,
+        "start": 4,
+        "end": 5,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 3
+      },
+      {
+        "slot": 6,
+        "start": 5,
+        "end": 6,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 7,
+        "start": 6,
+        "end": 7,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 4
+      },
+      {
+        "slot": 8,
+        "start": 7,
+        "end": 8,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 9,
+        "start": 8,
+        "end": 9,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 10,
+        "start": 9,
+        "end": 10,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 11,
+        "start": 10,
+        "end": 12,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 5
+      },
+      {
+        "slot": 12,
+        "start": 12,
+        "end": 13,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 13,
+        "start": 13,
+        "end": 14,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 6
+      },
+      {
+        "slot": 14,
+        "start": 14,
+        "end": 15,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 15,
+        "start": 15,
+        "end": 16,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 16,
+        "start": 16,
+        "end": 17,
+        "token": "a",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 17,
+        "start": 17,
+        "end": 18,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 7
+      },
+      {
+        "slot": 18,
+        "start": 18,
+        "end": 19,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 19,
+        "start": 19,
+        "end": 20,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 8
+      },
+      {
+        "slot": 20,
+        "start": 20,
+        "end": 21,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 21,
+        "start": 21,
+        "end": 22,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 22,
+        "start": 22,
+        "end": 23,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 23,
+        "start": 23,
+        "end": 25,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 9
+      },
+      {
+        "slot": 24,
+        "start": 25,
+        "end": 26,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 25,
+        "start": 26,
+        "end": 27,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 26,
+        "start": 27,
+        "end": 28,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 27,
+        "start": 28,
+        "end": 29,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 28,
+        "start": 29,
+        "end": 30,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 29,
+        "start": 30,
+        "end": 32,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 10
+      },
+      {
+        "slot": 30,
+        "start": 32,
+        "end": 33,
+        "token": "b",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 31,
+        "start": 33,
+        "end": 34,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 11
+      },
+      {
+        "slot": 32,
+        "start": 34,
+        "end": 35,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 33,
+        "start": 35,
+        "end": 36,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 34,
+        "start": 36,
+        "end": 37,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 35,
+        "start": 37,
+        "end": 38,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 36,
+        "start": 38,
+        "end": 39,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 37,
+        "start": 39,
+        "end": 40,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 12
+      },
+      {
+        "slot": 38,
+        "start": 40,
+        "end": 41,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 39,
+        "start": 41,
+        "end": 42,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 40,
+        "start": 42,
+        "end": 43,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 41,
+        "start": 43,
+        "end": 44,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 13
+      },
+      {
+        "slot": 42,
+        "start": 44,
+        "end": 45,
+        "token": "a",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 43,
+        "start": 45,
+        "end": 46,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 14
+      },
+      {
+        "slot": 44,
+        "start": 46,
+        "end": 47,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 45,
+        "start": 47,
+        "end": 48,
+        "token": "d",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 46,
+        "start": 48,
+        "end": 49,
+        "token": "h",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 47,
+        "start": 49,
+        "end": 51,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 15
+      },
+      {
+        "slot": 48,
+        "start": 51,
+        "end": 52,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 49,
+        "start": 52,
+        "end": 53,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 50,
+        "start": 53,
+        "end": 54,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 51,
+        "start": 54,
+        "end": 55,
+        "token": "d",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 52,
+        "start": 55,
+        "end": 56,
+        "token": "b",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 53,
+        "start": 56,
+        "end": 57,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 16
+      },
+      {
+        "slot": 54,
+        "start": 57,
+        "end": 58,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 55,
+        "start": 58,
+        "end": 59,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 56,
+        "start": 59,
+        "end": 60,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 57,
+        "start": 60,
+        "end": 61,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 58,
+        "start": 61,
+        "end": 62,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 59,
+        "start": 62,
+        "end": 63,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 17
+      },
+      {
+        "slot": 60,
+        "start": 63,
+        "end": 64,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 61,
+        "start": 64,
+        "end": 66,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 18
+      },
+      {
+        "slot": 62,
+        "start": 66,
+        "end": 67,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 63,
+        "start": 67,
+        "end": 68,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 64,
+        "start": 68,
+        "end": 69,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 65,
+        "start": 69,
+        "end": 70,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 66,
+        "start": 70,
+        "end": 71,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 67,
+        "start": 71,
+        "end": 73,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 19
+      },
+      {
+        "slot": 68,
+        "start": 73,
+        "end": 74,
+        "token": "d",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 69,
+        "start": 74,
+        "end": 75,
+        "token": "c",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 70,
+        "start": 75,
+        "end": 76,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 71,
+        "start": 76,
+        "end": 77,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 20
+      },
+      {
+        "slot": 72,
+        "start": 77,
+        "end": 78,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 73,
+        "start": 78,
+        "end": 79,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 21
+      },
+      {
+        "slot": 74,
+        "start": 79,
+        "end": 80,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 75,
+        "start": 80,
+        "end": 81,
+        "token": "f",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 76,
+        "start": 81,
+        "end": 82,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 77,
+        "start": 82,
+        "end": 83,
+        "token": "i",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 78,
+        "start": 83,
+        "end": 84,
+        "token": "g",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 79,
+        "start": 84,
+        "end": 86,
+        "token": "be",
+        "prime": true,
+        "marker_ordinal": 22
+      },
+      {
+        "slot": 80,
+        "start": 86,
+        "end": 87,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 81,
+        "start": 87,
+        "end": 88,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 82,
+        "start": 88,
+        "end": 89,
+        "token": "a",
+        "prime": false,
+        "marker_ordinal": null
+      },
+      {
+        "slot": 83,
+        "start": 89,
+        "end": 90,
+        "token": "b",
+        "prime": true,
+        "marker_ordinal": 23
+      },
+      {
+        "slot": 84,
+        "start": 90,
+        "end": 91,
+        "token": "e",
+        "prime": false,
+        "marker_ordinal": null
+      }
+    ],
+    "logical_cells": 84,
+    "marker": 23,
+    "payload": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeeae",
+    "remaining": [
+      {
+        "spiral": 191,
+        "row": 5,
+        "column": 6,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      }
+    ],
+    "schedule": [
+      {
+        "spiral": 7,
+        "row": 7,
+        "column": 0,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 15,
+        "row": 13,
+        "column": 2,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 23,
+        "row": 13,
+        "column": 10,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 31,
+        "row": 8,
+        "column": 13,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 39,
+        "row": 0,
+        "column": 13,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      },
+      {
+        "spiral": 47,
+        "row": 0,
+        "column": 5,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 55,
+        "row": 4,
+        "column": 1,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 63,
+        "row": 12,
+        "column": 1,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 71,
+        "row": 12,
+        "column": 9,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      },
+      {
+        "spiral": 79,
+        "row": 7,
+        "column": 12,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      },
+      {
+        "spiral": 87,
+        "row": 1,
+        "column": 10,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 95,
+        "row": 1,
+        "column": 2,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 103,
+        "row": 9,
+        "column": 2,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 111,
+        "row": 11,
+        "column": 8,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 119,
+        "row": 6,
+        "column": 11,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      },
+      {
+        "spiral": 127,
+        "row": 2,
+        "column": 7,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 135,
+        "row": 6,
+        "column": 3,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 143,
+        "row": 10,
+        "column": 7,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      },
+      {
+        "spiral": 151,
+        "row": 5,
+        "column": 10,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      },
+      {
+        "spiral": 159,
+        "row": 3,
+        "column": 4,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 167,
+        "row": 9,
+        "column": 6,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": true,
+        "token": "b"
+      },
+      {
+        "spiral": 175,
+        "row": 4,
+        "column": 9,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      },
+      {
+        "spiral": 183,
+        "row": 8,
+        "column": 5,
+        "rgb": [
+          63,
+          72,
+          204
+        ],
+        "colour": "B",
+        "offwhite_flag": false,
+        "token": "b"
+      },
+      {
+        "spiral": 191,
+        "row": 5,
+        "column": 6,
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "colour": "Y",
+        "offwhite_flag": false,
+        "token": "be"
+      }
+    ]
+  }
+}

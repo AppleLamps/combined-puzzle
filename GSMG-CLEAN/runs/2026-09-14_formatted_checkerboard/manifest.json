@@ -1,0 +1,14 @@
+{
+  "model": "Nine-column variable-length checkerboard: selected symbols start two-character tokens; others are single characters",
+  "scope": "Every subset of the nine symbols, both input orientations; all contiguous complete character windows within one saved utterance",
+  "source_formatting": [
+    "exact",
+    "lower",
+    "upper",
+    "letters plus spaces",
+    "letters only"
+  ],
+  "gate": "Full bijective token-to-character equality, not a prefix or English score",
+  "limitations": "No transposition, homophonic many-to-one substitution, polyalphabetic layer, or unavailable/edited source text is ruled out.",
+  "faed_sha256": "066191b4aafc114fbca7f0d168382f40129c4ff18490375b689741081d5ef3c2"
+}

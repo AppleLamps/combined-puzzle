@@ -1,0 +1,12 @@
+{
+ "candidates_sha256": "e73a2be8acb43186a6c5966bb044fff3c9b35a1c43894a66327afdaab55b31fc",
+ "n_candidates": 15676,
+ "script_sha256": "c47fdeb3a83a507589b50424ad70b9964f259e33bab36e8e3cc70f30654578b3",
+ "sources": {
+  "E:\\rabbit-combined\\rabbit\\tools\\arch_src2.md": "b99b46cdf27e4597846b85160b369df83f0c0d6ae50f4b691186c8d69d479381",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\reference_texts\\matrix_reloaded_architect_scene_transcript.txt": "f5e55e8634b84f3ce0710459a3ff97e8eec32abaf9787f97616177f876362f41",
+  "E:\\rabbit-combined\\GSMG-CLEAN\\data\\architect_plaintext_readable.txt": "9c9f628ce1d5142ff499c842d634b847f8fae48086cf672ee650d08752993ef5"
+ },
+ "gate": "L5 DBBI bg-token equality pattern on sha256/sha256d/sha256_of_hex/sha3_256 x fwd/charrev/byterev",
+ "envelopes": "terminal, salphaseion_short, cosmic_duality x profiles gsmg/raw/gsmg-md5/raw-md5; pad>=3 or key = notable"
+}

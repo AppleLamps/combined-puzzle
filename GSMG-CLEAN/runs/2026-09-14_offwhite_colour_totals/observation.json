@@ -1,0 +1,179 @@
+{
+  "status": "Exploratory arithmetic observation; no decoded field or password follows.",
+  "poster_sha256": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+  "all25_prime_sums": {
+    "B": 490,
+    "Y": 497,
+    "F": 73
+  },
+  "regular24_prime_sums": {
+    "B": 484,
+    "Y": 479
+  },
+  "rgb": {
+    "B": [
+      63,
+      72,
+      204
+    ],
+    "Y": [
+      255,
+      242,
+      0
+    ]
+  },
+  "rgb_sums": {
+    "B": 339,
+    "Y": 497
+  },
+  "exact_equalities": {
+    "yellow_prime_sum_equals_rgb_sum": true,
+    "all25_prime_sum": 1060,
+    "sal_length_without_three_separators_and_last_literal": 1060,
+    "blue_plus_offwhite": 563,
+    "faed_length_minus_btcseed_prefix": 563,
+    "initial_sal_before_first_separator": 765,
+    "white_rgb_sum": 765
+  },
+  "countercheck": "Ordinary blue prime sum is 490, not its RGB sum 339. Grouping off-white with blue changes it to 563 but does not fix that mismatch.",
+  "conditional_null": {
+    "description": "Uniformly select nine yellow slots among the 24 non-F prime slots; F fixed at its observed position",
+    "exact_yellow_target_count": 2713,
+    "total_assignments": 1307504,
+    "probability": 0.002074945851026077,
+    "caveat": "Chosen after observing data; does not correct for prior arithmetic searches, other targets or other rules."
+  },
+  "limitations": [
+    "The BTCSEED prefix is an unconfirmed Bifid lead, not an authenticated plaintext boundary.",
+    "The 1060-character equality uses a selected subset of the Sal stream and is not a complete cipher recipe.",
+    "RGB summation is an added operation; no creator instruction selecting it has been found.",
+    "Do not turn these equalities into passwords or call them a solved matrix construction."
+  ],
+  "gap_checks": [
+    {
+      "gap": 0,
+      "yellow_sum": 523,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 1,
+      "yellow_sum": 523,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 2,
+      "yellow_sum": 523,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 3,
+      "yellow_sum": 523,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 4,
+      "yellow_sum": 523,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 5,
+      "yellow_sum": 521,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 6,
+      "yellow_sum": 521,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 7,
+      "yellow_sum": 521,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 8,
+      "yellow_sum": 521,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 9,
+      "yellow_sum": 515,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 10,
+      "yellow_sum": 513,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 11,
+      "yellow_sum": 513,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 12,
+      "yellow_sum": 513,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 13,
+      "yellow_sum": 513,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 14,
+      "yellow_sum": 513,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 15,
+      "yellow_sum": 507,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 16,
+      "yellow_sum": 507,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 17,
+      "yellow_sum": 507,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 18,
+      "yellow_sum": 501,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 19,
+      "yellow_sum": 497,
+      "matches_yellow_rgb": true
+    },
+    {
+      "gap": 20,
+      "yellow_sum": 497,
+      "matches_yellow_rgb": true
+    },
+    {
+      "gap": 21,
+      "yellow_sum": 491,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 22,
+      "yellow_sum": 487,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 23,
+      "yellow_sum": 487,
+      "matches_yellow_rgb": false
+    },
+    {
+      "gap": 24,
+      "yellow_sum": 479,
+      "matches_yellow_rgb": false
+    }
+  ]
+}

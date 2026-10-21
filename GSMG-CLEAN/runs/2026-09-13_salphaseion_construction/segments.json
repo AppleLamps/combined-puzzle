@@ -1,0 +1,132 @@
+[
+  {
+    "start": 0,
+    "end_exclusive": 91,
+    "length": 91,
+    "kind": "unknown",
+    "label": "DBBI",
+    "raw": "dbbibfbhccbegbihabebeihbeggegebebbgehhebhhfbabfdhbeffcdbbfcccgbfbeeggecbedcibfbffgigbeeeabe",
+    "decoded": null,
+    "roundtrip": true
+  },
+  {
+    "start": 91,
+    "end_exclusive": 195,
+    "length": 104,
+    "kind": "binary",
+    "label": "matrixsumlist",
+    "raw": "abbabbababbaaaababbbabaaabbbaabaabbabaababbbbaaaabbbaabbabbbabababbabbababbabbaaabbabaababbbaabbabbbabaa",
+    "decoded": "matrixsumlist",
+    "roundtrip": true
+  },
+  {
+    "start": 195,
+    "end_exclusive": 765,
+    "length": 570,
+    "kind": "unknown",
+    "label": "FAED",
+    "raw": "faedggeedfcbdabhhggcadcfeddgfdgbgigaaedggiafaecghggcdaihehahbahigceifgbfgefgaifabifagaegeacgbbeagfggeeggafbacgfcdbeiffaafcidahgdeefghhcggaegdebhhegeghcegadfbdiagefcicggifdcgaaggfbigaicfbhecaecbceiaicebgbgiecdeggfgegaedggfiiciiififhggcgfgdcdggefcbeeigefibgibggghhfbcgifdehedfdagicdbhicgaiedaehahghhcihdghfhbiicecbiichihiiigiddgehhdfdchcbafgfbhaheagegecafehgcfggggcagfhhghbaihidiehhfdeggdgcihggggghadahigigbgecgedfcdggaccdehiicigfbffhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfbfdedeehgigfaaiggagbeiichiedifbehgbccahhbiibibbibdcbahaidhfahiihic",
+    "decoded": null,
+    "roundtrip": true
+  },
+  {
+    "start": 765,
+    "end_exclusive": 766,
+    "length": 1,
+    "kind": "separator",
+    "label": "z1",
+    "raw": "z",
+    "decoded": null,
+    "roundtrip": true
+  },
+  {
+    "start": 766,
+    "end_exclusive": 829,
+    "length": 63,
+    "kind": "decimal",
+    "label": "lastwordsbeforearchichoice",
+    "raw": "agdafaoaheiecggchgicbbhcgbehcfcoabicfdhhcdbbcagbdaiobbgbeadedde",
+    "decoded": "lastwordsbeforearchichoice",
+    "roundtrip": true
+  },
+  {
+    "start": 829,
+    "end_exclusive": 830,
+    "length": 1,
+    "kind": "separator",
+    "label": "z2",
+    "raw": "z",
+    "decoded": null,
+    "roundtrip": true
+  },
+  {
+    "start": 830,
+    "end_exclusive": 859,
+    "length": 29,
+    "kind": "decimal",
+    "label": "thispassword",
+    "raw": "cfobfdhgdobdgooiigdocdaoofidh",
+    "decoded": "thispassword",
+    "roundtrip": true
+  },
+  {
+    "start": 859,
+    "end_exclusive": 860,
+    "length": 1,
+    "kind": "separator",
+    "label": "z3",
+    "raw": "z",
+    "decoded": null,
+    "roundtrip": true
+  },
+  {
+    "start": 860,
+    "end_exclusive": 895,
+    "length": 35,
+    "kind": "literal",
+    "label": "before_cipher",
+    "raw": "shabefourfirsthintisyourlastcommand",
+    "decoded": null,
+    "roundtrip": true
+  },
+  {
+    "start": 895,
+    "end_exclusive": 959,
+    "length": 64,
+    "kind": "base64_piece",
+    "label": "cipher_line1",
+    "raw": "U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z",
+    "decoded": null,
+    "roundtrip": true
+  },
+  {
+    "start": 959,
+    "end_exclusive": 999,
+    "length": 40,
+    "kind": "binary",
+    "label": "enter",
+    "raw": "abbaabababbabbbaabbbabaaabbaabababbbaaba",
+    "decoded": "enter",
+    "roundtrip": true
+  },
+  {
+    "start": 999,
+    "end_exclusive": 1063,
+    "length": 64,
+    "kind": "base64_piece",
+    "label": "cipher_line2",
+    "raw": "QvX0t8v3jPB4okpspxebRi6sE1BMl5HI8Rku+KejUqTvdWOX6nQjSpepXwGuN/jJ",
+    "decoded": null,
+    "roundtrip": true
+  },
+  {
+    "start": 1063,
+    "end_exclusive": 1075,
+    "length": 12,
+    "kind": "literal",
+    "label": "after_cipher",
+    "raw": "shabefanstoo",
+    "decoded": null,
+    "roundtrip": true
+  }
+]

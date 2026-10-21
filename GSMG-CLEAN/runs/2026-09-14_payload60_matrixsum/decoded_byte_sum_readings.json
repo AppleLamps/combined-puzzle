@@ -1,0 +1,1846 @@
+[
+  {
+    "interpretation": "unsigned8",
+    "width": 1,
+    "height": 25,
+    "axis": "rows/forward",
+    "values": [
+      79,
+      38,
+      114,
+      226,
+      126,
+      13,
+      120,
+      213,
+      163,
+      243,
+      14,
+      232,
+      248,
+      46,
+      49,
+      110,
+      239,
+      246,
+      126,
+      229,
+      14,
+      244,
+      37,
+      123,
+      239
+    ],
+    "text_views": {
+      "mod26_A0": "bmkswnqfhjoyouxgfmwvokltf",
+      "mod26_A1": "aljrvmpeginxntwfelvunjkse"
+    },
+    "integer_view": {
+      "digits": "7938114226126131202131632431423224846491102392461262291424437123239",
+      "base": 10,
+      "byte_length": 28,
+      "hex": "4b607c9c5425970e5cb9de4ba80bab7438048c6997b9a6791f48b8a7",
+      "strict_decodings": {
+        "utf-16-le": "\u604b\u9c7c\u2554\u0e97\ub95c\u4bde\u0ba8\u74ab\u0438\u698c\ub997\u79a6\u481f\ua7b8",
+        "cp037": ".-@\u00e6\u00e8\np\u000e*\u00be\u00fa.y\u000b\u00bf\u00c8\u0098\u009c\u00f0\u00d1p\u00bew`\u001f\u00e7\u00bdx",
+        "cp273": ".-\u00a7\u00e6\u00e8\np\u000e*\u00be\u00fa.y\u000b\u00bf\u00c8\u0098\u009c\u00f0\u00d1p\u00bew`\u001f\u00e7\u00bdx"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 1,
+    "height": 25,
+    "axis": "rows/reverse",
+    "values": [
+      239,
+      123,
+      37,
+      244,
+      14,
+      229,
+      126,
+      246,
+      239,
+      110,
+      49,
+      46,
+      248,
+      232,
+      14,
+      243,
+      163,
+      213,
+      120,
+      13,
+      126,
+      226,
+      114,
+      38,
+      79
+    ],
+    "text_views": {
+      "mod26_A0": "ftlkovwmfgxuoyojhfqnwskmb",
+      "mod26_A1": "eskjnuvlefwtnxnigepmvrjla"
+    },
+    "integer_view": {
+      "digits": "2391233724414229126246239110494624823214243163213120131262261143879",
+      "base": 10,
+      "byte_length": 28,
+      "hex": "16b4c466662e465e68660143674521cdf93f23e95f0aa803a692a947",
+      "strict_decodings": {
+        "utf-16-le": "\ub416\u66c4\u2e66\u5e46\u6668\u4301\u4567\ucd21\u3ff9\ue923\u0a5f\u03a8\u92a6\u47a9",
+        "utf-16-be": "\u16b4\uc466\u662e\u465e\u6866\u0143\u6745\u21cd\uf93f\u23e9\u5f0a\ua803\ua692\ua947",
+        "cp037": "\b\u00a9D\u00c3\u00c3\u0006\u00e3;\u00c7\u00c3\u0001\u00e4\u00c5\u00e1\u0081\u00f29\u001a\u0083Z\u00ac\u008ey\u0003wkz\u00e5",
+        "cp273": "\b\u00a9D\u00c3\u00c3\u0006\u00e3;\u00c7\u00c3\u0001{\u00c5\u00e1\u0081\u00f29\u001a\u0083Z^\u008ey\u0003wkz\u00e5"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 1,
+    "height": 25,
+    "axis": "columns/forward",
+    "values": [
+      3531
+    ],
+    "text_views": {
+      "mod26_A0": "v",
+      "mod26_A1": "u"
+    },
+    "integer_view": {
+      "digits": "3531",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "0dcb",
+      "strict_decodings": {
+        "utf-16-le": "\ucb0d",
+        "utf-16-be": "\u0dcb",
+        "cp037": "\r\u00f4",
+        "cp273": "\r\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 1,
+    "height": 25,
+    "axis": "columns/reverse",
+    "values": [
+      3531
+    ],
+    "text_views": {
+      "mod26_A0": "v",
+      "mod26_A1": "u"
+    },
+    "integer_view": {
+      "digits": "3531",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "0dcb",
+      "strict_decodings": {
+        "utf-16-le": "\ucb0d",
+        "utf-16-be": "\u0dcb",
+        "cp037": "\r\u00f4",
+        "cp273": "\r\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 1,
+    "height": 25,
+    "axis": "rows_columns/forward",
+    "values": [
+      79,
+      38,
+      114,
+      226,
+      126,
+      13,
+      120,
+      213,
+      163,
+      243,
+      14,
+      232,
+      248,
+      46,
+      49,
+      110,
+      239,
+      246,
+      126,
+      229,
+      14,
+      244,
+      37,
+      123,
+      239,
+      3531
+    ],
+    "text_views": {
+      "mod26_A0": "bmkswnqfhjoyouxgfmwvokltfv",
+      "mod26_A1": "aljrvmpeginxntwfelvunjkseu"
+    },
+    "integer_view": {
+      "digits": "79381142261261312021316324314232248464911023924612622914244371232393531",
+      "base": 10,
+      "byte_length": 30,
+      "hex": "0b8069039a96fc5ca1061c7b6b5447d96bcc31acdcb6c3f6db5608ad093b",
+      "strict_decodings": {
+        "cp037": "\u000b\u00d8\u00d1\u0003\u00aao\u00dc*~\u0086\u001c#,\u00e8\u00e5R,\u00f6\u0091\u00d0\u00fc\u00b6C6\u00fb\u00ee\u0097\u00dd\u008d\u009b",
+        "cp273": "\u000b\u00d8\u00d1\u0003\u00aao]*\u00df\u0086\u001c#,\u00e8\u00e5R,\u00a6\u0091\u00d0}\u00b6C6\u00fb\u00ee\u0097\u00dd\u008d\u009b"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 1,
+    "height": 25,
+    "axis": "rows_columns/reverse",
+    "values": [
+      3531,
+      239,
+      123,
+      37,
+      244,
+      14,
+      229,
+      126,
+      246,
+      239,
+      110,
+      49,
+      46,
+      248,
+      232,
+      14,
+      243,
+      163,
+      213,
+      120,
+      13,
+      126,
+      226,
+      114,
+      38,
+      79
+    ],
+    "text_views": {
+      "mod26_A0": "vftlkovwmfgxuoyojhfqnwskmb",
+      "mod26_A1": "ueskjnuvlefwtnxnigepmvrjla"
+    },
+    "integer_view": {
+      "digits": "35312391233724414229126246239110494624823214243163213120131262261143879",
+      "base": 10,
+      "byte_length": 30,
+      "hex": "051dcf340687168fef9753d8c18123fee3dcae630ce15f0aa803a692a947",
+      "strict_decodings": {
+        "utf-16-be": "\u051d\ucf34\u0687\u168f\uef97\u53d8\uc181\u23fe\ue3dc\uae63\u0ce1\u5f0a\ua803\ua692\ua947",
+        "cp037": "\t\u001d\u00f5\u0094\u0086g\b\u00b1\u00d5p\u00ebQAa\u0083\u00daT\u00fc\u00de\u00c4\f\u00f7\u00ac\u008ey\u0003wkz\u00e5",
+        "cp273": "\t\u001d\u00f5\u0094\u0086g\b\u00b1\u00d5p\u00ebQAa\u0083\u00daT}\u00de[\f\u00f7^\u008ey\u0003wkz\u00e5"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 1,
+    "height": 25,
+    "axis": "columns_rows/forward",
+    "values": [
+      3531,
+      79,
+      38,
+      114,
+      226,
+      126,
+      13,
+      120,
+      213,
+      163,
+      243,
+      14,
+      232,
+      248,
+      46,
+      49,
+      110,
+      239,
+      246,
+      126,
+      229,
+      14,
+      244,
+      37,
+      123,
+      239
+    ],
+    "text_views": {
+      "mod26_A0": "vbmkswnqfhjoyouxgfmwvokltf",
+      "mod26_A1": "ualjrvmpeginxntwfelvunjkse"
+    },
+    "integer_view": {
+      "digits": "35317938114226126131202131632431423224846491102392461262291424437123239",
+      "base": 10,
+      "byte_length": 30,
+      "hex": "051e03dfbebd04874047482c9e8964c56d82ed28756197b9a6791f48b8a7",
+      "strict_decodings": {
+        "utf-16-be": "\u051e\u03df\ubebd\u0487\u4047\u482c\u9e89\u64c5\u6d82\ued28\u7561\u97b9\ua679\u1f48\ub8a7",
+        "cp037": "\t\u001e\u0003\u00ff\u00b4\u00a8\u009cg \u00e5\u00e7\u008c\u00c6i\u00c0E_b\u00d2\u0088\u00cd/p\u00bew`\u001f\u00e7\u00bdx",
+        "cp273": "\t\u001e\u0003\u00ff\u00b4\u00a8\u009cg \u00e5\u00e7\u008c\u00c6i\u00c0E_b\u00d2\u0088\u00cd/p\u00bew`\u001f\u00e7\u00bdx"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 1,
+    "height": 25,
+    "axis": "columns_rows/reverse",
+    "values": [
+      239,
+      123,
+      37,
+      244,
+      14,
+      229,
+      126,
+      246,
+      239,
+      110,
+      49,
+      46,
+      248,
+      232,
+      14,
+      243,
+      163,
+      213,
+      120,
+      13,
+      126,
+      226,
+      114,
+      38,
+      79,
+      3531
+    ],
+    "text_views": {
+      "mod26_A0": "ftlkovwmfgxuoyojhfqnwskmbv",
+      "mod26_A1": "eskjnuvlefwtnxnigepmvrjlau"
+    },
+    "integer_view": {
+      "digits": "23912337244142291262462391104946248232142431632131201312622611438793531",
+      "base": 10,
+      "byte_length": 30,
+      "hex": "0376f537dff76f9cc7ce109158f1fc787dd8326acc1090430e9ac0f4733b",
+      "strict_decodings": {
+        "cp037": "\u0003\u00ce5\u0004\u00ff7?\u00e6G\u00f3\u0010j\u00ec1\u00dc\u00cc'Q\u0016\u00a6\u00f6\u0010\u00b0\u00e4\u000e\u00aa{4\u00cb\u009b",
+        "cp273": "\u0003\u00ce5\u0004\u00ff7?\u00e6G\u00f3\u0010j\u00ec1]\u00cc'Q\u0016\u00f6\u00a6\u0010\u00b0{\u000e\u00aa\u00e44\u00cb\u009b"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 5,
+    "height": 5,
+    "axis": "rows/forward",
+    "values": [
+      583,
+      752,
+      589,
+      950,
+      657
+    ],
+    "text_views": {
+      "mod26_A0": "lyroh",
+      "mod26_A1": "kxqng"
+    },
+    "integer_view": {
+      "digits": "583752589950657",
+      "base": 10,
+      "byte_length": 7,
+      "hex": "0212eb7dc2bec1",
+      "strict_decodings": {
+        "cp037": "\u0002\u0012\u00d4'B\u00b4A",
+        "cp273": "\u0002\u0012\u00d4'B\u00b4A"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 5,
+    "height": 5,
+    "axis": "rows/reverse",
+    "values": [
+      657,
+      950,
+      589,
+      752,
+      583
+    ],
+    "text_views": {
+      "mod26_A0": "horyl",
+      "mod26_A1": "gnqxk"
+    },
+    "integer_view": {
+      "digits": "657950589752583",
+      "base": 10,
+      "byte_length": 7,
+      "hex": "0256670f2e9507",
+      "strict_decodings": {
+        "cp037": "\u0002\u00ee\u00c5\u000f\u0006n\u007f",
+        "cp273": "\u0002\u00ee\u00c5\u000f\u0006n\u007f"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 5,
+    "height": 5,
+    "axis": "columns/forward",
+    "values": [
+      230,
+      873,
+      858,
+      684,
+      886
+    ],
+    "text_views": {
+      "mod26_A0": "wpaic",
+      "mod26_A1": "vozhb"
+    },
+    "integer_view": {
+      "digits": "230873858684886",
+      "base": 10,
+      "byte_length": 6,
+      "hex": "d1fa8255b7d6",
+      "strict_decodings": {
+        "utf-16-le": "\ufad1\u5582\ud6b7",
+        "utf-16-be": "\ud1fa\u8255\ub7d6",
+        "cp037": "J\u00b3b\u00ed\u00bcO",
+        "cp273": "J\u00b3b\u00ed\u00bcO"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 5,
+    "height": 5,
+    "axis": "columns/reverse",
+    "values": [
+      886,
+      684,
+      858,
+      873,
+      230
+    ],
+    "text_views": {
+      "mod26_A0": "ciapw",
+      "mod26_A1": "bhzov"
+    },
+    "integer_view": {
+      "digits": "886684858873230",
+      "base": 10,
+      "byte_length": 7,
+      "hex": "03266f680a758e",
+      "strict_decodings": {
+        "cp037": "\u0003\u0017?\u00c7\u008e\u00cd\u00fe",
+        "cp273": "\u0003\u0017?\u00c7\u008e\u00cd\u00fe"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 5,
+    "height": 5,
+    "axis": "rows_columns/forward",
+    "values": [
+      583,
+      752,
+      589,
+      950,
+      657,
+      230,
+      873,
+      858,
+      684,
+      886
+    ],
+    "text_views": {
+      "mod26_A0": "lyrohwpaic",
+      "mod26_A1": "kxqngvozhb"
+    },
+    "integer_view": {
+      "digits": "583752589950657230873858684886",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "075e34d32eed57c7ad0efc37d6",
+      "strict_decodings": {
+        "cp037": "\u007f;\u0094L\u0006\u00d2\u00efG\u00dd\u000e\u00dc\u0004O",
+        "cp273": "\u007f;\u0094L\u0006\u00d2\u00efG\u00dd\u000e]\u0004O"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 5,
+    "height": 5,
+    "axis": "rows_columns/reverse",
+    "values": [
+      886,
+      684,
+      858,
+      873,
+      230,
+      657,
+      950,
+      589,
+      752,
+      583
+    ],
+    "text_views": {
+      "mod26_A0": "ciapwhoryl",
+      "mod26_A1": "bhzovgnqxk"
+    },
+    "integer_view": {
+      "digits": "886684858873230657950589752583",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "0b31088653049a47b62dc99507",
+      "strict_decodings": {
+        "cp037": "\u000b\u0091\u0097f\u00eb\u009c\u00aa\u00e5\u00b6\u0005In\u007f",
+        "cp273": "\u000b\u0091\u0097f\u00eb\u009c\u00aa\u00e5\u00b6\u0005In\u007f"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 5,
+    "height": 5,
+    "axis": "columns_rows/forward",
+    "values": [
+      230,
+      873,
+      858,
+      684,
+      886,
+      583,
+      752,
+      589,
+      950,
+      657
+    ],
+    "text_views": {
+      "mod26_A0": "wpaiclyroh",
+      "mod26_A1": "vozhbkxqng"
+    },
+    "integer_view": {
+      "digits": "230873858684886583752589950657",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "02e9fe613dd032657ba131bec1",
+      "strict_decodings": {
+        "cp037": "\u0002Z\u00da/\u0015}\u0016\u00c1#~\u0091\u00b4A",
+        "cp273": "\u0002Z\u00da/\u0015\u00fc\u0016\u00c1#\u00df\u0091\u00b4A"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 5,
+    "height": 5,
+    "axis": "columns_rows/reverse",
+    "values": [
+      657,
+      950,
+      589,
+      752,
+      583,
+      886,
+      684,
+      858,
+      873,
+      230
+    ],
+    "text_views": {
+      "mod26_A0": "horylciapw",
+      "mod26_A1": "gnqxkbhzov"
+    },
+    "integer_view": {
+      "digits": "657950589752583886684858873230",
+      "base": 10,
+      "byte_length": 13,
+      "hex": "084df3f8cbe4bd77f871f7f58e",
+      "strict_decodings": {
+        "cp037": "\u0097(38\u00f4U\u00a8\u00cf8\u00c975\u00fe",
+        "cp273": "\u0097(38\u00f4U\u00a8\u00cf8\u00c975\u00fe"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 25,
+    "height": 1,
+    "axis": "rows/forward",
+    "values": [
+      3531
+    ],
+    "text_views": {
+      "mod26_A0": "v",
+      "mod26_A1": "u"
+    },
+    "integer_view": {
+      "digits": "3531",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "0dcb",
+      "strict_decodings": {
+        "utf-16-le": "\ucb0d",
+        "utf-16-be": "\u0dcb",
+        "cp037": "\r\u00f4",
+        "cp273": "\r\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 25,
+    "height": 1,
+    "axis": "rows/reverse",
+    "values": [
+      3531
+    ],
+    "text_views": {
+      "mod26_A0": "v",
+      "mod26_A1": "u"
+    },
+    "integer_view": {
+      "digits": "3531",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "0dcb",
+      "strict_decodings": {
+        "utf-16-le": "\ucb0d",
+        "utf-16-be": "\u0dcb",
+        "cp037": "\r\u00f4",
+        "cp273": "\r\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 25,
+    "height": 1,
+    "axis": "columns/forward",
+    "values": [
+      79,
+      38,
+      114,
+      226,
+      126,
+      13,
+      120,
+      213,
+      163,
+      243,
+      14,
+      232,
+      248,
+      46,
+      49,
+      110,
+      239,
+      246,
+      126,
+      229,
+      14,
+      244,
+      37,
+      123,
+      239
+    ],
+    "text_views": {
+      "mod26_A0": "bmkswnqfhjoyouxgfmwvokltf",
+      "mod26_A1": "aljrvmpeginxntwfelvunjkse"
+    },
+    "integer_view": {
+      "digits": "7938114226126131202131632431423224846491102392461262291424437123239",
+      "base": 10,
+      "byte_length": 28,
+      "hex": "4b607c9c5425970e5cb9de4ba80bab7438048c6997b9a6791f48b8a7",
+      "strict_decodings": {
+        "utf-16-le": "\u604b\u9c7c\u2554\u0e97\ub95c\u4bde\u0ba8\u74ab\u0438\u698c\ub997\u79a6\u481f\ua7b8",
+        "cp037": ".-@\u00e6\u00e8\np\u000e*\u00be\u00fa.y\u000b\u00bf\u00c8\u0098\u009c\u00f0\u00d1p\u00bew`\u001f\u00e7\u00bdx",
+        "cp273": ".-\u00a7\u00e6\u00e8\np\u000e*\u00be\u00fa.y\u000b\u00bf\u00c8\u0098\u009c\u00f0\u00d1p\u00bew`\u001f\u00e7\u00bdx"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 25,
+    "height": 1,
+    "axis": "columns/reverse",
+    "values": [
+      239,
+      123,
+      37,
+      244,
+      14,
+      229,
+      126,
+      246,
+      239,
+      110,
+      49,
+      46,
+      248,
+      232,
+      14,
+      243,
+      163,
+      213,
+      120,
+      13,
+      126,
+      226,
+      114,
+      38,
+      79
+    ],
+    "text_views": {
+      "mod26_A0": "ftlkovwmfgxuoyojhfqnwskmb",
+      "mod26_A1": "eskjnuvlefwtnxnigepmvrjla"
+    },
+    "integer_view": {
+      "digits": "2391233724414229126246239110494624823214243163213120131262261143879",
+      "base": 10,
+      "byte_length": 28,
+      "hex": "16b4c466662e465e68660143674521cdf93f23e95f0aa803a692a947",
+      "strict_decodings": {
+        "utf-16-le": "\ub416\u66c4\u2e66\u5e46\u6668\u4301\u4567\ucd21\u3ff9\ue923\u0a5f\u03a8\u92a6\u47a9",
+        "utf-16-be": "\u16b4\uc466\u662e\u465e\u6866\u0143\u6745\u21cd\uf93f\u23e9\u5f0a\ua803\ua692\ua947",
+        "cp037": "\b\u00a9D\u00c3\u00c3\u0006\u00e3;\u00c7\u00c3\u0001\u00e4\u00c5\u00e1\u0081\u00f29\u001a\u0083Z\u00ac\u008ey\u0003wkz\u00e5",
+        "cp273": "\b\u00a9D\u00c3\u00c3\u0006\u00e3;\u00c7\u00c3\u0001{\u00c5\u00e1\u0081\u00f29\u001a\u0083Z^\u008ey\u0003wkz\u00e5"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 25,
+    "height": 1,
+    "axis": "rows_columns/forward",
+    "values": [
+      3531,
+      79,
+      38,
+      114,
+      226,
+      126,
+      13,
+      120,
+      213,
+      163,
+      243,
+      14,
+      232,
+      248,
+      46,
+      49,
+      110,
+      239,
+      246,
+      126,
+      229,
+      14,
+      244,
+      37,
+      123,
+      239
+    ],
+    "text_views": {
+      "mod26_A0": "vbmkswnqfhjoyouxgfmwvokltf",
+      "mod26_A1": "ualjrvmpeginxntwfelvunjkse"
+    },
+    "integer_view": {
+      "digits": "35317938114226126131202131632431423224846491102392461262291424437123239",
+      "base": 10,
+      "byte_length": 30,
+      "hex": "051e03dfbebd04874047482c9e8964c56d82ed28756197b9a6791f48b8a7",
+      "strict_decodings": {
+        "utf-16-be": "\u051e\u03df\ubebd\u0487\u4047\u482c\u9e89\u64c5\u6d82\ued28\u7561\u97b9\ua679\u1f48\ub8a7",
+        "cp037": "\t\u001e\u0003\u00ff\u00b4\u00a8\u009cg \u00e5\u00e7\u008c\u00c6i\u00c0E_b\u00d2\u0088\u00cd/p\u00bew`\u001f\u00e7\u00bdx",
+        "cp273": "\t\u001e\u0003\u00ff\u00b4\u00a8\u009cg \u00e5\u00e7\u008c\u00c6i\u00c0E_b\u00d2\u0088\u00cd/p\u00bew`\u001f\u00e7\u00bdx"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 25,
+    "height": 1,
+    "axis": "rows_columns/reverse",
+    "values": [
+      239,
+      123,
+      37,
+      244,
+      14,
+      229,
+      126,
+      246,
+      239,
+      110,
+      49,
+      46,
+      248,
+      232,
+      14,
+      243,
+      163,
+      213,
+      120,
+      13,
+      126,
+      226,
+      114,
+      38,
+      79,
+      3531
+    ],
+    "text_views": {
+      "mod26_A0": "ftlkovwmfgxuoyojhfqnwskmbv",
+      "mod26_A1": "eskjnuvlefwtnxnigepmvrjlau"
+    },
+    "integer_view": {
+      "digits": "23912337244142291262462391104946248232142431632131201312622611438793531",
+      "base": 10,
+      "byte_length": 30,
+      "hex": "0376f537dff76f9cc7ce109158f1fc787dd8326acc1090430e9ac0f4733b",
+      "strict_decodings": {
+        "cp037": "\u0003\u00ce5\u0004\u00ff7?\u00e6G\u00f3\u0010j\u00ec1\u00dc\u00cc'Q\u0016\u00a6\u00f6\u0010\u00b0\u00e4\u000e\u00aa{4\u00cb\u009b",
+        "cp273": "\u0003\u00ce5\u0004\u00ff7?\u00e6G\u00f3\u0010j\u00ec1]\u00cc'Q\u0016\u00f6\u00a6\u0010\u00b0{\u000e\u00aa\u00e44\u00cb\u009b"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 25,
+    "height": 1,
+    "axis": "columns_rows/forward",
+    "values": [
+      79,
+      38,
+      114,
+      226,
+      126,
+      13,
+      120,
+      213,
+      163,
+      243,
+      14,
+      232,
+      248,
+      46,
+      49,
+      110,
+      239,
+      246,
+      126,
+      229,
+      14,
+      244,
+      37,
+      123,
+      239,
+      3531
+    ],
+    "text_views": {
+      "mod26_A0": "bmkswnqfhjoyouxgfmwvokltfv",
+      "mod26_A1": "aljrvmpeginxntwfelvunjkseu"
+    },
+    "integer_view": {
+      "digits": "79381142261261312021316324314232248464911023924612622914244371232393531",
+      "base": 10,
+      "byte_length": 30,
+      "hex": "0b8069039a96fc5ca1061c7b6b5447d96bcc31acdcb6c3f6db5608ad093b",
+      "strict_decodings": {
+        "cp037": "\u000b\u00d8\u00d1\u0003\u00aao\u00dc*~\u0086\u001c#,\u00e8\u00e5R,\u00f6\u0091\u00d0\u00fc\u00b6C6\u00fb\u00ee\u0097\u00dd\u008d\u009b",
+        "cp273": "\u000b\u00d8\u00d1\u0003\u00aao]*\u00df\u0086\u001c#,\u00e8\u00e5R,\u00a6\u0091\u00d0}\u00b6C6\u00fb\u00ee\u0097\u00dd\u008d\u009b"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "unsigned8",
+    "width": 25,
+    "height": 1,
+    "axis": "columns_rows/reverse",
+    "values": [
+      3531,
+      239,
+      123,
+      37,
+      244,
+      14,
+      229,
+      126,
+      246,
+      239,
+      110,
+      49,
+      46,
+      248,
+      232,
+      14,
+      243,
+      163,
+      213,
+      120,
+      13,
+      126,
+      226,
+      114,
+      38,
+      79
+    ],
+    "text_views": {
+      "mod26_A0": "vftlkovwmfgxuoyojhfqnwskmb",
+      "mod26_A1": "ueskjnuvlefwtnxnigepmvrjla"
+    },
+    "integer_view": {
+      "digits": "35312391233724414229126246239110494624823214243163213120131262261143879",
+      "base": 10,
+      "byte_length": 30,
+      "hex": "051dcf340687168fef9753d8c18123fee3dcae630ce15f0aa803a692a947",
+      "strict_decodings": {
+        "utf-16-be": "\u051d\ucf34\u0687\u168f\uef97\u53d8\uc181\u23fe\ue3dc\uae63\u0ce1\u5f0a\ua803\ua692\ua947",
+        "cp037": "\t\u001d\u00f5\u0094\u0086g\b\u00b1\u00d5p\u00ebQAa\u0083\u00daT\u00fc\u00de\u00c4\f\u00f7\u00ac\u008ey\u0003wkz\u00e5",
+        "cp273": "\t\u001d\u00f5\u0094\u0086g\b\u00b1\u00d5p\u00ebQAa\u0083\u00daT}\u00de[\f\u00f7^\u008ey\u0003wkz\u00e5"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 1,
+    "height": 25,
+    "axis": "rows/forward",
+    "values": [
+      79,
+      38,
+      114,
+      -30,
+      126,
+      13,
+      120,
+      -43,
+      -93,
+      -13,
+      14,
+      -24,
+      -8,
+      46,
+      49,
+      110,
+      -17,
+      -10,
+      126,
+      -27,
+      14,
+      -12,
+      37,
+      123,
+      -17
+    ],
+    "text_views": {
+      "mod26_A0": "bmkwwnqjlnocsuxgjqwzooltj",
+      "mod26_A1": "aljvvmpikmnbrtwfipvynnksi"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 1,
+    "height": 25,
+    "axis": "rows/reverse",
+    "values": [
+      -17,
+      123,
+      37,
+      -12,
+      14,
+      -27,
+      126,
+      -10,
+      -17,
+      110,
+      49,
+      46,
+      -8,
+      -24,
+      14,
+      -13,
+      -93,
+      -43,
+      120,
+      13,
+      126,
+      -30,
+      114,
+      38,
+      79
+    ],
+    "text_views": {
+      "mod26_A0": "jtloozwqjgxusconljqnwwkmb",
+      "mod26_A1": "isknnyvpifwtrbnmkipmvvjla"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 1,
+    "height": 25,
+    "axis": "columns/forward",
+    "values": [
+      715
+    ],
+    "text_views": {
+      "mod26_A0": "n",
+      "mod26_A1": "m"
+    },
+    "integer_view": {
+      "digits": "715",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "02cb",
+      "strict_decodings": {
+        "utf-16-le": "\ucb02",
+        "utf-16-be": "\u02cb",
+        "cp037": "\u0002\u00f4",
+        "cp273": "\u0002\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 1,
+    "height": 25,
+    "axis": "columns/reverse",
+    "values": [
+      715
+    ],
+    "text_views": {
+      "mod26_A0": "n",
+      "mod26_A1": "m"
+    },
+    "integer_view": {
+      "digits": "715",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "02cb",
+      "strict_decodings": {
+        "utf-16-le": "\ucb02",
+        "utf-16-be": "\u02cb",
+        "cp037": "\u0002\u00f4",
+        "cp273": "\u0002\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 1,
+    "height": 25,
+    "axis": "rows_columns/forward",
+    "values": [
+      79,
+      38,
+      114,
+      -30,
+      126,
+      13,
+      120,
+      -43,
+      -93,
+      -13,
+      14,
+      -24,
+      -8,
+      46,
+      49,
+      110,
+      -17,
+      -10,
+      126,
+      -27,
+      14,
+      -12,
+      37,
+      123,
+      -17,
+      715
+    ],
+    "text_views": {
+      "mod26_A0": "bmkwwnqjlnocsuxgjqwzooltjn",
+      "mod26_A1": "aljvvmpikmnbrtwfipvynnksim"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 1,
+    "height": 25,
+    "axis": "rows_columns/reverse",
+    "values": [
+      715,
+      -17,
+      123,
+      37,
+      -12,
+      14,
+      -27,
+      126,
+      -10,
+      -17,
+      110,
+      49,
+      46,
+      -8,
+      -24,
+      14,
+      -13,
+      -93,
+      -43,
+      120,
+      13,
+      126,
+      -30,
+      114,
+      38,
+      79
+    ],
+    "text_views": {
+      "mod26_A0": "njtloozwqjgxusconljqnwwkmb",
+      "mod26_A1": "misknnyvpifwtrbnmkipmvvjla"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 1,
+    "height": 25,
+    "axis": "columns_rows/forward",
+    "values": [
+      715,
+      79,
+      38,
+      114,
+      -30,
+      126,
+      13,
+      120,
+      -43,
+      -93,
+      -13,
+      14,
+      -24,
+      -8,
+      46,
+      49,
+      110,
+      -17,
+      -10,
+      126,
+      -27,
+      14,
+      -12,
+      37,
+      123,
+      -17
+    ],
+    "text_views": {
+      "mod26_A0": "nbmkwwnqjlnocsuxgjqwzooltj",
+      "mod26_A1": "maljvvmpikmnbrtwfipvynnksi"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 1,
+    "height": 25,
+    "axis": "columns_rows/reverse",
+    "values": [
+      -17,
+      123,
+      37,
+      -12,
+      14,
+      -27,
+      126,
+      -10,
+      -17,
+      110,
+      49,
+      46,
+      -8,
+      -24,
+      14,
+      -13,
+      -93,
+      -43,
+      120,
+      13,
+      126,
+      -30,
+      114,
+      38,
+      79,
+      715
+    ],
+    "text_views": {
+      "mod26_A0": "jtloozwqjgxusconljqnwwkmbn",
+      "mod26_A1": "isknnyvpifwtrbnmkipmvvjlam"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 5,
+    "height": 5,
+    "axis": "rows/forward",
+    "values": [
+      327,
+      -16,
+      77,
+      182,
+      145
+    ],
+    "text_views": {
+      "mod26_A0": "pkzap",
+      "mod26_A1": "ojyzo"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 5,
+    "height": 5,
+    "axis": "rows/reverse",
+    "values": [
+      145,
+      182,
+      77,
+      -16,
+      327
+    ],
+    "text_views": {
+      "mod26_A0": "pazkp",
+      "mod26_A1": "ozyjo"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 5,
+    "height": 5,
+    "axis": "columns/forward",
+    "values": [
+      230,
+      105,
+      90,
+      172,
+      118
+    ],
+    "text_views": {
+      "mod26_A0": "wbmqo",
+      "mod26_A1": "valpn"
+    },
+    "integer_view": {
+      "digits": "23010590172118",
+      "base": 10,
+      "byte_length": 6,
+      "hex": "14ed920da3d6",
+      "strict_decodings": {
+        "utf-16-le": "\ued14\u0d92\ud6a3",
+        "utf-16-be": "\u14ed\u920d\ua3d6",
+        "cp037": "\u009d\u00d2k\rtO",
+        "cp273": "\u009d\u00d2k\rtO"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 5,
+    "height": 5,
+    "axis": "columns/reverse",
+    "values": [
+      118,
+      172,
+      90,
+      105,
+      230
+    ],
+    "text_views": {
+      "mod26_A0": "oqmbw",
+      "mod26_A1": "nplav"
+    },
+    "integer_view": {
+      "digits": "11817290105230",
+      "base": 10,
+      "byte_length": 6,
+      "hex": "0abf6d61018e",
+      "strict_decodings": {
+        "utf-16-le": "\ubf0a\u616d\u8e01",
+        "utf-16-be": "\u0abf\u6d61\u018e",
+        "cp037": "\u008e\u00d7_/\u0001\u00fe",
+        "cp273": "\u008e\u00d7_/\u0001\u00fe"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 5,
+    "height": 5,
+    "axis": "rows_columns/forward",
+    "values": [
+      327,
+      -16,
+      77,
+      182,
+      145,
+      230,
+      105,
+      90,
+      172,
+      118
+    ],
+    "text_views": {
+      "mod26_A0": "pkzapwbmqo",
+      "mod26_A1": "ojyzovalpn"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 5,
+    "height": 5,
+    "axis": "rows_columns/reverse",
+    "values": [
+      118,
+      172,
+      90,
+      105,
+      230,
+      145,
+      182,
+      77,
+      -16,
+      327
+    ],
+    "text_views": {
+      "mod26_A0": "oqmbwpazkp",
+      "mod26_A1": "nplavozyjo"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 5,
+    "height": 5,
+    "axis": "columns_rows/forward",
+    "values": [
+      230,
+      105,
+      90,
+      172,
+      118,
+      327,
+      -16,
+      77,
+      182,
+      145
+    ],
+    "text_views": {
+      "mod26_A0": "wbmqopkzap",
+      "mod26_A1": "valpnojyzo"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 5,
+    "height": 5,
+    "axis": "columns_rows/reverse",
+    "values": [
+      145,
+      182,
+      77,
+      -16,
+      327,
+      118,
+      172,
+      90,
+      105,
+      230
+    ],
+    "text_views": {
+      "mod26_A0": "pazkpoqmbw",
+      "mod26_A1": "ozyjonplav"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 25,
+    "height": 1,
+    "axis": "rows/forward",
+    "values": [
+      715
+    ],
+    "text_views": {
+      "mod26_A0": "n",
+      "mod26_A1": "m"
+    },
+    "integer_view": {
+      "digits": "715",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "02cb",
+      "strict_decodings": {
+        "utf-16-le": "\ucb02",
+        "utf-16-be": "\u02cb",
+        "cp037": "\u0002\u00f4",
+        "cp273": "\u0002\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 25,
+    "height": 1,
+    "axis": "rows/reverse",
+    "values": [
+      715
+    ],
+    "text_views": {
+      "mod26_A0": "n",
+      "mod26_A1": "m"
+    },
+    "integer_view": {
+      "digits": "715",
+      "base": 10,
+      "byte_length": 2,
+      "hex": "02cb",
+      "strict_decodings": {
+        "utf-16-le": "\ucb02",
+        "utf-16-be": "\u02cb",
+        "cp037": "\u0002\u00f4",
+        "cp273": "\u0002\u00f4"
+      },
+      "fully_printable_ascii": false
+    },
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 25,
+    "height": 1,
+    "axis": "columns/forward",
+    "values": [
+      79,
+      38,
+      114,
+      -30,
+      126,
+      13,
+      120,
+      -43,
+      -93,
+      -13,
+      14,
+      -24,
+      -8,
+      46,
+      49,
+      110,
+      -17,
+      -10,
+      126,
+      -27,
+      14,
+      -12,
+      37,
+      123,
+      -17
+    ],
+    "text_views": {
+      "mod26_A0": "bmkwwnqjlnocsuxgjqwzooltj",
+      "mod26_A1": "aljvvmpikmnbrtwfipvynnksi"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 25,
+    "height": 1,
+    "axis": "columns/reverse",
+    "values": [
+      -17,
+      123,
+      37,
+      -12,
+      14,
+      -27,
+      126,
+      -10,
+      -17,
+      110,
+      49,
+      46,
+      -8,
+      -24,
+      14,
+      -13,
+      -93,
+      -43,
+      120,
+      13,
+      126,
+      -30,
+      114,
+      38,
+      79
+    ],
+    "text_views": {
+      "mod26_A0": "jtloozwqjgxusconljqnwwkmb",
+      "mod26_A1": "isknnyvpifwtrbnmkipmvvjla"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 25,
+    "height": 1,
+    "axis": "rows_columns/forward",
+    "values": [
+      715,
+      79,
+      38,
+      114,
+      -30,
+      126,
+      13,
+      120,
+      -43,
+      -93,
+      -13,
+      14,
+      -24,
+      -8,
+      46,
+      49,
+      110,
+      -17,
+      -10,
+      126,
+      -27,
+      14,
+      -12,
+      37,
+      123,
+      -17
+    ],
+    "text_views": {
+      "mod26_A0": "nbmkwwnqjlnocsuxgjqwzooltj",
+      "mod26_A1": "maljvvmpikmnbrtwfipvynnksi"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 25,
+    "height": 1,
+    "axis": "rows_columns/reverse",
+    "values": [
+      -17,
+      123,
+      37,
+      -12,
+      14,
+      -27,
+      126,
+      -10,
+      -17,
+      110,
+      49,
+      46,
+      -8,
+      -24,
+      14,
+      -13,
+      -93,
+      -43,
+      120,
+      13,
+      126,
+      -30,
+      114,
+      38,
+      79,
+      715
+    ],
+    "text_views": {
+      "mod26_A0": "jtloozwqjgxusconljqnwwkmbn",
+      "mod26_A1": "isknnyvpifwtrbnmkipmvvjlam"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 25,
+    "height": 1,
+    "axis": "columns_rows/forward",
+    "values": [
+      79,
+      38,
+      114,
+      -30,
+      126,
+      13,
+      120,
+      -43,
+      -93,
+      -13,
+      14,
+      -24,
+      -8,
+      46,
+      49,
+      110,
+      -17,
+      -10,
+      126,
+      -27,
+      14,
+      -12,
+      37,
+      123,
+      -17,
+      715
+    ],
+    "text_views": {
+      "mod26_A0": "bmkwwnqjlnocsuxgjqwzooltjn",
+      "mod26_A1": "aljvvmpikmnbrtwfipvynnksim"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  },
+  {
+    "interpretation": "signed8",
+    "width": 25,
+    "height": 1,
+    "axis": "columns_rows/reverse",
+    "values": [
+      715,
+      -17,
+      123,
+      37,
+      -12,
+      14,
+      -27,
+      126,
+      -10,
+      -17,
+      110,
+      49,
+      46,
+      -8,
+      -24,
+      14,
+      -13,
+      -93,
+      -43,
+      120,
+      13,
+      126,
+      -30,
+      114,
+      38,
+      79
+    ],
+    "text_views": {
+      "mod26_A0": "njtloozwqjgxusconljqnwwkmb",
+      "mod26_A1": "misknnyvpifwtrbnmkipmvvjla"
+    },
+    "integer_view": null,
+    "exact_label_matches": [],
+    "exact_FAED": false,
+    "exact_DBBI": false
+  }
+]

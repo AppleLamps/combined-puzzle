@@ -1,0 +1,258 @@
+{
+  "serial83": {
+    "binary_label": {
+      "complete": false,
+      "reason": "marker disagreement",
+      "slot": 97,
+      "offset": 13,
+      "expected": "be",
+      "actual": "aa",
+      "cells": [
+        {
+          "slot": 84,
+          "start": 0,
+          "end": 1,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 85,
+          "start": 1,
+          "end": 2,
+          "token": "b",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 86,
+          "start": 2,
+          "end": 3,
+          "token": "b",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 87,
+          "start": 3,
+          "end": 4,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 88,
+          "start": 4,
+          "end": 5,
+          "token": "b",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 89,
+          "start": 5,
+          "end": 6,
+          "token": "b",
+          "prime": true,
+          "marker_ordinal": 24
+        },
+        {
+          "slot": 90,
+          "start": 6,
+          "end": 7,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 91,
+          "start": 7,
+          "end": 8,
+          "token": "b",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 92,
+          "start": 8,
+          "end": 9,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 93,
+          "start": 9,
+          "end": 10,
+          "token": "b",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 94,
+          "start": 10,
+          "end": 11,
+          "token": "b",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 95,
+          "start": 11,
+          "end": 12,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 96,
+          "start": 12,
+          "end": 13,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        }
+      ],
+      "marker": 24
+    },
+    "FAED_label_skipped": {
+      "complete": false,
+      "reason": "marker disagreement",
+      "slot": 89,
+      "offset": 5,
+      "expected": "b",
+      "actual": "g",
+      "cells": [
+        {
+          "slot": 84,
+          "start": 0,
+          "end": 1,
+          "token": "f",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 85,
+          "start": 1,
+          "end": 2,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 86,
+          "start": 2,
+          "end": 3,
+          "token": "e",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 87,
+          "start": 3,
+          "end": 4,
+          "token": "d",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 88,
+          "start": 4,
+          "end": 5,
+          "token": "g",
+          "prime": false,
+          "marker_ordinal": null
+        }
+      ],
+      "marker": 23
+    }
+  },
+  "perbyte84": {
+    "binary_label": {
+      "complete": false,
+      "reason": "marker disagreement",
+      "slot": 89,
+      "offset": 4,
+      "expected": "be",
+      "actual": "bb",
+      "cells": [
+        {
+          "slot": 85,
+          "start": 0,
+          "end": 1,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 86,
+          "start": 1,
+          "end": 2,
+          "token": "b",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 87,
+          "start": 2,
+          "end": 3,
+          "token": "b",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 88,
+          "start": 3,
+          "end": 4,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        }
+      ],
+      "marker": 23
+    },
+    "FAED_label_skipped": {
+      "complete": false,
+      "reason": "marker disagreement",
+      "slot": 89,
+      "offset": 4,
+      "expected": "be",
+      "actual": "gg",
+      "cells": [
+        {
+          "slot": 85,
+          "start": 0,
+          "end": 1,
+          "token": "f",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 86,
+          "start": 1,
+          "end": 2,
+          "token": "a",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 87,
+          "start": 2,
+          "end": 3,
+          "token": "e",
+          "prime": false,
+          "marker_ordinal": null
+        },
+        {
+          "slot": 88,
+          "start": 3,
+          "end": 4,
+          "token": "d",
+          "prime": false,
+          "marker_ordinal": null
+        }
+      ],
+      "marker": 23
+    }
+  }
+}

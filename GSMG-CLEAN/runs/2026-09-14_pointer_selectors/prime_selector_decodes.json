@@ -1,0 +1,106 @@
+[
+ {
+  "target": "FAED_570",
+  "selector": "prime_positions_kept",
+  "selected_length": 104,
+  "bytes": "7089a8ee5b71ca15d60573d7e86a52079e3da4a1e5dc98dc64f0b1eb253615ffd7120f0f22f076e72d0321",
+  "printable": false,
+  "text": "p\u0089\u00a8\u00ee[q\u00ca\u0015\u00d6\u0005s\u00d7\u00e8jR\u0007\u009e=\u00a4\u00a1\u00e5\u00dc\u0098\u00dcd\u00f0\u00b1\u00eb%6\u0015\u00ff\u00d7\u0012\u000f\u000f\"\u00f0v\u00e7-\u0003!"
+ },
+ {
+  "target": "FAED_570",
+  "selector": "prime_positions_zeroed",
+  "selected_length": 570,
+  "bytes": "1b271b3effa14079a0b11ccd7c0693747d65c8200258c481f0a344721dbe7b217e9e6c97543f60134f93848010d87cbfadb345d3f182aa230ecef6de567a821c61d64bc65c6d7b374cd5c79a50d49b4cbaa536969627337c82b99d0c75837148cc4b0a72c2329c5310aadfbb7ce6fa6907918e987fe1b5034a168998545c18227d0ebf46a74c56006ca3bc038164dcac50e5bf88e5b73c6919a5eba948da7e057ee646df617cda385008a237f053caa94122ace625328a8f85f9b544a1d4de137614091ad472a67d3c9d030fee296f2f94d6b00ad930df4d768b20420ea959faae2f88e20cffde15a0eb35991b",
+  "printable": false,
+  "text": "\u001b'\u001b>\u00ff\u00a1@y\u00a0\u00b1\u001c\u00cd|\u0006\u0093t}e\u00c8 \u0002X\u00c4\u0081\u00f0\u00a3Dr\u001d\u00be{!~\u009el\u0097T?`\u0013O\u0093\u0084\u0080\u0010\u00d8|\u00bf\u00ad\u00b3E\u00d3\u00f1\u0082\u00aa#\u000e\u00ce\u00f6\u00deVz\u0082\u001ca\u00d6K\u00c6\\m{7L\u00d5\u00c7\u009aP\u00d4\u009bL\u00ba\u00a56\u0096\u0096'3|\u0082\u00b9\u009d\fu\u0083qH\u00ccK\nr\u00c22\u009cS\u0010\u00aa\u00df\u00bb|\u00e6\u00fai\u0007\u0091\u008e\u0098\u007f\u00e1\u00b5\u0003J\u0016\u0089\u0098T\\\u0018\"}\u000e\u00bfF\u00a7LV\u0000l\u00a3\u00bc\u0003\u0081d\u00dc\u00acP\u00e5\u00bf\u0088\u00e5\u00b7<i\u0019\u00a5\u00eb\u00a9H\u00da~\u0005~\u00e6F\u00dfa|\u00da8P\b\u00a27\u00f0S\u00ca\u00a9A\"\u00ac\u00e6%2\u008a\u008f\u0085\u00f9\u00b5D\u00a1\u00d4\u00de\u0013v\u0014\t\u001a\u00d4r\u00a6}<\u009d\u0003\u000f\u00ee)o/\u0094\u00d6\u00b0\n\u00d90\u00dfMv\u008b B\u000e\u00a9Y\u00fa\u00ae/\u0088\u00e2\f\u00ff\u00de\u0015\u00a0\u00eb5\u0099\u001b"
+ },
+ {
+  "target": "FAED_570",
+  "selector": "nonprime_positions_zeroed",
+  "selected_length": 570,
+  "bytes": "ae79de3c93b8e57f914ed8402d687f58d70fb9e13dac22afe77d4a0f4452a9391888ac8b0483628a30bb1ec66060126289aaf37d3b5f7010f78bcb5fb9e0b6140c5b49b49bd52b573312080f0fec0ffb087869ab95cc7811ed2fd2fe104d1a85076a4830883a770ea6240dfd528914b439595fde9b6a01b30905d0081572f3e9fab980fd425e67c0ec88ed84a135b040f04568b9ec15cd1684247c830b90be4591331dc201b9aa903d82827e5f395b3360d8758525240cdc84df94b8d70e4a2ee6752c0ad06ae81ce316c93a2a7e5bf9e913378ed1dc65d41efb3b91fc4f6ed5d4d2a8de1fd0bc1adc86275a",
+  "printable": false,
+  "text": "\u00aey\u00de<\u0093\u00b8\u00e5\u007f\u0091N\u00d8@-h\u007fX\u00d7\u000f\u00b9\u00e1=\u00ac\"\u00af\u00e7}J\u000fDR\u00a99\u0018\u0088\u00ac\u008b\u0004\u0083b\u008a0\u00bb\u001e\u00c6``\u0012b\u0089\u00aa\u00f3};_p\u0010\u00f7\u008b\u00cb_\u00b9\u00e0\u00b6\u0014\f[I\u00b4\u009b\u00d5+W3\u0012\b\u000f\u000f\u00ec\u000f\u00fb\bxi\u00ab\u0095\u00ccx\u0011\u00ed/\u00d2\u00fe\u0010M\u001a\u0085\u0007jH0\u0088:w\u000e\u00a6$\r\u00fdR\u0089\u0014\u00b49Y_\u00de\u009bj\u0001\u00b3\t\u0005\u00d0\b\u0015r\u00f3\u00e9\u00fa\u00b9\u0080\u00fdB^g\u00c0\u00ec\u0088\u00ed\u0084\u00a15\u00b0@\u00f0Eh\u00b9\u00ec\u0015\u00cd\u0016\u0084$|\u0083\u000b\u0090\u00beE\u00913\u001d\u00c2\u0001\u00b9\u00aa\u0090=\u0082\u0082~_9[3`\u00d8u\u0085%$\f\u00dc\u0084\u00df\u0094\u00b8\u00d7\u000eJ.\u00e6u,\n\u00d0j\u00e8\u001c\u00e3\u0016\u00c9:*~[\u00f9\u00e9\u00137\u008e\u00d1\u00dce\u00d4\u001e\u00fb;\u0091\u00fcOn\u00d5\u00d4\u00d2\u00a8\u00de\u001f\u00d0\u00bc\u001a\u00dc\u0086'Z"
+ },
+ {
+  "target": "DBBI_91",
+  "selector": "prime_positions_kept",
+  "selected_length": 24,
+  "bytes": "2f0ef55a9df4abb6cf3b",
+  "printable": false,
+  "text": "/\u000e\u00f5Z\u009d\u00f4\u00ab\u00b6\u00cf;"
+ },
+ {
+  "target": "DBBI_91",
+  "selector": "prime_positions_zeroed",
+  "selected_length": 91,
+  "bytes": "1f7d4726db19b905c80ea35dac1c042cb22be440c4b9891d31618913b1667db2d67e8cd92811",
+  "printable": false,
+  "text": "\u001f}G&\u00db\u0019\u00b9\u0005\u00c8\u000e\u00a3]\u00ac\u001c\u0004,\u00b2+\u00e4@\u00c4\u00b9\u0089\u001d1a\u0089\u0013\u00b1f}\u00b2\u00d6~\u008c\u00d9(\u0011"
+ },
+ {
+  "target": "DBBI_91",
+  "selector": "nonprime_positions_zeroed",
+  "selected_length": 91,
+  "bytes": "01bac63f6bc4983dcebc17002800f33d79749ac655a15dcd856862b8a833d0ba744232130964",
+  "printable": false,
+  "text": "\u0001\u00ba\u00c6?k\u00c4\u0098=\u00ce\u00bc\u0017\u0000(\u0000\u00f3=yt\u009a\u00c6U\u00a1]\u00cd\u0085hb\u00b8\u00a83\u00d0\u00batB2\u0013\td"
+ },
+ {
+  "target": "DBBI_91",
+  "selector": "B_prime_positions_zeroed",
+  "selected_length": 91,
+  "bytes": "1f7d4726e1d8f4da446b279384d4a77b35eace4de40d458f29d129ab4d09e82d943560174875",
+  "printable": false,
+  "text": "\u001f}G&\u00e1\u00d8\u00f4\u00daDk'\u0093\u0084\u00d4\u00a7{5\u00ea\u00ceM\u00e4\rE\u008f)\u00d1)\u00abM\t\u00e8-\u00945`\u0017Hu"
+ },
+ {
+  "target": "DBBI_91",
+  "selector": "B_prime_positions_removed",
+  "selected_length": 76,
+  "bytes": "0afbf9ffc864848a9ad39612705e0d557129024a6487ff113534bed090db8575",
+  "printable": false,
+  "text": "\n\u00fb\u00f9\u00ff\u00c8d\u0084\u008a\u009a\u00d3\u0096\u0012p^\rUq)\u0002Jd\u0087\u00ff\u001154\u00be\u00d0\u0090\u00db\u0085u"
+ },
+ {
+  "target": "DBBI_91",
+  "selector": "Y_prime_positions_zeroed",
+  "selected_length": 91,
+  "bytes": "21380d66401f156f1a6e3627fb64541ba7e194f9fb072a78be5a4b34bdf6e3f28d09ebae1111",
+  "printable": false,
+  "text": "!8\rf@\u001f\u0015o\u001an6'\u00fbdT\u001b\u00a7\u00e1\u0094\u00f9\u00fb\u0007*x\u00beZK4\u00bd\u00f6\u00e3\u00f2\u008d\t\u00eb\u00ae\u0011\u0011"
+ },
+ {
+  "target": "DBBI_91",
+  "selector": "Y_prime_positions_removed",
+  "selected_length": 82,
+  "bytes": "8eaca06f0d8a247d4237eda55f135dab3c3948f03cbd60918f75ddc0306b788d2b65",
+  "printable": false,
+  "text": "\u008e\u00ac\u00a0o\r\u008a$}B7\u00ed\u00a5_\u0013]\u00ab<9H\u00f0<\u00bd`\u0091\u008fu\u00dd\u00c00kx\u008d+e"
+ },
+ {
+  "target": "digits149",
+  "selector": "prime_positions_kept",
+  "selected_length": 35,
+  "bytes": "09ed34ed8cbffe5c77506da0e61dbc",
+  "printable": false,
+  "text": "\t\u00ed4\u00ed\u008c\u00bf\u00fe\\wPm\u00a0\u00e6\u001d\u00bc"
+ },
+ {
+  "target": "digits149",
+  "selector": "prime_positions_zeroed",
+  "selected_length": 149,
+  "bytes": "0c96d79dad2a794269f9204f6b4d1b4091b9a9d3cde742301e0257245b9f06f81c93de59ab4da8dace0c6e2752d5a772ae58ae3a5e8b591b0f41d28e2fbe",
+  "printable": false,
+  "text": "\f\u0096\u00d7\u009d\u00ad*yBi\u00f9 OkM\u001b@\u0091\u00b9\u00a9\u00d3\u00cd\u00e7B0\u001e\u0002W$[\u009f\u0006\u00f8\u001c\u0093\u00deY\u00abM\u00a8\u00da\u00ce\fn'R\u00d5\u00a7r\u00aeX\u00ae:^\u008bY\u001b\u000fA\u00d2\u008e/\u00be"
+ },
+ {
+  "target": "digits149",
+  "selector": "nonprime_positions_zeroed",
+  "selected_length": 149,
+  "bytes": "066350750917092465145d4965e4bf3fdc1768da91306f22d478b84fa51e35d445263cd305fb8f628284f6d3672549cd1ec3880c0d0e99773ea645382402",
+  "printable": false,
+  "text": "\u0006cPu\t\u0017\t$e\u0014]Ie\u00e4\u00bf?\u00dc\u0017h\u00da\u00910o\"\u00d4x\u00b8O\u00a5\u001e5\u00d4E&<\u00d3\u0005\u00fb\u008fb\u0082\u0084\u00f6\u00d3g%I\u00cd\u001e\u00c3\u0088\f\r\u000e\u0099w>\u00a6E8$\u0002"
+ }
+]

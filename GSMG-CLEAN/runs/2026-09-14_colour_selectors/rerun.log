@@ -1,0 +1,15 @@
+142 letter outputs from 10 selector lists + 3 lattices x 2 shapes
+15600 control readings; control max 3
+  score   2  ordinary_yellow_nearest cumulative arch_index0  'EUMENNETHEOHGGPEUTETNAL'
+  score   2  faed_at_ordinary_slots cumulative arch_index0  'FTFAEUBAAAHENTGIFSYRTTALYHPIFIHELIOSHERAAEHIAEUU'
+  score   1  ordinary_all raw arch_index0  'LSFIRRESIOIISIEEIEIUEIIIIIIFOFLIFFRLUFRRREFIEEIR'
+  score   1  ordinary_all cumulative mod26_A0  'entbehoxfglqzhovahmovaiqvdlrsyckqwzdflorubhmtafi'
+  score   1  ordinary_all cumulative arch_index0  'LSRRANENTTPAHETTTNYHPYSSEBMFRTTANTMCLSNIINDSSDIO'
+  score   1  segment_sums_bounded_B cumulative mod26_A0  'entasxzgcdyukqbg'
+  score   1  segment_sums_bounded_Y raw mod26_A1  'nverfai'
+  score   1  yellow_rows_ordinary_6x14 raw arch_index0  'LSFIRRESIOIISIEEIEIUEIIIIIIFOFLIFFRLUFRRREFIEEIR'
+  score   1  yellow_rows_ordinary_6x14 cumulative mod26_A0  'entbehoxfglqzhovahmovaiqvdlrsyckqwzdflorubhmtafi'
+  score   1  yellow_rows_ordinary_6x14 cumulative arch_index0  'LSRRANENTTPAHETTTNYHPYSSEBMFRTTANTMCLSNIINDSSDIO'
+planted-controls max score 3 (power: False)
+exact oracles: 142 outputs, 0 with a hit
+WROTE E:\rabbit-combined\GSMG-CLEAN\runs\2026-09-14_colour_selectors

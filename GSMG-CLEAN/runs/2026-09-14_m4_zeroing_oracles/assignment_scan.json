@@ -1,0 +1,871 @@
+[
+ {
+  "rotation": 0,
+  "direction": 1,
+  "yellow": 479,
+  "blue": 484,
+  "difference": 5,
+  "larger_side": "B",
+  "zeroable": true,
+  "zeroed_prime": 5,
+  "balanced_value": 479,
+  "zeroed_marker_1based": 3,
+  "selected": {
+   "letters1539_0based": "PRIVATEKEY",
+   "letters1539_1based": "EPRIVATEKE",
+   "compact1544_0based": "EPRIVATEKE"
+  },
+  "notable_at_balance": [
+   "PRIVATEKEY",
+   "PRIVATEKEY",
+   "PRIVATE",
+   "PRIVATE"
+  ]
+ },
+ {
+  "rotation": 0,
+  "direction": -1,
+  "yellow": 273,
+  "blue": 690,
+  "difference": 417,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 417,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 1,
+  "direction": 1,
+  "yellow": 428,
+  "blue": 535,
+  "difference": 107,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 107,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 1,
+  "direction": -1,
+  "yellow": 307,
+  "blue": 656,
+  "difference": 349,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 349,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 2,
+  "direction": 1,
+  "yellow": 463,
+  "blue": 500,
+  "difference": 37,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 37,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 2,
+  "direction": -1,
+  "yellow": 341,
+  "blue": 622,
+  "difference": 281,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 281,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 3,
+  "direction": 1,
+  "yellow": 406,
+  "blue": 557,
+  "difference": 151,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 151,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 3,
+  "direction": -1,
+  "yellow": 377,
+  "blue": 586,
+  "difference": 209,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 209,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 4,
+  "direction": 1,
+  "yellow": 348,
+  "blue": 615,
+  "difference": 267,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 267,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 4,
+  "direction": -1,
+  "yellow": 316,
+  "blue": 647,
+  "difference": 331,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 331,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 5,
+  "direction": 1,
+  "yellow": 381,
+  "blue": 582,
+  "difference": 201,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 201,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 5,
+  "direction": -1,
+  "yellow": 355,
+  "blue": 608,
+  "difference": 253,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 253,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 6,
+  "direction": 1,
+  "yellow": 320,
+  "blue": 643,
+  "difference": 323,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 323,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 6,
+  "direction": -1,
+  "yellow": 389,
+  "blue": 574,
+  "difference": 185,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 185,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 7,
+  "direction": 1,
+  "yellow": 268,
+  "blue": 695,
+  "difference": 427,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 427,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 7,
+  "direction": -1,
+  "yellow": 421,
+  "blue": 542,
+  "difference": 121,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 121,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 8,
+  "direction": 1,
+  "yellow": 295,
+  "blue": 668,
+  "difference": 373,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 373,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 8,
+  "direction": -1,
+  "yellow": 376,
+  "blue": 587,
+  "difference": 211,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 211,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 9,
+  "direction": 1,
+  "yellow": 325,
+  "blue": 638,
+  "difference": 313,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 313,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 9,
+  "direction": -1,
+  "yellow": 316,
+  "blue": 647,
+  "difference": 331,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 331,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 10,
+  "direction": 1,
+  "yellow": 270,
+  "blue": 693,
+  "difference": 423,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 423,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 10,
+  "direction": -1,
+  "yellow": 345,
+  "blue": 618,
+  "difference": 273,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 273,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 11,
+  "direction": 1,
+  "yellow": 297,
+  "blue": 666,
+  "difference": 369,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 369,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 11,
+  "direction": -1,
+  "yellow": 379,
+  "blue": 584,
+  "difference": 205,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 205,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 12,
+  "direction": 1,
+  "yellow": 335,
+  "blue": 628,
+  "difference": 293,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 293,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 12,
+  "direction": -1,
+  "yellow": 417,
+  "blue": 546,
+  "difference": 129,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 129,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 13,
+  "direction": 1,
+  "yellow": 367,
+  "blue": 596,
+  "difference": 229,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 229,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 13,
+  "direction": -1,
+  "yellow": 453,
+  "blue": 510,
+  "difference": 57,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 57,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 14,
+  "direction": 1,
+  "yellow": 403,
+  "blue": 560,
+  "difference": 157,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 157,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 14,
+  "direction": -1,
+  "yellow": 396,
+  "blue": 567,
+  "difference": 171,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 171,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 15,
+  "direction": 1,
+  "yellow": 352,
+  "blue": 611,
+  "difference": 259,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 259,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 15,
+  "direction": -1,
+  "yellow": 435,
+  "blue": 528,
+  "difference": 93,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 93,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 16,
+  "direction": 1,
+  "yellow": 292,
+  "blue": 671,
+  "difference": 379,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 379,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 16,
+  "direction": -1,
+  "yellow": 465,
+  "blue": 498,
+  "difference": 33,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 33,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 17,
+  "direction": 1,
+  "yellow": 323,
+  "blue": 640,
+  "difference": 317,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 317,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 17,
+  "direction": -1,
+  "yellow": 412,
+  "blue": 551,
+  "difference": 139,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 139,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 18,
+  "direction": 1,
+  "yellow": 357,
+  "blue": 606,
+  "difference": 249,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 249,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 18,
+  "direction": -1,
+  "yellow": 356,
+  "blue": 607,
+  "difference": 251,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 251,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 19,
+  "direction": 1,
+  "yellow": 399,
+  "blue": 564,
+  "difference": 165,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 165,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 19,
+  "direction": -1,
+  "yellow": 387,
+  "blue": 576,
+  "difference": 189,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 189,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 20,
+  "direction": 1,
+  "yellow": 338,
+  "blue": 625,
+  "difference": 287,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 287,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 20,
+  "direction": -1,
+  "yellow": 336,
+  "blue": 627,
+  "difference": 291,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 291,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 21,
+  "direction": 1,
+  "yellow": 371,
+  "blue": 592,
+  "difference": 221,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 221,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 21,
+  "direction": -1,
+  "yellow": 270,
+  "blue": 693,
+  "difference": 423,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 423,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 22,
+  "direction": 1,
+  "yellow": 411,
+  "blue": 552,
+  "difference": 141,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 141,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 22,
+  "direction": -1,
+  "yellow": 301,
+  "blue": 662,
+  "difference": 361,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 361,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 23,
+  "direction": 1,
+  "yellow": 439,
+  "blue": 524,
+  "difference": 85,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 85,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ },
+ {
+  "rotation": 23,
+  "direction": -1,
+  "yellow": 244,
+  "blue": 719,
+  "difference": 475,
+  "larger_side": "B",
+  "zeroable": false,
+  "zeroed_prime": 475,
+  "balanced_value": null,
+  "zeroed_marker_1based": null,
+  "selected": {
+   "letters1539_0based": null,
+   "letters1539_1based": null,
+   "compact1544_0based": null
+  },
+  "notable_at_balance": []
+ }
+]

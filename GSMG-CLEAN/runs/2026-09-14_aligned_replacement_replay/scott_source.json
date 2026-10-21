@@ -1,0 +1,464 @@
+{
+  "dialogue": [
+    {
+      "speaker": "The Architect",
+      "text": "Hello, Neo.",
+      "line": 39
+    },
+    {
+      "speaker": "Neo",
+      "text": "Who are you?",
+      "line": 41
+    },
+    {
+      "speaker": "The Architect",
+      "text": "I am the Architect. I created the matrix. I\u2019ve been waiting for you. You have many questions, and although the process has altered your consciousness, you remain irrevocably human. Ergo, some of my answers you will understand, and some of them you will not. Concordantly, while your first question may be the most pertinent, you may or may not realize it is also the most irrelevant.",
+      "line": 43
+    },
+    {
+      "speaker": "Neo",
+      "text": "Why am I here?",
+      "line": 45
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Your life is the sum of a remainder of an unbalanced equation inherent to the programming of the matrix. You are the eventuality of an anomaly, which despite my sincerest efforts I have been unable to eliminate from what is otherwise a harmony of mathematical precision. While it remains a burden assiduously\u00a0avoided, it is not unexpected, and thus not beyond a measure of control. Which has led you, inexorably, here.",
+      "line": 47
+    },
+    {
+      "speaker": "Neo",
+      "text": "You haven\u2019t answered my question.",
+      "line": 49
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Quite right. Interesting. That was quicker than the others.",
+      "line": 51
+    },
+    {
+      "speaker": "The Architect",
+      "text": "The matrix is older than you know. I prefer counting from the emergence of one integral anomaly to the emergence of the next, in which case this is the sixth version.",
+      "line": 55
+    },
+    {
+      "speaker": "Neo",
+      "text": "There are only two possible explanations: either no one told me, or no one knows.",
+      "line": 59
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Precisely. As you are undoubtedly gathering, the anomaly\u2019s systemic, creating fluctuations in even the most simplistic equations.",
+      "line": 61
+    },
+    {
+      "speaker": "Neo",
+      "text": "Choice. The problem is choice.",
+      "line": 65
+    },
+    {
+      "speaker": "The Architect",
+      "text": "The first matrix I designed was quite naturally perfect, it was a work of art, flawless, sublime. A triumph equaled only by its monumental failure. The inevitability of its doom is as apparent to me now as a consequence of the imperfection inherent in every human being, thus I redesigned it based on your history to more accurately reflect the varying grotesqueries of your nature. However, I was again frustrated by failure. I have since come to understand that the answer eluded me because it required a lesser mind, or perhaps a mind less bound by the parameters of perfection. Thus, the answer was stumbled upon by another, an intuitive program, initially created to investigate certain aspects of the human psyche. If I am the father of the matrix, she would undoubtedly be its mother.",
+      "line": 69
+    },
+    {
+      "speaker": "Neo",
+      "text": "The Oracle.",
+      "line": 71
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Please. As I was saying, she stumbled upon a solution whereby nearly 99% of all test subjects accepted the program, as long as they were given a choice, even if they were only aware of the choice at a near unconscious level. While this answer functioned, it was obviously fundamentally flawed, thus creating the otherwise contradictory systemic anomaly, that if left unchecked might threaten the system itself. Ergo, those that refused the program, while a minority, if unchecked, would constitute an escalating probability of disaster.",
+      "line": 73
+    },
+    {
+      "speaker": "Neo",
+      "text": "This is about Zion.",
+      "line": 75
+    },
+    {
+      "speaker": "The Architect",
+      "text": "You are here because Zion is about to be destroyed. Its every living inhabitant terminated, its entire existence eradicated.",
+      "line": 77
+    },
+    {
+      "speaker": "Neo",
+      "text": "Bullshit.",
+      "line": 79
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Denial is the most predictable of all human responses. But, rest assured, this will be the sixth time we have destroyed it, and we have become exceedingly efficient at it.",
+      "line": 83
+    },
+    {
+      "speaker": "The Architect",
+      "text": "The function of the One is now to return to the source, allowing a temporary dissemination of the code you carry, reinserting the prime program. After which you will be required to select from the matrix 23 individuals, 16 female, 7 male, to rebuild Zion. Failure to comply with this process will result in a cataclysmic system crash killing everyone connected to the matrix, which coupled with the extermination of Zion will ultimately result in the extinction of the entire human race.",
+      "line": 87
+    },
+    {
+      "speaker": "Neo",
+      "text": "You won\u2019t let it happen, you can\u2019t. You need human beings to survive.",
+      "line": 89
+    },
+    {
+      "speaker": "The Architect",
+      "text": "There are levels of survival we are prepared to accept. However, the relevant issue is whether or not you are ready to accept the responsibility for the death of every human being in this world.",
+      "line": 91
+    },
+    {
+      "speaker": "The Architect",
+      "text": "It is interesting reading your reactions. Your five predecessors were by design based on a similar predication, a contingent affirmation that was meant to create a profound attachment to the rest of your species, facilitating the function of the one. While the others experienced this in a very general way, your experience is far more specific. Vis-a-vis, love.",
+      "line": 95
+    },
+    {
+      "speaker": "Neo",
+      "text": "Trinity.",
+      "line": 99
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Apropos, she entered the matrix to save your life at the cost of her own.",
+      "line": 101
+    },
+    {
+      "speaker": "Neo",
+      "text": "No!",
+      "line": 103
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Which brings us at last to the moment of truth, wherein the fundamental flaw is ultimately expressed, and the anomaly revealed as both beginning, and end. There are two doors. The door to your right leads to the source, and the salvation of Zion. The door to the left leads back to the matrix, to her, and to the end of your species. As you adequately put, the problem is choice. But we already know what you\u2019re going to do, don\u2019t we? Already I can see the chain reaction, the chemical precursors that signal the onset of emotion, designed specifically to overwhelm logic, and reason. An emotion that is already blinding you from the simple, and obvious truth: she is going to die, and there is nothing that you can do to stop it.",
+      "line": 105
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Humph. Hope, it is the quintessential human delusion, simultaneously the source of your greatest strength, and your greatest weakness.",
+      "line": 109
+    },
+    {
+      "speaker": "Neo",
+      "text": "If I were you, I would hope that we don\u2019t meet again.",
+      "line": 111
+    },
+    {
+      "speaker": "The Architect",
+      "text": "We won\u2019t.",
+      "line": 113
+    }
+  ],
+  "excluded": [
+    {
+      "line": 1,
+      "text": "[Skip to content](https://scottmanning.com/content/the-architect-transcript/#wp--skip-link--target)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 3,
+      "text": "[![Joan of Arc monument in Philadelphia](https://scottmanning.com/wp-content/uploads/2023/03/HEADER-Joanofarc-1024x310.png)](http://www.scottmanning.com/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 5,
+      "text": "- [Home](https://scottmanning.com/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 6,
+      "text": "- [Medieval](https://scottmanning.com/content/category/medieval-warfare/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 7,
+      "text": "  - [Medievalism\u201cThe ongoing and broad cultural phenomenon of reinventing, remembering, recreating, and reenacting the Middle Ages.\u201d](https://scottmanning.com/content/category/medieval-warfare/medievalism/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 8,
+      "text": "  - [Joan of Arc](https://scottmanning.com/content/category/medieval-warfare/joan-of-arc/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 9,
+      "text": "- [Joan of Arc on Screen Bibliography](https://scottmanning.com/content/joan-of-arc-on-screen-an-annotated-bibliography/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 10,
+      "text": "- [More Bibliographies](https://scottmanning.com/content/category/bibliographies/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 11,
+      "text": "  - [Arthurian Legend on Screen](https://scottmanning.com/content/arthurian-legend-on-screen-an-annotated-bibliography/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 12,
+      "text": "  - [The Transformers: The Movie (1986)](https://scottmanning.com/content/tftm-bibliography/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 13,
+      "text": "  - [Medievalism on Screen](https://scottmanning.com/content/medievalism-on-screen-an-annotated-bibliography/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 14,
+      "text": "  - [50 Books on World War II](https://scottmanning.com/content/50-books-on-world-war-ii-recommended-by-john-keegan/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 15,
+      "text": "  - [8 Books for the Military History Undergrad](https://scottmanning.com/content/8-books-for-the-military-history-undergrad/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 16,
+      "text": "- [Publications](https://scottmanning.com/publications/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 17,
+      "text": "- [About](https://scottmanning.com/about/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 19,
+      "text": "# The Architect Transcript",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 21,
+      "text": "by",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 23,
+      "text": "Scott Manning",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 25,
+      "text": "Posted",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 27,
+      "text": "May 30, 2003",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 29,
+      "text": "in",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 31,
+      "text": "[The Matrix](https://scottmanning.com/content/category/movies/the-matrix/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 33,
+      "text": "One of the most profound, yet confusing scenes in [_The Matrix Reloaded_](https://www.amazon.com/Matrix-Reloaded-Blu-ray-Joel-Silver/dp/B003M8NGM6//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=amazon0e28-20&linkId=e89aed832ebe950422f1f0ffd211d54f) comes near the end when Neo is confronted with The Architect. It is profound because it discloses an entire new concept to what most thought the purpose of the Matrix was. It is confusing because so much information is given in such a short period of time.",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 35,
+      "text": "Even after seeing the movie several times, it\u2019s hard to remember everything that was said. To help out, here is a complete transcript of the scene.",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 37,
+      "text": "* * *",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 53,
+      "text": "_The responses of other Neos appear on the monitors: \u201cOthers? What others? How many? Answer me!\u201d_",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 57,
+      "text": "_Again, the responses of the other Ones appear on the monitors: \u201cFive versions? Three? I\u2019ve been lied too. This is bullshit.\u201d_",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 63,
+      "text": "_Once again, the responses of other Neos appear on the monitors: \u201cYou can\u2019t control me! Fuck you! I\u2019m going to kill you! You can\u2019t make me do anything!_",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 67,
+      "text": "_The scene cuts to Trinity fighting an agent, and then back to the Architect\u2019s room_",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 81,
+      "text": "_The responses of other Neos appear on the monitors: \u201cBullshit!\u201d_",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 85,
+      "text": "_Scene cuts to Trinity fighting an agent, and then back to the Architects room._",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 93,
+      "text": "_The Architect presses a button on a pen that he is holding, and images of people from all over the matrix appear on the monitors_",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 97,
+      "text": "_Images of Trinity fighting the agent from Neo\u2019s dream appear on the monitors_",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 107,
+      "text": "_Neo walks to the door on his left_",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 115,
+      "text": "End Scene",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 117,
+      "text": "## Further Reading",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 119,
+      "text": "[More Matrix transcripts and analysis](https://scottmanning.com/content/category/movies/the-matrix/)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 121,
+      "text": "[_Philosophers Explore The Matrix_](https://www.amazon.com/Philosophers-Explore-Matrix-Christopher-Grau/dp/0195181077//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=amazon0e28-20&linkId=217895b7387712a189d6de36aa0c6523) (2005) edited by Christopher Grau",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 123,
+      "text": "_[Taking the Red Pill: Science, Philosophy and the Religion in the Matrix](https://www.amazon.com/Taking-Red-Pill-Philosophy-Religion/dp/1932100024//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=amazon0e28-20&linkId=8587e5d5ca50fde078d073dfb2f40dfa)_ (2003) edited by Glenn Yeffeth",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 125,
+      "text": "[_The Matrix and Philosophy: Welcome to the Desert of the Real_](https://www.amazon.com/Matrix-Philosophy-Welcome-Popular-Culture/dp/081269502X//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=amazon0e28-20&linkId=8fbe5b57e52e184f5b247770babb6883) (2002) by William Irwin",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 127,
+      "text": "[_More Matrix and Philosophy: Revolutions and Reloaded Decoded_](https://www.amazon.com/More-Matrix-Philosophy-Revolutions-Reloaded/dp/0812695720//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=amazon0e28-20&linkId=7c4cdf342d7b9e3981af26e1fbf9dd35) (2005) by William Irwin",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 129,
+      "text": "_[Journey to the Source](https://www.amazon.com/Journey-Source-Decoding-Matrix-Trilogy/dp/0975258605//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=amazon0e28-20&linkId=078014afe813efa4ca192ac1ae86d86c)_ (2004) by Pradheep Chhalliyil",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 131,
+      "text": "### Share this:",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 133,
+      "text": "- [Share on Facebook (Opens in new window)Facebook](https://scottmanning.com/content/the-architect-transcript/?share=facebook&nb=1)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 134,
+      "text": "- [Share on X (Opens in new window)X](https://scottmanning.com/content/the-architect-transcript/?share=twitter&nb=1)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 135,
+      "text": "- [Share on Reddit (Opens in new window)Reddit](https://scottmanning.com/content/the-architect-transcript/?share=reddit&nb=1)",
+      "reason": "not a labeled dialogue line"
+    },
+    {
+      "line": 137,
+      "text": "\u00a9 2000\u20132026 Scott Manning. All rights reserved.",
+      "reason": "not a labeled dialogue line"
+    }
+  ],
+  "excerpt": "Your life is the sum of a remainder of an unbalanced equation inherent to the programming of the matrix. You are the eventuality of an anomaly, which despite my sincerest efforts I have been unable to eliminate from what is otherwise a harmony of mathematical precision. While it remains a burden assiduously\u00a0avoided, it is not unexpected, and thus not beyond a measure of control. Which has led you, inexorably, here. You haven\u2019t answered my question. Quite right. Interesting. That was quicker than the others. The matrix is older than you know. I prefer counting from the emergence of one integral anomaly to the emergence of the next, in which case this is the sixth version. There are only two possible explanations: either no one told me, or no one knows. Precisely. As you are undoubtedly gathering, the anomaly\u2019s systemic, creating fluctuations in even the most simplistic equations. Choice. The problem is choice. The first matrix I designed was quite naturally perfect, it was a work of art, flawless, sublime. A triumph equaled only by its monumental failure. The inevitability of its doom is as apparent to me now as a consequence of the imperfection inherent in every human being, thus I redesigned it based on your history to more accurately reflect the varying grotesqueries of your nature. However, I was again frustrated by failure. I have since come to understand that the answer eluded me because it required a lesser mind, or perhaps a mind less bound by the parameters of perfection. Thus, the answer was stumbled upon by another, an intuitive program, initially created to investigate certain aspects of the human psyche. If I am the father of the matrix, she would undoubtedly be its mother. The Oracle. Please. As I was saying, she stumbled upon a solution whereby nearly 99% of all test subjects accepted the program, as long as they were given a choice, even if they were only aware of the choice at a near unconscious level. While this answer functioned, it was obviously fundamentally flawed, thus creating the otherwise contradictory systemic anomaly, that if left unchecked might threaten the system itself. Ergo, those that refused the program, while a minority, if unchecked, would constitute an escalating probability of disaster. This is about Zion. You are here because Zion is about to be destroyed. Its every living inhabitant terminated, its entire existence eradicated. Bullshit. Denial is the most predictable of all human responses. But, rest assured, this will be the sixth time we have destroyed it, and we have become exceedingly efficient at it. The function of the One is now to return to the source, allowing a temporary dissemination of the code you carry, reinserting the prime program. After which you will be required to select from the matrix 23 individuals, 16 female, 7 male, to rebuild Zion. Failure to comply with this process will result in a cataclysmic system crash killing everyone connected to the matrix, which coupled with the extermination of Zion will ultimately result in the extinction of the entire human race.",
+  "selected": [
+    {
+      "speaker": "The Architect",
+      "text": "Your life is the sum of a remainder of an unbalanced equation inherent to the programming of the matrix. You are the eventuality of an anomaly, which despite my sincerest efforts I have been unable to eliminate from what is otherwise a harmony of mathematical precision. While it remains a burden assiduously\u00a0avoided, it is not unexpected, and thus not beyond a measure of control. Which has led you, inexorably, here.",
+      "line": 47
+    },
+    {
+      "speaker": "Neo",
+      "text": "You haven\u2019t answered my question.",
+      "line": 49
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Quite right. Interesting. That was quicker than the others.",
+      "line": 51
+    },
+    {
+      "speaker": "The Architect",
+      "text": "The matrix is older than you know. I prefer counting from the emergence of one integral anomaly to the emergence of the next, in which case this is the sixth version.",
+      "line": 55
+    },
+    {
+      "speaker": "Neo",
+      "text": "There are only two possible explanations: either no one told me, or no one knows.",
+      "line": 59
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Precisely. As you are undoubtedly gathering, the anomaly\u2019s systemic, creating fluctuations in even the most simplistic equations.",
+      "line": 61
+    },
+    {
+      "speaker": "Neo",
+      "text": "Choice. The problem is choice.",
+      "line": 65
+    },
+    {
+      "speaker": "The Architect",
+      "text": "The first matrix I designed was quite naturally perfect, it was a work of art, flawless, sublime. A triumph equaled only by its monumental failure. The inevitability of its doom is as apparent to me now as a consequence of the imperfection inherent in every human being, thus I redesigned it based on your history to more accurately reflect the varying grotesqueries of your nature. However, I was again frustrated by failure. I have since come to understand that the answer eluded me because it required a lesser mind, or perhaps a mind less bound by the parameters of perfection. Thus, the answer was stumbled upon by another, an intuitive program, initially created to investigate certain aspects of the human psyche. If I am the father of the matrix, she would undoubtedly be its mother.",
+      "line": 69
+    },
+    {
+      "speaker": "Neo",
+      "text": "The Oracle.",
+      "line": 71
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Please. As I was saying, she stumbled upon a solution whereby nearly 99% of all test subjects accepted the program, as long as they were given a choice, even if they were only aware of the choice at a near unconscious level. While this answer functioned, it was obviously fundamentally flawed, thus creating the otherwise contradictory systemic anomaly, that if left unchecked might threaten the system itself. Ergo, those that refused the program, while a minority, if unchecked, would constitute an escalating probability of disaster.",
+      "line": 73
+    },
+    {
+      "speaker": "Neo",
+      "text": "This is about Zion.",
+      "line": 75
+    },
+    {
+      "speaker": "The Architect",
+      "text": "You are here because Zion is about to be destroyed. Its every living inhabitant terminated, its entire existence eradicated.",
+      "line": 77
+    },
+    {
+      "speaker": "Neo",
+      "text": "Bullshit.",
+      "line": 79
+    },
+    {
+      "speaker": "The Architect",
+      "text": "Denial is the most predictable of all human responses. But, rest assured, this will be the sixth time we have destroyed it, and we have become exceedingly efficient at it.",
+      "line": 83
+    },
+    {
+      "speaker": "The Architect",
+      "text": "The function of the One is now to return to the source, allowing a temporary dissemination of the code you carry, reinserting the prime program. After which you will be required to select from the matrix 23 individuals, 16 female, 7 male, to rebuild Zion. Failure to comply with this process will result in a cataclysmic system crash killing everyone connected to the matrix, which coupled with the extermination of Zion will ultimately result in the extinction of the entire human race.",
+      "line": 87
+    }
+  ]
+}

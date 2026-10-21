@@ -1,0 +1,30 @@
+{
+  "models": {
+    "serial83": {
+      "cells": 83,
+      "payload_length": 60,
+      "payload": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea",
+      "prime_markers": 23,
+      "remaining_tokens": [
+        "b",
+        "be"
+      ]
+    },
+    "perbyte84": {
+      "cells": 84,
+      "payload_length": 61,
+      "payload": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeeae",
+      "prime_markers": 23,
+      "remaining_tokens": [
+        "be"
+      ]
+    }
+  },
+  "shared_prefix_cells": 82,
+  "endpoint_relation": "84-cell ordinary payload = 83-cell payload + e; equality holds exactly",
+  "comparisons": 320,
+  "length_compatible": 0,
+  "full_field_matches": [],
+  "consequence": "No preference follows from a shared-prefix test or an identical success/failure on held-out data.",
+  "ordinary_bytes_retained": true
+}

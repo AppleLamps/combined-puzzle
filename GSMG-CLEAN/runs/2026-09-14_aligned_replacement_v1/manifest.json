@@ -1,0 +1,51 @@
+{
+  "inputs": {
+    "E:\\rabbit-combined\\GSMG-CLEAN\\reference_texts\\matrix_reloaded_architect_scene_scott_manning.md": "b99b46cdf27e4597846b85160b369df83f0c0d6ae50f4b691186c8d69d479381",
+    "E:\\rabbit-combined\\GSMG-CLEAN\\reference_texts\\matrix_reloaded_architect_scene_transcript.txt": "f5e55e8634b84f3ce0710459a3ff97e8eec32abaf9787f97616177f876362f41",
+    "E:\\rabbit-combined\\GSMG-CLEAN\\data\\architect_plaintext_readable.txt": "9c9f628ce1d5142ff499c842d634b847f8fae48086cf672ee650d08752993ef5",
+    "E:\\rabbit-combined\\GSMG-CLEAN\\data\\architect_letters_1539.txt": "a365cc7907f509d3933f09b959c21bcd2771743e5c2c31808f49b674fa5b011a",
+    "E:\\rabbit-combined\\GSMG-CLEAN\\data\\poster_spiral_bits.txt": "c541fb7eba685cc2fc4bb06a4eadddf6090d8e5f5f2e3e9598130cb024b50e1a"
+  },
+  "anchors": [
+    "YOUR LIFE IS THE SUM OF A REMAINDER OF AN UNBALANCED EQUATION",
+    "THE PROGRAMMING OF",
+    "YOU ARE THE EVENTUALITY OF AN ANOMALY",
+    "WHILE IT REMAINS A BURDEN",
+    "IT IS NOT UNEXPECTED",
+    "WHICH HAS LED YOU INEXORABLY HERE",
+    "YOU HAVENT ANSWERED MY QUESTION",
+    "QUITE RIGHT INTERESTING",
+    "THE OTHERS",
+    "DENIAL IS THE MOST PREDICTABLE OF ALL HUMAN RESPONSES",
+    "BUT REST ASSURED THIS WILL",
+    "HAVE DESTROYED",
+    "HAVE BECOME EXCEEDINGLY EFFICIENT AT IT",
+    "THE FUNCTION OF THE",
+    "IS NOW TO RETURN TO THE SOURCE",
+    "ALLOWING A TEMPORARY DISSEMINATION OF THE CODE YOU",
+    "CARRY REINSERTING THE PRIME",
+    "AFTER WHICH YOU WILL BE REQUIRED TO SELECT FROM",
+    "FAILURE TO COMPLY WITH THIS PROCESS WILL RESULT IN A CATACLYSMIC SYSTEM CRASH KILLING",
+    "WHICH COUPLED WITH THE EXTERMINATION OF",
+    "WILL ULTIMATELY RESULT IN THE EXTINCTION OF THE"
+  ],
+  "number_modes": [
+    "literal",
+    "spelled"
+  ],
+  "methods": [
+    "sequence",
+    "lcs"
+  ],
+  "schedule": "first 24 prime indices, 1-based, all colours used exactly once; no rotation/repetition",
+  "matrices": "paired edit table; exact rectangular factors of word/letter/difference streams",
+  "acceptance": "full source reconstruction or exact target key; no English-score rejection",
+  "caveats": [
+    "anchors and narrative block boundary are analyst models",
+    "readable puzzle word boundaries are editorial",
+    "matrix factorization alone is not evidence",
+    "zero sums retained; no abs, modulo or dropped indices"
+  ],
+  "aes_decryptions": 0,
+  "network": false
+}

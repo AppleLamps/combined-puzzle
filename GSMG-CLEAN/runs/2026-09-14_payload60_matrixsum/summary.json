@@ -1,0 +1,89 @@
+{
+  "direct": {
+    "digits": "496833798155987757527588588616486634263337657753439666797551",
+    "base": 10,
+    "byte_length": 25,
+    "hex": "4f2672e27e0d78d5a3f30ee8f82e316eeff67ee50ef4257bef",
+    "strict_decodings": {
+      "cp037": "|\u0017\u00caS=\r\u00ccNt3\u000eY8\u0006\u0091>\u00d56=V\u000e4\n#\u00d5",
+      "cp273": "!\u0017\u00caS=\r\u00ccNt3\u000eY8\u0006\u0091>\u00d56=V\u000e4\n#\u00d5"
+    },
+    "fully_printable_ascii": false
+  },
+  "direct_printable_ASCII_decimal": {
+    "complete_paths": 0,
+    "witness": null
+  },
+  "direct_labels": [
+    {
+      "label": "matrixsumlist",
+      "decimal": "8666030535697925151245621359476",
+      "length": 31,
+      "equals_payload": false
+    },
+    {
+      "label": "lastwordsbeforearchichoice",
+      "decimal": "174161018595377387932283725836301293648834223172419022725145445",
+      "length": 63,
+      "equals_payload": false
+    },
+    {
+      "label": "thispassword",
+      "decimal": "36026487402470099740341006948",
+      "length": 29,
+      "equals_payload": false
+    }
+  ],
+  "direct_byte_matrix": {
+    "shape": [
+      5,
+      5
+    ],
+    "distinct_values": 22,
+    "values": [
+      79,
+      38,
+      114,
+      226,
+      126,
+      13,
+      120,
+      213,
+      163,
+      243,
+      14,
+      232,
+      248,
+      46,
+      49,
+      110,
+      239,
+      246,
+      126,
+      229,
+      14,
+      244,
+      37,
+      123,
+      239
+    ],
+    "is_permutation_0_24": false,
+    "is_permutation_1_25": false
+  },
+  "digit_total": 336,
+  "poster_boards": 21,
+  "poster_serializations": 2098,
+  "exact_poster_matches": [],
+  "payload_sum_readings": 96,
+  "exact_payload_sum_matches": [],
+  "decoded_byte_sum_readings": 48,
+  "exact_decoded_byte_sum_matches": [],
+  "binary_margin_bound": {
+    "poster14x14_max_decimal_chars": 56,
+    "poster14x15_max_decimal_chars": 58,
+    "input_decimal_chars": 60,
+    "scope": "Unpadded concatenation of all row and column sums of a binary matrix; no separators"
+  },
+  "controls_passed": true,
+  "status": "No exact sum-list or full instruction recovered; every tested representation retained"
+}

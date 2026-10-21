@@ -1,0 +1,74 @@
+JRK HINTS THAT ACTUALLY HELPED
+Source: GSMG Puzzle Solvers Telegram export (ChatExport_2026-09-13), creator account
+"Jrk Bgrt" (user9815232), cross-checked against nice/GSMG_COMPLETE_PUZZLE_REFERENCE_2026-09-10.txt
+
+"Helped" = a verified step followed the hint: a stage that opens, or a reproducible
+result. Some solving happened outside this chat (e.g. Discord), so a few links rest on
+timing plus the reproduced results in the reference file.
+
+Summary: only 4 hints are proven to have unlocked a stage, and the newest is from
+Feb 2020. All four are on the path to SalPhaseIon. Nothing has opened since.
+
+
+PROVEN - LED TO A STAGE THAT OPENS
+-----------------------------------
+- "giveit = givetit" (#867, 2019-05-17)
+  Fix for JRK's typo in the Phase 3 password. He admitted the stage was "nearly
+  impossible to solve" without it. The corrected answer opens Phase 3.
+
+- "There may indeed a piece be found outside the main puzzle" (#1487, 2019-09-26)
+  First sign of the side route outside the main puzzle (Decentraland).
+
+- "Only -41,-17 matters" + Decentraland screenshot (#1837, 2020-02-20/22)
+  Pointed to the Decentraland parcel. Decentraland discussion starts 3 days later
+  (#1896); HASHTHETEXT first appears 2020-05-19 (#4022).
+
+- Roses poem: "Go back to the first puzzle piece... the rabbits nest may contain a
+  whole lot more" (#1710, 2020-01-14)
+  Sent solvers back to the poster. Hashing the poster caption, as HASHTHETEXT
+  instructs, gives the exact SalPhaseIon page address (reproducible).
+  First team reached SalPhaseIon by Aug 2020 (#4694), a second in Oct 2020, more in
+  Mar-Apr 2021 (#6491, #7244).
+
+
+PARTIAL - MEASURABLE PROGRESS, BUT NOTHING OPENED
+-------------------------------------------------
+- Prime/colour hints:
+    "Yellow has a number and so does Blue" (#1710, 2020)
+    "You are at the prime part already???... That might have been a hint" (#5966, 2021)
+    Primes "required to proceed" (#8000, Dec 2021 drunk hint)
+    "At least prime number is very important to get any further" (#8330, 2023)
+  One reading of DBBI splits it into 83 tokens; the tokens at prime positions match
+  all 23 prime-marker colours on the poster. Strongest reproducible result on the
+  current step.
+
+- 2023 reversed-binary message (#8446, confirmed by #8483)
+  Decodes to yellowblueprimes -> matrixsumlist -> lastwordsbeforearchichoice ->
+  yinyang, giving the order of the remaining steps. Also shows whole-bitstream
+  reversal is a technique JRK reuses.
+
+- "@barrystyle provided a very specific hint" (#8311, #8328, 2022-23)
+  Confirmed barrystyle's book cover (Cosmic Duality + yin-yang), linking the stage
+  name and the symbol. Doesn't say how to use that link.
+
+- "7 parts right?" (#1465, 2019)
+  Confirmed the seven-part Phase 3 password structure.
+
+
+SAVED TIME BY RULING OUT DEAD ENDS
+----------------------------------
+- Typos aren't clues (#1806, 2020); "FOURTY" is just old spelling (#5960, 2021)
+- The messages embedded in the blockchain aren't his (#12653, 2023)
+- "No need. You have all the info" (#9607) and no internet needed (#16624, 2023)
+- "Same software was used in every phase" (forwarded post #33445)
+  Supports using the same AES-256 settings as the earlier opened stages.
+
+
+NOT SHOWN TO HELP (FOR CONTRAST)
+--------------------------------
+- "Another door might be found on {1},{4},{21}" (#6884)
+  Posted April 1, 2021; independent tests found nothing above chance (#66748).
+- "Once you hit a ying yang... solve it the same day" (#9599) and "2 hours max"
+  (#39224). Describes what happens after yinyang, not how to get there.
+- Every July 2026 drunk hint: the hidden laptop, close friends, the hidden door,
+  "NOTES", the Ibiza club.

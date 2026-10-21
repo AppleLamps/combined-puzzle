@@ -1,0 +1,3 @@
+[submodule "notes/source_upstream"]
+	path = notes/source_upstream
+	url = https://github.com/puzzlehunt/gsmgio-5btc-puzzle.git

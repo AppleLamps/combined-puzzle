@@ -1,0 +1,7 @@
+CONTROLS PASS (page codec reproduces both known labels; 1544 compaction confirmed)
+exhaustive window decode: 3675 source characters, 107 printable windows
+prime/zeroing selector decodes: 
+ADDRESS CONTROL PASS (sha256 of the 149 digits reproduces 18CchrjA3U...)
+candidates: 2119
+oracle coverage: 2119 candidates, 6738 scalar forms, 0 with an oracle hit
+WROTE E:\rabbit-combined\GSMG-CLEAN\runs\2026-09-14_pointer_selectors

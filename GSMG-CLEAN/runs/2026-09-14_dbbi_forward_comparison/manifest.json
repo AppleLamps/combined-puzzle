@@ -1,0 +1,27 @@
+{
+  "inputs": {
+    "E:\\rabbit-combined\\GSMG-CLEAN\\originals\\poster\\puzzle.png": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+    "E:\\rabbit-combined\\GSMG-CLEAN\\originals\\pages\\salphaseion_phase3.html": "18a8369df1364911d5e94fcac341ef85480ff194f4500f509fbed34f19e6308b",
+    "E:\\rabbit-combined\\GSMG-CLEAN\\data\\DBBI_91.txt": "ec374000d5f070de550469ae0f24b414dbb2673f9f41aa498ae00d8f97355565",
+    "E:\\rabbit-combined\\GSMG-CLEAN\\data\\FAED_570.txt": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35"
+  },
+  "primary_test": "complete FAED-derived margins -> prime insertion -> 91-character DBBI",
+  "representations": [
+    "FAED a=1..i=9 values",
+    "FAED whole-decimal-integer unsigned bytes"
+  ],
+  "scope": "all exact rectangular factors, rows/columns/both orders, forward/reverse; unpadded decimal serialization",
+  "controls": "planted forward full-field recovery and terminal mutation",
+  "exclusions": [
+    "no selected ciphertext edits",
+    "no arbitrary dimensions/padding/moduli",
+    "no AES/password generation"
+  ],
+  "prior_overlap": [
+    "poster sums -> payload already tested; not rerun here",
+    "FAED sums -> literal DBBI already tested; new target is ordinary payload plus explicit insertion",
+    "marker continuation regression is not a new discovery"
+  ],
+  "network": false,
+  "aes_decryptions": 0
+}

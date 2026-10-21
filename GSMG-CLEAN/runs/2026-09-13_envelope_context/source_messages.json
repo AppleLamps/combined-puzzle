@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1710,
+    "type": "message",
+    "date": "2020-01-14T05:38:06",
+    "date_unixtime": "1578998286",
+    "edited": "2024-04-24T02:58:18",
+    "edited_unixtime": "1713941898",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 4,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Johnny Goodpick",
+            "from_id": "user1438862237",
+            "date": "2026-08-28T04:16:13"
+          },
+          {
+            "from": "Amin SM",
+            "from_id": "user198112358",
+            "date": "2025-02-22T12:13:07"
+          },
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-01-31T12:18:55"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2910,
+    "type": "message",
+    "date": "2020-03-24T21:02:42",
+    "date_unixtime": "1585098162",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 2906,
+    "text": "Answering that would be too much of a hint.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Answering that would be too much of a hint."
+      }
+    ]
+  },
+  {
+    "id": 2911,
+    "type": "message",
+    "date": "2020-03-24T21:09:34",
+    "date_unixtime": "1585098574",
+    "from": "Detective Froz",
+    "from_id": "user231061724",
+    "reply_to_message_id": 2910,
+    "text": "Some people refer to you saying that you confirmed that the PK is in the last cipher of 3.2 decoded. Can you confirm?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Some people refer to you saying that you confirmed that the PK is in the last cipher of 3.2 decoded. Can you confirm?"
+      }
+    ]
+  },
+  {
+    "id": 2918,
+    "type": "message",
+    "date": "2020-03-24T21:22:40",
+    "date_unixtime": "1585099360",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 2911,
+    "text": "There must at least be something hidden in there.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "There must at least be something hidden in there."
+      }
+    ]
+  },
+  {
+    "id": 5960,
+    "type": "message",
+    "date": "2021-03-01T06:33:17",
+    "date_unixtime": "1614598397",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 5952,
+    "text": "Ancient spelling \ud83d\ude05. One of the many many typos.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Ancient spelling \ud83d\ude05. One of the many many typos."
+      }
+    ]
+  },
+  {
+    "id": 5963,
+    "type": "message",
+    "date": "2021-03-01T06:34:22",
+    "date_unixtime": "1614598462",
+    "from": "Janusz Baran",
+    "from_id": "user394589394",
+    "text": "just say which primes 2,3,5,7 we need use",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "just say which primes 2,3,5,7 we need use"
+      }
+    ]
+  },
+  {
+    "id": 5966,
+    "type": "message",
+    "date": "2021-03-01T06:34:42",
+    "date_unixtime": "1614598482",
+    "edited": "2025-09-08T18:33:25",
+    "edited_unixtime": "1757370805",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "You are at the prime part already???",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "You are at the prime part already???"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udee1",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-08T18:33:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5969,
+    "type": "message",
+    "date": "2021-03-01T06:35:15",
+    "date_unixtime": "1614598515",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Oh wait, shouldn't have said that. That might have been a hint \ud83e\udd14.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Oh wait, shouldn't have said that. That might have been a hint \ud83e\udd14."
+      }
+    ]
+  },
+  {
+    "id": 6497,
+    "type": "message",
+    "date": "2021-03-14T05:45:01",
+    "date_unixtime": "1615715101",
+    "edited": "2025-06-26T04:42:30",
+    "edited_unixtime": "1750927350",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 6496,
+    "text": "I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solved not too long after that. When people progress in salphation it might be cracked pretty soon. Breaking salphation, should be giving the feeling of the phase's name. Won't be easy but I've noticed how clever most of you are so I assume it will be cracked at some point, probably before next halving.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solved not too long after that. When people progress in salphation it might be cracked pretty soon. Breaking salphation, should be giving the feeling of the phase's name. Won't be easy but I've noticed how clever most of you are so I assume it will be cracked at some point, probably before next halving."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Cryptono",
+            "from_id": "user7107313094",
+            "date": "2025-06-26T04:42:30"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-02T19:21:58"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6508,
+    "type": "message",
+    "date": "2021-03-14T11:12:04",
+    "date_unixtime": "1615734724",
+    "from": null,
+    "from_id": "user419791047",
+    "reply_to_message_id": 6491,
+    "text": "So don't you think it's time for a hint on matrixsumlist?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "So don't you think it's time for a hint on matrixsumlist?"
+      }
+    ]
+  },
+  {
+    "id": 6509,
+    "type": "message",
+    "date": "2021-03-14T11:19:29",
+    "date_unixtime": "1615735169",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 6508,
+    "text": "I gave an unforseen hint already \ud83e\udd37\u200d\u2642",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I gave an unforseen hint already \ud83e\udd37\u200d\u2642"
+      }
+    ]
+  },
+  {
+    "id": 6512,
+    "type": "message",
+    "date": "2021-03-14T21:15:27",
+    "date_unixtime": "1615770927",
+    "edited": "2026-07-01T10:56:23",
+    "edited_unixtime": "1782917783",
+    "from": null,
+    "from_id": "user750026879",
+    "reply_to_message_id": 6491,
+    "text": "pls... is salph related to hint about \"roses are...\"? \ud83d\udc07",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "pls... is salph related to hint about \"roses are...\"? \ud83d\udc07"
+      }
+    ]
+  },
+  {
+    "id": 6514,
+    "type": "message",
+    "date": "2021-03-15T03:16:26",
+    "date_unixtime": "1615792586",
+    "edited": "2025-03-27T05:24:01",
+    "edited_unixtime": "1743067441",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Hush hush",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Hush hush"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-02T19:33:05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8000,
+    "type": "message",
+    "date": "2021-12-26T15:18:32",
+    "date_unixtime": "1640549912",
+    "edited": "2026-02-15T19:29:51",
+    "edited_unixtime": "1771201791",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! \ud83e\udd42",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! \ud83e\udd42"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Sanad",
+            "from_id": "user8538024691",
+            "date": "2026-06-11T19:10:06"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udd25",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2026-02-15T19:29:51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8310,
+    "type": "message",
+    "date": "2022-12-10T18:09:18",
+    "date_unixtime": "1670713758",
+    "from": "barrystyle",
+    "from_id": "user925838121",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "image_2022-12-11_07-09-14.png",
+    "file_size": 146396,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 15151,
+    "mime_type": "image/png",
+    "width": 377,
+    "height": 499,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "id": 8311,
+    "type": "message",
+    "date": "2022-12-11T10:30:38",
+    "date_unixtime": "1670772638",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 8310,
+    "text": ".... That is very specific",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": ".... That is very specific"
+      }
+    ]
+  },
+  {
+    "id": 8312,
+    "type": "message",
+    "date": "2022-12-11T10:32:40",
+    "date_unixtime": "1670772760",
+    "from": "barrystyle",
+    "from_id": "user925838121",
+    "text": "i googled a phrase which would be assumed to be part of a hint.. is about as vague as one can get given the pure amount of possibilities..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i googled a phrase which would be assumed to be part of a hint.. is about as vague as one can get given the pure amount of possibilities.."
+      }
+    ]
+  },
+  {
+    "id": 8315,
+    "type": "message",
+    "date": "2022-12-11T10:33:20",
+    "date_unixtime": "1670772800",
+    "edited": "2025-09-02T20:03:35",
+    "edited_unixtime": "1756857815",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "If the puzzle is solved you'll see how scary specific that is \ud83d\ude02",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "If the puzzle is solved you'll see how scary specific that is \ud83d\ude02"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-02T20:03:37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8328,
+    "type": "message",
+    "date": "2023-01-08T23:52:11",
+    "date_unixtime": "1673239931",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": [
+      {
+        "type": "mention",
+        "text": "@barrystyle"
+      },
+      ", provided a very specific hint already."
+    ],
+    "text_entities": [
+      {
+        "type": "mention",
+        "text": "@barrystyle"
+      },
+      {
+        "type": "plain",
+        "text": ", provided a very specific hint already."
+      }
+    ]
+  },
+  {
+    "id": 8329,
+    "type": "message",
+    "date": "2023-01-09T00:57:03",
+    "date_unixtime": "1673243823",
+    "edited": "2024-03-27T21:41:29",
+    "edited_unixtime": "1711590089",
+    "from": "Janusz Baran",
+    "from_id": "user394589394",
+    "reply_to_message_id": 8328,
+    "text": "sumlist matrix -contains prime numbers ? xD",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "sumlist matrix -contains prime numbers ? xD"
+      }
+    ]
+  },
+  {
+    "id": 8330,
+    "type": "message",
+    "date": "2023-01-09T05:10:46",
+    "date_unixtime": "1673259046",
+    "edited": "2025-09-02T19:56:49",
+    "edited_unixtime": "1756857409",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "At least prime number is very important to get any further.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "At least prime number is very important to get any further."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-02T19:56:51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8446,
+    "type": "message",
+    "date": "2023-02-23T18:20:03",
+    "date_unixtime": "1677194403",
+    "edited": "2023-12-02T17:47:40",
+    "edited_unixtime": "1701557260",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 2,
+        "emoji": "\ud83d\udc4d",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-02-03T19:23:49"
+          },
+          {
+            "from": "Jerry",
+            "from_id": "user786391896",
+            "date": "2023-12-02T17:47:40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8566,
+    "type": "message",
+    "date": "2023-06-09T14:58:54",
+    "date_unixtime": "1686337134",
+    "edited": "2025-09-22T07:29:04",
+    "edited_unixtime": "1758540544",
+    "from": "PoW",
+    "from_id": "user546901636",
+    "text": "As far as I understand, phase 3.2 is not totally solved, as the final block hasn't been decrypted: \"U2FsdGVkX1+0Wl49gnWTyiimluu7V3+vl7st0gUt9sWDzNLxDmlPMsDSiuW2a46z\ngKlIi8aaqY5gpJPPEzW1n9n3/26qs4zstWtPKF8Zs/BTNN4IiEh4qu18mdC0NAv4\"",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "As far as I understand, phase 3.2 is not totally solved, as the final block hasn't been decrypted: \"U2FsdGVkX1+0Wl49gnWTyiimluu7V3+vl7st0gUt9sWDzNLxDmlPMsDSiuW2a46z\ngKlIi8aaqY5gpJPPEzW1n9n3/26qs4zstWtPKF8Zs/BTNN4IiEh4qu18mdC0NAv4\""
+      }
+    ]
+  },
+  {
+    "id": 8567,
+    "type": "message",
+    "date": "2023-06-09T14:59:46",
+    "date_unixtime": "1686337186",
+    "from": "PoW",
+    "from_id": "user546901636",
+    "text": "Maybe there where the hint for SalPhaselon everybody was asking for",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Maybe there where the hint for SalPhaselon everybody was asking for"
+      }
+    ]
+  },
+  {
+    "id": 8568,
+    "type": "message",
+    "date": "2023-06-09T15:30:09",
+    "date_unixtime": "1686339009",
+    "edited": "2023-12-17T02:02:47",
+    "edited_unixtime": "1702796567",
+    "from": "PoW",
+    "from_id": "user546901636",
+    "text": "Furthemore, in phase 2 the \"Norton's theorem\" seems totally pointless in context. Phase 2 # X 2 S H 4 Y 0 Q B 15 # doesn't seem usefull as well to go to phase 3. \nAm I missing something?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Furthemore, in phase 2 the \"Norton's theorem\" seems totally pointless in context. Phase 2 # X 2 S H 4 Y 0 Q B 15 # doesn't seem usefull as well to go to phase 3. \nAm I missing something?"
+      }
+    ]
+  },
+  {
+    "id": 8569,
+    "type": "message",
+    "date": "2023-06-10T02:39:07",
+    "date_unixtime": "1686379147",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Correct.\n-\nNo.\n-\nCan't say anything about this.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Correct.\n-\nNo.\n-\nCan't say anything about this."
+      }
+    ]
+  },
+  {
+    "id": 9599,
+    "type": "message",
+    "date": "2023-08-06T08:12:13",
+    "date_unixtime": "1691323933",
+    "edited": "2024-02-11T07:17:56",
+    "edited_unixtime": "1707653876",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Probably the last hint:\n\nOnce you hit a \"ying yang\", you'll be able to solve it the same day.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Probably the last hint:\n\nOnce you hit a \"ying yang\", you'll be able to solve it the same day."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 4,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Dysto",
+            "from_id": "user5285230627",
+            "date": "2026-02-25T07:07:30"
+          },
+          {
+            "from": "Amin SM",
+            "from_id": "user198112358",
+            "date": "2025-02-28T03:11:38"
+          },
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-01-23T08:28:38"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9603,
+    "type": "message",
+    "date": "2023-08-06T08:14:54",
+    "date_unixtime": "1691324094",
+    "edited": "2024-02-10T21:21:20",
+    "edited_unixtime": "1707618080",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Both?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Both?"
+      }
+    ]
+  },
+  {
+    "id": 9605,
+    "type": "message",
+    "date": "2023-08-06T08:18:41",
+    "date_unixtime": "1691324321",
+    "from": "silver_anth",
+    "from_id": "user432257224",
+    "text": [
+      {
+        "type": "mention",
+        "text": "@SoWut"
+      },
+      " any chance you can tell us if there is another URL to find? otherwise I am going to do a big brute force haha"
+    ],
+    "text_entities": [
+      {
+        "type": "mention",
+        "text": "@SoWut"
+      },
+      {
+        "type": "plain",
+        "text": " any chance you can tell us if there is another URL to find? otherwise I am going to do a big brute force haha"
+      }
+    ]
+  },
+  {
+    "id": 9607,
+    "type": "message",
+    "date": "2023-08-06T08:19:07",
+    "date_unixtime": "1691324347",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 9605,
+    "text": "No need. You have all the info.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "No need. You have all the info."
+      }
+    ]
+  },
+  {
+    "id": 11247,
+    "type": "message",
+    "date": "2023-08-22T14:14:42",
+    "date_unixtime": "1692728082",
+    "from": "Jerry",
+    "from_id": "user786391896",
+    "forwarded_from": "Jerry",
+    "forwarded_from_id": "user786391896",
+    "text": "so i got a question and it shouldnt be too much of a hint, but what was the actual first hint to the gsmg puzzle since i started so late in the game",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "so i got a question and it shouldnt be too much of a hint, but what was the actual first hint to the gsmg puzzle since i started so late in the game"
+      }
+    ]
+  },
+  {
+    "id": 11248,
+    "type": "message",
+    "date": "2023-08-22T14:14:42",
+    "date_unixtime": "1692728082",
+    "from": "Jerry",
+    "from_id": "user786391896",
+    "forwarded_from": "Jrk Bgrt",
+    "text": "Follow the white rabbit",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Follow the white rabbit"
+      }
+    ]
+  },
+  {
+    "id": 33439,
+    "type": "message",
+    "date": "2024-12-01T20:39:23",
+    "date_unixtime": "1733103563",
+    "from": "ArchOptic",
+    "from_id": "user6057219919",
+    "reply_to_message_id": 33437,
+    "text": [
+      {
+        "type": "mention",
+        "text": "@SoWut"
+      },
+      " please man. Instead of new hints just crop the tree of possibility a bit. Just answer questions like... Are all of the known aes blobs standard cbc decryption? Etc."
+    ],
+    "text_entities": [
+      {
+        "type": "mention",
+        "text": "@SoWut"
+      },
+      {
+        "type": "plain",
+        "text": " please man. Instead of new hints just crop the tree of possibility a bit. Just answer questions like... Are all of the known aes blobs standard cbc decryption? Etc."
+      }
+    ]
+  },
+  {
+    "id": 33445,
+    "type": "message",
+    "date": "2024-12-01T21:51:24",
+    "date_unixtime": "1733107884",
+    "from": "Jerry",
+    "from_id": "user786391896",
+    "forwarded_from": "Jrk Bgrt",
+    "text": "You're going too fast now. Same software was used in every phase.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "You're going too fast now. Same software was used in every phase."
+      }
+    ]
+  },
+  {
+    "id": 39224,
+    "type": "message",
+    "date": "2025-04-28T12:57:17",
+    "date_unixtime": "1745859437",
+    "edited": "2025-04-28T12:57:31",
+    "edited_unixtime": "1745859451",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Did anyone found yingyang? I don't think so, you guys are so smart, when yingyang is reached, 2 hours max.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Did anyone found yingyang? I don't think so, you guys are so smart, when yingyang is reached, 2 hours max."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 2,
+        "emoji": "\ud83d\udc4d",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-04-28T13:19:15"
+          },
+          {
+            "from": "Gorden dev.",
+            "from_id": "user1175920260",
+            "date": "2025-04-28T12:57:31"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude31",
+        "recent": [
+          {
+            "from": "Barend",
+            "from_id": "user12919314",
+            "date": "2025-04-30T03:58:27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39233,
+    "type": "message",
+    "date": "2025-04-28T13:00:12",
+    "date_unixtime": "1745859612",
+    "edited": "2025-08-26T20:32:45",
+    "edited_unixtime": "1756254765",
+    "from": "silver_anth",
+    "from_id": "user432257224",
+    "reply_to_message_id": 39224,
+    "text": "is yinyang found after decoding an AES ciphertext?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "is yinyang found after decoding an AES ciphertext?"
+      }
+    ]
+  },
+  {
+    "id": 39237,
+    "type": "message",
+    "date": "2025-04-28T13:01:36",
+    "date_unixtime": "1745859696",
+    "edited": "2025-04-28T13:20:30",
+    "edited_unixtime": "1745860830",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 39233,
+    "text": "It\u2019s the next phase, but I await the day someone finally gets there.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "It\u2019s the next phase, but I await the day someone finally gets there."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude22",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-04-28T13:20:30"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd1d",
+        "recent": [
+          {
+            "from": "Andy | DBBI & FAED \u2022 Research",
+            "from_id": "user334366283",
+            "date": "2026-05-21T13:58:59"
+          }
+        ]
+      }
+    ]
+  }
+]

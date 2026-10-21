@@ -1,0 +1,211 @@
+{
+  "source_sha256": "18a8369df1364911d5e94fcac341ef85480ff194f4500f509fbed34f19e6308b",
+  "original_whitespace": "Exactly one ASCII space between all 1075 characters, no other grouping",
+  "compact_length": 1075,
+  "lossless_original_textarea_roundtrip": true,
+  "long_binary_runs": [
+    {
+      "start": 91,
+      "end": 195,
+      "length": 104
+    },
+    {
+      "start": 959,
+      "end": 999,
+      "length": 40
+    }
+  ],
+  "literal_z_offsets": [
+    765,
+    829,
+    859,
+    958
+  ],
+  "separator_z_offsets": [
+    765,
+    829,
+    859
+  ],
+  "ciphertext_z_offset": 958,
+  "full_short_cipher_valid_endings": [
+    {
+      "end": 1063,
+      "base64_length": 128,
+      "raw_bytes": 96
+    }
+  ],
+  "accounting": {
+    "unknown_fields": 661,
+    "encoded_labels": 236,
+    "separators": 3,
+    "literals": 47,
+    "short_base64": 128
+  },
+  "prime_grammar": {
+    "DBBI": {
+      "complete_slots": [
+        83,
+        84
+      ],
+      "maximum_consumed": 91,
+      "input_length": 91,
+      "states": 134,
+      "furthest_stalls": [
+        {
+          "offset": 88,
+          "logical_slot": 83,
+          "actual": "a",
+          "expected": "b or be"
+        },
+        {
+          "offset": 75,
+          "logical_slot": 71,
+          "actual": "i",
+          "expected": "b or be"
+        },
+        {
+          "offset": 70,
+          "logical_slot": 67,
+          "actual": "c",
+          "expected": "b or be"
+        },
+        {
+          "offset": 61,
+          "logical_slot": 59,
+          "actual": "g",
+          "expected": "b or be"
+        },
+        {
+          "offset": 38,
+          "logical_slot": 37,
+          "actual": "e",
+          "expected": "b or be"
+        }
+      ]
+    },
+    "whole_initial_765": {
+      "complete_slots": [],
+      "maximum_consumed": 104,
+      "input_length": 765,
+      "states": 159,
+      "furthest_stalls": [
+        {
+          "offset": 104,
+          "logical_slot": 97,
+          "actual": "a",
+          "expected": "b or be"
+        },
+        {
+          "offset": 103,
+          "logical_slot": 97,
+          "actual": "a",
+          "expected": "b or be"
+        },
+        {
+          "offset": 88,
+          "logical_slot": 83,
+          "actual": "a",
+          "expected": "b or be"
+        },
+        {
+          "offset": 75,
+          "logical_slot": 71,
+          "actual": "i",
+          "expected": "b or be"
+        },
+        {
+          "offset": 70,
+          "logical_slot": 67,
+          "actual": "c",
+          "expected": "b or be"
+        }
+      ]
+    },
+    "DBBI_FAED_label_removed": {
+      "complete_slots": [],
+      "maximum_consumed": 96,
+      "input_length": 661,
+      "states": 143,
+      "furthest_stalls": [
+        {
+          "offset": 96,
+          "logical_slot": 89,
+          "actual": "g",
+          "expected": "b or be"
+        },
+        {
+          "offset": 95,
+          "logical_slot": 89,
+          "actual": "g",
+          "expected": "b or be"
+        },
+        {
+          "offset": 88,
+          "logical_slot": 83,
+          "actual": "a",
+          "expected": "b or be"
+        },
+        {
+          "offset": 75,
+          "logical_slot": 71,
+          "actual": "i",
+          "expected": "b or be"
+        },
+        {
+          "offset": 70,
+          "logical_slot": 67,
+          "actual": "c",
+          "expected": "b or be"
+        }
+      ]
+    },
+    "FAED_restart": {
+      "complete_slots": [],
+      "maximum_consumed": 1,
+      "input_length": 570,
+      "states": 2,
+      "furthest_stalls": [
+        {
+          "offset": 1,
+          "logical_slot": 2,
+          "actual": "a",
+          "expected": "b or be"
+        }
+      ]
+    },
+    "FAED_continuing_after83": {
+      "complete_slots": [],
+      "maximum_consumed": 5,
+      "input_length": 570,
+      "states": 6,
+      "furthest_stalls": [
+        {
+          "offset": 5,
+          "logical_slot": 89,
+          "actual": "g",
+          "expected": "b or be"
+        }
+      ]
+    },
+    "FAED_continuing_after84": {
+      "complete_slots": [],
+      "maximum_consumed": 4,
+      "input_length": 570,
+      "states": 5,
+      "furthest_stalls": [
+        {
+          "offset": 4,
+          "logical_slot": 89,
+          "actual": "g",
+          "expected": "b or be"
+        }
+      ]
+    }
+  },
+  "cosmic": {
+    "base64_length": 1792,
+    "raw_bytes": 1344
+  },
+  "undecoded_fraction": 0.6148837209302326,
+  "conclusion": "Wrapper fully reconstructed; unknown fields preserved verbatim, not explained cryptographically"
+}

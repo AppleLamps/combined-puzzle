@@ -1,0 +1,2460 @@
+[
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1707,
+      "type": "message",
+      "date": "2020-01-14T04:11:31",
+      "date_unixtime": "1578993091",
+      "from": null,
+      "from_id": "user750026879",
+      "reply_to_message_id": 1706,
+      "text": "what 'bout u talk?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "what 'bout u talk?"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1708,
+      "type": "message",
+      "date": "2020-01-14T04:25:00",
+      "date_unixtime": "1578993900",
+      "from": "0xColombo",
+      "from_id": "user274980096",
+      "text": "U said elf hint)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "U said elf hint)"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1709,
+      "type": "message",
+      "date": "2020-01-14T04:41:06",
+      "date_unixtime": "1578994866",
+      "from": null,
+      "from_id": "user750026879",
+      "reply_to_message_id": 1708,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "photo_file_size": 61606,
+      "width": 1280,
+      "height": 970,
+      "text": "\ud83d\ude1c",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\ude1c"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1710,
+      "type": "message",
+      "date": "2020-01-14T05:38:06",
+      "date_unixtime": "1578998286",
+      "edited": "2024-04-24T02:58:18",
+      "edited_unixtime": "1713941898",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush."
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 4,
+          "emoji": "\u2764",
+          "recent": [
+            {
+              "from": "Johnny Goodpick",
+              "from_id": "user1438862237",
+              "date": "2026-08-28T04:16:13"
+            },
+            {
+              "from": "Amin SM",
+              "from_id": "user198112358",
+              "date": "2025-02-22T12:13:07"
+            },
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-01-31T12:18:55"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1711,
+      "type": "message",
+      "date": "2020-01-14T05:38:49",
+      "date_unixtime": "1578998329",
+      "edited": "2025-04-30T19:12:29",
+      "edited_unixtime": "1746054749",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Good luck \ud83d\udc4d",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Good luck \ud83d\udc4d"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83d\ude22",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-04-30T19:12:30"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1712,
+      "type": "message",
+      "date": "2020-01-14T05:41:20",
+      "date_unixtime": "1578998480",
+      "from": "0xColombo",
+      "from_id": "user274980096",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "sticker.webp",
+      "file_size": 27304,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 5102,
+      "media_type": "sticker",
+      "sticker_emoji": "\ud83c\udf7e",
+      "mime_type": "image/webp",
+      "width": 512,
+      "height": 512,
+      "text": "",
+      "text_entities": []
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1713,
+      "type": "message",
+      "date": "2020-01-14T05:47:02",
+      "date_unixtime": "1578998822",
+      "from": null,
+      "from_id": "user750026879",
+      "reply_to_message_id": 1711,
+      "text": "crazy holy rabbit",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "crazy holy rabbit"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1834,
+      "type": "message",
+      "date": "2020-02-22T14:15:56",
+      "date_unixtime": "1582398956",
+      "from": null,
+      "from_id": "user1084918156",
+      "text": "I was unable to come out from that place. I don't know who built it but hey.. at least an exit \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I was unable to come out from that place. I don't know who built it but hey.. at least an exit \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1835,
+      "type": "message",
+      "date": "2020-02-22T14:57:27",
+      "date_unixtime": "1582401447",
+      "from": null,
+      "from_id": "user1084918156",
+      "text": "Jrk Bgrt are you only have one parcel ? The interactive mode show me nothing. :(",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Jrk Bgrt are you only have one parcel ? The interactive mode show me nothing. :("
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1836,
+      "type": "message",
+      "date": "2020-02-22T14:57:55",
+      "date_unixtime": "1582401475",
+      "from": null,
+      "from_id": "user1084918156",
+      "text": "I talk about the game if its not clear by now",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I talk about the game if its not clear by now"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1837,
+      "type": "message",
+      "date": "2020-02-22T15:30:18",
+      "date_unixtime": "1582403418",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Only -41,-17 matters",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Only -41,-17 matters"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1838,
+      "type": "message",
+      "date": "2020-02-22T15:30:50",
+      "date_unixtime": "1582403450",
+      "from": null,
+      "from_id": "user1084918156",
+      "text": "thanks",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "thanks"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1839,
+      "type": "message",
+      "date": "2020-02-22T15:34:12",
+      "date_unixtime": "1582403652",
+      "from": "Detective Froz",
+      "from_id": "user231061724",
+      "reply_to_message_id": 1801,
+      "text": "Have you solved the phase 3?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Have you solved the phase 3?"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 1840,
+      "type": "message",
+      "date": "2020-02-22T20:32:00",
+      "date_unixtime": "1582421520",
+      "from": null,
+      "from_id": "user750026879",
+      "reply_to_message_id": 1839,
+      "text": "titit.. oops typos.. did it.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "titit.. oops typos.. did it."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5963,
+      "type": "message",
+      "date": "2021-03-01T06:34:22",
+      "date_unixtime": "1614598462",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": "just say which primes 2,3,5,7 we need use",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "just say which primes 2,3,5,7 we need use"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5964,
+      "type": "message",
+      "date": "2021-03-01T06:34:23",
+      "date_unixtime": "1614598463",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": ":D",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": ":D"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5965,
+      "type": "message",
+      "date": "2021-03-01T06:34:29",
+      "date_unixtime": "1614598469",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": "and will be fine :D",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "and will be fine :D"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5966,
+      "type": "message",
+      "date": "2021-03-01T06:34:42",
+      "date_unixtime": "1614598482",
+      "edited": "2025-09-08T18:33:25",
+      "edited_unixtime": "1757370805",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "You are at the prime part already???",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You are at the prime part already???"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83e\udee1",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-09-08T18:33:26"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5967,
+      "type": "message",
+      "date": "2021-03-01T06:34:42",
+      "date_unixtime": "1614598482",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": "there are too many combinations :(",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "there are too many combinations :("
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5968,
+      "type": "message",
+      "date": "2021-03-01T06:35:02",
+      "date_unixtime": "1614598502",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": "yes",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "yes"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5969,
+      "type": "message",
+      "date": "2021-03-01T06:35:15",
+      "date_unixtime": "1614598515",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Oh wait, shouldn't have said that. That might have been a hint \ud83e\udd14.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Oh wait, shouldn't have said that. That might have been a hint \ud83e\udd14."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5970,
+      "type": "message",
+      "date": "2021-03-01T06:35:33",
+      "date_unixtime": "1614598533",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": "im in deep ass but I understand how the puzzle is made",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "im in deep ass but I understand how the puzzle is made"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5971,
+      "type": "message",
+      "date": "2021-03-01T06:36:27",
+      "date_unixtime": "1614598587",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": "soon maybe it will work. but your text in this phase have too many ambiguous",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "soon maybe it will work. but your text in this phase have too many ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 5972,
+      "type": "message",
+      "date": "2021-03-01T06:36:34",
+      "date_unixtime": "1614598594",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": "and i think only i can read it",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "and i think only i can read it"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 6506,
+      "type": "message",
+      "date": "2021-03-14T11:03:25",
+      "date_unixtime": "1615734205",
+      "edited": "2025-08-08T10:18:22",
+      "edited_unixtime": "1754662702",
+      "from": "Zil",
+      "from_id": "user980067088",
+      "text": "Nice one",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Nice one"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\u2764",
+          "recent": [
+            {
+              "from": "Cryptono",
+              "from_id": "user7107313094",
+              "date": "2025-08-08T10:18:22"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 6507,
+      "type": "message",
+      "date": "2021-03-14T11:03:34",
+      "date_unixtime": "1615734214",
+      "from": "Zil",
+      "from_id": "user980067088",
+      "text": "I am not so creative",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I am not so creative"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 6508,
+      "type": "message",
+      "date": "2021-03-14T11:12:04",
+      "date_unixtime": "1615734724",
+      "from": null,
+      "from_id": "user419791047",
+      "reply_to_message_id": 6491,
+      "text": "So don't you think it's time for a hint on matrixsumlist?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "So don't you think it's time for a hint on matrixsumlist?"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 6509,
+      "type": "message",
+      "date": "2021-03-14T11:19:29",
+      "date_unixtime": "1615735169",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "reply_to_message_id": 6508,
+      "text": "I gave an unforseen hint already \ud83e\udd37\u200d\u2642",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I gave an unforseen hint already \ud83e\udd37\u200d\u2642"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 6510,
+      "type": "message",
+      "date": "2021-03-14T11:21:53",
+      "date_unixtime": "1615735313",
+      "from": "Zil",
+      "from_id": "user980067088",
+      "reply_to_message_id": 6509,
+      "text": "You're really good at hints. We like them so much that we want more \ud83d\ude38",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You're really good at hints. We like them so much that we want more \ud83d\ude38"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 6511,
+      "type": "service",
+      "date": "2021-03-14T11:27:59",
+      "date_unixtime": "1615735679",
+      "actor": "Igor",
+      "actor_id": "user168650204",
+      "action": "join_group_by_link",
+      "inviter": "Group",
+      "text": "",
+      "text_entities": []
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 6512,
+      "type": "message",
+      "date": "2021-03-14T21:15:27",
+      "date_unixtime": "1615770927",
+      "edited": "2026-07-01T10:56:23",
+      "edited_unixtime": "1782917783",
+      "from": null,
+      "from_id": "user750026879",
+      "reply_to_message_id": 6491,
+      "text": "pls... is salph related to hint about \"roses are...\"? \ud83d\udc07",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "pls... is salph related to hint about \"roses are...\"? \ud83d\udc07"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 7997,
+      "type": "message",
+      "date": "2021-12-26T14:25:20",
+      "date_unixtime": "1640546720",
+      "from": "RB",
+      "from_id": "user737261554",
+      "reply_to_message_id": 7996,
+      "text": "he can't be so evil to leave us without any Christmas present, can he?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "he can't be so evil to leave us without any Christmas present, can he?"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 7998,
+      "type": "message",
+      "date": "2021-12-26T15:11:26",
+      "date_unixtime": "1640549486",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Oh well, why not. A mini mini hint. Ready \ud83d\udc30?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Oh well, why not. A mini mini hint. Ready \ud83d\udc30?"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 7999,
+      "type": "message",
+      "date": "2021-12-26T15:11:42",
+      "date_unixtime": "1640549502",
+      "from": "silver_anth",
+      "from_id": "user432257224",
+      "text": "\ud83d\udc40",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "\ud83d\udc40"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8000,
+      "type": "message",
+      "date": "2021-12-26T15:18:32",
+      "date_unixtime": "1640549912",
+      "edited": "2026-02-15T19:29:51",
+      "edited_unixtime": "1771201791",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! \ud83e\udd42",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! \ud83e\udd42"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\u2764",
+          "recent": [
+            {
+              "from": "Sanad",
+              "from_id": "user8538024691",
+              "date": "2026-06-11T19:10:06"
+            }
+          ]
+        },
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83d\udd25",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2026-02-15T19:29:51"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8001,
+      "type": "message",
+      "date": "2021-12-26T16:31:38",
+      "date_unixtime": "1640554298",
+      "from": null,
+      "from_id": "user419791047",
+      "text": "solved",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "solved"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8002,
+      "type": "message",
+      "date": "2021-12-26T16:31:49",
+      "date_unixtime": "1640554309",
+      "from": "RB",
+      "from_id": "user737261554",
+      "text": "c'mon.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "c'mon."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8003,
+      "type": "message",
+      "date": "2021-12-26T16:32:36",
+      "date_unixtime": "1640554356",
+      "edited": "2021-12-26T16:34:15",
+      "edited_unixtime": "1640554455",
+      "from": "RB",
+      "from_id": "user737261554",
+      "text": "... shouldn't have had the dinner before coding \ud83d\ude48",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "... shouldn't have had the dinner before coding \ud83d\ude48"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8327,
+      "type": "message",
+      "date": "2023-01-08T12:17:18",
+      "date_unixtime": "1673198238",
+      "from": "Hii",
+      "from_id": "user1465192424",
+      "text": [
+        "At this point just donate the money to charity ",
+        {
+          "type": "mention",
+          "text": "@SoWut"
+        },
+        " \nI'll lose my sanity now pls just provide the solution I don't think this is ever getting solved"
+      ],
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "At this point just donate the money to charity "
+        },
+        {
+          "type": "mention",
+          "text": "@SoWut"
+        },
+        {
+          "type": "plain",
+          "text": " \nI'll lose my sanity now pls just provide the solution I don't think this is ever getting solved"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8328,
+      "type": "message",
+      "date": "2023-01-08T23:52:11",
+      "date_unixtime": "1673239931",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": [
+        {
+          "type": "mention",
+          "text": "@barrystyle"
+        },
+        ", provided a very specific hint already."
+      ],
+      "text_entities": [
+        {
+          "type": "mention",
+          "text": "@barrystyle"
+        },
+        {
+          "type": "plain",
+          "text": ", provided a very specific hint already."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8329,
+      "type": "message",
+      "date": "2023-01-09T00:57:03",
+      "date_unixtime": "1673243823",
+      "edited": "2024-03-27T21:41:29",
+      "edited_unixtime": "1711590089",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "reply_to_message_id": 8328,
+      "text": "sumlist matrix -contains prime numbers ? xD",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "sumlist matrix -contains prime numbers ? xD"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8330,
+      "type": "message",
+      "date": "2023-01-09T05:10:46",
+      "date_unixtime": "1673259046",
+      "edited": "2025-09-02T19:56:49",
+      "edited_unixtime": "1756857409",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "At least prime number is very important to get any further.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "At least prime number is very important to get any further."
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83e\udd14",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-09-02T19:56:51"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8331,
+      "type": "message",
+      "date": "2023-01-09T08:47:17",
+      "date_unixtime": "1673272037",
+      "edited": "2025-02-02T14:46:19",
+      "edited_unixtime": "1738525579",
+      "from": "Janusz Baran",
+      "from_id": "user394589394",
+      "text": "Which brings us at last to the moment of truth, wherein the fundamental flaw is ultimately expressed, and the Anomaly revealed as both beginning... and end :D",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Which brings us at last to the moment of truth, wherein the fundamental flaw is ultimately expressed, and the Anomaly revealed as both beginning... and end :D"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8332,
+      "type": "message",
+      "date": "2023-01-09T10:50:48",
+      "date_unixtime": "1673279448",
+      "from": "Detective Froz",
+      "from_id": "user231061724",
+      "text": "Bitcoin ECC modulo is a prime number \ud83d\udcaa",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Bitcoin ECC modulo is a prime number \ud83d\udcaa"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8333,
+      "type": "message",
+      "date": "2023-01-10T00:33:30",
+      "date_unixtime": "1673328810",
+      "edited": "2025-02-04T17:06:00",
+      "edited_unixtime": "1738706760",
+      "from": "Jerry",
+      "from_id": "user786391896",
+      "reply_to_message_id": 8330,
+      "text": "C'mon man give us something more I'm on almost 3 years of this puzzle that turned my hair grey and my wife left me",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "C'mon man give us something more I'm on almost 3 years of this puzzle that turned my hair grey and my wife left me"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83d\udd25",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-02-04T17:06:00"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8444,
+      "type": "message",
+      "date": "2023-02-16T14:52:15",
+      "date_unixtime": "1676577135",
+      "from": "Zil",
+      "from_id": "user980067088",
+      "reply_to_message_id": 8441,
+      "text": "you only think you do",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "you only think you do"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8445,
+      "type": "message",
+      "date": "2023-02-16T16:28:45",
+      "date_unixtime": "1676582925",
+      "from": "0xColombo",
+      "from_id": "user274980096",
+      "reply_to_message_id": 8441,
+      "text": "It was inevitable?\ud83e\udd16",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "It was inevitable?\ud83e\udd16"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8446,
+      "type": "message",
+      "date": "2023-02-23T18:20:03",
+      "date_unixtime": "1677194403",
+      "edited": "2023-12-02T17:47:40",
+      "edited_unixtime": "1701557260",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 2,
+          "emoji": "\ud83d\udc4d",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-02-03T19:23:49"
+            },
+            {
+              "from": "Jerry",
+              "from_id": "user786391896",
+              "date": "2023-12-02T17:47:40"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8447,
+      "type": "message",
+      "date": "2023-02-23T23:27:32",
+      "date_unixtime": "1677212852",
+      "from": "RB",
+      "from_id": "user737261554",
+      "text": "... in front of your eyes ... hmm...",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "... in front of your eyes ... hmm..."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8448,
+      "type": "message",
+      "date": "2023-02-24T22:58:12",
+      "date_unixtime": "1677297492",
+      "from": null,
+      "from_id": "user419791047",
+      "text": "reversed binary: yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisatruegiveawaypromised",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "reversed binary: yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisatruegiveawaypromised"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 8449,
+      "type": "message",
+      "date": "2023-02-24T22:58:35",
+      "date_unixtime": "1677297515",
+      "edited": "2024-01-08T14:06:27",
+      "edited_unixtime": "1704740787",
+      "from": null,
+      "from_id": "user419791047",
+      "text": "I honestly don't remember any of the steps in this puzzle \ud83d\ude02 luckily I'm already rich after all these years",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I honestly don't remember any of the steps in this puzzle \ud83d\ude02 luckily I'm already rich after all these years"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 11245,
+      "type": "message",
+      "date": "2023-08-22T14:13:23",
+      "date_unixtime": "1692728003",
+      "from": null,
+      "from_id": "user5939972373",
+      "reply_to_message_id": 11244,
+      "text": "where did you get that?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "where did you get that?"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 11246,
+      "type": "message",
+      "date": "2023-08-22T14:13:55",
+      "date_unixtime": "1692728035",
+      "from": "Jerry",
+      "from_id": "user786391896",
+      "text": "From the source",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "From the source"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 11247,
+      "type": "message",
+      "date": "2023-08-22T14:14:42",
+      "date_unixtime": "1692728082",
+      "from": "Jerry",
+      "from_id": "user786391896",
+      "forwarded_from": "Jerry",
+      "forwarded_from_id": "user786391896",
+      "text": "so i got a question and it shouldnt be too much of a hint, but what was the actual first hint to the gsmg puzzle since i started so late in the game",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "so i got a question and it shouldnt be too much of a hint, but what was the actual first hint to the gsmg puzzle since i started so late in the game"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 11248,
+      "type": "message",
+      "date": "2023-08-22T14:14:42",
+      "date_unixtime": "1692728082",
+      "from": "Jerry",
+      "from_id": "user786391896",
+      "forwarded_from": "Jrk Bgrt",
+      "text": "Follow the white rabbit",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Follow the white rabbit"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 11249,
+      "type": "message",
+      "date": "2023-08-22T14:14:51",
+      "date_unixtime": "1692728091",
+      "from": "Jerry",
+      "from_id": "user786391896",
+      "text": "That was years ago",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "That was years ago"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 11250,
+      "type": "message",
+      "date": "2023-08-22T14:16:31",
+      "date_unixtime": "1692728191",
+      "from": null,
+      "from_id": "user5939972373",
+      "text": "white rabbit was the confusion part of the game",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "white rabbit was the confusion part of the game"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 11251,
+      "type": "message",
+      "date": "2023-08-22T14:17:30",
+      "date_unixtime": "1692728250",
+      "from": "Jerry",
+      "from_id": "user786391896",
+      "text": "I think it has something to do with\nD\nO\nO\nR",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I think it has something to do with\nD\nO\nO\nR"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 66958,
+      "type": "message",
+      "date": "2026-07-16T18:48:40",
+      "date_unixtime": "1784242120",
+      "edited": "2026-07-16T18:49:08",
+      "edited_unixtime": "1784242148",
+      "from": "Anderson Vasconcelos",
+      "from_id": "user24791610",
+      "text": "Waiting for the \"NOTE: that is a hint.\" moment",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Waiting for the \"NOTE: that is a hint.\" moment"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83d\udc8a",
+          "recent": [
+            {
+              "from": "Denis Golovkin",
+              "from_id": "user398109413",
+              "date": "2026-07-16T18:49:08"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 66959,
+      "type": "message",
+      "date": "2026-07-16T18:49:42",
+      "date_unixtime": "1784242182",
+      "from": "Mike",
+      "from_id": "user8580723420",
+      "text": "Can you give me 1 bitcoin",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Can you give me 1 bitcoin"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 66960,
+      "type": "message",
+      "date": "2026-07-16T18:49:50",
+      "date_unixtime": "1784242190",
+      "from": "Mike",
+      "from_id": "user8580723420",
+      "text": [
+        {
+          "type": "mention",
+          "text": "@SoWut"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "mention",
+          "text": "@SoWut"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 66961,
+      "type": "message",
+      "date": "2026-07-16T18:50:15",
+      "date_unixtime": "1784242215",
+      "edited": "2026-07-16T18:50:26",
+      "edited_unixtime": "1784242226",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Give yourself yourself and yourself will be given yourself.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Give yourself yourself and yourself will be given yourself."
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 2,
+          "emoji": "\ud83d\udd25",
+          "recent": [
+            {
+              "from": "Mike",
+              "from_id": "user8580723420",
+              "date": "2026-07-16T18:53:24"
+            }
+          ]
+        },
+        {
+          "type": "emoji",
+          "count": 2,
+          "emoji": "\ud83e\udd14",
+          "recent": [
+            {
+              "from": "Sparky",
+              "from_id": "user7184569562",
+              "date": "2026-07-17T05:31:54"
+            },
+            {
+              "from": "Spike",
+              "from_id": "user1625609648",
+              "date": "2026-07-16T18:53:32"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 66962,
+      "type": "message",
+      "date": "2026-07-16T18:51:10",
+      "date_unixtime": "1784242270",
+      "edited": "2026-07-18T08:10:03",
+      "edited_unixtime": "1784376603",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "reply_to_message_id": 66958,
+      "text": "Latetly, I'm working with many NOTES.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Latetly, I'm working with many NOTES."
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83d\ude01",
+          "recent": [
+            {
+              "from": "S | h",
+              "from_id": "user7587647714",
+              "date": "2026-07-18T08:10:03"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 66963,
+      "type": "message",
+      "date": "2026-07-16T18:52:16",
+      "date_unixtime": "1784242336",
+      "edited": "2026-07-17T21:43:08",
+      "edited_unixtime": "1784338988",
+      "from": "Anderson Vasconcelos",
+      "from_id": "user24791610",
+      "reply_to_message_id": 66961,
+      "text": [
+        {
+          "type": "link",
+          "text": "https://gsmg.io/youmeandself"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://gsmg.io/youmeiandself"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://gsmg.io/youmeisandself"
+        },
+        "\n",
+        {
+          "type": "link",
+          "text": "https://gsmg.io/youmeizandself"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "link",
+          "text": "https://gsmg.io/youmeandself"
+        },
+        {
+          "type": "plain",
+          "text": "\n"
+        },
+        {
+          "type": "link",
+          "text": "https://gsmg.io/youmeiandself"
+        },
+        {
+          "type": "plain",
+          "text": "\n"
+        },
+        {
+          "type": "link",
+          "text": "https://gsmg.io/youmeisandself"
+        },
+        {
+          "type": "plain",
+          "text": "\n"
+        },
+        {
+          "type": "link",
+          "text": "https://gsmg.io/youmeizandself"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83e\udd1d",
+          "recent": [
+            {
+              "from": "Denis Golovkin",
+              "from_id": "user398109413",
+              "date": "2026-07-17T21:43:08"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 66964,
+      "type": "message",
+      "date": "2026-07-16T18:52:37",
+      "date_unixtime": "1784242357",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "reply_to_message_id": 66955,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "photo_file_size": 128563,
+      "width": 997,
+      "height": 1280,
+      "text": "Nice",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Nice"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "PUZ",
+    "message": {
+      "id": 66965,
+      "type": "message",
+      "date": "2026-07-16T18:53:00",
+      "date_unixtime": "1784242380",
+      "edited": "2026-07-16T18:53:51",
+      "edited_unixtime": "1784242431",
+      "from": null,
+      "from_id": "user7361397393",
+      "text": "ClonaZepamIon",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ClonaZepamIon"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 3,
+          "emoji": "\ud83d\ude01",
+          "recent": [
+            {
+              "from": "ES",
+              "from_id": "user7107156868",
+              "date": "2026-07-20T10:46:27"
+            },
+            {
+              "from": "Denis Golovkin",
+              "from_id": "user398109413",
+              "date": "2026-07-16T18:59:37"
+            },
+            {
+              "from": "Spike",
+              "from_id": "user1625609648",
+              "date": "2026-07-16T18:53:51"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26062,
+      "type": "message",
+      "date": "2019-04-01T07:38:53",
+      "date_unixtime": "1554118733",
+      "from": "\ud83c\uddee\ud83c\udde9Rohadi_21\ud83e\uddb4",
+      "from_id": "user262461551",
+      "text": "Good afternoon\ud83d\ude01",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Good afternoon\ud83d\ude01"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26063,
+      "type": "message",
+      "date": "2019-04-01T07:38:53",
+      "date_unixtime": "1554118733",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Ah great, nobody solved it so far :-).",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ah great, nobody solved it so far :-)."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26064,
+      "type": "message",
+      "date": "2019-04-01T07:39:30",
+      "date_unixtime": "1554118770",
+      "from": "Freek",
+      "from_id": "user486592902",
+      "text": "Hahaha",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Hahaha"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26065,
+      "type": "message",
+      "date": "2019-04-01T07:59:15",
+      "date_unixtime": "1554119955",
+      "edited": "2025-09-11T19:20:47",
+      "edited_unixtime": "1757632847",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": [
+        "First external hint:\n\n",
+        {
+          "type": "link",
+          "text": "http://lmgtfy.com/?q=How+did+caesar+send+his+messages%3F"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "First external hint:\n\n"
+        },
+        {
+          "type": "link",
+          "text": "http://lmgtfy.com/?q=How+did+caesar+send+his+messages%3F"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83e\udd14",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-09-11T19:20:47"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26066,
+      "type": "message",
+      "date": "2019-04-01T07:59:41",
+      "date_unixtime": "1554119981",
+      "from": null,
+      "from_id": "user476035861",
+      "text": "there goes my lead",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "there goes my lead"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26067,
+      "type": "message",
+      "date": "2019-04-01T08:01:31",
+      "date_unixtime": "1554120091",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Next hint in 6 hours ;-)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Next hint in 6 hours ;-)"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26068,
+      "type": "message",
+      "date": "2019-04-01T08:03:37",
+      "date_unixtime": "1554120217",
+      "from": "Chris",
+      "from_id": "user43935904",
+      "reply_to_message_id": 26063,
+      "text": "What is there to solve?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "What is there to solve?"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26080,
+      "type": "message",
+      "date": "2019-04-01T09:05:51",
+      "date_unixtime": "1554123951",
+      "from": null,
+      "from_id": "user476035861",
+      "text": ":'(",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": ":'("
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26081,
+      "type": "message",
+      "date": "2019-04-01T09:07:50",
+      "date_unixtime": "1554124070",
+      "from": "Jaap",
+      "from_id": "user420427201",
+      "text": "wow I was still trying \ud83d\ude1b",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "wow I was still trying \ud83d\ude1b"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26082,
+      "type": "message",
+      "date": "2019-04-01T09:08:21",
+      "date_unixtime": "1554124101",
+      "from": "Jaap",
+      "from_id": "user420427201",
+      "text": "didnt get further than this removethecorrecthinttoproceedtothe8 thing \ud83d\ude1b",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "didnt get further than this removethecorrecthinttoproceedtothe8 thing \ud83d\ude1b"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26083,
+      "type": "message",
+      "date": "2019-04-01T09:18:12",
+      "date_unixtime": "1554124692",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "reply_to_message_id": 26082,
+      "text": "'esrever' in the bottom. Use that hint on the 2nd binary code.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "'esrever' in the bottom. Use that hint on the 2nd binary code."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26084,
+      "type": "message",
+      "date": "2019-04-01T09:23:43",
+      "date_unixtime": "1554125023",
+      "from": null,
+      "from_id": "user476035861",
+      "text": "for everyone wondering, thought process i shouldve had quicker xD",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "for everyone wondering, thought process i shouldve had quicker xD"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26105,
+      "type": "message",
+      "date": "2019-04-01T09:27:42",
+      "date_unixtime": "1554125262",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Thanks Bavo!",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Thanks Bavo!"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26106,
+      "type": "message",
+      "date": "2019-04-01T09:27:49",
+      "date_unixtime": "1554125269",
+      "from": null,
+      "from_id": "user415602713",
+      "text": "Tip of my tongue",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Tip of my tongue"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26107,
+      "type": "message",
+      "date": "2019-04-01T09:28:12",
+      "date_unixtime": "1554125292",
+      "from": null,
+      "from_id": "user476035861",
+      "reply_to_message_id": 26106,
+      "text": "i had to google for it xD i knew it existed xD",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "i had to google for it xD i knew it existed xD"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26108,
+      "type": "message",
+      "date": "2019-04-01T09:30:33",
+      "date_unixtime": "1554125433",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "You really skipped a part where you'd need to caesar rotate in order to unlock \"removethecorrecthinttoproceedtothenextstage\" -> in the bottom you'd see 'esrever' -> backwards it's reverse -> which had to be applied to the 2nd binary part. But your solution is quicker nevertheless \ud83d\ude09",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You really skipped a part where you'd need to caesar rotate in order to unlock \"removethecorrecthinttoproceedtothenextstage\" -> in the bottom you'd see 'esrever' -> backwards it's reverse -> which had to be applied to the 2nd binary part. But your solution is quicker nevertheless \ud83d\ude09"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26109,
+      "type": "message",
+      "date": "2019-04-01T09:30:40",
+      "date_unixtime": "1554125440",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": [
+        {
+          "type": "link",
+          "text": "rot13.com"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "link",
+          "text": "rot13.com"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26110,
+      "type": "message",
+      "date": "2019-04-01T09:32:28",
+      "date_unixtime": "1554125548",
+      "from": null,
+      "from_id": "user476035861",
+      "text": "yeah was looking at that but in the end wasn't needed :)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "yeah was looking at that but in the end wasn't needed :)"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26111,
+      "type": "message",
+      "date": "2019-04-01T09:33:32",
+      "date_unixtime": "1554125612",
+      "from": null,
+      "from_id": "user476035861",
+      "text": "how ceasar send messages was ceasar cipher which means rotate the alphabet (something like that)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "how ceasar send messages was ceasar cipher which means rotate the alphabet (something like that)"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26112,
+      "type": "message",
+      "date": "2019-04-01T09:34:00",
+      "date_unixtime": "1554125640",
+      "from": null,
+      "from_id": "user476035861",
+      "text": "my problem was I used a binary to ascii converter which stripped the middle binary out at firsr",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "my problem was I used a binary to ascii converter which stripped the middle binary out at firsr"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26113,
+      "type": "message",
+      "date": "2019-04-01T09:34:32",
+      "date_unixtime": "1554125672",
+      "edited": "2025-07-23T12:51:00",
+      "edited_unixtime": "1753289460",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "correct. 13 is default. number c -> 3. rotate with 3 means re-rotating with 23 (alphabet has 26 chars).",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "correct. 13 is default. number c -> 3. rotate with 3 means re-rotating with 23 (alphabet has 26 chars)."
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83e\udd14",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-07-23T12:51:00"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26114,
+      "type": "message",
+      "date": "2019-04-01T09:36:53",
+      "date_unixtime": "1554125813",
+      "from": null,
+      "from_id": "user415602713",
+      "text": "fucking whizzkids make me feel dumb :(",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "fucking whizzkids make me feel dumb :("
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26115,
+      "type": "message",
+      "date": "2019-04-01T09:50:31",
+      "date_unixtime": "1554126631",
+      "from": "Karen Tovmasyan",
+      "from_id": "user244744683",
+      "reply_to_message_id": 26114,
+      "text": "You\u2019re not alone here ;)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You\u2019re not alone here ;)"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 26116,
+      "type": "message",
+      "date": "2019-04-01T10:03:17",
+      "date_unixtime": "1554127397",
+      "from": "Jay Luck",
+      "from_id": "user627107422",
+      "reply_to_message_id": 26113,
+      "text": "Man I was on to this too",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Man I was on to this too"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 28519,
+      "type": "message",
+      "date": "2019-04-19T13:58:53",
+      "date_unixtime": "1555696733",
+      "edited": "2019-04-19T14:08:27",
+      "edited_unixtime": "1555697307",
+      "from": "CoinGeek_NL",
+      "from_id": "user547106242",
+      "text": "based on some advice of some ppl here I was getting some beers today in the sun in The Netherlands\u2026. All good\u2026. but\u2026 I switched on GSMSG again after some hours\u2026. man\u2026. 4 markets with insufficient ETH to be allocated",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "based on some advice of some ppl here I was getting some beers today in the sun in The Netherlands\u2026. All good\u2026. but\u2026 I switched on GSMSG again after some hours\u2026. man\u2026. 4 markets with insufficient ETH to be allocated"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 28520,
+      "type": "message",
+      "date": "2019-04-19T13:59:07",
+      "date_unixtime": "1555696747",
+      "from": "CoinGeek_NL",
+      "from_id": "user547106242",
+      "text": "I simply should not leave my computer I see",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "I simply should not leave my computer I see"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 28521,
+      "type": "message",
+      "date": "2019-04-19T14:07:53",
+      "date_unixtime": "1555697273",
+      "from": "Chris",
+      "from_id": "user43935904",
+      "text": "when hint? \ud83d\ude06",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "when hint? \ud83d\ude06"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 28522,
+      "type": "message",
+      "date": "2019-04-19T15:03:37",
+      "date_unixtime": "1555700617",
+      "edited": "2025-06-05T19:01:05",
+      "edited_unixtime": "1749164465",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "reply_to_message_id": 28521,
+      "text": "Follow the white rabbit. \ud83d\ude09",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Follow the white rabbit. \ud83d\ude09"
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "\ud83d\ude4f",
+          "recent": [
+            {
+              "from": "Zed Heres",
+              "from_id": "user5661053313",
+              "date": "2025-06-05T19:01:05"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 28523,
+      "type": "message",
+      "date": "2019-04-19T15:18:49",
+      "date_unixtime": "1555701529",
+      "from": null,
+      "from_id": "user476035861",
+      "text": "ah maann xD",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ah maann xD"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 28524,
+      "type": "message",
+      "date": "2019-04-19T15:19:08",
+      "date_unixtime": "1555701548",
+      "from": "Sowieso",
+      "from_id": "user465704836",
+      "reply_to_message_id": 28507,
+      "text": "Where is the official announcement? :p",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Where is the official announcement? :p"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 28525,
+      "type": "message",
+      "date": "2019-04-19T15:20:48",
+      "date_unixtime": "1555701648",
+      "from": null,
+      "from_id": "user476035861",
+      "text": "i wonder how long it took to generate addresses which contained GSMG",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "i wonder how long it took to generate addresses which contained GSMG"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 35280,
+      "type": "message",
+      "date": "2019-08-08T08:26:17",
+      "date_unixtime": "1565267177",
+      "from": null,
+      "from_id": "user12487625",
+      "reply_to_message_id": 35279,
+      "text": [
+        {
+          "type": "link",
+          "text": "https://gsmg.io/puzzle"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "link",
+          "text": "https://gsmg.io/puzzle"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 35281,
+      "type": "message",
+      "date": "2019-08-08T08:26:33",
+      "date_unixtime": "1565267193",
+      "from": null,
+      "from_id": "user476035861",
+      "text": "enjoy and dont pull your hair out xD",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "enjoy and dont pull your hair out xD"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 35282,
+      "type": "message",
+      "date": "2019-08-08T08:28:24",
+      "date_unixtime": "1565267304",
+      "from": "Kees",
+      "from_id": "user441435785",
+      "reply_to_message_id": 35277,
+      "text": "what was the first hint",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "what was the first hint"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 35283,
+      "type": "message",
+      "date": "2019-08-08T08:28:42",
+      "date_unixtime": "1565267322",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "followthewhiterabbit",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "followthewhiterabbit"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 35284,
+      "type": "message",
+      "date": "2019-08-08T08:29:35",
+      "date_unixtime": "1565267375",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "There's a few typo's in the puzzle. 1 of them is a problem: giveit = givetit.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "There's a few typo's in the puzzle. 1 of them is a problem: giveit = givetit."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 35285,
+      "type": "message",
+      "date": "2019-08-08T08:31:57",
+      "date_unixtime": "1565267517",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": [
+        {
+          "type": "link",
+          "text": "https://t.me/joinchat/GX5yBxagnG41kVoCSSqWsA"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "link",
+          "text": "https://t.me/joinchat/GX5yBxagnG41kVoCSSqWsA"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 35286,
+      "type": "message",
+      "date": "2019-08-08T08:33:54",
+      "date_unixtime": "1565267634",
+      "from": "Dicky",
+      "from_id": "user757800485",
+      "text": "Oke thx!",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Oke thx!"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 36711,
+      "type": "message",
+      "date": "2019-10-13T10:52:31",
+      "date_unixtime": "1570978351",
+      "from": null,
+      "from_id": "user367669071",
+      "text": "Hey admin is it real 5BTC puzzel?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Hey admin is it real 5BTC puzzel?"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 36712,
+      "type": "message",
+      "date": "2019-10-13T10:59:05",
+      "date_unixtime": "1570978745",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "Yes!",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Yes!"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 36713,
+      "type": "message",
+      "date": "2019-10-13T10:59:43",
+      "date_unixtime": "1570978783",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": "There's another tg group were it can be discussed.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "There's another tg group were it can be discussed."
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 36714,
+      "type": "message",
+      "date": "2019-10-13T11:01:02",
+      "date_unixtime": "1570978862",
+      "from": "Jrk Bgrt",
+      "from_id": "user9815232",
+      "text": [
+        "Hint:\nfollowthewhiterabbit\n\nThere's a few typo's in the puzzle. 1 of them is a problem: giveit = givetit.\n\n",
+        {
+          "type": "link",
+          "text": "https://t.me/joinchat/GX5yBxagnG41kVoCSSqWsA"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Hint:\nfollowthewhiterabbit\n\nThere's a few typo's in the puzzle. 1 of them is a problem: giveit = givetit.\n\n"
+        },
+        {
+          "type": "link",
+          "text": "https://t.me/joinchat/GX5yBxagnG41kVoCSSqWsA"
+        }
+      ]
+    }
+  },
+  {
+    "chat": "COMM",
+    "message": {
+      "id": 36717,
+      "type": "message",
+      "date": "2019-10-13T15:24:33",
+      "date_unixtime": "1570994673",
+      "from": "DaySandBox",
+      "from_id": "user400753764",
+      "text": [
+        "Message from ",
+        {
+          "type": "italic",
+          "text": "KATHLENE LOCH"
+        },
+        " deleted. Reason: new user and external link ",
+        {
+          "type": "text_link",
+          "text": "(?)",
+          "href": "https://tgdev.io/bot/daysandbox_bot?reason=publog&uid=c297cc30326b45ad800d3ace49070c94"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Message from "
+        },
+        {
+          "type": "italic",
+          "text": "KATHLENE LOCH"
+        },
+        {
+          "type": "plain",
+          "text": " deleted. Reason: new user and external link "
+        },
+        {
+          "type": "text_link",
+          "text": "(?)",
+          "href": "https://tgdev.io/bot/daysandbox_bot?reason=publog&uid=c297cc30326b45ad800d3ace49070c94"
+        }
+      ]
+    }
+  }
+]

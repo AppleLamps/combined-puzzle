@@ -1,0 +1,30 @@
+{
+ "n_candidates": 15676,
+ "gate_checks": 188112,
+ "gate_hits": [],
+ "envelope_trials": 188112,
+ "pad_hist": {
+  "0": 187357,
+  "1": 750,
+  "2": 5
+ },
+ "notable": [],
+ "by_group": {
+  "P1_sm_line105": 2140,
+  "P1_kd_line52_to_stop_it": 1895,
+  "P1_kd_line52_full": 2151,
+  "P1_neo_last_words": 10,
+  "P2_sm_before_problem_is_choice": 562,
+  "P2_kd_before_problem_is_choice": 458,
+  "P2_sm_through_problem_is_choice": 675,
+  "P3_sm_architect_line61": 202,
+  "P3_kd_architect_line24": 119,
+  "P3_sm_neo_line59": 130,
+  "P3_kd_neo_line22": 26,
+  "P4_puzzle_before_SELECT": 2936,
+  "P5_puzzle_full": 3558,
+  "X_sm_after_choice_109_113": 670,
+  "SUM": 144
+ },
+ "pad1_expected": 731.9
+}

@@ -1,0 +1,57 @@
+{
+ "date": "2026-09-14",
+ "review": "14_CRITICAL_REVIEW_2026-09-14.md move 4 (DBBI material as keys)",
+ "envelope_bytes_read": 0,
+ "aes_decryptions": 0,
+ "keys": [
+  "sum_rows_6x14_signed",
+  "sum_cols_6x14_signed",
+  "sum_rows_6x14_unsigned",
+  "sum_cols_6x14_unsigned",
+  "sum_rows_6x14_colour",
+  "sum_cols_6x14_colour",
+  "sum_rows_7x12_signed",
+  "sum_cols_7x12_signed",
+  "sum_rows_7x12_unsigned",
+  "sum_cols_7x12_unsigned",
+  "sum_rows_7x12_colour",
+  "sum_cols_7x12_colour",
+  "balanced_479",
+  "balanced_484",
+  "balanced_5",
+  "balanced_963",
+  "balanced_474",
+  "balanced_489",
+  "primes_all23",
+  "primes_be7",
+  "primes_b16",
+  "cells84_signed",
+  "cells84_unsigned",
+  "cells84_colour",
+  "cells84_signed_zero5",
+  "cells84_unsigned_zero5",
+  "yellow9",
+  "blue15",
+  "blue_minus5",
+  "poster_rows14",
+  "poster_cols14"
+ ],
+ "ciphers": [
+  "vig_dec",
+  "vig_enc",
+  "beau"
+ ],
+ "alphabets": [
+  "A9+codec",
+  "A26"
+ ],
+ "controls": {
+  "controls_drawn": 240,
+  "control_max_score": 8,
+  "planted_round_trip": true
+ },
+ "oracles": [
+  "dbbi_pattern",
+  "marker_and_prize_addresses"
+ ]
+}

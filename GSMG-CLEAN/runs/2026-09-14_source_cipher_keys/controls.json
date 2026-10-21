@@ -1,0 +1,32 @@
+[
+  {
+    "modulus": 9,
+    "family": "vigenere",
+    "complete_plaintext_recovered": true
+  },
+  {
+    "modulus": 9,
+    "family": "beaufort",
+    "complete_plaintext_recovered": true
+  },
+  {
+    "modulus": 9,
+    "family": "variant",
+    "complete_plaintext_recovered": true
+  },
+  {
+    "modulus": 10,
+    "family": "vigenere",
+    "complete_plaintext_recovered": true
+  },
+  {
+    "modulus": 10,
+    "family": "beaufort",
+    "complete_plaintext_recovered": true
+  },
+  {
+    "modulus": 10,
+    "family": "variant",
+    "complete_plaintext_recovered": true
+  }
+]

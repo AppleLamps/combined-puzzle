@@ -1,0 +1,221 @@
+[
+ {
+  "id": 44036,
+  "type": "message",
+  "date": "2025-06-25T17:33:26",
+  "date_unixtime": "1750887206",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": [
+   {
+    "type": "mention",
+    "text": "@SoWut"
+   },
+   " no more hints please\n\nwe're so close as never earlier"
+  ],
+  "text_entities": [
+   {
+    "type": "mention",
+    "text": "@SoWut"
+   },
+   {
+    "type": "plain",
+    "text": " no more hints please\n\nwe're so close as never earlier"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 44037,
+  "type": "message",
+  "date": "2025-06-25T17:34:16",
+  "date_unixtime": "1750887256",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "photo": "(File not included. Change data exporting settings to download.)",
+  "photo_file_size": 48531,
+  "width": 1280,
+  "height": 720,
+  "text": "",
+  "text_entities": [],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 44176,
+  "type": "message",
+  "date": "2025-07-01T04:55:20",
+  "date_unixtime": "1751360120",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": "missed chat sorry xD",
+  "text_entities": [
+   {
+    "type": "plain",
+    "text": "missed chat sorry xD"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 44289,
+  "type": "message",
+  "date": "2025-07-07T11:07:19",
+  "date_unixtime": "1751900839",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": "yinyang or zig-zag?",
+  "text_entities": [
+   {
+    "type": "plain",
+    "text": "yinyang or zig-zag?"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 44290,
+  "type": "message",
+  "date": "2025-07-07T11:07:36",
+  "date_unixtime": "1751900856",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": "or smth else sounds like yinyang?",
+  "text_entities": [
+   {
+    "type": "plain",
+    "text": "or smth else sounds like yinyang?"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 45805,
+  "type": "message",
+  "date": "2025-07-21T07:56:21",
+  "date_unixtime": "1753098981",
+  "edited": "2025-07-21T08:12:29",
+  "edited_unixtime": "1753099949",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": "so sweet cake",
+  "text_entities": [
+   {
+    "type": "plain",
+    "text": "so sweet cake"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 45806,
+  "type": "message",
+  "date": "2025-07-21T07:56:33",
+  "date_unixtime": "1753098993",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": "*cokes",
+  "text_entities": [
+   {
+    "type": "plain",
+    "text": "*cokes"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 46124,
+  "type": "message",
+  "date": "2025-07-28T15:17:49",
+  "date_unixtime": "1753730269",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": [
+   {
+    "type": "phone",
+    "text": "3666666777"
+   }
+  ],
+  "text_entities": [
+   {
+    "type": "phone",
+    "text": "3666666777"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 71114,
+  "type": "message",
+  "date": "2026-09-07T05:25:02",
+  "date_unixtime": "1788773102",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": [
+   {
+    "type": "mention",
+    "text": "@Naddiseo"
+   },
+   " is here too?"
+  ],
+  "text_entities": [
+   {
+    "type": "mention",
+    "text": "@Naddiseo"
+   },
+   {
+    "type": "plain",
+    "text": " is here too?"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 71115,
+  "type": "message",
+  "date": "2026-09-07T05:35:25",
+  "date_unixtime": "1788773725",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": "and it's still unsolved?",
+  "text_entities": [
+   {
+    "type": "plain",
+    "text": "and it's still unsolved?"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 71116,
+  "type": "message",
+  "date": "2026-09-07T05:35:37",
+  "date_unixtime": "1788773737",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "text": "no more chances 😂",
+  "text_entities": [
+   {
+    "type": "plain",
+    "text": "no more chances 😂"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ },
+ {
+  "id": 71536,
+  "type": "message",
+  "date": "2026-09-11T14:29:13",
+  "date_unixtime": "1789151353",
+  "from": "Ilya",
+  "from_id": "user550758800",
+  "reply_to_message_id": 71525,
+  "text": "wife up in 69, of course 😄",
+  "text_entities": [
+   {
+    "type": "plain",
+    "text": "wife up in 69, of course 😄"
+   }
+  ],
+  "_source_export": "E:\\rabbit-combined\\rabbitv4\\newest-telegram-export_2026-09-12\\result.json"
+ }
+]

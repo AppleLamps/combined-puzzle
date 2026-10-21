@@ -1,0 +1,26 @@
+{
+  "hypothesis": "FAED is an affine Hill transform of a full decimal-encoded Architect quotation; mod9 deliberately identifies decimal zero and nine",
+  "moduli": [
+    9,
+    10
+  ],
+  "block_sizes": [
+    2,
+    3,
+    5,
+    6,
+    10,
+    15
+  ],
+  "input_reversal": true,
+  "layouts": [
+    "adjacent",
+    "rails"
+  ],
+  "unknown_keys": "All affine matrices, including singular ones, when the ciphertext design has full rank",
+  "normalization": "Exact/lower/upper/connected/connected_upper complete-word windows from one utterance; bigint big endian; decimal/base9/bijective_base9; left zero padding to 570 digits only",
+  "sources": {
+    "FAED_570.txt": "066191b4aafc114fbca7f0d168382f40129c4ff18490375b689741081d5ef3c2"
+  },
+  "limits": "A full-text match is required. Rank-deficient models are reported as untested. Other plaintexts, padding placements, dimensions and nonlinear transforms remain open."
+}

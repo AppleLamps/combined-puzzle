@@ -1,0 +1,20 @@
+targets: {'source_full_before_choice': 165, 'source_architect_before_choice': 133, 'source_immediate_before_choice': 19, 'puzzle_before_select': 259}
+sum lists: 552; outputs: 34860; controls: 557760
+control maxima {'initials': 4, 'finals': 6, 'lengths_A1': 1, 'lengths_mod26': 1}
+ score  4/6 finals direct b1 source_architect_before_choice faed/full/15x38/cols/rev 'YERSTWERSGGTERSTTSSUSNIXSNNHYETRRGETEN'
+ score  4/6 finals modulo b1 source_architect_before_choice faed/full/15x38/cols/rev 'YERSTWERSGGTERSTTSSUSNIXSNNHYETRRGETEN'
+ score  4/6 finals modulo b1 source_full_before_choice faed/prime_pos_zeroed/10x57/cols/cumsum 'SSENTENEDGMNTOSTUSFSNOTFUENTMEOFEEFGEYTEDNOMSEOENNRRRDOMD'
+ score  3/6 finals direct b1 source_full_before_choice faed/full/10x57/cols/fwd 'TLSTYSYNATENDNNLENSDNTTNEETFSEUEHSHATSYLNDYYSEDAFYSTYSSDE'
+ score  3/6 finals modulo b1 source_full_before_choice faed/full/10x57/cols/fwd 'TLSTYSYNATENDNNLENSDNTTNEETFSEUEHSHATSYLNDYYSEDAFYSTYSSDE'
+ score  3/6 finals direct b1 source_architect_before_choice faed/full/10x57/cols/fwd 'TLSTYSYNATENDNNLENSDNTTNEETFSEUEHSHATSYLNDYYSEDAFYSTYSSDE'
+ score  3/6 finals modulo b1 source_architect_before_choice faed/full/10x57/cols/fwd 'TLSTYSYNATENDNNLENSDNTTNEETFSEUEHSHATSYLNDYYSEDAFYSTYSSDE'
+ score  3/6 finals direct b1 puzzle_before_select faed/full/10x57/cols/fwd 'TFTSFAUENTAOTOEFAOTDESSEYATEEADTLHLYSTYNEDYFATTNEYASYHHTT'
+ score  3/6 finals modulo b1 puzzle_before_select faed/full/10x57/cols/fwd 'TFTSFAUENTAOTOEFAOTDESSEYATEEADTLHLYSTYNEDYFATTNEYASYHHTT'
+ score  3/6 finals direct b1 source_full_before_choice faed/full/10x57/cols/nonzero 'TLSTYSYNATENDNNLENSDNTTNEETFSEUEHSHATSYLNDYYSEDAFYSTYSSDE'
+ score  3/6 finals modulo b1 source_full_before_choice faed/full/10x57/cols/nonzero 'TLSTYSYNATENDNNLENSDNTTNEETFSEUEHSHATSYLNDYYSEDAFYSTYSSDE'
+ score  3/6 finals direct b1 source_architect_before_choice faed/full/10x57/cols/nonzero 'TLSTYSYNATENDNNLENSDNTTNEETFSEUEHSHATSYLNDYYSEDAFYSTYSSDE'
+ score  3/6 finals modulo b1 source_architect_before_choice faed/full/10x57/cols/nonzero 'TLSTYSYNATENDNNLENSDNTTNEETFSEUEHSHATSYLNDYYSEDAFYSTYSSDE'
+ score  3/6 finals direct b1 puzzle_before_select faed/full/10x57/cols/nonzero 'TFTSFAUENTAOTOEFAOTDESSEYATEEADTLHLYSTYNEDYFATTNEYASYHHTT'
+ score  3/6 finals modulo b1 puzzle_before_select faed/full/10x57/cols/nonzero 'TFTSFAUENTAOTOEFAOTDESSEYATEEADTLHLYSTYNEDYFATTNEYASYHHTT'
+above controls: 0; DBBI-pattern hits: 0
+WROTE E:\rabbit-combined\GSMG-CLEAN\runs\2026-09-14_matrixsum_lastwords

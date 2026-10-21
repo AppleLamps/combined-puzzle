@@ -1,0 +1,31 @@
+{
+  "counts": {
+    "independently_reproduced": 755,
+    "pad_1": 750,
+    "outputs_with_fragments": 374,
+    "outputs_with_embedded_events": 232,
+    "zlib:invalid": 369,
+    "pad_2": 5,
+    "zlib:incomplete-or-limited": 6,
+    "gzip:invalid": 4
+  },
+  "all_status": "UNRESOLVED_RETAINED",
+  "source_sha256": "55bc23e7371d127b1ae4a3ebe5380ab5125865ad33a93c29156432259dc45169",
+  "unique_plaintexts": 755,
+  "trials_in_source_run": 188112,
+  "expected_pad1": 734.8125,
+  "expected_pad2": 2.870361328125,
+  "expected_any_valid_padding": 737.6941176470588,
+  "poisson_approx_probability_at_least_5_pad2": 0.16344415243143395,
+  "observed_metrics": {
+    "max_ascii_ratio": 0.5569620253164557,
+    "max_ascii_run": 12
+  },
+  "controls_count": 100,
+  "control_batches_at_least_observed": {
+    "max_ascii_ratio": 50,
+    "max_ascii_run": 80
+  },
+  "positive_controls": "mixed ASCII, odd-offset UTF16, embedded zlib, actual solved Phase3.2: passed",
+  "caution": "Random-like aggregate results do not prove any particular output is incorrect. Statistical baseline assumes wrong-key pseudorandom outputs; correlated trials can depart from it."
+}

@@ -1,0 +1,35 @@
+{
+  "creator_keyword_hits": 22,
+  "bit_cases": [
+    {
+      "mask_hex": "0x0",
+      "before": 110,
+      "after": 110,
+      "lsb": 0,
+      "display": "n"
+    },
+    {
+      "mask_hex": "0x1",
+      "before": 110,
+      "after": 111,
+      "lsb": 1,
+      "display": "o"
+    },
+    {
+      "mask_hex": "0x10",
+      "before": 110,
+      "after": 126,
+      "lsb": 0,
+      "display": "~"
+    },
+    {
+      "mask_hex": "0x11",
+      "before": 110,
+      "after": 127,
+      "lsb": 1,
+      "display": "DEL"
+    }
+  ],
+  "distinction": "Both masks 0x01 and 0x11 make the marker bit blue/1; only 0x11 also changes the off-white bit.",
+  "status": "No uniquely source-selected correction or signed-prime rule established."
+}

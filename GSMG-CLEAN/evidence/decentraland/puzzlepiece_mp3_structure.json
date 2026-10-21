@@ -1,0 +1,1748 @@
+{
+  "generatedAt": "2026-09-12T05:17:31.134Z",
+  "input": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\decentraland_scene\\sounds\\puzzlepiece.mp3",
+  "fileName": "puzzlepiece.mp3",
+  "bytes": 212031,
+  "sha256": "ef17a96dce37b4dd7cbf79f210c5cbaf37fcae60e5faf8004de4e0832bd0dfee",
+  "computedCidV0": "QmeRy5MjmEZ2W6J3DwhQfht5HKBKXBFpoGzSkzmjeGKiDK",
+  "expectedCid": "QmeRy5MjmEZ2W6J3DwhQfht5HKBKXBFpoGzSkzmjeGKiDK",
+  "cidMatches": true,
+  "id3": {
+    "versionMajor": 2,
+    "versionMinor": 0,
+    "flags": 0,
+    "payloadBytes": 4086,
+    "totalBytes": 4096
+  },
+  "parsedFrameCount": 199,
+  "ffprobeFrameCount": 199,
+  "skippedBytes": 0,
+  "trailingBytes": 0,
+  "parsedDurationSeconds": 5.198367346938783,
+  "nonAudioPrintableStrings": [
+    {
+      "offsetWithinNonAudioRegions": 9,
+      "text": "vTSS"
+    },
+    {
+      "offsetWithinNonAudioRegions": 17,
+      "text": "Logic Pro X 10.4.1COM"
+    },
+    {
+      "offsetWithinNonAudioRegions": 42,
+      "text": "engiTunNORM"
+    },
+    {
+      "offsetWithinNonAudioRegions": 54,
+      "text": " 00000749 0000074A 00000A8D 00000A7F 00000A1A 00000A1A 000022D0 000022F0 00000F68 00000E14"
+    },
+    {
+      "offsetWithinNonAudioRegions": 152,
+      "text": "engiTunSMPB"
+    },
+    {
+      "offsetWithinNonAudioRegions": 164,
+      "text": " 00000000 00000210 00000A94 00000000000372DC 00000000 00030B98 00000000 00000000 00000000 00000000 00000000 00000000"
+    }
+  ],
+  "headerVariants": [
+    "fffbe240",
+    "fffbe260",
+    "fffbe060"
+  ],
+  "headerVariantFrameIndices1": {
+    "fffbe240": [
+      1,
+      4,
+      15,
+      131,
+      198,
+      199
+    ],
+    "fffbe260": [
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      128,
+      129,
+      130,
+      132,
+      133,
+      134,
+      135,
+      136,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      196,
+      197
+    ],
+    "fffbe060": [
+      9,
+      19,
+      29,
+      39,
+      48,
+      58,
+      68,
+      78,
+      88,
+      97,
+      107,
+      117,
+      127,
+      137,
+      146,
+      156,
+      166,
+      176,
+      186,
+      195
+    ]
+  },
+  "frameLengthCounts": {
+    "1044": 20,
+    "1045": 179
+  },
+  "topSideEnergy": [
+    {
+      "index0": 130,
+      "index1": 131,
+      "startSample": 149760,
+      "startSeconds": 3.3959183673469386,
+      "sampleCount": 1152,
+      "leftRms": 0.14546751259152765,
+      "rightRms": 0.14541005806913962,
+      "midRms": 0.1442129297877072,
+      "sideRms": 0.018843353885769347,
+      "sidePeak": 0.07131173461675644
+    },
+    {
+      "index0": 14,
+      "index1": 15,
+      "startSample": 16128,
+      "startSeconds": 0.3657142857142857,
+      "sampleCount": 1152,
+      "leftRms": 0.1397016325039186,
+      "rightRms": 0.13909689820405272,
+      "midRms": 0.13820804351255325,
+      "sideRms": 0.01818744939667289,
+      "sidePeak": 0.08196689561009407
+    },
+    {
+      "index0": 3,
+      "index1": 4,
+      "startSample": 3456,
+      "startSeconds": 0.0783673469387755,
+      "sampleCount": 1152,
+      "leftRms": 0.14093171408896205,
+      "rightRms": 0.14177904021202878,
+      "midRms": 0.1405538674144677,
+      "sideRms": 0.015037702437036378,
+      "sidePeak": 0.07255004718899727
+    },
+    {
+      "index0": 131,
+      "index1": 132,
+      "startSample": 150912,
+      "startSeconds": 3.422040816326531,
+      "sampleCount": 1152,
+      "leftRms": 0.14226168936230052,
+      "rightRms": 0.14186472396632954,
+      "midRms": 0.14144357400042235,
+      "sideRms": 0.013255544391550005,
+      "sidePeak": 0.05041732266545296
+    },
+    {
+      "index0": 54,
+      "index1": 55,
+      "startSample": 62208,
+      "startSeconds": 1.4106122448979592,
+      "sampleCount": 1152,
+      "leftRms": 0.14175093717809464,
+      "rightRms": 0.14222725751099688,
+      "midRms": 0.1417794725125882,
+      "sideRms": 0.0077163241920011625,
+      "sidePeak": 0.01313038170337677
+    },
+    {
+      "index0": 35,
+      "index1": 36,
+      "startSample": 40320,
+      "startSeconds": 0.9142857142857143,
+      "sampleCount": 1152,
+      "leftRms": 0.14391905265068466,
+      "rightRms": 0.14386414064836786,
+      "midRms": 0.1436848298336668,
+      "sideRms": 0.007711161770594316,
+      "sidePeak": 0.012165643274784088
+    },
+    {
+      "index0": 73,
+      "index1": 74,
+      "startSample": 84096,
+      "startSeconds": 1.906938775510204,
+      "sampleCount": 1152,
+      "leftRms": 0.1416810898853565,
+      "rightRms": 0.1420920906101573,
+      "midRms": 0.14167728380998096,
+      "sideRms": 0.007706748650369649,
+      "sidePeak": 0.012758906930685043
+    },
+    {
+      "index0": 119,
+      "index1": 120,
+      "startSample": 137088,
+      "startSeconds": 3.1085714285714285,
+      "sampleCount": 1152,
+      "leftRms": 0.14376050436510404,
+      "rightRms": 0.14389749567841814,
+      "midRms": 0.14362248512481424,
+      "sideRms": 0.007705044158687103,
+      "sidePeak": 0.012772055342793465
+    },
+    {
+      "index0": 165,
+      "index1": 166,
+      "startSample": 190080,
+      "startSeconds": 4.310204081632653,
+      "sampleCount": 1152,
+      "leftRms": 0.14305896282212377,
+      "rightRms": 0.14271496729100971,
+      "midRms": 0.1426793768626859,
+      "sideRms": 0.007701284593079285,
+      "sidePeak": 0.01181524246931076
+    },
+    {
+      "index0": 8,
+      "index1": 9,
+      "startSample": 9216,
+      "startSeconds": 0.2089795918367347,
+      "sampleCount": 1152,
+      "leftRms": 0.14403956292915285,
+      "rightRms": 0.14288638495051442,
+      "midRms": 0.1432574857654193,
+      "sideRms": 0.007697409869218845,
+      "sidePeak": 0.012048617005348206
+    },
+    {
+      "index0": 100,
+      "index1": 101,
+      "startSample": 115200,
+      "startSeconds": 2.6122448979591835,
+      "sampleCount": 1152,
+      "leftRms": 0.1423332351621494,
+      "rightRms": 0.14216260032355169,
+      "midRms": 0.14203963436684172,
+      "sideRms": 0.007695430473520213,
+      "sidePeak": 0.012308670207858086
+    },
+    {
+      "index0": 184,
+      "index1": 185,
+      "startSample": 211968,
+      "startSeconds": 4.806530612244898,
+      "sampleCount": 1152,
+      "leftRms": 0.14422453216486844,
+      "rightRms": 0.1436560440213569,
+      "midRms": 0.1437347872660703,
+      "sideRms": 0.007694040589846063,
+      "sidePeak": 0.012027503922581673
+    },
+    {
+      "index0": 146,
+      "index1": 147,
+      "startSample": 168192,
+      "startSeconds": 3.813877551020408,
+      "sampleCount": 1152,
+      "leftRms": 0.1424604294052725,
+      "rightRms": 0.14215806606150577,
+      "midRms": 0.14210132229174624,
+      "sideRms": 0.007691492005998574,
+      "sidePeak": 0.013274561613798141
+    },
+    {
+      "index0": 92,
+      "index1": 93,
+      "startSample": 105984,
+      "startSeconds": 2.403265306122449,
+      "sampleCount": 1152,
+      "leftRms": 0.14257298546407665,
+      "rightRms": 0.14319752475663416,
+      "midRms": 0.14267845008231764,
+      "sideRms": 0.007691132711829091,
+      "sidePeak": 0.012690059840679169
+    },
+    {
+      "index0": 27,
+      "index1": 28,
+      "startSample": 31104,
+      "startSeconds": 0.7053061224489796,
+      "sampleCount": 1152,
+      "leftRms": 0.14549907690634786,
+      "rightRms": 0.14535747052905343,
+      "midRms": 0.14522489328462002,
+      "sideRms": 0.007688834766903721,
+      "sidePeak": 0.012181945145130157
+    },
+    {
+      "index0": 192,
+      "index1": 193,
+      "startSample": 221184,
+      "startSeconds": 5.015510204081632,
+      "sampleCount": 1152,
+      "leftRms": 0.1403737848854854,
+      "rightRms": 0.14022407895076763,
+      "midRms": 0.1400882735748746,
+      "sideRms": 0.007685799057023425,
+      "sidePeak": 0.013035811483860016
+    },
+    {
+      "index0": 138,
+      "index1": 139,
+      "startSample": 158976,
+      "startSeconds": 3.6048979591836736,
+      "sampleCount": 1152,
+      "leftRms": 0.1409862028020025,
+      "rightRms": 0.1408112630507436,
+      "midRms": 0.14068902176867856,
+      "sideRms": 0.0076850338326432425,
+      "sidePeak": 0.012484554201364517
+    },
+    {
+      "index0": 157,
+      "index1": 158,
+      "startSample": 180864,
+      "startSeconds": 4.101224489795919,
+      "sampleCount": 1152,
+      "leftRms": 0.14070884777141573,
+      "rightRms": 0.14119101060551217,
+      "midRms": 0.1407404919080309,
+      "sideRms": 0.007684698820918049,
+      "sidePeak": 0.01252862811088562
+    },
+    {
+      "index0": 81,
+      "index1": 82,
+      "startSample": 93312,
+      "startSeconds": 2.115918367346939,
+      "sampleCount": 1152,
+      "leftRms": 0.14393850094570282,
+      "rightRms": 0.14442895356482818,
+      "midRms": 0.1439793065952872,
+      "sideRms": 0.007678972164555372,
+      "sidePeak": 0.013032160699367523
+    },
+    {
+      "index0": 46,
+      "index1": 47,
+      "startSample": 52992,
+      "startSeconds": 1.2016326530612245,
+      "sampleCount": 1152,
+      "leftRms": 0.14280004956185485,
+      "rightRms": 0.143473896103604,
+      "midRms": 0.1429314760762696,
+      "sideRms": 0.007674611108506517,
+      "sidePeak": 0.012253575026988983
+    }
+  ],
+  "selectedFrameNeighborhoods": [
+    {
+      "index0": 3,
+      "index1": 4,
+      "startSample": 3456,
+      "startSeconds": 0.0783673469387755,
+      "sampleCount": 1152,
+      "leftRms": 0.14093171408896205,
+      "rightRms": 0.14177904021202878,
+      "midRms": 0.1405538674144677,
+      "sideRms": 0.015037702437036378,
+      "sidePeak": 0.07255004718899727
+    },
+    {
+      "index0": 4,
+      "index1": 5,
+      "startSample": 4608,
+      "startSeconds": 0.10448979591836735,
+      "sampleCount": 1152,
+      "leftRms": 0.1421674894137378,
+      "rightRms": 0.14136312748650973,
+      "midRms": 0.14160040770118987,
+      "sideRms": 0.006847551996377273,
+      "sidePeak": 0.021711178123950958
+    },
+    {
+      "index0": 5,
+      "index1": 6,
+      "startSample": 5760,
+      "startSeconds": 0.1306122448979592,
+      "sampleCount": 1152,
+      "leftRms": 0.14211485355322753,
+      "rightRms": 0.14230219784151357,
+      "midRms": 0.14202111483851634,
+      "sideRms": 0.007299074976688486,
+      "sidePeak": 0.012092381715774536
+    },
+    {
+      "index0": 13,
+      "index1": 14,
+      "startSample": 14976,
+      "startSeconds": 0.3395918367346939,
+      "sampleCount": 1152,
+      "leftRms": 0.14015065478725422,
+      "rightRms": 0.13951839245747066,
+      "midRms": 0.1396355647566161,
+      "sideRms": 0.007463443622577367,
+      "sidePeak": 0.01244928315281868
+    },
+    {
+      "index0": 14,
+      "index1": 15,
+      "startSample": 16128,
+      "startSeconds": 0.3657142857142857,
+      "sampleCount": 1152,
+      "leftRms": 0.1397016325039186,
+      "rightRms": 0.13909689820405272,
+      "midRms": 0.13820804351255325,
+      "sideRms": 0.01818744939667289,
+      "sidePeak": 0.08196689561009407
+    },
+    {
+      "index0": 15,
+      "index1": 16,
+      "startSample": 17280,
+      "startSeconds": 0.39183673469387753,
+      "sampleCount": 1152,
+      "leftRms": 0.1409560644785771,
+      "rightRms": 0.1402599259431572,
+      "midRms": 0.1404088294011178,
+      "sideRms": 0.007489332122575241,
+      "sidePeak": 0.019683925434947014
+    },
+    {
+      "index0": 16,
+      "index1": 17,
+      "startSample": 18432,
+      "startSeconds": 0.4179591836734694,
+      "sampleCount": 1152,
+      "leftRms": 0.14008017330937259,
+      "rightRms": 0.1400610205651665,
+      "midRms": 0.1398606053963492,
+      "sideRms": 0.007667025253426518,
+      "sidePeak": 0.01273740828037262
+    },
+    {
+      "index0": 130,
+      "index1": 131,
+      "startSample": 149760,
+      "startSeconds": 3.3959183673469386,
+      "sampleCount": 1152,
+      "leftRms": 0.14546751259152765,
+      "rightRms": 0.14541005806913962,
+      "midRms": 0.1442129297877072,
+      "sideRms": 0.018843353885769347,
+      "sidePeak": 0.07131173461675644
+    },
+    {
+      "index0": 131,
+      "index1": 132,
+      "startSample": 150912,
+      "startSeconds": 3.422040816326531,
+      "sampleCount": 1152,
+      "leftRms": 0.14226168936230052,
+      "rightRms": 0.14186472396632954,
+      "midRms": 0.14144357400042235,
+      "sideRms": 0.013255544391550005,
+      "sidePeak": 0.05041732266545296
+    },
+    {
+      "index0": 132,
+      "index1": 133,
+      "startSample": 152064,
+      "startSeconds": 3.4481632653061225,
+      "sampleCount": 1152,
+      "leftRms": 0.14569102183415564,
+      "rightRms": 0.14638945143478418,
+      "midRms": 0.14585365684292845,
+      "sideRms": 0.007388061503132079,
+      "sidePeak": 0.012729257345199585
+    },
+    {
+      "index0": 133,
+      "index1": 134,
+      "startSample": 153216,
+      "startSeconds": 3.474285714285714,
+      "sampleCount": 1152,
+      "leftRms": 0.13901320880725782,
+      "rightRms": 0.13847961571436795,
+      "midRms": 0.13853809398336905,
+      "sideRms": 0.007604907040846094,
+      "sidePeak": 0.012567922472953796
+    },
+    {
+      "index0": 134,
+      "index1": 135,
+      "startSample": 154368,
+      "startSeconds": 3.500408163265306,
+      "sampleCount": 1152,
+      "leftRms": 0.14329926249869437,
+      "rightRms": 0.14360721747394398,
+      "midRms": 0.14328268301266883,
+      "sideRms": 0.006994892445943059,
+      "sidePeak": 0.012615658342838287
+    },
+    {
+      "index0": 135,
+      "index1": 136,
+      "startSample": 155520,
+      "startSeconds": 3.526530612244898,
+      "sampleCount": 1152,
+      "leftRms": 0.1420528628306739,
+      "rightRms": 0.14253416634390104,
+      "midRms": 0.14209103064785988,
+      "sideRms": 0.007592181260977131,
+      "sidePeak": 0.012763019651174545
+    }
+  ],
+  "selectedCompressedFrames": [
+    {
+      "index0": 3,
+      "index1": 4,
+      "offset": 7231,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 0,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe240",
+      "sideInfo": {
+        "rawHex": "000006a4905ba608a0011e520b30c39c001dde39601c94800bb9472c03929001",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 1700,
+              "bigValues": 288,
+              "globalGain": 183,
+              "scalefacCompress": 4,
+              "windowSwitchingFlag": 1,
+              "blockType": 2,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                2,
+                5
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 2290,
+              "bigValues": 288,
+              "globalGain": 179,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 2,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                7,
+                7
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 1911,
+              "bigValues": 284,
+              "globalGain": 176,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 3,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                9,
+                9
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 1
+            },
+            {
+              "part23Length": 1906,
+              "bigValues": 284,
+              "globalGain": 176,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 3,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                9,
+                9
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 1
+            }
+          ]
+        ]
+      },
+      "sha256": "e43d738831b77eae7e650fe33f84fb84898df768c626fbedd85368eb5f2332df"
+    },
+    {
+      "index0": 4,
+      "index1": 5,
+      "offset": 8276,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 2,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe260",
+      "sideInfo": {
+        "rawHex": "00000a2f905681ef7b708a0698e0732f5c291e415a07bdedc24e1a6341dcbd70",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 2607,
+              "bigValues": 288,
+              "globalGain": 173,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1104,
+              "bigValues": 105,
+              "globalGain": 142,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                28,
+                25,
+                15
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 2631,
+              "bigValues": 288,
+              "globalGain": 173,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1180,
+              "bigValues": 105,
+              "globalGain": 141,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                29,
+                25,
+                15
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ]
+        ]
+      },
+      "sha256": "06033c9a50cc16a094bba212ef3390933a1bb9d6e952ea05a0dec12f2990167f"
+    },
+    {
+      "index0": 5,
+      "index1": 6,
+      "offset": 9321,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 2,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe260",
+      "sideInfo": {
+        "rawHex": "00000a9e905601ef7b708a8698b077585c2b36415807bdedc2219a6241dde170",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 2718,
+              "bigValues": 288,
+              "globalGain": 172,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1108,
+              "bigValues": 105,
+              "globalGain": 139,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                29,
+                26,
+                24
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 2765,
+              "bigValues": 288,
+              "globalGain": 172,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1091,
+              "bigValues": 105,
+              "globalGain": 137,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                29,
+                27,
+                24
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ]
+        ]
+      },
+      "sha256": "c6d780f1e66ed424dfaf13989f0443ecd178eff928e419c7964ecec81d59bfa0"
+    },
+    {
+      "index0": 14,
+      "index1": 15,
+      "offset": 18725,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 0,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe240",
+      "sideInfo": {
+        "rawHex": "0000056c905ca608a00125920b30c3a8001d5a41601c960003a9c82c0392c000",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 1388,
+              "bigValues": 288,
+              "globalGain": 185,
+              "scalefacCompress": 4,
+              "windowSwitchingFlag": 1,
+              "blockType": 2,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                2,
+                5
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 2348,
+              "bigValues": 288,
+              "globalGain": 179,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 2,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                7,
+                10
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 1878,
+              "bigValues": 288,
+              "globalGain": 176,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 3,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                9,
+                12
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1875,
+              "bigValues": 288,
+              "globalGain": 176,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 3,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                9,
+                12
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ]
+        ]
+      },
+      "sha256": "86bc8155f957057966acaca74e51e20f16521acc58c337d44c4ee8f3e72db1e0"
+    },
+    {
+      "index0": 15,
+      "index1": 16,
+      "offset": 19770,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 2,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe260",
+      "sideInfo": {
+        "rawHex": "00000a2e905681ef7b70890698f0732f5c2916415a063dedc2449a6381dce170",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 2606,
+              "bigValues": 288,
+              "globalGain": 173,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1096,
+              "bigValues": 105,
+              "globalGain": 143,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                28,
+                25,
+                15
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 2629,
+              "bigValues": 288,
+              "globalGain": 173,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                12,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1161,
+              "bigValues": 105,
+              "globalGain": 142,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                29,
+                25,
+                24
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ]
+        ]
+      },
+      "sha256": "9fc9d6bd723cfd741693ac661873dc49abea92cff3d7134546a54a47b706701a"
+    },
+    {
+      "index0": 16,
+      "index1": 17,
+      "offset": 20815,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 2,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe260",
+      "sideInfo": {
+        "rawHex": "00000a1b905681ef7b708a4698f0730f5c28e6415a07bdedc2441a6381cce170",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 2587,
+              "bigValues": 288,
+              "globalGain": 173,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1106,
+              "bigValues": 105,
+              "globalGain": 143,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                28,
+                24,
+                15
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 2617,
+              "bigValues": 288,
+              "globalGain": 173,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1160,
+              "bigValues": 105,
+              "globalGain": 142,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                28,
+                25,
+                24
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ]
+        ]
+      },
+      "sha256": "f2aaebddd5cef7b24d0b76859eb242f3749ed64c4df85f4c8466cfe135acb74d"
+    },
+    {
+      "index0": 130,
+      "index1": 131,
+      "offset": 139933,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 0,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe240",
+      "sideInfo": {
+        "rawHex": "0000058c905ca608a0012a920b30c3a8001c0e41621c948003c9482c0392c000",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 1420,
+              "bigValues": 288,
+              "globalGain": 185,
+              "scalefacCompress": 4,
+              "windowSwitchingFlag": 1,
+              "blockType": 2,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                2,
+                5
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 2388,
+              "bigValues": 288,
+              "globalGain": 179,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 2,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                7,
+                10
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 1795,
+              "bigValues": 288,
+              "globalGain": 177,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 3,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                9,
+                9
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1938,
+              "bigValues": 288,
+              "globalGain": 176,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 1,
+              "blockType": 3,
+              "mixedBlockFlag": 0,
+              "tableSelect": [
+                9,
+                12
+              ],
+              "subblockGain": [
+                0,
+                0,
+                0
+              ],
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ]
+        ]
+      },
+      "sha256": "1f1e859cf32a51d3692171960083bef4954c51439446cad273647b415dabf336"
+    },
+    {
+      "index0": 131,
+      "index1": 132,
+      "offset": 140978,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 2,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe260",
+      "sideInfo": {
+        "rawHex": "00000a93905601ef7b708c4698d0772f5c2796415c07bdedc26d9a6341dd6170",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 2707,
+              "bigValues": 288,
+              "globalGain": 172,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1122,
+              "bigValues": 105,
+              "globalGain": 141,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                29,
+                25,
+                15
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 2533,
+              "bigValues": 288,
+              "globalGain": 174,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1243,
+              "bigValues": 105,
+              "globalGain": 141,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                29,
+                26,
+                24
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ]
+        ]
+      },
+      "sha256": "7bef7c4d67109cfbd4d2f076a2eff173ef3d8546f5f9c67107daa833603e5bb9"
+    },
+    {
+      "index0": 132,
+      "index1": 133,
+      "offset": 142023,
+      "version": "MPEG 1",
+      "layer": "Layer III",
+      "hasCrc": false,
+      "bitrateKbps": 320,
+      "sampleRate": 44100,
+      "padding": 1,
+      "privateBit": 0,
+      "channelMode": "joint stereo",
+      "modeExtension": 2,
+      "copyright": false,
+      "original": false,
+      "emphasis": 0,
+      "frameBytes": 1045,
+      "headerHex": "fffbe260",
+      "sideInfo": {
+        "rawHex": "00000a49905681ef7b7091e698e073385c28a2415a07bdedc24a1a6381cce170",
+        "mainDataBegin": 0,
+        "privateBits": 0,
+        "scfsi": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "granules": [
+          [
+            {
+              "part23Length": 2633,
+              "bigValues": 288,
+              "globalGain": 173,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1167,
+              "bigValues": 105,
+              "globalGain": 142,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                28,
+                25,
+                24
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ],
+          [
+            {
+              "part23Length": 2600,
+              "bigValues": 288,
+              "globalGain": 173,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                15,
+                15,
+                15
+              ],
+              "region0Count": 6,
+              "region1Count": 7,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            },
+            {
+              "part23Length": 1172,
+              "bigValues": 105,
+              "globalGain": 142,
+              "scalefacCompress": 0,
+              "windowSwitchingFlag": 0,
+              "tableSelect": [
+                28,
+                25,
+                24
+              ],
+              "region0Count": 5,
+              "region1Count": 6,
+              "preflag": 0,
+              "scalefacScale": 0,
+              "count1tableSelect": 0
+            }
+          ]
+        ]
+      },
+      "sha256": "440ad6f6582285d7107e2b176b4756689969a5fe4733b0f3bdb06931f44cfd21"
+    }
+  ],
+  "extractedFrameArtifacts": {
+    "selectedFrameNumbers1": [
+      4,
+      15,
+      131
+    ],
+    "selectedOnly": {
+      "fileName": "puzzlepiece_frames_4_15_131.mp3",
+      "bytes": 7231,
+      "sha256": "fe994f409eaca243abbd04baf17235f5216ae8138146c541b809ec66fcdced64"
+    },
+    "complement": {
+      "fileName": "puzzlepiece_without_frames_4_15_131.mp3",
+      "bytes": 208896,
+      "sha256": "96f750e48e581cd107b4d2e385ea49b64f6733b00ce95219afd1fbaae52a3f8e"
+    }
+  }
+}

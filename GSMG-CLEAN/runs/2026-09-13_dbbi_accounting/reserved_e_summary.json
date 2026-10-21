@@ -1,0 +1,59 @@
+{
+  "corrected_key": "fexmgsgle",
+  "complete_models": 32,
+  "integer_views": 96,
+  "singular_matrices": [
+    {
+      "modulus": 9,
+      "key": "corrected_letters_A0",
+      "transposed": false,
+      "determinant": 3
+    },
+    {
+      "modulus": 9,
+      "key": "corrected_letters_A0",
+      "transposed": true,
+      "determinant": 3
+    },
+    {
+      "modulus": 10,
+      "key": "corrected_letters_A0",
+      "transposed": false,
+      "determinant": 8
+    },
+    {
+      "modulus": 10,
+      "key": "corrected_letters_A0",
+      "transposed": true,
+      "determinant": 8
+    },
+    {
+      "modulus": 10,
+      "key": "corrected_letters_A1",
+      "transposed": false,
+      "determinant": 0
+    },
+    {
+      "modulus": 10,
+      "key": "corrected_letters_A1",
+      "transposed": true,
+      "determinant": 0
+    },
+    {
+      "modulus": 10,
+      "key": "corrected_raw_sums",
+      "transposed": false,
+      "determinant": 0
+    },
+    {
+      "modulus": 10,
+      "key": "corrected_raw_sums",
+      "transposed": true,
+      "determinant": 0
+    }
+  ],
+  "format_reviews": [],
+  "highest_ascii_fraction": 0.4472573839662447,
+  "controls_passed": true,
+  "status": "No authenticated result; all intermediate outputs retained"
+}

@@ -1,0 +1,145 @@
+{
+  "accounting_tables_pass": 8,
+  "matrix_sum_checks_pass": 1944,
+  "serialization_checks_pass": true,
+  "output_counts": {
+    "sum_decimal": 1944,
+    "word_selection": 8852,
+    "sum_total": 72,
+    "decimal_integer_bytes": 1300,
+    "integer_array_bytes": 16002
+  },
+  "source_target_matches": [],
+  "length_eligible_source_comparisons": {
+    "thispassword": 734,
+    "matrixsumlist": 224,
+    "followthewhiterabbit": 732,
+    "lastwordsbeforearchichoice": 143,
+    "DBBI_91.txt": 13,
+    "FAED_570.txt": 4
+  },
+  "shared_edit_intervals": 22,
+  "kedri_extra_edits": [
+    {
+      "row": 1,
+      "operation": "replace",
+      "source": {
+        "word_range": [
+          13,
+          14
+        ],
+        "char_range": [
+          71,
+          73
+        ],
+        "letter_range": [
+          58,
+          60
+        ],
+        "raw": "in",
+        "words": [
+          "IN"
+        ]
+      },
+      "replacement": {
+        "word_range": [
+          13,
+          14
+        ],
+        "char_range": [
+          71,
+          73
+        ],
+        "letter_range": [
+          58,
+          60
+        ],
+        "raw": "TO",
+        "words": [
+          "TO"
+        ]
+      },
+      "source_features": [
+        1,
+        2,
+        23
+      ],
+      "replacement_features": [
+        1,
+        2,
+        35
+      ],
+      "difference": [
+        0,
+        0,
+        12
+      ],
+      "feature_names": [
+        "word_count",
+        "letter_count",
+        "A1Z26_sum"
+      ]
+    },
+    {
+      "row": 6,
+      "operation": "replace",
+      "source": {
+        "word_range": [
+          82,
+          83
+        ],
+        "char_range": [
+          491,
+          495
+        ],
+        "letter_range": [
+          401,
+          405
+        ],
+        "raw": "then",
+        "words": [
+          "THEN"
+        ]
+      },
+      "replacement": {
+        "word_range": [
+          86,
+          87
+        ],
+        "char_range": [
+          499,
+          503
+        ],
+        "letter_range": [
+          408,
+          412
+        ],
+        "raw": "THAN",
+        "words": [
+          "THAN"
+        ]
+      },
+      "source_features": [
+        1,
+        4,
+        47
+      ],
+      "replacement_features": [
+        1,
+        4,
+        43
+      ],
+      "difference": [
+        0,
+        0,
+        -4
+      ],
+      "feature_names": [
+        "word_count",
+        "letter_count",
+        "A1Z26_sum"
+      ]
+    }
+  ],
+  "limitation": "Exact complete reconstructions only; not a statistical English or intended-matrix test."
+}

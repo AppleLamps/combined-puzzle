@@ -1,0 +1,33 @@
+{
+ "source_records": 38615,
+ "unique_recursive_nodes": 20436,
+ "shape_occurrences": {
+  "decimal": 8372,
+  "raw32-be": 259193,
+  "raw32-le": 259193,
+  "base64-32": 35,
+  "half-0-32": 99,
+  "half-32-64": 99,
+  "hex64": 1,
+  "wif-token": 42
+ },
+ "unique_valid_scalars": 463290,
+ "valid_wifs": [],
+ "exact_target_hits": [],
+ "backend": "coincurve",
+ "controls": {
+  "wif_uncompressed": true,
+  "wif_compressed": true,
+  "hex64": true,
+  "base64_32": true,
+  "half_first": true,
+  "half_second": true,
+  "target_gate": true
+ },
+ "explicit_half_scanning": "Every 64-byte node scanned at offsets 0 and 32; all nodes also use sliding raw32 windows.",
+ "limits": [
+  "UTF-8 source outputs with recursive hex/binary/base64/base64url/decimal decode depth 2",
+  "No arbitrary concatenation across unrelated output records",
+  "No AES or envelope bytes"
+ ]
+}

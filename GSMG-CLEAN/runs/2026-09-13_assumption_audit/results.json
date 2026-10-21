@@ -1,0 +1,16 @@
+{
+  "synthetic_correct_decryption": true,
+  "synthetic_plaintext": "Follow the white rabbit. Read the next instruction before trying another key.  ",
+  "synthetic_notable": false,
+  "synthetic_quiet_output": "",
+  "trials": 188112,
+  "padding_histogram": {
+    "0": 187357,
+    "1": 750,
+    "2": 5
+  },
+  "recovered": 755,
+  "max_ascii_ratio": 0.5569620253164557,
+  "ascii_over_90_percent": 0,
+  "caveat": "ASCII is descriptive only; every padding-valid plaintext is retained. This does not exclude encoded or binary intermediate answers."
+}

@@ -1,0 +1,43 @@
+{
+  "hypothesis": "Reserve final e from the matrix sum, then append it to the remaining eight rendered letters or raw sums",
+  "justification": "Correct the actual double-counting premise in historical hill_faed_exact.cjs; reserving the cell is still an unproven operation",
+  "corrected_key": "fexmgsgle",
+  "key_vectors": {
+    "corrected_letters_A0": [
+      5,
+      4,
+      23,
+      12,
+      6,
+      18,
+      6,
+      11,
+      4
+    ],
+    "corrected_letters_A1": [
+      6,
+      5,
+      24,
+      13,
+      7,
+      19,
+      7,
+      12,
+      5
+    ],
+    "corrected_raw_sums": [
+      -73,
+      30,
+      49,
+      38,
+      32,
+      44,
+      -124,
+      37,
+      5
+    ]
+  },
+  "scope": "3x3 invertible Hill matrices; mod9 and mod10; transpose; encrypt/decrypt; a=0/a=1 input; adjacent/three-rail blocks; complete decimal/base9 integer outputs",
+  "criterion": "Full reversible transform; retain every output; no substring success, passwords, or AES",
+  "limitation": "A negative result covers these corrected constructions only; an output format alone is not authentication"
+}

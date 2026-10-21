@@ -1,0 +1,15 @@
+{
+  "hint": "PUZ #8000: some characters need to be zeroed out",
+  "masks": "One symbol class; raw prime positions; first-24 primes split by poster colour; logical DBBI prime markers by colour; poster pixel classes",
+  "treatments": "numeric zero per cell; zero per source digit; delete selected cells; retain selected cells; poster decoded characters NUL/ASCII-zero/deletion",
+  "decodes": "Whole decimal integer to big-endian bytes; complete decimal printable-ASCII segmentation; existing poster bit convention",
+  "success": "Complete readable output is review-only; exact full-field reconstruction or independent source relation needed for confirmation",
+  "exclusions": "No arbitrary subsets, shifted masks, repeating colour masks, moduli, signs, passwords or AES",
+  "hashes": {
+    "data/DBBI_91.txt": "ec374000d5f070de550469ae0f24b414dbb2673f9f41aa498ae00d8f97355565",
+    "data/FAED_570.txt": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35",
+    "data/poster_spiral_bits.txt": "c541fb7eba685cc2fc4bb06a4eadddf6090d8e5f5f2e3e9598130cb024b50e1a",
+    "data/architect_letters_1539.txt": "a365cc7907f509d3933f09b959c21bcd2771743e5c2c31808f49b674fa5b011a",
+    "originals/poster/puzzle.png": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830"
+  }
+}

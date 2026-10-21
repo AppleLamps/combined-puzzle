@@ -1,0 +1,5 @@
+arm A done 20 s
+arm B done 25 s
+arm C done 27 s
+arm D done 306 s
+{"key_matches": 0, "inspect": 3, "pad_hits": 1027, "elapsed_s": 305.6}

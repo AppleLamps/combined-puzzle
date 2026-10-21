@@ -1,0 +1,47 @@
+{
+  "created": "2026-09-13 15:06:28",
+  "status": "PRE-REGISTERED, NOT YET RUN",
+  "script_sha256": "788c6f7dbc50371e466d3a5d150a58c051d294144eb42c6e4a9a57b34cde9cfc",
+  "candidate_files_sha256": {
+    "arm_A_candidates.json": "bb7b19d1c5a6afcf3df1f7ba038776c37dc599b5ed9b1548512baa89429fa992",
+    "arm_B_passwords.hex": "bb4b064d358cef74b19c7c7a83d34aacb6baaf270ef4cd4cdf28e01f0d38b1ad",
+    "arm_C_candidates.json": "92f90e70e69cd17f78ec4e6ca0b4420e4bb81a96a30cb45df2db8220e8b8689a",
+    "arm_D_passwords.hex": "2cf3cbeb2fff6962bfbe56fc1d4ae8a25f1c20c8af04867739328bf02e5eacb8"
+  },
+  "envelopes_sha256": {
+    "terminal_phase3_2_end": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9",
+    "salphaseion_short": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+    "cosmic_duality": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+  },
+  "counts": {
+    "zero_schedules": 150,
+    "arm_A_unique_texts": 8163,
+    "arm_A_observed_texts": 214,
+    "arm_A_observed_only_texts": 18,
+    "arm_B_passwords": 5076,
+    "arm_C_texts": 944,
+    "arm_D_passwords": 1514
+  },
+  "derivations_text": [
+    "sha256hex/EVP-SHA256 (proven)",
+    "sha256hex/EVP-MD5",
+    "raw/EVP-SHA256",
+    "raw/EVP-MD5",
+    "sha256raw/EVP-SHA256",
+    "sha256raw/EVP-MD5"
+  ],
+  "derivations_arm_B": [
+    "bytes/EVP-SHA256",
+    "bytes/EVP-MD5"
+  ],
+  "arm_D": "46 OpenSSL cipher configs x EVP md5/sha256 on the full 96-byte Terminal envelope",
+  "expected_by_chance": "CBC pad-valid ~1/256 per decrypt (mostly pad=1); pad>=3 ~1/16.7M; key match ~0",
+  "acceptance": [
+    "KEY MATCH (Half or Better Half) in any window -> result; stop and report",
+    "pad>=3 on an 80-byte envelope or pad>=2 anywhere -> inspect by hand",
+    "printable>=0.95 and letters>=0.65 on a CBC pad-valid output, or fresh-start coherent()/nested() on arm D -> inspect",
+    "Arm A: compare observed vs control pad-hit rate per derivation (binomial); an observed-only readable/key hit is the only thing that would count as signal",
+    "Arm B SalPhaseIon repeat must reproduce 45 pad hits (loader control)"
+  ],
+  "elapsed_s": 1.2
+}

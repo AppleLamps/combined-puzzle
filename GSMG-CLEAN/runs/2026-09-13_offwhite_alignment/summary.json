@@ -1,0 +1,219 @@
+{
+  "status": "Exact serial-marker alignment found; intended rule and next operation not established",
+  "image_sha256": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+  "dbbi_sha256": "71fe46259e270c113529dfaded4b59c59a9dffd826a7202ab07fc498b6a2c5ca",
+  "grid_census": {
+    "W": 85,
+    "K": 86,
+    "B": 15,
+    "Y": 9,
+    "F": 1
+  },
+  "url": "gsmg.io/theseedisplanted",
+  "full_special_stream": "BBBBYBBBYYBBBBYBBYYBFYYBY",
+  "original_color_stream": "BBBBYBBBYYBBBBYBBYYBYYBY",
+  "offwhite": {
+    "index": 163,
+    "row": 7,
+    "column": 4,
+    "box": [
+      300,
+      525,
+      375,
+      600
+    ],
+    "rgb": [
+      254,
+      254,
+      254
+    ],
+    "color": "F",
+    "modal_pixels": 5625,
+    "total_pixels": 5625,
+    "center_rgb": [
+      254,
+      254,
+      254
+    ]
+  },
+  "comparisons": [
+    {
+      "rule": "ignore_offwhite",
+      "logical_cells": 84,
+      "schedule": "BBBBYBBBYYBBBBYBBYYBYYBY",
+      "compared": 23,
+      "matched": 22,
+      "mismatch_ordinals": [
+        21
+      ],
+      "unmatched_poster_suffix": "Y"
+    },
+    {
+      "rule": "ignore_offwhite",
+      "logical_cells": 83,
+      "schedule": "BBBBYBBBYYBBBBYBBYYBYYBY",
+      "compared": 23,
+      "matched": 21,
+      "mismatch_ordinals": [
+        21,
+        23
+      ],
+      "unmatched_poster_suffix": "Y"
+    },
+    {
+      "rule": "serial_offwhite_B",
+      "logical_cells": 84,
+      "schedule": "BBBBYBBBYYBBBBYBBYYBBYYBY",
+      "compared": 23,
+      "matched": 22,
+      "mismatch_ordinals": [
+        23
+      ],
+      "unmatched_poster_suffix": "BY"
+    },
+    {
+      "rule": "serial_offwhite_B",
+      "logical_cells": 83,
+      "schedule": "BBBBYBBBYYBBBBYBBYYBBYYBY",
+      "compared": 23,
+      "matched": 23,
+      "mismatch_ordinals": [],
+      "unmatched_poster_suffix": "BY"
+    },
+    {
+      "rule": "serial_offwhite_Y",
+      "logical_cells": 84,
+      "schedule": "BBBBYBBBYYBBBBYBBYYBYYYBY",
+      "compared": 23,
+      "matched": 21,
+      "mismatch_ordinals": [
+        21,
+        23
+      ],
+      "unmatched_poster_suffix": "BY"
+    },
+    {
+      "rule": "serial_offwhite_Y",
+      "logical_cells": 83,
+      "schedule": "BBBBYBBBYYBBBBYBBYYBYYYBY",
+      "compared": 23,
+      "matched": 22,
+      "mismatch_ordinals": [
+        21
+      ],
+      "unmatched_poster_suffix": "BY"
+    },
+    {
+      "rule": "per_byte_xor_offwhite_flag",
+      "logical_cells": 84,
+      "schedule": "BBBBYBBBYYBBBBYBBYYBBYBY",
+      "compared": 23,
+      "matched": 23,
+      "mismatch_ordinals": [],
+      "unmatched_poster_suffix": "Y"
+    },
+    {
+      "rule": "per_byte_xor_offwhite_flag",
+      "logical_cells": 83,
+      "schedule": "BBBBYBBBYYBBBBYBBYYBBYBY",
+      "compared": 23,
+      "matched": 22,
+      "mismatch_ordinals": [
+        23
+      ],
+      "unmatched_poster_suffix": "Y"
+    }
+  ],
+  "serial_rule": "In the proven spiral order, keep every cell whose modal RGB is neither pure black nor pure white; encode yellow as be and the other marked cells as b.",
+  "inference": "F -> b is hypothesized, not a statement that FEFEFE is visually blue.",
+  "consistent_rgb_rule": "After excluding pure black/white cells, positive blue channel maps to b; zero blue channel maps to be. This yields the same schedule, but intent is unproven.",
+  "chosen_parse": {
+    "logical_cells": 83,
+    "source_characters": 91,
+    "prime_cells": 23,
+    "b": 15,
+    "be": 8,
+    "payload_characters": 60,
+    "payload": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea",
+    "payload_digits": "496833798155987757527588588616486634263337657753439666797551",
+    "final_token": {
+      "slot": 83,
+      "offset": 89,
+      "token": "be",
+      "prime": true
+    },
+    "roundtrip": true
+  },
+  "remaining_markers": [
+    {
+      "index": 183,
+      "row": 8,
+      "column": 5,
+      "box": [
+        375,
+        600,
+        450,
+        675
+      ],
+      "rgb": [
+        63,
+        72,
+        204
+      ],
+      "color": "B",
+      "modal_pixels": 5625,
+      "total_pixels": 5625,
+      "center_rgb": [
+        63,
+        72,
+        204
+      ],
+      "ordinal": 24
+    },
+    {
+      "index": 191,
+      "row": 5,
+      "column": 6,
+      "box": [
+        450,
+        375,
+        525,
+        450
+      ],
+      "rgb": [
+        255,
+        242,
+        0
+      ],
+      "color": "Y",
+      "modal_pixels": 5625,
+      "total_pixels": 5625,
+      "center_rgb": [
+        255,
+        242,
+        0
+      ],
+      "ordinal": 25
+    }
+  ],
+  "next_primes": [
+    89,
+    97
+  ],
+  "alternative_complete_rule": "The earlier per-byte XOR of the off-white flag also matches, but selects 84 cells. The alignment alone cannot distinguish the two.",
+  "hypothetical_insertion_matches": [
+    {
+      "before_regular_marker": 20,
+      "value": "B",
+      "logical_cells": 83
+    },
+    {
+      "before_regular_marker": 21,
+      "value": "B",
+      "logical_cells": 83
+    }
+  ],
+  "sum_bridge_models": 40,
+  "sum_bridge_matches": [],
+  "controls_passed": true
+}

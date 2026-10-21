@@ -1,0 +1,134 @@
+{
+  "alignments": [
+    {
+      "alignment": "scott/literal/sequence",
+      "source_tokens": 511,
+      "puzzle_tokens": 332,
+      "edit_rows": 19,
+      "removed_words": 343,
+      "replacement_words": 164,
+      "removed_letters": 1674,
+      "replacement_letters": 731,
+      "roundtrip": true
+    },
+    {
+      "alignment": "scott/literal/lcs",
+      "source_tokens": 511,
+      "puzzle_tokens": 332,
+      "edit_rows": 19,
+      "removed_words": 343,
+      "replacement_words": 164,
+      "removed_letters": 1675,
+      "replacement_letters": 732,
+      "roundtrip": true
+    },
+    {
+      "alignment": "scott/spelled/sequence",
+      "source_tokens": 513,
+      "puzzle_tokens": 332,
+      "edit_rows": 22,
+      "removed_words": 341,
+      "replacement_words": 160,
+      "removed_letters": 1685,
+      "replacement_letters": 709,
+      "roundtrip": true
+    },
+    {
+      "alignment": "scott/spelled/lcs",
+      "source_tokens": 513,
+      "puzzle_tokens": 332,
+      "edit_rows": 22,
+      "removed_words": 341,
+      "replacement_words": 160,
+      "removed_letters": 1685,
+      "replacement_letters": 709,
+      "roundtrip": true
+    },
+    {
+      "alignment": "kedri/literal/sequence",
+      "source_tokens": 520,
+      "puzzle_tokens": 332,
+      "edit_rows": 21,
+      "removed_words": 354,
+      "replacement_words": 166,
+      "removed_letters": 1729,
+      "replacement_letters": 737,
+      "roundtrip": true
+    },
+    {
+      "alignment": "kedri/literal/lcs",
+      "source_tokens": 520,
+      "puzzle_tokens": 332,
+      "edit_rows": 21,
+      "removed_words": 354,
+      "replacement_words": 166,
+      "removed_letters": 1730,
+      "replacement_letters": 738,
+      "roundtrip": true
+    },
+    {
+      "alignment": "kedri/spelled/sequence",
+      "source_tokens": 522,
+      "puzzle_tokens": 332,
+      "edit_rows": 24,
+      "removed_words": 352,
+      "replacement_words": 162,
+      "removed_letters": 1740,
+      "replacement_letters": 715,
+      "roundtrip": true
+    },
+    {
+      "alignment": "kedri/spelled/lcs",
+      "source_tokens": 522,
+      "puzzle_tokens": 332,
+      "edit_rows": 24,
+      "removed_words": 352,
+      "replacement_words": 162,
+      "removed_letters": 1740,
+      "replacement_letters": 715,
+      "roundtrip": true
+    }
+  ],
+  "matrices": 264,
+  "table_dimensions": [
+    [
+      2,
+      19
+    ],
+    [
+      2,
+      21
+    ],
+    [
+      2,
+      22
+    ],
+    [
+      2,
+      24
+    ],
+    [
+      19,
+      2
+    ],
+    [
+      21,
+      2
+    ],
+    [
+      22,
+      2
+    ],
+    [
+      24,
+      2
+    ]
+  ],
+  "prime_schedule_eligible": 156,
+  "sum_lists": 1944,
+  "output_records": 28170,
+  "unique_outputs": 10382,
+  "valid_extractions": 8852,
+  "natural_matrix_established": false,
+  "conclusion": "Exact-factor and paired-table candidates tested; none is established as intended by dimensions alone."
+}

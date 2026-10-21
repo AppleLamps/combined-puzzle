@@ -1,0 +1,377 @@
+{
+  "status": "Accounting corrections verified; no recovered complete instruction",
+  "hashes": {
+    "DBBI_91.txt": "ec374000d5f070de550469ae0f24b414dbb2673f9f41aa498ae00d8f97355565",
+    "FAED_570.txt": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35"
+  },
+  "source_consumption": {
+    "raw_characters": 91,
+    "logical_cells": 84,
+    "unconsumed_characters": 0,
+    "final_e_cell": {
+      "slot": 84,
+      "source_span": [
+        90,
+        91
+      ],
+      "token": "e",
+      "prime": false,
+      "row": 7,
+      "column": 12,
+      "value": 5
+    }
+  },
+  "original_sums": [
+    -45,
+    34,
+    37,
+    37,
+    -73,
+    30,
+    49,
+    38,
+    32,
+    44,
+    -124,
+    42
+  ],
+  "instruction": "hillfexmgsgq",
+  "final_column": [
+    {
+      "slot": 12,
+      "source_span": [
+        12,
+        13
+      ],
+      "token": "g",
+      "prime": false,
+      "row": 1,
+      "column": 12,
+      "value": 7
+    },
+    {
+      "slot": 24,
+      "source_span": [
+        25,
+        26
+      ],
+      "token": "g",
+      "prime": false,
+      "row": 2,
+      "column": 12,
+      "value": 7
+    },
+    {
+      "slot": 36,
+      "source_span": [
+        38,
+        39
+      ],
+      "token": "e",
+      "prime": false,
+      "row": 3,
+      "column": 12,
+      "value": 5
+    },
+    {
+      "slot": 48,
+      "source_span": [
+        51,
+        52
+      ],
+      "token": "f",
+      "prime": false,
+      "row": 4,
+      "column": 12,
+      "value": 6
+    },
+    {
+      "slot": 60,
+      "source_span": [
+        63,
+        64
+      ],
+      "token": "f",
+      "prime": false,
+      "row": 5,
+      "column": 12,
+      "value": 6
+    },
+    {
+      "slot": 72,
+      "source_span": [
+        77,
+        78
+      ],
+      "token": "f",
+      "prime": false,
+      "row": 6,
+      "column": 12,
+      "value": 6
+    },
+    {
+      "slot": 84,
+      "source_span": [
+        90,
+        91
+      ],
+      "token": "e",
+      "prime": false,
+      "row": 7,
+      "column": 12,
+      "value": 5
+    }
+  ],
+  "remove_final_e": {
+    "sums": [
+      -45,
+      34,
+      37,
+      37,
+      -73,
+      30,
+      49,
+      38,
+      32,
+      44,
+      -124,
+      37
+    ],
+    "instruction": "hillfexmgsgl"
+  },
+  "alternate83": {
+    "sums": [
+      -45,
+      34,
+      37,
+      37,
+      -73,
+      30,
+      49,
+      38,
+      32,
+      44,
+      42,
+      37
+    ],
+    "instruction": "hillfexmgsql"
+  },
+  "poster_colors": {
+    "sums": [
+      101,
+      34,
+      37,
+      37,
+      -73,
+      30,
+      49,
+      38,
+      32,
+      44,
+      -124,
+      42
+    ],
+    "instruction": "xillfexmgsgq",
+    "changed_prime": 73,
+    "interpretation": "Comparison under existing signed model, not a proposed correction"
+  },
+  "full_dbbi_square": "dbifhcegaklmnopqrstuvwxyz",
+  "prefix13_square_identical": true,
+  "bifid_prefix": "btcseeddeoemckeadhbschdkbdcsdkdvbxcpcoch",
+  "conventions": [
+    {
+      "alphabet": "natural25",
+      "base": 0,
+      "plain": "fexm",
+      "cipher": "gsgq",
+      "keys": [
+        [
+          1,
+          19,
+          6,
+          3
+        ]
+      ]
+    },
+    {
+      "alphabet": "natural25",
+      "base": 0,
+      "plain": "gsgq",
+      "cipher": "fexm",
+      "keys": [
+        [
+          2,
+          4,
+          21,
+          9
+        ]
+      ]
+    },
+    {
+      "alphabet": "natural25",
+      "base": 1,
+      "plain": "fexm",
+      "cipher": "gsgq",
+      "keys": [
+        [
+          7,
+          8,
+          23,
+          1
+        ]
+      ]
+    },
+    {
+      "alphabet": "natural25",
+      "base": 1,
+      "plain": "gsgq",
+      "cipher": "fexm",
+      "keys": [
+        [
+          12,
+          4,
+          24,
+          9
+        ]
+      ]
+    },
+    {
+      "alphabet": "dbbi25",
+      "base": 0,
+      "plain": "fexm",
+      "cipher": "gsgq",
+      "keys": [
+        [
+          10,
+          17,
+          22,
+          21
+        ]
+      ]
+    },
+    {
+      "alphabet": "dbbi25",
+      "base": 0,
+      "plain": "gsgq",
+      "cipher": "fexm",
+      "keys": [
+        [
+          11,
+          3,
+          23,
+          10
+        ]
+      ]
+    },
+    {
+      "alphabet": "dbbi25",
+      "base": 1,
+      "plain": "fexm",
+      "cipher": "gsgq",
+      "keys": [
+        [
+          20,
+          4,
+          17,
+          0
+        ]
+      ]
+    },
+    {
+      "alphabet": "dbbi25",
+      "base": 1,
+      "plain": "gsgq",
+      "cipher": "fexm",
+      "keys": [
+        [
+          0,
+          3,
+          19,
+          10
+        ]
+      ]
+    },
+    {
+      "alphabet": "natural26",
+      "base": 0,
+      "plain": "fexm",
+      "cipher": "gsgq",
+      "keys": []
+    },
+    {
+      "alphabet": "natural26",
+      "base": 0,
+      "plain": "gsgq",
+      "cipher": "fexm",
+      "keys": []
+    },
+    {
+      "alphabet": "natural26",
+      "base": 1,
+      "plain": "fexm",
+      "cipher": "gsgq",
+      "keys": [
+        [
+          3,
+          3,
+          24,
+          1
+        ],
+        [
+          16,
+          3,
+          11,
+          1
+        ]
+      ]
+    },
+    {
+      "alphabet": "natural26",
+      "base": 1,
+      "plain": "gsgq",
+      "cipher": "fexm",
+      "keys": [
+        [
+          3,
+          17,
+          6,
+          9
+        ],
+        [
+          3,
+          17,
+          19,
+          22
+        ]
+      ]
+    }
+  ],
+  "complete_compositions": 20,
+  "alphabet_incompatible_compositions": 4,
+  "exact_architect_matches": 0,
+  "controls_passed": true,
+  "historical_claims": [
+    {
+      "path": "E:\\rabbit-combined\\read\\SOLVE\\hill_faed_exact.cjs",
+      "sha256": "87afc9faa9914f7099ee50c01260640dd7ca95f5fef483058f8878e9b3a2d8a9",
+      "opening": [
+        "// DBBI's signed prime-reinsertion sum list says HILL FEXMGSGQ and leaves a",
+        "// final e=5. Together FEXMGSGQE is a 3x3 Hill key over FAED's a-i alphabet.",
+        "const fs=require('fs'),path=require('path');",
+        "const exact='E:/rabbitv3/rabbit/evidence_review_2026-09-10/exact_text';",
+        "const faed=fs.readFileSync(path.join(exact,'faed_unresolved.txt'),'utf8').trim();"
+      ]
+    },
+    {
+      "path": "E:\\rabbit-combined\\read\\SOLVE\\hill_bifid_count_matrix.cjs",
+      "sha256": "2d5e7b32c113372d6e3a99a7f8effdc37fb3b9d45bb7bf76f650465b74c1679b",
+      "opening": [
+        "// Exact Architect chain:",
+        "//   DBBI signed prime reinsertion -> HILL FEXMGSGQ",
+        "//   23 / 16 / 7 plus DBBI's retained final e=5 -> 2x2 Hill matrix",
+        "//   DBBI-keyed Bifid(FAED) -> a 570-letter, 25-symbol stream",
+        "// Apply the count matrix to that stream, then follow THISPASSWORD -> SHA256"
+      ]
+    }
+  ]
+}

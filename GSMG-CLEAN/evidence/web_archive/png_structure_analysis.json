@@ -1,0 +1,5166 @@
+[
+  {
+    "file": "E:\\rabbitv3\\rabbit\\puzzle.png",
+    "bytes": 29931,
+    "sha256": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+    "valid_png_signature": true,
+    "width": 1048,
+    "height": 1556,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "44bcbb3b",
+        "calculated_crc32": "44bcbb3b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "952b0e1b",
+        "calculated_crc32": "952b0e1b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 29824,
+        "stored_crc32": "a9f633c4",
+        "calculated_crc32": "a9f633c4",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 29919,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 29824,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 203836,
+          "sha256": "0178f7b1f2a919207e8d2f5a02e02e0ab55e940488e4708f8bfa0ccfb0a47022",
+          "printable_fraction": 0.006093133695716164,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "P2d",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 203836,
+          "sha256": "cdca1f16ff10e1758d5ec63a5a50efc8026b744d93dc1063b46b859efdac5855",
+          "printable_fraction": 0.005808591220392865,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "\nL&",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 203836,
+          "sha256": "fb8bdda4aff225641e441a17278266e7c6f7587da4fff9b03c4a2d7eba708475",
+          "printable_fraction": 0.0063825820757864166,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "P2d",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 203836,
+          "sha256": "bdfb4a906dcf1f23d56d44627a55b4456d5912ac7af68aa4c596abf320a22c74",
+          "printable_fraction": 0.006608253694146275,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "~pp`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 203836,
+          "sha256": "4e98eb4dc04f770eb299517ea2e87bbd6d96ac56938af2253e00ff5b9f5b58d3",
+          "printable_fraction": 0.006667124551109716,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "P2d",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 203836,
+          "sha256": "cbd3b097ccb0ddda01a4a601dbca9d316ca4cac144f99e8a7135ad252cdf7fe5",
+          "printable_fraction": 0.006765242646048784,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "?8xp",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 203836,
+          "sha256": "fe776fd34c1941ca951fe51ffdd4bdf05b24fe3ef0c2298be22aab17d1c90cc9",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 203836,
+          "sha256": "fe776fd34c1941ca951fe51ffdd4bdf05b24fe3ef0c2298be22aab17d1c90cc9",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 611508,
+          "sha256": "985e1e3934699bc4146c234b980290209a80d4ca265b2a4427774b2fb3cc81f0",
+          "printable_fraction": 0.06549873427657528,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "I)\"K",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 611508,
+          "sha256": "90ba5621b313cd8c56def6349adb13fb4963ea9260f8fd037d3757e5fc52846d",
+          "printable_fraction": 0.06560829948259057,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$II$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 611508,
+          "sha256": "6873dc820a9a82bdbcb2000cededf624029f08c5374ebde34c5b308d617ac62a",
+          "printable_fraction": 0.06748726100067375,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "mmI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 611508,
+          "sha256": "28f163a64e2d62b0c520a1b075da8b5806f95a9f4520d1f9bbfd8d5e67ec118f",
+          "printable_fraction": 0.0662705966234293,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$I$%",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 815344,
+          "sha256": "7aedda2ac96cf9eb3843068ee8468206ef114323de398088e978ad70f53c4a2c",
+          "printable_fraction": 0.003351959418355933,
+          "longest_printable_run_length": 31,
+          "longest_printable_run_preview": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 815344,
+          "sha256": "7cdc1c363aa5b97157a908481f680a4781a923563c9bc9df71fc85d7512411d0",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 203836,
+          "sha256": "6ce9d7b6036a008078a5ef3885c1863f8c3893ee8e4f17281022628257fe8b5f",
+          "printable_fraction": 0.00801624835652191,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "@ @P\"",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 203836,
+          "sha256": "cf0f382f8ddaa6728ee24cc2f5f8b056be2096e2657abc7489b0cf885eab1537",
+          "printable_fraction": 0.0078592594046194,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$ A@",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 203836,
+          "sha256": "c9c472aba65bd475248429368a876ba050adb951cf0eb9441c7c8a9993d71523",
+          "printable_fraction": 0.009556702447065288,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": " @@ ",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 203836,
+          "sha256": "428a44170e9e7a73b09db6b156d32d48f543ad6f907e8168e4dd47895fb34d78",
+          "printable_fraction": 0.00927215997174199,
+          "longest_printable_run_length": 6,
+          "longest_printable_run_preview": " $@B @",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 203836,
+          "sha256": "3b2dfcddc3a1deedc27188155232dc1bf10e992681dc38904016a7e67c3aa764",
+          "printable_fraction": 0.00831550854608607,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": " @\n!",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 203836,
+          "sha256": "4f2a6852d0333f4bcf202c8b90c3229e4bb52550e3cd7c4901393cf4f26e5b14",
+          "printable_fraction": 0.009071017877116897,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "E! @",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 203836,
+          "sha256": "fe776fd34c1941ca951fe51ffdd4bdf05b24fe3ef0c2298be22aab17d1c90cc9",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 203836,
+          "sha256": "fe776fd34c1941ca951fe51ffdd4bdf05b24fe3ef0c2298be22aab17d1c90cc9",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 611508,
+          "sha256": "c247c9deec4d89ce06981855edf1c67b10f6cb42fd6638a01c2ffae66d80da72",
+          "printable_fraction": 0.04964939134075106,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "[[{`",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 611508,
+          "sha256": "947eed1f0d4c5c71dd40b2678469430c783b807f829e95b7327e47b677c3d768",
+          "printable_fraction": 0.0495790733727114,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$I2\t",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 611508,
+          "sha256": "18be02f414b9c1707e0ae05f0330fa9451a13c7bc0e17d871811a582f899559c",
+          "printable_fraction": 0.05080227895628512,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "m$I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 611508,
+          "sha256": "61dfb1c5f6bd46655fcf634049dbb57fda1449dd2da35e457ca98a9dacdae411",
+          "printable_fraction": 0.05009255806955919,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$IJJ",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 815344,
+          "sha256": "85956c186f2e92eb1f07981ff4652832c998c9b054101bec60712cabc040200d",
+          "printable_fraction": 0.004199454463392139,
+          "longest_printable_run_length": 46,
+          "longest_printable_run_preview": "3333333333333333333333333333333333333333333333",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 815344,
+          "sha256": "e48ee6824284663a4e8b50773aca79e19cd7f867e11fbcca70b29cbad3a7df03",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\follow_the_white_rabbit.png",
+    "bytes": 1958,
+    "sha256": "5e8d84b88f8f829428df5d2a8bf36c7268346f169b799ac7570b6223990d204f",
+    "valid_png_signature": true,
+    "width": 350,
+    "height": 350,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "cd2b771a",
+        "calculated_crc32": "cd2b771a",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "952b0e1b",
+        "calculated_crc32": "952b0e1b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 1851,
+        "stored_crc32": "3020b07b",
+        "calculated_crc32": "3020b07b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 1946,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 1851,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 15312,
+          "sha256": "eab5caaa57c3f51ea71868b3073ff27cc2e7c49fcff43a68cf783f0f60770d7d",
+          "printable_fraction": 0.011298328108672937,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 15312,
+          "sha256": "3a4d44d27570a2c58f10ab3a9a1e9698d9c3450a14374b1f9551564d18a7a75e",
+          "printable_fraction": 0.01044932079414838,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 15312,
+          "sha256": "bcfce07fcf0c97b883909fe2f735553571fbfdb68c45218a4ee782085eecbb4c",
+          "printable_fraction": 0.013845350052246604,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 15312,
+          "sha256": "86fbc8d9b4562aa8a8267baa8875176aeb7a4116ef44614de88866005a969421",
+          "printable_fraction": 0.012800417972831766,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 15312,
+          "sha256": "bcfce07fcf0c97b883909fe2f735553571fbfdb68c45218a4ee782085eecbb4c",
+          "printable_fraction": 0.013845350052246604,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 15312,
+          "sha256": "86fbc8d9b4562aa8a8267baa8875176aeb7a4116ef44614de88866005a969421",
+          "printable_fraction": 0.012800417972831766,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 15312,
+          "sha256": "38b47f24a7d38ca91cca2a4740a62f1fc22ff62d863037c71c2d048f07eeb5ef",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 15312,
+          "sha256": "38b47f24a7d38ca91cca2a4740a62f1fc22ff62d863037c71c2d048f07eeb5ef",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 45937,
+          "sha256": "463aa640d707de5c2fdf1d68b3a1f9f47f9ab26f6edfe8f11cfcb817f15bbe6d",
+          "printable_fraction": 0.08398458758734789,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 45937,
+          "sha256": "7f9190ec847385808539b04cf6d7b6b0f55b65f85e2c5c956d29042b15803f9f",
+          "printable_fraction": 0.08394104969850012,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 45937,
+          "sha256": "a8dae5c56a53eed8118af54777486bfa18300e84f238859e7cbffe9d5fa2efd3",
+          "printable_fraction": 0.083962818642924,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 45937,
+          "sha256": "5fb3a6172a0a8ee6184a93b770c7e0569f39d2cd3b8c274e38061816bf94fef9",
+          "printable_fraction": 0.0835492086988702,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 61250,
+          "sha256": "9306cb5f10d3f1f8d9bd75cf68e04f0af5bd507e7982be30b6e5773735f68970",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 61250,
+          "sha256": "9f2e4bff4a78cc26a80932959e54b295e9121f710f94f9e7df24bb26adb82b99",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 15312,
+          "sha256": "151fb257c4c61f9058c002a328cb959808e8fdece3823fc0993eb8735269ebc5",
+          "printable_fraction": 0.011298328108672937,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 15312,
+          "sha256": "7b6fe2cb3935488c639841fec35dc2dd5e3b6565bc5f3373f3c4cb6eaebe080a",
+          "printable_fraction": 0.009992163009404389,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 15312,
+          "sha256": "9b36918abfb39d649431398d335aba87664a0e91b905ac1c016af6cd7a7ad61e",
+          "printable_fraction": 0.012147335423197491,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 15312,
+          "sha256": "72c7b1a63a92c2a679f19f1d2c602beed7b4328e866ee8c5e4b541719d7693f0",
+          "printable_fraction": 0.01116771159874608,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 15312,
+          "sha256": "b903ba42c8734ad857e4da0df636958abe3ebac488e1e1c4021296645d7e983b",
+          "printable_fraction": 0.013845350052246604,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 15312,
+          "sha256": "1f86079c1641e21af208ccc8ce4660253ac781e40e5822df37cfeb8a7c23780f",
+          "printable_fraction": 0.012343260188087775,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 15312,
+          "sha256": "38b47f24a7d38ca91cca2a4740a62f1fc22ff62d863037c71c2d048f07eeb5ef",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 15312,
+          "sha256": "38b47f24a7d38ca91cca2a4740a62f1fc22ff62d863037c71c2d048f07eeb5ef",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 45937,
+          "sha256": "9d8ec01381e4a07d4763cebb7061aca70b06f26049cc1a99508f28bda6689ce1",
+          "printable_fraction": 0.06863748176850905,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 45937,
+          "sha256": "ca600340dc416c611933d9161c81b94851a4b112de0c0ed8c23bb575a2c5fb25",
+          "printable_fraction": 0.06831094760215077,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 45937,
+          "sha256": "c04ee3f3802b8d168ac50e0e6cac9b8af196c0ea470048c336a5dc11b3c75279",
+          "printable_fraction": 0.06857217493523739,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 45937,
+          "sha256": "c837ab4ae4a4a4a5b79aef7ae9412df60aa8fac58cc3094e0ab6e680245ba570",
+          "printable_fraction": 0.06833271654657466,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 61250,
+          "sha256": "f642ee16fb4074f1d1f277c9633505e45cf3cb0a3578b33a4ef06aaa10664289",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 61250,
+          "sha256": "e599f1c200f350e658ddefd9cfdfea6ec888a55bd3c8365b4721588258cb59b3",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\sources\\rebus\\black_banking - war.png",
+    "bytes": 996,
+    "sha256": "907b489f6e77a828595805d7e370535a0aa85697ca951e0e09553e6c9a3410d2",
+    "valid_png_signature": true,
+    "width": 78,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 5,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "62f9a270",
+        "calculated_crc32": "62f9a270",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 49,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "952b0e1b",
+        "calculated_crc32": "952b0e1b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 70,
+        "type": "IDAT",
+        "length": 902,
+        "stored_crc32": "87bed6ad",
+        "calculated_crc32": "87bed6ad",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 984,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 902,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "46948e6949f3cf3670a99aceb32e3b37c2b2b1c828abd757d10e57a1475c0c4e",
+          "printable_fraction": 0.06158357771260997,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "\"A",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "5f6b2d744af430d7b6cf5db822fd8e810f5e2f864755fc3a1b0450451ef3be21",
+          "printable_fraction": 0.05865102639296188,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": " $",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "b54b34f976d15328b2a2b697d0ad784d6f099949b84c88f3912ff166ea8f5765",
+          "printable_fraction": 0.06304985337243402,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "\r ",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "d9c744730161f0b0146499dff9714a70b59001da3a75ac9f72c1dfd5db864080",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@ ",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "e19154c0dd120b0f3d67307e7572b615cd6c07b4c22df9531dca9d0829345b0b",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "\"x",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "8713125c3314068fb10774cc34249c1f5514b64f987d82dbc5013563a3684cc7",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "afce6481f90689ec24105dcc97ab10ae1eabc77a31e306fd65e6d28a6cb09e45",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "afce6481f90689ec24105dcc97ab10ae1eabc77a31e306fd65e6d28a6cb09e45",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2047,
+          "sha256": "520d8643ab69187b5080defc935829bd1fae9b5909e59706f682f65e654b4449",
+          "printable_fraction": 0.017586712261846604,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2047,
+          "sha256": "4c95a9f254fa68bc48d56499aaa91deec8c636677d3318609011c77914624309",
+          "printable_fraction": 0.02051783097215437,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "`>",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2047,
+          "sha256": "d58160744bc9bfedc7e1d08780ec4201da628276741172281bc6d99ba5e0e442",
+          "printable_fraction": 0.021983390327308255,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "~F",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2047,
+          "sha256": "3ab06561b7873fe717c50e1a4701a54d0f07f222d9870349d80d82ec02abac14",
+          "printable_fraction": 0.027357107962872496,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "@~b7",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2730,
+          "sha256": "af450488c8a928506c6d0a9b15f8a97f591013dd23a3c58a137db70c4910cb94",
+          "printable_fraction": 0.007692307692307693,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "Q1Q1",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2730,
+          "sha256": "f90cfde1bc08f46db495d59622c7b64968a523217c62bbd33131eed9d860c487",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "f43cac255fd0d9d95f13fb1c567a5031c4a17deec60eaf94e9befff26eece8de",
+          "printable_fraction": 0.051319648093841645,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "0",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "fd807c241d41589a0c9cf0de6481591e599d5cc8feb1bcd430e69f0f2800ed14",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "3ea84559e8969b13c982778a83ecfa9e3e1fe8f4c84bb1c065b47928cb208fe9",
+          "printable_fraction": 0.060117302052785926,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "lC0",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "95857e55d69e6aee2c2952767b90168ec277644daeea9f9fc54bc2b2c5d7eb99",
+          "printable_fraction": 0.06158357771260997,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "p43",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "255f5ea3ba1a4c061ec561c2076981740524c70a367823a15be63dcc3f9e2a46",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "8x",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "b16d11612fb4974e59bc4c4e21d936a0a6aea3d169d42b5634f4f41d0378ea97",
+          "printable_fraction": 0.060117302052785926,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "bC",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "afce6481f90689ec24105dcc97ab10ae1eabc77a31e306fd65e6d28a6cb09e45",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "afce6481f90689ec24105dcc97ab10ae1eabc77a31e306fd65e6d28a6cb09e45",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2047,
+          "sha256": "7c10cb7fad2df1cce16442b0b0a4bed9f00337345038d43b4aacdb5821a2179c",
+          "printable_fraction": 0.017586712261846604,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "hZ",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2047,
+          "sha256": "c64eeb499d1d97c6c4c8b46dc0f1bd7fdd3f586f87d640609a43d9a55ee1eb65",
+          "printable_fraction": 0.023937469467513434,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "_h",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2047,
+          "sha256": "0d9fd3b1bf2403340e4ae8b199a99b4002b31720caab94ec73fc15b64f9aefd8",
+          "printable_fraction": 0.024425989252564728,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "Z'a;",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2047,
+          "sha256": "6d0bf67a2dd6e8ce76fdf18b56201efa644337816a67cff941f5563153a393b6",
+          "printable_fraction": 0.02882266731802638,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": " go",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2730,
+          "sha256": "ead5b9c9963233bec919f841837d5ede047240ab797a3efb839582d8275680f7",
+          "printable_fraction": 0.006593406593406593,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": ";",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2730,
+          "sha256": "99cba015c7d17de77fbc5154f203a02c5c626fc7715ed01eaf8ffca20671880a",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\sources\\rebus\\blue_ca.png",
+    "bytes": 627,
+    "sha256": "e59d42e85997d395d41eaad6fb64f343eadb752918bf33098093e96a8a9dd8be",
+    "valid_png_signature": true,
+    "width": 78,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 2,
+    "interlace_method": 0,
+    "chunk_count": 5,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "ed9b3527",
+        "calculated_crc32": "ed9b3527",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 49,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "c76fa864",
+        "calculated_crc32": "c76fa864",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 70,
+        "type": "IDAT",
+        "length": 533,
+        "stored_crc32": "c4b34efe",
+        "calculated_crc32": "c4b34efe",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 615,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 533,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "8408ae272657f87c50c49a343125af7c09de5a70fe6595fcc1c35ecb667801bd",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "77d16925ee962b34b18ad4ed69466737b329d923b82a6be61414523bfa2bf12c",
+          "printable_fraction": 0.005865102639296188,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "{",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "09eb4e43beb48545711213c77409621df589e14eabd77ba83371c79d73cde760",
+          "printable_fraction": 0.045454545454545456,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "p0",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "20d0d1744ddf12686480c89dadbc8fe11669a0b13edfcbe896ca4e7d881a6e78",
+          "printable_fraction": 0.039589442815249266,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "965cba3b96bf4405c921b7ea71789a21152a3bb98eff31dd160f9356abf36b21",
+          "printable_fraction": 0.04398826979472141,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "0@",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "f4ed66787efe6d0e995cf0da2b5d4f1890761f74974ad74ad13bf317cf36b519",
+          "printable_fraction": 0.04105571847507331,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2047,
+          "sha256": "33b16981eca83779dcc893efa48a7dadf9159159edf6c52929c1a9520af40c9e",
+          "printable_fraction": 0.5808500244259892,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "!RI'",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2047,
+          "sha256": "322151d688913cac566883cf2e2561b59acd4584004356f928b49b65a2710e5a",
+          "printable_fraction": 0.5715681485100147,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$I>$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2047,
+          "sha256": "a008f3a3a08e56361e6b3afaa35663eff3e111e959aa444b4f60bc54e5c7c4c9",
+          "printable_fraction": 0.5764533463605276,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I7pI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2047,
+          "sha256": "06e750ef785150c75fcbffc692d7aedba64eb00cbe038f0e77f7028ffd87c99c",
+          "printable_fraction": 0.5769418661455789,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "H2\"I",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "201345f89bed11769581f2dd7bbe87f12a9028a6a29687ce2aba234320c2d1c9",
+          "printable_fraction": 0.005865102639296188,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": ">",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "35e6b6cbb37dfa36a541d5afe751b72fc8b834f5337ee3ed73c82fa78156f700",
+          "printable_fraction": 0.01466275659824047,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "{|",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "3e5f826a0b392d5a20e4139bd074a385eeeec0f116b887dbffdc35025eee6c8d",
+          "printable_fraction": 0.036656891495601175,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": " 8",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "f6f03409e1407622f0e8a03695d79be2a118649696925dfae0e8911bce332d87",
+          "printable_fraction": 0.036656891495601175,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "\t`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "23363c57f3b3b406cb48f27b2f7a409308d8957fabf408bd0177193949be1d7d",
+          "printable_fraction": 0.04252199413489736,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "`0",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "58bdfd8c4633c9dd5e599b36ba2360acd814e7e9fdd3c919be7cc9e0b780364b",
+          "printable_fraction": 0.04105571847507331,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2047,
+          "sha256": "5b49dc115135c0d88aa1bf3ce86299e9c866d20c205a1ad03dbec63c3cb02165",
+          "printable_fraction": 0.5823155837811431,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I\"bI;",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2047,
+          "sha256": "a811092210da0d9d7aa25f0fe740100c3e1ee18108c413b1090e3b03b5f15d95",
+          "printable_fraction": 0.5744992672203224,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$Ir_I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2047,
+          "sha256": "d88ad0d6eb3cf8d96802d8b8b88e3c8f29b6c08352cb98ee5def95e6e3a527cc",
+          "printable_fraction": 0.5715681485100147,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "&pI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2047,
+          "sha256": "d8c8083c2ac1c4ac6bf6429752e770442e92fba0b5d54605b04e039918cde4b4",
+          "printable_fraction": 0.5823155837811431,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$Ir7I",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\sources\\rebus\\blue_dig_i.png",
+    "bytes": 1030,
+    "sha256": "a6889a2e090d32920e47124f0187d2e61979409f9bb32a09bf0c990db56d05f9",
+    "valid_png_signature": true,
+    "width": 77,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "89ce1973",
+        "calculated_crc32": "89ce1973",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "15284a80",
+        "calculated_crc32": "15284a80",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 923,
+        "stored_crc32": "820a9c42",
+        "calculated_crc32": "820a9c42",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 1018,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 923,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 673,
+          "sha256": "e773fc73a3c1ea0ecdf4dcc79aff564431dee0f6205c51ccca2ddba8e1ab95dd",
+          "printable_fraction": 0.010401188707280832,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 673,
+          "sha256": "d3df6a473c9aee9f70df093901266a693c34160ce63756769632f52957f567f2",
+          "printable_fraction": 0.007429420505200594,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "y",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 673,
+          "sha256": "ac90203219ed2d85bf8608ada68754561c4f011d173331f12111ae4aef71f3df",
+          "printable_fraction": 0.04309063893016345,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "`a",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 673,
+          "sha256": "4ddec4cbabb634384a0358b399f84e4c0b10d4412733e48a8f39cb2eb8607fa1",
+          "printable_fraction": 0.03566121842496285,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "00",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 673,
+          "sha256": "82be77268e7e9d8f56ac97e548fe37dd8c62792893b7f3e7b797f47b74e9423d",
+          "printable_fraction": 0.04606240713224369,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 673,
+          "sha256": "31fe35d3a9df906f82945b1f39fa400672743f95c735564d91c25d6a032679d2",
+          "printable_fraction": 0.04606240713224369,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@0",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 673,
+          "sha256": "239233a5f5bc08db33a52f9be190a19bb84ddb346d2310892a1d79a61a80cbc2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 673,
+          "sha256": "239233a5f5bc08db33a52f9be190a19bb84ddb346d2310892a1d79a61a80cbc2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2021,
+          "sha256": "61997b0ab73929ac95dd1272d38fad8ee1e0752bdf232cbad3c809104295844a",
+          "printable_fraction": 0.5759524987629886,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I%xI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2021,
+          "sha256": "8aba6091a323606ccf12a27519073177b72febbf41344ff113ef472b3093e336",
+          "printable_fraction": 0.5710044532409698,
+          "longest_printable_run_length": 7,
+          "longest_printable_run_preview": "$I~$I>$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2021,
+          "sha256": "6b4a02016a81eaee968c6a656068e7972e581e32b9f965643d11f678011784db",
+          "printable_fraction": 0.5695200395843641,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "7pI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2021,
+          "sha256": "a2adef9491cbfa460577704e402d34370346809ec3be8a589194d09d9f0cb27d",
+          "printable_fraction": 0.5650667986145472,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "$Iv",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2695,
+          "sha256": "3479028715324e20047510ba8480da023b7a0054e8e9857fe174b3d5ea5f0c1f",
+          "printable_fraction": 0.006307977736549165,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "{}",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2695,
+          "sha256": "892b687a3eda424a6cb0d3b011ad682e03a95fd0278a5099ceb269d8f7c2027d",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 673,
+          "sha256": "2f56bc1bce6df80ce9589d8ce5415d16c9d6af05087f0a22b731160823358b0b",
+          "printable_fraction": 0.01337295690936107,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "w{",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 673,
+          "sha256": "c2c7354f14e6ae9135e865ec3eed5e1a424fa3c18d49890622f28e8473799b40",
+          "printable_fraction": 0.019316493313521546,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "{_",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 673,
+          "sha256": "ed0db8224ee34e037c3929b381f7629ddc7dff8dbee857a7dab03965f06be363",
+          "printable_fraction": 0.04011887072808321,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "8`8",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 673,
+          "sha256": "c7a2376d3385db6423a5545bc5381487cb2623a7b4c361dc5b2f75007905f471",
+          "printable_fraction": 0.03417533432392273,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "C8",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 673,
+          "sha256": "a29542c6be69525ef5642f6534b3132909f61c0bd2962069c6b8c8957d948234",
+          "printable_fraction": 0.04309063893016345,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "8q",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 673,
+          "sha256": "40846ee858d1861775b7421764a41f3032efc0a91ed64cd05a422411a11b5efc",
+          "printable_fraction": 0.03417533432392273,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "08",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 673,
+          "sha256": "239233a5f5bc08db33a52f9be190a19bb84ddb346d2310892a1d79a61a80cbc2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 673,
+          "sha256": "239233a5f5bc08db33a52f9be190a19bb84ddb346d2310892a1d79a61a80cbc2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2021,
+          "sha256": "0ccc08083fedc6ec14ff8bc3df4f098ed3589e01c9e1fef410da6a50d84d2599",
+          "printable_fraction": 0.5729836714497774,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I'zI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2021,
+          "sha256": "bfc6658791080a06b51f7d9bc7d32a99540cb653de07e915cac796299f0c3eef",
+          "printable_fraction": 0.5695200395843641,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$Ir/I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2021,
+          "sha256": "ba88fb152954646f779f356a758ace9a487d468e2caa90dd48a16619bfab6652",
+          "printable_fraction": 0.5680356259277586,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I?2I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2021,
+          "sha256": "a84683f166f3e9b589f0691d54e4aa537ba88a8a5d6091f15fe5f2770d2d700c",
+          "printable_fraction": 0.566056407718951,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$I~&I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2695,
+          "sha256": "3540de8b786a6820bc60da44432322ee293a20eab75c372f2d93479277e94a09",
+          "printable_fraction": 0.01261595547309833,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "?Y",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2695,
+          "sha256": "dc491257ed7d9798062c775d6a49f5aa7a4e2642fdcff8f61481eeb769a5be51",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\sources\\rebus\\blue_lock_lo.png",
+    "bytes": 783,
+    "sha256": "60b01e5bc4181ed4236df736f7f7841aa98dde1aac108d65a385f5dc7a97cc6b",
+    "valid_png_signature": true,
+    "width": 82,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "5f6bc316",
+        "calculated_crc32": "5f6bc316",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "15284a80",
+        "calculated_crc32": "15284a80",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 676,
+        "stored_crc32": "8d364a3b",
+        "calculated_crc32": "8d364a3b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 771,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 676,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "39577bcc34f541e094374a931197dc2e6fc309b55a5c27c3efc90814697307e4",
+          "printable_fraction": 0.002789400278940028,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "}",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "b23f3c3dec761b5445e8ebe224519986a358dceb6a994dc44940d20c0f2dd7a5",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "c1e6d5d35d6081a24db0869ee647776dace31ec9874e81268c31c6199d366256",
+          "printable_fraction": 0.0502092050209205,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "08",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "6ccd8ec1fc7f5f77708bc5863fc8032db166b0661b1596ace55b4c7cfc9187d3",
+          "printable_fraction": 0.05160390516039052,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "1p",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "e5e9dc4a8750228225a8448997e4578d3f3e81b9f5f617ede63b6bae6b986a8d",
+          "printable_fraction": 0.05299860529986053,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "p8",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "7e54940d2b30a56a835c6bd1e2cf59c0b977b3f9025fae9e69eb7539974a5390",
+          "printable_fraction": 0.0502092050209205,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2152,
+          "sha256": "cdc09c6ad22df7b95b18f29d737cc53bcb417f36c8881d9d9fe2ba4ff1e9eb5a",
+          "printable_fraction": 0.44702602230483274,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I%|I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2152,
+          "sha256": "6d822f4341808c8c83cb385b97f996c64d4565d81658252e28f647799b3b3e52",
+          "printable_fraction": 0.4400557620817844,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2152,
+          "sha256": "3433986d96f43f6662bb076cb8bf02e7b74a3ffb2edc19dfb29887f7bf8ed290",
+          "printable_fraction": 0.44284386617100374,
+          "longest_printable_run_length": 7,
+          "longest_printable_run_preview": "7pI'~I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2152,
+          "sha256": "85ce9d0a5ef50039a45f9f2306724aaaa446b7b5076f92e0de4a1b4cc813d744",
+          "printable_fraction": 0.4479553903345725,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2870,
+          "sha256": "e01ad63720c02a3a1d726a67c24d98ad8a0ebb99c31e5d0bc17375d2927589cf",
+          "printable_fraction": 0.0003484320557491289,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "}",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2870,
+          "sha256": "a908dab0f9161bd25ed45e56834e759f10a5695c21429f1c8904fceddeecb38d",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "dae7b5bea0a1fceece9d89ff3258bbb7a48ed356e757717523f4f284315dd1e6",
+          "printable_fraction": 0.005578800557880056,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "__",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "17e40835cdc3902e33a4c3f5055cb3351a36d70dd04e8ebb9429d85fcab175d5",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "a1b886efafd7308142490d33ed91811651f3948210ee45a86f64c7556d5d9128",
+          "printable_fraction": 0.04741980474198047,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "<p",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "fc3b3d9e8e23b10b56c808216ff73f83bb697b8294ef32e5339239e57a5649c6",
+          "printable_fraction": 0.05439330543933055,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "1`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "0b37125f525b1d52587c703d872434f884bae7a01508ca86829653850e336c21",
+          "printable_fraction": 0.04881450488145049,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "00",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "fa52277d3e27a76a33ba5cdb206f4c82e21d391a4cb7c0a33571db1bb502190a",
+          "printable_fraction": 0.05160390516039052,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "00",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2152,
+          "sha256": "0cfb74d0392b915178a245f50533bd732a380837a9afba37693189721d1d5a8a",
+          "printable_fraction": 0.44842007434944237,
+          "longest_printable_run_length": 7,
+          "longest_printable_run_preview": "$}I$}I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2152,
+          "sha256": "4e74f3a967c22d61e4c1f103c1194ab7748ac104227a3b7cfb0a5d5d5d70ce9d",
+          "printable_fraction": 0.43866171003717475,
+          "longest_printable_run_length": 6,
+          "longest_printable_run_preview": "$Ir/Ib",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2152,
+          "sha256": "84603de6c4f6d8a495dbbb7cf37a6be9b9d0bc1269ede9ce73c49ea50715065e",
+          "printable_fraction": 0.43866171003717475,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I&pI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2152,
+          "sha256": "deade1ceb04be9a95fc594b8850539af34d9ffd5966fd024441149c9fb6632a7",
+          "printable_fraction": 0.4451672862453532,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$I~&",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2870,
+          "sha256": "9a5f39fd444f6a6477a0f371263236095968c58f34e8b566f77f7122063c16a0",
+          "printable_fraction": 0.004529616724738676,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "w",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2870,
+          "sha256": "7c99c20fa1ff8769e63dcea2f349048ee9e423d68fea964ea3cf52caef91d436",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\sources\\rebus\\red_crypto_gic.png",
+    "bytes": 1642,
+    "sha256": "8aad87b987ee7d8ee8c7884ba47abc022cb31753fd1a16a7e59101e50dd4a6f6",
+    "valid_png_signature": true,
+    "width": 79,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "8d3bc94e",
+        "calculated_crc32": "8d3bc94e",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "15284a80",
+        "calculated_crc32": "15284a80",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 1535,
+        "stored_crc32": "b72c5049",
+        "calculated_crc32": "b72c5049",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 1630,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 1535,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "fca378f5fde399498787691ea0bd43c02a76258803822f6e641b10087cfdd775",
+          "printable_fraction": 0.002894356005788712,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "_",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "58671863ee1aa0202c1e96a782a48340d049e9addb3d32e3c4375ecf0340add6",
+          "printable_fraction": 0.004341534008683068,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "h",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "406df7ae3558cd5b94c2615677dfcad5d5d01e14cf0d37607b1adc10722754b4",
+          "printable_fraction": 0.059334298118668596,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "0``",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "c33a9a4e7df4241d2e2eefeb1c324a08ea67662e7a6ff126bebe377c934a064e",
+          "printable_fraction": 0.06367583212735166,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "\r``",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "0140d995c214ca1fc0991b38fbb8687802652c5d098fb5e211238d6d87fc638e",
+          "printable_fraction": 0.06512301013024602,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "p5`P",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "73d4e14a10985081ed82796dcb38e6234b28ceae3ef702a87db57002ff08b81c",
+          "printable_fraction": 0.06222865412445731,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "C``",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2073,
+          "sha256": "523289376bf9fb4e076634c8fe0a50e5af315c52f118cca25f614265e0d2d495",
+          "printable_fraction": 0.5118186203569706,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I%zI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2073,
+          "sha256": "c14aa2f5be07808b29f51537530f3e629a80f84ab3aa77e56a7e88d70a92b4ae",
+          "printable_fraction": 0.5137481910274964,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$IR/I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2073,
+          "sha256": "0075fa8fe5d85046afe5ed203762925115fabd9068ab27fe06d5852cae20582c",
+          "printable_fraction": 0.5123010130246021,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I72I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2073,
+          "sha256": "bb452fb53e1180382d9f7d281437ba87e4fbf49ed6c1fa3cbab2d48d560fe23b",
+          "printable_fraction": 0.5151953690303908,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$Kv?I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2765,
+          "sha256": "4acf39e3d5feeb42738199cc26d192b15413db4f67820fa7abfe1367e66a2f7a",
+          "printable_fraction": 0.007233273056057866,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "q",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2765,
+          "sha256": "6984ea6a7758b76314face5c65b9e9ac22c6ac2123fbcd96488005577d4b441d",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "adc1981569e6ab800c0227d8ff3f4625d65b8317e85de5c8a73377c446a03665",
+          "printable_fraction": 0.0723589001447178,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "`Dc",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "42179f8acf11820419be8ac6a5b9c2845962e987ea8a8e94493a89d65e51aa13",
+          "printable_fraction": 0.0723589001447178,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "p00",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "fc49c9e2f95b1378f4924d91dccc7fcc28ae4ef4ab7d18f592d57d837c804e39",
+          "printable_fraction": 0.06222865412445731,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "|7pt",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "723cfdf694d762e162e074c5412b489973fa19e58e56d64a35d277f49339e424",
+          "printable_fraction": 0.07525325615050651,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "Xp`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "e5ccb98d6a17f516dab28f9a07406b4f3853972cf24d2957230dc5b71ff088cc",
+          "printable_fraction": 0.06801736613603473,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "00?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "afa4fcb275e739387ce503ca1a80c5af5535e023d9d63ae0945e85a7c553d3c1",
+          "printable_fraction": 0.07670043415340087,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "\rp0",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2073,
+          "sha256": "369fd4e974faa1711a68e8ad4f1f2375b2c78dfb901be8c258b60f8b85e16ceb",
+          "printable_fraction": 0.04148576941630487,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "@l3",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2073,
+          "sha256": "8d915591a2f8a7b1e095139bc68463b0114738911368fc2d546b091920d37f29",
+          "printable_fraction": 0.039556198745779064,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@?",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2073,
+          "sha256": "ff57d25b63c7b8ce64312dc56178fb50784f22636446bf99561f8d759eadfb70",
+          "printable_fraction": 0.05451037144235408,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "/ce",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2073,
+          "sha256": "f5f9eee26ad44693fde9119652acac040fe0b6c5c7b3c18b6c98b1820d33a9b3",
+          "printable_fraction": 0.04872165943077665,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "@.`;",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2765,
+          "sha256": "06bf9520b983e94a1b66c77bd99d257ffabc51f3e654e7d60dbb4da605eadbd5",
+          "printable_fraction": 0.03508137432188065,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "wW",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2765,
+          "sha256": "69936314627a3fd204bd09bfc107e1f225145684aa14425c4d30631c0bdf8913",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\sources\\rebus\\red_n_you.png",
+    "bytes": 863,
+    "sha256": "89a81a1b30cc399ca77dde6ffa2b01d0807e8db9b22636d157ca9f54eaf86aeb",
+    "valid_png_signature": true,
+    "width": 80,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 2,
+    "interlace_method": 0,
+    "chunk_count": 5,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "d4fc847c",
+        "calculated_crc32": "d4fc847c",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 49,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "c76fa864",
+        "calculated_crc32": "c76fa864",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 70,
+        "type": "IDAT",
+        "length": 769,
+        "stored_crc32": "8d6fa50a",
+        "calculated_crc32": "8d6fa50a",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 851,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 769,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 700,
+          "sha256": "fc26ceb7da6c609e5b3fa41bd7edc6132b6549110711a2de33147f9d674ada7c",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 700,
+          "sha256": "ec24d12497eb3ccd775d573f7d6b4ed53af3cb4c5357e558d84406b8c46670f4",
+          "printable_fraction": 0.0014285714285714286,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "w",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 700,
+          "sha256": "2caa3aa65d93232c2feb1c79263b84f146cb469391c6593e20546b7969ba9e5b",
+          "printable_fraction": 0.01,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "\t",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 700,
+          "sha256": "d62e3283f4cf3b506279a3298bbf2c098e947aca8825bd586a57981be1d65300",
+          "printable_fraction": 0.03857142857142857,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "  ",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 700,
+          "sha256": "d217940f9e6dc714e0b9c9c4f6ccfe3d1806efa208648d5d6f67f4e393b3c17d",
+          "printable_fraction": 0.014285714285714285,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "/",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 700,
+          "sha256": "98f4a41efa261dda7a9b4ac322e881f445389c16b8a9e9d048ab48e635738bb0",
+          "printable_fraction": 0.04,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "  ",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2100,
+          "sha256": "f8aa630d5a93138f2b9d8f5b4a9558fca74c086ae36d445e7649ce20c4696684",
+          "printable_fraction": 0.540952380952381,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2100,
+          "sha256": "6febaa5d26eb22e1eaf3e85187c438b256a143094ffe2760d1ec68ace350d12d",
+          "printable_fraction": 0.5542857142857143,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "~IR?I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2100,
+          "sha256": "b2845e1f462e5bc5a8af0a2c4591c507103f22776b6171bf085afceb16ecfe0e",
+          "printable_fraction": 0.5395238095238095,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2100,
+          "sha256": "340e59b52e81b2357f55c4653c5de141e3091a0e25837b04a73de63f208e699a",
+          "printable_fraction": 0.5085714285714286,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "{$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 700,
+          "sha256": "6276db9c3c92c23bb27706f05de454a2739f5e6ff8f6febbd7110c15510aa969",
+          "printable_fraction": 0.017142857142857144,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "`c",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 700,
+          "sha256": "107319a56603cbfe1f5ca8b4c815639e3308d14f2a3a8460698e591191de9c6a",
+          "printable_fraction": 0.04285714285714286,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "  p",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 700,
+          "sha256": "14c3b68ae92d5be003ab057987f0736b9b5c69c88f099c863d96066f26ed5fe4",
+          "printable_fraction": 0.017142857142857144,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "`G",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 700,
+          "sha256": "73781a8fdc658ae3e124ddbae9d7ab17406858e0d90db20b0f8f74502ce1e510",
+          "printable_fraction": 0.03857142857142857,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "  t",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 700,
+          "sha256": "d8e3cee470af70b2f12a5bcd6cd2454f9e0a47b87714a73e19c232203811a73d",
+          "printable_fraction": 0.024285714285714285,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": ">",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 700,
+          "sha256": "1250845161adee28ff53e96dedeb83adbb3b8a83da375d8e77ab355da2a76b22",
+          "printable_fraction": 0.04,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "00|",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2100,
+          "sha256": "c51278ffe26374e0d2f7b7df817bf0a0637d79133c52daaedc0248f68b22e6d4",
+          "printable_fraction": 0.015714285714285715,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "?A~",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2100,
+          "sha256": "e83b825cdc836b024f3f56c69619dd8caf9ab2420d0361474a82eb6cfdb3adaa",
+          "printable_fraction": 0.01904761904761905,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@_",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2100,
+          "sha256": "57979d67bf7a6c14b9345b23f546ad778ec408a2136605c8dd48f9f66364c006",
+          "printable_fraction": 0.028095238095238097,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "3\"f@",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2100,
+          "sha256": "bae075d85fdcd621508695ce45995cc8d3f62d3a873a6f9ed23f19770f11ec4f",
+          "printable_fraction": 0.024761904761904763,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "\r@7",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\sources\\rebus\\red_open_lock_n_ing.png",
+    "bytes": 963,
+    "sha256": "ea1cd545040c051a62e7695eb2dd2ad983be26849b54cd686feea12b11f3d203",
+    "valid_png_signature": true,
+    "width": 82,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "5f6bc316",
+        "calculated_crc32": "5f6bc316",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "952b0e1b",
+        "calculated_crc32": "952b0e1b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 856,
+        "stored_crc32": "04ca614e",
+        "calculated_crc32": "04ca614e",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 951,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 856,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "7677fd49665c294e8040baa5bd8f2a305de679120a8eb58a346895b19075ab86",
+          "printable_fraction": 0.005578800557880056,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "|",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "846656563cbae2fea027e26b5fc221c6d5aa1e41336d42636136f24a7b4941b0",
+          "printable_fraction": 0.005578800557880056,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "2bba0bb35b4e1ad94a0ae84b0e0978588252c9a0d26aa929315f2527f718d076",
+          "printable_fraction": 0.061366806136680614,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "0`",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "982afffa6410241731b33f3b50435bfe79c85c6d14c04a476d53eecd7e2e7db2",
+          "printable_fraction": 0.06276150627615062,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "d2a9834de6981ceb078fb870807c4547eeb492822487cd73d8016b72c5c14efb",
+          "printable_fraction": 0.058577405857740586,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "`b`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "9efd1b66a008a7f5c8361252b36179d507ba4360c72ba20614a5477bd44472b7",
+          "printable_fraction": 0.06694560669456066,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "G ",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2152,
+          "sha256": "f9815e4c39a5b14a594430b5efd60784b10160a0326a5ac0ac74f3ce7eba4f3f",
+          "printable_fraction": 0.44144981412639406,
+          "longest_printable_run_length": 6,
+          "longest_printable_run_preview": "I%zI[{",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2152,
+          "sha256": "e7186ad8dd41bdd26a90292d6d71b1855b851417f0ef9ee43f65083b14ff9bb1",
+          "printable_fraction": 0.42797397769516726,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$Ijd",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2152,
+          "sha256": "f52954568c69d152060307f56688f0ef9b3c561db4b1149330bf73fbe593252b",
+          "printable_fraction": 0.43215613382899626,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I72I?",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2152,
+          "sha256": "4d16c1acb4d3f4f9febe5dc3a35300048929ed3c0ffcf27a46017c41f018ab69",
+          "printable_fraction": 0.4368029739776952,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2870,
+          "sha256": "09d4077e0df7f47cb4ff608ad91a0b35a1e51a0419a11e937e2597e8c31678f8",
+          "printable_fraction": 0.011149825783972125,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "w}",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2870,
+          "sha256": "3e84a689b91a132b33f6cc1a7e4c303e102eebe681fc9ca4ad2f023393e7afc2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "535ff6c61b18d9ee6e0885d31e7f47c75bae800f6249b1fa08d0a6edf6f5e55e",
+          "printable_fraction": 0.0697350069735007,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@N",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "c2a00d2242ea87e323f299d0846ba8c9f73fe14f7808ce135d25c7091f348350",
+          "printable_fraction": 0.06694560669456066,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "q8",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "83b2842d40a0c4b4e02774f04eaeac9da6bad70784590ce9147097c1ebd9ef53",
+          "printable_fraction": 0.0599721059972106,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "p@",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "e7f71292bdecce77da43974df63101d729ce68bd9d2be9d9a6bb8f4c77200c00",
+          "printable_fraction": 0.06834030683403068,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "wX",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "e73171eb5dc8c198a841d5ea880feb8dd9e11dbc60f3f9083c79fc4cdbbd0807",
+          "printable_fraction": 0.06415620641562064,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "3361c5c80fb375f8841ecc3d1fcde75ee3ece876e067e0a53f13f15121abda56",
+          "printable_fraction": 0.0697350069735007,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "`;",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2152,
+          "sha256": "6ef07bc3614947b9143432296d3bc82f574e691c27eaf3131341455f661f27dd",
+          "printable_fraction": 0.03066914498141264,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "/o",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2152,
+          "sha256": "9461c2e9ce9236b418e851cfa7bed78c8394c552588c9d555a867da125c7e0af",
+          "printable_fraction": 0.029275092936802975,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@/",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2152,
+          "sha256": "4184ef6c7b54c041ea6be67b94cfe13c38730c2d49f8b840cdb43fac8d20e80c",
+          "printable_fraction": 0.03485130111524164,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "?`\t",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2152,
+          "sha256": "0af8c7f7abf7acad3317d0fc88eca7758c7b8a04632ac91a42932bf0dbad7620",
+          "printable_fraction": 0.039962825278810406,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "@V #",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2870,
+          "sha256": "bae5ea64125784fdcc756a6c5e929ae4a605920eb64529827d023bdfb81b1338",
+          "printable_fraction": 0.01602787456445993,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "?Q",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2870,
+          "sha256": "a03fc05a4922ccc1727a9ed69cb27d9eb273bd14c16839cc0b61ce79879f182f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\sources\\rebus\\red_t.png",
+    "bytes": 506,
+    "sha256": "86fb2eff01d3b4f25e7bd9c64c736ce0ffd0e129b8c77fab81aac5d02fd04d35",
+    "valid_png_signature": true,
+    "width": 79,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "8d3bc94e",
+        "calculated_crc32": "8d3bc94e",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "15284a80",
+        "calculated_crc32": "15284a80",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 399,
+        "stored_crc32": "351bac69",
+        "calculated_crc32": "351bac69",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 494,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 399,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "650285174a189e93b5f13abc5b42d7b6ba72c265d43f3a9f503807607547f618",
+          "printable_fraction": 0.001447178002894356,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "_",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "669f1426a811db9f8c297a76416e27d90d228aee80e4691280d6fcbd8036901e",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "9b9ba02f0277176020fc364214fe566aca31019e1090e06c7bd46dbc18e5347e",
+          "printable_fraction": 0.017366136034732273,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "9c067f25b8ae80698ac806493cb109fcbfe4571e3b68202514be393f127e9c7b",
+          "printable_fraction": 0.017366136034732273,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "968cef97964c1a7126ba4d7206dd26be1ee970dfc3eaa1ca6eee63aba1139d3f",
+          "printable_fraction": 0.01881331403762663,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "c393f302d6d774722f105fb9daf5fe86b9dc8ae3d75cf38f9b29174c538afaa8",
+          "printable_fraction": 0.017366136034732273,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2073,
+          "sha256": "a4355ec0c6d94132a725264aaac4126217dd7ad309eec59d39a4530fdc159693",
+          "printable_fraction": 0.5561987457790641,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "I/}",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2073,
+          "sha256": "428be9b95e2c2fce33ec6086fbad1a2d8df50a8070b9349332cab4accca9a077",
+          "printable_fraction": 0.5542691751085383,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2073,
+          "sha256": "37e7e336ea3179a1805bcc8b4c90647faaf956dc9cd8fb229fee27c5b23bb940",
+          "printable_fraction": 0.5566811384466956,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "~I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2073,
+          "sha256": "e9fe45cc9dd9354f81af88e210e2751b5ddf77a765b41ade5ebc239fe028f82a",
+          "printable_fraction": 0.5561987457790641,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2765,
+          "sha256": "057426343a7d4a70b3f88b3f8acd11b4f53dc5c4f6e58641883e0a0ccd344b7a",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2765,
+          "sha256": "c1a38f5a708744e406068ec8e607f8293db2df033948843450e777c58d93624a",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "542efc0301a3ccd4d1d4bacd44614dd2db3146b69ee26eee6ea4d856f378df6d",
+          "printable_fraction": 0.01881331403762663,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "16ce79baa7bc0638c966355ed3423170625a67ef086709c95a8c014b19d2770f",
+          "printable_fraction": 0.020260492040520984,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "ed90deddbde460c8d324e5e858da3074f6c4e5c9833fd0aa5f9fa747b077d511",
+          "printable_fraction": 0.01447178002894356,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "c66d499c99d8a772e59b639f1834ff2560620d23b6d1a59d41134b5a0bdd25b4",
+          "printable_fraction": 0.020260492040520984,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "40f7edf2f5bc91a4e24ead3b0ec3932111e174c6300f769684c7d67bc9c2f678",
+          "printable_fraction": 0.015918958031837915,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "5b46f8a5e89dcce8c2409444572737e81880e904e78e853f2c593d5dc4e18362",
+          "printable_fraction": 0.020260492040520984,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2073,
+          "sha256": "3fadc784915f92aadb669e21c9c3bf571406e6f787e98a4ba5cdc58ef3d46609",
+          "printable_fraction": 0.008683068017366137,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "}'",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2073,
+          "sha256": "23b708272e0366c5bfb47dd92c14219c435a1eed2c175d8ddd49928ac82c4051",
+          "printable_fraction": 0.009165460684997588,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@?",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2073,
+          "sha256": "bed6c51d609d21783bffe3821f46ee8225a578f9e1f3f3eb89fd25111aa4dd66",
+          "printable_fraction": 0.009165460684997588,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "#I&",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2073,
+          "sha256": "81becb42fad79053fac5a41b59290d62e6d1f209e32ef7222f889eaa758c8a1d",
+          "printable_fraction": 0.00964785335262904,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@o",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2765,
+          "sha256": "e83fb6e3d0d8eb26c34a41bb82c28e7362fcf9312a536a9648c839f6529ed184",
+          "printable_fraction": 0.0032549728752260397,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "=UU",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2765,
+          "sha256": "da57331e81db8e24f42f15232dd377e2a052a4f30a284601356d38ff3dff5185",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\recovered_puzzle_images\\bodies\\0001_3L3FK2TTD6NM25PIFB4TOXFYZUPLZ4MW.png",
+    "bytes": 29931,
+    "sha256": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+    "valid_png_signature": true,
+    "width": 1048,
+    "height": 1556,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "44bcbb3b",
+        "calculated_crc32": "44bcbb3b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "952b0e1b",
+        "calculated_crc32": "952b0e1b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 29824,
+        "stored_crc32": "a9f633c4",
+        "calculated_crc32": "a9f633c4",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 29919,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 29824,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 203836,
+          "sha256": "0178f7b1f2a919207e8d2f5a02e02e0ab55e940488e4708f8bfa0ccfb0a47022",
+          "printable_fraction": 0.006093133695716164,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "P2d",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 203836,
+          "sha256": "cdca1f16ff10e1758d5ec63a5a50efc8026b744d93dc1063b46b859efdac5855",
+          "printable_fraction": 0.005808591220392865,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "\nL&",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 203836,
+          "sha256": "fb8bdda4aff225641e441a17278266e7c6f7587da4fff9b03c4a2d7eba708475",
+          "printable_fraction": 0.0063825820757864166,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "P2d",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 203836,
+          "sha256": "bdfb4a906dcf1f23d56d44627a55b4456d5912ac7af68aa4c596abf320a22c74",
+          "printable_fraction": 0.006608253694146275,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "~pp`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 203836,
+          "sha256": "4e98eb4dc04f770eb299517ea2e87bbd6d96ac56938af2253e00ff5b9f5b58d3",
+          "printable_fraction": 0.006667124551109716,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "P2d",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 203836,
+          "sha256": "cbd3b097ccb0ddda01a4a601dbca9d316ca4cac144f99e8a7135ad252cdf7fe5",
+          "printable_fraction": 0.006765242646048784,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "?8xp",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 203836,
+          "sha256": "fe776fd34c1941ca951fe51ffdd4bdf05b24fe3ef0c2298be22aab17d1c90cc9",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 203836,
+          "sha256": "fe776fd34c1941ca951fe51ffdd4bdf05b24fe3ef0c2298be22aab17d1c90cc9",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 611508,
+          "sha256": "985e1e3934699bc4146c234b980290209a80d4ca265b2a4427774b2fb3cc81f0",
+          "printable_fraction": 0.06549873427657528,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "I)\"K",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 611508,
+          "sha256": "90ba5621b313cd8c56def6349adb13fb4963ea9260f8fd037d3757e5fc52846d",
+          "printable_fraction": 0.06560829948259057,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$II$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 611508,
+          "sha256": "6873dc820a9a82bdbcb2000cededf624029f08c5374ebde34c5b308d617ac62a",
+          "printable_fraction": 0.06748726100067375,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "mmI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 611508,
+          "sha256": "28f163a64e2d62b0c520a1b075da8b5806f95a9f4520d1f9bbfd8d5e67ec118f",
+          "printable_fraction": 0.0662705966234293,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$I$%",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 815344,
+          "sha256": "7aedda2ac96cf9eb3843068ee8468206ef114323de398088e978ad70f53c4a2c",
+          "printable_fraction": 0.003351959418355933,
+          "longest_printable_run_length": 31,
+          "longest_printable_run_preview": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 815344,
+          "sha256": "7cdc1c363aa5b97157a908481f680a4781a923563c9bc9df71fc85d7512411d0",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 203836,
+          "sha256": "6ce9d7b6036a008078a5ef3885c1863f8c3893ee8e4f17281022628257fe8b5f",
+          "printable_fraction": 0.00801624835652191,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "@ @P\"",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 203836,
+          "sha256": "cf0f382f8ddaa6728ee24cc2f5f8b056be2096e2657abc7489b0cf885eab1537",
+          "printable_fraction": 0.0078592594046194,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$ A@",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 203836,
+          "sha256": "c9c472aba65bd475248429368a876ba050adb951cf0eb9441c7c8a9993d71523",
+          "printable_fraction": 0.009556702447065288,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": " @@ ",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 203836,
+          "sha256": "428a44170e9e7a73b09db6b156d32d48f543ad6f907e8168e4dd47895fb34d78",
+          "printable_fraction": 0.00927215997174199,
+          "longest_printable_run_length": 6,
+          "longest_printable_run_preview": " $@B @",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 203836,
+          "sha256": "3b2dfcddc3a1deedc27188155232dc1bf10e992681dc38904016a7e67c3aa764",
+          "printable_fraction": 0.00831550854608607,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": " @\n!",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 203836,
+          "sha256": "4f2a6852d0333f4bcf202c8b90c3229e4bb52550e3cd7c4901393cf4f26e5b14",
+          "printable_fraction": 0.009071017877116897,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "E! @",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 203836,
+          "sha256": "fe776fd34c1941ca951fe51ffdd4bdf05b24fe3ef0c2298be22aab17d1c90cc9",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 203836,
+          "sha256": "fe776fd34c1941ca951fe51ffdd4bdf05b24fe3ef0c2298be22aab17d1c90cc9",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 611508,
+          "sha256": "c247c9deec4d89ce06981855edf1c67b10f6cb42fd6638a01c2ffae66d80da72",
+          "printable_fraction": 0.04964939134075106,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "[[{`",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 611508,
+          "sha256": "947eed1f0d4c5c71dd40b2678469430c783b807f829e95b7327e47b677c3d768",
+          "printable_fraction": 0.0495790733727114,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$I2\t",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 611508,
+          "sha256": "18be02f414b9c1707e0ae05f0330fa9451a13c7bc0e17d871811a582f899559c",
+          "printable_fraction": 0.05080227895628512,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "m$I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 611508,
+          "sha256": "61dfb1c5f6bd46655fcf634049dbb57fda1449dd2da35e457ca98a9dacdae411",
+          "printable_fraction": 0.05009255806955919,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$IJJ",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 815344,
+          "sha256": "85956c186f2e92eb1f07981ff4652832c998c9b054101bec60712cabc040200d",
+          "printable_fraction": 0.004199454463392139,
+          "longest_printable_run_length": 46,
+          "longest_printable_run_preview": "3333333333333333333333333333333333333333333333",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 815344,
+          "sha256": "e48ee6824284663a4e8b50773aca79e19cd7f867e11fbcca70b29cbad3a7df03",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\recovered_puzzle_images\\bodies\\0002_GMD7NXJRDU6NJ6JW7ASKY3JHANSJAEHZ.png",
+    "bytes": 1958,
+    "sha256": "5e8d84b88f8f829428df5d2a8bf36c7268346f169b799ac7570b6223990d204f",
+    "valid_png_signature": true,
+    "width": 350,
+    "height": 350,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "cd2b771a",
+        "calculated_crc32": "cd2b771a",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "952b0e1b",
+        "calculated_crc32": "952b0e1b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 1851,
+        "stored_crc32": "3020b07b",
+        "calculated_crc32": "3020b07b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 1946,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 1851,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 15312,
+          "sha256": "eab5caaa57c3f51ea71868b3073ff27cc2e7c49fcff43a68cf783f0f60770d7d",
+          "printable_fraction": 0.011298328108672937,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 15312,
+          "sha256": "3a4d44d27570a2c58f10ab3a9a1e9698d9c3450a14374b1f9551564d18a7a75e",
+          "printable_fraction": 0.01044932079414838,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 15312,
+          "sha256": "bcfce07fcf0c97b883909fe2f735553571fbfdb68c45218a4ee782085eecbb4c",
+          "printable_fraction": 0.013845350052246604,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 15312,
+          "sha256": "86fbc8d9b4562aa8a8267baa8875176aeb7a4116ef44614de88866005a969421",
+          "printable_fraction": 0.012800417972831766,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 15312,
+          "sha256": "bcfce07fcf0c97b883909fe2f735553571fbfdb68c45218a4ee782085eecbb4c",
+          "printable_fraction": 0.013845350052246604,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 15312,
+          "sha256": "86fbc8d9b4562aa8a8267baa8875176aeb7a4116ef44614de88866005a969421",
+          "printable_fraction": 0.012800417972831766,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 15312,
+          "sha256": "38b47f24a7d38ca91cca2a4740a62f1fc22ff62d863037c71c2d048f07eeb5ef",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 15312,
+          "sha256": "38b47f24a7d38ca91cca2a4740a62f1fc22ff62d863037c71c2d048f07eeb5ef",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 45937,
+          "sha256": "463aa640d707de5c2fdf1d68b3a1f9f47f9ab26f6edfe8f11cfcb817f15bbe6d",
+          "printable_fraction": 0.08398458758734789,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 45937,
+          "sha256": "7f9190ec847385808539b04cf6d7b6b0f55b65f85e2c5c956d29042b15803f9f",
+          "printable_fraction": 0.08394104969850012,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 45937,
+          "sha256": "a8dae5c56a53eed8118af54777486bfa18300e84f238859e7cbffe9d5fa2efd3",
+          "printable_fraction": 0.083962818642924,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 45937,
+          "sha256": "5fb3a6172a0a8ee6184a93b770c7e0569f39d2cd3b8c274e38061816bf94fef9",
+          "printable_fraction": 0.0835492086988702,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 61250,
+          "sha256": "9306cb5f10d3f1f8d9bd75cf68e04f0af5bd507e7982be30b6e5773735f68970",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 61250,
+          "sha256": "9f2e4bff4a78cc26a80932959e54b295e9121f710f94f9e7df24bb26adb82b99",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 15312,
+          "sha256": "151fb257c4c61f9058c002a328cb959808e8fdece3823fc0993eb8735269ebc5",
+          "printable_fraction": 0.011298328108672937,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 15312,
+          "sha256": "7b6fe2cb3935488c639841fec35dc2dd5e3b6565bc5f3373f3c4cb6eaebe080a",
+          "printable_fraction": 0.009992163009404389,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 15312,
+          "sha256": "9b36918abfb39d649431398d335aba87664a0e91b905ac1c016af6cd7a7ad61e",
+          "printable_fraction": 0.012147335423197491,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 15312,
+          "sha256": "72c7b1a63a92c2a679f19f1d2c602beed7b4328e866ee8c5e4b541719d7693f0",
+          "printable_fraction": 0.01116771159874608,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 15312,
+          "sha256": "b903ba42c8734ad857e4da0df636958abe3ebac488e1e1c4021296645d7e983b",
+          "printable_fraction": 0.013845350052246604,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 15312,
+          "sha256": "1f86079c1641e21af208ccc8ce4660253ac781e40e5822df37cfeb8a7c23780f",
+          "printable_fraction": 0.012343260188087775,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 15312,
+          "sha256": "38b47f24a7d38ca91cca2a4740a62f1fc22ff62d863037c71c2d048f07eeb5ef",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 15312,
+          "sha256": "38b47f24a7d38ca91cca2a4740a62f1fc22ff62d863037c71c2d048f07eeb5ef",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 45937,
+          "sha256": "9d8ec01381e4a07d4763cebb7061aca70b06f26049cc1a99508f28bda6689ce1",
+          "printable_fraction": 0.06863748176850905,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 45937,
+          "sha256": "ca600340dc416c611933d9161c81b94851a4b112de0c0ed8c23bb575a2c5fb25",
+          "printable_fraction": 0.06831094760215077,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 45937,
+          "sha256": "c04ee3f3802b8d168ac50e0e6cac9b8af196c0ea470048c336a5dc11b3c75279",
+          "printable_fraction": 0.06857217493523739,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 45937,
+          "sha256": "c837ab4ae4a4a4a5b79aef7ae9412df60aa8fac58cc3094e0ab6e680245ba570",
+          "printable_fraction": 0.06833271654657466,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 61250,
+          "sha256": "f642ee16fb4074f1d1f277c9633505e45cf3cb0a3578b33a4ef06aaa10664289",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 61250,
+          "sha256": "e599f1c200f350e658ddefd9cfdfea6ec888a55bd3c8365b4721588258cb59b3",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\recovered_puzzle_images\\bodies\\0003_S26FBQPCGMOKVJ4AO7EDVLVU2J7UBRIK.png",
+    "bytes": 996,
+    "sha256": "907b489f6e77a828595805d7e370535a0aa85697ca951e0e09553e6c9a3410d2",
+    "valid_png_signature": true,
+    "width": 78,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 5,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "62f9a270",
+        "calculated_crc32": "62f9a270",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 49,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "952b0e1b",
+        "calculated_crc32": "952b0e1b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 70,
+        "type": "IDAT",
+        "length": 902,
+        "stored_crc32": "87bed6ad",
+        "calculated_crc32": "87bed6ad",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 984,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 902,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "46948e6949f3cf3670a99aceb32e3b37c2b2b1c828abd757d10e57a1475c0c4e",
+          "printable_fraction": 0.06158357771260997,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "\"A",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "5f6b2d744af430d7b6cf5db822fd8e810f5e2f864755fc3a1b0450451ef3be21",
+          "printable_fraction": 0.05865102639296188,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": " $",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "b54b34f976d15328b2a2b697d0ad784d6f099949b84c88f3912ff166ea8f5765",
+          "printable_fraction": 0.06304985337243402,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "\r ",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "d9c744730161f0b0146499dff9714a70b59001da3a75ac9f72c1dfd5db864080",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@ ",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "e19154c0dd120b0f3d67307e7572b615cd6c07b4c22df9531dca9d0829345b0b",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "\"x",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "8713125c3314068fb10774cc34249c1f5514b64f987d82dbc5013563a3684cc7",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 682,
+          "sha256": "afce6481f90689ec24105dcc97ab10ae1eabc77a31e306fd65e6d28a6cb09e45",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 682,
+          "sha256": "afce6481f90689ec24105dcc97ab10ae1eabc77a31e306fd65e6d28a6cb09e45",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2047,
+          "sha256": "520d8643ab69187b5080defc935829bd1fae9b5909e59706f682f65e654b4449",
+          "printable_fraction": 0.017586712261846604,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2047,
+          "sha256": "4c95a9f254fa68bc48d56499aaa91deec8c636677d3318609011c77914624309",
+          "printable_fraction": 0.02051783097215437,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "`>",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2047,
+          "sha256": "d58160744bc9bfedc7e1d08780ec4201da628276741172281bc6d99ba5e0e442",
+          "printable_fraction": 0.021983390327308255,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "~F",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2047,
+          "sha256": "3ab06561b7873fe717c50e1a4701a54d0f07f222d9870349d80d82ec02abac14",
+          "printable_fraction": 0.027357107962872496,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "@~b7",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2730,
+          "sha256": "af450488c8a928506c6d0a9b15f8a97f591013dd23a3c58a137db70c4910cb94",
+          "printable_fraction": 0.007692307692307693,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "Q1Q1",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2730,
+          "sha256": "f90cfde1bc08f46db495d59622c7b64968a523217c62bbd33131eed9d860c487",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "f43cac255fd0d9d95f13fb1c567a5031c4a17deec60eaf94e9befff26eece8de",
+          "printable_fraction": 0.051319648093841645,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "0",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "fd807c241d41589a0c9cf0de6481591e599d5cc8feb1bcd430e69f0f2800ed14",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "3ea84559e8969b13c982778a83ecfa9e3e1fe8f4c84bb1c065b47928cb208fe9",
+          "printable_fraction": 0.060117302052785926,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "lC0",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "95857e55d69e6aee2c2952767b90168ec277644daeea9f9fc54bc2b2c5d7eb99",
+          "printable_fraction": 0.06158357771260997,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "p43",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "255f5ea3ba1a4c061ec561c2076981740524c70a367823a15be63dcc3f9e2a46",
+          "printable_fraction": 0.05718475073313783,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "8x",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "b16d11612fb4974e59bc4c4e21d936a0a6aea3d169d42b5634f4f41d0378ea97",
+          "printable_fraction": 0.060117302052785926,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "bC",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 682,
+          "sha256": "afce6481f90689ec24105dcc97ab10ae1eabc77a31e306fd65e6d28a6cb09e45",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 682,
+          "sha256": "afce6481f90689ec24105dcc97ab10ae1eabc77a31e306fd65e6d28a6cb09e45",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2047,
+          "sha256": "7c10cb7fad2df1cce16442b0b0a4bed9f00337345038d43b4aacdb5821a2179c",
+          "printable_fraction": 0.017586712261846604,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "hZ",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2047,
+          "sha256": "c64eeb499d1d97c6c4c8b46dc0f1bd7fdd3f586f87d640609a43d9a55ee1eb65",
+          "printable_fraction": 0.023937469467513434,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "_h",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2047,
+          "sha256": "0d9fd3b1bf2403340e4ae8b199a99b4002b31720caab94ec73fc15b64f9aefd8",
+          "printable_fraction": 0.024425989252564728,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "Z'a;",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2047,
+          "sha256": "6d0bf67a2dd6e8ce76fdf18b56201efa644337816a67cff941f5563153a393b6",
+          "printable_fraction": 0.02882266731802638,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": " go",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2730,
+          "sha256": "ead5b9c9963233bec919f841837d5ede047240ab797a3efb839582d8275680f7",
+          "printable_fraction": 0.006593406593406593,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": ";",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2730,
+          "sha256": "99cba015c7d17de77fbc5154f203a02c5c626fc7715ed01eaf8ffca20671880a",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\recovered_puzzle_images\\bodies\\0004_ODBWMS32GOUQF2MV7JEPFA47H3US6OWB.png",
+    "bytes": 1642,
+    "sha256": "8aad87b987ee7d8ee8c7884ba47abc022cb31753fd1a16a7e59101e50dd4a6f6",
+    "valid_png_signature": true,
+    "width": 79,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "8d3bc94e",
+        "calculated_crc32": "8d3bc94e",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "15284a80",
+        "calculated_crc32": "15284a80",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 1535,
+        "stored_crc32": "b72c5049",
+        "calculated_crc32": "b72c5049",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 1630,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 1535,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "fca378f5fde399498787691ea0bd43c02a76258803822f6e641b10087cfdd775",
+          "printable_fraction": 0.002894356005788712,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "_",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "58671863ee1aa0202c1e96a782a48340d049e9addb3d32e3c4375ecf0340add6",
+          "printable_fraction": 0.004341534008683068,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "h",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "406df7ae3558cd5b94c2615677dfcad5d5d01e14cf0d37607b1adc10722754b4",
+          "printable_fraction": 0.059334298118668596,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "0``",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "c33a9a4e7df4241d2e2eefeb1c324a08ea67662e7a6ff126bebe377c934a064e",
+          "printable_fraction": 0.06367583212735166,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "\r``",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "0140d995c214ca1fc0991b38fbb8687802652c5d098fb5e211238d6d87fc638e",
+          "printable_fraction": 0.06512301013024602,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "p5`P",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "73d4e14a10985081ed82796dcb38e6234b28ceae3ef702a87db57002ff08b81c",
+          "printable_fraction": 0.06222865412445731,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "C``",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2073,
+          "sha256": "523289376bf9fb4e076634c8fe0a50e5af315c52f118cca25f614265e0d2d495",
+          "printable_fraction": 0.5118186203569706,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I%zI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2073,
+          "sha256": "c14aa2f5be07808b29f51537530f3e629a80f84ab3aa77e56a7e88d70a92b4ae",
+          "printable_fraction": 0.5137481910274964,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$IR/I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2073,
+          "sha256": "0075fa8fe5d85046afe5ed203762925115fabd9068ab27fe06d5852cae20582c",
+          "printable_fraction": 0.5123010130246021,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I72I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2073,
+          "sha256": "bb452fb53e1180382d9f7d281437ba87e4fbf49ed6c1fa3cbab2d48d560fe23b",
+          "printable_fraction": 0.5151953690303908,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "$Kv?I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2765,
+          "sha256": "4acf39e3d5feeb42738199cc26d192b15413db4f67820fa7abfe1367e66a2f7a",
+          "printable_fraction": 0.007233273056057866,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "q",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2765,
+          "sha256": "6984ea6a7758b76314face5c65b9e9ac22c6ac2123fbcd96488005577d4b441d",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "adc1981569e6ab800c0227d8ff3f4625d65b8317e85de5c8a73377c446a03665",
+          "printable_fraction": 0.0723589001447178,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "`Dc",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "42179f8acf11820419be8ac6a5b9c2845962e987ea8a8e94493a89d65e51aa13",
+          "printable_fraction": 0.0723589001447178,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "p00",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "fc49c9e2f95b1378f4924d91dccc7fcc28ae4ef4ab7d18f592d57d837c804e39",
+          "printable_fraction": 0.06222865412445731,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "|7pt",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "723cfdf694d762e162e074c5412b489973fa19e58e56d64a35d277f49339e424",
+          "printable_fraction": 0.07525325615050651,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "Xp`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "e5ccb98d6a17f516dab28f9a07406b4f3853972cf24d2957230dc5b71ff088cc",
+          "printable_fraction": 0.06801736613603473,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "00?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "afa4fcb275e739387ce503ca1a80c5af5535e023d9d63ae0945e85a7c553d3c1",
+          "printable_fraction": 0.07670043415340087,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "\rp0",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 691,
+          "sha256": "74ff16487409c7981d620fd1bb65017db3c26a5a60b3aa9c4ccc93e5cbb1197f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2073,
+          "sha256": "369fd4e974faa1711a68e8ad4f1f2375b2c78dfb901be8c258b60f8b85e16ceb",
+          "printable_fraction": 0.04148576941630487,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "@l3",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2073,
+          "sha256": "8d915591a2f8a7b1e095139bc68463b0114738911368fc2d546b091920d37f29",
+          "printable_fraction": 0.039556198745779064,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@?",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2073,
+          "sha256": "ff57d25b63c7b8ce64312dc56178fb50784f22636446bf99561f8d759eadfb70",
+          "printable_fraction": 0.05451037144235408,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "/ce",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2073,
+          "sha256": "f5f9eee26ad44693fde9119652acac040fe0b6c5c7b3c18b6c98b1820d33a9b3",
+          "printable_fraction": 0.04872165943077665,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "@.`;",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2765,
+          "sha256": "06bf9520b983e94a1b66c77bd99d257ffabc51f3e654e7d60dbb4da605eadbd5",
+          "printable_fraction": 0.03508137432188065,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "wW",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2765,
+          "sha256": "69936314627a3fd204bd09bfc107e1f225145684aa14425c4d30631c0bdf8913",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\recovered_puzzle_images\\bodies\\0005_WIZ4WCS375SCARLALU3TH24PVNQM25TH.png",
+    "bytes": 963,
+    "sha256": "ea1cd545040c051a62e7695eb2dd2ad983be26849b54cd686feea12b11f3d203",
+    "valid_png_signature": true,
+    "width": 82,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "5f6bc316",
+        "calculated_crc32": "5f6bc316",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "952b0e1b",
+        "calculated_crc32": "952b0e1b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 856,
+        "stored_crc32": "04ca614e",
+        "calculated_crc32": "04ca614e",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 951,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 856,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "7677fd49665c294e8040baa5bd8f2a305de679120a8eb58a346895b19075ab86",
+          "printable_fraction": 0.005578800557880056,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "|",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "846656563cbae2fea027e26b5fc221c6d5aa1e41336d42636136f24a7b4941b0",
+          "printable_fraction": 0.005578800557880056,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "2bba0bb35b4e1ad94a0ae84b0e0978588252c9a0d26aa929315f2527f718d076",
+          "printable_fraction": 0.061366806136680614,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "0`",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "982afffa6410241731b33f3b50435bfe79c85c6d14c04a476d53eecd7e2e7db2",
+          "printable_fraction": 0.06276150627615062,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "d2a9834de6981ceb078fb870807c4547eeb492822487cd73d8016b72c5c14efb",
+          "printable_fraction": 0.058577405857740586,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "`b`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "9efd1b66a008a7f5c8361252b36179d507ba4360c72ba20614a5477bd44472b7",
+          "printable_fraction": 0.06694560669456066,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "G ",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2152,
+          "sha256": "f9815e4c39a5b14a594430b5efd60784b10160a0326a5ac0ac74f3ce7eba4f3f",
+          "printable_fraction": 0.44144981412639406,
+          "longest_printable_run_length": 6,
+          "longest_printable_run_preview": "I%zI[{",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2152,
+          "sha256": "e7186ad8dd41bdd26a90292d6d71b1855b851417f0ef9ee43f65083b14ff9bb1",
+          "printable_fraction": 0.42797397769516726,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$Ijd",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2152,
+          "sha256": "f52954568c69d152060307f56688f0ef9b3c561db4b1149330bf73fbe593252b",
+          "printable_fraction": 0.43215613382899626,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I72I?",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2152,
+          "sha256": "4d16c1acb4d3f4f9febe5dc3a35300048929ed3c0ffcf27a46017c41f018ab69",
+          "printable_fraction": 0.4368029739776952,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2870,
+          "sha256": "09d4077e0df7f47cb4ff608ad91a0b35a1e51a0419a11e937e2597e8c31678f8",
+          "printable_fraction": 0.011149825783972125,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "w}",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2870,
+          "sha256": "3e84a689b91a132b33f6cc1a7e4c303e102eebe681fc9ca4ad2f023393e7afc2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "535ff6c61b18d9ee6e0885d31e7f47c75bae800f6249b1fa08d0a6edf6f5e55e",
+          "printable_fraction": 0.0697350069735007,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@N",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "c2a00d2242ea87e323f299d0846ba8c9f73fe14f7808ce135d25c7091f348350",
+          "printable_fraction": 0.06694560669456066,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "q8",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "83b2842d40a0c4b4e02774f04eaeac9da6bad70784590ce9147097c1ebd9ef53",
+          "printable_fraction": 0.0599721059972106,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "p@",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "e7f71292bdecce77da43974df63101d729ce68bd9d2be9d9a6bb8f4c77200c00",
+          "printable_fraction": 0.06834030683403068,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "wX",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "e73171eb5dc8c198a841d5ea880feb8dd9e11dbc60f3f9083c79fc4cdbbd0807",
+          "printable_fraction": 0.06415620641562064,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "3361c5c80fb375f8841ecc3d1fcde75ee3ece876e067e0a53f13f15121abda56",
+          "printable_fraction": 0.0697350069735007,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "`;",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2152,
+          "sha256": "6ef07bc3614947b9143432296d3bc82f574e691c27eaf3131341455f661f27dd",
+          "printable_fraction": 0.03066914498141264,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "/o",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2152,
+          "sha256": "9461c2e9ce9236b418e851cfa7bed78c8394c552588c9d555a867da125c7e0af",
+          "printable_fraction": 0.029275092936802975,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "@/",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2152,
+          "sha256": "4184ef6c7b54c041ea6be67b94cfe13c38730c2d49f8b840cdb43fac8d20e80c",
+          "printable_fraction": 0.03485130111524164,
+          "longest_printable_run_length": 3,
+          "longest_printable_run_preview": "?`\t",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2152,
+          "sha256": "0af8c7f7abf7acad3317d0fc88eca7758c7b8a04632ac91a42932bf0dbad7620",
+          "printable_fraction": 0.039962825278810406,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "@V #",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2870,
+          "sha256": "bae5ea64125784fdcc756a6c5e929ae4a605920eb64529827d023bdfb81b1338",
+          "printable_fraction": 0.01602787456445993,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "?Q",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2870,
+          "sha256": "a03fc05a4922ccc1727a9ed69cb27d9eb273bd14c16839cc0b61ce79879f182f",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  },
+  {
+    "file": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\recovered_puzzle_images\\bodies\\0006_KUCVFTBR6U5GRY633V3C6PU4DZRO56EQ.png",
+    "bytes": 783,
+    "sha256": "60b01e5bc4181ed4236df736f7f7841aa98dde1aac108d65a385f5dc7a97cc6b",
+    "valid_png_signature": true,
+    "width": 82,
+    "height": 70,
+    "bit_depth": 8,
+    "color_type": 6,
+    "interlace_method": 0,
+    "chunk_count": 6,
+    "chunks": [
+      {
+        "offset": 8,
+        "type": "IHDR",
+        "length": 13,
+        "stored_crc32": "5f6bc316",
+        "calculated_crc32": "5f6bc316",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 33,
+        "type": "sRGB",
+        "length": 1,
+        "stored_crc32": "aece1ce9",
+        "calculated_crc32": "aece1ce9",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 46,
+        "type": "gAMA",
+        "length": 4,
+        "stored_crc32": "0bfc6105",
+        "calculated_crc32": "0bfc6105",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 62,
+        "type": "pHYs",
+        "length": 9,
+        "stored_crc32": "15284a80",
+        "calculated_crc32": "15284a80",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 83,
+        "type": "IDAT",
+        "length": 676,
+        "stored_crc32": "8d364a3b",
+        "calculated_crc32": "8d364a3b",
+        "crc_valid": true,
+        "text": ""
+      },
+      {
+        "offset": 771,
+        "type": "IEND",
+        "length": 0,
+        "stored_crc32": "ae426082",
+        "calculated_crc32": "ae426082",
+        "crc_valid": true,
+        "text": ""
+      }
+    ],
+    "all_chunk_crcs_valid": true,
+    "textual_chunks": [],
+    "idat_chunk_count": 1,
+    "idat_bytes": 676,
+    "iend_found": true,
+    "trailing_bytes_after_iend": 0,
+    "trailing_sha256": "",
+    "trailing_hex_preview": "",
+    "lsb_bitplane_scan": {
+      "supported": true,
+      "streams": [
+        {
+          "stream": "R-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "39577bcc34f541e094374a931197dc2e6fc309b55a5c27c3efc90814697307e4",
+          "printable_fraction": 0.002789400278940028,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "}",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "b23f3c3dec761b5445e8ebe224519986a358dceb6a994dc44940d20c0f2dd7a5",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "c1e6d5d35d6081a24db0869ee647776dace31ec9874e81268c31c6199d366256",
+          "printable_fraction": 0.0502092050209205,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "08",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "6ccd8ec1fc7f5f77708bc5863fc8032db166b0661b1596ace55b4c7cfc9187d3",
+          "printable_fraction": 0.05160390516039052,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "1p",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "e5e9dc4a8750228225a8448997e4578d3f3e81b9f5f617ede63b6bae6b986a8d",
+          "printable_fraction": 0.05299860529986053,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "p8",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "7e54940d2b30a56a835c6bd1e2cf59c0b977b3f9025fae9e69eb7539974a5390",
+          "printable_fraction": 0.0502092050209205,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "?",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-msb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit0-lsb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-msb-pack",
+          "bytes": 2152,
+          "sha256": "cdc09c6ad22df7b95b18f29d737cc53bcb417f36c8881d9d9fe2ba4ff1e9eb5a",
+          "printable_fraction": 0.44702602230483274,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I%|I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit0-lsb-pack",
+          "bytes": 2152,
+          "sha256": "6d822f4341808c8c83cb385b97f996c64d4565d81658252e28f647799b3b3e52",
+          "printable_fraction": 0.4400557620817844,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-msb-pack",
+          "bytes": 2152,
+          "sha256": "3433986d96f43f6662bb076cb8bf02e7b74a3ffb2edc19dfb29887f7bf8ed290",
+          "printable_fraction": 0.44284386617100374,
+          "longest_printable_run_length": 7,
+          "longest_printable_run_preview": "7pI'~I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit0-lsb-pack",
+          "bytes": 2152,
+          "sha256": "85ce9d0a5ef50039a45f9f2306724aaaa446b7b5076f92e0de4a1b4cc813d744",
+          "printable_fraction": 0.4479553903345725,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "$I",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-msb-pack",
+          "bytes": 2870,
+          "sha256": "e01ad63720c02a3a1d726a67c24d98ad8a0ebb99c31e5d0bc17375d2927589cf",
+          "printable_fraction": 0.0003484320557491289,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "}",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit0-lsb-pack",
+          "bytes": 2870,
+          "sha256": "a908dab0f9161bd25ed45e56834e759f10a5695c21429f1c8904fceddeecb38d",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "dae7b5bea0a1fceece9d89ff3258bbb7a48ed356e757717523f4f284315dd1e6",
+          "printable_fraction": 0.005578800557880056,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "__",
+          "signature_matches": []
+        },
+        {
+          "stream": "R-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "17e40835cdc3902e33a4c3f5055cb3351a36d70dd04e8ebb9429d85fcab175d5",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "a1b886efafd7308142490d33ed91811651f3948210ee45a86f64c7556d5d9128",
+          "printable_fraction": 0.04741980474198047,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "<p",
+          "signature_matches": []
+        },
+        {
+          "stream": "G-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "fc3b3d9e8e23b10b56c808216ff73f83bb697b8294ef32e5339239e57a5649c6",
+          "printable_fraction": 0.05439330543933055,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "1`",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "0b37125f525b1d52587c703d872434f884bae7a01508ca86829653850e336c21",
+          "printable_fraction": 0.04881450488145049,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "00",
+          "signature_matches": []
+        },
+        {
+          "stream": "B-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "fa52277d3e27a76a33ba5cdb206f4c82e21d391a4cb7c0a33571db1bb502190a",
+          "printable_fraction": 0.05160390516039052,
+          "longest_printable_run_length": 2,
+          "longest_printable_run_preview": "00",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-msb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "A-bit1-lsb-pack",
+          "bytes": 717,
+          "sha256": "2fb7768cb4e14e4acfd0e567d10cb82b8a38821249e3f74a4f54a488030915f2",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-msb-pack",
+          "bytes": 2152,
+          "sha256": "0cfb74d0392b915178a245f50533bd732a380837a9afba37693189721d1d5a8a",
+          "printable_fraction": 0.44842007434944237,
+          "longest_printable_run_length": 7,
+          "longest_printable_run_preview": "$}I$}I$",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGB-bit1-lsb-pack",
+          "bytes": 2152,
+          "sha256": "4e74f3a967c22d61e4c1f103c1194ab7748ac104227a3b7cfb0a5d5d5d70ce9d",
+          "printable_fraction": 0.43866171003717475,
+          "longest_printable_run_length": 6,
+          "longest_printable_run_preview": "$Ir/Ib",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-msb-pack",
+          "bytes": 2152,
+          "sha256": "84603de6c4f6d8a495dbbb7cf37a6be9b9d0bc1269ede9ce73c49ea50715065e",
+          "printable_fraction": 0.43866171003717475,
+          "longest_printable_run_length": 5,
+          "longest_printable_run_preview": "I&pI$",
+          "signature_matches": []
+        },
+        {
+          "stream": "BGR-bit1-lsb-pack",
+          "bytes": 2152,
+          "sha256": "deade1ceb04be9a95fc594b8850539af34d9ffd5966fd024441149c9fb6632a7",
+          "printable_fraction": 0.4451672862453532,
+          "longest_printable_run_length": 4,
+          "longest_printable_run_preview": "$I~&",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-msb-pack",
+          "bytes": 2870,
+          "sha256": "9a5f39fd444f6a6477a0f371263236095968c58f34e8b566f77f7122063c16a0",
+          "printable_fraction": 0.004529616724738676,
+          "longest_printable_run_length": 1,
+          "longest_printable_run_preview": "w",
+          "signature_matches": []
+        },
+        {
+          "stream": "RGBA-bit1-lsb-pack",
+          "bytes": 2870,
+          "sha256": "7c99c20fa1ff8769e63dcea2f349048ee9e423d68fea964ea3cf52caef91d436",
+          "printable_fraction": 0,
+          "longest_printable_run_length": 0,
+          "longest_printable_run_preview": "",
+          "signature_matches": []
+        }
+      ],
+      "notable_matches": []
+    }
+  }
+]

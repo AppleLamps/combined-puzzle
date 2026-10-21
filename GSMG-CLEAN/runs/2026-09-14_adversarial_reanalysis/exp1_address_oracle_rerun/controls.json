@@ -1,0 +1,240 @@
+[
+ {
+  "planted_file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_adversarial_reanalysis\\exp1_address_oracle_rerun\\planted\\2026-09-14_m4_zeroing_oracles__candidates.jsonl",
+  "expected_lines": {
+   "477": "1AD2wf",
+   "478": "18Cchrj",
+   "479": "13HGhjk",
+   "480": "1AD2wf",
+   "481": "1GyT5W",
+   "482": "1AD2wf"
+  },
+  "hit_lines": {
+   "477": [
+    "1AD2wf"
+   ],
+   "478": [
+    "18Cchrj"
+   ],
+   "479": [
+    "13HGhjk"
+   ],
+   "480": [
+    "1AD2wf"
+   ],
+   "481": [
+    "1GyT5W"
+   ],
+   "482": [
+    "1AD2wf"
+   ]
+  },
+  "ok": true,
+  "rows": 485,
+  "unique_scalars": 3628
+ },
+ {
+  "planted_file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_adversarial_reanalysis\\exp1_address_oracle_rerun\\planted\\2026-09-14_pointer_selectors__candidates.jsonl",
+  "expected_lines": {
+   "2120": "1AD2wf",
+   "2121": "18Cchrj",
+   "2122": "13HGhjk",
+   "2123": "1AD2wf",
+   "2124": "1GyT5W",
+   "2125": "1AD2wf"
+  },
+  "hit_lines": {
+   "2120": [
+    "1AD2wf"
+   ],
+   "2121": [
+    "18Cchrj"
+   ],
+   "2122": [
+    "13HGhjk"
+   ],
+   "2123": [
+    "1AD2wf"
+   ],
+   "2124": [
+    "1GyT5W"
+   ],
+   "2125": [
+    "1AD2wf"
+   ]
+  },
+  "ok": true,
+  "rows": 2128,
+  "unique_scalars": 14387
+ },
+ {
+  "planted_file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_adversarial_reanalysis\\exp1_address_oracle_rerun\\planted\\2026-09-14_board_shape_sums__all_outputs.jsonl",
+  "expected_lines": {
+   "745": "1AD2wf",
+   "746": "18Cchrj",
+   "747": "13HGhjk",
+   "748": "1AD2wf",
+   "749": "1GyT5W",
+   "750": "1AD2wf"
+  },
+  "hit_lines": {
+   "745": [
+    "1AD2wf"
+   ],
+   "746": [
+    "18Cchrj"
+   ],
+   "747": [
+    "13HGhjk"
+   ],
+   "748": [
+    "1AD2wf"
+   ],
+   "749": [
+    "1GyT5W"
+   ],
+   "750": [
+    "1AD2wf"
+   ]
+  },
+  "ok": true,
+  "rows": 753,
+  "unique_scalars": 8041
+ },
+ {
+  "planted_file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_adversarial_reanalysis\\exp1_address_oracle_rerun\\planted\\2026-09-14_colour_selectors__all_outputs.jsonl",
+  "expected_lines": {
+   "143": "1AD2wf",
+   "144": "18Cchrj",
+   "145": "13HGhjk",
+   "146": "1AD2wf",
+   "147": "1GyT5W",
+   "148": "1AD2wf"
+  },
+  "hit_lines": {
+   "143": [
+    "1AD2wf"
+   ],
+   "144": [
+    "18Cchrj"
+   ],
+   "145": [
+    "13HGhjk"
+   ],
+   "146": [
+    "1AD2wf"
+   ],
+   "147": [
+    "1GyT5W"
+   ],
+   "148": [
+    "1AD2wf"
+   ]
+  },
+  "ok": true,
+  "rows": 151,
+  "unique_scalars": 2015
+ },
+ {
+  "planted_file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_adversarial_reanalysis\\exp1_address_oracle_rerun\\planted\\2026-09-14_keyed_faed__all_outputs.jsonl",
+  "expected_lines": {
+   "94": "1AD2wf",
+   "95": "18Cchrj",
+   "96": "13HGhjk",
+   "97": "1AD2wf",
+   "98": "1GyT5W",
+   "99": "1AD2wf"
+  },
+  "hit_lines": {
+   "94": [
+    "1AD2wf"
+   ],
+   "95": [
+    "18Cchrj"
+   ],
+   "96": [
+    "13HGhjk"
+   ],
+   "97": [
+    "1AD2wf"
+   ],
+   "98": [
+    "1GyT5W"
+   ],
+   "99": [
+    "1AD2wf"
+   ]
+  },
+  "ok": true,
+  "rows": 102,
+  "unique_scalars": 97097
+ },
+ {
+  "planted_file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_adversarial_reanalysis\\exp1_address_oracle_rerun\\planted\\2026-09-14_tail_cipher__all_outputs.jsonl",
+  "expected_lines": {
+   "182": "1AD2wf",
+   "183": "18Cchrj",
+   "184": "13HGhjk",
+   "185": "1AD2wf",
+   "186": "1GyT5W",
+   "187": "1AD2wf"
+  },
+  "hit_lines": {
+   "182": [
+    "1AD2wf"
+   ],
+   "183": [
+    "18Cchrj"
+   ],
+   "184": [
+    "13HGhjk"
+   ],
+   "185": [
+    "1AD2wf"
+   ],
+   "186": [
+    "1GyT5W"
+   ],
+   "187": [
+    "1AD2wf"
+   ]
+  },
+  "ok": true,
+  "rows": 190,
+  "unique_scalars": 13649
+ },
+ {
+  "planted_file": "E:\\rabbit-combined\\GSMG-CLEAN\\runs\\2026-09-14_adversarial_reanalysis\\exp1_address_oracle_rerun\\planted\\2026-09-14_matrixsum_lastwords__all_outputs.jsonl",
+  "expected_lines": {
+   "34861": "1AD2wf",
+   "34862": "18Cchrj",
+   "34863": "13HGhjk",
+   "34864": "1AD2wf",
+   "34865": "1GyT5W",
+   "34866": "1AD2wf"
+  },
+  "hit_lines": {
+   "34861": [
+    "1AD2wf"
+   ],
+   "34862": [
+    "18Cchrj"
+   ],
+   "34863": [
+    "13HGhjk"
+   ],
+   "34864": [
+    "1AD2wf"
+   ],
+   "34865": [
+    "1GyT5W"
+   ],
+   "34866": [
+    "1AD2wf"
+   ]
+  },
+  "ok": true,
+  "rows": 34869,
+  "unique_scalars": 342100
+ }
+]

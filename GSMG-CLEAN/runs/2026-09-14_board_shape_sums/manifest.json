@@ -1,0 +1,31 @@
+{
+ "date": "2026-09-14",
+ "review": "14_CRITICAL_REVIEW_2026-09-14.md move 2 (board shape)",
+ "envelope_bytes_read": 0,
+ "aes_decryptions": 0,
+ "models": [
+  "signed",
+  "unsigned",
+  "colour",
+  "signed_zero5",
+  "unsigned_zero5"
+ ],
+ "shapes": [
+  "6x14",
+  "14x6",
+  "7x12",
+  "12x7"
+ ],
+ "parses": [
+  "84cell",
+  "83cell"
+ ],
+ "controls": {
+  "controls_drawn": 25015,
+  "control_max_score": 4
+ },
+ "oracles": [
+  "dbbi_pattern",
+  "marker_and_prize_addresses"
+ ]
+}

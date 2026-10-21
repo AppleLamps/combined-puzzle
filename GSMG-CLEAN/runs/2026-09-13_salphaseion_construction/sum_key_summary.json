@@ -1,0 +1,8 @@
+{
+  "cases": 16,
+  "unique_letter_outputs": 12,
+  "all_roundtrips": true,
+  "whole_printable_outputs": 0,
+  "whole_utf8_outputs": 0,
+  "conclusion": "No complete readable decimal-byte output; every intermediate retained. This rejects no other alphabet, key derivation or further layer."
+}

@@ -1,0 +1,36 @@
+PROFILE {"tail": "XCPKWGBNAXDGJGDUNNVMPABTAFPAAXMJYLZBUWERDNXYDESKUOBXCAMVDJLQTSGA", "length": 64, "distinct": 24, "ioc": 0.0397, "ioc_diff91": 0.0374, "english_ioc": 0.065, "flat26_ioc": 0.0385, "flat24_ioc": 0.0417}
+SUBSTITUTION {
+ "tail64": {
+  "score": 8,
+  "above": true,
+  "control_max": 7,
+  "text": "ANBIZEXUDAREVERSUUKCBDXTDGBDDACVPQMXSZOJRUAPROHISLXANDCKRVQYTHED"
+ },
+ "diff91": {
+  "score": 8,
+  "above": false,
+  "control_max": 8,
+  "text": "OHSLVANDLGAZQOPHISCABEHTYHCMBKFYQACUMNQVQNTCCOIKUADUJKUUMIVERSAT"
+ },
+ "youwon_tail71": {
+  "score": 7,
+  "above": false,
+  "control_max": 8,
+  "text": "XOIFORSDMQFTNRESHTZTHIRRJYMENBEPMEESYZXWVNIFGUHRSXHGAQIONSDEYJHZ"
+ }
+}
+178 layered outputs
+layered controls: 60, max 2
+  score   2  diff91 num_5 vig_enc  'ATENOGIYNVGWLAJTRESGHDTZBTSCHUPBLGSFCILOLIZSSARU'
+  score   2  diff91 transcript_at484 vig_dec  'IILDQUZHIXKJJXQUMIJIVUKZSBUDCECDINIAKDTVUDJPROEN'
+  score   1  tail64 num_484 vig_enc  'BKTOEKFVEBLKNOHYVRZUTEJXENTEIBQRCPHFYEIVLRBGHIAO'
+  score   1  tail64 num_963 vig_enc  'GISTCJKTDGJJSMGDTQESSJHWJLSJGAVPBUFEDCHAJQGEGNYN'
+  score   1  tail64 num_489 vig_dec  'TUGGOXXFRTVXFYUQFEREGWTKWXGWSOIBPHRSQOVNVETQUAKB'
+  score   1  tail64 arch1539_head beau  'BMFHPCERIVQBVMRSBSFFPMZPNYPROIOEWCCZREJLBQHSRWBY'
+  score   1  tail64 arch1539_at479 beau  'SPTLENDXEBVILPBKNESSOISIUOALEDGVVPLDZLEBQBKGXNBJ'
+  score   1  tail64 transcript_head vig_dec  'EVLYWNKFDGZVVGAQKLHZUWKBAMHMNBEQRSSXUFCKVUTWKEBI'
+  score   1  tail64 transcript_head beau  'WFPCENQVXUBFFUAKQPTBGEQZAOTONZWKJIIDGVYQFGHEQWZS'
+  score   1  tail64 arch_at479_sent beau  'SPTLENDXEBVILPBKNESSOISIUOALEDGVVPLDZLEBQBKGXNBJ'
+planted round-trip: True
+exact oracles: 3 solves + 178 layered, 0 layered hits
+WROTE E:\rabbit-combined\GSMG-CLEAN\runs\2026-09-14_tail_cipher

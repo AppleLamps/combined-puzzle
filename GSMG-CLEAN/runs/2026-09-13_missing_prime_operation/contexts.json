@@ -1,0 +1,781 @@
+[
+  {
+    "id": 1710,
+    "type": "message",
+    "date": "2020-01-14T05:38:06",
+    "date_unixtime": "1578998286",
+    "edited": "2024-04-24T02:58:18",
+    "edited_unixtime": "1713941898",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 4,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Johnny Goodpick",
+            "from_id": "user1438862237",
+            "date": "2026-08-28T04:16:13"
+          },
+          {
+            "from": "Amin SM",
+            "from_id": "user198112358",
+            "date": "2025-02-22T12:13:07"
+          },
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-01-31T12:18:55"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2021,
+    "type": "message",
+    "date": "2020-02-25T13:09:50",
+    "date_unixtime": "1582654190",
+    "from": null,
+    "from_id": "user1084918156",
+    "reply_to_message_id": 2018,
+    "text": "everything is GIVEN",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "everything is GIVEN"
+      }
+    ]
+  },
+  {
+    "id": 4105,
+    "type": "message",
+    "date": "2020-05-21T02:12:59",
+    "date_unixtime": "1590041579",
+    "edited": "2025-12-23T16:20:03",
+    "edited_unixtime": "1766524803",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "First or zero",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "First or zero"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Artem",
+            "from_id": "user904501770",
+            "date": "2025-12-23T16:20:03"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude01",
+        "recent": [
+          {
+            "from": "Dasharo",
+            "from_id": "user8574453747",
+            "date": "2026-01-09T16:30:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6250,
+    "type": "message",
+    "date": "2021-03-05T08:15:26",
+    "date_unixtime": "1614950126",
+    "edited": "2025-09-08T18:16:30",
+    "edited_unixtime": "1757369790",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Infrared",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Infrared"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-08T18:16:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6496,
+    "type": "message",
+    "date": "2021-03-14T05:27:42",
+    "date_unixtime": "1615714062",
+    "edited": "2024-06-07T10:25:20",
+    "edited_unixtime": "1717770320",
+    "from": "Zil",
+    "from_id": "user980067088",
+    "reply_to_message_id": 6495,
+    "text": "I always wonder how when you tell us that someone (or a team) has reached a certain step - you don't necessarily know that :) makes me thinkthis information you get from nginx logs \ud83d\ude01 i'm probably wrong though.. you think someone is very close to finally solving it for good? If I were to ask you, how long do you think this is going to remain unsolved?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I always wonder how when you tell us that someone (or a team) has reached a certain step - you don't necessarily know that :) makes me thinkthis information you get from nginx logs \ud83d\ude01 i'm probably wrong though.. you think someone is very close to finally solving it for good? If I were to ask you, how long do you think this is going to remain unsolved?"
+      }
+    ]
+  },
+  {
+    "id": 6884,
+    "type": "message",
+    "date": "2021-04-01T02:57:38",
+    "date_unixtime": "1617260258",
+    "edited": "2025-02-02T20:11:21",
+    "edited_unixtime": "1738545081",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Hint: \"another door might be found on {1 },{4} ,{21}\"",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Hint: \"another door might be found on {1 },{4} ,{21}\""
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-02-02T20:11:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6891,
+    "type": "message",
+    "date": "2021-04-01T04:06:06",
+    "date_unixtime": "1617264366",
+    "from": "x7x7x7x6",
+    "from_id": "user633059140",
+    "text": "Private key might be found on {30 },{2} ,{77}",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Private key might be found on {30 },{2} ,{77}"
+      }
+    ]
+  },
+  {
+    "id": 6913,
+    "type": "message",
+    "date": "2021-04-01T09:29:41",
+    "date_unixtime": "1617283781",
+    "edited": "2025-08-09T03:30:56",
+    "edited_unixtime": "1754724656",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "R=18\nA=1\nB=2\n\nCould also be 21 or 1812 bit \ud83e\uddd0. Sometimes I'm glad I don't have to solve this puzzle myself.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "R=18\nA=1\nB=2\n\nCould also be 21 or 1812 bit \ud83e\uddd0. Sometimes I'm glad I don't have to solve this puzzle myself."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udd25",
+        "recent": [
+          {
+            "from": "k1ng \ud83d\ude0e",
+            "from_id": "user7363495849",
+            "date": "2025-08-09T03:30:56"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-08-13T20:48:42"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7528,
+    "type": "message",
+    "date": "2021-04-18T14:22:43",
+    "date_unixtime": "1618770163",
+    "from": null,
+    "from_id": "user1783233127",
+    "reply_to_message_id": 6884,
+    "text": "Is this an actual hint we can use please?  I\u2019m asking because it was mentioned on April 1st",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Is this an actual hint we can use please?  I\u2019m asking because it was mentioned on April 1st"
+      }
+    ]
+  },
+  {
+    "id": 7529,
+    "type": "message",
+    "date": "2021-04-18T14:24:13",
+    "date_unixtime": "1618770253",
+    "edited": "2026-07-22T10:09:58",
+    "edited_unixtime": "1784729398",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 7528,
+    "text": "Do you know what usually happens on the first of april?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Do you know what usually happens on the first of april?"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "\ud835\udd3b\ud835\udd56\ud835\udd63S\ud835\udd4b",
+            "from_id": "user697342298",
+            "date": "2026-07-22T10:09:58"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8000,
+    "type": "message",
+    "date": "2021-12-26T15:18:32",
+    "date_unixtime": "1640549912",
+    "edited": "2026-02-15T19:29:51",
+    "edited_unixtime": "1771201791",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! \ud83e\udd42",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! \ud83e\udd42"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\u2764",
+        "recent": [
+          {
+            "from": "Sanad",
+            "from_id": "user8538024691",
+            "date": "2026-06-11T19:10:06"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udd25",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2026-02-15T19:29:51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8330,
+    "type": "message",
+    "date": "2023-01-09T05:10:46",
+    "date_unixtime": "1673259046",
+    "edited": "2025-09-02T19:56:49",
+    "edited_unixtime": "1756857409",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "At least prime number is very important to get any further.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "At least prime number is very important to get any further."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd14",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-09-02T19:56:51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8446,
+    "type": "message",
+    "date": "2023-02-23T18:20:03",
+    "date_unixtime": "1677194403",
+    "edited": "2023-12-02T17:47:40",
+    "edited_unixtime": "1701557260",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 2,
+        "emoji": "\ud83d\udc4d",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-02-03T19:23:49"
+          },
+          {
+            "from": "Jerry",
+            "from_id": "user786391896",
+            "date": "2023-12-02T17:47:40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8607,
+    "type": "message",
+    "date": "2023-06-12T07:30:35",
+    "date_unixtime": "1686569435",
+    "from": null,
+    "from_id": "user724453304",
+    "reply_to_message_id": 8604,
+    "text": "But he didn't harm anyone !",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "But he didn't harm anyone !"
+      }
+    ]
+  },
+  {
+    "id": 9616,
+    "type": "message",
+    "date": "2023-08-06T08:21:37",
+    "date_unixtime": "1691324497",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 9613,
+    "text": "Only fair ones. And to everyone.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Only fair ones. And to everyone."
+      }
+    ]
+  },
+  {
+    "id": 23155,
+    "type": "message",
+    "date": "2024-03-26T11:02:23",
+    "date_unixtime": "1711465343",
+    "edited": "2024-03-26T11:07:50",
+    "edited_unixtime": "1711465670",
+    "from": "Lain",
+    "from_id": "user1472167187",
+    "reply_to_message_id": 23151,
+    "text": [
+      "Tell me one thing, ",
+      {
+        "type": "mention",
+        "text": "@SoWut"
+      },
+      ". Are you a one or a zero? This is the question you need to ask yourself. Are you a yes or a no? Will you act or not? You won't give any hints: you have decided to do nothing, to say no, to be mysterious as usual. You leave, you decided not to give the rose some water it needs. You become a zero, a black rose. If you stay, if you decide to help us, to give us some hints, then you become a yes. You become one. The red rose. So I ask you again: are you one or zero? The red rose or the black one?"
+    ],
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Tell me one thing, "
+      },
+      {
+        "type": "mention",
+        "text": "@SoWut"
+      },
+      {
+        "type": "plain",
+        "text": ". Are you a one or a zero? This is the question you need to ask yourself. Are you a yes or a no? Will you act or not? You won't give any hints: you have decided to do nothing, to say no, to be mysterious as usual. You leave, you decided not to give the rose some water it needs. You become a zero, a black rose. If you stay, if you decide to help us, to give us some hints, then you become a yes. You become one. The red rose. So I ask you again: are you one or zero? The red rose or the black one?"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 3,
+        "emoji": "\ud83e\udd23",
+        "recent": [
+          {
+            "from": "Alex",
+            "from_id": "user276916583",
+            "date": "2025-10-16T09:06:35"
+          },
+          {
+            "from": "Jrk Bgrt",
+            "from_id": "user9815232",
+            "date": "2024-03-26T13:03:42"
+          },
+          {
+            "from": "Zil",
+            "from_id": "user980067088",
+            "date": "2024-03-26T11:07:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23159,
+    "type": "message",
+    "date": "2024-03-26T13:05:05",
+    "date_unixtime": "1711472705",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 23155,
+    "text": "I prefer superpositions \ud83d\ude09.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I prefer superpositions \ud83d\ude09."
+      }
+    ]
+  },
+  {
+    "id": 32600,
+    "type": "message",
+    "date": "2024-11-29T05:43:27",
+    "date_unixtime": "1732877007",
+    "edited": "2024-11-29T05:48:58",
+    "edited_unixtime": "1732877338",
+    "from": "ArchOptic",
+    "from_id": "user6057219919",
+    "text": "What character do I have to imagine myself as?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "What character do I have to imagine myself as?"
+      }
+    ]
+  },
+  {
+    "id": 32613,
+    "type": "message",
+    "date": "2024-11-29T05:47:19",
+    "date_unixtime": "1732877239",
+    "edited": "2024-11-29T05:51:15",
+    "edited_unixtime": "1732877475",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 32600,
+    "text": "I think I'll be going for ASCII 127 myself. But not overly dramatic.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I think I'll be going for ASCII 127 myself. But not overly dramatic."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude01",
+        "recent": [
+          {
+            "from": "silver_anth",
+            "from_id": "user432257224",
+            "date": "2024-11-29T05:51:15"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\udc4c",
+        "recent": [
+          {
+            "from": "Zed Heres",
+            "from_id": "user5661053313",
+            "date": "2025-07-09T16:12:53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32715,
+    "type": "message",
+    "date": "2024-11-29T06:32:02",
+    "date_unixtime": "1732879922",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "text": "Blueprint is sort of the leading list at this point.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Blueprint is sort of the leading list at this point."
+      }
+    ]
+  },
+  {
+    "id": 66556,
+    "type": "message",
+    "date": "2026-07-12T20:30:08",
+    "date_unixtime": "1783902608",
+    "from": "\u03a3\u2e19\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\u1160\u1160\u1160\ud80c\udd88\u20e4",
+    "from_id": "user7731476133",
+    "text": [
+      "You know what. ",
+      {
+        "type": "mention",
+        "text": "@SoWut"
+      },
+      " this isn't a request for a hint but I don't think anyone ever really asked you this publicly. What was your inspiration / desire to create this puzzle?"
+    ],
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "You know what. "
+      },
+      {
+        "type": "mention",
+        "text": "@SoWut"
+      },
+      {
+        "type": "plain",
+        "text": " this isn't a request for a hint but I don't think anyone ever really asked you this publicly. What was your inspiration / desire to create this puzzle?"
+      }
+    ]
+  },
+  {
+    "id": 66557,
+    "type": "message",
+    "date": "2026-07-12T20:30:30",
+    "date_unixtime": "1783902630",
+    "from": "\u03a3\u2e19\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\u1160\u1160\u1160\ud80c\udd88\u20e4",
+    "from_id": "user7731476133",
+    "text": "Or was it just a spur of the moment decision",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Or was it just a spur of the moment decision"
+      }
+    ]
+  },
+  {
+    "id": 66907,
+    "type": "message",
+    "date": "2026-07-16T18:22:21",
+    "date_unixtime": "1784240541",
+    "edited": "2026-07-18T05:56:56",
+    "edited_unixtime": "1784368616",
+    "from": "Thunder",
+    "from_id": "user874768682",
+    "reply_to_message_id": 66906,
+    "text": "Are you planning to start another project after gsmg?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Are you planning to start another project after gsmg?"
+      }
+    ]
+  },
+  {
+    "id": 66916,
+    "type": "message",
+    "date": "2026-07-16T18:28:33",
+    "date_unixtime": "1784240913",
+    "edited": "2026-07-16T18:29:07",
+    "edited_unixtime": "1784240947",
+    "from": "Denis Golovkin",
+    "from_id": "user398109413",
+    "reply_to_message_id": 66914,
+    "text": "Is 4.5 a prime number, btw?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Is 4.5 a prime number, btw?"
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude01",
+        "recent": [
+          {
+            "from": "Spike",
+            "from_id": "user1625609648",
+            "date": "2026-07-16T18:29:07"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66917,
+    "type": "message",
+    "date": "2026-07-16T18:28:53",
+    "date_unixtime": "1784240933",
+    "from": "Spike",
+    "from_id": "user1625609648",
+    "reply_to_message_id": 66916,
+    "text": "I don't think fractions can be prime.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I don't think fractions can be prime."
+      }
+    ]
+  },
+  {
+    "id": 66931,
+    "type": "message",
+    "date": "2026-07-16T18:32:30",
+    "date_unixtime": "1784241150",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 66917,
+    "text": "You have to be in your prime for that.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "You have to be in your prime for that."
+      }
+    ]
+  },
+  {
+    "id": 66938,
+    "type": "message",
+    "date": "2026-07-16T18:36:07",
+    "date_unixtime": "1784241367",
+    "edited": "2026-07-16T19:00:41",
+    "edited_unixtime": "1784242841",
+    "from": "Jrk Bgrt",
+    "from_id": "user9815232",
+    "reply_to_message_id": 66907,
+    "text": "Well. I've been doing this life enjoying project for a while. Quite ego-centric. But in a matrix cypher kinda way I like it.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Well. I've been doing this life enjoying project for a while. Quite ego-centric. But in a matrix cypher kinda way I like it."
+      }
+    ],
+    "reactions": [
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83d\ude01",
+        "recent": [
+          {
+            "from": "3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679",
+            "from_id": "user7895551210",
+            "date": "2026-07-16T19:00:41"
+          }
+        ]
+      },
+      {
+        "type": "emoji",
+        "count": 1,
+        "emoji": "\ud83e\udd1d",
+        "recent": [
+          {
+            "from": "Mike",
+            "from_id": "user8580723420",
+            "date": "2026-07-16T19:10:38"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70258,
+    "type": "message",
+    "date": "2026-08-31T06:15:28",
+    "date_unixtime": "1788171328",
+    "from": "Whore Amazing",
+    "from_id": "user85882326",
+    "text": "But doubt that it's to be used on current stages",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "But doubt that it's to be used on current stages"
+      }
+    ]
+  },
+  {
+    "id": 70262,
+    "type": "message",
+    "date": "2026-08-31T06:40:19",
+    "date_unixtime": "1788172819",
+    "from": "Denis Golovkin",
+    "from_id": "user398109413",
+    "reply_to_message_id": 70258,
+    "text": "There was prertty solid assumption that it's to be used to shift last 3 bits of dbbi's Y/B primes half byte left (in terms of rabbit spiral) to get perfect match of all 23",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "There was prertty solid assumption that it's to be used to shift last 3 bits of dbbi's Y/B primes half byte left (in terms of rabbit spiral) to get perfect match of all 23"
+      }
+    ]
+  }
+]

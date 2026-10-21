@@ -1,0 +1,14 @@
+{
+  "complete_prefix_families": 29,
+  "full_window_comparisons": 940016,
+  "matches": [],
+  "bg_summary": {
+    "prefixes": "bg",
+    "faed_tokens": 451,
+    "faed_symbols": 25,
+    "dbbi_tokens": 64,
+    "dbbi_symbols": 16
+  },
+  "controls_passed": true,
+  "status": "No inference from short words; entire token streams retained"
+}

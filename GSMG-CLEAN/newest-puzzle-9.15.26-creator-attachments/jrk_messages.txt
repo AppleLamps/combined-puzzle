@@ -1,0 +1,1955 @@
+Chat          : GSMG Puzzle Solvers (private_supergroup, id 1166734859)
+Account       : Jrk Bgrt (user9815232)
+Source        : result.json (Telegram Desktop export)
+Chat messages : 62105 total
+Extracted     : 492 text messages
+Date range    : 2019-04-20T12:18:49 .. 2026-09-01T11:41:20
+====================================================================================================
+
+[#74] 2019-04-20 12:18:49
+Ok.. somebody has cracked the first code.
+----------------------------------------------------------------------------------------------------
+[#75] 2019-04-20 12:19:00
+that was way faster than expected.
+----------------------------------------------------------------------------------------------------
+[#77] 2019-04-20 12:21:57
+(edited 2025-05-26 18:52:52 | reactions: 👍 x1)
+The first part. Maybe the puzzle has multiple stages 😉.
+----------------------------------------------------------------------------------------------------
+[#79] 2019-04-20 12:22:36
+It is.
+----------------------------------------------------------------------------------------------------
+[#87] 2019-04-20 12:41:14
+It's a way to protect websites against cross site request forgery but the loadbalancer is a bitch on multiple tries apparently.
+----------------------------------------------------------------------------------------------------
+[#212] 2019-04-22 10:28:08
+(edited 2019-04-22 10:28:11)
+wrong chat RKT 😊
+----------------------------------------------------------------------------------------------------
+[#216] 2019-04-22 10:39:49
+(edited 2024-06-25 04:47:48)
+😂
+----------------------------------------------------------------------------------------------------
+[#225] 2019-04-22 15:48:52
+5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+----------------------------------------------------------------------------------------------------
+[#226] 2019-04-22 15:49:09
+just try hit your options against that hash.
+----------------------------------------------------------------------------------------------------
+[#231] 2019-04-22 17:24:17
+Puzzle token issue for stage 1 seems to be resolved.
+----------------------------------------------------------------------------------------------------
+[#234] 2019-04-22 17:26:42
+(edited 2026-01-03 18:42:37 | reactions: 👍 x1)
+https://passwordsgenerator.net/sha256-hash-generator/
+----------------------------------------------------------------------------------------------------
+[#236] 2019-04-22 17:26:51
+or just get yourself a python script
+----------------------------------------------------------------------------------------------------
+[#239] 2019-04-22 17:28:13
+a sticker
+----------------------------------------------------------------------------------------------------
+[#257] 2019-04-22 18:29:02
+(edited 2025-04-30 18:44:18 | reactions: 👍 x1)
+A hash which we provided as the website was giving a lot of token errors. With this hash the puzzlers can try their passwords instead of firing them at the website.
+----------------------------------------------------------------------------------------------------
+[#325] 2019-04-23 14:57:51
+(edited 2025-04-30 18:46:20 | reactions: 😁 x1)
+Ewout managed to crack the april 1st puzzle. He was the first to solve it.
+----------------------------------------------------------------------------------------------------
+[#518] 2019-04-27 11:46:58
+hahahaha :D
+----------------------------------------------------------------------------------------------------
+[#519] 2019-04-27 11:47:07
+back to the pile!
+----------------------------------------------------------------------------------------------------
+[#550] 2019-04-29 18:35:29
+(edited 2025-04-30 18:50:04 | reactions: 👍 x1)
+I personally don't mind you talkinig in another language in  this chat tbh although I do prefer english to be the standard language as I assume most of us will be able to follow the conversations. The main chat of GSMG is english only.
+----------------------------------------------------------------------------------------------------
+[#660] 2019-05-08 09:20:21
+Apparently somebody managed to get into Phase 3 🧐
+----------------------------------------------------------------------------------------------------
+[#663] 2019-05-08 09:34:39
+Nobody knows
+----------------------------------------------------------------------------------------------------
+[#850] 2019-05-14 10:49:49
+  -> replying to #848 0xColombo (user274980096): Cikada3301 its fake too?)))
+👌
+----------------------------------------------------------------------------------------------------
+[#851] 2019-05-14 10:51:40
+(edited 2025-04-30 18:51:31 | reactions: 😢 x1)
+  -> replying to #849 (not in export)
+Quests might* be scams. We didn't promote this puzzle nor is it unsolvalble. Please enjoy the puzzle or continue your journey.
+----------------------------------------------------------------------------------------------------
+[#855] 2019-05-14 10:53:59
+  -> replying to #853 phacyh (user422483354): @SoWut give me the solution
+Sure, once it's solved.
+----------------------------------------------------------------------------------------------------
+[#859] 2019-05-14 11:01:11
+(edited 2025-04-30 18:52:05 | reactions: 🔥 x1)
+  -> replying to #857 unknown (user750026879): if prize will be halfed each time.. not sure about interest will continue long time..
+I suppose the btc price will be above 10k at the next halving.
+----------------------------------------------------------------------------------------------------
+[#866] 2019-05-17 18:39:21
+(edited 2025-04-30 18:52:47 | reactions: ❤ x2)
+Dear all, somebody pointed out that there might be a mistake in phase III and that is correct unfortunately. The mistake makes it nearly impossible to solve unless you'd know where to add 1 extra character between the 3 answers. My sincerest apologies for this, I'll fix this a soon as I've found a decent spot to do so as I'm on holiday atm. Again, 1000 times sorry, I'm aware I might have wasted a lot of time for some :-(...
+----------------------------------------------------------------------------------------------------
+[#867] 2019-05-17 18:43:46
+(edited 2025-04-30 18:53:20 | reactions: 👍 x1)
+Here's the hint in order to bypass the mistake:
+
+giveit = givetit
+----------------------------------------------------------------------------------------------------
+[#869] 2019-05-17 20:04:04
+(edited 2026-09-04 16:16:25 | reactions: ❤ x1)
+Correct.
+----------------------------------------------------------------------------------------------------
+[#871] 2019-05-17 20:15:22
+(edited 2025-04-30 18:54:37 | reactions: 👍 x1)
+For those feeling bad about having wasted time on my typo. I might feel even worse as I've tested the entire puzzle 3 times with the same string which had the typo in it 😒. I'll kill some braincells tonight with tasteless alcohol in order to forget this blunder.
+----------------------------------------------------------------------------------------------------
+[#874] 2019-05-17 22:30:08
+The issue is within the 3th phase. Not in going from 2 to 3.
+----------------------------------------------------------------------------------------------------
+[#875] 2019-05-17 22:30:34
+(edited 2025-04-30 18:55:15 | reactions: 👍 x1)
+Once you have to work with give(t)it you'll know.
+----------------------------------------------------------------------------------------------------
+[#879] 2019-05-18 12:26:26
+(edited 2025-04-30 18:57:00 | reactions: 😁 x1)
+So, after yesterday's 'hint' a team of puzzlers has made an unbelievable amount of progress in just one day... The progress they made was unforseen as we expected it to take at least a !month! to pass those parts of the puzzle. Hat off for those that managed to puzzle their way through all the ciphers and riddles in this extraordinary pace. We're really impressed by that, actually, we stand in awe for you. Congrats.
+
+To those not having reached Phase III yet, no worries besides a bit of extra pressure. The "last" part of the puzzle will ensure that there's quite some time for you guys to catch up to them... although given their obvious skill this might be solved quicker than expected aswell.. time will tell. Good luck!
+----------------------------------------------------------------------------------------------------
+[#881] 2019-05-18 12:31:02
+(edited 2026-01-03 18:38:08 | reactions: 🤔 x1)
+In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes.
+----------------------------------------------------------------------------------------------------
+[#886] 2019-05-18 12:49:27
+Nope
+----------------------------------------------------------------------------------------------------
+[#887] 2019-05-18 12:50:17
+Part III consist out of a few stages. The last few stages are, how shall I say it, not really easy to solve for most.
+----------------------------------------------------------------------------------------------------
+[#896] 2019-05-18 13:10:46
+No, they reaced out to me on tg and send me proof of them passing the stages.
+----------------------------------------------------------------------------------------------------
+[#898] 2019-05-18 13:13:29
+No hints after stage 2 (except the 't' to fix my stupid mistake)
+----------------------------------------------------------------------------------------------------
+[#950] 2019-05-26 20:25:10
+  -> replying to #949 (not in export)
+Not completely, voice recognition might even work to pass although I'd copy past the answer as it's faster ;-).
+----------------------------------------------------------------------------------------------------
+[#952] 2019-05-26 23:20:49
+(edited 2025-04-30 19:00:42 | reactions: 🤔 x1)
+Ok you found a song. Do have a clue on how to proceed on the webpage?
+----------------------------------------------------------------------------------------------------
+[#961] 2019-05-28 12:45:40
+  -> replying to #958 unknown (user815412073): How many phase in this puzlle?
+Nobody knows.
+----------------------------------------------------------------------------------------------------
+[#978] 2019-05-31 11:02:28
+Now we need a bot here too
+----------------------------------------------------------------------------------------------------
+[#984] 2019-05-31 11:20:06
+[sticker 😂 sticker.webp]
+----------------------------------------------------------------------------------------------------
+[#988] 2019-05-31 11:27:49
+  -> replying to #986 Coinbaas (user166247483): @MissRose_bot this is a nice bot for the chat 👌
+shitcoin
+----------------------------------------------------------------------------------------------------
+[#989] 2019-05-31 11:27:53
+😉
+----------------------------------------------------------------------------------------------------
+[#990] 2019-05-31 11:28:01
+  -> replying to #987 Chris (user507197982): Hi there any news on puzzle?😄
+Well.... yes
+----------------------------------------------------------------------------------------------------
+[#991] 2019-05-31 11:28:28
+Apparently folks found a new piece.
+----------------------------------------------------------------------------------------------------
+[#994] 2019-05-31 11:29:13
+Almost banned for spam 😋
+----------------------------------------------------------------------------------------------------
+[#999] 2019-05-31 11:32:29
+/daysandbox_set safe_hours=720
+----------------------------------------------------------------------------------------------------
+[#1210] 2019-06-27 17:38:51
+(edited 2025-05-26 19:22:42 | reactions: 🤔 x1)
+🌱
+----------------------------------------------------------------------------------------------------
+[#1211] 2019-06-27 17:39:32
+(edited 2025-05-26 19:22:47 | reactions: 🤔 x1)
+🛣
+----------------------------------------------------------------------------------------------------
+[#1416] 2019-08-10 12:50:10
+You'll only know when you've solved that part.
+----------------------------------------------------------------------------------------------------
+[#1448] 2019-09-04 03:58:16
+Still no hints ;-)
+----------------------------------------------------------------------------------------------------
+[#1461] 2019-09-22 18:55:01
+(edited 2024-02-26 09:37:49)
+  -> replying to #1460 unknown (user884485205): Hey, I have a technical question. Would someone please guide me? I just got to phase 2 with aes1 and it says: "Ciphered with aes-256-cbc /w base64 sha-256(pass...
+Found it by now?
+----------------------------------------------------------------------------------------------------
+[#1465] 2019-09-22 19:00:48
+7 parts right?
+----------------------------------------------------------------------------------------------------
+[#1487] 2019-09-26 11:35:24
+(edited 2025-04-30 19:07:20 | reactions: 🤔 x1)
+There may indeed a piece be found outside the main puzzle.
+----------------------------------------------------------------------------------------------------
+[#1537] 2019-10-13 14:38:53
+(edited 2025-04-30 19:07:53 | reactions: 🤔 x2)
+Gsmg.io/puzzle
+----------------------------------------------------------------------------------------------------
+[#1587] 2019-10-31 21:53:04
+Sure, what's the hint?
+----------------------------------------------------------------------------------------------------
+[#1602] 2019-12-03 12:55:55
+(edited 2025-04-30 19:08:43 | reactions: 👍 x1)
+giveit = givetit
+----------------------------------------------------------------------------------------------------
+[#1638] 2019-12-31 05:30:23
+  -> replying to #1632 silver_anth (user432257224): @SoWut any set time for the hint to drop? I have less than two hours till 2020 😎
+Hahaha, you're on it. Not an exact time, but it will be posted in this channel. It's at the start of 2020 indeed, way before the halving.
+----------------------------------------------------------------------------------------------------
+[#1639] 2019-12-31 05:33:29
+(edited 2025-04-30 19:09:33 | reactions: ❤ x1)
+To all you peepz in advance: have a blast in the last part of 2019 and have an even better 2020. Best wishes to you all and good luck with the next puzzle piece(s) in case you manage to find them 😉!
+----------------------------------------------------------------------------------------------------
+[#1647] 2020-01-04 20:01:00
+(edited 2025-04-30 19:10:58 | reactions: 🤔 x1)
+[photo 340x191]
+----------------------------------------------------------------------------------------------------
+[#1648] 2020-01-04 20:01:19
+(edited 2025-04-30 19:09:50 | reactions: 🤔 x1)
+Anybody hungry?
+----------------------------------------------------------------------------------------------------
+[#1651] 2020-01-04 20:01:54
+(edited 2025-04-30 19:11:04 | reactions: 👍 x1)
+No, it's a dessert
+----------------------------------------------------------------------------------------------------
+[#1659] 2020-01-04 20:06:01
+(edited 2025-04-30 19:11:12 | reactions: 😢 x1)
+Note: I might be in a trolling mood.
+----------------------------------------------------------------------------------------------------
+[#1680] 2020-01-12 15:52:32
+  -> replying to #1659 Jrk Bgrt (user9815232) <-- also JRK: Note: I might be in a trolling mood.
+👆
+----------------------------------------------------------------------------------------------------
+[#1703] 2020-01-13 11:40:54
+(edited 2025-04-30 19:12:11 | reactions: 👍 x1)
+Hint to be expected within a few days. Note: not trolling with scripted cake this time.
+----------------------------------------------------------------------------------------------------
+[#1710] 2020-01-14 05:38:06
+(edited 2024-04-24 02:58:18 | reactions: ❤ x4)
+Roses are White but often Red.
+Yellow has a number and so does Blue.
+Go back to the first puzzle piece without further ado.
+
+It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.
+
+Hush hush.
+----------------------------------------------------------------------------------------------------
+[#1711] 2020-01-14 05:38:49
+(edited 2025-04-30 19:12:29 | reactions: 😢 x1)
+Good luck 👍
+----------------------------------------------------------------------------------------------------
+[#1726] 2020-01-27 10:21:35
+  -> replying to #1724 Mr Bloggs (user969034109): Besides the "givetit" mistake, are there any other confirmed spelling/gramatical errors? Phase 3.2 is what I'm talking about..
+Might have been fixed fyi 👆
+----------------------------------------------------------------------------------------------------
+[#1729] 2020-01-27 11:00:04
+Would be nice, not required
+----------------------------------------------------------------------------------------------------
+[#1743] 2020-02-20 10:31:58
+(edited 2025-09-10 19:45:46 | reactions: ❤ x1)
+😎
+[photo 1280x749]
+----------------------------------------------------------------------------------------------------
+[#1753] 2020-02-21 08:03:21
+I'm not the esthetician when it comes to coding 😉
+----------------------------------------------------------------------------------------------------
+[#1758] 2020-02-22 10:19:41
+👋
+----------------------------------------------------------------------------------------------------
+[#1775] 2020-02-22 10:32:30
+Solutions for the first stages can be found online.
+----------------------------------------------------------------------------------------------------
+[#1777] 2020-02-22 10:32:52
+The quickest brain did it within 2 hours if I remember correctly.
+----------------------------------------------------------------------------------------------------
+[#1779] 2020-02-22 10:34:10
+Don't know
+----------------------------------------------------------------------------------------------------
+[#1806] 2020-02-22 11:11:52
+(edited 2025-08-08 09:12:53 | reactions: ❤ x2)
+Typos: Horrible mistakes due to rushed work. I'm 100% to blame for this noobish display of words. No clues to be found in those typos might you wonder 😉.
+----------------------------------------------------------------------------------------------------
+[#1837] 2020-02-22 15:30:18
+Only -41,-17 matters
+----------------------------------------------------------------------------------------------------
+[#1895] 2020-02-25 07:45:53
+(edited 2025-09-26 20:03:01 | reactions: 🤔 x1)
+  -> replying to #1888 (not in export)
+Not sponsored, just see it as a side quest
+----------------------------------------------------------------------------------------------------
+[#2002] 2020-02-25 13:04:46
+  -> replying to #1987 Matt (user252821338): i think @SoWut admin should take care of you
+You are right
+----------------------------------------------------------------------------------------------------
+[#2011] 2020-02-25 13:07:05
+(edited 2020-02-25 13:07:42)
+FA please soften the communication. I like enthusiasm, but don't bring down the vibe. A lot of very smart people have been on this puzzle and put in a lot more effort than 1 can do in a month. Some puzzlers amazed me by being so incredibly fast in some stages.
+----------------------------------------------------------------------------------------------------
+[#2013] 2020-02-25 13:07:19
+(edited 2026-01-31 03:51:18)
+3.2 is a thing btw
+----------------------------------------------------------------------------------------------------
+[#2017] 2020-02-25 13:09:10
+(edited 2025-01-31 12:32:26 | reactions: ❤‍🔥 x1)
+  -> replying to #2016 nieods (user809473266): There's no clear direction on what to do next, and probably invokes time consuming brute force
+Or nobody found the direction
+----------------------------------------------------------------------------------------------------
+[#2020] 2020-02-25 13:09:39
+(edited 2025-09-03 09:52:14 | reactions: 😢 x1)
+But I should shut up ofcourse 😁
+----------------------------------------------------------------------------------------------------
+[#2023] 2020-02-25 13:10:30
+  -> replying to #2021 unknown (user1084918156): everything is GIVEN
+I'd dive in the puzzle from the beginning before making assumptions
+----------------------------------------------------------------------------------------------------
+[#2024] 2020-02-25 13:11:01
+A few guys here cracked phase 2 in 2 days.
+----------------------------------------------------------------------------------------------------
+[#2026] 2020-02-25 13:15:01
+(edited 2025-09-03 09:46:59 | reactions: 🤔 x1)
+Don't know but most see 3.2 as the last part.
+----------------------------------------------------------------------------------------------------
+[#2067] 2020-02-25 13:38:52
+(edited 2025-01-31 12:38:08 | reactions: 😁 x1)
+  -> replying to #2051 nieods (user809473266): Well denial is the most predictable of all human responses
+😂😂😂
+----------------------------------------------------------------------------------------------------
+[#2070] 2020-02-25 13:40:01
+Just spend less time here fishing for clues and solve 🧐
+----------------------------------------------------------------------------------------------------
+[#2244] 2020-02-27 11:06:27
+Nice and silent
+----------------------------------------------------------------------------------------------------
+[#2245] 2020-02-27 11:06:41
+Damn so annoying
+----------------------------------------------------------------------------------------------------
+[#2247] 2020-02-27 11:07:09
+(edited 2025-08-08 09:22:40 | reactions: ❤ x1)
+He'll be back
+----------------------------------------------------------------------------------------------------
+[#2297] 2020-03-16 09:13:31
+(edited 2025-09-03 09:42:06 | reactions: 👍 x1)
+Yeah we might want to push the English only rule here too ;-)
+----------------------------------------------------------------------------------------------------
+[#2905] 2020-03-24 20:19:39
+(edited 2026-05-27 12:35:31)
+  -> replying to #2899 unknown (user750026879): 1. rabbit hole marked (rabbit looking to this point). 2. usual spiral solve showed. 3. rabbit nest is white box at center.
+Interesting 😜
+----------------------------------------------------------------------------------------------------
+[#2910] 2020-03-24 21:02:42
+  -> replying to #2906 Lazy Prophet (user952048031): hello! @SoWut Jrk Bgrt... is the complete pk hidden in the final chapter of this beautiful puzzle or the pk is also divided into pieces and will only get the l...
+Answering that would be too much of a hint.
+----------------------------------------------------------------------------------------------------
+[#2918] 2020-03-24 21:22:40
+  -> replying to #2911 Detective Froz (user231061724): Some people refer to you saying that you confirmed that the PK is in the last cipher of 3.2 decoded. Can you confirm?
+There must at least be something hidden in there.
+----------------------------------------------------------------------------------------------------
+[#3281] 2020-04-06 08:12:03
+No hints 🤓
+----------------------------------------------------------------------------------------------------
+[#3338] 2020-04-08 14:38:10
+Those hints are the last hints. Although I can say that one team managed to find something... something others haven't yet found (unless they didn't tell us).
+----------------------------------------------------------------------------------------------------
+[#3340] 2020-04-08 15:01:53
+That would be another hint.
+----------------------------------------------------------------------------------------------------
+[#3342] 2020-04-08 15:12:53
+there are errors?
+----------------------------------------------------------------------------------------------------
+[#3345] 2020-04-08 15:16:14
+Before you send anything. No hints; errors and typos are mostly not intended 😄
+----------------------------------------------------------------------------------------------------
+[#3348] 2020-04-08 15:27:23
+well, I'll just wait until you guys have progressed to "the next stage or something like that"😁
+----------------------------------------------------------------------------------------------------
+[#3365] 2020-04-08 16:12:57
+  -> replying to #3350 Tracer (user713273879): We should call it the after stage then 😄
+the backstage 😎
+----------------------------------------------------------------------------------------------------
+[#3369] 2020-04-08 16:16:02
+obviously a typo
+----------------------------------------------------------------------------------------------------
+[#3370] 2020-04-08 16:17:30
+Rushed work. I take all the blame there is for those 😞. My sincerest apologies.
+----------------------------------------------------------------------------------------------------
+[#3371] 2020-04-08 16:17:43
+Hope it hasn't spoiled the fun so far.
+----------------------------------------------------------------------------------------------------
+[#3373] 2020-04-08 16:19:06
+(edited 2020-04-08 16:19:28)
+I can't even write without typo's. The intelligence is an illusion.
+----------------------------------------------------------------------------------------------------
+[#3375] 2020-04-08 16:19:36
+But thanks nevertheless.
+----------------------------------------------------------------------------------------------------
+[#3384] 2020-04-08 16:27:08
+Quite some typos have been changed already. The biggest blunder so far in the mainline of the puzzle was givetit instead of giveit 😩🔨
+----------------------------------------------------------------------------------------------------
+[#3386] 2020-04-08 16:28:48
+What impressed me most so far was that 1 crew even managed to pass it while the typo was unknown.
+----------------------------------------------------------------------------------------------------
+[#3390] 2020-04-08 16:33:39
+(edited 2025-01-31 18:29:34 | reactions: 👍 x2, ❤ x1)
+Humph. Hope, it is the quintessential human delusion, simultaneously the source of your greatest strength, and your greatest weakness.
+----------------------------------------------------------------------------------------------------
+[#3391] 2020-04-08 16:33:48
+(not a hint btw, just fooling around)
+----------------------------------------------------------------------------------------------------
+[#3395] 2020-04-08 16:39:11
+  -> replying to #3394 Lazy Prophet (user952048031): and thousands of reasons to proceed....
+like 5 thousand milibitcoin...?
+----------------------------------------------------------------------------------------------------
+[#3404] 2020-04-08 16:51:58
+(edited 2025-09-21 15:35:54 | reactions: 🔥 x1)
+And Oen
+----------------------------------------------------------------------------------------------------
+[#3478] 2020-04-11 15:52:20
+♟
+----------------------------------------------------------------------------------------------------
+[#3615] 2020-04-29 13:18:49
+  -> replying to #3613 x7x7x7x6 (user633059140): let me guess: because it`s unknown?
+👆
+----------------------------------------------------------------------------------------------------
+[#3860] 2020-05-11 12:42:26
+[ANIMATION: giphy.mp4, 2s]
+----------------------------------------------------------------------------------------------------
+[#3876] 2020-05-11 13:07:48
+  -> replying to #3863 Trin (user293334370): So what are you going to do with the 2.5btc after the halving? @SoWut another puzzle? 😁
+Invest it in bitconnect.
+----------------------------------------------------------------------------------------------------
+[#3902] 2020-05-11 15:26:40
+  -> replying to #3901 x7x7x7x6 (user633059140): the half of prize went to better half
+Well spotted
+----------------------------------------------------------------------------------------------------
+[#3903] 2020-05-11 15:26:51
+Happy halving!
+----------------------------------------------------------------------------------------------------
+[#3905] 2020-05-11 15:31:00
+(edited 2026-02-02 05:54:13)
+It'll high likely be worth more than it once the price was 5 btc. Next halving in 209999
+----------------------------------------------------------------------------------------------------
+[#3923] 2020-05-11 16:31:25
+(edited 2024-12-23 04:22:01)
+Let's see what bitcoin is worth the next halving and who knows what you'll find after opening the 2nd door. The price is in half, but what does it mean 🤔.
+----------------------------------------------------------------------------------------------------
+[#4094] 2020-05-20 18:54:11
+  -> replying to #4076 Timofey Bondarenko (user1027386051): The January hint is missing on github, isn't it?
+It is
+----------------------------------------------------------------------------------------------------
+[#4096] 2020-05-20 19:36:55
+(edited 2025-12-23 14:43:42 | reactions: ❤ x1)
+  -> replying to #1710 Jrk Bgrt (user9815232) <-- also JRK: Roses are White but often Red. Yellow has a number and so does Blue. Go back to the first puzzle piece without further ado. It might have shown you only one do...
+This one 👆.
+----------------------------------------------------------------------------------------------------
+[#4102] 2020-05-20 22:40:46
+answer is there
+----------------------------------------------------------------------------------------------------
+[#4105] 2020-05-21 02:12:59
+(edited 2025-12-23 16:20:03 | reactions: ❤ x1, 😁 x1)
+First or zero
+----------------------------------------------------------------------------------------------------
+[#4266] 2020-05-23 08:29:12
+Thanks @EwoutM, I fell asleep.
+----------------------------------------------------------------------------------------------------
+[#4272] 2020-05-23 09:40:20
+/goodbye off
+----------------------------------------------------------------------------------------------------
+[#4274] 2020-05-23 09:40:29
+/cleanwelcome on
+----------------------------------------------------------------------------------------------------
+[#4307] 2020-05-23 15:51:51
+  -> replying to #3863 Trin (user293334370): So what are you going to do with the 2.5btc after the halving? @SoWut another puzzle? 😁
+I have a purpose now. Buy a dosis of super covid-20 for every spammer.
+----------------------------------------------------------------------------------------------------
+[#4309] 2020-05-23 15:53:42
+Perfect
+----------------------------------------------------------------------------------------------------
+[#4310] 2020-05-23 15:53:55
+Make it very contagious please.
+----------------------------------------------------------------------------------------------------
+[#4314] 2020-05-23 16:01:14
+/lock audio bot button command contact document email emojigame forward game invitelink location phone poll rtl sticker url video videonote voice
+----------------------------------------------------------------------------------------------------
+[#4316] 2020-05-23 16:01:44
+(edited 2023-12-18 01:18:09)
+😇
+----------------------------------------------------------------------------------------------------
+[#4363] 2020-05-24 22:17:02
+(edited 2026-02-07 19:28:20 | reactions: 🤔 x1)
+I think a computer would beat me in the turing test.
+----------------------------------------------------------------------------------------------------
+[#4548] 2020-06-30 19:29:05
+(edited 2024-04-07 19:08:42)
+  -> replying to #4545 Zil (user980067088): No, the puzzle begins with a drunk rabit he got himself into a hole he can't get out from :D
+👆
+----------------------------------------------------------------------------------------------------
+[#4589] 2020-08-02 12:54:57
+Or the same puzzle, or just not at all 🤷‍♀.
+----------------------------------------------------------------------------------------------------
+[#4590] 2020-08-02 12:56:20
+Really nobody managed to find the extra door, didn't expect that after the earlier pace of cracking things.
+----------------------------------------------------------------------------------------------------
+[#4597] 2020-08-03 08:46:06
+A few here know
+----------------------------------------------------------------------------------------------------
+[#4603] 2020-08-03 11:17:43
+(edited 2025-08-06 00:58:38 | reactions: 🔥 x2)
+It's ok, more chance for those that aren't running. We said we'd do this from the start, no need to feel bad about this.
+----------------------------------------------------------------------------------------------------
+[#4624] 2020-08-09 06:38:27
+a private key
+----------------------------------------------------------------------------------------------------
+[#4647] 2020-08-10 12:50:52
+Cracking ethereum requires billions of ether.
+----------------------------------------------------------------------------------------------------
+[#4688] 2020-08-12 09:10:55
+Indeed remarkable with the hints stating the path pretty obvious...
+----------------------------------------------------------------------------------------------------
+[#4693] 2020-08-12 14:22:59
+No hints
+----------------------------------------------------------------------------------------------------
+[#4694] 2020-08-12 14:23:21
+There's 1 club that passed but they are stuck in the next phase.
+----------------------------------------------------------------------------------------------------
+[#4696] 2020-08-12 15:18:55
+Correct
+----------------------------------------------------------------------------------------------------
+[#4771] 2020-10-01 08:41:56
+I've just been notified that number 2 has made it to the next stage.
+----------------------------------------------------------------------------------------------------
+[#4912] 2020-10-27 04:58:39
+(edited 2026-05-04 09:19:05 | reactions: 🤔 x1)
+  -> replying to #4901 Zil (user980067088): how come you haven't solved it yet
+https://www.blockchain.com/btc/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe price is indeed still there.
+----------------------------------------------------------------------------------------------------
+[#5069] 2020-11-24 13:02:48
+We have our reasons halving the price money at every bitcoin halving event :-).
+----------------------------------------------------------------------------------------------------
+[#5071] 2020-11-24 14:02:23
+Who knows, maybe even in the same block.
+----------------------------------------------------------------------------------------------------
+[#5251] 2020-12-26 06:54:18
+Thanks
+----------------------------------------------------------------------------------------------------
+[#5365] 2021-01-07 14:57:32
+It'll be split on the next halving.
+----------------------------------------------------------------------------------------------------
+[#5368] 2021-01-07 14:58:45
+We mentioned this at the beginning, when the puzzle started.
+----------------------------------------------------------------------------------------------------
+[#5370] 2021-01-07 14:59:38
+  -> replying to #5369 Detective Froz (user231061724): Wow, do you expect the puzzle would not be solved within the next ~3 years?
+Depends on the contestants' puzzle skills.
+----------------------------------------------------------------------------------------------------
+[#5375] 2021-01-07 16:58:17
+  -> replying to #5372 unknown (user871228632): Where?
+Tg channel
+----------------------------------------------------------------------------------------------------
+[#5672] 2021-01-18 09:41:23
+(edited 2025-09-07 15:16:38 | reactions: 🫡 x1)
+  -> replying to #5668 unknown (user689225742): I think he is puzzle creator fake account. Trying to push someone to solve and share the gsmg platform. Just for interaction maybe
+I can solemnly promise you I'm not using any other accounts besides my own.
+----------------------------------------------------------------------------------------------------
+[#5677] 2021-01-19 13:12:59
+From now on no more begging for money in exchange for "hints". Doing so results in a ban. Measure in place due to many complaints.
+----------------------------------------------------------------------------------------------------
+[#5678] 2021-01-19 13:14:14
+(edited 2025-12-29 14:19:13)
+This puzzle is supposed to be fun ✌️.
+----------------------------------------------------------------------------------------------------
+[#5684] 2021-01-19 16:39:00
+(edited 2025-02-01 20:16:53 | reactions: 🔥 x1)
+I'll offer free hints in PM. (After you've paid me 5.1 btc 🤡).
+----------------------------------------------------------------------------------------------------
+[#5685] 2021-01-19 16:39:13
+(edited 2025-09-08 18:38:12 | reactions: ❤ x1)
+Good luck again.
+----------------------------------------------------------------------------------------------------
+[#5717] 2021-01-21 06:35:49
+(edited 2025-02-01 20:18:34 | reactions: 😨 x1)
+  -> replying to #5715 (not in export)
+Not to give any hints but a few might not require the internet anymore.
+----------------------------------------------------------------------------------------------------
+[#5960] 2021-03-01 06:33:17
+  -> replying to #5952 Janusz Baran (user394589394): someone from england or america is here ? this is old talk, now is FORTY but hundred FOUR = 104 is the fefefe square fefefe is 101 010
+Ancient spelling 😅. One of the many many typos.
+----------------------------------------------------------------------------------------------------
+[#5966] 2021-03-01 06:34:42
+(edited 2025-09-08 18:33:25 | reactions: 🫡 x1)
+You are at the prime part already???
+----------------------------------------------------------------------------------------------------
+[#5969] 2021-03-01 06:35:15
+Oh wait, shouldn't have said that. That might have been a hint 🤔.
+----------------------------------------------------------------------------------------------------
+[#5982] 2021-03-01 06:38:37
+(edited 2025-09-08 18:32:55 | reactions: 😁 x1)
+Rumour has it I'm an admin at least.
+----------------------------------------------------------------------------------------------------
+[#6025] 2021-03-01 06:45:48
+[sticker 🤷‍♂️ AnimatedSticker.tgs]
+----------------------------------------------------------------------------------------------------
+[#6243] 2021-03-05 08:14:28
+(edited 2025-07-10 09:18:11)
+  -> replying to #6201 Alex (user690769341): Author just wasted a huge amount of time of people
+Those not enjoying the puzzle are the ones wasting time I guess 😅?
+----------------------------------------------------------------------------------------------------
+[#6250] 2021-03-05 08:15:26
+(edited 2025-09-08 18:16:30 | reactions: 🤔 x1)
+Infrared
+----------------------------------------------------------------------------------------------------
+[#6252] 2021-03-05 08:15:45
+(edited 2025-09-08 18:17:02 | reactions: 🤡 x1)
+No hints 🤡
+----------------------------------------------------------------------------------------------------
+[#6491] 2021-03-14 01:58:08
+(edited 2026-07-06 23:27:28)
+Fyi. Another person (or team) made it to salph.
+----------------------------------------------------------------------------------------------------
+[#6495] 2021-03-14 05:25:14
+  -> replying to #6493 Zil (user980067088): Salph? You trolling us? :))
+Nope
+----------------------------------------------------------------------------------------------------
+[#6497] 2021-03-14 05:45:01
+(edited 2025-06-26 04:42:30 | reactions: ❤ x1, 🤔 x1)
+  -> replying to #6496 Zil (user980067088): I always wonder how when you tell us that someone (or a team) has reached a certain step - you don't necessarily know that :) makes me thinkthis information yo...
+I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solved not too long after that. When people progress in salphation it might be cracked pretty soon. Breaking salphation, should be giving the feeling of the phase's name. Won't be easy but I've noticed how clever most of you are so I assume it will be cracked at some point, probably before next halving.
+----------------------------------------------------------------------------------------------------
+[#6509] 2021-03-14 11:19:29
+  -> replying to #6508 unknown (user419791047): So don't you think it's time for a hint on matrixsumlist?
+I gave an unforseen hint already 🤷‍♂
+----------------------------------------------------------------------------------------------------
+[#6514] 2021-03-15 03:16:26
+(edited 2025-03-27 05:24:01 | reactions: 🤔 x1)
+Hush hush
+----------------------------------------------------------------------------------------------------
+[#6541] 2021-03-19 07:07:55
+If know about 3 people/teams.
+----------------------------------------------------------------------------------------------------
+[#6543] 2021-03-19 07:19:59
+4*
+----------------------------------------------------------------------------------------------------
+[#6712] 2021-03-22 12:53:39
+(edited 2026-05-06 07:46:41)
+Nr 5 in salph
+----------------------------------------------------------------------------------------------------
+[#6767] 2021-03-24 18:19:43
+  -> replying to #6766 nieods (user809473266): I’m trying to free your mind, you. But I can only show you the door. You’re the one that has to walk through it. You have to let it all go. Fear, doubt, and di...
+🤣
+----------------------------------------------------------------------------------------------------
+[#6846] 2021-03-27 09:37:10
+  -> replying to #6845 Org0 (user340325111): this requires a lot of LSD
+Maybe combine it with some psilocybe azurescens and mao inhibitors or go all  the way with some 5-MeO-DMT. 👀
+----------------------------------------------------------------------------------------------------
+[#6847] 2021-03-27 09:39:51
+[ANIMATION: mp4.mp4, 3s]
+----------------------------------------------------------------------------------------------------
+[#6884] 2021-04-01 02:57:38
+(edited 2025-02-02 20:11:21 | reactions: 🤔 x1)
+Hint: "another door might be found on {1 },{4} ,{21}"
+----------------------------------------------------------------------------------------------------
+[#6895] 2021-04-01 04:34:22
+  -> replying to #6891 x7x7x7x6 (user633059140): Private key might be found on {30 },{2} ,{77}
+Good one V ;-). (Assuming you played cyberpunk).
+----------------------------------------------------------------------------------------------------
+[#6913] 2021-04-01 09:29:41
+(edited 2025-08-09 03:30:56 | reactions: 🔥 x1, 🤔 x1)
+R=18
+A=1
+B=2
+
+Could also be 21 or 1812 bit 🧐. Sometimes I'm glad I don't have to solve this puzzle myself.
+----------------------------------------------------------------------------------------------------
+[#6944] 2021-04-01 10:06:39
+  -> replying to #6943 nieods (user809473266): Probably best to start at the beginning to understand the mindset behind it
+👆
+----------------------------------------------------------------------------------------------------
+[#7028] 2021-04-02 16:18:22
+  -> replying to #7025 unknown (user1760549311): My link has been deleted? It was definitely not spam. Rather a personal opinion that can be easily disregarded. Well, no problem at all 👍
+I haven't deleted it. Not sure who, but I noticed some more messages are deleted from time to time.
+----------------------------------------------------------------------------------------------------
+[#7060] 2021-04-03 11:51:32
+  -> replying to #7057 Hii (user1465192424): Who is the maker of this puzzle? Present on this telegram channel?
+Nobody knows
+----------------------------------------------------------------------------------------------------
+[#7061] 2021-04-03 11:52:35
+I've been pretending to be one of the few creators for a while now.
+----------------------------------------------------------------------------------------------------
+[#7152] 2021-04-06 10:08:39
+Some parts of cicada puzzles are still unsolved. Must be bad design.
+----------------------------------------------------------------------------------------------------
+[#7153] 2021-04-06 10:09:36
+  -> replying to #7142 (not in export)
+If it were just about having fun, that'd be great wouldn't it :-).
+----------------------------------------------------------------------------------------------------
+[#7224] 2021-04-09 15:46:38
+  -> replying to #7223 Trin (user293334370): false
+✅
+----------------------------------------------------------------------------------------------------
+[#7244] 2021-04-10 13:49:28
+Fyi, another person or team reached salph today.
+----------------------------------------------------------------------------------------------------
+[#7381] 2021-04-16 07:14:33
+Blame noted and accepted
+----------------------------------------------------------------------------------------------------
+[#7385] 2021-04-16 07:20:09
+  -> replying to #7383 Hii (user1465192424): That and without a halfing of the prize xD
+Deal, we'll take of 75% instead 😈.
+----------------------------------------------------------------------------------------------------
+[#7388] 2021-04-16 07:21:12
+(edited 2026-07-14 21:53:57)
+https://www.bitcoinblockhalf.com/
+----------------------------------------------------------------------------------------------------
+[#7396] 2021-04-16 07:33:32
+  -> replying to #7389 (not in export)
+I don't care who shares what indeed, too much of a hassle. As long as people enjoy and that the best puzzler gets the price I'm ok with a lot.
+----------------------------------------------------------------------------------------------------
+[#7418] 2021-04-16 08:08:24
+(edited 2025-01-24 04:09:51)
+  -> replying to #7416 RB (user737261554): Just do what is told all the time over and over. Go to the first puzzle piece (image) and hash all the text you see. But mind that the author is a bit picky wh...
+Good point
+----------------------------------------------------------------------------------------------------
+[#7520] 2021-04-18 13:33:41
+  -> replying to #7517 Hii (user1465192424): Saber is puzzle creator I suspect
+I suspect he isn't
+----------------------------------------------------------------------------------------------------
+[#7529] 2021-04-18 14:24:13
+(edited 2026-07-22 10:09:58 | reactions: ❤ x1)
+  -> replying to #7528 unknown (user1783233127): Is this an actual hint we can use please? I’m asking because it was mentioned on April 1st
+Do you know what usually happens on the first of april?
+----------------------------------------------------------------------------------------------------
+[#7830] 2021-08-10 16:51:12
+  -> replying to #7826 Detective Froz (user231061724): Hackers would not help here. Puzzle creators do not store the private key online 😉
+Technically we do 😁
+----------------------------------------------------------------------------------------------------
+[#7832] 2021-08-11 06:55:52
+(edited 2026-01-06 17:05:22 | reactions: 🤔 x1)
+  -> replying to #7831 Detective Froz (user231061724): Do you mean the encrypted private key stored online?
+The one to be found by solving the puzzle yes
+----------------------------------------------------------------------------------------------------
+[#7834] 2021-08-11 07:07:15
+(edited 2026-01-06 17:06:38 | reactions: 🫡 x1)
+And the solver will find a way to 'decrypt' it.
+----------------------------------------------------------------------------------------------------
+[#7886] 2021-09-23 19:38:41
+(edited 2026-01-15 19:42:46)
+https://blockchair.com/tools/halving-countdown
+----------------------------------------------------------------------------------------------------
+[#7889] 2021-09-24 05:37:18
+  -> replying to #7888 SlobaDoba (user1483942636): Is that a hint? 😂
+This was alcohol talking last night. The topic puzzle came up, and couldn't resist posting it 😅.
+----------------------------------------------------------------------------------------------------
+[#7891] 2021-09-24 06:01:15
+That's not mine
+----------------------------------------------------------------------------------------------------
+[#7906] 2021-10-31 07:08:49
+(edited 2026-01-03 11:59:49 | reactions: ❤ x1)
+😅
+----------------------------------------------------------------------------------------------------
+[#7914] 2021-12-02 22:41:18
+  -> replying to #7913 unknown (user750026879): give a hint, pls, with the first day of winter 2021-2022 :) omikron collapse a time to solve.
+There is
+Another
+D
+O
+O
+R
+----------------------------------------------------------------------------------------------------
+[#7915] 2021-12-02 22:46:25
+  -> replying to #7892 Zil (user980067088): Can we expect a new hint for Christmas this year? You get drunk, we get some new ways to think about this puzzle. Win-win situation 😁
+Remind me when it's Christmas.
+----------------------------------------------------------------------------------------------------
+[#7998] 2021-12-26 15:11:26
+Oh well, why not. A mini mini hint. Ready 🐰?
+----------------------------------------------------------------------------------------------------
+[#8000] 2021-12-26 15:18:32
+(edited 2026-02-15 19:29:51 | reactions: ❤ x1, 🔥 x1)
+The previous "there is another door hint" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! 🥂
+----------------------------------------------------------------------------------------------------
+[#8034] 2021-12-30 19:39:11
+  -> replying to #8033 Zil (user980067088): @SoWut have the Wachowskis invited you to take part in the making of Matrix 4? :D
+...how did you found out?
+----------------------------------------------------------------------------------------------------
+[#8036] 2021-12-30 19:42:43
+  -> replying to #8035 Zil (user980067088): a hunch. I mean they probably attempted to solve the GSMG puzzle and realised they knew less about the matrix than you :)
+That leaves me positively speechless
+----------------------------------------------------------------------------------------------------
+[#8038] 2021-12-30 19:45:53
+Rumour has it, it is was done before dawn.
+----------------------------------------------------------------------------------------------------
+[#8040] 2021-12-30 19:46:44
+This was stated after drinking dozers stuff.
+----------------------------------------------------------------------------------------------------
+[#8042] 2021-12-30 19:47:07
+(edited 2026-05-19 02:46:06)
+  -> replying to #8039 Zil (user980067088): you mean before they scorched the sky
+😁
+----------------------------------------------------------------------------------------------------
+[#8048] 2021-12-31 12:14:55
+  -> replying to #8045 Lazy Prophet (user952048031): yeah.. agree with this @SoWut i also want to ask questions like, how old are you? or are you married? or what is the pk of the puzzle address? 🤔
+The only date I give away is the expiry date of neo's passport.
+----------------------------------------------------------------------------------------------------
+[#8140] 2022-05-25 06:22:06
+(edited 2025-12-29 02:53:11 | reactions: 😁 x1)
+[ANIMATION: animation.gif.mp4, 3s]
+----------------------------------------------------------------------------------------------------
+[#8142] 2022-05-25 10:25:33
+Looks like somebody found a gsmg subscription.
+----------------------------------------------------------------------------------------------------
+[#8189] 2022-06-01 12:56:24
+👽
+----------------------------------------------------------------------------------------------------
+[#8288] 2022-09-06 05:21:52
+[ANIMATION: animation.gif.mp4, 1s]
+----------------------------------------------------------------------------------------------------
+[#8301] 2022-12-02 07:14:53
+It is meant to be solved.
+----------------------------------------------------------------------------------------------------
+[#8307] 2022-12-02 07:36:36
+There might be a hint coming but not too soon.
+----------------------------------------------------------------------------------------------------
+[#8309] 2022-12-02 17:45:40
+  -> replying to #8308 Alex (user690769341): What is easier? To find the answer to this puzzle or to discover the physics Theory of Everything?
+I'm not exactly sure how long it would take to discover that theory so I can't really tell 🤔.
+----------------------------------------------------------------------------------------------------
+[#8311] 2022-12-11 10:30:38
+  -> replying to #8310 barrystyle (user925838121): [FILE: image_2022-12-11_07-09-14.png]
+.... That is very specific
+----------------------------------------------------------------------------------------------------
+[#8315] 2022-12-11 10:33:20
+(edited 2025-09-02 20:03:35 | reactions: 🤔 x1)
+If the puzzle is solved you'll see how scary specific that is 😂
+----------------------------------------------------------------------------------------------------
+[#8328] 2023-01-08 23:52:11
+@barrystyle, provided a very specific hint already.
+----------------------------------------------------------------------------------------------------
+[#8330] 2023-01-09 05:10:46
+(edited 2025-09-02 19:56:49 | reactions: 🤔 x1)
+At least prime number is very important to get any further.
+----------------------------------------------------------------------------------------------------
+[#8339] 2023-01-11 03:45:22
+(edited 2025-02-04 17:06:43 | reactions: 👍 x1)
+  -> replying to #8333 Jerry (user786391896): C'mon man give us something more I'm on almost 3 years of this puzzle that turned my hair grey and my wife left me
+[ANIMATION: who-wants-to-be-a-millionaire-wwtbam.mp4, 2s]
+----------------------------------------------------------------------------------------------------
+[#8340] 2023-01-11 03:46:17
+Mini apologies for this Jeremy gif, couldn't help myself.
+----------------------------------------------------------------------------------------------------
+[#8342] 2023-01-11 19:23:03
+(edited 2023-01-11 19:23:11)
+Rumour has it a new hint is to be expected within 2 months from now.
+----------------------------------------------------------------------------------------------------
+[#8349] 2023-01-12 06:02:00
+(edited 2025-02-04 17:07:52 | reactions: ❤ x1, 😁 x1)
+We obviously did this to have a chance at ending up in the Guinness Book for creating the lamest puzzle ever.
+----------------------------------------------------------------------------------------------------
+[#8352] 2023-01-12 06:07:00
+I checked a certain GitHub yesterday, for whoever set that up, nicely done. You guys are really getting close.
+----------------------------------------------------------------------------------------------------
+[#8353] 2023-01-12 06:08:02
+(edited 2024-10-16 14:04:51)
+  -> replying to #8350 Alex (user690769341): Are chances to solve less than 2^-256?
+At least higher than sqrt(-1).
+----------------------------------------------------------------------------------------------------
+[#8354] 2023-01-12 06:09:14
+(edited 2025-09-02 20:00:34 | reactions: 🫡 x1)
+Focussing on the theory of everything is also still a valid path to reaching the private key.
+----------------------------------------------------------------------------------------------------
+[#8356] 2023-01-12 06:10:54
+An imaginary puzzle would.
+----------------------------------------------------------------------------------------------------
+[#8358] 2023-01-12 06:13:36
+  -> replying to #8308 Alex (user690769341): What is easier? To find the answer to this puzzle or to discover the physics Theory of Everything?
+[ANIMATION: animation.gif.mp4, 1s]
+----------------------------------------------------------------------------------------------------
+[#8360] 2023-01-12 06:15:46
+(edited 2024-11-12 07:06:06)
+Just be clear. My apologies for this puzzle not to be too easy. I'm aware it might appear unsolvable, but it's not. If you find the answer now, the remaining 2.5 btc is well deserved... Or 5, who knows.
+----------------------------------------------------------------------------------------------------
+[#8364] 2023-01-12 11:05:16
+  -> replying to #8361 Detective Froz (user231061724): Why 5 btc? Was the half (2.5 btc) transferred to another puzzle address? 😊And the solver could receive prizes from both addresses...
+Every btc halving the price will half too.
+----------------------------------------------------------------------------------------------------
+[#8368] 2023-01-12 12:47:07
+(edited 2024-04-17 10:15:15)
+  -> replying to #8367 Alex (user690769341): Who knows...
+👆
+----------------------------------------------------------------------------------------------------
+[#8385] 2023-01-25 09:59:19
+42
+----------------------------------------------------------------------------------------------------
+[#8438] 2023-02-02 09:47:18
+  -> replying to #8436 barrystyle (user925838121): LOL I swear you euro types have something wrong with you
+I'm staying out of this one 😅
+----------------------------------------------------------------------------------------------------
+[#8446] 2023-02-23 18:20:03
+(edited 2023-12-02 17:47:40 | reactions: 👍 x2)
+00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110
+----------------------------------------------------------------------------------------------------
+[#8472] 2023-03-03 04:47:19
+🐰
+----------------------------------------------------------------------------------------------------
+[#8483] 2023-04-07 22:53:03
+(edited 2026-02-16 12:24:25)
+  -> replying to #8448 unknown (user419791047): reversed binary: yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisat...
+👆🤷‍♂
+----------------------------------------------------------------------------------------------------
+[#8491] 2023-04-14 13:41:07
+(edited 2026-04-08 04:50:56)
+It can be solved, albeit very difficult as you have to understand how to interpret all the hints. Currently we are not planning to release any new hints soon.
+----------------------------------------------------------------------------------------------------
+[#8512] 2023-04-29 17:19:45
+😂
+----------------------------------------------------------------------------------------------------
+[#8516] 2023-05-02 15:12:43
+  -> replying to #8515 Zil (user980067088): [ANIMATION: matrix-keenu-reeves.mp4, 13s]
+Still remarkable that scene. Especially the expiration date of his passport 😁.
+----------------------------------------------------------------------------------------------------
+[#8518] 2023-05-02 16:03:59
+Hope..
+----------------------------------------------------------------------------------------------------
+[#8569] 2023-06-10 02:39:07
+Correct.
+-
+No.
+-
+Can't say anything about this.
+----------------------------------------------------------------------------------------------------
+[#8608] 2023-06-12 08:31:49
+  -> replying to #8607 unknown (user724453304): But he didn't harm anyone !
+Physically, I assume not 😅.
+----------------------------------------------------------------------------------------------------
+[#8773] 2023-08-03 15:50:23
+  -> replying to #8771 Zil (user980067088): @SoWut please shine us some 'light'
+Ok ok ok ok. I can't hold this one any longer.
+----------------------------------------------------------------------------------------------------
+[#8774] 2023-08-03 15:51:33
+(edited 2024-10-26 04:29:35 | reactions: 🔥 x2)
+Are you really looking for just the btc...?
+----------------------------------------------------------------------------------------------------
+[#8779] 2023-08-03 16:17:19
+(edited 2025-06-22 07:12:00 | reactions: 😁 x1)
+  -> replying to #8776 unknown (user6249502156): It's nearly been 6 months so I think we all deserve a mini hint if you are willing @SoWut
+Another one only 8 minutes after the last one?
+----------------------------------------------------------------------------------------------------
+[#8787] 2023-08-03 16:28:20
+(edited 2023-10-31 11:57:45)
+  -> replying to #8784 Zil (user980067088): is this the hint? sorry, this puzzle made me trust noone, not even myself, so just want to be clear 😁
+Might be. Wish I had said nothing though.
+----------------------------------------------------------------------------------------------------
+[#8790] 2023-08-03 16:30:14
+  -> replying to #8788 ArchOptic (user6057219919): Now you get lots of questions 😂
+Exactly, should have refrained from typing earlier maybe.
+----------------------------------------------------------------------------------------------------
+[#8792] 2023-08-03 16:32:25
+[ANIMATION: confront-interrogate.mp4, 5s]
+----------------------------------------------------------------------------------------------------
+[#8793] 2023-08-03 16:32:47
+(edited 2026-01-03 05:13:44 | reactions: 🔥 x3)
+[ANIMATION: what-if-i-told-you-what-if.mp4, 4s]
+----------------------------------------------------------------------------------------------------
+[#8795] 2023-08-03 16:33:50
+  -> replying to #8791 unknown (user6249502156): But you can confirm if there is indeed a 3rd door that is yet to be found right?
+I saw that you guys got really really far already.
+----------------------------------------------------------------------------------------------------
+[#8796] 2023-08-03 16:34:24
+(edited 2024-10-26 04:30:30 | reactions: 🤔 x1)
+Actually, the hardest part is done.
+----------------------------------------------------------------------------------------------------
+[#9047] 2023-08-04 20:46:47
+  -> replying to #8988 (not in export)
+"Globally supporting my generation"
+----------------------------------------------------------------------------------------------------
+[#9550] 2023-08-06 06:42:15
+(edited 2025-01-23 09:10:10 | reactions: 🔥 x1)
+This may sound at little dramatic but if I suddenly can't answer you guys anymore, it was nice knowing you all ❤️.
+----------------------------------------------------------------------------------------------------
+[#9551] 2023-08-06 06:43:46
+Oh, and be careful of what you get yourselves into. 🤐
+----------------------------------------------------------------------------------------------------
+[#9553] 2023-08-06 06:44:27
+I'll not explain why.
+----------------------------------------------------------------------------------------------------
+[#9554] 2023-08-06 06:44:39
+(edited 2026-02-02 06:38:06)
+The puzzle talks for me.
+----------------------------------------------------------------------------------------------------
+[#9556] 2023-08-06 06:45:26
+(edited 2026-02-15 19:42:58 | reactions: ❤ x1)
+And don't worry, I'll just be here in the meanwhile 😘.
+----------------------------------------------------------------------------------------------------
+[#9572] 2023-08-06 06:55:01
+  -> replying to #9570 Zil (user980067088): puzzle prize from stolen funds?
+Not at all.
+----------------------------------------------------------------------------------------------------
+[#9577] 2023-08-06 06:56:34
+  -> replying to #9575 Zil (user980067088): I mean if there's a risk for solvers, we should definetely know more than just 'be careful what you get yourselves into'
+You know if you know.
+----------------------------------------------------------------------------------------------------
+[#9586] 2023-08-06 07:22:27
+It wasn't cryptic enough before?
+----------------------------------------------------------------------------------------------------
+[#9592] 2023-08-06 08:05:33
+(edited 2024-10-26 04:32:36 | reactions: 👍 x1)
+  -> replying to #9588 unknown (user6249502156): Do you wish for puzzle to get solved or you would want it to stay as it is until the next halving?
+I wish only for that the puzzle provided some exciting pieces of information. That others have learned something new and that for some it is simply entertaining. I hope that the person who connects the last pieces for the 'main price' will thus get its hands on the private key and hold or spend it wisely, but mostly enjoy it. And lastly, I hope to witness the day that the last scene of mr. Robot becomes a reality.
+----------------------------------------------------------------------------------------------------
+[#9593] 2023-08-06 08:05:51
+  -> replying to #9591 silver_anth (user432257224): is Jrk a secret cyber criminal?
+In the eye of the beholder, for sure 😊.
+----------------------------------------------------------------------------------------------------
+[#9595] 2023-08-06 08:09:27
+(edited 2024-07-31 14:50:53 | reactions: ❤ x1)
+Technically my friends and family can get to all my data if they'd work together. In that scenario, don't expect a halving of the price.
+----------------------------------------------------------------------------------------------------
+[#9597] 2023-08-06 08:11:19
+Hahaha good one. I thought of a 24h Killswitch, but nah. Can't be bothered :D! Instead.
+----------------------------------------------------------------------------------------------------
+[#9599] 2023-08-06 08:12:13
+(edited 2024-02-11 07:17:56 | reactions: ❤ x4)
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+----------------------------------------------------------------------------------------------------
+[#9601] 2023-08-06 08:13:30
+  -> replying to #9598 mpeg (user59168199): I won’t lie, after such an obscure puzzle that the best teams haven’t been able to solve yet, a warning that you might go MIA makes it sound a bit sketchy…
+Chance is small though. Merely an fyi, bit dramatic as stated earlier.
+----------------------------------------------------------------------------------------------------
+[#9603] 2023-08-06 08:14:54
+(edited 2024-02-10 21:21:20)
+Both?
+----------------------------------------------------------------------------------------------------
+[#9607] 2023-08-06 08:19:07
+  -> replying to #9605 silver_anth (user432257224): @SoWut any chance you can tell us if there is another URL to find? otherwise I am going to do a big brute force haha
+No need. You have all the info.
+----------------------------------------------------------------------------------------------------
+[#9608] 2023-08-06 08:19:16
+Good to see you again btw.
+----------------------------------------------------------------------------------------------------
+[#9611] 2023-08-06 08:20:13
+(edited 2024-06-07 10:24:38)
+No hints 🤡
+----------------------------------------------------------------------------------------------------
+[#9615] 2023-08-06 08:21:07
+  -> replying to #9609 silver_anth (user432257224): I've been lurking for years recharging, finally want to get back in and solve this
+My hat off to you, and you know why 🫡.
+----------------------------------------------------------------------------------------------------
+[#9616] 2023-08-06 08:21:37
+  -> replying to #9613 silver_anth (user432257224): Jrk, can you confirm that you will give no hints?
+Only fair ones. And to everyone.
+----------------------------------------------------------------------------------------------------
+[#9621] 2023-08-06 08:43:54
+(edited 2025-01-23 09:22:08 | reactions: 👍 x1)
+  -> replying to #9616 Jrk Bgrt (user9815232) <-- also JRK: Only fair ones. And to everyone.
+To answer your question 'fully', from here on, high likely no hints anymore. But if somehow you all can't solve it from here in the next few years (which I deem unlikely given the state of the solving process), then I might feel the need to give an additional hint, as I couldn't happily live with the idea that some would think that this was a scam. Note, that I hope not to have to give another hint as it would probably be a give away. Good luck to you all!
+----------------------------------------------------------------------------------------------------
+[#9627] 2023-08-06 08:49:59
+  -> replying to #9626 Zil (user980067088): unless Jrk thinks we already know something, which we do not
+Something was solved rather... remarkable.
+----------------------------------------------------------------------------------------------------
+[#9629] 2023-08-06 08:53:56
+(edited 2025-05-26 18:44:36 | reactions: 🤔 x1)
+Partly.
+----------------------------------------------------------------------------------------------------
+[#9631] 2023-08-06 08:56:02
+I won't!
+----------------------------------------------------------------------------------------------------
+[#9632] 2023-08-06 09:00:38
+(edited 2024-07-31 14:50:40 | reactions: ❤ x1)
+Ok, although I somehow feel the need to have my eyes at this chat all for sudden it's time for me to shut up again and see my little ones play in an obstacle parc here on France. Ciao!
+----------------------------------------------------------------------------------------------------
+[#9636] 2023-08-06 13:23:44
+  -> replying to #9634 TG (user1239434587): When did this happen.. may I ask?
+I have no clue.
+----------------------------------------------------------------------------------------------------
+[#9639] 2023-08-06 14:39:34
+Correct. Well, technically, you'll need the internet to claim the prize in the end 🤔.
+----------------------------------------------------------------------------------------------------
+[#9943] 2023-08-11 01:52:53
+Hi all, getting quite some DM's which is fine, just know that I'm traveling the next coming days ✌️!
+----------------------------------------------------------------------------------------------------
+[#9944] 2023-08-11 01:53:25
+And I usually answer with "no hints".
+----------------------------------------------------------------------------------------------------
+[#10423] 2023-08-18 09:24:12
+  -> replying to #10398 silver_anth (user432257224): VrsN in the discord had passed givetit before JrK posted that hint
+😳 how?
+----------------------------------------------------------------------------------------------------
+[#10424] 2023-08-18 09:25:35
+Hi all. I'm on holiday btw. I might not answer DMs.
+----------------------------------------------------------------------------------------------------
+[#11989] 2023-08-23 15:43:21
+(edited 2026-08-15 08:46:15 | reactions: ❤ x1)
+  -> replying to #11911 unknown (user5260693904): Asking what jrk brgt is... That's not allowed as it's a hint???
+Note that I get quite some puzzle DMs. I've become used to just say 'no hints'.. (sorry for that).
+----------------------------------------------------------------------------------------------------
+[#12653] 2023-08-29 14:06:07
+  -> replying to #12580 ArchOptic (user6057219919): Jrk has stated that the blockchain messages are not his and are not part of the puzzle
+Correct
+----------------------------------------------------------------------------------------------------
+[#15513] 2023-09-28 12:13:32
+  -> replying to #15510 unknown (user5260693904): same here
+I'm ok! ♥️
+----------------------------------------------------------------------------------------------------
+[#15515] 2023-09-28 12:14:24
+Sorry for not answering. I've just been trying not to live in my phone, as that has become a habit the last 20 years of my life.
+----------------------------------------------------------------------------------------------------
+[#15517] 2023-09-28 12:16:21
+  -> replying to #15514 unknown (user5939972373): Thank God How was your holiday? Are you back for good?
+Still on holiday 😅. In the Caribbean currently. It's lovely here. I see some spam complaints, also sorry for that. Everyone ok besides that?
+----------------------------------------------------------------------------------------------------
+[#15520] 2023-09-28 12:19:30
+Thanks!!!
+----------------------------------------------------------------------------------------------------
+[#16547] 2023-11-17 07:50:24
+(edited 2023-11-17 07:52:03 | reactions: 👍 x4)
+Hello there, are we all still having fun?
+----------------------------------------------------------------------------------------------------
+[#16549] 2023-11-17 07:51:43
+(edited 2023-11-17 07:52:09 | reactions: 🔥 x1)
+I received some DMs, I thought I'd say hi ✌️. I'm ok, apologies for not being here on a daily basis.
+----------------------------------------------------------------------------------------------------
+[#16624] 2023-11-24 09:05:13
+(edited 2023-11-24 09:10:05 | reactions: 👍 x4, ❤ x1)
+There's a question multiple people have asked me. "Given the available knowledge, is internet still required to solve it?"
+
+Nope
+----------------------------------------------------------------------------------------------------
+[#17884] 2023-12-26 12:13:51
+(edited 2026-06-01 19:56:14 | reactions: ❤ x1)
+Heeeeelllloooooooo
+----------------------------------------------------------------------------------------------------
+[#17885] 2023-12-26 12:14:06
+(edited 2023-12-26 12:14:52 | reactions: ❤ x4)
+Happy Christmas all ❤️
+----------------------------------------------------------------------------------------------------
+[#17888] 2023-12-26 12:15:02
+Hahahaha that meme, love it
+----------------------------------------------------------------------------------------------------
+[#17889] 2023-12-26 12:15:42
+(edited 2023-12-26 12:26:25 | reactions: 👍 x2)
+Any spammers I have to ban?
+----------------------------------------------------------------------------------------------------
+[#17891] 2023-12-26 12:27:27
+(edited 2024-06-10 07:08:45)
+Have you tried the purple pill already?
+----------------------------------------------------------------------------------------------------
+[#17893] 2023-12-26 12:28:12
+Candy flipping into 2024 ;-)
+----------------------------------------------------------------------------------------------------
+[#20219] 2024-01-26 12:13:57
+~2000 new messages, great. You all doing ok?
+----------------------------------------------------------------------------------------------------
+[#20223] 2024-01-26 12:21:46
+  -> replying to #20221 8а70N (user6501279574): Please say me what format key we are all searching? Answer only this question, maybe PM.
+Regular Bitcoin Private key
+----------------------------------------------------------------------------------------------------
+[#20224] 2024-01-26 12:22:04
+  -> replying to #20222 Charlie Craig (user6246033427): I've been banging my head against a wall due to an inability to solve "our first hint is your last command". That seems to be the 2nd to last piece we need to ...
+🤐
+----------------------------------------------------------------------------------------------------
+[#23116] 2024-03-26 06:41:13
+(edited 2024-03-26 06:41:21 | reactions: 🤣 x2, 🤨 x1)
+I'm not really here, just checking if you folks are still alive and kicking. ✌️
+----------------------------------------------------------------------------------------------------
+[#23120] 2024-03-26 06:42:36
+(edited 2024-03-26 06:42:48 | reactions: 👍 x1)
+For all those DM'ing me, the answer to your question is probably NO or YES. I decided not to answer any puzzle questions anymore. If there will be a hint (ever). It will be here.
+----------------------------------------------------------------------------------------------------
+[#23121] 2024-03-26 06:43:04
+(edited 2024-03-26 06:43:29 | reactions: 👍 x2)
+  -> replying to #23119 unknown (user5260693904): aghhh sorry for the all caps
+IT'S OK, I FORGOT THAT IT'S CAPS TUESDAY.
+----------------------------------------------------------------------------------------------------
+[#23124] 2024-03-26 06:46:40
+(edited 2024-03-26 06:47:16 | reactions: 👍 x1)
+Yeah, being lost is a common aspect of being on this planet I guess, or at least when tempering with rabbit holes.
+----------------------------------------------------------------------------------------------------
+[#23125] 2024-03-26 06:47:53
+Btw, for those with the heartwarming words. Many thanks ❤️.
+----------------------------------------------------------------------------------------------------
+[#23129] 2024-03-26 06:49:08
+Please understand that I get multiple of these questions on a daily basis..
+----------------------------------------------------------------------------------------------------
+[#23130] 2024-03-26 06:50:02
+(edited 2024-03-26 06:50:26 | reactions: 👍 x1)
+There are investment institutions for this. Requesting money for a solid idea is not that difficult.
+----------------------------------------------------------------------------------------------------
+[#23133] 2024-03-26 06:52:11
+(edited 2024-03-26 06:52:41 | reactions: 🤩 x1)
+Yes. Some if you might soon be drinking it probably.
+----------------------------------------------------------------------------------------------------
+[#23134] 2024-03-26 06:53:04
+(edited 2024-03-26 06:53:27 | reactions: 😭 x1)
+  -> replying to #23132 DaniyarK (user752158324): @SoWut I'm surprised that no-one don't swear to you. Literally destroyed everyone patience
+Seems puzzlers are decent people ;-).
+----------------------------------------------------------------------------------------------------
+[#23136] 2024-03-26 06:55:39
+  -> replying to #23135 X (user497668740): yeah thats why I tried to build a team from here to work on a real project which we can potentially make millions but no one interested
+Ask Claude-3 for the best approach maybe?
+----------------------------------------------------------------------------------------------------
+[#23138] 2024-03-26 06:56:29
+Understandable
+----------------------------------------------------------------------------------------------------
+[#23140] 2024-03-26 06:57:09
+Does it come close to Claude and gpt?
+----------------------------------------------------------------------------------------------------
+[#23151] 2024-03-26 10:40:01
+  -> replying to #23148 Jerry (user786391896): @SoWut could you at least tell us which hints are no longer relevant, usually we get one tiny question puzzle related to ask you, last time it was wasted
+Technically yes but Nope.
+----------------------------------------------------------------------------------------------------
+[#23152] 2024-03-26 10:40:38
+(edited 2024-03-26 10:40:45 | reactions: 🤣 x2)
+And hi, you're hallucinating. Is it the mescaline?
+----------------------------------------------------------------------------------------------------
+[#23154] 2024-03-26 10:41:41
+😉
+----------------------------------------------------------------------------------------------------
+[#23159] 2024-03-26 13:05:05
+  -> replying to #23155 Lain (user1472167187): Tell me one thing, @SoWut. Are you a one or a zero? This is the question you need to ask yourself. Are you a yes or a no? Will you act or not? You won't give a...
+I prefer superpositions 😉.
+----------------------------------------------------------------------------------------------------
+[#23163] 2024-03-26 13:23:03
+  -> replying to #23161 Lain (user1472167187): Sure, there are grays... but when you come right down to it, at its core, beneath every choice, there's either a one or a zero. At the moment you have chosen t...
+You're doing fine.
+----------------------------------------------------------------------------------------------------
+[#23200] 2024-03-27 12:41:56
+(edited 2026-08-09 14:09:25 | reactions: 😁 x1)
+  -> replying to #23193 Robbit (user5602405073): What do you think this picture looks like?
+Sqaures and a rabbit?
+----------------------------------------------------------------------------------------------------
+[#24071] 2024-04-10 14:21:30
+(edited 2024-04-10 14:43:22 | reactions: 🔥 x2, ❤ x1)
+1357 blocks to go
+----------------------------------------------------------------------------------------------------
+[#24491] 2024-04-17 07:02:00
+(edited 2024-04-17 07:58:31 | reactions: ❤ x3)
+I received some complaints about insulting behavior.
+
+May it be obvious that it's not acceptable.
+
+Please refrain from doing so, or I have to get the banhammer out of the drawer of either slap someone with a large trout.
+
+Please be nice ❤️.
+----------------------------------------------------------------------------------------------------
+[#24492] 2024-04-17 07:03:03
+(edited 2024-04-17 07:27:43 | reactions: 👍 x5)
+Happy countdown everyone ✌️!
+----------------------------------------------------------------------------------------------------
+[#24623] 2024-04-19 20:08:44
+Ha, we lost one 'puzzler'.
+----------------------------------------------------------------------------------------------------
+[#24624] 2024-04-19 20:10:14
+(edited 2025-02-18 17:47:03 | reactions: 😨 x1)
+Seemed like a nice moment to get the ban hammer out of the drawer.
+----------------------------------------------------------------------------------------------------
+[#24626] 2024-04-19 20:10:43
+(edited 2024-04-19 20:12:45 | reactions: 🎉 x7)
+Happy halving everyone!
+----------------------------------------------------------------------------------------------------
+[#24627] 2024-04-19 20:15:48
+(edited 2024-04-19 20:16:51 | reactions: 🙏 x5)
+For those that still haven't solved the puzzle. There are few prizes to win besides the banter in this chat. A private key, some 'obscure' intel, or what I hope most of you have discovered by now, the most obvious reason to make sure you hold on to Bitcoin 😉.
+----------------------------------------------------------------------------------------------------
+[#24628] 2024-04-19 20:15:54
+✌️
+----------------------------------------------------------------------------------------------------
+[#24638] 2024-04-19 20:29:57
+(edited 2024-04-24 07:22:51)
+16$ fee. Damn.
+
+Well, anyway, see you in 4 years! Good luck you all.
+----------------------------------------------------------------------------------------------------
+[#24640] 2024-04-19 20:31:10
+(edited 2024-04-19 20:43:59 | reactions: ❤ x1)
+Me? No. Don't know that guy.
+----------------------------------------------------------------------------------------------------
+[#24652] 2024-04-19 21:34:10
+I should.
+----------------------------------------------------------------------------------------------------
+[#24654] 2024-04-19 21:35:15
+(edited 2024-04-19 21:45:51 | reactions: 👍 x3)
+Challenge accepted.
+----------------------------------------------------------------------------------------------------
+[#25758] 2024-06-06 04:16:00
+Crazy No hint Thursday, every Friday!
+----------------------------------------------------------------------------------------------------
+[#25767] 2024-06-07 06:10:08
+An active one.
+----------------------------------------------------------------------------------------------------
+[#26085] 2024-07-11 15:29:17
+  -> replying to #26073 𝕠𝕙 𝕙𝕚, 𝕄𝕒𝕣𝕜 (user1571850682): @SoWut Dear friend, are you planning to post any additional hints?
+None planned.
+----------------------------------------------------------------------------------------------------
+[#26223] 2024-07-31 20:26:53
+[ANIMATION: tumbleweed.mp4, 6s]
+----------------------------------------------------------------------------------------------------
+[#26490] 2024-08-30 05:21:04
+  -> replying to #26489 unknown (user5260693904): Idk to be honest... I think I may have been hacked somehow.... Or maybe some kinda glitch on telegram??? I apologize fully to you and anyone else that may have...
+It indeed set to private. I haven't opened tg for a while so I guess it wasn't from my side 🫤.
+----------------------------------------------------------------------------------------------------
+[#26875] 2024-09-19 03:20:23
+(edited 2024-09-19 03:40:07 | reactions: 👍 x3)
+I simply liked Jacque's ideas a lot. I have techy friends building communities around that idea today; I haven't invested much time into it as I should myself. But in the coming years I move to a place where that becomes a possibility.
+----------------------------------------------------------------------------------------------------
+[#27882] 2024-10-21 15:03:09
+(edited 2025-04-05 17:33:16 | reactions: ❤ x1)
+  -> replying to #27602 (not in export)
+I know a Matthew, and if he knows a Roberto, it's likely the same one and a very smart guy. 😉
+----------------------------------------------------------------------------------------------------
+[#27884] 2024-10-21 15:03:34
+Hi all! Everyone still happy?
+----------------------------------------------------------------------------------------------------
+[#27907] 2024-10-21 15:06:58
+(edited 2024-10-21 15:08:27 | reactions: 👌 x1)
+  -> replying to #27899 unknown (user1690548820): Making some stuffed peppers, how are you?
+Nice! Chilling under artificial stars, clearing up disks.
+----------------------------------------------------------------------------------------------------
+[#32529] 2024-11-29 04:56:10
+In that case I'll show, as I don't have much talent.
+----------------------------------------------------------------------------------------------------
+[#32530] 2024-11-29 04:56:39
+(edited 2024-11-29 04:57:17 | reactions: ❤ x7)
+Hello everyone, still having fun :-)?
+----------------------------------------------------------------------------------------------------
+[#32532] 2024-11-29 04:57:24
+(edited 2024-11-29 04:57:37 | reactions: 👍 x6)
+I was told this group could use some moderation.
+----------------------------------------------------------------------------------------------------
+[#32535] 2024-11-29 04:59:41
+(edited 2024-11-29 05:05:25 | reactions: 💯 x3)
+If wallet != empty, puzzle not solved.
+
+(Most likely).
+----------------------------------------------------------------------------------------------------
+[#32537] 2024-11-29 05:00:19
+(edited 2024-11-29 05:00:31 | reactions: 👍 x5, 🤣 x1)
+  -> replying to #32534 𝕠𝕙 𝕙𝕚, 𝕄𝕒𝕣𝕜 (user1571850682): You can give moderator rights to someone you trust.
+That was indeed the plan.
+----------------------------------------------------------------------------------------------------
+[#32550] 2024-11-29 05:10:40
+(edited 2024-11-29 05:11:08 | reactions: 🤣 x2, 😱 x1)
+  -> replying to #32548 𝕠𝕙 𝕙𝕚, 𝕄𝕒𝕣𝕜 (user1571850682): Can we expect a Christmas hint?
+[ANIMATION: the-train.mp4, 2s]
+----------------------------------------------------------------------------------------------------
+[#32555] 2024-11-29 05:13:16
+  -> replying to #32551 Denis Golovkin (user398109413): Depending on what "to be a literally hacker" means. Hacker is not necessarily about security or even about computers. It's more about deep knowledge of smth. W...
+If at all, a very bad one. Not even worth the title of skid. Although, as you might have guessed, I've seen some 'security' places 'protecting' our digital realms.
+----------------------------------------------------------------------------------------------------
+[#32557] 2024-11-29 05:15:17
+Haven't interacted with a terminal in a while. "But what can you do without a cpu?", touch grass it is.
+----------------------------------------------------------------------------------------------------
+[#32560] 2024-11-29 05:17:21
+  -> replying to #32556 Sreejit Roy Chowdhury (user6603256460): Ok but hint? At least in where to focus on salph or in the puzzle
+Hint? Hint? Heh, what craziness are you talking about? There is no hint.
+----------------------------------------------------------------------------------------------------
+[#32561] 2024-11-29 05:17:37
+(edited 2024-11-29 05:26:08 | reactions: 🤣 x5, 😁 x1)
+[ANIMATION: matrix-merowinger-aktion-reaktion.mp4, 7s]
+----------------------------------------------------------------------------------------------------
+[#32570] 2024-11-29 05:20:59
+(edited 2024-11-29 06:08:44 | reactions: 😢 x2, 👍 x1)
+  -> replying to #32568 silver_anth (user432257224): puzzle been out so long jrk probably doesn't even remember how to solve it
+🤐
+----------------------------------------------------------------------------------------------------
+[#32579] 2024-11-29 05:28:47
+(edited 2024-11-29 05:29:16 | reactions: ❤ x5, 🙏 x3, ⚡ x1, 👍 x1)
+At this point, I don't know what to hint, without ruining it for those that might find it. If you guys got 1 microstep further, the puzzle will likely be solved the same day.
+
+I could come up with some empty cryptic bs hint, but that would be lame too.
+
+And in the end, good puzzles don't need hints, hence this puzzle appears to be a tiny bit shitty sometimes.
+----------------------------------------------------------------------------------------------------
+[#32580] 2024-11-29 05:29:20
+(edited 2024-11-29 05:29:27 | reactions: 😁 x3, ❤ x1)
+No clue Friday.
+Every Saturday.
+----------------------------------------------------------------------------------------------------
+[#32590] 2024-11-29 05:39:33
+(edited 2024-11-29 05:39:50 | reactions: 👍 x6, 😁 x4, 😢 x1)
+Oh, and before I forget, apologies for not answering any DMs, don't take it personal.
+
+I mainly got tired of answering with either 'no hints', or listening to sad stories about family, or kids with severe health problems, hoping to obtain a hint, all day every day.
+----------------------------------------------------------------------------------------------------
+[#32597] 2024-11-29 05:42:55
+(edited 2024-11-29 05:43:09 | reactions: ❤ x1)
+I saw that @qv8du3ne8s9 😂
+----------------------------------------------------------------------------------------------------
+[#32613] 2024-11-29 05:47:19
+(edited 2024-11-29 05:51:15 | reactions: 😁 x1, 👌 x1)
+  -> replying to #32600 ArchOptic (user6057219919): What character do I have to imagine myself as?
+I think I'll be going for ASCII 127 myself. But not overly dramatic.
+----------------------------------------------------------------------------------------------------
+[#32640] 2024-11-29 05:57:33
+(edited 2024-11-29 05:58:19 | reactions: ❤ x5, 👌 x1, 😨 x1)
+  -> replying to #32617 Martín (user122813939): So Jrk, are you safe or the MIA thing is a possibility still ?
+I think I'm fine - gladly I don't feel that weird anxiety anymore. However, I do expect that in about 18 years my government might have to notify me that I've been 'under investigation' for a while. But don't worry about me; me, family and friends are doing great!
+----------------------------------------------------------------------------------------------------
+[#32644] 2024-11-29 05:58:58
+(edited 2024-11-29 05:59:17 | reactions: ✍ x1, 🤣 x1)
+  -> replying to #32627 silver_anth (user432257224): Jrk can't even say a joke without it being seen as a hint hahaha
+This is so true. I must say, with that in mind, it makes typing any message here a bit more challenging.
+----------------------------------------------------------------------------------------------------
+[#32647] 2024-11-29 06:00:25
+(edited 2024-11-29 06:00:56 | reactions: 👍 x1)
+Admins
+----------------------------------------------------------------------------------------------------
+[#32659] 2024-11-29 06:02:00
+(edited 2024-11-29 06:02:06 | reactions: 🤣 x2)
+Happiness.
+----------------------------------------------------------------------------------------------------
+[#32671] 2024-11-29 06:06:24
+(edited 2024-11-29 06:07:09 | reactions: 🤣 x3)
+  -> replying to #32666 ArchOptic (user6057219919): That's actually a good idea. It's an infinite key
+You only need the last number of pi and it might get you somewhere.
+----------------------------------------------------------------------------------------------------
+[#32687] 2024-11-29 06:13:47
+(edited 2025-07-09 15:39:03 | reactions: 😱 x1)
+I already have gray hair unfortunately.
+----------------------------------------------------------------------------------------------------
+[#32690] 2024-11-29 06:15:34
+Maybe Bryan Johnson has an answer for my hair.
+----------------------------------------------------------------------------------------------------
+[#32695] 2024-11-29 06:20:19
+(edited 2025-07-09 15:39:20 | reactions: 🤨 x1)
+  -> replying to #32686 Jerry (user786391896): what is that ^ @SoWut 0
+Pimeyes leads me to a festival thingy in the Netherlands. Is this a puzzle?
+----------------------------------------------------------------------------------------------------
+[#32699] 2024-11-29 06:23:12
+  -> replying to #32696 X (user497668740): why does the puzzle have 2 different pages (/PUZZLE and /puzzle), you never said anything about it?
+Not sure why but I suppose it doesn't affect the puzzle.
+----------------------------------------------------------------------------------------------------
+[#32701] 2024-11-29 06:25:31
+(edited 2026-02-02 06:57:04 | reactions: ❤ x1)
+Could be, it has been years and we had a few FE guys working on it.
+----------------------------------------------------------------------------------------------------
+[#32705] 2024-11-29 06:28:41
+Yeah, what can I say? In a way, it's a pretty smart by mr Sailor, and Bitcoin is built to withstand this shenanigans anyway.
+----------------------------------------------------------------------------------------------------
+[#32707] 2024-11-29 06:29:55
+Yeah NAD is great.
+----------------------------------------------------------------------------------------------------
+[#32711] 2024-11-29 06:30:33
+I only take ~80 supplements daily, nothing crazy 😅.
+----------------------------------------------------------------------------------------------------
+[#32715] 2024-11-29 06:32:02
+Blueprint is sort of the leading list at this point.
+----------------------------------------------------------------------------------------------------
+[#32719] 2024-11-29 06:34:04
+(edited 2024-11-29 06:34:15 | reactions: 😁 x8)
+I mean, if you guys don't solve it anytime soon I'll have to try and stay alive till the year 2145.
+----------------------------------------------------------------------------------------------------
+[#32724] 2024-11-29 06:37:27
+(edited 2024-11-29 06:38:05 | reactions: 👍 x3)
+I explain them a lot but I don't want them to know about BTC yet, having this unhealthy fear for btc kidnapping.
+----------------------------------------------------------------------------------------------------
+[#32728] 2024-11-29 06:39:50
+  -> replying to #32726 Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤ (user7731476133): What did you doo 🤣
+Enjoying life, mostly 😉.
+----------------------------------------------------------------------------------------------------
+[#32741] 2024-11-29 06:47:44
+(edited 2026-07-01 10:55:39)
+  -> replying to #32730 silver_anth (user432257224): can't agree with melatonin being on that list. that can really screw with your circadian rhythm and suppress your natural production of it
+Yeah, heard this argument before. Haven't used it myself for years. Bryan is a bit.. extreme, and his team of doctors probably concluded that it's good for him. Also, there aren't many studies that have concluded that long term low dose usage would do any damage.
+
+In the end there's no perfect static setup, as we're all a bit different.
+----------------------------------------------------------------------------------------------------
+[#32748] 2024-11-29 06:51:05
+(edited 2024-11-29 06:52:03 | reactions: 😁 x1)
+  -> replying to #32735 silver_anth (user432257224): I'm taking a year off at the moment but was working in internal medicine
+Another doctor in my room states that these are indeed the typical puzzle doctors 😉.
+----------------------------------------------------------------------------------------------------
+[#32755] 2024-11-29 06:54:17
+(edited 2025-04-01 20:43:34)
+  -> replying to #32752 ArchOptic (user6057219919): AI in 20 years will help
+Already better than many doctors... especially for discovering very unlikely cases.
+----------------------------------------------------------------------------------------------------
+[#32767] 2024-11-29 07:03:37
+(edited 2024-11-29 08:45:23 | reactions: ❤ x1)
+I'd quit that if you want quality sleep. I used it so much, my body can't deal with it anymore. After a week or 2 you'll start dreaming again.
+----------------------------------------------------------------------------------------------------
+[#32770] 2024-11-29 07:05:46
+Ah sorry, I missed that. I used a gram daily, for years. 😅
+----------------------------------------------------------------------------------------------------
+[#32772] 2024-11-29 07:06:39
+  -> replying to #32763 Martín (user122813939): Did you try with the basics arch?, Eat well, exercise, etc..
+🫡
+----------------------------------------------------------------------------------------------------
+[#32773] 2024-11-29 07:13:43
+(edited 2024-11-29 07:14:15 | reactions: ❤ x5, 👍 x3, 👀 x1)
+Ok, I'm off people 👻. Be good, stay healthy, stack sats and enjoy life. 
+
+Ciao!
+
+And good luck Admins! (And many thanks in advance, please be fair 😉).
+----------------------------------------------------------------------------------------------------
+[#39192] 2025-04-28 12:45:31
+(edited 2025-04-28 12:46:52 | reactions: 👍 x3, 🤝 x2, 🕊 x1, 🐳 x1)
+[ANIMATION: forrest-gump-wave.mp4, 2s]
+----------------------------------------------------------------------------------------------------
+[#39194] 2025-04-28 12:45:47
+(edited 2025-04-28 17:49:37 | reactions: 👍 x2)
+You people are still having fun I see.
+----------------------------------------------------------------------------------------------------
+[#39200] 2025-04-28 12:48:07
+Ah, no hints? Ok, that's also fine.
+----------------------------------------------------------------------------------------------------
+[#39206] 2025-04-28 12:51:05
+(edited 2025-04-28 12:51:52 | reactions: 🤔 x3, 👀 x1)
+I have to say, that touching grass thingy is pretty nice.
+----------------------------------------------------------------------------------------------------
+[#39208] 2025-04-28 12:52:50
+(edited 2025-04-28 13:16:16 | reactions: 🤔 x2, ❤ x1)
+  -> replying to #39205 k1ng 😎 (user7363495849): Jrk, what do you think about ethereum, is it worth holding 25% in eth or bitcoin only?
+Yeah, tricky question. You can try to time it (I stopped doing that), but if you understand the puzzle you'll discover that I'd suggest btc only, and don't gamble.
+----------------------------------------------------------------------------------------------------
+[#39217] 2025-04-28 12:55:14
+(edited 2025-04-29 10:51:16 | reactions: 👍 x2)
+I was hinted when eth was 2$. Saw the "DAO" unfold live in front of my eyes with 8000 holders on slack; was allowed to double my eth with all the left over etc, and then swap it to btc. Good old times.
+----------------------------------------------------------------------------------------------------
+[#39219] 2025-04-28 12:56:14
+(edited 2025-04-28 12:56:59 | reactions: 🤣 x3, 👍 x1, 🔥 x1, 😨 x1)
+If I'd ever take the funds (I won't), I wouldn't even tell the answer 😈.
+----------------------------------------------------------------------------------------------------
+[#39224] 2025-04-28 12:57:17
+(edited 2025-04-28 12:57:31 | reactions: 👍 x2, 😱 x1)
+Did anyone found yingyang? I don't think so, you guys are so smart, when yingyang is reached, 2 hours max.
+----------------------------------------------------------------------------------------------------
+[#39229] 2025-04-28 12:58:50
+(edited 2025-04-28 12:59:18 | reactions: 😁 x3)
+Im with alcohol, dont blame me for more typos.
+----------------------------------------------------------------------------------------------------
+[#39232] 2025-04-28 12:59:29
+(edited 2025-05-31 16:53:52 | reactions: 👌 x1, 🤨 x1)
+Alcohol, and answering this chat go hand in hand somehow.
+----------------------------------------------------------------------------------------------------
+[#39234] 2025-04-28 13:00:26
+  -> replying to #39221 X (user497668740): why you guys added that after 6 years?
+Que?
+----------------------------------------------------------------------------------------------------
+[#39237] 2025-04-28 13:01:36
+(edited 2025-04-28 13:20:30 | reactions: 😢 x1, 🤝 x1)
+  -> replying to #39233 silver_anth (user432257224): is yinyang found after decoding an AES ciphertext?
+It’s the next phase, but I await the day someone finally gets there.
+----------------------------------------------------------------------------------------------------
+[#39241] 2025-04-28 13:02:46
+(edited 2025-04-28 13:02:59 | reactions: 👍 x6, ❤ x2)
+Ok, the "better half" is hungry. Which means I'm off 🤗
+----------------------------------------------------------------------------------------------------
+[#49172] 2025-09-15 22:20:54
+(edited 2025-09-15 22:20:59 | reactions: ❤ x2, 🫡 x2)
+[ANIMATION: happy-carrot.mp4, 4s]
+----------------------------------------------------------------------------------------------------
+[#49175] 2025-09-15 22:24:36
+(edited 2025-09-16 08:01:43 | reactions: 😁 x1)
+Yes
+----------------------------------------------------------------------------------------------------
+[#49176] 2025-09-15 22:24:52
+(edited 2025-09-15 22:25:14 | reactions: ✍ x1, 🤔 x1, 🤩 x1, 🌚 x1)
+Carrots were originally purple, until the Dutch turned them orange in the 1600s to kiss up to their royal family.
+----------------------------------------------------------------------------------------------------
+[#53335] 2025-12-31 22:15:02
+(edited 2025-12-31 22:15:53)
+.
+----------------------------------------------------------------------------------------------------
+[#53336] 2025-12-31 22:16:15
+..
+----------------------------------------------------------------------------------------------------
+[#53338] 2025-12-31 22:17:05
+...
+----------------------------------------------------------------------------------------------------
+[#53339] 2025-12-31 22:18:07
+....
+----------------------------------------------------------------------------------------------------
+[#53341] 2025-12-31 22:19:05
+(edited 2026-06-01 19:54:48 | reactions: ❤ x2)
+.....
+----------------------------------------------------------------------------------------------------
+[#53342] 2025-12-31 22:20:03
+(edited 2025-12-31 22:22:22 | reactions: ❤ x12, ❤‍🔥 x2, 👍 x2, 😁 x2)
+01001000 01100001 01110000 01110000 01111001 00100000 01101110 01100101 01110111 00100000 01111001 01100101 01100001 01110010 00100001 00100000 01001101 01100001 01101011 01100101 00100000 01110100 01101000 01100101 00100000 01100010 01100101 01110011 01110100 00100000 01101111 01100110 00100000 01100101 01110110 01100101 01110010 01111001 01110100 01101000 01101001 01101110 01100111 00101110 00100000 01001111 01101000 00101100 00100000 01100001 01101110 01100100 00100000 01101000 01100101 01110010 01100101 00100111 01110011 00100000 01100001 00100000 00100010 01110100 01101001 01101110 01111001 00100000 01101000 01101001 01101110 01110100 00100010 00100000 00111100 00110011 00101110
+----------------------------------------------------------------------------------------------------
+[#60285] 2026-03-03 20:11:55
+  -> replying to #60282 gnomad (user142464266): Nobody owes anybody anything. We are all here by free will. A puzzle was created as a gift by the creator @SoWut , in a way that they chose. Play or do not pla...
+👆🫡
+----------------------------------------------------------------------------------------------------
+[#60286] 2026-03-03 20:12:28
+(edited 2026-03-03 20:12:34 | reactions: 🤝 x2, ❤ x1, 🙏 x1, 🫡 x1)
+Hi all 👋🏻
+----------------------------------------------------------------------------------------------------
+[#60289] 2026-03-03 20:17:02
+(edited 2026-03-03 20:17:44 | reactions: 😁 x1, 🤔 x1)
+No hints , only free will. One of the few things I somehow strugle to fully accept albeit that science is currently not on the deterministic side if I'm not mistaken.
+----------------------------------------------------------------------------------------------------
+[#60292] 2026-03-03 20:18:06
+(edited 2026-03-04 13:48:57 | reactions: 💯 x2)
+Everyone still having fun?
+----------------------------------------------------------------------------------------------------
+[#60298] 2026-03-03 20:19:39
+Jacque was quite an inspiring lad I'd say.
+----------------------------------------------------------------------------------------------------
+[#60302] 2026-03-03 20:21:38
+(edited 2026-03-04 07:06:34 | reactions: 👌 x1)
+It's kinda of a pvp zone here. Sort of a rust server with both nice and toxic units.
+----------------------------------------------------------------------------------------------------
+[#60306] 2026-03-03 20:22:42
+(edited 2026-03-03 20:26:02)
+Maybe, Cartman's quote about chatroulette fits too.
+----------------------------------------------------------------------------------------------------
+[#60307] 2026-03-03 20:23:27
+(edited 2026-03-03 20:23:36 | reactions: 😁 x3)
+  -> replying to #60300 X (user497668740): @SoWut Are we really looking for just the btc...?
+🤐
+----------------------------------------------------------------------------------------------------
+[#60309] 2026-03-03 20:27:00
+(edited 2026-03-03 20:27:12 | reactions: ❤ x1, 👀 x1)
+  -> replying to #60308 X (user497668740): we can't proceed further and i believe we have been wasted years to prove it. idk what are u expect from us but you need to hint us about the direction.
+Looks at gnomad. 👀
+----------------------------------------------------------------------------------------------------
+[#60312] 2026-03-03 20:29:05
+(edited 2026-03-03 20:30:07 | reactions: ❤ x2)
+Bingo
+----------------------------------------------------------------------------------------------------
+[#60314] 2026-03-03 20:30:47
+(edited 2026-03-03 20:31:09 | reactions: 🔥 x1, 😁 x1, 😨 x1, 🤝 x1, 😎 x1)
+I only need to look at the address. If any of you reaches the next phase, the price is taken in no-time.
+----------------------------------------------------------------------------------------------------
+[#60316] 2026-03-03 20:31:09
+🤷‍♂️
+----------------------------------------------------------------------------------------------------
+[#60318] 2026-03-03 20:32:01
+(edited 2026-03-04 07:12:07 | reactions: ❤ x1)
+I suppose that could get you far in real life.
+----------------------------------------------------------------------------------------------------
+[#60322] 2026-03-03 20:33:52
+(edited 2026-03-03 20:34:09 | reactions: ❤ x7, 🫡 x1)
+Before I forget. For those who DM me, my apologies for not answering - or only rarely. Nothing personal ❤️.
+----------------------------------------------------------------------------------------------------
+[#60324] 2026-03-03 20:35:22
+(edited 2026-03-06 15:54:40 | reactions: 🔥 x3, 👍 x1)
+I'm going to rewatch episode 3.5 with  the better half.
+----------------------------------------------------------------------------------------------------
+[#60326] 2026-03-03 20:36:04
+(edited 2026-07-01 13:59:46)
+  -> replying to #60323 D1rty Byrd (user7675830926): i must ask you does the binary contact info from the website jrk.agency have anything to do with the puzzle jrk.xlsx?
+Nope. You're not the first to ask.
+----------------------------------------------------------------------------------------------------
+[#60327] 2026-03-03 20:37:14
+(edited 2026-03-04 00:38:00 | reactions: 👍 x3, ❤ x2, 🫡 x1)
+Cheers all, good luck again 👋🏻!
+----------------------------------------------------------------------------------------------------
+[#63957] 2026-05-28 07:41:02
+(edited 2026-05-28 07:41:51 | reactions: 🎉 x5, ❤ x1)
+  -> replying to #63942 𝔻𝕖𝕣S𝕋 (user697342298): @SoWut The sites are down. Can you tell us whether this will affect us if we manage to resolve Salp or Cosmic? We're worried about relying on another site and ...
+Ah, ofcourse. The puzzle is still valid!
+----------------------------------------------------------------------------------------------------
+[#63966] 2026-05-28 09:34:18
+(edited 2026-05-28 10:16:31 | reactions: ❤ x3)
+  -> replying to #63959 X (user497668740): Crazy No hint Thursday, every Friday!
+🫡🥳
+----------------------------------------------------------------------------------------------------
+[#66540] 2026-07-12 20:17:04
+(edited 2026-07-12 20:52:00 | reactions: 😁 x2, ❤ x1, 🗿 x1)
+I just dawned on me; what if one day, some of you finally finds it... and doesn't explain it publicly, while I've already passed away. How do I have to turn myself around in my grave 🤔...
+----------------------------------------------------------------------------------------------------
+[#66542] 2026-07-12 20:21:05
+(edited 2026-07-13 13:06:42 | reactions: 🔥 x1, 😁 x1)
+Another thing. In 2029, all btc on old addresses might be cracked (cmiiw).
+----------------------------------------------------------------------------------------------------
+[#66543] 2026-07-12 20:21:43
+Whats your view on that?
+----------------------------------------------------------------------------------------------------
+[#66549] 2026-07-12 20:26:42
+I might me drunk, or worse, I dont even know what rhetorical is at this point.
+----------------------------------------------------------------------------------------------------
+[#66551] 2026-07-12 20:27:09
+(edited 2026-07-12 20:27:30 | reactions: 🔥 x1, 🤝 x1)
+Hell yes
+----------------------------------------------------------------------------------------------------
+[#66555] 2026-07-12 20:30:03
+(edited 2026-07-13 07:52:11 | reactions: 🫡 x1)
+Anyway, if bip360 is going to be a thing. I have to come up with something.
+----------------------------------------------------------------------------------------------------
+[#66559] 2026-07-12 20:34:41
+(edited 2026-07-16 16:32:02 | reactions: 🔥 x1)
+  -> replying to #66557 Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤ (user7731476133): Or was it just a spur of the moment decision
+Well this nearly perfectly phrases it. Yes, I was busy with gsmg and quite obviously linked it too it, but I was in a crazy mood and honestly I still don't know how I got this weird idea to make a puzzle. The rickroll effect inspired me to make an actual puzzle, just to see if I could. It wasn’t a PR stunt until I realized it after I published it. The others didnt fully understand/agree for what I remember.
+----------------------------------------------------------------------------------------------------
+[#66560] 2026-07-12 20:35:20
+  -> replying to #66554 Denis Golovkin (user398109413): Oh, he is drunk! Load all the social engineering scripts into your ChatGPT's guys!
+Yeah, fire away.
+----------------------------------------------------------------------------------------------------
+[#66561] 2026-07-12 20:37:00
+(edited 2026-07-13 02:04:54 | reactions: 🤣 x2, 😁 x1)
+I have these moment where I get into a frenzy and zone in with 800%. A day later I can hardly understand what I have done 🫤. And that is not a joke.
+----------------------------------------------------------------------------------------------------
+[#66564] 2026-07-12 20:45:53
+(edited 2026-07-13 10:45:03 | reactions: 🤣 x2)
+I don't know right now.
+----------------------------------------------------------------------------------------------------
+[#66568] 2026-07-12 20:47:16
+(edited 2026-07-13 19:04:05 | reactions: 😁 x1, 🤔 x1)
+Most of you know the puzzle WAAAY better than me at this point. I have a hidden laptop which I haven't touched in years. On that thing... is the actual answer....
+----------------------------------------------------------------------------------------------------
+[#66571] 2026-07-12 20:49:19
+Some of you, can find me. Quite a few in this chat, already met me.
+----------------------------------------------------------------------------------------------------
+[#66573] 2026-07-12 20:51:37
+My close friends have the best chance of solving it (a few tried). But they don't have the skills some of you do.
+----------------------------------------------------------------------------------------------------
+[#66574] 2026-07-12 20:51:59
+(edited 2026-08-23 23:19:59 | reactions: ❤ x1)
+NOTE: that is a hint.
+----------------------------------------------------------------------------------------------------
+[#66576] 2026-07-12 20:52:24
+Hi
+----------------------------------------------------------------------------------------------------
+[#66578] 2026-07-12 20:52:58
+(edited 2026-07-16 17:19:16 | reactions: ❤ x1, 😁 x1)
+💯
+----------------------------------------------------------------------------------------------------
+[#66581] 2026-07-12 20:53:46
+(edited 2026-07-13 19:02:05 | reactions: 👍 x1, 😁 x1)
+Beer, red wine and champagne.
+----------------------------------------------------------------------------------------------------
+[#66582] 2026-07-12 20:54:16
+(edited 2026-07-13 02:16:55 | reactions: 😁 x1, 🗿 x1)
+It kills braincells.
+----------------------------------------------------------------------------------------------------
+[#66584] 2026-07-12 20:55:29
+(edited 2026-07-18 05:57:05)
+Welcome. I feel it a bit off knowing the url (and thus the original puzzle) is "gone".
+----------------------------------------------------------------------------------------------------
+[#66586] 2026-07-12 20:56:04
+Nope.
+----------------------------------------------------------------------------------------------------
+[#66588] 2026-07-12 21:01:05
+Yes
+----------------------------------------------------------------------------------------------------
+[#66589] 2026-07-12 21:03:51
+(edited 2026-07-13 00:30:37 | reactions: ✍ x1, 🤝 x1)
+And IIFF I'm somehow still wrong, which I'm most likely not as I've verified many times back then after some sad rushed mistakes, it's all still solvable with a few stable qubits.
+----------------------------------------------------------------------------------------------------
+[#66590] 2026-07-12 21:04:38
+(edited 2026-07-13 02:18:37 | reactions: 😁 x1)
+But... Bip360 anyone. Thoughts?
+----------------------------------------------------------------------------------------------------
+[#66592] 2026-07-12 21:08:52
+(edited 2026-07-13 02:19:06 | reactions: 🔥 x1, 😁 x1, 🌚 x1)
+  -> replying to #66556 Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤ (user7731476133): You know what. @SoWut this isn't a request for a hint but I don't think anyone ever really asked you this publicly. What was your inspiration / desire to creat...
+Oh... and before I fall asleep. I want to assume it is quite clear I held quite a secret in my head which I seriously wanted to share with the planet... for those who can understand what I meant...
+----------------------------------------------------------------------------------------------------
+[#66593] 2026-07-12 21:10:37
+(edited 2026-07-12 21:11:17 | reactions: 🤔 x5)
+The "5" btc was never the actual prize. That was only a tiny fraction.
+----------------------------------------------------------------------------------------------------
+[#66595] 2026-07-12 21:11:31
+(edited 2026-07-26 19:00:27 | reactions: 🔥 x1)
+(And yes, the btc is still available before you fire any questions).
+----------------------------------------------------------------------------------------------------
+[#66596] 2026-07-12 21:12:48
+(edited 2026-07-13 09:49:57 | reactions: 👍 x1)
+  -> replying to #66594 Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤ (user7731476133): Bip360 is a good step forward against quantum computing, but unless you're talking to developers that are passionate about actually working on it, regular peop...
+A nation state will at some point hack the currently lost coins, and then keep OR sell it.
+----------------------------------------------------------------------------------------------------
+[#66600] 2026-07-12 21:17:49
+(edited 2026-07-13 02:20:06 | reactions: 😁 x2)
+  -> replying to #66599 Martín (user122813939): sorry, but what is the point on saying this? Nobody knows how to solve and much less about this.... will only hook more ppl up
+Some already found it. And understood not to risk it... 🤐
+----------------------------------------------------------------------------------------------------
+[#66604] 2026-07-12 21:20:51
+(edited 2026-07-12 21:21:08 | reactions: ❤ x3)
+Iykyk
+----------------------------------------------------------------------------------------------------
+[#66606] 2026-07-12 21:22:37
+(edited 2026-07-12 21:22:50 | reactions: 😁 x2)
+  -> replying to #66605 Martín (user122813939): 👍👍 good luck with your alcohol
+Thanks, already nearly sober again. It's only alcohol, not lsd or ayahuasca with mao-inhibitors.
+----------------------------------------------------------------------------------------------------
+[#66609] 2026-07-12 21:29:54
+(edited 2026-07-12 21:31:09 | reactions: 🤝 x6, 🍾 x2, ❤ x1, 😁 x1, 🎉 x1, 🐳 x1)
+Going dark again. Might be in a specific Ibiza club the 15th. HI, ciao and cheers you all ❤️!
+----------------------------------------------------------------------------------------------------
+[#66884] 2026-07-16 18:06:17
+(edited 2026-07-17 01:47:17)
+  -> replying to #66699 Nesso (user417022692): @SoWut we'll see you there
+Where were you?
+----------------------------------------------------------------------------------------------------
+[#66889] 2026-07-16 18:08:35
+Hello
+----------------------------------------------------------------------------------------------------
+[#66891] 2026-07-16 18:09:35
+(edited 2026-07-16 18:18:41 | reactions: 😁 x3)
+I saw people were waiting for drunk me.
+----------------------------------------------------------------------------------------------------
+[#66893] 2026-07-16 18:10:17
+Hmm. Meta hunting. Like it.
+----------------------------------------------------------------------------------------------------
+[#66898] 2026-07-16 18:12:02
+Had my eyes closed, but still saw double.
+----------------------------------------------------------------------------------------------------
+[#66903] 2026-07-16 18:19:17
+(edited 2026-07-16 18:20:35 | reactions: 🔥 x1)
+  -> replying to #66901 Nesso (user417022692): I'm very shy, so I didn't dare speak to you—though I did spend the whole night looking for your laptop😂
+Well, it's hidden in a room with a hidden door.
+----------------------------------------------------------------------------------------------------
+[#66904] 2026-07-16 18:20:06
+  -> replying to #66899 Thunder (user874768682): Do you also find it hard to get going in the morning after events like that?
+Nah, I'm quite practiced.
+----------------------------------------------------------------------------------------------------
+[#66906] 2026-07-16 18:21:40
+I should ask AI in this state.
+----------------------------------------------------------------------------------------------------
+[#66909] 2026-07-16 18:25:32
+Imagine a piggy bank that only opens with a super-secret password. Right now, most piggy banks show a little part of the lock on the outside, and a future quantum computer could steal that part and crack it.
+BIP 360 is a new kind of piggy bank: it hides the whole lock inside. You only see a 32-byte hash, no key visible at all. When you want to open it, you prove you know a secret path inside that hash. Safer against future quantum hackers.
+----------------------------------------------------------------------------------------------------
+[#66910] 2026-07-16 18:26:05
+(edited 2026-07-16 18:26:14 | reactions: 😁 x1)
+AI knows how to explain it to my level.
+----------------------------------------------------------------------------------------------------
+[#66912] 2026-07-16 18:26:27
+(edited 2026-07-16 18:57:36 | reactions: 😁 x1)
+  -> replying to #66908 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679 (user7895551210): thats not a wise move
+🤫
+----------------------------------------------------------------------------------------------------
+[#66913] 2026-07-16 18:26:44
+(edited 2026-07-16 18:26:48 | reactions: 😁 x1)
+  -> replying to #66911 Spike (user1625609648): I too know the secret code "ELI5".
+ELI4.5 is meta.
+----------------------------------------------------------------------------------------------------
+[#66931] 2026-07-16 18:32:30
+  -> replying to #66917 Spike (user1625609648): I don't think fractions can be prime.
+You have to be in your prime for that.
+----------------------------------------------------------------------------------------------------
+[#66935] 2026-07-16 18:33:29
+(edited 2026-07-16 18:33:57 | reactions: 😁 x2)
+  -> replying to #66918 PoW (user546901636): What will come fast? Quantum computer cracking the puzzle address or AI proving that there is no solution for the puzzle?
+Quantum computers AND AI, both not being sure what to answer.
+----------------------------------------------------------------------------------------------------
+[#66938] 2026-07-16 18:36:07
+(edited 2026-07-16 19:00:41 | reactions: 😁 x1, 🤝 x1)
+  -> replying to #66907 Thunder (user874768682): Are you planning to start another project after gsmg?
+Well. I've been doing this life enjoying project for a while. Quite ego-centric. But in a matrix cypher kinda way I like it.
+----------------------------------------------------------------------------------------------------
+[#66940] 2026-07-16 18:36:59
+(edited 2026-07-16 18:37:06 | reactions: 😁 x1)
+Nah, ketamine is immune to me by now.
+----------------------------------------------------------------------------------------------------
+[#66944] 2026-07-16 18:39:07
+(edited 2026-07-16 19:01:16 | reactions: 😁 x1)
+I think I do have the answer to an nearly optimal drug setup... in case anyone here would be interested.
+----------------------------------------------------------------------------------------------------
+[#66948] 2026-07-16 18:40:39
+(edited 2026-09-01 19:47:50)
+Brb 🤖
+----------------------------------------------------------------------------------------------------
+[#66951] 2026-07-16 18:44:11
+(edited 2026-07-16 18:44:26 | reactions: 👍 x1, ? x1)
+Around for so long, never heard of it. Thanks.
+----------------------------------------------------------------------------------------------------
+[#66961] 2026-07-16 18:50:15
+(edited 2026-07-16 18:50:26 | reactions: 🔥 x2, 🤔 x2)
+Give yourself yourself and yourself will be given yourself.
+----------------------------------------------------------------------------------------------------
+[#66962] 2026-07-16 18:51:10
+(edited 2026-07-18 08:10:03 | reactions: 😁 x1)
+  -> replying to #66958 Anderson Vasconcelos (user24791610): Waiting for the "NOTE: that is a hint." moment
+Latetly, I'm working with many NOTES.
+----------------------------------------------------------------------------------------------------
+[#66964] 2026-07-16 18:52:37
+  -> replying to #66955 n04oh (user5386650593): I really like Clonazepam
+Nice
+[photo 997x1280]
+----------------------------------------------------------------------------------------------------
+[#66969] 2026-07-16 18:54:07
+(edited 2026-08-23 07:19:52 | reactions: 🦄 x1)
+What about 70mq lsd, 100 mg mdma and bit of ket on the end?
+----------------------------------------------------------------------------------------------------
+[#66976] 2026-07-16 18:56:18
+And in Dutch its called "geestveruimend". Implying those who dont take drugs are... simpleminded...
+----------------------------------------------------------------------------------------------------
+[#70307] 2026-09-01 07:49:57
+(edited 2026-09-01 07:56:32 | reactions: 🔥 x9)
+Pfff. Coincidence.
+----------------------------------------------------------------------------------------------------
+[#70309] 2026-09-01 07:57:32
+(edited 2026-09-01 08:04:11 | reactions: 🤝 x5, ❤ x1, 🥰 x1, 🦄 x1)
+To you, and all those that have send me kind words for the monstrosity I decided to build a few years ago. Thanks ❤️.
+----------------------------------------------------------------------------------------------------
+[#70311] 2026-09-01 08:01:50
+(edited 2026-09-01 08:06:35 | reactions: 👏 x1, 🎉 x1, ? x1)
+A. I rushed (t)it.
+B. Yes, have quite some time for stupid stuff.
+----------------------------------------------------------------------------------------------------
+[#70317] 2026-09-01 08:17:44
+  -> replying to #70314 Sell The Dip (user928105459): no one should click random links here
+👆
+----------------------------------------------------------------------------------------------------
+[#70322] 2026-09-01 08:27:03
+(edited 2026-09-01 08:27:09 | reactions: 🫡 x2, ❤ x1, 🔥 x1, 🤝 x1)
+Fairly sober ;-)
+----------------------------------------------------------------------------------------------------
+[#70325] 2026-09-01 08:32:41
+🤐
+----------------------------------------------------------------------------------------------------
+[#70327] 2026-09-01 08:33:19
+(edited 2026-09-01 08:55:08 | reactions: 👍 x1)
+  -> replying to #70319 Lexane (user5116466152): Hi, Jrk. Glad to see you. Having fun?
+Always a joy
+----------------------------------------------------------------------------------------------------
+[#70334] 2026-09-01 08:40:27
+(edited 2026-09-01 09:25:53 | reactions: 👌 x1)
+Enjoying life
+----------------------------------------------------------------------------------------------------
+[#70336] 2026-09-01 08:40:54
+(edited 2026-09-01 08:56:09 | reactions: 😨 x4, ❤ x1)
+Couple hours, and no.
+----------------------------------------------------------------------------------------------------
+[#70377] 2026-09-01 11:41:20
+(edited 2026-09-01 11:45:11 | reactions: 👍 x1)
+  -> replying to #70373 Sparky (user7184569562): Was it not "spent two sloppy days throwing one together" a few months ago?
+Same same
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+CREATOR ADMIN / SERVICE ACTIONS (18)
+====================================================================================================
+[#65] 2019-04-20 09:36:06  join_group_by_link
+[#997] 2019-05-31 11:30:20  invite_members
+[#4164] 2020-05-22 21:12:51  remove_members
+[#4165] 2020-05-22 21:12:59  remove_members
+[#4166] 2020-05-22 21:13:06  remove_members
+[#4167] 2020-05-22 21:13:13  remove_members
+[#4168] 2020-05-22 21:13:22  remove_members
+[#4170] 2020-05-22 21:13:33  remove_members
+[#4178] 2020-05-22 21:36:28  remove_members
+[#4179] 2020-05-22 21:36:33  remove_members
+[#4180] 2020-05-22 21:36:38  remove_members
+[#4186] 2020-05-22 23:55:32  remove_members
+[#4187] 2020-05-22 23:55:39  remove_members
+[#4188] 2020-05-22 23:55:44  remove_members
+[#4189] 2020-05-23 00:04:59  invite_members
+[#4304] 2020-05-23 15:50:20  remove_members
+[#4305] 2020-05-23 15:50:26  remove_members
+[#4306] 2020-05-23 15:50:30  remove_members

@@ -1,0 +1,249 @@
+{
+ "profile": {
+  "tail": "XCPKWGBNAXDGJGDUNNVMPABTAFPAAXMJYLZBUWERDNXYDESKUOBXCAMVDJLQTSGA",
+  "length": 64,
+  "distinct": 24,
+  "counts": {
+   "X": 5,
+   "C": 2,
+   "P": 3,
+   "K": 2,
+   "W": 2,
+   "G": 4,
+   "B": 4,
+   "N": 4,
+   "A": 7,
+   "D": 5,
+   "J": 3,
+   "U": 3,
+   "V": 2,
+   "M": 3,
+   "T": 2,
+   "F": 1,
+   "Y": 2,
+   "L": 2,
+   "Z": 1,
+   "E": 2,
+   "R": 1,
+   "S": 2,
+   "O": 1,
+   "Q": 1
+  },
+  "ioc": 0.0397,
+  "ioc_diff91": 0.0374,
+  "english_ioc": 0.065,
+  "flat26_ioc": 0.0385,
+  "flat24_ioc": 0.0417
+ },
+ "substitution": {
+  "tail64": {
+   "key": "XPMAGIFSKRVOZCEYLDUTNJHBQW",
+   "score": 8,
+   "plaintext": "ANBIZEXUDAREVERSUUKCBDXTDGBDDACVPQMXSZOJRUAPROHISLXANDCKRVQYTHED"
+  },
+  "diff91": {
+   "key": "BCNTYKQOMFPIXDVEGLZUAJSHWR",
+   "score": 8,
+   "plaintext": "OHSLVANDLGAZQOPHISCABEHTYHCMBKFYQACUMNQVQNTCCOIKUADUJKUUMIVERSATYPZNCMENPWFTHAMBUIONVRGDWQU"
+  },
+  "youwon_tail71": {
+   "key": "STQCAWEDUVIHPBOFKNXGRZLYMJ",
+   "score": 7,
+   "plaintext": "XOIFORSDMQFTNRESHTZTHIRRJYMENBEPMEESYZXWVNIFGUHRSXHGAQIONSDEYJHZWCBATE"
+  }
+ },
+ "substitution_controls": {
+  "tail64": {
+   "n": 30,
+   "max": 7,
+   "scores": [
+    5,
+    5,
+    4,
+    4,
+    4,
+    6,
+    4,
+    5,
+    5,
+    5,
+    6,
+    5,
+    5,
+    5,
+    4,
+    5,
+    5,
+    6,
+    5,
+    6,
+    5,
+    6,
+    5,
+    4,
+    5,
+    7,
+    7,
+    6,
+    5,
+    5
+   ],
+   "real_above": true
+  },
+  "diff91": {
+   "n": 30,
+   "max": 8,
+   "scores": [
+    6,
+    5,
+    7,
+    5,
+    5,
+    5,
+    7,
+    5,
+    6,
+    8,
+    6,
+    6,
+    6,
+    6,
+    6,
+    5,
+    6,
+    7,
+    6,
+    5,
+    5,
+    5,
+    5,
+    6,
+    8,
+    5,
+    5,
+    7,
+    6,
+    6
+   ],
+   "real_above": false
+  },
+  "youwon_tail71": {
+   "n": 30,
+   "max": 8,
+   "scores": [
+    6,
+    5,
+    7,
+    5,
+    6,
+    6,
+    4,
+    6,
+    6,
+    5,
+    6,
+    5,
+    6,
+    5,
+    6,
+    8,
+    6,
+    7,
+    5,
+    5,
+    4,
+    5,
+    6,
+    6,
+    5,
+    4,
+    6,
+    5,
+    6,
+    5
+   ],
+   "real_above": false
+  }
+ },
+ "layered_top": [
+  {
+   "target": "diff91",
+   "key": "num_5",
+   "cipher": "vig_enc",
+   "output": "ATENOGIYNVGWLAJTRESGHDTZBTSCHUPBLGSFCILOLIZSSARUFGYFKUFFCRODQEGZBJWISCDIJXPZTGCHFRAIOQVYXLF",
+   "score": 2
+  },
+  {
+   "target": "diff91",
+   "key": "transcript_at484",
+   "cipher": "vig_dec",
+   "output": "IILDQUZHIXKJJXQUMIJIVUKZSBUDCECDINIAKDTVUDJPROENTYPIQHHWLORQYXXDJYDYUQUREZTMRDJIAVRKCHMYOTH",
+   "score": 2
+  },
+  {
+   "target": "tail64",
+   "key": "num_484",
+   "cipher": "vig_enc",
+   "output": "BKTOEKFVEBLKNOHYVRZUTEJXENTEIBQRCPHFYEIVLRBGHIAOYWFBKEQDHNTUXAKE",
+   "score": 1
+  },
+  {
+   "target": "tail64",
+   "key": "num_963",
+   "cipher": "vig_enc",
+   "output": "GISTCJKTDGJJSMGDTQESSJHWJLSJGAVPBUFEDCHAJQGEGNYNDUEGIDVBGSRTCYJJ",
+   "score": 1
+  },
+  {
+   "target": "tail64",
+   "key": "num_489",
+   "cipher": "vig_dec",
+   "output": "TUGGOXXFRTVXFYUQFEREGWTKWXGWSOIBPHRSQOVNVETQUAKBQGSTURINUFDHPKXW",
+   "score": 1
+  },
+  {
+   "target": "tail64",
+   "key": "arch1539_head",
+   "cipher": "beau",
+   "output": "BMFHPCERIVQBVMRSBSFFPMZPNYPROIOEWCCZREJLBQHSRWBYUZHQFEFJKKIYAPYP",
+   "score": 1
+  },
+  {
+   "target": "tail64",
+   "key": "arch1539_at479",
+   "cipher": "beau",
+   "output": "SPTLENDXEBVILPBKNESSOISIUOALEDGVVPLDZLEBQBKGXNBJNMSZFAHFTZHOTIHA",
+   "score": 1
+  },
+  {
+   "target": "tail64",
+   "key": "transcript_head",
+   "cipher": "vig_dec",
+   "output": "EVLYWNKFDGZVVGAQKLHZUWKBAMHMNBEQRSSXUFCKVUTWKEBINGITAHFRSYXDPETW",
+   "score": 1
+  },
+  {
+   "target": "tail64",
+   "key": "transcript_head",
+   "cipher": "beau",
+   "output": "WFPCENQVXUBFFUAKQPTBGEQZAOTONZWKJIIDGVYQFGHEQWZSNUSHATVJICDXLWHE",
+   "score": 1
+  },
+  {
+   "target": "tail64",
+   "key": "arch_at479_sent",
+   "cipher": "beau",
+   "output": "SPTLENDXEBVILPBKNESSOISIUOALEDGVVPLDZLEBQBKGXNBJNMSZFAHFTZHOTIHA",
+   "score": 1
+  }
+ ],
+ "layered_above_control": [],
+ "layered_oracle_hits": [],
+ "substitution_oracle_hits": {
+  "tail64": [],
+  "diff91": [],
+  "youwon_tail71": []
+ },
+ "layered_controls_max": 2,
+ "planted_round_trip": true
+}

@@ -1,0 +1,372 @@
+{
+  "generatedAt": "2026-09-12T05:20:28.715Z",
+  "sourceExport": {
+    "path": "E:\\rabbitv3\\newest-telegram-9.9.26\\result.json",
+    "fileName": "result.json",
+    "bytes": 30988376,
+    "sha256": "829cfb0144a6030d5d9678e3a102f2177266f2abb55ff298492ae8392582234e",
+    "messageCount": 61418
+  },
+  "selection": {
+    "requestedIds": [
+      1743,
+      1837,
+      2935,
+      2943,
+      3048,
+      3051,
+      3054,
+      3338,
+      3339,
+      3340,
+      3341,
+      3342,
+      3343,
+      3344,
+      3345,
+      5335,
+      5950,
+      6608,
+      6689,
+      6692,
+      6695,
+      6700,
+      6702,
+      6703,
+      6704,
+      6705,
+      6706,
+      6707,
+      6717,
+      6724,
+      6733,
+      61272,
+      69853
+    ],
+    "recoveredCount": 33,
+    "missingIds": []
+  },
+  "messages": [
+    {
+      "id": 1743,
+      "sourceDate": "2020-02-20T10:31:58",
+      "unixSeconds": 1582212718,
+      "utcDate": "2020-02-20T15:31:58.000Z",
+      "from": "Jrk Bgrt",
+      "fromId": "user9815232",
+      "text": "😎",
+      "photo": "photos/photo_22@20-02-2020_10-31-58.jpg"
+    },
+    {
+      "id": 1837,
+      "sourceDate": "2020-02-22T15:30:18",
+      "unixSeconds": 1582403418,
+      "utcDate": "2020-02-22T20:30:18.000Z",
+      "from": "Jrk Bgrt",
+      "fromId": "user9815232",
+      "text": "Only -41,-17 matters"
+    },
+    {
+      "id": 2935,
+      "sourceDate": "2020-03-25T07:35:47",
+      "unixSeconds": 1585136147,
+      "utcDate": "2020-03-25T11:35:47.000Z",
+      "from": "A S",
+      "fromId": "user820360232",
+      "text": "did anyone decode the audio from decentraland? did anyone manage to find 2 words?"
+    },
+    {
+      "id": 2943,
+      "sourceDate": "2020-03-25T11:23:12",
+      "unixSeconds": 1585149792,
+      "utcDate": "2020-03-25T15:23:12.000Z",
+      "from": null,
+      "fromId": "user370469246",
+      "text": "Land is only for sale. You need to connect to metamask to enter, but it’s mostly about the audio file (I shared the link on discord). Apparent solution is three words"
+    },
+    {
+      "id": 3048,
+      "sourceDate": "2020-03-26T00:38:48",
+      "unixSeconds": 1585197528,
+      "utcDate": "2020-03-26T04:38:48.000Z",
+      "from": "Headless Dragon",
+      "fromId": "user267737449",
+      "text": "can someone share the audio file or the link to it from decentraland here. \ni explored the shitland play.decentraland .org and it wasted 700mb of my data n i couldn't find anything. it also uses too much ram and cpu like it is mining monero on my laptop."
+    },
+    {
+      "id": 3051,
+      "sourceDate": "2020-03-26T02:02:58",
+      "unixSeconds": 1585202578,
+      "utcDate": "2020-03-26T06:02:58.000Z",
+      "from": null,
+      "fromId": "user750026879",
+      "replyToMessageId": 3048,
+      "text": "just press f12 and hook file)))"
+    },
+    {
+      "id": 3054,
+      "sourceDate": "2020-03-26T03:30:59",
+      "unixSeconds": 1585207859,
+      "utcDate": "2020-03-26T07:30:59.000Z",
+      "from": null,
+      "fromId": "user1001825797",
+      "text": "Sound file"
+    },
+    {
+      "id": 3338,
+      "sourceDate": "2020-04-08T14:38:10",
+      "unixSeconds": 1586371090,
+      "utcDate": "2020-04-08T18:38:10.000Z",
+      "from": "Jrk Bgrt",
+      "fromId": "user9815232",
+      "text": "Those hints are the last hints. Although I can say that one team managed to find something... something others haven't yet found (unless they didn't tell us)."
+    },
+    {
+      "id": 3339,
+      "sourceDate": "2020-04-08T14:58:33",
+      "unixSeconds": 1586372313,
+      "utcDate": "2020-04-08T18:58:33.000Z",
+      "from": "Tracer",
+      "fromId": "user713273879",
+      "text": "Something other than three words from audio?"
+    },
+    {
+      "id": 3340,
+      "sourceDate": "2020-04-08T15:01:53",
+      "unixSeconds": 1586372513,
+      "utcDate": "2020-04-08T19:01:53.000Z",
+      "from": "Jrk Bgrt",
+      "fromId": "user9815232",
+      "text": "That would be another hint."
+    },
+    {
+      "id": 3341,
+      "sourceDate": "2020-04-08T15:12:32",
+      "unixSeconds": 1586373152,
+      "utcDate": "2020-04-08T19:12:32.000Z",
+      "from": null,
+      "fromId": "user370469246",
+      "text": "I suppose it would be a hint if you told us if the errors in the mp3 are unintentional? 🤐"
+    },
+    {
+      "id": 3342,
+      "sourceDate": "2020-04-08T15:12:53",
+      "unixSeconds": 1586373173,
+      "utcDate": "2020-04-08T19:12:53.000Z",
+      "from": "Jrk Bgrt",
+      "fromId": "user9815232",
+      "text": "there are errors?"
+    },
+    {
+      "id": 3343,
+      "sourceDate": "2020-04-08T15:13:37",
+      "unixSeconds": 1586373217,
+      "utcDate": "2020-04-08T19:13:37.000Z",
+      "from": null,
+      "fromId": "user370469246",
+      "text": "well, the solution displays three lines that seem like artifacts, but could hint at more stuff"
+    },
+    {
+      "id": 3344,
+      "sourceDate": "2020-04-08T15:15:12",
+      "unixSeconds": 1586373312,
+      "utcDate": "2020-04-08T19:15:12.000Z",
+      "from": "Lazy Prophet",
+      "fromId": "user952048031",
+      "text": "well you can show it to him... so he can tell you if that is an error or not.."
+    },
+    {
+      "id": 3345,
+      "sourceDate": "2020-04-08T15:16:14",
+      "unixSeconds": 1586373374,
+      "utcDate": "2020-04-08T19:16:14.000Z",
+      "from": "Jrk Bgrt",
+      "fromId": "user9815232",
+      "text": "Before you send anything. No hints; errors and typos are mostly not intended 😄"
+    },
+    {
+      "id": 5335,
+      "sourceDate": "2021-01-06T09:52:44",
+      "unixSeconds": 1609944764,
+      "utcDate": "2021-01-06T14:52:44.000Z",
+      "from": null,
+      "fromId": "user1173894700",
+      "replyToMessageId": 5334,
+      "text": "here's a hint from the creator of the puzzle on Decentraland: decentraland image If you go to Decentraland and find these coordinates, you'll get an audio file. Split stereo track, invert one of them, mix them back, mix stereo down to mono, create a spectrogram. The answer is: HASHTHETEXT"
+    },
+    {
+      "id": 5950,
+      "sourceDate": "2021-03-01T00:10:13",
+      "unixSeconds": 1614575413,
+      "utcDate": "2021-03-01T05:10:13.000Z",
+      "from": null,
+      "fromId": "user1672791186",
+      "text": "first X + Y combo is where you spawn, second is some art gallery, third is the sound file (that contains numbers, which converted to ascii show \"HASHTHETEXT\") and final part is some area near which is a place that shows text ZION"
+    },
+    {
+      "id": 6608,
+      "sourceDate": "2021-03-22T04:15:50",
+      "unixSeconds": 1616400950,
+      "utcDate": "2021-03-22T08:15:50.000Z",
+      "from": "0xColombo",
+      "fromId": "user274980096",
+      "text": "go to decentraland (2, 0)\ngo to museum (32, 82)\ngo to -42, -16 and hash the text\ngo to zion ? Oo"
+    },
+    {
+      "id": 6689,
+      "sourceDate": "2021-03-22T05:36:37",
+      "unixSeconds": 1616405797,
+      "utcDate": "2021-03-22T09:36:37.000Z",
+      "from": null,
+      "fromId": "user750026879",
+      "text": "this way was used to get raw mp3 from gsmg parcel."
+    },
+    {
+      "id": 6692,
+      "sourceDate": "2021-03-22T05:45:11",
+      "unixSeconds": 1616406311,
+      "utcDate": "2021-03-22T09:45:11.000Z",
+      "from": null,
+      "fromId": "user1672791186",
+      "text": "@lelicopter the gsmg audio can also be recorded and then analyzed"
+    },
+    {
+      "id": 6695,
+      "sourceDate": "2021-03-22T05:50:56",
+      "unixSeconds": 1616406656,
+      "utcDate": "2021-03-22T09:50:56.000Z",
+      "from": null,
+      "fromId": "user1672791186",
+      "text": "some noise in few places but overall clear"
+    },
+    {
+      "id": 6700,
+      "sourceDate": "2021-03-22T06:57:47",
+      "unixSeconds": 1616410667,
+      "utcDate": "2021-03-22T10:57:47.000Z",
+      "from": null,
+      "fromId": "user750026879",
+      "replyToMessageId": 6695,
+      "text": "its not a noise. its a 3 different frames in original mp3."
+    },
+    {
+      "id": 6702,
+      "sourceDate": "2021-03-22T06:59:21",
+      "unixSeconds": 1616410761,
+      "utcDate": "2021-03-22T10:59:21.000Z",
+      "from": null,
+      "fromId": "user1672791186",
+      "text": "I stored it using audio recorder plugin and assumed some other background noise came in"
+    },
+    {
+      "id": 6703,
+      "sourceDate": "2021-03-22T07:01:04",
+      "unixSeconds": 1616410864,
+      "utcDate": "2021-03-22T11:01:04.000Z",
+      "from": null,
+      "fromId": "user1672791186",
+      "text": "browser debug tool showed tons of network requests but none of them were plain mp3 so I used old-school approach of just recording it :D"
+    },
+    {
+      "id": 6704,
+      "sourceDate": "2021-03-22T07:07:26",
+      "unixSeconds": 1616411246,
+      "utcDate": "2021-03-22T11:07:26.000Z",
+      "from": null,
+      "fromId": "user750026879",
+      "text": "i just create python lib to parse mp3 :)"
+    },
+    {
+      "id": 6705,
+      "sourceDate": "2021-03-22T07:08:20",
+      "unixSeconds": 1616411300,
+      "utcDate": "2021-03-22T11:08:20.000Z",
+      "from": null,
+      "fromId": "user750026879",
+      "text": "",
+      "file": "files/frames.csv",
+      "fileName": "frames.csv",
+      "mimeType": "text/comma-separated-values"
+    },
+    {
+      "id": 6706,
+      "sourceDate": "2021-03-22T07:12:20",
+      "unixSeconds": 1616411540,
+      "utcDate": "2021-03-22T11:12:20.000Z",
+      "from": null,
+      "fromId": "user750026879",
+      "text": "https://github.com/lelicopter/mp3hacker"
+    },
+    {
+      "id": 6707,
+      "sourceDate": "2021-03-22T07:13:26",
+      "unixSeconds": 1616411606,
+      "utcDate": "2021-03-22T11:13:26.000Z",
+      "from": null,
+      "fromId": "user750026879",
+      "text": "test.mp3 exactly puzzlepiece.mp3 from gsmg parcel."
+    },
+    {
+      "id": 6717,
+      "sourceDate": "2021-03-22T18:14:45",
+      "unixSeconds": 1616451285,
+      "utcDate": "2021-03-22T22:14:45.000Z",
+      "from": null,
+      "fromId": "user1672791186",
+      "text": "the github page for gsmg puzzle mentions how to process file"
+    },
+    {
+      "id": 6724,
+      "sourceDate": "2021-03-22T18:19:15",
+      "unixSeconds": 1616451555,
+      "utcDate": "2021-03-22T22:19:15.000Z",
+      "from": null,
+      "fromId": "user1672791186",
+      "text": "although I had used audacity to mess around with audio files before, it took me a bit of time to get through all the steps"
+    },
+    {
+      "id": 6733,
+      "sourceDate": "2021-03-22T18:28:35",
+      "unixSeconds": 1616452115,
+      "utcDate": "2021-03-22T22:28:35.000Z",
+      "from": null,
+      "fromId": "user1672791186",
+      "text": "although not exactly correct I guess, the audio file is at around x -42 y -16"
+    },
+    {
+      "id": 61272,
+      "sourceDate": "2026-04-05T10:45:19",
+      "unixSeconds": 1775400319,
+      "utcDate": "2026-04-05T14:45:19.000Z",
+      "from": "Человек",
+      "fromId": "user471874754",
+      "replyToMessageId": 61269,
+      "text": "AlphaNoises here. At some mp3 frames."
+    },
+    {
+      "id": 69853,
+      "sourceDate": "2026-08-24T23:15:56",
+      "unixSeconds": 1787627756,
+      "utcDate": "2026-08-25T03:15:56.000Z",
+      "from": "Человек",
+      "fromId": "user471874754",
+      "replyToMessageId": 69852,
+      "text": "3 frames in mp3 not associated with hashthetext.\n\nU can extract, reassemble mp3, and check.\n\nGithub lelicopter mp3hacker python 2.7\n\n4, 15, 131 frames. See mp3repack"
+    }
+  ],
+  "attachments": [
+    {
+      "relativePath": "photos/photo_22@20-02-2020_10-31-58.jpg",
+      "absolutePath": "E:\\rabbitv3\\newest-telegram-9.9.26\\photos\\photo_22@20-02-2020_10-31-58.jpg",
+      "bytes": 111593,
+      "sha256": "00c7c7ecaedf1a09a7fe443cfbdcf78e7415c371ee29019662bd18d55264e3f0"
+    },
+    {
+      "relativePath": "files/frames.csv",
+      "absolutePath": "E:\\rabbitv3\\newest-telegram-9.9.26\\files\\frames.csv",
+      "bytes": 1766302,
+      "sha256": "4b7badc94b568ab3837249d45993f4ab297b1d69caaa55d7e808847408675336"
+    }
+  ],
+  "provenanceCaveat": "The export authenticates ordering, timestamps, sender IDs and local attachments within this Telegram export. It does not independently prove identity claims for non-creator participants or that later interpretations are correct."
+}

@@ -1,0 +1,131 @@
+{
+ "date": "2026-09-14",
+ "closed_system": true,
+ "network": false,
+ "envelope_bytes_read": 0,
+ "aes_decryptions": 0,
+ "sources": {
+  "broad": {
+   "words": 532,
+   "sha256": "62141035dedb1165373121f0e70f5be2039770a2589fcf00b46894c4f51e27c9"
+  },
+  "tight": {
+   "words": 204,
+   "sha256": "ab466088cc50072b9ec92ed356b00cdaa60b65b5b301f1872a5748be91e423d3"
+  }
+ },
+ "puzzle": {
+  "words": 336,
+  "sha256": "9c9f628ce1d5142ff499c842d634b847f8fae48086cf672ee650d08752993ef5"
+ },
+ "selectors": {
+  "first23_primes": [
+   2,
+   3,
+   5,
+   7,
+   11,
+   13,
+   17,
+   19,
+   23,
+   29,
+   31,
+   37,
+   41,
+   43,
+   47,
+   53,
+   59,
+   61,
+   67,
+   71,
+   73,
+   79,
+   83
+  ],
+  "first24_primes": [
+   2,
+   3,
+   5,
+   7,
+   11,
+   13,
+   17,
+   19,
+   23,
+   29,
+   31,
+   37,
+   41,
+   43,
+   47,
+   53,
+   59,
+   61,
+   67,
+   71,
+   73,
+   79,
+   83,
+   89
+  ],
+  "blue_ordinals": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   11,
+   12,
+   13,
+   14,
+   16,
+   17,
+   20,
+   23
+  ],
+  "yellow_ordinals": [
+   5,
+   9,
+   10,
+   15,
+   18,
+   19,
+   21,
+   22,
+   24
+  ],
+  "blue_prime_values": [
+   2,
+   3,
+   5,
+   7,
+   13,
+   17,
+   19,
+   31,
+   37,
+   41,
+   43,
+   53,
+   59,
+   71,
+   83
+  ],
+  "yellow_prime_values": [
+   11,
+   23,
+   29,
+   47,
+   61,
+   67,
+   73,
+   79,
+   89
+  ]
+ },
+ "scope": "word-level source/puzzle differential; edit streams; prime and colour selectors"
+}

@@ -1,0 +1,9 @@
+*.beta.gsmg.io
+*.gsmg.io
+api-staging.gsmg.io
+api.gsmg.io
+beta.gsmg.io
+gsmg.io
+help.gsmg.io
+openpgpkey.gsmg.io
+www.gsmg.io

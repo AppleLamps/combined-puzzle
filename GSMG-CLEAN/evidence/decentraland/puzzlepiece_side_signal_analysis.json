@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-09-12T05:19:02.940Z",
+  "input": "E:\\rabbitv3\\rabbit\\analysis\\out\\gsmg_hidden_research_2026_09_12\\decentraland_scene\\sounds\\puzzlepiece.mp3",
+  "fileName": "puzzlepiece.mp3",
+  "inputSha256": "ef17a96dce37b4dd7cbf79f210c5cbaf37fcae60e5faf8004de4e0832bd0dfee",
+  "sampleRate": 44100,
+  "decodedSamplesPerChannel": 229248,
+  "decodedDurationSeconds": 5.198367346938776,
+  "analysisWindow": {
+    "startSample": 4608,
+    "endSampleExclusive": 224640,
+    "startSeconds": 0.10448979591836735,
+    "endSeconds": 5.093877551020408
+  },
+  "strongestPeriodCandidates": [
+    {
+      "periodSamples": 684,
+      "frequencyHz": 64.47368421052632,
+      "correlation": 0.9356655900787074
+    },
+    {
+      "periodSamples": 1368,
+      "frequencyHz": 32.23684210526316,
+      "correlation": 0.93406708109438
+    },
+    {
+      "periodSamples": 1367,
+      "frequencyHz": 32.260424286759324,
+      "correlation": 0.9338987062645763
+    },
+    {
+      "periodSamples": 683,
+      "frequencyHz": 64.56808199121522,
+      "correlation": 0.9332558898819461
+    },
+    {
+      "periodSamples": 685,
+      "frequencyHz": 64.37956204379562,
+      "correlation": 0.9326130003702743
+    },
+    {
+      "periodSamples": 1369,
+      "frequencyHz": 32.213294375456535,
+      "correlation": 0.9317562613569773
+    },
+    {
+      "periodSamples": 1366,
+      "frequencyHz": 32.28404099560761,
+      "correlation": 0.9313316695770444
+    },
+    {
+      "periodSamples": 682,
+      "frequencyHz": 64.66275659824046,
+      "correlation": 0.9304997657179447
+    },
+    {
+      "periodSamples": 686,
+      "frequencyHz": 64.28571428571429,
+      "correlation": 0.9296027873879383
+    },
+    {
+      "periodSamples": 1370,
+      "frequencyHz": 32.18978102189781,
+      "correlation": 0.9281930903678728
+    },
+    {
+      "periodSamples": 681,
+      "frequencyHz": 64.75770925110132,
+      "correlation": 0.9281766433347164
+    },
+    {
+      "periodSamples": 1365,
+      "frequencyHz": 32.30769230769231,
+      "correlation": 0.927507498789692
+    },
+    {
+      "periodSamples": 687,
+      "frequencyHz": 64.19213973799127,
+      "correlation": 0.9251240898810552
+    },
+    {
+      "periodSamples": 1371,
+      "frequencyHz": 32.16630196936543,
+      "correlation": 0.9239063038839735
+    },
+    {
+      "periodSamples": 1364,
+      "frequencyHz": 32.33137829912023,
+      "correlation": 0.9235154042867361
+    },
+    {
+      "periodSamples": 680,
+      "frequencyHz": 64.8529411764706,
+      "correlation": 0.92191117005149
+    },
+    {
+      "periodSamples": 688,
+      "frequencyHz": 64.09883720930233,
+      "correlation": 0.9206990448607051
+    },
+    {
+      "periodSamples": 1372,
+      "frequencyHz": 32.142857142857146,
+      "correlation": 0.9200208167710429
+    },
+    {
+      "periodSamples": 1363,
+      "frequencyHz": 32.35509904622157,
+      "correlation": 0.9194162347196951
+    },
+    {
+      "periodSamples": 679,
+      "frequencyHz": 64.94845360824742,
+      "correlation": 0.9193751634442283
+    }
+  ],
+  "period684": {
+    "periodSamples": 684,
+    "frequencyHz": 64.47368421052632,
+    "fullSignalLagCorrelation": 0.9356655900787074,
+    "averagedCycles": 321,
+    "halfPeriodSamples": 342,
+    "halfWaveAntisymmetryCorrelation": 0.9997487250657034,
+    "interpretation": "Correlation metrics describe the recovered L-R side channel; they do not by themselves establish a separate encoded message."
+  }
+}

@@ -1,0 +1,15 @@
+poster spiral (black/blue=1, white/yellow=0) -> gsmg.io/theseedisplanted
+poster colored cells in spiral order: BBBBYBBBYYBBBBYBBYYBYYBY (blue=15, yellow=9)
+phase1 answer sha256 = 5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+phase2 envelope opens with "causality" (648 bytes)
+phase3 envelope opens with 7-part concatenation (4090 bytes, sha256 c4ad94559a44a927c1032cc0e024515f9510a0806a2d14458dbf4a360af9865f)
+hex part reversed = The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+phase3.2 envelope opens (2422 bytes, sha256 b82afeb86f9e50848220f9b64b744b821400308aea273a1c949b9d2d0e408a34)
+Architect block: cp273 + Beaufort(THEMATRIXHASYOU) -> 1539 letters
+Architect letter index 479 (0-based) starts "PRIVATEKEY"; PRIVATEKEY occurrences at [479, 1238]
+checkerboard (key FUBCDORA.LETHINGKYMVPS/JQZXW, blanks 1,4): INCASEYOUMANAGETOCRACKTHISTHEPRIVATEKEYSBELONGTOHALFANDBETTERHALFANDTHEYALSONEEDFUNDSTOLIVE
+sha256(caption) = 89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32 is an archived gsmg.io path (SalPhaseIon)
+SalPhaseIon labels: {"s[91:195] a=0 b=1": "matrixsumlist", "s[959:999] a=0 b=1": "enter", "s[766:829] a-i=1-9 o=0 int": "lastwordsbeforearchichoice", "s[830:859] a-i=1-9 o=0 int": "thispassword"}
+SalPhaseIon literal text fragments: 'shabefourfirsthintisyourlastcommand' / 'shabefanstoo'
+DBBI - VIC = VOZIJBDTIQBRGVEOMZNBCYOUWONXCPKWGBNAXDGJGDUNNVMPABTAFPAAXMJYLZBUWERDNXYDESKUOBXCAMVDJLQTSGA  (VIC at 1,4,21; YOUWON at 22-27; 64-letter tail)
+locked envelopes: {"terminal_phase3_2_end": {"bytes": 96, "ciphertext_bytes": 80, "salt": "b45a5e3d827593ca", "sha256": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9"}, "salphaseion_short": {"bytes": 96, "ciphertext_bytes": 80, "salt": "3ab585348552415d", "sha256": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258"}, "cosmic_duality": {"bytes": 1344, "ciphertext_bytes": 1328, "salt": "2d3f6fe06dc950e6", "sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"}}

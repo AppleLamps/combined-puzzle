@@ -1,0 +1,24 @@
+{
+  "task": "Test necessary repeated-key periodicity for 236/237-byte Architect passages",
+  "primary": "Natural decimal plaintext and ciphertext lengths must agree",
+  "explicit_alternatives": [
+    "Left-pad shorter decimal plaintext to 570 digits",
+    "Restore one omitted leading zero to ciphertext for 571-digit plaintext"
+  ],
+  "operators": [
+    "Beaufort K=C+P mod10",
+    "Vigenere K=C-P mod10"
+  ],
+  "target_lengths": [
+    236,
+    237
+  ],
+  "source_scope": "Within single Architect utterances and modified puzzle speech, complete word boundaries",
+  "comparison_key_length_limit": 103,
+  "limitations": "No claim other byte lengths, transcripts, ciphers, or nontext outputs are excluded; these two cipher families are hypotheses",
+  "sources": {
+    "data/FAED_570.txt": "a8f4d4c255deeba1cd2c9ba0b87af6bc6b737eee74ebbc45b457fe68965b3d35",
+    "data/architect_plaintext_readable.txt": "9c9f628ce1d5142ff499c842d634b847f8fae48086cf672ee650d08752993ef5",
+    "reference_texts/matrix_reloaded_architect_scene_scott_manning.md": "b99b46cdf27e4597846b85160b369df83f0c0d6ae50f4b691186c8d69d479381"
+  }
+}
