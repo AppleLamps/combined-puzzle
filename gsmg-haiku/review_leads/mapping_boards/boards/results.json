@@ -1,0 +1,23 @@
+{
+  "mode": "boards",
+  "generated_answers": 466400,
+  "unique_answers": 461978,
+  "target_point_comparisons": 883037,
+  "aes_trials": 1385934,
+  "padding_valid": 5541,
+  "generation": {
+    "alphabets": 22,
+    "column_orders": 20,
+    "ordered_prefix_pairs": 90,
+    "boards": 39600,
+    "stream_decodings": 158400,
+    "complete_parses": 129360
+  },
+  "short_plaintext_lengths": {
+    "79": 3688,
+    "78": 20
+  },
+  "target_matches": [],
+  "structural_candidates": [],
+  "seconds": 76.07
+}

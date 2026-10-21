@@ -1,0 +1,26 @@
+> Review correction (2026-10-09): this is a historical bounded experiment log, not proof of a solve or exhaustive exclusion. The fixed-board results in [TRANSPOSE_REPORT.md](../review_leads/TRANSPOSE_REPORT.md) and [REVIEW_CORRECTIONS.md](../review_leads/REVIEW_CORRECTIONS.md) supersede its stronger interpretations. No search was rerun for this correction.
+
+## Verification
+
+*   **Matrix-Reloaded transcript alignments**: I confirmed that Line 20 of the provided transcript ("Architect: There are levels of survival we are prepared to accept. However the relevant issue is whether you are ready to accept the responsibility for the death of every human being in this world. It is interesting reading your reactions. Your five predecessors were, by design, based on a similar predication, a contingent affirmation that was meant to create a profound attachment to the rest of your species facilitating the function of the One. While the others experienced this in a very general way your experience is far more specific, vis-a-vis love.") contains exactly 91 words when stripped of punctuation. This exactly matches the lengths of Run 1 (91 `a-i` characters) and the Checkerboard plaintext (91 letters). (Checked via `test_lead1.py`).
+*   **Run 1 Straddling Checkerboard Parsing**: I verified that if the 91 digits of Run 1 (`dbbib...`) are parsed using `2` (b) and `5` (e) as row selectors for a 9-column straddling checkerboard, it perfectly partitions into exactly 63 valid coordinates. This matches the length of the decimal encoding of `lastwordsbeforearchichoice` (63 digits); the phrase itself is 26 letters. That cross-representation length match does not identify plaintext. (Checked via Python frequency analysis script).
+*   **Phase 0 Poster Cell Distributions**: I analyzed the spiral path of the 14x14 poster and confirmed that the B and Y cells exclusively occur at indices 8k - 1 (the last bit of every byte in the 196-bit sequence), indicating they were just 1s and 0s serving as byte-boundary markers for the Phase 0 binary, and not a standalone cipher grid. (Checked via `inspect_poster_grid.py`).
+
+## Inferences
+
+*   **The "sad board" is a 14-column Transposition Cipher**: The Phase 3.2 clue states "A fubcd-king & oracle-queen, thingky mvps, on a sad board but as wide as the first one seen". I infer that the checkerboard alphabet chunks (`FUBCD`, `ORACLE`, `THINGKY`, `MVPS`) combined with the word `SAD` specify a 14-letter columnar transposition key (e.g., `FUBCDORACLESAD` or `THINGKYMVPSSAD`). The "first one seen" (14x14 poster) motivates, but does not confirm, a 14-column width. The 91 letters of the Phase 2 checkerboard plaintext can be placed in a ragged 14-column grid (six full rows and seven remaining cells). This is a hypothesis, not an exact rectangular fit or proof of the intended payload.
+*   **Historical 63-symbol parse**: the b/e-selector model reportedly parses R1 into 63 symbols. The 63-digit encoding of the 26-letter phrase `lastwordsbeforearchichoice` has the same numerical length. No null model or significance calculation supports calling this coincidence statistically impossible; syntactic parsing does not recover plaintext. This alternative board is distinct from the established fixed board, whose row prefixes are 1 and 4.
+
+
+## Failed Attempts
+
+*   **Element-wise Matrix Sums (Lead 1)**: I tested combining the 91 values of Run 1, the Checkerboard plaintext, and the Line 20 word lengths via element-wise addition, concatenation, and modulo 26 shifting. None of the resulting strings (or combinations with "matrixsumlist") decrypted any containers. (`test_matrixsum.py`)
+*   **14-Wide Columnar Transposition (Lead 2)**: I applied columnar transposition to the 91-letter checkerboard plaintext using the 14-letter keys `FUBCDORACLESAD` and `THINGKYMVPSSAD`. None of the readouts decrypted any containers. (`test_transposition.py`)
+*   **Alphabet Substitution on Run 1**: I attempted to map the 25 letters of the Phase 2 checkerboard alphabet onto the 25 available slots of the 9-column (row selectors 2, 5) checkerboard grid to decode the 63 symbols of Run 1. I tested dropping various letters (Z, J, X, Q, W) to fit the 25 slots. The resulting 63-letter strings did not decrypt any containers. (`test_checkerboard.py`)
+*   **BigInt Decoding of Run 1**: I attempted to decode Run 1 using the same base-10 to hex to ASCII conversion that decoded `thispassword` and `lastwordsbeforearchichoice`. It produced nonprintable bytes under that particular conversion. Nonprintability neither proves a different encoding nor excludes binary content or a subsequent transform.
+
+## Current interpretation
+
+No remaining container was solved by these bounded attempts. The 63-symbol model and 14-column keys are hypotheses, not established next stages. Failed tested candidates exclude only their particular inputs, transformations, KDFs and acceptance criteria.
+
+For the established a..i-to-1..9 mapping and fixed board, R1 counts are a3,b25,c8,d4,e18,f10,g10,h8,i5. Any permutation of the stream yielding a complete parse has at least 18 U characters, at most 3 combined L/E/T/H/I/N/G/K/Y, and at least 84 decoded characters. The independent 32-case structural reproduction gives 29 complete and 3 incomplete parses. Successful parsing is not plaintext recovery.

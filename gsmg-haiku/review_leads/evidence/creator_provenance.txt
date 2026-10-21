@@ -1,0 +1,24 @@
+Source: local source-kit jrk_messages.txt
+Source-kit commit named in review: 00bc7b003140399d6d9a85aa3f7c91ce70a80a7a
+Local full-file SHA256: 1774c53002b70641055858b52a577750ec524b1e9578dbb9ce1430b1fb9edd1e
+The local kit is an unpacked archive, not a Git checkout; commit identity is supplied by the review.
+Original timestamps and edit timestamps are distinct. No edit history is available.
+
+[#991] 2019-05-31 11:28:28
+Apparently folks found a new piece.
+
+[#1487] 2019-09-26 11:35:24
+(edited 2025-04-30 19:07:20 | reactions: 🤔 x1)
+There may indeed a piece be found outside the main puzzle.
+
+[#6250] 2021-03-05 08:15:26
+(edited 2025-09-08 18:16:30 | reactions: 🤔 x1)
+Infrared
+
+[#6884] 2021-04-01 02:57:38
+(edited 2025-02-02 20:11:21 | reactions: 🤔 x1)
+Hint: "another door might be found on {1 },{4} ,{21}"
+
+[#6895] 2021-04-01 04:34:22
+  -> replying to #6891 x7x7x7x6 (user633059140): Private key might be found on {30 },{2} ,{77}
+Good one V ;-). (Assuming you played cyberpunk).

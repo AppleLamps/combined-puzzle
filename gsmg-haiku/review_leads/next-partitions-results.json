@@ -1,0 +1,10 @@
+{
+  "next-partitions": {
+    "unique_answers": 252,
+    "decryptions": 756,
+    "padding_valid": 5,
+    "best_printable": 0.4050632911392405,
+    "structured_candidates": [],
+    "seconds": 0.02
+  }
+}

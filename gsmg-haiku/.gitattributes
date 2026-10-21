@@ -1,0 +1,12 @@
+# These derived artifacts intentionally store the LF representation.
+# README/STEPS separately record original CRLF hashes and byte offsets.
+derived/phase2-plaintext.txt text eol=lf
+derived/phase3-plaintext.txt text eol=lf
+derived/phase3.2-plaintext.bin text eol=lf
+
+# Preserve copied explorer-response bytes and their manifest hashes.
+review_leads/evidence/bsv_*.json -text
+
+
+# Preserve exact cryptanalysis evidence, CRLF plaintext, binary tables and manifests.
+review_leads/cryptanalysis_2026_10_15/** -text

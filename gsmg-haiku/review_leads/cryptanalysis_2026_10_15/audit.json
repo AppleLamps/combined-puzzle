@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "receipts": [
+    "BTCSEED is interleaved; it is NOT a prefix of the column stream alone",
+    "512 alphabet-free row bits include eight BTCSEED header bits; payload is 504 bits",
+    "IFINDOUBT impossible under any linear 3x3 natural25 A0 key, by mod5 invariant",
+    "Conservative C++ prefix bounds: proof constants and 15012 exact boundary/random cases",
+    "30 retained accelerated outputs exactly reproduced with Python arbitrary-precision arithmetic; four forward controls recovered"
+  ],
+  "radix_retained_outputs": 30,
+  "radix_bound_cases": 15012,
+  "free_row_full": {
+    "materials": 32,
+    "roots": 96,
+    "paths": 295,
+    "checks": 28480,
+    "aes": 960
+  },
+  "free_row_payload": {
+    "materials": 32,
+    "checks": 9472,
+    "aes": 576
+  }
+}

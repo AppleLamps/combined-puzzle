@@ -1,0 +1,12 @@
+{
+  "bits": 32,
+  "offset_range": [
+    -2147483648,
+    2147483647
+  ],
+  "seed_count": 10,
+  "signs_per_seed": 2,
+  "point_additions": 1376276,
+  "seconds": 8.7,
+  "hits": []
+}

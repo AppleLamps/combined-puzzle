@@ -1,0 +1,355 @@
+{
+  "digit_sum": 3079,
+  "architect_length": 1539,
+  "source_window_relation": "sum(digits)=2*1539+1; invariant under shuffling, not ordering evidence",
+  "real": [
+    {
+      "source": "architect",
+      "source_reverse": false,
+      "digits_reverse": false,
+      "score": -3.7082503773645814,
+      "start": 1208,
+      "output": "dpothlayelbuoriberpwihpsrlayymilrroupihmnllealllitntntffgneesiohaeysmanaaeoenoinozarenialyiieyeroauoiftrwamoomleinesedulaioexnoymrnidobyavnmenegegsktsefdatlteofzkravabssrahemahtthuhenhaugrryocmitaspbiiojslibnfhidikmstlaciofiteasespalupbartwbsedtoredeeicetoouotranamdttoulriiheariowqecvehirseptoinoserttsemgirolihestcshowoienortdieuneiothrfefdlreslehcobyiseiflqitthaozreyfawpcsiblirhosofaciineuainectunurhauobyueweqnerhnegqarluamleaparikadtuaithtwottheuenttyriapsdetbdidunibirssrkemttvhsruoeshttsetobllterdlamestusethavellaeeelntnhiwtordipryssooeuritersfwcyorescetypetott"
+    },
+    {
+      "source": "architect",
+      "source_reverse": false,
+      "digits_reverse": true,
+      "score": -3.697226917906317,
+      "start": 152,
+      "output": "eottiontaeilinartsyvioudobecorwiexlhutwmnrhtacehepfwaypeoztikoadpektrtwmoedtituufensmtsmroahestuioaufhunrecoiksryaveuefttitbenaipcalaeseselestartsimiecntinfyioutcolaeyatulyrytpseybetowyiinrneredftaetauibeumpwssscyimlyllwiltteaoulvimreuiitoneoeoeteyucoiodnlarnorrteoeanyceeehuotethesrtharhmibdlvotoetubnstcalilueeusitngacnssofdollthueetuetahehseinefthtamtraptpuulitftribhnossdpeleimrthtceutehhtptosstllttahoeesiselsiedesenbeietfnnhnretcowpinneeerritpasieheiesemeytrheeynoiistoteciteoaruintefatitrwealstsyipidexeoniliteeleieeorslfneeyyounllfsfiabnqnhnttrozrthetlaowdmretsb"
+    },
+    {
+      "source": "architect",
+      "source_reverse": true,
+      "digits_reverse": false,
+      "score": -3.782242417208505,
+      "start": 39,
+      "output": "kcoeuettotetlueidoufotieteorlulkeyanieirtotafurmeltytacfrenievsnirceoeerbuhscpiteafeedtassyeanlachtnyoutaifegxevdasdshieahihttsonllehellotcsstseuscyyrsheirscsroumlowutlhspesilotstattitufhsadhoamatrtaeperyretztteoauaeeerstttqusueoohresonacxttyltduitilamhetofibbrryephniteyuhirgoiiqdnnmusloebeuoleeoloennxiltioloootwlhiicmaecshmeebirtbtoyeicnfsstindontssctetleeoribetereeooiimlesttynchneneodsasiatihrutshapsiellaupittrenuuseuyokpnssrielrnudesdetuencntggatioodseenetataaedakptpalltuoaehuhgtetgeouqmsaayoayechnoadbutuildesarwnrlaysraalebsrtssdiylfteushagreentuqabdmsefaeoler"
+    },
+    {
+      "source": "architect",
+      "source_reverse": true,
+      "digits_reverse": true,
+      "score": -3.7981651174953632,
+      "start": 1276,
+      "output": "doniiceimniwtawraibnnsreisyaftattlshieteulnnmtioyoepohrhulusreotehuetavtroianteeciwwpoitmtaesstclitrttattrcodsnersperrteterlhfsieirsruhueisranactusofincfeeoehuserehslotaenallttsdhactairuatctloiirititueywatsuesescitgusneseretrtevswtehtkebdayehzhpletiaoewshrodrseheeiawfenstpsooneitihsitmysstmfenubsfemscaynehosirtiocuammtrbetrylitcoffynefntrmdlonhtcorlrtimatlctptlfuioelttypldtrwaiweeanrererrvttereocrcptrrpucoimrealedooroenfiiieeedoseremhlhusuphloettsidisyceslnreeytietotikponsclrogyteygaatslhteehcnymystmeohhretastottapeoarekzuahmtdniehatqtingtmeyrenheryelhilcrmyueptot"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "source_reverse": false,
+      "digits_reverse": false,
+      "score": -4.905298320461849,
+      "start": 905,
+      "output": "whzmfjdajgkqiwjmahmdccidvqndulqmoktejtawaubyewfeqgzlykadsqxdenuoldrjnwsdgiqnnuxeejiyossgauihmwamalbatdgsmlieuekltytmgqiconwgdaakljlupauktoevarvxwcenncreqbajhuxgzycazycocelenayhejsappzyusmonsfguytwupxxqptohagpetztjhdguaxpncjdypoahtplbxnqahiloucdfganpxeepcjolntmdtiumhtfmntgthttsadytmwhdhnhtuddptlezsxzirwkwothwpcenpsatxvattkcugzliqqowmplqaaldptedrlfokbmrxmsgomjpipubegyozfoeypzjevtxhdwehnetupgiodagnqalieatpaukywtfargoexwckzumtpmjugatchyyvzftlnpsweeeyoapzsxbonajqtknxuxznsoghnpdbhqduyvipwrcpkqyhopealoiuluoikbffszeiswzudmuomxeyaeypnommdycjpewadmkygtxtgpptoaylythhmzrdptta"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "source_reverse": false,
+      "digits_reverse": true,
+      "score": -4.880042622514576,
+      "start": 1099,
+      "output": "kbgiywieweavfuspexrnntmkzxjqhnskzdoqisgecikmgaemyyyelybaufsbehlklbaepwtcgvdaaaaoeekhltpzpptftbffkewwktzehbtaphygqnqubvfobgswezupsoaaafprunolguqtfmuzaspocapstersnghdvatsxjmytqoofaiibpjbfpcheaccamzumjqlmementncjnlivhpfaqzygmhgigattwmmmnjdzuhnddrqmeyrxphwittewegtnqsyjexjaatyrcibgliegqqemwkadfcthnaltmtexxgstdvooiubavahsrgarpmwaaevakzhcifkwtlthgqvahneqjmwzipttuywarkgiupebtehiibumjaddgpetgubzvtmbsaehaaznysapnrjkoplagqtnqwxigpashmpedqkdnghvaqpiwfhqtxooafoaktybobaufntdsapaiszfaweehunxenemeejepqqybmqlupildapigbtpipkotmwwnpfsufrpltezwsrafxpartpwcaytrmdgciqpewutsbwhopmeorlwu"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "source_reverse": true,
+      "digits_reverse": false,
+      "score": -4.868231534885556,
+      "start": 971,
+      "output": "bkpvykemdfaccohimmzxpnpqaahcgjtbqsprmaosuwgwipxwnmflejnjyaeubaqeheaaeleocubzayiqfiqahubjarctmtsgfkeixxfnyuwfgppptapvllewmsabaxywgyhalnwdkwfhxvkcbaypsiuwrsihaudvoufnppgdnngqxrzlotlnhepsejmegwzecnoeqwlacsiortptqajqlzawrpqiewetoctrmbeswelelvidiuldjnwptmamptbgzqmotpuiqqactzedjecuyenmuladdasykblzadnupomkiaaodydmcwpieaqdtamdpakayzvxfuitbbxlnknxjznpuzpyezzaansnbmfhnugmefwahavtmenkuwoxavtoftaxtptlemnwbdkqhvhytknwdhidgtvzwqobazijeomshucicfhmpoomrwshmsdvofenepulaeqaeiyinloagewapjasuyzwarzmecpfwthzocrcpwrsidgtrahqtqrdvunlrkhultymasxhgypkoiteiltymmdtopyjaunlqrinmuhwdabktladfu"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "source_reverse": true,
+      "digits_reverse": true,
+      "score": -4.857100229222099,
+      "start": 923,
+      "output": "kilaqfpdloeueixxolepoxrzfrbehtaalitmamedpcoapwvuxnqwqbelpunpfpaapqjezzwesecbemovobnyzqsxdahqcihtbecxxvxjftwkttxplmtieongadgtykkulhtklebkabvavolaewvxriskigceoguiobigdwnzxetemqseesubuqpewqifkouuqtwkphwmswepnticprezcvpnraipbwmwyeywbmeeiuhslhjwblyupsiggykotqclmmyqbndvapygnkebjusileadfpndblvleehoapclxtmjrxkxavhatartgcrhpapwwxkbinygnuibshvppasefaceexfomgnfxidhpbprlmbswkeekvjabeuizkpuppheljiewodaaxycigvphtklclkfgduacvbjayppjuwriajcueupfobinkhmqqzlcmtnehexsbimuegzgwuokditobiowotjtjaalvqmswlwpnvpgefhoaowcqrgdbtabymzhbeinupmduptutamkoxgtvgthqspavuktnxiycnnemeacmxbjimpkajidc"
+    }
+  ],
+  "shuffle_controls": [
+    {
+      "source": "architect",
+      "shuffle": 0,
+      "score": -3.6642058700154108,
+      "start": 1001,
+      "output": "notnttcegritohodufleniatcolqofrotchtcisendsealktatfieuiuowhpsritschoweruwetionroeuerlhxoteseffkveeeollautseanneeintggsyeiooaeinssvnelrowofaacilesnludtsxatnbodeorhoryrohweqnuiteitunheiatcmlstethreetlkshaasbdoeyosttstgetpleastbsfirmtwssrlhrothomsteitaspsiehorbohaeeadtlteasarsonvegecinotestorloaysemifeocritnisrueretewtypexeiseeerdlketbitiltiowlsnamcyralnylilettorivellyittoeioffcveiyeceooiefencahheroulhlaldyefftbebinaatrwrmthlihtbesudoeanbyamcideeyhswqnritttianeeyutettteekvonueehrtwibhiwodotsttgetalheseliosgibntcolmoelyyuthsutnvnhsatolieateodehnestsiottheaoslsheilnfio"
+    },
+    {
+      "source": "architect",
+      "shuffle": 1,
+      "score": -3.703712738648249,
+      "start": 1452,
+      "output": "ohieosluvsloteobrtoidalauhtomgueeelnawepisneffshnomiomormnemaohaiudsyvttednhsedesowhluorbyatnyuqrtsauirheaeiwatetofhetrtodibleitteeatuofstusatptajueutsfigfenorsshstreltuvhyrelsctatltpahessrrwbeelttedasdoeeietcfyustsocairdnifhooplyastgbsryretenrcsnrirewsstupytbrtialpypeleacishiouocodheeaoltvllashctieryechlepeayrtearrfnedntrouoreynyheefiblmmhwroaaentidtdsyvsneensnuthleeayoeesqtistotrefdmpatuetpyontkthwevdohfufststysetoieeellawstiteiotctokesseaemaurhtsptyielscealsoratleshedsimngetfotorthorsarntooecntaftrhhetectryirtninvenrnrttpaeeasroneiromtcistlsrlulwrwpdhrnliiielhn"
+    },
+    {
+      "source": "architect",
+      "shuffle": 2,
+      "score": -3.708929608895396,
+      "start": 426,
+      "output": "faoeerpeavishtehwimvtohudthentssgugytplhpusntunoiitchitotlaotbehesetlhlistalmebtatlnelierreaeclntnoftyoittcwmdeitheooearreinpafheiloneiecistedhealieaorgueaoholiclyerirpidxiutlailtlunxiintenflgneleouneootfaaantetmgiyhenyfaawcteitseaeehsioaernweatultnxcteeaowadorhohasweteeettehtsualsrhlepkeeiltithethwmahshrronmtugyoseauutnjwiriugtearsimytotumhulrhespolllimebfnressiblesedaresuimdintefnotroualoeimodpelayeieaifwolrquootteseyirtepsohltebemihrirucmtsolrstyelwphpieetofoilwllarnhxiottefffuceelooobreimarbdorheanozrnfaepieibnentawiarmmehtaudeaitetyonesecienryaayoteneituerese"
+    },
+    {
+      "source": "architect",
+      "shuffle": 3,
+      "score": -3.694142916883325,
+      "start": 1109,
+      "output": "eyiistthrencsevetasiavoltmieururlitrwenccsehkgwlwotheiyileliasietintesolkrheseehaboeheenubnequetrnierevynmcemsertsentnwtertasimdsltnasosthoreonsynqgiintucthefatotptuzkionetairtaabhdtuuivehstgetpieljelssnoinrssolsohauertehtpcsswlnhoicemaprudlelidstdtlsdaeocifitefntoteruawpinnoheuleingmsrcliotmwyesennsrevtdpdtftraeeabcgeetmthisoesaciytrailhhitioioaueinxinfeeouegolesayoonalrlhernneitohagslhuaoheimeesentietwayarhesareldnxedbancslexruanetinihensentayaphltotzttuettlehertwmbeareyeeaggglhpsputtyrlynrtsiehsiirttchrtenlkiysyieistbfansbtdllnbtisrtencegfanihsorsdipaetotypasea"
+    },
+    {
+      "source": "architect",
+      "shuffle": 4,
+      "score": -3.705503348627532,
+      "start": 923,
+      "output": "ressabcxictuneourseltmaiihypcrehrscfcledftwecrerseensicreesooieityhowesasmhirwhidtetrlileltifenouelodckleapteiboisuaanennermfpearteniyaeytfrveaimmihertcciweseuyttetbaenhsdxbeawusihegakelauitestouetauepeatoetenoheiternsagusrolsteahlesitgehtorsprtetorroteirlislketbhdstclesbsuslthaiseulhaegcihttsntsclaeyeatdoeleimebihybedleoethrseioetnsftpyatigrueeomtolencaccrliyoiliennofrlntlnnttreselutslurnelfseobalqaintemgteeentaleicfrveeemnrowerootiiiabnlatsxdesonhdnoeounqetuirinaiensludalelrflevkuiastehataeabetwdrtithygrioptltbtfasiihnhcdehimttutomsrbuuefeltpcsllsopcaalstatlnlte"
+    },
+    {
+      "source": "architect",
+      "shuffle": 5,
+      "score": -3.7067914632958017,
+      "start": 556,
+      "output": "tdriehutainosejllatiienngheaplisirtutayuhyriseyyteeoitemesaseitestiresodhecelitaefntstnouegaemncopeyyintecsrubrieomtteeerxydeedrdnclehateoggearyttrillasselrlocldtttrinttletifnsoefduhslyhuhaoylefnneterpateeaymispittaeoithehnerchlnnlottcnuyerolhureansymqrnnhtstolyiayletpozhtyebektthawaeitrrteetaaseocsdjpdejiguiibnfreepkoyoteifuehatkosbtliahribupreselttadeencmniethioswrouelingrmoteyoflregesahleilfwereptdonnesstlktornieioispslesalmyhiniliuteeafwlailttioeeuldctsheioieaduaahneinhiyateatawcmrefvbifitinfienhtbslvdtnpenbaniaoxhotmtmittetwkrthteonoeatthpeiyyeandlatisathabns"
+    },
+    {
+      "source": "architect",
+      "shuffle": 6,
+      "score": -3.688931231291995,
+      "start": 1061,
+      "output": "ftuhyceghpeaiewhwuseotehecicsnenisshurketromedtptrslitissnrwerccdwitafwliumtthittffsoeshoutclofsaaadoeohprtpanolhepithvetelitharwiharnhieoisolospdsnodmonlisdrrynanmitgsnaqhaepyiytshezlhrearpskohthhanodrnstetuumatphnsusldsauaotugreahemetoerynstatuuleimstaepsrewobstheollaveenyfiitieoottcsiprynfodoligiirwrdceenixtnrantswontttteiqiotrliyismliyoctettuliieyixthefegureeaeteoaisreolaeorthemtheaeaiomhsseavalitthahohlrweidtooitednoaacrweearutweutuirttwehepyaettletuitahawwnoateotenetauggetaotpeulteouayotenoeidhetoelotetfuleheastutsbedhdbfuneebuerdltterrsamdfetuofortceslotrmo"
+    },
+    {
+      "source": "architect",
+      "shuffle": 7,
+      "score": -3.6959938191879633,
+      "start": 68,
+      "output": "nurvlalheinefeubifoosrmmecltareulatiepdtbostranlyntnmturethaarepaydmhaoeariakeblthtinhsurtstsysgtyomteuultttrienftsaithityoaueroehtetytnisptlestetlhtaderesndhodnitfftsetueclgriteprerpesrwedcttthtptdneawfhtuatytalobuntetytseettstaglrpwttiouiowiutiliniontreufchrehonblltoidfncaotpnopuuhuonahertreleetwianyetceilnedliinenaocwhlyaousdyueitngwitheorplafawoterftulevyvtetkthwaimvtteoetssyrgleesusittgriiosiailiiroeyutoibueshaptabeltiafaessisleeaveoluaomeyenictnttsuatrsmitypleneihwirdoeovterssectorttsddarnolufctiraeoiiselicmcmingwwcixmtnylvaleeuxtioioufdetioyeblleuaruneaonra"
+    },
+    {
+      "source": "architect",
+      "shuffle": 8,
+      "score": -3.677672027119964,
+      "start": 622,
+      "output": "achdupladwilegwtrarikoehoeallilstsctutltscfhroutrwtthedsihbxdnctucitenoteusnasmaedfceipimisiwuteotwerenoadntpttarnhurguireyiwentctiiuercdteernitvuytchifselltrlyeeioblofserncuteormoseeunhieesenalaomwhserinfmhlroitsudsiouenodstihyreyetdusqtithuchnepfnophrttheevkadlekehtwnieoedyevesggerclheassslasstriennrecthehyttcitofhkctayleiemrcfansutsueitsetdresoheictucfesetcloersnhcoflrehbaicthledetvttcsnsetsonearneocbealcplirolitlsmkgpowcwhtmaolenlllesecoteyfgntryptiaouiheoamoauirepmhzletionaowsseraetefthayhtioenadloinesdsoncyobovaswuneteituthesfdmhapleereetbtaiaaivttdoettggara"
+    },
+    {
+      "source": "architect",
+      "shuffle": 9,
+      "score": -3.6704514201243823,
+      "start": 1492,
+      "output": "traeeeauseomaaqitepggzoavifanoheyerbeoaeaiiomhlciheruteliipdnoacrowhldyoeleaeeqitthinhpaydmehelstfuarkenpehieateaoertfosthtusitomineusptosgfeyhfrepsaptotuvoesollitstixpuulitmctalneessdhltmdyessdvenitufueuntscelimsonoeciniitoeeofvrereeranresrtpktoergreileptrlltcsshilrwpehoehronylattytxioohtnosocealptcooesfanuateemteoueutnyientfieltethhayatcriwrsadsytinetomfonwsurheuaartiittteoriayopaopzeiynedaehwwbtournesthstganmndaeitjwifuiriceahisstluveryrsaipuldltcaluspssshiltlhasasioeniteotsethratrisiochoyinimsclueecrontiienooeepstaretesbugeitlyhsiuicltkigyliceetiftnteetheiysou"
+    },
+    {
+      "source": "architect",
+      "shuffle": 10,
+      "score": -3.6802831667604328,
+      "start": 1459,
+      "output": "rousonrseoyeellfmnunninnpmnsyeenoamhtrohunatlearaonmponetabesdisutheeftheyoayyntdsetitwaetaeheiiyomeeltetthkeisahterhseeorefrivehhaeimieehusneowolienrsethlesootueauenseecoytnthrbfmrsbstlotlisestuaccetuonostrooelaosaineoeaeeiebsficiqieterrexciootiofduatotteieefeolthestcsmlweutroywiimlthetetsflovlrotiyoeemideuduetrouueetnalhdystbetoaothwmhaeietandlvspthoaeotrhyeyunwdqnrrgaareeuwtoerzzlaryelesthwhaandthurtyemtwugsercheetpideatylmiglpaiesttavitehspetosinstalrneaeilhsimetdlssiboeiftfihyuonrenoyiftolarihmsihylbrretrwtertranenrnstectvaeaeiqautoterstitrailooieetuiiasnxcnf"
+    },
+    {
+      "source": "architect",
+      "shuffle": 11,
+      "score": -3.6585518272481443,
+      "start": 1334,
+      "output": "seairwwottrnltandtteihintsefcnteaeoneaoyofhomeobatetggzetaomlstresebolehssymhlietbelaistectuseasoclibleonwqtneieaaucaepsnameoztrernueaeoearhaahthntfstwysiminpuebnoainyebtwlcethlemelaciauninhascaldimtclamsstuieliitasiexieitifsetrtsclaaeofouhlycsetepbeiieudtrweieientadnttinwntlatatcgbeucwscealsmirercouehnnowileletfisseloveslooayuhemoeaeaatetggpanlniiefaeenlmaomahenfilislaseestoecthostceilehvnrdtingttqttsnymptepruepterptasaaiseinsnrofetsgartaplinnptelbnfiulfuwleirptrlymebnertakxctutnamodelsuerhnttiedsniaeiiiunoothesapaitftyfrrimsroeecroyerseoretaoavnltnhurfumthrsilnc"
+    },
+    {
+      "source": "architect",
+      "shuffle": 12,
+      "score": -3.702634625845719,
+      "start": 43,
+      "output": "oermhsyuenonnyhsesieantnmormfienimainoincuomrowidiyoutmnerieihucetoaeitthtrpaieeuetthhebhdtdttvstuagayialidealiinjtufeeyohlctlhrtatvefoefieaeslelemreaesadnliderssanecefttncnitsdltdsinderseresswirdcvtpriteydontdadfarkarnefeywtiossaystiooccdthrnoriialstnonreyursounealooeaisomandaneitrmtleetmcdsptcetvniinmihayohareslmutelidtpcetyaeowclnayonetotrhnistaesfotaoleavedbttkteawawotetnreesysryoiheesllinfuwayrehtnthrsthekiouaesuviaicsllstclepbsasudilhieyelouvecedlfiietfnrtueoampdeatyfreesarhweitemwehhecodvrdrftttourtietoytrslnaycmhiuercpdeinolwlitlytinhnfresegellorelafhernnq"
+    },
+    {
+      "source": "architect",
+      "shuffle": 13,
+      "score": -3.680561565110696,
+      "start": 1504,
+      "output": "aoueereroathogfzzreeiawsseeftsaeoithhsmomttciemdedodintehenestwcdrhyanmtuhestuktteowceaspaezereerbulaaotasohitrotteesyrgcoteseuldaditifmingreptpeikorotohbyvnliextaieisclhsnstsrsibaehsteesdcoenctffitroeoopasitdoyineriahileeemneeepantatteikabrtifotsperamctrnupiltifwileumeetoiysueeayoucausuianadtinrhponpuetaaywdsssinoaaitaotaciolabouittsbmethldebyyenrsteirieitensauaymhahpehrevndipeehrtanwohdovttwggyalithejsiotstirfunwspnrplitlhceisrniestatuylliltrionrbrstoshtorsibeyneoyuiteclwgrenoeeyflcrtebeybreefeeeseroeiwisstprkytbriteromhesllclysinuehudeernwveimeinincntenoslslcee"
+    },
+    {
+      "source": "architect",
+      "shuffle": 14,
+      "score": -3.665960780303589,
+      "start": 3,
+      "output": "hrinaneaintogmizreyomyceneaulioahsaymampslareososoentdrosiluoteemrhirhqrtoaindopttthpkhritekouedeetirhiavaouereshsysstyomnnuuussirbuwssahheseuateituitsctltlisheomstahletvetovegcthitsentocworrmnhcefrengeascailireonrentaenwisohuatatoiqicotcssamccllnuphihtaifllivewmrtennoflfovhsyporcoiuerfaetitttrmsyeuonwiitysiefabetmmaewismaaeieistsdloitneentsoeanrohsebondiithinwethaiampaaeeeryruleistahhasmishuefoosmtswtstarcohhshiiasiuttotrahlthmootctteflaseeohtliptohrbutdnemardtoiodletuofisrorsgrrnotecoupliieathubdfttehinoennonciyabchrdotcerclcaiwpcotrouleultirttteeueldveesepoeaor"
+    },
+    {
+      "source": "architect",
+      "shuffle": 15,
+      "score": -3.594162566254214,
+      "start": 1242,
+      "output": "tlugbialoowthsruncaysminioceeioiellrnxncteufleheeeeteobeofihemanlunehainhlyoarelyaetereseottrsmnottprcimndnolotnpdbosonhuloneuourhiiakthefnoolatoheatakuetshrtainedhdthitttartinnjpinfirbfoesphhstyuemayrtapoblstdsspclrntuwletedesanheeftnoniroucoagoetiteoocreesshwrttotetesertdvtsttepateaburhrlpyisssasmlrphihiflinlirsueteefosurreaerobolheaduaetehpggzzuhtyaiteovbetiwtimoferntaaeelitedusdesotlchenlyutmiiitehterttsefnootafekvurieatattmbvtorddyimautgytchnatlpuletsgyrbyfhiteiirretchiynsspeslhitnhsebfrsssseisibtedsnceglycticfueroodelimprstocoplarrtaawueretrrrereydoineartica"
+    },
+    {
+      "source": "architect",
+      "shuffle": 16,
+      "score": -3.6386799877424427,
+      "start": 1081,
+      "output": "cstpretyuedcrthrencyanvnienwtfapaoabogreemihorltirlgphicutenoienuasixoioloeeeeeocauesefndaninrhmieeeifalsssihauaeeiineworayecrinesnouisxandrtchyayynsmomienasuntosidmtthatprveeisetetaimandherointasgrtlheebisaastrliibntolcaiimryoyouetblitaectbheitsdalfrsrudwthieedrsimifntuoentreeosgornhcyoulitateyeeqeorwyhiersseraortclaesufcgedelhssinaiymrhngiwcowhnortlilayuixonssoveyetceuliheructreriftehlawdeesfhnetwhtsehymilonhiiiesyvitethsotaetheyerrovndytetgraknereuaoerhtaketvebatehinnaisdrynnsusrcsinhnahistsigiynrsapetolouiolrsatspuleiscfueerthleetdryeadecectnieneeolaormiofdefl"
+    },
+    {
+      "source": "architect",
+      "shuffle": 17,
+      "score": -3.6779307469631703,
+      "start": 1389,
+      "output": "eenotlalmtlttninysefchllyutalauioidoaaarhafleahaomheinfaeubtnmtrmomeapwesdouliseduoneohldyerronwmnuhetquraheynotltheeevauseiehanettuefhewhatcihaseuidftgemngtleoptorolacsunreatsaheesalseresetitaledemdicincouwrsesnraetnooufryrreeawiubilcmtrisiepootinsontlrtynolbigefotiriitasmlilrutrolntlttfthneerlueveaptoueeorraationiotrnoiloeeafypemrsteoteirirtaisilebndyoixctnnbarfowliorusesotitttcerhoefiatceastezeeayrtsethttaseaiwntitatsmatchihpssbunowsyfyftrsoikstoyebuestlaxtleasmstanssdwletvyseaiavecieeteifhyitntusnodstoooeyrntmscwhetcothhientnvrwsfepeytalugerqrloiorltcesiilhodh"
+    },
+    {
+      "source": "architect",
+      "shuffle": 18,
+      "score": -3.6843854964044027,
+      "start": 293,
+      "output": "dunhheoioeanysomehegunspintehptepteipaeshasatdioruefnthuatmrcnejtiissngebtolsnhhesitotoebuevnaeubtieebehotshioeiteslsnbedyiintoutsodopysaeulyititbiciuletocetesinsseniofcivyaltmireitcyssslsamckigrrcotrmnrilelluninetoyeoehlseluoeurtfinouneintorigizeetonmlsnfrtaeebifsintmprwrinasoonteatdefweuolrotwdemensaiktpeyicmtetzkrayaduatathaehtitnddynehsaetacseaupdetirbtoleistptolouvioeheaeusuwilotaomobssetaytoiceyfctithcouottheonoreooyuurenthateicleetmetprepdeetsoitacavehbuinhbiicipeenlsymlillpceteiaftoittinersslursiptiarisoiofluhtpngzeyueeufnyiesrfheamfthenfemirhrasosatsncteo"
+    },
+    {
+      "source": "architect",
+      "shuffle": 19,
+      "score": -3.695941035799998,
+      "start": 354,
+      "output": "nwqitirintscarffythtolaryruptehtanbeihouenauattinnshuiaagienwsarophemoeluteityvisepttatimdafmebtastiesirossdoefeeoyoontscatprsnodflangeastyueelotphetdsneieostdeutotbrmiheficplhipcwlcishiwecewemaonoilduyreeetcttsofonellyootiarereroauehrmituzrnolwdynsthneamwowamtarshesnsdlouonectoeeciseoehwyouisinschtaefttlapzteayaisettweveawunffnnwstrcmpeajuiesgeuotlcrsirtltecalfhaaeectlleitrclnprehtameydesnveinctthitsealnasioeoulcrrrbcafybeqetryrceetnvwdstftrnaoocnhraleptocrenayycknyrpwhixnfliiteuleionsuegeheeyocablaoosofaeneorhanszareunhcsyrtseameaeeymamliianboltnedsnoamotwhyoehn"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 0,
+      "score": -4.857941651090869,
+      "start": 1519,
+      "output": "wlvvplmotgiktbaxojyupnteuatasjaudxaechocobslwazwpsaulvhuuulujmqumfeqpaphrgiegseqbnthhgatpxzkpdqlocuoaiinlblmfhebuszaidmomjnpuamenoyarqtlivxuompxggxgmyoupwhlsrndpmelymebtavdhrcwvthyhrpenvndwtyjelaajetqiucaewngqugzeaavueuednltmcelbzszhgtnopnlueiciyikwgajwyajewattfbhkhrakhvwmoagdswhijvpehtpotktnbtaooeeyklstuhitchjyipsnmgzzuzoblpazeewjjolpeysnuffutitfpxwpaskazhetztsmihavncemioopaomkemhoiupnqapybouhddbzhlkuejnyeemydenzomrtluvtoantovtgxtfmpidowpujlzirddrqyqbsmtamargkwjyerngtdpejlxuosankrowiuotidkqwezqoeadbsfhnlqctexqnwswvdqtiseiediugfisxivsmiewajbautabhwnkklytmvhcxbwanm"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 1,
+      "score": -4.927715673777631,
+      "start": 32,
+      "output": "wwfxvoiwufenbnuchesmagfaiqmhhoucollhcxezpspueysnsonfejmiwuniwgvuogetzrtamicvaytxknbzkzzqocwaoxhlnppklnmaviafvhugbhomigenaidqomjrblhvaugmzxvlphpoztwwrniivllmwsebihjmkwjryumgczpqwlmmuoaanzzqkgugnkqumpeoidffwelucolexdzqwozdwpfgbuduyjfxurmeqzywevzvthdikblhkwemathpwimxagaaltptiauftlebtglgyuwegeuuataaixoznsumrhwoeglznaaenwjjaatnrukonagwbupxplpohcgjdtmangajhvabtebkhjmihcofookguuhiunnmdzhieaykjdidmeeynleemlzomrtimjqvhptkqzmposimaupwpfsnideiqtzeeyrtxdmjdangkrjzyofennpgallmjapmeyaluscalekqqweqyeuaiejxeweepcvbehrxxganhnwrmpomnfucgeduaforkamwelleowktdwlpwttkkocnaaqfeehwithjxk"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 2,
+      "score": -4.92591910248004,
+      "start": 1286,
+      "output": "nlguiayafrgbivmhwqeacadhaakfctmbehmvptyoahseaqjlehwppkytbfaroeykcwgmlcmbvchddgatshzhbyfoleplwaaanejjalapapxkpsfmnuppuggvhkridntpdzingaubviwjhjdqhpadkinlpbdnqakaboykimnpmiqbceeajjokzcbdgkjqhtqhnyzywblpgsmpatwmuhdmiuhtfdxtlabiabajqprtrhonqetcppndusmmeakqjyzwsztkhqqwapauabubsurlmqmkksghwgqovzoditpumoeuggksfamimzebaquubdmlfcznmakkdhmoaasehgivtpewihziunfaokeykupgehavpdygsemmzyqmwoeehaaeeqapevnnxikjexeqzumeuxpakprctdzayqcjvabhsxzhdiyhcoooeeoauffmszaackugdekkxilnamobocijdlhjqtitzhzxzogtxtthpowymtnpmpiirbyebzegmaisrcqwzytndcenpnsyubymoattrqosnbewqqnjlymjuthnsmkkrivgmnonjp"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 3,
+      "score": -4.905633039134916,
+      "start": 613,
+      "output": "wmzlungexmeiylqndxdqqkqwtgkpnywxoppawmuthknhrivelxwweasamdatcvorornmegpqsejtewmoanknwoaqzqzyhexingzwkmadsjxrrlfmlesyawromowhcbmeijqhagpmylweoajtuzthgslketkeppgwgobadsaolqlvphzipzwowalgoxiyconvhcebduwvqsqgzicvxolgllwwafejvoztvvkbimulewzumpuguskrctrsbjqdjqyesbkeqxoaluaohuyhbpxnsckebthugmeloyirzxcrokqnommimtlkihaomazytlpgatttnwklpuierlxywwbsmfjigsncjroofmecnngjummwsekekzroigukwiqoizwobseyalpobkhvjghsodmdbpfbuciafifbavryyyjevwktufavhkeklakvtgxabaqfaekgvepwmpataltfgaflvoiulwvupiaqqqydipaiecynufofpshcnacepjjapvsmoefynmtfeiqvpgasuzbigtpdbstdqxsifhdthocaodxkinobpffsheevik"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 4,
+      "score": -4.904282256840798,
+      "start": 175,
+      "output": "uamumtbleyhwpllevnykumoxeqtiknepvngaloahhmsjndtbmmjaqesncjroefoxgiphobidfpvebkchbdbehongyeuijroqzqimluplommpxoggbltsatwupudfintnddpitweysxzirwkjtytrfpdtnzvrylyqoanewrqisbzlthfdogjlauvdbehauctekxdhndomjwtfbacysasfwxurjyzwwlbcwkzadafhezkryhkvhydwaqzsipluahixkfobavoxudetnuhrtcquhadpiysurvcmnsawnaazevouappeyxbnknfjwzufnepqvpynkghintpmtjtauatnpfpzrildofoiinuyxncpdzkebcbibeyilxuaemoqkzqddbquvxtufmiztlpeumutwuwhlfphividplbxrlzewsxphncqwozyrpemnpryjymqhaakeywqezolnkwezgyaumedfjxynlpclrxighskzmiomfpxdcysirfbermmabqvaugiicwklkkmdwiovxabhoehiletpfouwpnfvarliulogehchpqudygiem"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 5,
+      "score": -4.903811242245009,
+      "start": 1295,
+      "output": "umidussoxivjmpaaelbwzktfvfcetlehyowgnobdnaswkpehpotybwajlgeiwfwkgzepbijtpqhygvqtcmhrivxtobfglazaevyobpnhsmosbqnmtxpqzuopcpspsibsycalaxtpsxkhjyqydocukeupluufczyksufzneeuhglnaamdnooqmrtlumwdanomggpowupbwkzupniexeytebatemihgwkrmyoyctppedwuswheatetrokegztpeongjmqumeceqrasufolkyghwmpmnflsbigifrxpmpzwewauacfvlhekmltpytmdabnmehilupozulevavgxjuettlatsmjqdvozngyzyzmnnnwnehoutrnkboofaywtunpxigpguvsucbsttdrktbjgclqbaepirczdihoafooktbbljbnfhekskdvbwlcpxjepaamqnnobmykmxuskhznitgepiywtwpwwnpfstefpeltewasrnefvdzgsqirraoyfeicdvngyybuoekjtktakwaezclneqqemgmjwssxheftelbzyzawomobihf"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 6,
+      "score": -4.872968807650374,
+      "start": 63,
+      "output": "vowuwbtcriaspqxaechoftelpecycfeqpalazkmnpleqbunxuvnspzrbgpsngajabyxnpzmhkldeaomeuplybufdaieoyswfdaekrgemalajrylenoyxdmtqhjhishptgbhipyatwwwrlihhuvvbyqesavpahwkcirtaoownmqgnkqsrejeswwxanwqkcknakegxquwmwmjsehrespekmzxqqsvopnpmeiugysrwgbvmpywabvkkxhgamwieceelupwcoawhnehtklpmfhpgiwunvafkewcognhitamhiftcybcvzmbnpsncxzanyslarksinnewqfxugptvsokgenddajilhvbyvbprphtockolhihilvibtcpdaebifszgbahungqeeidmkocaqcjpvhattgnzombliheptautwtujrspifprwwinfbzanwcjotryotodtpvsalwlsywvlqtekoyqwaubahekwnpkmeavjdwperantpqlersgqqkmpthppxigkioupypqejbwatzcwdwambleuppcvnbaaoasjvkphtitfwtebax"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 7,
+      "score": -4.933474391742327,
+      "start": 1050,
+      "output": "joatoklosckeqqiagumlcqqydrettlrvphssrmoothueuijkmasgivmezaeaozkxcmkhfunahruyocndzfameivtphmxpttyyevalkeufnnumtaspuvgzmyyztepnezcnjobpankunmpjseuniqmeuqpnlsporhmisnpqksbghilaxtnirpedqiycaloihgmulabdncddcivthwfakkxjbeeejmdnnqcmdmlihtlptotmngwgxosgpmtypbhhlhidppelqamrvzgrcqjwjyryqgtkrwadtmmoeaajztwozkucetigqgpkuijbfeyntpctkrvansgtzmqnfsmeigykmoujysmimleowaufahepkcklrtpwcyokagsmeahltkphzuxzkybvlowfggnlhrpsqhjygemmoztobnlanyfwjpztenrjunjenemymzunmuiqgpavphmctzimmuatnnzpkqyuelmiityppbdunsvevchdbepmieynahepqnqocamtiqphxumzzompisiydtwbnwfnsriiprwtewamwmirtkiqthupecpnjwbyq"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 8,
+      "score": -4.938703752810355,
+      "start": 99,
+      "output": "vzuivauhdxotqunumobbpswhyzjsabpavkmimonsbmnqufugtopkhmcntmatauaqnxjmdxdpomamxemokdbtmkkatbczimnklhnneyulryopnzcmrqluiqvidgzpxglfetttwwdlhifplewltazmewgjmdrmqiozyatuofdgcpznswfsusajktrququahequcqembdushyemmkzyawqkdobofulceaqyojszogurwaljoczakzdwhfplettmypwqmxdanzaliteaiuotgftyevaoiuuwnvtuicapadhgvqsmhozmblnlhaazpjsouapsxsonunqkpuqvpguskocgijqtyhjatevkxwjztdhokmoxelojumqviabyfbugmbakkhirepijmeqbqmajmnqzpaogpoggxseuwtttnwhmpidiexqwzhsrgvmdrqqchtotyecnjdwtwhvpktwtrluuaoghfdqujmqealdjxehrllcvksmsombooplciaqaugisfwbrmmwebatbhfbleduknklaethocynoahnoawltlafukifoqfaroijcwo"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 9,
+      "score": -4.880085551172302,
+      "start": 1177,
+      "output": "wbsexhreanfmelxsymhswwmionfcaggysguispyalvcuvxthcihpzklthvpyodkwgaasijvkmapkpyefvfoiupbervcqahadgonmarhcoblglwacfevqjzpparjuinabqtxpuzganphagidtzdasygmhaqtbixwjhyxlckodigtlopyklpaaeyvbfcafaeyizecvmqnnmdgkmwuoakpqoythghekmtywmjpmpifvxtwabradjihtpvtztnetnnkpglsusamkzaceszukhfdogqqjebdtseefpvesyvmpnornipnsoudqifizuavmplwaeoatkhfifhkmratukhvwyvndaasmzeqlimlmpuoukunlgfrkeeyucebvuumepauhaixaegmucotellhcazehjpultrunoujnfyzttxpwqpgohhpdprnhchaatnpinprzhkqlcadxinboautfdklbtsudmnhkxjqxevrdpobxmlihmpeifmpttpxieimtutumkmnuhidvpmewestvparqqmzaocipnnyubmhsattkwuaguahnqqogmzlkal"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 10,
+      "score": -4.912400705469188,
+      "start": 148,
+      "output": "ixasegarcolgpaafevjzpvvssnkxywtfpuxposuampcstmtbggaatnxwkfzjjtyhockdmkmoyxlnfcapafbzgmuhrnxeryhopqqbjmmluilitmigihgfkpmautbtwwphlshiiipxewqamafgzaargkwcaztaondidprytsbxmjpankprcesnolfngqqgqkmaawsxdsqvdxyandrmbponpoivcahsmawpyizaaeovvtfmiuhcelmtthyghiynddgaaekwtpwjozfwwtaaloxyulegneuluicaudqhiggfiqmnrbcxflpsenyhejbupeysnojayziqupvzuylprmsqdntcdaythnnkpdtroloamaoiinhljunmaibfsujhouiqzeenemopnmjmllihxitzhtzimgimayybuhfirefpryahsiagpahrcqjcaotnpcnpkpqezmxvlpjjykzsgaelfeqepkajmjdjpxrfcveqvnnozojqpfpgeaaisimrzowpheyaebvuzdwkectlupwhmxndaannelsgmuzixukzpywxlexuenepcjqaah"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 11,
+      "score": -4.901947268229575,
+      "start": 628,
+      "output": "meoxngbpiarmpbcimmgzhvtdgpygbtgiptytmtwndhlzheddxwwawitfvdiamkwchyaorompdtnkvjwjuxhxanzykaiguwhpyimymbseqyrllpmvmightnitiupbmeajiahyskxejmawyevcjkutgmiuehvhmyvwwoabafzwhilpmpotayfflioycdwkzmlmeabuqioizesmbicxobecsswaheysulanjmkmnsbgununiuzgakocmrctranjhclaxeknprzphkihcadxkkybupiblnfkhyoukdvfmhkynigbulmoztmrtciewapskqowpthptattwphlihpnvediwqwsexparcpjwztwptnnzjajexvaqjwqqeisbahiekqecqovjfpedrpolhrsgawstnmdppmnpeiqhosmswujhpmalqvtzbablelkthkpdiovndzaamzwqitvhzjoakfolwaxixcektthmpcspuqwoteazicoflecxauvpulvnsboenabtffuqzyvnkamietrdnyhcvaenxceqilwouoxgulvpykfmshvtyhkad"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 12,
+      "score": -4.941689597493203,
+      "start": 771,
+      "output": "yttlokioyztpwdririivbyqywrtexdmppdijqircrotycinswydtwqueantykzsaheqxialauidfjexnlqkbrqnsgqzndpmhguiasjfupmemaawqavxtdieznlvkpvtyxaadomalqwiplutjfxotiotqvjliwwntepumicashaugaqeghyycfbllpsawaepeysaapvskiunfunqneiuqggoporgbetpzrsibmqmcjaavpxzhyxhpooaokheyvoldufpkzebybdgjmnuhrlneaejmpkomxqcpaifnttghpigpudawtpbwfuunipltlmaewnvbmiscpvotzounfemdpqazequjeqnporzlkugltwqqoqcplajedwpfheepelkygswmpwihcmuvaayhaoxameqalvuuhsidpucehtyhywyydkbqsmakilptppagpytfariiuwguapbduxonhmyfonncaenwyobuaprsmnongjqnwuuexwgvhcmsnpkbsqglvaaqsinfhdyoaodxgybiaupmfcepvikzmdeoxizxclmydqbobjntiilomn"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 13,
+      "score": -4.918848672610283,
+      "start": 970,
+      "output": "ozythmdizqausbuwolanteyweicyweeqeleeidjxrelltemzqvawtvmgdqwthciguhsaoepymyaaeyavjkuhfbuetthpmhiovnobahnzlljmwapotywetarkowwfebumrvchdywfaqycmzcoocscnzjqlpeysmijajtzukpivpgnohegpkingaghateinxcpdxlpoomloigkepoybxcdchevcuwvmnkpnilnulrheztixrqcqhtlsknnywhfkpoaqutumumrspidfptywairemamwcqtztunmcgnpewuszvpnzrlczuywfqqujpeamijuserlfteeqsjhstnmijqpnhgeeciyoswjspqwebbaaudcahuakahypwicyvxdgszaahvvllwzjxzuonqxkekwvneuitbshaygviemmzuqofpsazapvjalvsxkpngbiwxixgptlphcpindssqguavbxmzthcefooeeoyxnqszlbycvawzlheleepuardlqkqobmrnlzixisgzpxzmbtgsamtyttwwhklmupuefrelllqeebaingpigatcvc"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 14,
+      "score": -4.901046162000586,
+      "start": 497,
+      "output": "loadxetybbfmdaiekikimeeyiqecejddqbcinglqhepidaztitxspottbudflhptedttqwsemmgarngciwjraeooqipnjeftszxantwqwukuokegqqelwjvbfjehnfmebeqsdqkwvmownscodaisrujsaeevavdasicakmtvkywqcmqxobnfekhgppapopugpuwqvajrowudwgtzuaijbphxxieqhnhfmfpazazepeqlpezkuplubitxpiwnapugidmrsanyhgabytekxkfzhjidpocaolhknvlklnmcakvtfjfalkneglelmepbndxqllihipsmingihisgtazmwwphlihedvvrtwaabarneddarwiczyaeoumdeccvngjyxusantzqkqweunclhpidqnagualdjxwaefemhqznwtzmoompbxdqyifbeimeawajevzuubcmhuakmythvwygvxadaalwiphltpuhgtnebgaxvliulwgtphiapddxotcmofmnncnacuewysapfsupkjaettqnuiugpakcmrsdpzibtdhayekiwzfzjr"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 15,
+      "score": -4.92516875364008,
+      "start": 140,
+      "output": "qwaznyanbyvmlgeaecaafphpbuptrunpkljbikfnpugtgonkzbsebbjqjaqnxjhthowoktlpupapfpszhebycjuimbzeohgbeeryeqkoqbmntquettgpxittsgaytppuhfnstdidbqzeebrfjamrckrztndgcdpjdwewvpkpyqwuizcutfdoczkmjdfssfxhdlftemxqjnssdodpnusgecgifrzwwpjsyyaelvudgsideemekpygcyobwqmeqijpwfptkwytlwajlijuknnpiptaaifnhrocofcnnaaejjaptaruielutwnigpanhrpitprdshadguaatnpxrkzmdiueaoxkgnpuixfmpdaebyhwagmbhnuhgeyxejddokoqijmliitdqapqotbgtfgydazmutndlhiuirmxymabzsndbppaimckcwcryetrmgnnpwlyqvaqtotwcwainefpxwejewgeumeepenafemzymnssrojptfgmucagfmoajsyaaecvukkzdwepehvehhvwixodaaanseqlthtfaptfpyfjvexjuwvuriibp"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 16,
+      "score": -4.902168227786262,
+      "start": 5,
+      "output": "ptittgtotavejupbumpqduxonthyofteshnhfunehqpzpzknjnxmqwbwnexgptanuchctkabjtchattvbxketooamhxgibpbbcfdkeyofvcdjmnecngnnahqnodrmygqjxtpshixihxskuttpmjrnpidrlelmhiragpanwkwrahoufeizpezlqxaqktktwwezlfeyogzymiebtfwrspokzvapqvnomiqmpmecgjysmsximaaaajbaukdhabpunmyaukmpcnoabnsmwlielzpptzwyyevlixykwgbelhuitahqigzeyghnyqxolnglehafneyaupzkuplfbqwbunpuqplavkpomphspbtiyhluaxnnzpytilwauxekmoopklnfhlksjafzecuiqepjddqbymimlhmhtofzpxyttfmiautuhdfurutunfdmtlaewbmavmarjqwqmyhndectnpjdfswhpkeozwwcougcakedquijemgymiedwpurnspqdixmhgdzmitnhgaviiysojfarimyeycadxamwhuakelytkhppocynagaowqvl"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 17,
+      "score": -4.907369339443489,
+      "start": 300,
+      "output": "ulbymzwfpqqtnuvhhrgctmtmmjabnnwkhedkhccmhemulbpmkivthadeynenemplimyokomxmtczmhiusfmqxihtimiutmwuphlhinvidmhzazsirxbagmgkprcaherfecvsnjltxuvsmntpywzicalniepgqwaqkembujsfuwalmcebdxqxzapndropnifgediqugyozbaujyywewbqauzbfhlfiukzabytkpdtqicmodznelivmwipatiwynfaxoeuwntluicbshadpaiqchruxbbslwnazesaatepnunoengqntnfwwunogrgtzdaajhlabyhtnzmeqhopafdekgmojbdpnpaevohjibmnhkxnjqelmypotbjrtcpxlpfnitgtxpgeayzmwwdmsufvryeasngpatkctttmdgmpknjwbmoaknorwoauckwqxwczwyeavepennefctkxxawrmptiuloiiajkgemyyjowtbvfcaebthmytmodaanawkgvphitkiownfaaxvkiewlognphmpqmjhdxaygybhfombpshaanhsaztrsmb"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 18,
+      "score": -4.821142988226426,
+      "start": 469,
+      "output": "xzhyihwloxkyobdupcsapbfscadmhnohxzycrlonninlhvidsakmnivhifokyytlbuwkuridrielaysnddhtpvrmrztwmetmpdzpsrdlubxzxeanworowzinbetiqeqxwayeoilfcfxearfmolxixawropoupxevgiyskfoammaawevukuxailidwlktrthvhwmvdwzhmkigthlhioukatvglxliewdegnthabaahaddvpqsabuvfofepacaupwsluarkuufebbfeuwpukorbdmdaagcalhbyvnifzthocommiuplufpdveeiyvczmbmkoxeneueyepnodmbqkmwatfmyzmxgpttzttbmujhzhrdrirlebswbmhgkicztneginpglezsmetkwgugteiqujqamlsqqynemkmeqvantombiucivdjaikfskwbvrizweyvajuxhdkfplkykethowqvnbafzllwivmuapuagytbtwgavowuwsvhpcicamqdgpaemhzhnhqwolslwauvpaupafyjumofuytmtwmfuwuypargtedamhalahb"
+    },
+    {
+      "source": "beaufort_ciphertext",
+      "shuffle": 19,
+      "score": -4.933497580810488,
+      "start": 967,
+      "output": "wotoycgnvswwlxwqvanpowzuzywegqemqoaviblfpsedaltekzqmwskmmoponubmdgasfuimiwmaajwcttfsbldpkentlthkydtqoaaamesijeahzippkpylfaroejcestuejvuaydwvfngamrymxoblecyzeslppnjbnonunumugtuvhcmhdqbbngqvbqhsknxzkpdxooaumeebbijlpmddzaebvjzvdbelkhrqneeneidlnnddgimjxifhiyybpfppamtypuupfpivevibwayrebdargcroaoupqetppnjwbwqhpnptqibewikwealkmaecxedefqbzrvqpndnoipqpouscgeauiajawxviayabqvkxhsipznktkuhdowigdghnomlwveumfputultqvargxwuukgnlmtchadgpoqtcniuzxolgleazpvqlleyxmunettuufwwpopzrcspdtnthlathsprhkloeomxklpbbuntdveviucudmchngnbuihqqzcdmmnqhqwaughxithtgekmatympbmuplisutirlewwaymxbmhwpv"
+    }
+  ],
+  "english_control_score": -1.884504848750269,
+  "cyclic_index_control": true
+}

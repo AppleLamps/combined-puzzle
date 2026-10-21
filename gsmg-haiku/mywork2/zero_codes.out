@@ -1,0 +1,55 @@
+[a1z26 plain] CONTROL per-digit -1.695 acc 1.00 'welldoneyoufoundhehiddenzerosakehesevennumbersfromheyellowsquaresandhe'
+   r1: per-digit -4.022 (shuffle null -4.364..-3.904)  'dvizbhccbegbihaybeihbeggegeyvgehhebhhfuzdhyffcdvfcccgzyeggecbedcizzfgigbeeele'
+   r1rev: per-digit -4.198 (shuffle null -4.314..-3.994)  'eueeebgigffbfbicdeweggeezbgcccfbxcffebhdfuzhhbehhegbybegeggebhiebebribgewchzbivd'
+   r2: per-digit -4.220 (shuffle null -4.323..-4.165)  'fodggeedfcxlhhggcncfeddgfdgbgigkedggiafocghggcdshehahbrigceifgzgefgsflifagogemgbyagfggeegg'
+   r2rev: per-digit -4.179 (shuffle null -4.412..-4.173)  'cihiihphdirabcdbivibiibhhaccbghezideihciiebgaggiapgigheededfbfbiixezbochecbcbggiffsfgehfgg'
+[a1z26 insert] CONTROL per-digit -1.464 acc 0.79 'welldoneyoufoundthehiddenzerostakethesevennumbersfromtheyellowsquaresa'
+   r1: per-digit -3.706 (shuffle null -3.936..-3.635)  'dvitfthcctegtihaybeihteggegetevgehhethhfutfdhteffcdtbfcccgzyeggectedcizzfgigbeeele'
+   r1rev: per-digit -3.623 (shuffle null -3.959..-3.511)  'etoeetgigffzticdeweggeeztgcccftxcffethdfutfhhbehhegbytegeggethiebetritgewchztitx'
+   r2: per-digit -4.040 (shuffle null -4.168..-4.014)  'fodggeedfctdathhggcncfeddgfdgtgigkedggiafocghggcdshehrtrigceifgzgefgsflifagogemgbyagfggeeg'
+   r2rev: per-digit -4.053 (shuffle null -4.158..-4.048)  'cihiihphdirabcdtittitiithhacctghezideihciietgaggijpgigheededfztiitdezbjechectctggiffsfgehf'
+[a1z26 replace] CONTROL per-digit -1.377 acc 0.99 'welldoneyoufoundthehiddenzerostakethesevennumbersfromthetellowsquaresa'
+   r1: per-digit -3.658 (shuffle null -3.886..-3.579)  'dvizbhcctgthattihbeggegetbtehhebhhfuzdhtffcdvfcccgzyeggectdcizzfgigteele'
+   r1rev: per-digit -3.622 (shuffle null -4.018..-3.408)  'ebjeetigffztcdeweggeeztcccfbxcffebhdfuzhhthhegbytgeggebhietbritewchztvd'
+   r2: per-digit -4.031 (shuffle null -4.100..-3.954)  'fodggeedfcxlhhggcncfeddgfdgtigkedggiafocghggcdshehahbrigceifgzgefgsflifagogemgbyagfggeegga'
+   r2rev: per-digit -4.004 (shuffle null -4.087..-3.920)  'cihiihphdirabcdtvitibhhaccthezideihciietaggiapgigheededfztixezbochecwtgiffsfgehfggidhngdfi'
+[a0z25 insert] CONTROL per-digit -1.480 acc 0.22 'welldoneyoufoundthehiddenzerostotheseconnumbersfromtheyellowsqurebindt'
+   r1: per-digit -4.509 (shuffle null -4.644..-4.334)  'ecujuguiddzhujimfufjizhhfhfufwhfiifciigumgeizggdecugdddhuguffhhfdzedjugugghjhufffbuf'
+   r1rev: per-digit -4.454 (shuffle null -4.729..-4.140)  'fvfffchjhggugujdefxfhhffugchdddgwedggfuiegumgiiziifhuzzhfhhfuijfzusjchfuddicgujuy'
+   r2: per-digit -4.628 (shuffle null -4.714..-4.584)  'gpehhffegduebuiihhdodgfeehgehchjhkpehhjqpdhihhdetifisusjhdfjghughfghtgmjgrphfnhwfrghhffhhq'
+   r2rev: per-digit -4.643 (shuffle null -4.805..-4.537)  'djijjikgiejsmdeujuujujjuiindchifugjefjidjjfchrhjlghjhiffefegugujjyfugupdifdxchhjggtghfighh'
+[a0z25 replace] CONTROL per-digit -1.375 acc 0.97 'welldoneyoufoundthehiddenzerostaretheseconnumbersfromtheyellowsquaresa'
+   r1: per-digit -3.769 (shuffle null -3.631..-3.423)  'ewacgcidduauimauaiuhafafuwhaiifciigcmgeiuggdewgdddacguahhadzedacgcgghjazfama'
+   r1rev: per-digit -3.609 (shuffle null -3.704..-3.386)  'ackaachaaggcgudeaxfahaacgudddgwedggaciegcmgiiziifacuuafahaciafucsachaxdicgucce'
+   r2: per-digit -3.435 (shuffle null -3.563..-3.401)  'gpehaffegdymiihadbedgaeeageachaalfeahabgbadhihadetifisviaadfagacgaaghtgbugrphanawarghafaha'
+   r2rev: per-digit -3.511 (shuffle null -3.489..-3.409)  'daiaaiqieasmdeucuuaciindchifcgaefaidaafurhalghaaiffeaegcguayacgvadifdxuhaggbaghfighhaeibeh'
+[asclow plain] CONTROL per-digit -1.221 acc 1.00 'w o you ou t  zros ta t sv ubrs ro t yow squars a t t ro t bu os p oy '
+   r1: no segmentation (null none)
+   r1rev: no segmentation (null none)
+   r2: no segmentation (null none)
+   r2rev: no segmentation (null none)
+[asclow insert] CONTROL per-digit -0.736 acc 0.76 'well oned you found the hidden zeros take the seven numbers from the f'
+   r1: no segmentation (null none)
+   r1rev: no segmentation (null none)
+   r2: no segmentation (null none)
+   r2rev: no segmentation (null none)
+[asclow replace] CONTROL per-digit -0.642 acc 0.99 'well done you found the hidden zeron take the neven numbers from the y'
+   r1: no segmentation (null none)
+   r1rev: no segmentation (null none)
+   r2: no segmentation (null none)
+   r2rev: no segmentation (null none)
+[asc plain] CONTROL per-digit -1.343 acc 1.00 'w o you ou t  zros ta t sv ubrs ro t yow squars a t t ro t bu os p oy '
+   r1: no segmentation (null none)
+   r1rev: no segmentation (null none)
+   r2: no segmentation (null none)
+   r2rev: no segmentation (null none)
+[asc insert] CONTROL per-digit -0.760 acc 0.76 'well oned you found the hidden zeros take the seven numbers from the f'
+   r1: no segmentation (null none)
+   r1rev: no segmentation (null none)
+   r2: no segmentation (null none)
+   r2rev: no segmentation (null none)
+[asc replace] CONTROL per-digit -0.668 acc 0.99 'well done you found the hidden zeron take the neven numbers from the y'
+   r1: no segmentation (null none)
+   r1rev: no segmentation (null none)
+   r2: no segmentation (null none)
+   r2rev: no segmentation (null none)

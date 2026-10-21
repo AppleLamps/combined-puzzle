@@ -1,0 +1,1424 @@
+{
+  "models": [
+    {
+      "alphabet": "abcdefghiklmnopqrstuvwxyz",
+      "block": 2,
+      "crib": "ifindo",
+      "result": {
+        "row_choices": [
+          5,
+          5
+        ],
+        "combinations": 25,
+        "tested": 25,
+        "top": [
+          {
+            "key": [
+              [
+                7,
+                14,
+                5
+              ],
+              [
+                6,
+                4,
+                10
+              ]
+            ],
+            "score": -5.029718464476887,
+            "text": "ifindoxqlbaydtlwdryqrrqhcaxktchfnfpittycykxxmrepllgpdxhzcmtwtbbdvcntsclpcacsznuvvtsgqtrzvyuawilesqnmfiimmufihcgwcanffzcglxchemlpbtnsdhimncxwzdbrqufcnmglbfrlleztubffwsglfprvxrznttscpnfksruqmimiylbpdngmeplbnrpdwayrimutkyepfxdhslwedqeggpanfpsqagmseyosgxyzavzaqpigmaazktogdotaggriobfyby"
+          },
+          {
+            "key": [
+              [
+                7,
+                14,
+                5
+              ],
+              [
+                16,
+                24,
+                20
+              ]
+            ],
+            "score": -5.092516705425688,
+            "text": "ifindoxllmaidtlgdryqrgqscvxetchanapottycykxsmgeulvgedxhucgtwtbbtvnnosxlzcvcnzsuavdsbqdrpviufwylpslngftimmkfthxgmcvnafkcblhccerlzbinndhimnxxrzibgqefnnggabvralpzyugfqwhgafzrlxmzsttsxpsfusmuvmymyylbedngbeulmnmpiwqyrimuykdeufhdhsfwudqemgeaxfzslarmhedosgnyzafzfqzigmqakkyogdotagwryobfibo"
+          },
+          {
+            "key": [
+              [
+                2,
+                4,
+                0
+              ],
+              [
+                6,
+                4,
+                10
+              ]
+            ],
+            "score": -5.100610418643928,
+            "text": "ifindonqfbvydtfwdryqwrlhsanktcxfcfzittycyknxrrppflmpdxxzsmtwtbgdqccthcfpsassknevqthgltwzqyeabifehqcmaiimruaixcmwsacfazsgfxshpmfpgtcsdhimccnwkdgrluaccmmlgfwlfektebafbsmlapwvnrkntthcznakhreqririylgpdnmmppfbcrzdbayrimetuyppaxdhhlbedqpgmpvnaphqvgrspyosmxyzvvkalpigravzutogdotamgwiobaygy"
+          },
+          {
+            "key": [
+              [
+                7,
+                14,
+                5
+              ],
+              [
+                11,
+                14,
+                15
+              ]
+            ],
+            "score": -5.109700283835249,
+            "text": "ifindoxalgaddtlbdryqrmqnclxutchqnqpyttycykxhmmeelqgkdxhkcwtwtbbyvhndsnluclcczculvysrqyruvduqwdlksanwfoimmpfohngrclnqfecrlccsebluboncdhimnnxgztbmqzfhnwgfbarflkziurflwngffurqxbzcttsnpcfpsbufmdmdylbkdnggeelgnbptwvyrimuikoeefcdhsvwzdqewgkasfusaammneoosgsyzaazqquigmvaekiogdotagbrdobfdbt"
+          },
+          {
+            "key": [
+              [
+                7,
+                14,
+                5
+              ],
+              [
+                21,
+                9,
+                0
+              ]
+            ],
+            "score": -5.1502103585964845,
+            "text": "ifindoxvlraodtlmdryqrbqxcfxptchlnlpdttycykxcmbeklagzdxhecrtwtbbovsnyshlecfcxzhuqvismqirkvouvwtlusvnrfyimmefyhhggcfnlfpcmlncneglebdnxdhimnhxbzybbqkfsnrgvbqrvluzouwfvwcgvferfxwzhttshphfzswulmtmtylbzdngweklrnwpywlyrimuoktekfndhsqwpdqebgzacfesvawmcetosghyzalzvqeigmlapkoogdotagrrtobfobi"
+          },
+          {
+            "key": [
+              [
+                22,
+                19,
+                20
+              ],
+              [
+                6,
+                4,
+                10
+              ]
+            ],
+            "score": -5.174763524500584,
+            "text": "ifindocqabqydtawdryqbrfhhacktcnfsfkittycykcxwrzpalrpdxnzhmtwtbmdlcstxcaphahsunpvltxgftbzlypagiaexqsmviimwuvincrwhasfvzhgaxhhzmapmtssdhimsccwudmrfuvcsmrlmfblaeutpbvfgsrlvpbvcrunttxcknvkxrpqwiwiylmpdnrmzpabsrkdgayrimpteyzpvxdhxlgedqzgrpqnvpxqqgwszyosrxyzqvuafpigwaqzetogdotargbiobvymy"
+          },
+          {
+            "key": [
+              [
+                22,
+                19,
+                20
+              ],
+              [
+                16,
+                24,
+                20
+              ]
+            ],
+            "score": -5.1773144014225405,
+            "text": "ifindoclamqidtagdryqbgfshvcetcnasakottycykcswgzuavredxnuhgtwtbmtlnsoxxazhvhnuspaldxbfdbplipfgyapxlsgvtimwkvtnxrmhvsavkhbahhczrazmisndhimsxcruimgfevnsgramvbaapuypgvqghravzblcmusttxxksvuxmpvwywyylmednrbzuamsmkigqyrimpyedzuvhdhxfgudqzmreqxvzxlqrwhzdosrnyzqfuffzigwqqkeyogdotarwbyobvimo"
+          },
+          {
+            "key": [
+              [
+                12,
+                24,
+                10
+              ],
+              [
+                6,
+                4,
+                10
+              ]
+            ],
+            "score": -5.179830489963615,
+            "text": "ifindohqqbfydtqwdryqmrvhnahktcsfxfeittycykhxgrupqlbpdxsznmtwtbwdacxtccqpnanspnkvatcgvtmzaykariqecqxmliimguliscbwnaxflzngqxnhumqpwtxsdhimxchwpdwrvulcxmblwfmlqeptkblfrsbllpmvhrpnttccenlkcrkqgigiylwpdnbmupqbxredrayrimktzyuplxdhclredqugbpfnlpcqfggsuyosbxyzfvpavpiggafzztogdotabgmioblywy"
+          },
+          {
+            "key": [
+              [
+                2,
+                4,
+                0
+              ],
+              [
+                11,
+                14,
+                15
+              ]
+            ],
+            "score": -5.187426526723224,
+            "text": "ifindonafgvddtfbdryqwmlnslnutcxqcqzyttycyknhrmpefqmkdxxkswtwtbgyqhcdhnfuslsckcelqyhrlywuqdeqbdfkhacwaoimrpaoxnmrslcqaesrfcsspbfugoccdhimcnngktgmlzahcwmfgawffkkieralbnmfauwqnbkctthnzcaphbefrdrdylgkdnmgpefgcbztbvyrimeiuopeacdhhvbzdqpwmkvsauhavmrnpoosmsyzvakqluigrvveuiogdotambwdobadgt"
+          },
+          {
+            "key": [
+              [
+                2,
+                4,
+                0
+              ],
+              [
+                16,
+                24,
+                20
+              ]
+            ],
+            "score": -5.198357461015508,
+            "text": "ifindonlfmvidtfgdryqwglssvnetcxacazottycyknsrgpufvmedxxusgtwtbgtqncohxfzsvsnkseaqdhbldwpqiefbyfphlcgatimrkatxxmmsvcaaksbfhscprfzgicndhimcxnrkiggleancgmagvwafpkyegaqbhmaazwlnmkstthxzsauhmevryryylgednmbpufmcmzibqyrimeyudpuahdhhfbudqpmmevxazhlvrrhpdosmnyzvfkflzigrqvkuyogdotamwwyobaigo"
+          }
+        ]
+      }
+    },
+    {
+      "alphabet": "abcdefghiklmnopqrstuvwxyz",
+      "block": 3,
+      "crib": "ifindoubt",
+      "result": {
+        "row_choices": [
+          25,
+          25,
+          25
+        ],
+        "combinations": 15625,
+        "tested": 12500,
+        "top": [
+          {
+            "key": [
+              [
+                10,
+                23,
+                8,
+                16
+              ],
+              [
+                9,
+                21,
+                2,
+                8
+              ],
+              [
+                12,
+                1,
+                1,
+                23
+              ]
+            ],
+            "score": -4.776891684433703,
+            "text": "ifindoubtkllkdzlecadsikabengomycwytmfxroilqrmzghssfbkkbgpahmodgtocpqnvlchtuncgesczvheptevahpifiwfvauozlwazvalrmtalfalpcozgfgskwvaapmklmvooueritomlfuobcfhnfharimheirhnekfbokdmrgnlhveydpsyneoabggckrpeochhcsppwcigaradkkvfiisuklmmuhkpagzxcdwdxgxfoddrvedivgdbhlkzcekaximuvhmhatnvskarlvxk"
+          },
+          {
+            "key": [
+              [
+                24,
+                15,
+                5,
+                11
+              ],
+              [
+                11,
+                2,
+                23,
+                18
+              ],
+              [
+                6,
+                8,
+                13,
+                18
+              ]
+            ],
+            "score": -4.778935567649207,
+            "text": "ifindoubtisprewitlysahreudqhghpqhzmhmfsclegexsflrzkilgdsgwlcersmnfnevypqepgyansbanefukiiskczdbmnkskbpwuipdskbexshpehpknityedowaskgxnvisvoolscitoanzawcqpfapffgoyygbqlufgvwdlwhulapeekoienosutgkhdywolrmrqabvqhstwskdpllgvfiaybvisuoaiweuivygnpvnhlypbxfkokocwalxabkfglctawpalloclsoweoustw"
+          },
+          {
+            "key": [
+              [
+                5,
+                8,
+                18,
+                16
+              ],
+              [
+                19,
+                1,
+                7,
+                8
+              ],
+              [
+                12,
+                1,
+                1,
+                23
+              ]
+            ],
+            "score": -4.786809831303073,
+            "text": "ifindoubtevluizazcqysduarznmdmdswdimlnritlvgmpbhncfmpkmmpfxmttgiicelnlfcsyussguncpqheptzfahpilywafaetzfgaufaqgmollallpcourfrxkrfafempamvoozuritogvfzdbsahcahariwneymhxkkfboptmgbnfsveydpsyneofrgrhkbuedxhxxsuewhygvbaopkvfitxupambphezawuxhtwingxfoitrvedolgtwhvpznkkaxigevxghqonfxkvblfck"
+          },
+          {
+            "key": [
+              [
+                24,
+                15,
+                5,
+                11
+              ],
+              [
+                11,
+                2,
+                23,
+                18
+              ],
+              [
+                2,
+                21,
+                21,
+                23
+              ]
+            ],
+            "score": -4.7934880339105215,
+            "text": "ifindoubtisareuithysxhrqudshgwpqgzmwmfbclagewsfnrzviledskwlwerrmnhnesypheppyarsbhnenuktisqczibmgksqbpuuiqdsqbewshaehaknotyvdoeasqgxwviwvoolsbitoanvawmqpnapnfgiyyzbqnufevwolwwulspelkodenysuogkrdyeolzmrnabxqhgtwrkdqllevfiaypviwuoniwquicyggpvrhlopbbfkdkorwanxaukfelciawlalnocssoeeoaste"
+          },
+          {
+            "key": [
+              [
+                24,
+                15,
+                5,
+                11
+              ],
+              [
+                2,
+                0,
+                16,
+                23
+              ],
+              [
+                24,
+                12,
+                2,
+                8
+              ]
+            ],
+            "score": -4.797566145238132,
+            "text": "ifindoubtiycrnfifmyebhxsuvghaupuzzfumupcbxgipsxbrfxitqdffwkeevkmewnrwywbehvykusygnbmuuoithcetblpkthbxfuexdthbipsoceocksytkhdglathgmkvszvoolwuitoadsalzqmmammfbyybabhbuoqvgilquusmpfckitextspdgyedrlodfmdratmqbetakkzxltqvfiawfvszuqwicsufbyfppeuhatplefzikhpwsbxdvkoqlsoanhacbozrsglepssml"
+          },
+          {
+            "key": [
+              [
+                13,
+                7,
+                2,
+                6
+              ],
+              [
+                9,
+                21,
+                2,
+                8
+              ],
+              [
+                6,
+                8,
+                13,
+                18
+              ]
+            ],
+            "score": -4.798691781297331,
+            "text": "ifindoubthlpydwgelwdagkeneqiohfchathsxsriexrxlglqskqkgfggshcvdseoflqvblqbtgkcnfsaavfkpinvkxpdxinovkiowdwphvksrxrapdapecingeaswevknpnglsvoobecitoplzgocdffofflrolhgurlbeglbdmdhxgathepyiusoxetnbhacwlprkcqtcvrpskistrpskgvfissbglscuahpehzvudnaxnsfyadxqeolvcpblkkbregvxtpuptmlbtlpswirupxw"
+          },
+          {
+            "key": [
+              [
+                13,
+                7,
+                2,
+                6
+              ],
+              [
+                11,
+                2,
+                23,
+                18
+              ],
+              [
+                6,
+                8,
+                13,
+                18
+              ]
+            ],
+            "score": -4.803486137562487,
+            "text": "ifindoubthspyewgtlwsagrendqighfqhamhsfsrlexexlflqzkqlgfsgslcvrsenflevbpqbpgkanfbaaefkkinskxzdxmnoskipwdiphsksexrhpdhpeninyeaowesknxngisvoobscitopnzgwcdpfopflgolyguqlbfglwdmwhxlateepoiunoxutnkhaywllrkrqtbvrhskwstdpslgvfisybgiscoahwehivugnavnslyabxqkolocpalkabrfgvctpwptllbclpowiouptw"
+          },
+          {
+            "key": [
+              [
+                0,
+                18,
+                3,
+                16
+              ],
+              [
+                9,
+                21,
+                2,
+                8
+              ],
+              [
+                12,
+                1,
+                1,
+                23
+              ]
+            ],
+            "score": -4.8046828267834725,
+            "text": "ifindoubtzlledzqecfdsykagenromicwitmqxrdilarmeghhsfwkkwgplhmydgyocuqnalcctuxcgkscevheptuvahpiqiwvvapozawapvavrmialvalpcopgfbskmvalpmulmvooeeritoblfeobhfhsfharigheorhhekfboudmwgnahveydpsyneolbgbckmpetchncszpwnigqraykkvfidsuulmruhzpamzxndwoxgxfoodrvedtvgibhfkzxekaxibuvnmhftnqskqrlqxk"
+          },
+          {
+            "key": [
+              [
+                13,
+                7,
+                2,
+                6
+              ],
+              [
+                9,
+                21,
+                2,
+                8
+              ],
+              [
+                14,
+                7,
+                22,
+                8
+              ]
+            ],
+            "score": -4.814361103971917,
+            "text": "ifindoubthlsydagerwdggkhnemioefckatesxzrinxrzlggqsnqklfgashpvdueoblqbblgbtqkcefsmavrkponvxxptxizovxioadwnhvxsrzrasdasecyngxasfevxnpuglkvoobeeitoplhgokdfrofrlrylhvurgbellbimdexgrthspytustxednbpacflpakcwtcrrppkiutrnsklvfissaglkcubhphhzgudzaxesftadpqeilvzpbgkkqrelvxopuxtmgbtwpsfirhpxf"
+          },
+          {
+            "key": [
+              [
+                24,
+                15,
+                5,
+                11
+              ],
+              [
+                9,
+                21,
+                2,
+                8
+              ],
+              [
+                2,
+                21,
+                21,
+                23
+              ]
+            ],
+            "score": -4.821249346158592,
+            "text": "ifindoubtilarduiehydxhkqueshowpcgztwmxbciagrwsgnrsvikedgkwhwedrmohnqsylhetpycrsshnvnuptivqcpibigkvqbouuwqdvqbrwsaaeaakcotgvdseavqgpwvlwvoolebitoalvaomqfnafnfriyhzbrnueevboldwugsphlkydesyseogbrdceopzmcnacxqpgtirkrqlkevfiaspvlwuunipquzcydgpxrhfopdbfedkvrwbnxkukeelxiaulamnotssseerasxe"
+          }
+        ]
+      }
+    },
+    {
+      "alphabet": "dbifhcegaklmnopqrstuvwxyz",
+      "block": 2,
+      "crib": "ifindo",
+      "result": {
+        "row_choices": [
+          1,
+          1
+        ],
+        "combinations": 1,
+        "tested": 1,
+        "top": [
+          {
+            "key": [
+              [
+                24,
+                16,
+                19
+              ],
+              [
+                23,
+                11,
+                10
+              ]
+            ],
+            "score": -5.16111579687942,
+            "text": "ifindorvlswdbnodwfzfdwlwhytpmdztzonwbxnxqnmuthlmpnlussdybeogagxynlsknykahyxocpkrbcerblibfihrmkvlnrxemvpfkymvrhcthyzodqftyggozqkabhzvgspfrnqkrwlyhfndxeupqcuhvldumsbpxpuplqkhtycpbxnycspolhwovuvuugpaancelmlswwrehzqwpfbbwmlmvegsuavhpikoluaslqnrgutfvphhshyanfhmlcfsfgdvffdedoawfkhsihwvir"
+          }
+        ]
+      }
+    },
+    {
+      "alphabet": "dbifhcegaklmnopqrstuvwxyz",
+      "block": 3,
+      "crib": "ifindoubt",
+      "result": {
+        "row_choices": [
+          25,
+          25,
+          25
+        ],
+        "combinations": 15625,
+        "tested": 12500,
+        "top": [
+          {
+            "key": [
+              [
+                14,
+                5,
+                13,
+                19
+              ],
+              [
+                16,
+                8,
+                1,
+                13
+              ],
+              [
+                13,
+                16,
+                18,
+                21
+              ]
+            ],
+            "score": -4.704651619017042,
+            "text": "ifindoubtwacrylhusibzrlsxrzggsttdsrhncrdksmbcyorxipyyokhipydstfhmwvalguaibhlvweeozyffuigqwzxevoyfiaroloalhlequhbvmdnisfontorbcwztztbptutgacltokdbutyvbetaqubuxxiowtcxckbbrpfslikdeobrhpbzyrsdvqbxiulgsueitmarhlzluqytrwnttgrdnptuwposikrhaqhenekypatngdeixofebeexdydpuhbazucsubgguuqwcecoq"
+          },
+          {
+            "key": [
+              [
+                24,
+                0,
+                8,
+                14
+              ],
+              [
+                20,
+                1,
+                4,
+                21
+              ],
+              [
+                2,
+                4,
+                16,
+                24
+              ]
+            ],
+            "score": -4.73288950685937,
+            "text": "ifindoubtmzmezbhzxgybrviifrnphortxtmsitqcfmwdfcoxipyofkkgzguixskayvtvnedgtblcemodpzuooengtzgrdldaucekwamapzcdoarendsgiixxgnrbcmcpurupyzyhldfefvbrqhtopbervethershiyxulefrscfslikdefrruhrcumqtvqbxxplsiksffdgbtkprqvddmpdazfrlxpyzmvksikeczvrystbtirocvcyzgggrldbdyycukdnommdqnrtazbimwnctv"
+          },
+          {
+            "key": [
+              [
+                9,
+                20,
+                3,
+                9
+              ],
+              [
+                16,
+                8,
+                1,
+                13
+              ],
+              [
+                13,
+                16,
+                18,
+                21
+              ]
+            ],
+            "score": -4.737444268898075,
+            "text": "ifindoubtbacwylhusnbzrlsgrzsgsatdirhxcrcksmbcaorxipyyokhikydntfpmwvalsuanbhlvwreohyfyuisqwzxecoyoiawolfalzleluhevmdninfogtorbcbztptbptufgavlttkdeutovbwtadubpxxgowfcxqkberpfslikdeobrhpezyesdvqbxiulgszeiomamhlhludytewnytgrdnptubposikwhadhexekopaangleisofbbewxdydpzhbtzuvsuegghuqbcecoq"
+          },
+          {
+            "key": [
+              [
+                4,
+                10,
+                18,
+                24
+              ],
+              [
+                1,
+                3,
+                21,
+                8
+              ],
+              [
+                13,
+                16,
+                18,
+                21
+              ]
+            ],
+            "score": -4.742329821065304,
+            "text": "ifindoubteycbolhusxezrlsswzinsyodnwhglrlzsmbcttrxipyyokhihadgffzrwvalizaxehlvwbmokofthiivwzxeqtyygabfltfluvechhmlmdnigooiforbcepthobptuonalctyzdmktfqbmoalzbkgxnfwolxdpbmepfslikdeobrhpmpywndvqbxiulgshwiawaeplkdulftwrnfagrdnptuehosikbualkegmkfkayggvminyfwmemsdydphubfhulnumxgpzqevecoq"
+          },
+          {
+            "key": [
+              [
+                9,
+                20,
+                3,
+                9
+              ],
+              [
+                8,
+                22,
+                20,
+                22
+              ],
+              [
+                21,
+                2,
+                24,
+                12
+              ]
+            ],
+            "score": -4.746660226444008,
+            "text": "ifindoubtbbnwwnhkingtrqngsysteaxwinaxmlcskmmvahdxipyttkunkctnlmpsqvocsvgnsoldrrsihwcyeqseczibcusotswwifirzgkleseyadinncmgqrrbcbncpxxpahfoivzhtnxeiloknwskdvdphqgeffweqqveprfslikdeaerzuenlewwvqbxnklnnzkzoammbohyeduxelyyeurcgpahbidsikwildccxgaookabtlxmsdrbazwreyqzznttdtvwqelhhchbyocfd"
+          },
+          {
+            "key": [
+              [
+                9,
+                20,
+                3,
+                9
+              ],
+              [
+                20,
+                1,
+                4,
+                21
+              ],
+              [
+                13,
+                16,
+                18,
+                21
+              ]
+            ],
+            "score": -4.756042984809547,
+            "text": "ifindoubtbzcwzlhzsnyzrvsgfzspsardithxirccsmwcacrxipyookkikgdnxfpawvtlseanthlcwroohzfyoisgwzgeclyouawklfmlzzeloheemdsinioggorbcbctprbpyufhavfttvdeqtoobweadebpexghwfxxqebespfslikdefbrupecyeqdvqbxxulsszsiodamtlhruddtepnyzgrlnpyubvosikwcadrextkoiaacglyisgfblewddycpzdbtmuvquetghbqbwectq"
+          },
+          {
+            "key": [
+              [
+                24,
+                0,
+                8,
+                14
+              ],
+              [
+                16,
+                8,
+                1,
+                13
+              ],
+              [
+                13,
+                16,
+                18,
+                21
+              ]
+            ],
+            "score": -4.76173019933373,
+            "text": "ifindoubtmaceylhusgbzrlsirzngsotdxrhscrqksmbcforxipyyokhizyditfkmwvalnuagbhlvwmeopyfouinqwzxedoyaiaeolaalpleduhrvmdniifoxtorbcmztutbptuygadltfkdruttvbbtavubhxxsowycxlkbrrpfslikdeobrhprzymsdvqbxiulgskeifmabhlpluvytmwnatgrdnptumposikehavhesektpaongceigofrbebxdydpkhbozudsurggzuqmcecoq"
+          },
+          {
+            "key": [
+              [
+                24,
+                0,
+                8,
+                14
+              ],
+              [
+                16,
+                8,
+                1,
+                13
+              ],
+              [
+                14,
+                8,
+                0,
+                23
+              ]
+            ],
+            "score": -4.769516894882204,
+            "text": "ifindoubtmakeyhhungbsrlgiringdotnxrssckqkrmblfopxipyyykhxzywithkmpvadnumgbilvmmewpyxouonquzxwdoraieeokaasplxduqrvvdnxifuxthrbcmzgutoptpygbdllfkkrustvtbtcvuhhxtsodycvlkurrafslikdeomrhzrznmsnvqbxizlggkemfmzbhbplavyemwhatwrdiptpmpisikehivhksentpconzcedgoprbibxgydkkhdozxdsergrzuymclcol"
+          },
+          {
+            "key": [
+              [
+                13,
+                13,
+                6,
+                17
+              ],
+              [
+                1,
+                3,
+                21,
+                8
+              ],
+              [
+                13,
+                16,
+                18,
+                21
+              ]
+            ],
+            "score": -4.772245421019404,
+            "text": "ifindoubtsycxolkuskezblsuwzznseodhwhulrbzsebcdtrxipoyophitadrffmrwcalhzahehvvwymocofshikvwkxeitycgasfleflovehhhslmcnimoowforbcgptnobutudnaocthzdikteqbkoanzbygxyfwvlxnpbgepfslikdwobehpnpyhndvqbsiuvgslwiiwadpllduiftzrnhagbdnutughosikxuankekmkbkabggimimyflmezsdfdpvubchutnusxgmzqsveloq"
+          },
+          {
+            "key": [
+              [
+                9,
+                20,
+                3,
+                9
+              ],
+              [
+                16,
+                8,
+                1,
+                13
+              ],
+              [
+                18,
+                1,
+                3,
+                6
+              ]
+            ],
+            "score": -4.773485661942077,
+            "text": "ifindoubtbadwychusnbprlsgrpsggatliruxcecknmbcaoexipyyokhikycntapmmvalsuynbulvwrefhyyyugsqmzxecoooiywocfavzlmlukevedninftgttrbcbzoptmptufgyvlftkveuoovmwttdurpxigorfcnqkrerkfslikdeobrhpezteslvqbxiulgszexomomhqhlpdyaewxytirdnptubpasikwhfdhwxezoptanslessoabbmwxlydpzhwtzkvshegihucbcbcoq"
+          }
+        ]
+      }
+    },
+    {
+      "alphabet": "abcdefghijklmnopqrstuvwxyz",
+      "block": 2,
+      "crib": "ifindo",
+      "result": {
+        "row_choices": [
+          1,
+          1
+        ],
+        "combinations": 1,
+        "tested": 0,
+        "top": []
+      }
+    },
+    {
+      "alphabet": "abcdefghijklmnopqrstuvwxyz",
+      "block": 3,
+      "crib": "ifindoubt",
+      "result": {
+        "row_choices": [
+          26,
+          26,
+          26
+        ],
+        "combinations": 17576,
+        "tested": 8112,
+        "top": [
+          {
+            "key": [
+              [
+                8,
+                18,
+                17,
+                22
+              ],
+              [
+                9,
+                25,
+                21,
+                0
+              ],
+              [
+                14,
+                23,
+                6,
+                14
+              ]
+            ],
+            "score": -4.8639824284988356,
+            "text": "ifindoubtulkbnrdifikqvcphgelckqofnlgcaticsdutaynqcvycwmigscodmwrfwcxqceonsaexsczmgororokuphlenrnehsimpiosklzmqxsnpzhchcrvctojfisyvxdsdlodjcwwblykzvnayxpngtlagphzlvllhrvhpnpiwpducfyarwjukagsksqvqxcucfoolfoabwuxxoukojxxijmtlsdlafacuimdsrozeqnewiuuekeevgqbyyvioqejzksmkvfhasfolsefuyfug"
+          },
+          {
+            "key": [
+              [
+                3,
+                19,
+                2,
+                21
+              ],
+              [
+                5,
+                5,
+                9,
+                20
+              ],
+              [
+                3,
+                20,
+                25,
+                17
+              ]
+            ],
+            "score": -4.869575528692775,
+            "text": "ifindoubtchmflfwsavkdomksuxcalfamnlgnomzatweorwolykhevxwzrwriqhjjuejkfwfiopexsotczymalezgwtfunrngtmdierqrutvpiowldjpymgcuwwutntgrvxdofxevnfontpwwtleyzvdtehrtqkfnrpbdvxftjdkeltbicfyuhogctretriviqklwbwmptbqwdiuxxfslizpyogivxofxibchytopmowizmchoznezrujcwvgcjcytjoesundiwxlycnkeczugfgad"
+          },
+          {
+            "key": [
+              [
+                3,
+                19,
+                2,
+                21
+              ],
+              [
+                15,
+                3,
+                13,
+                22
+              ],
+              [
+                4,
+                25,
+                2,
+                12
+              ]
+            ],
+            "score": -4.879309713824012,
+            "text": "ifindoubtcrafdzwgrvkqoabsyacssfwjnlgnspzsawsfrovlilhmoxacrymiggjzgefufquiyqexsovkzmdanmzctthcnrngpwdsfrykuztpcdwdxjvwmwbuyruhrtkuvxdondeppfictfiwvteqgvhjelhtebfrhpnzvvxtllkomttccfyutkgierwarueiqxleuwewtlewlouxxfksillymliddondilqhosolwoctzwdhionsqrgsciegsickcjcvsiedadxbkctieqquccgyi"
+          },
+          {
+            "key": [
+              [
+                3,
+                19,
+                2,
+                21
+              ],
+              [
+                5,
+                5,
+                9,
+                20
+              ],
+              [
+                10,
+                3,
+                20,
+                8
+              ]
+            ],
+            "score": -4.884685718575359,
+            "text": "ifindoubtchgflpwspvkqomzsuscaifarnlgnohzaqwedrwllyrheyxwurwiiqajjaejcfwgiowexsotgzybalizgbtfynrngtedilrquuthpipwlnjpkmgvuwnutptgmvxdofnevbfootpcwtpeywvdbehztqzfnzpbbvxbtjhkestbscfyuhmgcsreqrigiqxlwewmmtbkwdyuxxfsiiznyopivnofnibwhymopeowhzmjhoaneoruucwggcccyejotsucditxlecnwecougkgam"
+          },
+          {
+            "key": [
+              [
+                6,
+                8,
+                11,
+                6
+              ],
+              [
+                15,
+                3,
+                13,
+                22
+              ],
+              [
+                11,
+                8,
+                23,
+                3
+              ]
+            ],
+            "score": -4.885958050994992,
+            "text": "ifindoubtsrundjvggikdnaqbyvxspwwonlgwskusxvsumosoismmrgaxcydfgztzmifmyqvlyxexsmvoymsynqqcyrhgnrnkpogsmwynozficeedhdvijwufyightckpvxdgntkpdyiddfouvxzqdrhralpseqbrpdnxxvtrlpnotbtmcfyitinidmwxsupvqkqexretjlyoleuxxakpwljnmuadtgntylkeolslovcscwkaipmsfsgddipdsbdknickrityaahbqwtudqflchvyr"
+          },
+          {
+            "key": [
+              [
+                16,
+                6,
+                15,
+                8
+              ],
+              [
+                15,
+                3,
+                13,
+                22
+              ],
+              [
+                1,
+                10,
+                19,
+                1
+              ]
+            ],
+            "score": -4.8878424489959365,
+            "text": "ifindoubtcrkfdrjgsikdbacfyrpsxswsnlgasgmsfjsgeoayiiumjkateybvgjjzwefqsqbvynexsovmmmeanomccthenrngpsqsceyfuzzcckwdpjvczwehyguhfgklvxdonlepjsijtfywvvrqlvhnellgecfrlpnlvvvtlnxojttucfyutwtixewfeudvqkyepjebtlowlwuxxskxilxlmwidlonlilauovolsbcmmwauivasregrpidtslpkbwcwfifqaixbactorqrhcltyt"
+          },
+          {
+            "key": [
+              [
+                16,
+                6,
+                15,
+                8
+              ],
+              [
+                15,
+                3,
+                13,
+                22
+              ],
+              [
+                11,
+                8,
+                23,
+                3
+              ]
+            ],
+            "score": -4.910565257579049,
+            "text": "ifindoubtcrufdjjggikdbaqfyvpspswonlgaskmsxjsueosyisumrkaxeydvgzjzmefmsqvvyxexsovommsanqmcythgnrngpoqsmeynuzfccewdhjvizwuhyiuhtgkpvxdontepdsidtfowvxrqdvhrelpgeqfrppnxvvttlpxotttmcfyutitidewxeupvqkyexjettlywleuxxskpiljlmuidtontilkuololobcsmwkuipasfegdpiptsbpknwckfitqaaxbqcturqfhchtyr"
+          },
+          {
+            "key": [
+              [
+                16,
+                6,
+                15,
+                8
+              ],
+              [
+                9,
+                25,
+                21,
+                0
+              ],
+              [
+                24,
+                21,
+                10,
+                16
+              ]
+            ],
+            "score": -4.911082927300651,
+            "text": "ifindoubtclufnjjitikqbcdfgipccsobnlgaaxmckjuheyfycfucekikecqvmmjfmexmseivskexsozomofarqmultlgnrnghoqmzeoaulfcqrwnhjhizchhcvujtgscvxdodteddswqtlowzxraqvpretpggdfzpplxvrttppxigtdmcfyurituqegkescvqxyukjogtfywbeuxxsucijjlihittodtifkuuyodobofmqxuwcauseeqpgctyopiawexfkgqknxhqcfursshuutue"
+          },
+          {
+            "key": [
+              [
+                3,
+                19,
+                2,
+                21
+              ],
+              [
+                23,
+                17,
+                11,
+                8
+              ],
+              [
+                3,
+                20,
+                25,
+                17
+              ]
+            ],
+            "score": -4.91208337054697,
+            "text": "ifindoubtczmfhfwmavkdogkswxcwlfymnlgnqmzwtwyorsolqkhivxyzrkriyhjruehkfgfigpexsohczsmazezewttunrngrmdaerurujvpsowhdjfymocukwunntirvxdojxefnfyntxwwhleuzvftejrtkkfprphdvjftxdkwltxicfyunogstratroviqklabwipttqwhiuxxfolifpyagizxojxitchgtonmomizechyznyzrajccvgkjcetjiesondewxtycdkewzuefgmd"
+          },
+          {
+            "key": [
+              [
+                3,
+                19,
+                2,
+                21
+              ],
+              [
+                15,
+                3,
+                13,
+                22
+              ],
+              [
+                1,
+                10,
+                19,
+                1
+              ]
+            ],
+            "score": -4.914886421565556,
+            "text": "ifindoubtcrkfdrwgsvkdoacsyrcsxfwsnlgnsgzsfwsgroaliihmjxatrybigjjzwefqfqbiynexsovmzmeanozccthenrngpsdscryfuzzpckwdpjvcmweuyguhftklvxdonlepjfijtfywvveqlvhnelltecfrlpnlvvvtlnkojttucfyutwgixrwfrudiqklepwebtlowlwuxxfkxilxymwidlonlilahovolsocmzwahivnsrrgrcidgslckbjcwsifdaixbactoeqruclgyt"
+          }
+        ]
+      }
+    }
+  ],
+  "controls": [
+    {
+      "block": 2,
+      "plaintext": "ifindoubtreconstructthecompleteencodingandpreserveallcharactersbeforeacceptinganyprefixasprooftheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexpl",
+      "result": {
+        "row_choices": [
+          5,
+          5
+        ],
+        "combinations": 25,
+        "tested": 25,
+        "top": [
+          {
+            "key": [
+              [
+                1,
+                23,
+                11
+              ],
+              [
+                0,
+                1,
+                18
+              ]
+            ],
+            "score": -1.9633041243488991,
+            "text": "ifindoubtreconstructthecompleteencodingandpreserveallcharactersbeforeacceptinganyprefixasprooftheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexpl"
+          },
+          {
+            "key": [
+              [
+                16,
+                18,
+                6
+              ],
+              [
+                0,
+                1,
+                18
+              ]
+            ],
+            "score": -3.365081406065768,
+            "text": "ifindokbtruconctmuntthucomelutuexcodinbaxderusuraeflqcsamanturcbuforuancuptixgfnypmelihacpmoofthupmonedumeguctuxelfixtsemectofthumuscabethupmonedumeguctuxelfixtsemectofthumuscabethupmonedumeguctuxelfixtsemectofthumuscabethupmonedumeguctuxelfixtsemectofthumuscabethupmonedumeguctuxel"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                11
+              ],
+              [
+                15,
+                21,
+                13
+              ]
+            ],
+            "score": -3.913936041105737,
+            "text": "ifindourtresonsdrpcdthesompaeieunnodingvnopgehegvkaqlhhlrvcdegsmevoreqcneetinrasyprzfoxlszrioftheericpdurzmpsdenpaaondhprzsdofthebehslgztheericpdurzmpsdenpaaondhprzsdofthebehslgztheericpdurzmpsdenpaaondhprzsdofthebehslgztheericpdurzmpsdenpaaondhprzsdofthebehslgztheericpdurzmpsdenpa"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                11
+              ],
+              [
+                20,
+                11,
+                3
+              ]
+            ],
+            "score": -3.9316236216382445,
+            "text": "ifindouwtrexonsyrecythexompfeoeznhodinglnipmenemvuaalshfrlcyemsgeaorevchektinmacyprpfyxfsuryofthekryckdurpmesyespfaynyhkrpsyofthegensfgpthekryckdurpmesyespfaynyhkrpsyofthegensfgpthekryckdurpmesyespfaynyhkrpsyofthegensfgpthekryckdurpmesyespfaynyhkrpsyofthegensfgpthekryckdurpmesyespf"
+          },
+          {
+            "key": [
+              [
+                11,
+                3,
+                16
+              ],
+              [
+                0,
+                1,
+                18
+              ]
+            ],
+            "score": -4.103831971815233,
+            "text": "ifindoebtrpconhtwustthpcomzlptpeccodinmacdzrpsprqevlfcxawastprhbpforpascppticgvnypweainahpwoofthppwoseduweruhtpxzlvictxewehtofthpmpshamethppwoseduweruhtpxzlvictxewehtofthpmpshamethppwoseduweruhtpxzlvictxewehtofthpmpshamethppwoseduweruhtpxzlvictxewehtofthpmpshamethppwoseduweruhtpxzl"
+          },
+          {
+            "key": [
+              [
+                16,
+                18,
+                6
+              ],
+              [
+                20,
+                11,
+                3
+              ]
+            ],
+            "score": -4.233596502160557,
+            "text": "ifindokwtruxoncymenythuxomefuouzxhodinblxiemunumaufaqssfmlnyumcguaoruvnhuktixmfcypmplyhfcumyofthukmynkdumpgecyuseffyxyskmpcyofthuguncfbpthukmynkdumpgecyuseffyxyskmpcyofthuguncfbpthukmynkdumpgecyuseffyxyskmpcyofthuguncfbpthukmynkdumpgecyuseffyxyskmpcyofthuguncfbpthukmynkdumpgecyusef"
+          },
+          {
+            "key": [
+              [
+                6,
+                13,
+                1
+              ],
+              [
+                0,
+                1,
+                18
+              ]
+            ],
+            "score": -4.317229503962135,
+            "text": "ifindozbtrkconntguxtthkcomulktkehcodinwahdurkskrfellvccagaxtkrnbkforkaxckptihglnypgeqisanpgoofthkpgoxedugebuntkxullihtcegentofthkmksnawethkpgoxedugebuntkxullihtcegentofthkmksnawethkpgoxedugebuntkxullihtcegentofthkmksnawethkpgoxedugebuntkxullihtcegentofthkmksnawethkpgoxedugebuntkxul"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                11
+              ],
+              [
+                5,
+                16,
+                8
+              ]
+            ],
+            "score": -4.3527480273037495,
+            "text": "ifindougtrehonsorkcothehompqeyeknxodingqnypwexewvpavlnhvrqcoewswelorefcxeutinbaxypruftxvskrdoftheurdczdurumksoecpqatnohzrusooftherexsvgutheurdczdurumksoecpqatnohzrusooftherexsvgutheurdczdurumksoecpqatnohzrusooftherexsvgutheurdczdurumksoecpqatnohzrusooftherexsvgutheurdczdurumksoecpq"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                11
+              ],
+              [
+                10,
+                6,
+                23
+              ]
+            ],
+            "score": -4.389458784371534,
+            "text": "ifindoumtrenonsirzcithenompvedepnsodingfntpbecebvzaflxhqrfciebsreqorelcseztinwahyprkfdxqsertofthezrtcudurkmzsiehpvadnihurksiofthewecsqgkthezrtcudurkmzsiehpvadnihurksiofthewecsqgkthezrtcudurkmzsiehpvadnihurksiofthewecsqgkthezrtcudurkmzsiehpvadnihurksiofthewecsqgkthezrtcudurkmzsiehpv"
+          },
+          {
+            "key": [
+              [
+                21,
+                8,
+                21
+              ],
+              [
+                0,
+                1,
+                18
+              ]
+            ],
+            "score": -4.578185719010191,
+            "text": "ifindopbtrzconxtbuhtthzcomklztzescodinrasdkrzszrleqlacnabahtzrxbzforzahczptisgqnypbevicaxpboofthzpbohedubewuxtzxklqistnebextofthzmzsxarethzpbohedubewuxtzxklqistnebextofthzmzsxarethzpbohedubewuxtzxklqistnebextofthzmzsxarethzpbohedubewuxtzxklqistnebextofthzmzsxarethzpbohedubewuxtzxkl"
+          }
+        ]
+      }
+    },
+    {
+      "block": 3,
+      "plaintext": "ifindoubtreconstructthecompleteencodingandpreserveallcharactersbeforeacceptinganyprefixasprooftheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexpl",
+      "result": {
+        "row_choices": [
+          25,
+          25,
+          25
+        ],
+        "combinations": 15625,
+        "tested": 12500,
+        "top": [
+          {
+            "key": [
+              [
+                1,
+                23,
+                5,
+                6
+              ],
+              [
+                0,
+                1,
+                21,
+                12
+              ],
+              [
+                0,
+                0,
+                1,
+                14
+              ]
+            ],
+            "score": -1.9584618672784675,
+            "text": "ifindoubtreconstructthecompleteencodingandpreserveallcharactersbeforeacceptinganyprefixasprooftheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexplaintherestofthemessagetheproceduremustexpl"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                5,
+                6
+              ],
+              [
+                0,
+                1,
+                6,
+                22
+              ],
+              [
+                0,
+                0,
+                1,
+                14
+              ]
+            ],
+            "score": -3.5345414958494437,
+            "text": "ifindoubtrucocstbuctthucowpleteuncodisgandpbeskrvzalachfractegsbzfobeasceptisganypbefyxacproofiheuronedzrewusdexklayntserustiftsemussfgeiheuronedzrewusdexklayntserustiftsemussfgeiheuronedzrewusdexklayntserustiftsemussfgeiheuronedzrewusdexklayntserustiftsemussfgeiheuronedzrewusdexkl"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                0,
+                1
+              ],
+              [
+                0,
+                1,
+                21,
+                12
+              ],
+              [
+                0,
+                0,
+                1,
+                14
+              ]
+            ],
+            "score": -3.5695091843999074,
+            "text": "ifindoubtwectnsoructtnecimpletkencodtngandkrecerleaqlcsaractkrsrefirefccepttnganykrelixvsproolthppriceourzmuntenplfinohewesiofoherescagkthppriceourzmuntenplfinohewesiofoherescagkthppriceourzmuntenplfinohewesiofoherescagkthppriceourzmuntenplfinohewesiofoherescagkthppriceourzmuntenpl"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                5,
+                6
+              ],
+              [
+                0,
+                1,
+                21,
+                12
+              ],
+              [
+                0,
+                20,
+                4,
+                2
+              ]
+            ],
+            "score": -3.637116139475822,
+            "text": "ifindoubtrekonetrcctihekomhledeezcoyinfandprsselverllehafacoerkbemorsacuepdinfaniprsfiuascrooftkeplocndulemcsthxpgaiethnreutorthnmeusaqetkeplocndulemcsthxpgaiethnreutorthnmeusaqetkeplocndulemcsthxpgaiethnreutorthnmeusaqetkeplocndulemcsthxpgaiethnreutorthnmeusaqetkeplocndulemcsthxpg"
+          },
+          {
+            "key": [
+              [
+                1,
+                8,
+                24,
+                5
+              ],
+              [
+                0,
+                1,
+                21,
+                12
+              ],
+              [
+                0,
+                0,
+                1,
+                14
+              ]
+            ],
+            "score": -3.6784619522210726,
+            "text": "ifindoubtcecpnscruxttteccmpqetfennodlngandoreeeroeaglcearlctvrspefnrercckptlngfnyoremixzsproobthrprxcequromumtefplrincheneswofcheheszagathrprxcequromumtefplrincheneswofcheheszagathrprxcequromumtefplrincheneswofcheheszagathrprxcequromumtefplrincheneswofcheheszagathrprxcequromumtefpl"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                5,
+                6
+              ],
+              [
+                0,
+                1,
+                21,
+                12
+              ],
+              [
+                0,
+                0,
+                16,
+                4
+              ]
+            ],
+            "score": -3.6812745436084144,
+            "text": "ifindoubtrenonctrkctthenomeleteexcodinbandprusemvefllnhamactercbeloruacneptinbanyprufihaserooftsepmocudumemkstuxpqaixthurectolthumecsabetsepmocudumemkstuxpqaixthurectolthumecsabetsepmocudumemkstuxpqaixthurectolthumecsabetsepmocudumemkstuxpqaixthurectolthumecsabetsepmocudumemkstuxpq"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                5,
+                6
+              ],
+              [
+                0,
+                1,
+                21,
+                12
+              ],
+              [
+                0,
+                5,
+                13,
+                16
+              ]
+            ],
+            "score": -3.697406856155407,
+            "text": "ifindoubtrefonqtrbctdhefommleieelcoiincandprgsesveplllhaxacyerlbeeorgacvepiincanoprgfilasrrooftqepsocmdusembstrxpuaifthmreatozthmmeasasetqepsocmdusembstrxpuaifthmreatozthmmeasasetqepsocmdusembstrxpuaifthmreatozthmmeasasetqepsocmdusembstrxpuaifthmreatozthmmeasasetqepsocmdusembstrxpu"
+          },
+          {
+            "key": [
+              [
+                1,
+                18,
+                13,
+                24
+              ],
+              [
+                0,
+                1,
+                21,
+                12
+              ],
+              [
+                0,
+                0,
+                1,
+                14
+              ]
+            ],
+            "score": -3.7038651399852442,
+            "text": "ifindoubttecvnsgrusttkecmmpvetmenxodxngandhreberweahlcmarvctrrssefgrenccpptxnglnyhrexixtsproocthoprbcenursmuatedplningheoespofgheiesragbthoprbcenursmuatedplningheoespofgheiesragbthoprbcenursmuatedplningheoespofgheiesragbthoprbcenursmuatedplningheoespofgheiesragbthoprbcenursmuatedpl"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                5,
+                6
+              ],
+              [
+                0,
+                16,
+                2,
+                13
+              ],
+              [
+                0,
+                0,
+                1,
+                14
+              ]
+            ],
+            "score": -3.721000968190248,
+            "text": "ifindoubtrtcomsthucythtcoxplztedncddilgandpsessrvmalpchdrasteasbrfoseamcektilgahypsefcxatproofxhecrotedhrecuszexglasntyeristlftyemisstgexhecrotedhrecuszexglasntyeristlftyemisstgexhecrotedhrecuszexglasntyeristlftyemisstgexhecrotedhrecuszexglasntyeristlftyemisstgexhecrotedhrecuszexgl"
+          },
+          {
+            "key": [
+              [
+                1,
+                23,
+                5,
+                6
+              ],
+              [
+                0,
+                6,
+                3,
+                9
+              ],
+              [
+                0,
+                0,
+                1,
+                14
+              ]
+            ],
+            "score": -3.7253607181469492,
+            "text": "ifindoubtrncoqsttucdthncodplutehnctditgandpoesqrvialychrrahtepsbtfooeaaceetitgacypoefbxapproofghearoeedfreousaexolagntkersstxftkemssswgeghearoeedfreousaexolagntkersstxftkemssswgeghearoeedfreousaexolagntkersstxftkemssswgeghearoeedfreousaexolagntkersstxftkemssswgeghearoeedfreousaexol"
+          }
+        ]
+      }
+    }
+  ],
+  "scope": "All invertible affine 2x2 keys consistent with IFINDO and affine 3x3 keys consistent with IFINDOUBT, in three stated alphabets. The supplied crib is an assumption, not evidence; only continuation is scored."
+}

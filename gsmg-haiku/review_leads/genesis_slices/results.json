@@ -1,0 +1,16 @@
+{
+  "distinct_answer_bytes": 33834,
+  "target_point_comparisons": 293580,
+  "new_passwords": 135276,
+  "password_aes_trials": 405828,
+  "padding_valid": 1577,
+  "old_passwords_skipped": 60,
+  "direct_aes_trials": 1884,
+  "short_lengths": {
+    "79": 1047,
+    "78": 5
+  },
+  "target_matches": [],
+  "structural_candidates": [],
+  "seconds": 23.54
+}

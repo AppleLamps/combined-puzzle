@@ -1,0 +1,9 @@
+# Local Python environment (Windows venv, machine-specific)
+.venv/
+__pycache__/
+*.pyc
+
+# Issue files that contain WIF-encoded intermediate keys (private key material).
+# Not published to the remote. Remove these lines only after deciding to publish them.
+mywork2/web/issues/Naddiseo_17.md
+mywork2/web/issues/puzzlehunt_108.md

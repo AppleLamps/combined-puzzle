@@ -1,0 +1,4 @@
+singular keys [((18, 5, 18, 8), 65), ((18, 5, 18, 21), 72), ((18, 18, 18, 8), 100), ((18, 18, 18, 21), 63)]
+Caesar constraints {'b': [0], 'c': [0], 'd': [0], 'e': [0]}
+base4 models 1440 printable 0
+scheduled models 288 best {'k0': (1, 19, 6, 3), 'k1': (1, 19, 6, 3), 'schedule': 'alternating', 'flip': 0, 'score': -4.9259992412206115, 'text': 'ahhtiwayrooeommymqlxrcxwlyulxdqiqdovowxyekhkrhutavprsdkvwbrqwfdtsbdcneenlycpscariurwizzmokfgiouhadwryegvubyenpwclyqdpxrmnwskrzentocecigvnkgmivrskxsrwrlzfplpuhyqgevlsvlzesvubwscownesnzcbbvbiyiyfhpwhymxutrobgifaemvgvyvdvutnbcivoewlsmkprcbesadwosfdandxauellfbehbfappcyfbaiwvhghitwlozyd'}

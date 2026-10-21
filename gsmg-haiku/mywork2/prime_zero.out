@@ -1,0 +1,228 @@
+prime_zero.py 2026-10-14 16:54:41 python 3.13.15
+hints: primes + zeroed out (#8000), yellow 9 / blue 15 (#1710, mywork2/yb_counts.out)
+
+== controls ==
+known t[766:829]: dechex -> 'lastwordsbeforearchichoice' ok=True
+known t[830:859]: dechex -> 'thispassword' ok=True
+planted t[766:829]: zeros hidden as 'a' on class i%5==1; hidden run has no 'o': True
+[planted t[766:829]] len=63 classes=113 distinct masked strings=21913 (4s)
+  dechex: best primary 26, best letter fraction 1.0
+    primary=    26 frac=1.000 zero           i%5==1 {a} lastwordsbeforearchichoice
+    primary=    17 frac=0.692 zero           i%5==1 {ad} lastwordsbeforeaq\x8a\x91B\xacP\xf4\xe9c=
+    primary=    16 frac=0.808 zero           i%5==1 {af} lastwordsbeforcq#r;\xb9\x16w\x17ice
+    primary=    16 frac=0.692 zero           i%5==1 {adf} lastwordsbeforcq"\x99d\x92__\x9c\xe9c=
+    primary=    13 frac=0.654 zero           i%4==2 {abc} lastwordsbefa&\x14\xd7\xceh\xc0e#\xc8q\xc0Ke
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cdefghi} kklvkvuulv
+    primary=   0.0 frac=1.000 remove            all {acdefghi} vvvvv
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} kkkkk
+    primary=   0.0 frac=1.000 zero           i%2==0 {cdefghi} qaakeegcgcvcbhfalcdhdvabaavbaed
+    primary=   0.0 frac=1.000 zero           i%2==0 {acdefghi} gaaaeegcgcvcbhfabcdhdvabaavbaed
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} ooo
+    primary=   0.0 frac=0.600 remove            all {bcdefgi} ov.v.
+    primary=   0.0 frac=0.600 remove            all {bcdfghi} os.o.
+    primary=   0.0 frac=0.571 remove            all {cdefghi} op.z.p.
+    primary=   0.0 frac=0.500 remove            all {bcdegh} to.w..
+  top dechex decode == 'lastwordsbeforearchichoice': True
+planted t[830:859]: zeros hidden as 'e' on class all; hidden run has no 'o': True
+[planted t[830:859]] len=29 classes=113 distinct masked strings=8656 (3s)
+  dechex: best primary 12, best letter fraction 1.0
+    primary=    12 frac=1.000 zero              all {e} thispassword
+    primary=     9 frac=0.750 zero              all {ae} thispassw`0$
+    primary=     6 frac=0.667 zero      spiral:bit1 {cei} thispr\xe5\x13\x05ma0
+    primary=     6 frac=0.583 zero              all {ei} thispa\x19i;\x9a>\xe0
+    primary=     6 frac=0.583 zero              all {aei} thispa\x19i;\x8a\xfc\xa0
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cdefghi} v
+    primary=   0.0 frac=1.000 remove            all {acdefghi} v
+    primary=   0.0 frac=1.000 zero           i%2==0 {cdefghi} fbdgexeigedofd
+    primary=   0.0 frac=1.000 zero           i%2==0 {acdefghi} fbdgexeigedefd
+    primary=   0.0 frac=1.000 zero           i%2==0 {bcdefghi} fbdgedeigedofd
+  ascii3: best primary 0.0, best letter fraction 0.1111
+    primary=   0.0 frac=0.111 zero        nonprime1 {i} .....a...
+    primary=   0.0 frac=0.111 zero        nonprime1 {bi} .....a...
+    primary=   0.0 frac=0.111 zero        nonprime1 {ci} .....a...
+    primary=   0.0 frac=0.111 zero        nonprime1 {bci} .....a...
+    primary=   0.0 frac=0.111 zero        nonprime1 {di} .....a...
+  top dechex decode == 'thispassword': True
+[planted-remove t[830:859] (+6 'e')] len=35 classes=113 distinct masked strings=8398 (2s)
+  dechex: best primary 12, best letter fraction 1.0
+    primary=    12 frac=1.000 remove            all {e} thispassword
+    primary=    10 frac=0.833 remove    spiral:bit0 {ei} thispaqvmc\x89\xa8
+    primary=     4 frac=0.571 remove      nonprime0 {adefghi} lqpc\xce{\x1e
+    primary=     4 frac=0.556 remove    rowmaj:bit1 {abcdeg} \xc3vmwa\x0b\xea\xe9z
+    primary=     4 frac=0.556 remove    rowmaj:bit1 {abcdefi} \xc3vmwq"\xe1\xb4x
+  a1z26: best primary 0.0, best letter fraction 0.8235
+    primary=   0.0 frac=0.824 zero           i%2==0 {cdefghi} febdg.yg.iee.djfd
+    primary=   0.0 frac=0.824 zero           i%2==0 {bcdefghi} febdg.eg.iee.djfd
+    primary=   0.0 frac=0.765 zero           i%2==0 {cdefgi} febd..yg.iee.djfd
+    primary=   0.0 frac=0.765 zero           i%2==0 {bcdefgi} febd..eg.iee.djfd
+    primary=   0.0 frac=0.765 zero           i%2==0 {cdefhi} febdg.yg.i.e.djfd
+  ascii3: best primary 0.0, best letter fraction 0.4
+    primary=   0.0 frac=0.400 remove            all {abcdef} ..c.b
+    primary=   0.0 frac=0.400 remove            all {cdefg} ..c.b
+    primary=   0.0 frac=0.400 remove            all {bdefh} ..c.d
+    primary=   0.0 frac=0.400 remove            all {bcefgh} ..c.d
+    primary=   0.0 frac=0.333 remove            all {def} ...c.d
+  top dechex decode == 'thispassword': True
+
+== real runs ==
+[r1] len=91 classes=113 distinct masked strings=26743 (3s)
+  dechex: best primary 5, best letter fraction 0.3947
+    primary=     5 frac=0.395 zero           yb24:1 {befgi} \x1fkvjmR\r\x1c\x03g9\xeb\xdes\xd3o\xcaj\xa0hvsai\xf2W\x12s\xc3\xc2\x1do\x9c`\xec\xc3!\xcd
+    primary=     5 frac=0.300 remove    rowmaj:bit0 {cdefi} \x03Rb\x13iyM\thbhbc\xf81\x86\x7f'\xa9\x89:\x9f\x18\xe4r\x94N(\xa3\xa0
+    primary=     5 frac=0.294 remove         i%3==2 {cdfh} \x8e\xacT$NH\xdb\xca\x91\xa7{>j\x8dglfxh\xab\x8ef\xd5\xff\xd7k\xe1k\x86\xd8\x80\xbf\xf1u
+    primary=     5 frac=0.294 remove         i%6==0 {efgh} \x8e\xac\xa0n\xdf,\xae\x8e\xd7Wtz\xbeQ6\xc1\x96\x8bC\xe1(h\x8d\x9a\x164jqdjm\x9akX
+    primary=     5 frac=0.263 remove      nonprime1 {abegh} \x01\xe5~\xd9ydqbqE\x83EN\xc4\xc0\x11R\xd1\xc3
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cdefghi} vvvlvvvuvvvvvl
+    primary=   0.0 frac=1.000 remove            all {acdefghi} vvvvvvvvvvvv
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} k
+    primary=   0.0 frac=1.000 zero           i%2==0 {bcdefghi} bifhcebhlbibgeeebehbhbldbfcbfcgfegebdiffggeel
+    primary=   0.0 frac=1.000 zero           i%2==0 {abcdefghi} bifhcebhbbibgeeebehbhbbdbfcbfcgfegebdiffggeeb
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} o
+    primary=   0.0 frac=0.222 remove            all {cdefghi} ..z..z...
+    primary=   0.0 frac=0.200 remove            all {befghi} .r...
+    primary=   0.0 frac=0.111 remove      nonprime0 {bcdefghi} ..z......
+    primary=   0.0 frac=0.091 remove            all {cdefgh} ......z....
+[r1rev] len=91 classes=113 distinct masked strings=26473 (6s)
+  dechex: best primary 5, best letter fraction 0.3103
+    primary=     5 frac=0.310 remove         i%3==2 {bdefgi} \x13Xp\x91~V\x7f\xa3\t@\xdc\xb1\x8d\x8a\x15\x8c\x8dy_qnfmp\xaf\xf06gl
+    primary=     5 frac=0.273 remove         i%6==0 {bdef} \x12\x9d\xae\xe9\x86\xca\x04x\xe3H"qawax\xb8ok8\xe6\xcau\xc5\xd2\xde\xe3*\x02\xabYE\n
+    primary=     5 frac=0.273 remove         i%6==0 {bdeg} \x12\x9d\xae\xe9\x86\xca\x04x\xe3H"qawax\xb8m\xf4\xf4\xf4g\xbe\x8f\x80\x8f\xaf\x8b9Uw\xf9\n
+    primary=     5 frac=0.210 zero           i%2==0 {aefi} \x01\x9cP\x0f\xd5GE\xa5\x0fc\xfc\xbcx9\x86\xa9\x0c\x97\xb3?\xb6.\x7f\r\xc9Dbwxon\x88MQ\xeb)\xd3h
+    primary=     4 frac=0.289 zero      spiral:bit1 {cdfg} (\xf7?ysQ\xd1dEX\xda\xaaZ\xa3\xa6X\x89mP\xcc4\xc0uw\xe8\xdfc\xae\x17\x90bqiw\r\xbf\xea\xa4
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cefghi} uvxvvxxuvvvvlvvx
+    primary=   0.0 frac=1.000 remove            all {cdefghi} uvvvvvlvvvuvvv
+    primary=   0.0 frac=1.000 remove            all {acdefghi} vvvvvvvvvvvv
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} k
+    primary=   0.0 frac=1.000 zero           i%2==0 {bcdefghi} boeggffidbegefgcfbcfbdblhbhebeeegbibbrbechfib
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} o
+    primary=   0.0 frac=0.222 remove            all {cdefghi} ....z..z.
+    primary=   0.0 frac=0.200 remove            all {cefghi} .....z..z.
+    primary=   0.0 frac=0.167 remove            all {defghi} ......z..z..
+    primary=   0.0 frac=0.154 remove            all {efghi} .......z..z..
+[r2] len=570 classes=113 distinct masked strings=106763 (16s)
+  dechex: best primary 7, best letter fraction 0.178
+    primary=     7 frac=0.136 remove         i%9==0 {gi} \r$\xf6\x10L``\x9e\xa2\x9c\x7f\x11\x08Hu\xb2\x1a5\xf0]\x95\x14F\xba|6\xc9KB\x86\xe7j\xe3\xb1G\xba\x9a\xb0\x17\xf1\xee\xda\xac\x8b\xf8\x99LR\x9fbt;2wI&\xec\xcap\xc17\x96r\xda\xc5\x01\xdf\xf0O_
+    primary=     6 frac=0.178 zero        nonprime1 {bef} \xb30$\xf8\n\xb7G\xff0Cor\xc4\x96\xd9\xbb\xf3d\xf5\x85\xccikuuqg\xa9\x85D\x8a2\x86q'po?\x06\x9e\x1a\xd2\xc7\x01B~f\x02N\x835e\x8b\xb9\xcfi\xbeuVR\xf5cYoq\xf94\xcaVf
+    primary=     6 frac=0.173 remove         i%9==5 {cdf} \x07\xd5\xacTU\xee \x07_\xbe\xcd\xc9\x1b'l\x13\x16\x98\x1c1\x0ck/\xd6]P\xf6%\x16\x8f\xdb\xcd\x97\xd2|\x96\x08H\x86\xcaA\xa1&`Rj\xdc>\xbbh\xfeV*\xd6\xc7\xa4\xaa\x9d\xa2\x97\x1d\xbc\xb82\x02\xe6j\xdd\x91z
+    primary=     6 frac=0.157 remove    spiral:bit0 {bdefgi} \x8b\x9f\xd4%0\xf5\xd3\xf3\x1b\x9a\x9a\x17\xc8\x0ep\x9dOyf\x1e\x98\xe1\x96[(\x03]\x92Gv\x9fuvZ\x19\xf2\xe8\x86\xd4\xec\xcb%\n\x02\xfe\x18~f\xbb\xa6m\x0b\xfd\x13\x0b\xb3\x11\xf6\xe0Z\xd73\x9aY\xd2x^B\xf2\xe7
+    primary=     6 frac=0.152 zero          i%10==5 {dh} \x1b\xd5\x95\x1d<4\xef0%\x06/\xa6\x02\xabd|m\xa2\x89\rGv\x99m\xf0\tv\x9b^~!\x07\xd9e\xdb\xdd\x9b\x98\xf9i\x92\r\x8e\xc8%\x84\xe8\x90\xfb{\x8f\x04\x97/D}\xac(i\x96\xc5\x98\xad\x136\xc1\xe4\x08w\xca
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cdefghi} lllkkkuulklullkkuukuuuvlvuukvuuklklllvuluvvukvuvvvk
+    primary=   0.0 frac=1.000 remove            all {acdefghi} vvvvvvvvvvvvvvvvvvvvvvvv
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} kkkkkkkkkkkkkkkkkkkkkkkkkkk
+    primary=   0.0 frac=1.000 zero           i%2==0 {bcdefghi} adgefbahgcnfdgdbiaogipoggcahhraicigfegsaiaagagbafgegpagcbifkcdrdeghgag
+    primary=   0.0 frac=1.000 zero           i%2==0 {abcdefghi} adgefbahgcdfdgdbiaegifeggcahhhaicigfegiaiaagagbafgegfagcbifacdhdeghgag
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} oooooooooooooooooo
+    primary=   0.0 frac=0.559 remove            all {cdefghi} y.oo.po.y.pypy...yp..po.z.zz.o.z..
+    primary=   0.0 frac=0.314 remove            all {bdefghi} ..o.o.o..q...o......q..q.qq....o..o
+    primary=   0.0 frac=0.245 remove            all {cdefgi} y.yo.....zpyv...o..z....v..............z..z...p......
+    primary=   0.0 frac=0.235 remove            all {bcefghi} ......ooo.....o....r..o........o.r
+[r2rev] len=570 classes=113 distinct masked strings=107537 (21s)
+  dechex: best primary 7, best letter fraction 0.1561
+    primary=     7 frac=0.156 zero          i%10==3 {cde} \x12\x0bT\xa8.\xc2t\xb3\xb6\x007KO\x13\x16\xcf"\xac\x88\xa6u\xa4\xca!\xe4\xadb\x04:\xd8\xc3*e\x0e\xfe\r\x87#@\\\xcb\x1d\x15au\xda\x88]\x82\x02\xcc\x02\x9f\xdd\x06w\xf5{p\xbf9\xfak>,\xa1L\x05\x95\xce
+    primary=     7 frac=0.139 zero          i%10==3 {cdef} \x12\x0bT\xa8.\xc2t\xb3\xb6\x007KO\x13\x16\xcf"\xac\x88\xa6u\xa4\xca!\xe4\xadb\x04:\xd8\xc3*e\x0e\xfe\r\x87#@\\\xcb\x1d\x15au\xda\x88]\x82\x02\xcc\x02\x9f\xdd\x06w\xf5{p\xbf9\xfak>,\xa1L\x05\x95\xce
+    primary=     7 frac=0.122 zero           i%7==2 {bcfg} \x12\x0bT\xa8.\xc2t\xb3\xb6\x007KM\xff\xea\x01\xb6\x1b\x05\xb1Uc'\\\x99,\t\x19\x1d\r\xe8V\xe9\xd3\xd0*]\x91\xdb#\x10a|w\x14\xa4d\x88\xeeGL\x07z\\\x18\xe5[\xbb{\x085_\xc6\x8f\xa7\xff\xd2\x1f\xd3*
+    primary=     7 frac=0.122 zero           i%9==6 {bdeghi} \x12\x0bT\xa8.\xc2t\xb3\xb6\x00\x06\x16\xcb\xed\xc9V\xd3\xa3.\xbd\x18\xf2\x15M\xdb_VL\xa5\x15\xe3\xd19g\x10Z\x15\xa7g]MW\xdb\xe2\xc9\xbca\xb6\x97\xfe8\xc3S\xf1\x1bG\x83f\xba\x88\xba\x10\xeb<\xc2d/8\x992
+    primary=     7 frac=0.117 remove         i%5==3 {achi} \x04l\x9c\x15\x02K\x87\xbeo'\\R\xa5\xaf\xfb\x03\x97\x8b\x00\x8d\x19\xbcO\x7fI\x86\xb3q\xd7\x1a\x99\x04\x9b\xfb)\x9bc\x97zlusxvy6\xa6\x18f\x85mc\xdc\x10\xcc\xe0w\xaaGP\x9d\x8f\xfd|V\x9c\x8d\xcb\x03\xfe
+  a1z26: best primary 0.014, best letter fraction 1.0
+    primary= 0.014 frac=1.000 zero           i%2==0 {bcdefghi} iihpdaacbbiibhmbhbiehiegqikggeddbbidbbohccgifsghgihndieeeehfdiebebiagf
+    primary= 0.014 frac=1.000 zero           i%2==0 {abcdefghi} iihfdaacbbiibhcbhbiehieggiaggeddbbidbbehccgifighgihddieeeehfdiebebiagf
+    primary= 0.014 frac=0.975 zero           i%2==0 {cdefghi} iihpdaawbb..bhmbhbiehie.qikggeddbbixbbohcw.ifsghgihndieeeehfdieveviagf
+    primary= 0.014 frac=0.975 zero           i%2==0 {acdefghi} iihfdaawbb..bhcbhbiehie.giaggeddbbixbbehcw.ifighgihddieeeehfdieveviagf
+    primary= 0.014 frac=0.909 zero           i%2==0 {bcefghi} iihpdaac.biibhmbhbi.hiegqikggeddbbidbbohccgifsghgi.ndieeeeh.diebeb.agf
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} oooooooooooooooooo
+    primary=   0.0 frac=0.559 remove            all {cdefghi} o..z.z.zp.y.yo..pz...ypyo.p.yy.oy.
+    primary=   0.0 frac=0.270 remove            all {bcdefgi} ....o...............v..vov..ooov...o.
+    primary=   0.0 frac=0.245 remove            all {cdeghi} .z...o...z.......t..o...o.........t.......zo...yto.y.
+    primary=   0.0 frac=0.200 remove      nonprime0 {bcdefghi} ..z...s.........u.......r.........q....y.o..y.o.r.
+[r1+r2] len=661 classes=113 distinct masked strings=110616 (14s)
+  dechex: best primary 7, best letter fraction 0.1659
+    primary=     7 frac=0.131 zero           i%8==2 {cfgh} \x05\xdeJ\x91(\xc0\xcby\xb4\xe4R\xa6\xed\xe4\xd8\xcad\x81O\x87\x81\xe1\xa7]\xf5GQ\xa1\x1e\xecz\x82 \x99*\x16\x8b&s\xe2q<xp\x92\x0en\x97\xfe\x95\xd9\x0eG\xc2s\x0e\x81q\xec\x06\xffh\x0b\xb9\x17\xa3\xa5\xd9N\xf5
+    primary=     7 frac=0.091 remove         prime0 {cdgi} \x01o\xc8k\xf0J(\xae\x0e\xb6\xfd\xb5\xcc^\xda\x8508\x83\xcd\x11 \xc2\xcc:\xcf\x06\x87\xf7\xd9Y*\x90\x1c\xf1\xafM)\xaa\x9c\xbc\x81Q]\x0c\xcd\x05\x9b<\x01\x18\x1e\xfd\x84w\xfe\xcd$\xe2vevttpuN'\xfde
+    primary=     7 frac=0.091 zero      spiral:bit1 {efghi} \x05\xdeE\t\xc7<\xa6\xceZ2/\x95f[\xb2\xd0\x9e\xa4\x92h$\x93T\x1d\x85\xb7R#\x85\xbe\xc7\x10\x01\xc7p\xfb\xed\x02\xd5\x88\xa9S\xc0I\xe2\x94\xf75\xf4\x9e\xda\x07\xf6\xa4\xfe \x01\xdb\x7f\xda\x02,?\xcc]\x13\xf6\x11\x9e\xb2
+    primary=     6 frac=0.166 remove         i%3==2 {cdegh} cOS\x16|\xb4U\xcd\xe0\x83\xaa\x06\xeb\xbcn\xa0r\\\xb3e\xa6p)\xaa\xe3\x90\x19\x168*\xebe\xbc\xa7v\xad\x8a\x0f\x0b\xcb\xa0gE\x95\xf9\xe4\xd0\xac<\xdc\r\x96\x85\xf9dg;\xc3}\xcbf\x14\xa0\x01|\x15:\xb8Q\xc1
+    primary=     6 frac=0.147 remove       i%15==14 {cegh} \x1b\xb6^\xb6\xc1\xd8\xc4\xec\xfa\xa6\xa4B\xfc\xafwz\x9a\xe5\xec\x19\xcf\xf6\x8a=sl\xdei\x0c\x14\xa0\xcd\xbam\x8c\xf31\x1d\x97\xd54x\xc9D\xe9\xa4)\xbap\x91\x0e\x8d+\xf1%\x19\xc9\xc9\xd5\xa8A[v:\xf7cxzfd
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cdefghi} vvvlvvvuvvvvvllllkkkuulklullkkuukuuuvlvuukvuuklklllvuluvvukvuvvvk
+    primary=   0.0 frac=1.000 remove            all {acdefghi} vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+    primary=   0.0 frac=1.000 zero           i%2==0 {bcdefghi} bifhcebhlbibgeeebehbhbldbfcbfcgfegebdiffggeelfogedcdlhgacedfgggkdgaach
+    primary=   0.0 frac=1.000 zero           i%2==0 {abcdefghi} bifhcebhbbibgeeebehbhbbdbfcbfcgfegebdiffggeebfegedcdbhgacedfgggadgaach
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} ooooooooooooooooooo
+    primary=   0.0 frac=0.395 remove            all {cdefghi} ..z..z....y.oy..zpyo.o.y...o.yo.y..p...z...
+    primary=   0.0 frac=0.262 remove            all {cefghi} ..........y....rrpyyp.......py.......r...oy........zz..o....r
+    primary=   0.0 frac=0.256 remove            all {bdefghi} ......o.qoqo...q.q...............q.o..q
+    primary=   0.0 frac=0.220 remove            all {bcdeghi} .......to...o....t.t.....o..o..t........t
+[r2+r1] len=661 classes=113 distinct masked strings=109593 (12s)
+  dechex: best primary 7, best letter fraction 0.1562
+    primary=     7 frac=0.156 remove         i%6==1 {bdhi} \x04\xe0"+G\x16\xc2\x0e:\xf5"O\n\xb7z\xa7\xfen\xa7\xf8\x8bF2\x8c{{1\x10s\xe1fagbfii\xda\xad8\xa1\xf8\xd7\xf97\xa7cVf\x87\x1eW\x94\x98:g\x1f\x95\xb2\xd4\xd5\x0c\xbd\x12\x85\x10"H\x0e\x9e
+    primary=     7 frac=0.156 remove    prime(i+15) {cdeg} \x89\x12\xa0R\x97\xcb\xb4\xac\x92\xc8m:j6,\x11C[\xa4s\x82\x17\x1d\xcaf\xa4kS\xbce+\xde\xc0\xdb\x87\x0fKA.zan#g5\x1f\x94\x9a\x1d\xf9\x8d\xc4I\x10j\xc21\x8eK\x8f\xa3\x06\xaf\x0e6\x00n\xe8\x1a,
+    primary=     7 frac=0.130 remove       i%24==17 {abdhi} \x18\t\xc5\xec\x07A\x01\xc6I\xf7\x11\xfd\x85)\x06\x8fbLY\x86\xe3\xdf\xac=h\x87\xf6\xb8@\x87\xf1r?e\x9a\xcfm\xe4\xba\x03q\t\xcf\xd2\xefj\x8e!l\xf4\xc8qE^D\xf5\x13\xba\x0f\xe7j\xde\xf2ys\x19`\xe7\x90(
+    primary=     7 frac=0.127 zero           i%6==5 {bdfghi} \x08\x8a<\nc\xf3q\xa1\xb7\xdd\x8b\x01!v\xff\xf6\xd8\xb3)nNg\xf1\x806\xff\xeft\xf0\xa2\xcf\x14d\x90\xb1*\xbd\x15\x17\xc7 \xd8\xab\xf8\xfblH\x93fq\x9e\x9e\x9f5i\xf2&zxgkfnb\xfc\xf2Y\xae\xba}
+    primary=     7 frac=0.117 zero           i%3==0 {abfghi} 6\xfau\xf3+\xa8\xfa\x11\xf2RJ\xdaM(I\\3&5_\x00"\x85\r\x8cV\xdb\xfc\xc7aY\xd7<JMI\x06\xe3\x1eL\xe19\xa0$|M\x1fa?2\xf3E"\x08\xd1\xf2\x11\xd6[r\xdbb\xe9\xc152\xb4W\x16\xa6
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cdefghi} lllkkkuulklullkkuukuuuvlvuukvuuklklllvuluvvukvuvvvklvvuvvvvlvvvvu
+    primary=   0.0 frac=1.000 remove            all {acdefghi} vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+    primary=   0.0 frac=1.000 zero           i%2==0 {bcdefghi} adgefbahgcnfdgdbiaogipoggcahhraicigfegsaiaagagbafgegpagcbifkcdrdeghgag
+    primary=   0.0 frac=1.000 zero           i%2==0 {abcdefghi} adgefbahgcdfdgdbiaegifeggcahhhaicigfegiaiaagagbafgegfagcbifacdhdeghgag
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} ooooooooooooooooooo
+    primary=   0.0 frac=0.465 remove            all {cdefghi} y.oo.po.y.pypy...yp..po.z.zz.o.z..z........
+    primary=   0.0 frac=0.308 remove            all {bdefghi} ..o.o.o..q...o......q..q.qq....o..o.q..
+    primary=   0.0 frac=0.222 remove            all {bcefghi} ......ooo.....o....r..o........o.r..
+    primary=   0.0 frac=0.200 remove            all {cdefgi} y.yo.....zpyv...o..z....v..............z..z...p..................
+
+== null (shuffled, seed 1710) ==
+[shuffled r1] len=91 classes=113 distinct masked strings=27895 (3s)
+  dechex: best primary 5, best letter fraction 0.36
+    primary=     5 frac=0.360 remove      nonprime1 {defg} xR\x00\xd9\x18\xa1!k\xe6\x99\x88n\xed\xb4/\xcdvK\xb2ypuiu\xb6
+    primary=     5 frac=0.269 remove         i%3==0 {abcefgi} \x1d\x97\x84w~X\xfe|\xbc\xa4U\xc3\xb5\xcbmJ\xfb=\x04lncbz\xa0>
+    primary=     5 frac=0.269 remove         i%3==0 {abcdefgi} \x04\xb3&Y\x8a\xa8\xe9!\xf4Z\xaei^\xd4=lYR\x84lncbz\xa0>
+    primary=     5 frac=0.210 zero       prime(i+9) {cef} $\xf8\xb8\xe40/m_cmvaa3\x96\xfd\x08\xe7=U\xbed\xdf\xa2A\xe6\x04Nx\xc8\x8c|\x0b\x81\xa8\xaeV6
+    primary=     5 frac=0.210 zero       prime(i+9) {cefh} $\xf8\xb8\xe40/m_cmvaa3\x96\xfd\x08\xe7=U\xbdy\xc6R\xb3\xcb\x1f({j\xbb\xb4\xcb\xee*\xa6S\x16
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cdefghi} vvlvvvvuvvvvlv
+    primary=   0.0 frac=1.000 remove            all {acdefghi} vvvvvvvvvvvv
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} k
+    primary=   0.0 frac=1.000 zero           i%2==0 {bcdefghi} ggbbbgbqddgbeeehehibcbfeebgcacdbehgfbheeegabb
+    primary=   0.0 frac=1.000 zero           i%2==0 {abcdefghi} ggbbbgbgddgbeeehehibcbfeebgcacdbehgfbheeegabb
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} o
+    primary=   0.0 frac=0.222 remove            all {cdefghi} .....z..z
+    primary=   0.0 frac=0.083 remove            all {cefgh} ...........z
+    primary=   0.0 frac=0.083 remove            all {cdefgi} ......z.....
+    primary=   0.0 frac=0.077 remove            all {efghi} ............z
+[shuffled r2] len=570 classes=113 distinct masked strings=107541 (10s)
+  dechex: best primary 7, best letter fraction 0.1659
+    primary=     7 frac=0.112 remove        i%24==7 {defh} EWk\x17\xfbJ#t\xeb\xd2z\x19\x88\xb2\x06\x87\xb2\x92l>"\x83\xba\x13\x05\xb0\x16i\rc5_\x12\xc8\xba\x17\xfbY0\x16\x06\xf4\x98\xa7[\x90\xc3>@\x02b\xb9\x97D\xdd\xeb\xcc\xc5\xbcJ]\x12~\x12\xe3-\x11\xa6\xa2@
+    primary=     7 frac=0.104 remove    spiral:bit0 {agi} \x94\x00\xf9\n\x80"\xb1\xa8\x8a3#\xf0\xb4\xc7\xf9\x99r\xf5+\xb78\x0b\x82\x18e@\xbdF\xfa\x8b\x7fV\x1f\xee<\xdf0\xe7\x97\xb57\x8fg \x82\x05\xa7\x9ebl$\xe5\x83\x1e\xf8\xd2\x01\x92\xc3\xc6A\xaf\xf0\xed&M\xaa\x83\x11\x98
+    primary=     6 frac=0.166 remove         prime0 {bci} \x08a\xdf)\x84\x93\x8a\xac#\xc6kyv\x98\xb9\x06\xb9\xc3\xb8\xa5\xdb\xfd\x1a.\xc1\xf2\xff\xf3Y'\xa0\x15e\x8e%~x\xb6#h\t\x9b\x8f\x04\xc0\x8a\x9b\xa2\x1d\x03f\xd5\xb6\x9b\xe2\xf7\xfe7\xde\xff\x1e\xee\xaa-\xca\x9a\xf7\xd8\xc8\xdb
+    primary=     6 frac=0.159 remove       i%15==10 {bcefgh} 1\xf7>dt\xa9|\xd7O7"u\xa0\x94=QM\x99=\x9d a5\xd7:\xcbYQ\xc8\x9dJ\xf7hd\x7fY\x99<<\xd0e{Z\x9e\xcf\x1d/\xddn4\xeb\x18\xd47\x8c\xba3\xf7Z\xdd\t_\xfb\x89\xa1{\x01#\xae\x0f
+    primary=     6 frac=0.154 remove       spiral:B {ad} EWj\xa7E\xda\x82\x9d3\xdcsi+\xcdrH>%\xe5\x90\x8fZphj)|\xfb\xa7\x90)\xcf\xf8\xa2J~\xdc\x90t\xa4.\xb8Aa\xfd\xdab\xb5\xf7*\xddw\xb4\xed7\x88h\xadm\xc3\xb4q"\x05\xa6\xed^j\xcd\xb4
+  a1z26: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {cdefghi} vvlklvllllklkvkluuukkkuuvkvuvuvluulkkkvulkuuklvvvlk
+    primary=   0.0 frac=1.000 remove            all {acdefghi} vvvvvvvvvvvvvvvvvvvvvvvv
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} kkkkkkkkkkkkkkkkkkkkkkkkkkk
+    primary=   0.0 frac=1.000 zero           i%2==0 {bcdefghi} eigechbfecffggbqbfefakgchefchcdggfdbggqbeihqeiicidiabdehlrahecfdcgdgob
+    primary=   0.0 frac=1.000 zero           i%2==0 {abcdefghi} eigechbfecffggbgbfefaagchefchcdggfdbgggbeihgeiicidiabdehbhahecfdcgdgeb
+  ascii3: best primary 0.0, best letter fraction 1.0
+    primary=   0.0 frac=1.000 remove            all {bcdefghi} oooooooooooooooooo
+    primary=   0.0 frac=0.441 remove            all {cdefghi} ..o.y.ypp.zy.opy.z......oz...oz...
+    primary=   0.0 frac=0.286 remove            all {bdefghi} ..o....q.o......qqq....qo..oo......
+    primary=   0.0 frac=0.244 remove            all {bcdfghi} ........s........os.s.o.o..o..o....o....o
+    primary=   0.0 frac=0.235 remove            all {bcefghi} .r.r.o.r.....ro............o...r..
+
+== container check ==
+answers tried on 2 containers: 1412, structured hits: 0
+wrote mywork2/prime_zero.json

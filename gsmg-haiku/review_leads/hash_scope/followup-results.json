@@ -1,0 +1,21 @@
+{
+  "families": {
+    "decrypt-then-hash": {
+      "aes_trials": 14322,
+      "duplicates": 12990,
+      "padding_valid": 78,
+      "short_length_79": 52,
+      "short_length_78": 2
+    },
+    "command-output-bytes": {
+      "aes_trials": 115344,
+      "padding_valid": 456,
+      "short_length_79": 317
+    }
+  },
+  "source_padding_records": 2276,
+  "private_scalars_checked": 80554,
+  "structured_candidates": [],
+  "target_matches": [],
+  "seconds": 6.86
+}

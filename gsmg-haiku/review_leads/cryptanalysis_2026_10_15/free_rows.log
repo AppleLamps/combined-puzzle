@@ -1,0 +1,16 @@
+{
+  "distinct_materials": 32,
+  "distinct_roots": 96,
+  "paths_per_root": 295,
+  "direct_scalars": 144,
+  "point_checks": 28480,
+  "prize_hits": [],
+  "aes_trials": 960,
+  "controls": [
+    "512-bit lossless random encoder preserving complete column stream",
+    "BIP32 official vector1 root, hardened and nonhardened children",
+    "prize pubkey hash matches Base58Check address"
+  ],
+  "scope": "Four BTCSEED-producing squares with 512 free bits; source and paired order; both polarity, whole-bit reversal, byte bit direction. BIP32 full64 seed or two halves as scalar/chain in both orders. 295 documented paths. Direct halves, XOR, SHA256, 512-bit value mod n. OpenSSL passwords raw, hex, SHA256hex, both raw halves, EVP SHA256/MD5 on three containers."
+}
+Padding-only: 6 all text: 0

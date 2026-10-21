@@ -1,0 +1,14 @@
+{
+  "unique_passwords": 816,
+  "outer_decryptions": 1632,
+  "pair_trials": 3995136,
+  "padding_valid": 15538,
+  "target_point_comparisons": 78434,
+  "short_lengths": {
+    "79": 15466,
+    "78": 72
+  },
+  "structural_candidates": [],
+  "target_matches": [],
+  "seconds": 13.95
+}

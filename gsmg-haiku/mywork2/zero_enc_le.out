@@ -1,0 +1,17 @@
+le CONTROL insert steps 73 complete solutions 1
+   -1.40/char 'Well done, you found the hidden zeros. Take the seven numbers from the yellow squares and the fifteen from the blue ones, keep only the primes, add each row of the grid and write the totals down. That list opens the second door, friend.'
+le CONTROL replace steps 71 complete solutions 2
+   -1.24/char 'Well done, you found the hidden zeros. Take the seven numbers from the yellow squares and the fifteen from the blue ones, keep only the primes, add each row of the grid and write the totals down. That list opens the second door, friend.'
+   -1.26/char 'Nell done, you found the hidden zeros. Take the seven numbers from the yellow squares and the fifteen from the blue ones, keep only the primes, add each row of the grid and write the totals down. That list opens the second door, friend.'
+le r1 plain steps 3 complete solutions 0
+le r1 replace-gie steps 12 complete solutions 0
+le r1 insert steps 15 complete solutions 0
+le r1rev plain steps 2 complete solutions 0
+le r1rev replace-gie steps 12 complete solutions 0
+le r1rev insert steps 16 complete solutions 0
+le r2 plain steps 2 complete solutions 0
+le r2 replace-gie steps 72 complete solutions 0
+le r2 insert steps 87 complete solutions 0
+le r2rev plain steps 3 complete solutions 0
+le r2rev replace-gie steps 72 complete solutions 0
+le r2rev insert steps 87 complete solutions 0

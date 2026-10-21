@@ -1,0 +1,2311 @@
+{
+ "controls": {
+  "planted t[766:829]": {
+   "class": "i%5==1",
+   "letter": "a",
+   "recovered_at_rank_1": true,
+   "top": [
+    {
+     "primary": 26,
+     "letter_frac": 1.0,
+     "class": "i%5==1",
+     "subset": "a",
+     "op": "zero",
+     "decode": "lastwordsbeforearchichoice"
+    },
+    {
+     "primary": 17,
+     "letter_frac": 0.6923,
+     "class": "i%5==1",
+     "subset": "ad",
+     "op": "zero",
+     "decode": "lastwordsbeforeaq\u008a\u0091B\u00acP\u00f4\u00e9c="
+    },
+    {
+     "primary": 16,
+     "letter_frac": 0.8077,
+     "class": "i%5==1",
+     "subset": "af",
+     "op": "zero",
+     "decode": "lastwordsbeforcq#r;\u00b9\u0016w\u0017ice"
+    }
+   ]
+  },
+  "planted t[830:859]": {
+   "class": "all",
+   "letter": "e",
+   "recovered_at_rank_1": true,
+   "top": [
+    {
+     "primary": 12,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "e",
+     "op": "zero",
+     "decode": "thispassword"
+    },
+    {
+     "primary": 9,
+     "letter_frac": 0.75,
+     "class": "all",
+     "subset": "ae",
+     "op": "zero",
+     "decode": "thispassw`0$"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.6667,
+     "class": "spiral:bit1",
+     "subset": "cei",
+     "op": "zero",
+     "decode": "thispr\u00e5\u0013\u0005ma0"
+    }
+   ]
+  },
+  "planted-remove": {
+   "letter": "e",
+   "recovered_at_rank_1": true
+  }
+ },
+ "real": {
+  "r1": {
+   "dechex": [
+    {
+     "primary": 5,
+     "letter_frac": 0.3947,
+     "class": "yb24:1",
+     "subset": "befgi",
+     "op": "zero",
+     "decode": "\u001fkvjmR\r\u001c\u0003g9\u00eb\u00des\u00d3o\u00caj\u00a0hvsai\u00f2W\u0012s\u00c3\u00c2\u001do\u009c`\u00ec\u00c3!\u00cd"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.3,
+     "class": "rowmaj:bit0",
+     "subset": "cdefi",
+     "op": "remove",
+     "decode": "\u0003Rb\u0013iyM\thbhbc\u00f81\u0086\u007f'\u00a9\u0089:\u009f\u0018\u00e4r\u0094N(\u00a3\u00a0"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.2941,
+     "class": "i%3==2",
+     "subset": "cdfh",
+     "op": "remove",
+     "decode": "\u008e\u00acT$NH\u00db\u00ca\u0091\u00a7{>j\u008dglfxh\u00ab\u008ef\u00d5\u00ff\u00d7k\u00e1k\u0086\u00d8\u0080\u00bf\u00f1u"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.2941,
+     "class": "i%6==0",
+     "subset": "efgh",
+     "op": "remove",
+     "decode": "\u008e\u00ac\u00a0n\u00df,\u00ae\u008e\u00d7Wtz\u00beQ6\u00c1\u0096\u008bC\u00e1(h\u008d\u009a\u00164jqdjm\u009akX"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.2632,
+     "class": "nonprime1",
+     "subset": "abegh",
+     "op": "remove",
+     "decode": "\u0001\u00e5~\u00d9ydqbqE\u0083EN\u00c4\u00c0\u0011R\u00d1\u00c3"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.2286,
+     "class": "i%6==0",
+     "subset": "efh",
+     "op": "remove",
+     "decode": "\u0005\u0092\u00beDT\u00be\u0000\u000bl \u00a1\u0090R\u00b0Y\u00dfU\u00bb\u0000#\u0016\n\u00921\u00dfy4jqdjm\u009akX"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.1622,
+     "class": "i%8==4",
+     "subset": "ac",
+     "op": "remove",
+     "decode": "U\n_\u00be&\u0010,2%\u00de\u0006\u000e\u00eb\u00cfF.\u0084*A'\u0090}\u00e3\u008a\u00ef%yzcqzT;\u00be\u00ec1u"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.3421,
+     "class": "yb24:1",
+     "subset": "bcfgi",
+     "op": "zero",
+     "decode": "\u001fkvjo\u0001\u00dc\u0011\"w\u001fbp\u00be\u00df/\u00c1\u0017F\u00ad]\f\u00e6\u00a8\u00f5Dub\u0007b\u00d0gE\u00eeyK\u00d6u"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.3235,
+     "class": "i%6==1",
+     "subset": "bdh",
+     "op": "remove",
+     "decode": "\u0090\u00cf\u00d1\u008e\u00cbk\u0005\u00a3z\u00b3\u00a54\u00d9r\u00c2\u0086D[cR\u00b8\u00d4eb\u00f8%gcrx(\u00921u"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.3182,
+     "class": "spiral:bit1",
+     "subset": "abdegi",
+     "op": "remove",
+     "decode": "\u0083\u00ae\u00c3\u00ab\u00e8C\u00b9\u0018l\u0018xive\u00a2q\u009c\u0097n\u0004\u00d4\u00f3"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.3158,
+     "class": "nonprime0",
+     "subset": "abegh",
+     "op": "remove",
+     "decode": "\u0001\u00ed@\u0096\u00a7\u00fd]\u00b5\u00ba\u00d7zo\u00d7\u0094smxa\u001c"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.3158,
+     "class": "yb24:1",
+     "subset": "bcefgi",
+     "op": "zero",
+     "decode": "\u001fkvjmR\r\u001c\u0003g9\u00eb\u00des\u00d3o\u00caj\u00a0hvsJ\u00d8\u0017\u00b9\u0083\u00dc\u00f4;0\u00b8\u00cfl4P!\u00cd"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.3125,
+     "class": "prime(i+9)",
+     "subset": "abcg",
+     "op": "remove",
+     "decode": "^\u00fc\u001aqfblR\u00efp\r\u00aci\u00dd\u00cc\u00ea5\u0015`\u00cb1\u00c4F\u00d4\u008cW\u000bsdy\u00ebe"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2963,
+     "class": "all",
+     "subset": "dei",
+     "op": "remove",
+     "decode": "\u0005iked\u000f\u00e6\u009b\u00e0\u009f\u0012\u00ce2\u00aau\u00c2\u001eT-iwz\u0085|5\u00b5\u00dc"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2895,
+     "class": "prime(i+9)",
+     "subset": "abcgi",
+     "op": "zero",
+     "decode": "!\u000foQQ\u0004W\u008f\u00be\u00ac\nOyje]L\u00baJ\u0090<d\u00a7@q\u007f\u00c9\u00ca\u00bf\u00afeqnv^y1\u0011"
+    }
+   ],
+   "a1z26": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "vvvlvvvuvvvvvl"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "acdefghi",
+     "op": "remove",
+     "decode": "vvvvvvvvvvvv"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "k"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "bcdefghi",
+     "op": "zero",
+     "decode": "bifhcebhlbibgeeebehbhbldbfcbfcgfegebdiffggeel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "abcdefghi",
+     "op": "zero",
+     "decode": "bifhcebhbbibgeeebehbhbbdbfcbfcgfegebdiffggeeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9556,
+     "class": "i%2==0",
+     "subset": "bcdefgh",
+     "op": "zero",
+     "decode": "bifhceb.lbibgeeebehbhbldbfcbfcgfegebdiffg.eel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9556,
+     "class": "i%2==0",
+     "subset": "abcdefgh",
+     "op": "zero",
+     "decode": "bifhceb.bbibgeeebehbhbbdbfcbfcgfegebdiffg.eeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9556,
+     "class": "i%2==0",
+     "subset": "bcefghi",
+     "op": "zero",
+     "decode": ".ifhcebhlbibgeeebehbhbldbfc.fcgfegebdiffggeel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9556,
+     "class": "i%2==0",
+     "subset": "abcefghi",
+     "op": "zero",
+     "decode": ".ifhcebhbbibgeeebehbhbbdbfc.fcgfegebdiffggeeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9556,
+     "class": "i%2==0",
+     "subset": "cdefghi",
+     "op": "zero",
+     "decode": "b.z.cybhlbibgeeyvehbhbldbfcbzcgzygebdizzggyel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9556,
+     "class": "i%2==0",
+     "subset": "acdefghi",
+     "op": "zero",
+     "decode": "b.z.cybhbbibgeeyvehbhbbdbfcbzcgzygebdizzggyeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9111,
+     "class": "i%2==0",
+     "subset": "bcefgh",
+     "op": "zero",
+     "decode": ".ifhceb.lbibgeeebehbhbldbfc.fcgfegebdiffg.eel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9111,
+     "class": "i%2==0",
+     "subset": "abcefgh",
+     "op": "zero",
+     "decode": ".ifhceb.bbibgeeebehbhbbdbfc.fcgfegebdiffg.eeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9111,
+     "class": "i%2==0",
+     "subset": "cdefgh",
+     "op": "zero",
+     "decode": "b.z.cyb.lbibgeeyvehbhbldbfcbzcgzygebdizzg.yel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9111,
+     "class": "i%2==0",
+     "subset": "acdefgh",
+     "op": "zero",
+     "decode": "b.z.cyb.bbibgeeyvehbhbbdbfcbzcgzygebdizzg.yeb"
+    }
+   ],
+   "ascii3": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "o"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2222,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "..z..z..."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2,
+     "class": "all",
+     "subset": "befghi",
+     "op": "remove",
+     "decode": ".r..."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1111,
+     "class": "nonprime0",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "..z......"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0909,
+     "class": "all",
+     "subset": "cdefgh",
+     "op": "remove",
+     "decode": "......z...."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0909,
+     "class": "nonprime0",
+     "subset": "bcdeghi",
+     "op": "remove",
+     "decode": "..z........"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0909,
+     "class": "nonprime0",
+     "subset": "befghi",
+     "op": "remove",
+     "decode": "...z......."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0833,
+     "class": "all",
+     "subset": "cefgh",
+     "op": "remove",
+     "decode": "...z........"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0833,
+     "class": "nonprime0",
+     "subset": "bcefg",
+     "op": "remove",
+     "decode": "...z........"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0833,
+     "class": "nonprime0",
+     "subset": "bdefgh",
+     "op": "remove",
+     "decode": "...z........"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0833,
+     "class": "nonprime0",
+     "subset": "bdefgi",
+     "op": "remove",
+     "decode": "...z........"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0769,
+     "class": "all",
+     "subset": "cefgi",
+     "op": "remove",
+     "decode": "...z........."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0769,
+     "class": "all",
+     "subset": "efghi",
+     "op": "remove",
+     "decode": "...z........."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0769,
+     "class": "nonprime0",
+     "subset": "bcefh",
+     "op": "remove",
+     "decode": "...z........."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0769,
+     "class": "nonprime0",
+     "subset": "bcefi",
+     "op": "remove",
+     "decode": "...z........."
+    }
+   ]
+  },
+  "r1rev": {
+   "dechex": [
+    {
+     "primary": 5,
+     "letter_frac": 0.3103,
+     "class": "i%3==2",
+     "subset": "bdefgi",
+     "op": "remove",
+     "decode": "\u0013Xp\u0091~V\u007f\u00a3\t@\u00dc\u00b1\u008d\u008a\u0015\u008c\u008dy_qnfmp\u00af\u00f06gl"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.2727,
+     "class": "i%6==0",
+     "subset": "bdef",
+     "op": "remove",
+     "decode": "\u0012\u009d\u00ae\u00e9\u0086\u00ca\u0004x\u00e3H\"qawax\u00b8ok8\u00e6\u00cau\u00c5\u00d2\u00de\u00e3*\u0002\u00abYE\n"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.2727,
+     "class": "i%6==0",
+     "subset": "bdeg",
+     "op": "remove",
+     "decode": "\u0012\u009d\u00ae\u00e9\u0086\u00ca\u0004x\u00e3H\"qawax\u00b8m\u00f4\u00f4\u00f4g\u00be\u008f\u0080\u008f\u00af\u008b9Uw\u00f9\n"
+    },
+    {
+     "primary": 5,
+     "letter_frac": 0.2105,
+     "class": "i%2==0",
+     "subset": "aefi",
+     "op": "zero",
+     "decode": "\u0001\u009cP\u000f\u00d5GE\u00a5\u000fc\u00fc\u00bcx9\u0086\u00a9\f\u0097\u00b3?\u00b6.\u007f\r\u00c9Dbwxon\u0088MQ\u00eb)\u00d3h"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2895,
+     "class": "spiral:bit1",
+     "subset": "cdfg",
+     "op": "zero",
+     "decode": "(\u00f7?ysQ\u00d1dEX\u00da\u00aaZ\u00a3\u00a6X\u0089mP\u00cc4\u00c0uw\u00e8\u00dfc\u00ae\u0017\u0090bqiw\r\u00bf\u00ea\u00a4"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2727,
+     "class": "prime0",
+     "subset": "abfg",
+     "op": "remove",
+     "decode": "\u0004\u0089\u00ecqwkp JV>\u0006\u00f5\u00b7\u00caQd\u0087s\u0000\u00d5ijH\u0017\u00fe'\u0092\u00b6q\u00f0\u001b\u008c"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2647,
+     "class": "prime1",
+     "subset": "cef",
+     "op": "remove",
+     "decode": "\u0001\u00c2k\u00fa<\u00bf\u00ae\u00ba&k\bI6\u0084\u00ddrkik\u00a1b\u00eaOStD\u00f2Y\u00a0\u00f1\u00e3\u0084\u0015h"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2647,
+     "class": "i%6==0",
+     "subset": "bcfgh",
+     "op": "remove",
+     "decode": "\u00af\u00f2p\u0013Z\u00c9\u00fe7\u0098\u009eaF\u00e8\u00ea\u0091\u0014R\u00c5\u00f7\u00e9\\\u00d9jK\u001a\u00bckgmqKl\u00bah"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2632,
+     "class": "nonprime1",
+     "subset": "acehi",
+     "op": "zero",
+     "decode": "\u0001\u00a7E{%\u00a6)\u0004h+fmA\u00ba\u00da\u008a~M\u00a1T\u00e4!rsuj\u0095T\u00ce\u00c0z\u00fc.xn\u00b2\u0016@"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2632,
+     "class": "prime(i+15)",
+     "subset": "acefh",
+     "op": "zero",
+     "decode": "(\u00e2\"\u00e79\\]\u001c\u00cc\u0084\u0091\u0015srrz\u00d0\u00d7zF\u00ec\u00bf\u00a1XJi\u00ebPyf@\u00e6\u00f3\u00114\u00d8ph"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2571,
+     "class": "spiral:bit0",
+     "subset": "acdhi",
+     "op": "remove",
+     "decode": "\u0006\u00dfw\u00ed\u00caa\u00cf\n\u00a3\u00e0z2\u00c2\u0016\u00fasnmt\u00cbE\u00d7\u000fO:ao\n~\u00853\u00b3R\u00e4\u00e8"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.25,
+     "class": "i%2==1",
+     "subset": "defgi",
+     "op": "remove",
+     "decode": "\u0004\u00f3\u00c4\u00aeGOBq.r\u00cb\u00a8\u00c1\u0015\u00d7\u00bd\u00ac\u00c3\u00c0x\u0014\u0012\u00a1ivun\u0010"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2414,
+     "class": "prime0",
+     "subset": "bcdegh",
+     "op": "remove",
+     "decode": "\u00c1r6WPG\u00e3\u00f8\u0099\u00a5`\u00e4\u0089Yeopr\u009d\u00ef\u0097qr\u00f5\u00a4\u00da\u00fc\u00a5L"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2368,
+     "class": "nonprime0",
+     "subset": "abcf",
+     "op": "zero",
+     "decode": "'e\u0017\u00a865\u00b5\u00c7\u00e6\u0086\tgrC\u0003\u00c6h\u0084eofk\u00c4\u00b5\u00fb\u00c6\u0088p%9\u00eb>$\u0006N\u00e3\u000f@"
+    },
+    {
+     "primary": 4,
+     "letter_frac": 0.2368,
+     "class": "nonprime1",
+     "subset": "cehi",
+     "op": "zero",
+     "decode": "\u0001\u00a7E{%\u00a6)\u0004h+fmA\u00ba\u00da\u008a~M\u00a1T\u00e4!rsuj\u0095T\u00ce\u00c0{\u001f\u00b5j\u00des\u0016@"
+    }
+   ],
+   "a1z26": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "cefghi",
+     "op": "remove",
+     "decode": "uvxvvxxuvvvvlvvx"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "uvvvvvlvvvuvvv"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "acdefghi",
+     "op": "remove",
+     "decode": "vvvvvvvvvvvv"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "k"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "bcdefghi",
+     "op": "zero",
+     "decode": "boeggffidbegefgcfbcfbdblhbhebeeegbibbrbechfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "abcdefghi",
+     "op": "zero",
+     "decode": "beeggffidbegefgcfbcfbdbbhbhebeeegbibbhbechfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9778,
+     "class": "i%2==0",
+     "subset": "bcefghi",
+     "op": "zero",
+     "decode": "boeggffidbegefgcfb.fbdblhbhebeeegbibbrbechfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9778,
+     "class": "i%2==0",
+     "subset": "abcefghi",
+     "op": "zero",
+     "decode": "beeggffidbegefgcfb.fbdbbhbhebeeegbibbhbechfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9556,
+     "class": "i%2==0",
+     "subset": "bcdefgh",
+     "op": "zero",
+     "decode": "boeg.ffidbegefgcfbcfbdblhbhebeeegbibbr.echfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9556,
+     "class": "i%2==0",
+     "subset": "abcdefgh",
+     "op": "zero",
+     "decode": "beeg.ffidbegefgcfbcfbdbbhbhebeeegbibbh.echfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9333,
+     "class": "i%2==0",
+     "subset": "bcefgh",
+     "op": "zero",
+     "decode": "boeg.ffidbegefgcfb.fbdblhbhebeeegbibbr.echfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9333,
+     "class": "i%2==0",
+     "subset": "abcefgh",
+     "op": "zero",
+     "decode": "beeg.ffidbegefgcfb.fbdbbhbhebeeegbibbh.echfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9111,
+     "class": "i%2==0",
+     "subset": "bcdefgi",
+     "op": "zero",
+     "decode": "boeggffidbegefgcfbcfb.blh.h.beeegb.bbrbechfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9111,
+     "class": "i%2==0",
+     "subset": "abcdefgi",
+     "op": "zero",
+     "decode": "beeggffidbegefgcfbcfb.bbh.h.beeegb.bbhbechfib"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9111,
+     "class": "i%2==0",
+     "subset": "bcdeghi",
+     "op": "zero",
+     "decode": "boegg.fidbegefgcfbc.bd.l.bhebeeegbibbrbechfib"
+    }
+   ],
+   "ascii3": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "o"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2222,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "....z..z."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2,
+     "class": "all",
+     "subset": "cefghi",
+     "op": "remove",
+     "decode": ".....z..z."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1667,
+     "class": "all",
+     "subset": "defghi",
+     "op": "remove",
+     "decode": "......z..z.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1538,
+     "class": "all",
+     "subset": "efghi",
+     "op": "remove",
+     "decode": ".......z..z.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0833,
+     "class": "all",
+     "subset": "cdeghi",
+     "op": "remove",
+     "decode": "..........z."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0714,
+     "class": "all",
+     "subset": "ceghi",
+     "op": "remove",
+     "decode": "...........z.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0714,
+     "class": "nonprime1",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": ".......z......"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0714,
+     "class": "nonprime1",
+     "subset": "acdefghi",
+     "op": "remove",
+     "decode": ".......z......"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0667,
+     "class": "all",
+     "subset": "deghi",
+     "op": "remove",
+     "decode": "............z.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0667,
+     "class": "all",
+     "subset": "cdfghi",
+     "op": "remove",
+     "decode": ".......z......."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0667,
+     "class": "nonprime0",
+     "subset": "cefghi",
+     "op": "remove",
+     "decode": "........z......"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0625,
+     "class": "all",
+     "subset": "eghi",
+     "op": "remove",
+     "decode": ".............z.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0625,
+     "class": "all",
+     "subset": "cfghi",
+     "op": "remove",
+     "decode": "........z......."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.0625,
+     "class": "nonprime0",
+     "subset": "defghi",
+     "op": "remove",
+     "decode": ".........z......"
+    }
+   ]
+  },
+  "r2": {
+   "dechex": [
+    {
+     "primary": 7,
+     "letter_frac": 0.136,
+     "class": "i%9==0",
+     "subset": "gi",
+     "op": "remove",
+     "decode": "\r$\u00f6\u0010L``\u009e\u00a2\u009c\u007f\u0011\bHu\u00b2\u001a5\u00f0]\u0095\u0014F\u00ba|6\u00c9KB\u0086\u00e7j\u00e3\u00b1G\u00ba\u009a\u00b0\u0017\u00f1\u00ee\u00da\u00ac\u008b\u00f8\u0099LR\u009fbt;2wI&\u00ec\u00cap\u00c17\u0096r\u00da\u00c5\u0001\u00df\u00f0O_\u00c3\u009fo\u0013\u0084\u00b6\u0098[e\u0094\u00e8\u00a8c\u00f3\u00b6Z\u0092\u00f6\u0093\u00dd\u00a4P\u00e0{Z\u00d4\u00a3\u00f50\r7\u00ae\u00e3\u00f7\u00bf{\u00f9.A\u00bcJ\u0086Q\u00cb\u00e9Dn\u00e9dmowdqyK\u00bbb)\u0007\u00ed\u009a \u00aa\u008f\"\u0013k\u00b5o\u00d4WMz>~{\u009b\u00e2\u008bwjz\u00db\u00bb\u00f8\u008c\u008e\b\u009c\u00a1\u00f7\u00eck.\u0091\u00e2\u00c6\u00be\u00a1\u00fal\u00a7\u00e1\u00e0\u0012_\u0011\u0096q\u0082\u0015\u00fb'\n\u0013\n:\u00efA2]\u00a1\u00b7\"L\u00f5\u00b1\u00bbK$6`r.\u00ff[\u00abQ\u00d5\u00a9\u00ca\u0018Km\u001f\u00a3\u00d5<7\u000f\u00f5\u00d1\u00bb\u00c7\u00bb\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.178,
+     "class": "nonprime1",
+     "subset": "bef",
+     "op": "zero",
+     "decode": "\u00b30$\u00f8\n\u00b7G\u00ff0Cor\u00c4\u0096\u00d9\u00bb\u00f3d\u00f5\u0085\u00ccikuuqg\u00a9\u0085D\u008a2\u0086q'po?\u0006\u009e\u001a\u00d2\u00c7\u0001B~f\u0002N\u00835e\u008b\u00b9\u00cfi\u00beuVR\u00f5cYoq\u00f94\u00caVf\u00caP\u009e\u0006\u00ad\u00cc\u00a3j|o\u00af[w\u0085\u00e9\u0087\u00dc\u0081\u00ab\u001c\u0097\u00db\u0007g\u0085\u0018\u00de\u00ff\u0000\u0093Zi3AqXd\u00c8\u001am\u001d\b\u0017\u00d4\u00aa^\u00e8\u00d1l\u00b5\b\u00cbM\u0012\u009ds%CN\u00f0\u00c4\u00e4+\u00ab:\u00c5N\u00b1BF\u00dd%Eu[>2\u001d\u009b?e{\u00a4J\u00f1\u00c9/PB|zxl\u0094\u000b\u00d6j\u00e3\u008b7\u00e6\u0005h)\u00d5\u00d3hR\u0097\u00d7\u009a\u0013\u0006\u00c8\u00be\u00ac\u00d9\u0017QCp\u00da~J\u00a6:'\n\u00bf\u001eU\u009f\u00d0\u00df\u00d5\u0002\u001c\u00bd\u00d0\u00f8\u00f98\u00c5Z\u0095\u00a46\u00e9\u0017j?\u00d1\u00f4O\u00af\u000eU\u00f45Io\u008a\u0019C@u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1732,
+     "class": "i%9==5",
+     "subset": "cdf",
+     "op": "remove",
+     "decode": "\u0007\u00d5\u00acTU\u00ee \u0007_\u00be\u00cd\u00c9\u001b'l\u0013\u0016\u0098\u001c1\fk/\u00d6]P\u00f6%\u0016\u008f\u00db\u00cd\u0097\u00d2|\u0096\bH\u0086\u00caA\u00a1&`Rj\u00dc>\u00bbh\u00feV*\u00d6\u00c7\u00a4\u00aa\u009d\u00a2\u0097\u001d\u00bc\u00b82\u0002\u00e6j\u00dd\u0091z\u00c1\u000b<wQ\u000e;\u00df>\u00a4\u00dc|\u00c8ib\u001f8\u00fber.\u0085\n\u00fe\u00a2i\u009d\u00b8\u00ae\u009b\u000e\u001c\u0006i\u00bf\u00e9\u0096w\u00fe\u0007\u00d9\u00ce\u00de\u00a4\u0091\u00d8\u00af\u00d9v\u001d5\u00df\u007f\u00f1iw(*\u000ei\u00ab\u007f\u00c0Inc\u0016u\u00a7h^\u008d\u0081:,\u001bE\u00a0\u0083Q\u00a133Au8C)9ut\u00c5\u00cf,\u0004\u00e3&h\u008a\u0006p\u00a6\u00a5\u00e6`'\u00cd\u00c8\u0090I\u00ccT\u00acU\u0001\u001e8\u00abe\u00a5\u0088I\u00b4[wuorzs\u00f4\u0093\u00e3:v\u0015Uwy$\u00c6\u00d1\u00c0\u00a8\u00950\u0013\u001b`\u00e5\u00e2\u00fc\u00ca\u0081\u0098u\u00edc\u00da@u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1569,
+     "class": "spiral:bit0",
+     "subset": "bdefgi",
+     "op": "remove",
+     "decode": "\u008b\u009f\u00d4%0\u00f5\u00d3\u00f3\u001b\u009a\u009a\u0017\u00c8\u000ep\u009dOyf\u001e\u0098\u00e1\u0096[(\u0003]\u0092Gv\u009fuvZ\u0019\u00f2\u00e8\u0086\u00d4\u00ec\u00cb%\n\u0002\u00fe\u0018~f\u00bb\u00a6m\u000b\u00fd\u0013\u000b\u00b3\u0011\u00f6\u00e0Z\u00d73\u009aY\u00d2x^B\u00f2\u00e7\u008aP\u009eRezjait\u00dd\u00efQB\u00cf\u0019-\u0007\u00d9\u00d0~+\u00c2\u00d6ws\u008c\u00d2`e 9\u00b6o\u00d5^\u0016k\u00c4Q\u00dc\u00f6F\u0080\u00df\u00e6H\u0017\u00b1Y \u008e\u00a0\u00ccMli\u00c6\u00cb\u00e6q+'\u009f\u00c9\u00ec:\u00b6\u00d3\u001b\r\u00b3H#<4Q\u0085\u000f\u00df\u00b0\u00a8g"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1519,
+     "class": "i%10==5",
+     "subset": "dh",
+     "op": "zero",
+     "decode": "\u001b\u00d5\u0095\u001d<4\u00ef0%\u0006/\u00a6\u0002\u00abd|m\u00a2\u0089\rGv\u0099m\u00f0\tv\u009b^~!\u0007\u00d9e\u00db\u00dd\u009b\u0098\u00f9i\u0092\r\u008e\u00c8%\u0084\u00e8\u0090\u00fb{\u008f\u0004\u0097/D}\u00ac(i\u0096\u00c5\u0098\u00ad\u00136\u00c1\u00e4\bw\u00ca+\u00e1O\u00cbr\u000eAA*wpeiwi\u0085It9\u0011\u009bM\u00f1e\"\u00f0]\u00f8\u00a7\u0010z\u00e8+:m\u008c\u00c3\u0015\u008dJ\u00bf\u009d\u009f\u00fe\u008e\u00c4c\u00d6\u00ae\u0004\u0018$\u00cb\u0018\u00db\u00e7\u0095\u00a7\u0083\u00b9\u00e4\u00da\u008e\u001f9\u0087[[\u00a2\u0089\u00a4\u00bcP\u00d7\t\u0007\u00cck\u0086\u00b8\u00da\u0007e\u00c8\u009b\u00f2e\u00d9\u00c2\u00ab\u009f\u0011\u008e\u00979\u00f8\u00d50t!q\u000f\u00d6sys\u00c7\u00d8f~-\u00f7\u0085\u0003\u00d0\u00aew6d\rY\u00105\u00104\u00ef\rySH\u00da\u00be\u007f\u0013wQ\u0097NX\u0011[~\u00af'\u00e9\u00b3J\u00aa\u001b}\u00a0\u00a5\u00a9i\u0084\u0004[\u008a\u00eb\u001f\u00ae\u00d1\u00bb\u00c7\u00bb\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1447,
+     "class": "nonprime0",
+     "subset": "abcdf",
+     "op": "remove",
+     "decode": "\u0001>\u001e\u00dc~v\u00a2S\u00b1Z\u00ac\u00ea\u0019\u00b5\u0006\u0004Xd\u00c3lxKIl\u001fhV\u00eb\u00f7\t\u00e0\u000f\u0014_\u0000\u00cbOl\u00f94E1\u00abI\u0096\u00e0\u0084\u00c5s<MC\u001c\u00ca\u0006\u00bf\u00a4\u0086\u00cc\u0084\u0019\u00ac\u00d6C\u0013\u007fo}@\u00d1.!\u009a\u0012\u0011\u00e5\u0099\u0000\u0002\u00f3=x\u00a3(N\u00f1@\u00ef\u000bn\u00da\u0006Bjsdafu\t\u0096[\u00e9+\u00ef\u00a02\u00b7\u00f9=m\u0093y\u00d2\u00fa\u00cb'X\u0097\u00ca~\u0091[\u00f7\u00db\u00b71|\u0015c_\u0092\u0004F\u00bc<|\u00bd\u00a1e=\u007f\u009a=\u00cd\u0083P\u001a\u00d3\u0006\u0016u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1392,
+     "class": "spiral:B",
+     "subset": "befi",
+     "op": "zero",
+     "decode": "\u001b\u00d5\u0094\u00f7Lq\u00c8\u0002l\u00e7\u00efm?\\\u00db\u00e5\u009c\u00ae\u00b4\u00c2OGv%T*\u00cc\u0099\u00d2\u0087z\u00dc\u000f\u00e8p|r@\u001c\teJ\u00be\u00fd\f\u001e\u00f8\u00d9\u00ed\"\t\u0019\u00b8\u0090A`\u00a2K\u00d8t\b\u00e3u\u000f#tf\u00ef\u000e!\u0016?o/\u00f3\u00d6\u00cf\u0094\u00f9w\u00c9#\u00be\u00d9kebktw'\u0095\u0017\u0013\u00f0E\u0007\u008e4,\u00f4T\u00ed\u0013W\u009d\u008c\u0018\u00ea\u00b4\u0011\u00aa\u00e7\u00b4l\u009d\u00a1\u001a6\u0010\r\u00d2^\u00caE\t\u0094\u00c6\u00b3Z\u001bl\u00d7\u00f9\u0016\u00fc\u00dds\u00d1D\u0003\u0000\u00b8\u0015\u00ce\u0095\u00d6\u00fe\u00b4\u00e5\u0011-7\u00ddbi\u00f4\u008f\u00df\u00adIR\u0099\u0092|\u00b5\u00bb\u00ee\u008f\u00d9\u00ee\u0082\u00ba\u00cb\u0090\u00da\u007f\u0089\u00ff2\u00ed\u0003\u00ef7Z\u00b5\u00d3\u00b0\u0095FY'`8\u00b4\u00fcS)\u0087\u00ff\u00db\u0010\u00fddJb\u00ef\u00a0H\u00b9\u0014\u00c8x\f\u00e0\u00afSpHo>P<%P\u00d0\u00eb\u0088\u0092\u00a2\u00c8ej\u00e57\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.139,
+     "class": "i%10==0",
+     "subset": "abdfg",
+     "op": "remove",
+     "decode": "\u0003\u00a2f\u0091\u00ed\u0000N?\u0081\u00f7(\u001d\u008e\u00a8J\u00df?\u00f7n(\u00cbB\u0010*E\u00f7*\u0091tP\u0001\u00a43:g\u00b7\u00b4\u009a\u00baA\u00aa\u00a2\u0085\u00e8\u00d3\u00e4\u00d2x\u00bd\u00ee\u00af\u007fEI~XJ\u00e7\u001e\u00fb\u0012\u0017u(\u00e3\u00eePz\u00e8A\u00e3\u00aa\u0084bz\u008f\u00db\u00eb\u00f6\u00aa\u0088$\u001dU\u00e0\u0085\u008b(\u00baC\u0089\u00c7%\u001f\u00ed\u001c{\u0089)\u0081#\r*\u0012\u00bc\u0094F\u00a8\u0014y%\u00d5g\u0013\u0080qvR\u00f3%\u00c2\u00a2\u00d5\u00dem\u00d0\u009dR\u008c\u00dcl\u00e9\u00ecS\u00cb$oqwvlb\u009a\u00f1]\u00b7\u00b0[\u0090s\u00eb\u00fboa\u00bbQ\u00fc\u00ed\u00c0\u00fe\u00a4;v\u00c4\u0019E\u00f6.C]J\u0015t1\u00fa\u00ca\u0098\u00c2tpZ\u0019N\u00c2\u00f3b0\u00e8$\u00dbC\u00ca\u00c1\u009e==*\u0011\u00b8\u00ce\u00d7\u0086\u00d2\u00ca-\u00eb\u00d1\u00f5v\u0098=\u00dd\u001c\u00b7\u0086\u001e\u000b\u008d\u0018Y\u00f2\u00dau"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.135,
+     "class": "i%9==5",
+     "subset": "abi",
+     "op": "zero",
+     "decode": "\u001b\u00d5\u0095\u001d<4\u00df\u00e9\u00ac+\u00db\u001e\t)\u00ad\u00e9\u0017m9\u00ec}|\u00a9c\u0086O\u00cf\u00ebq\u00c5\u00a0\u00cf\u00d3kK\u0010\u0011\u0011\u00aa\u0015\\\u00f9\u00f3hV-\u009e`-J\u0000\\\u00c6\u009f\u00e1\u00e4\u00f2\u00cb\u00a6\u00a5V\u0019\u00e6Uf\u0099\u00dd7,\u00ffU%\u00ac-\u0018\u00d4]Q\u0085t2\u00cc\u00e4s\u00a7\u00c7,\"S!ab\u00bcK\u00ed\u00df2u\u0013E,)e\u00ccmhrask\u00bd\u0093-\u00f2\u0003\u0090q\u00c2\u0014\u001a]G#\u00f3\n\u008d\u00ce\u00b8n\u00d5\u00f7\u00abE\u0017\u00d6\u00da#S}\u0086\u00e0C\u00beb\u00f5.\u00c3\u0018\u001f\u00e3{\u00cbq$\u0002.@7\u00afv\u00961\u008a\u0092f3\u0015b\u00e4\u00a0&\u00b8\u001a\u00d3W\u00b1\u00bf\u00f6\u00c4em:m\u00df\u00ec\u00b0\u00f4\u00b0=\u00c3\u0011\u0000)<F0\u0088;\u0012\u0013tNz\u001a\u00c4=V\u00e6M\u00bc\u00e6\u00e79\u00b2\u00cbJ\u00a1\u00dfL\n\u0002\u0086cB\u00f55\u00f9\\F`A\u009da\u001e\u00ac~5"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.134,
+     "class": "i%2==0",
+     "subset": "dfh",
+     "op": "remove",
+     "decode": "\u0001\u00e3\u0017yy\r?\u00f0\u00c5\u00bf\u00fb\u0087\u00d59\bR\u00a1\u00d5\u00fb\u00c2\u0092\u00e9\u00da{`p\u00d9\u00b6\u00d7}\u00f3U\"\u0005<e\u0001ecmzyc\u00ba\u00fd\u00f6\u0000}m\u00c5{6\u00d7\u00a9\u00dcH\u00a4\u00a7!\u00e55_\u0099t\u0017+[\u00f2\u00a1@\u00b66\u0019v\u00ce/\u00d5\u00fb\u00c9R\u001e\u0096$\u009f<?i\u0084\u0094\u00b7Rm\u001a\u00a2\u0083F\u00c8B\b\u00e0x\u00e9\u0010\u001d\u00fb`Ul\u00b3S\u00cf\u00be\u0015\u00a3\u000b\u00daH\u00b1chJ\u0098V)\u0019\u00e8\u008a\u009e8Wh4\u000f\r1\u00d5\u00d6\u00db\u00b8jw\u00f5n\u00db(9\u008eI\u00df:\f\t\u00af\u001bS\u0081\u001f},^\u00fe<6\u00ff\u00a8\u00dc*\u0004\u001dP\u00a1\u000b-\u001do3,\u00d8\u00f7\u009d\u0085Gg\u00aa\u0099\u00dfg\u00d3\n\u00bf\u00fe\u00dd\u00c1J\u00c1%s\u001b\u0096\u0098*\u00a5\u001d\u00f9\u00a0t\u00e2\u00feU"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1308,
+     "class": "i%9==5",
+     "subset": "abci",
+     "op": "zero",
+     "decode": "\u001b\u00d5\u0095\u001d<4\u00df\u00e9\u00ac+\u00db\u001e\t)\u00ad\u00e9\u0017m9\u00ec}|\u00a9c\u0086O\u00cf\u00ebq\u00c5\u00a0\u00cf\u00d3kK\u0010\u0011\u0011\u00aa\u0015\\\u00f9\u00f3hV-\u009e`-J\u0000\\\u00c6\u009f\u00e1\u00e4\u00f2\u00cb\u00a6\u00a5V\u0019\u00e6Uf\u0099\u00dd7,\u00ffU%\u00ac-\u0018\u00d4]Q\u0085t2\u00cc\u00e4s\u00a7\u00c7,\"S!ab\u00bcK\u00ed\u00df2u\u0013E,)e\u00ccmhrask\u00bd\u0093-\u00f2\u0003\u0090q\u00c2\u0014\u001a]G#\u00f3\n\u008d\u00ce\u00b8n\u00d5\u00f7\u00abE\u0017\u00d6\u00da#S}\u0086\u00e0C\u00beb\u00f5.\u00c3\u0017\u00fc>>z`H2\u0086\nh\u00da\u00d2\u0085x\u00dcA\u0004:O\u00c0n\u00d9c\u00ed\u00a9F\u008b$\u00e6\u0011\u00c1\u00b2r~^8<1\u00a9\u0095\u0085,\u00d2\u0094\u00e8S\u0080m2V\u00c8-q\u00eb\u0006\u0007\u00ca@\tW\u00b3!\u00a1w\u0015\b\u00c7\u0091-\u0088\u00bfM:S]{\u0013\u008a9\u00ff\bt\u00a9H\u00e50X\u00fe5"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1224,
+     "class": "nonprime0",
+     "subset": "gh",
+     "op": "zero",
+     "decode": "\u001b\u00d4\u00c5\u00a6\b\u00be\u00fb4Z\u0080\u00d6 \u0017\b\u00f1\u00c29;\u00d0\u00f5\u0088s\u0081b\u00d4D\u0011\u00f7V\u00ed\u008cr\u0004\u0014\u000f\u00bf\u0087\u00e1\u0099\u0081Q\u00a0\u008fbfbnyz\u00c6\u00ddU\u0019\u00e9$\u0091#\u0093@\u00e8\u00c6\u00ce\u00af\u00d8\u00e9\u00e7\u009cv\u001b.\u00be\u0012!?\u009d\u00f3t@P\u008f8?\u0090S\u0014\u00cd\u0094\u00c8h\u009e\u001e\u0089\u001e\u00e7\u00dc4\u00a4d.[\f\u001b2BH\u008bv\u00e8\u007f\u00e3\u00e1\u001a\u00d2D\u0095\u00d0\u00b5\u0011DG\u00ce(\nPmfV\u0012\u00c9\u000f\u00adK\u00dd\u00c8\u00fa\u00f6\fGM(\u00ee\u00c0\u0099n\u00b0PV\u00c2\u00c8\u00ad\u00b3\u00c2k\u0017\u0019\u0018X\u00e1\u007f\u00d3\u0081.\u0003\u00c5\u00d9\u00d5\u0018\u0080Eec\u00d3\u007f\u00ec8\u00a9\u00f7\u0006\u00c1h\u0088\u00db\u00c0\u009d\u00df\u00ba~\u0016u\u00b1r\u0018\u00d6cF\u001f\u007f\u00df\u0089\u00988wz\u001a`g\r\u00da\u00b7s\u00f7\u000f\u00fd\u001b\u00fb_5\u009c9\u0012\u0084'\u00f9\u0080U\u00ff2\u009bCX\u00c74f8\u0000\u0080U"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1181,
+     "class": "rowmaj:bit0",
+     "subset": "cdgi",
+     "op": "zero",
+     "decode": "\u001b\u00d4\u00c5\u00a6\b\u00ab\"\u00a5=\u00ceq\u00e2\u00ad<\u00b3\u00a8'f\u00db<%;f>\u00f6\u00a8\u00c3F\u009a3.I\u0084\u001d\u00c2HZ\u00e3:\u0080x\u00b5\u0005\u0016\u0081H\u00c3~jSgqnkhr\u00f6\u0011r\u0089\u00aaz[\u00c2u\u0090\u00f4\u0019\u0010\u00e5/\u0007\u00b0\u0088\u00f7\u0010\u000f\u0017\u00c4\u00f1\u00adT:\u00cc:\u009f\u00a8\u001b\u0005`\u001b\u00c3\u0011m\u00aa\n\u000f9\u00e7J\u000e{Lh\u001b\u00c9\u00e0\u00dfd@\u00f1\u00d4\u00db\u0000\u0014e\u00d2\u00d2\u00ad\u00a0\u0007\u0084\u001f)C\u00c6M;e\u00e5-\u00e6\u0080\u009be\u00f8\u00d7\u0097\u0086\u00f1SqyH\u009b\u00f9\u0019\u00c3\u001aI\u00d2\u0002\u00db\u00b8T\u0092 \u00f4>\u00d8\u00e9\u009a\u00011g$g\u00bb\u00f2\\\u00f5\u00e4\u00e3\u00f8\u00dah\u00f7\u00acV\u00b5\u00a1[\u00e8\u00dc,\u00df\u00d0\u00cd\u00d5p\u00d8\u0003\u0018\u00e3\u009f\u00da\u008fI\u009c\u0097\u00c2\u00cff3\u00d7\u00c1`\u00fd\u0098\u000b)\u00dc6\u00b6\u001c\u00d5\u00f1'\u009b\u00e7\u00ba\u009b\u0006\u0018\u00f9\u0086\u00d2Q*K$\u00b2\u00e5\u00a3]p\u00f0"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1106,
+     "class": "i%24==23",
+     "subset": "ce",
+     "op": "remove",
+     "decode": "\u0012=\u00d2]\r)0T\u009f\u00c0\f\u00e0I\u0088\u008c\u00df\u000b\r\u0016\u001aN5\u0089OL\u00c9]\"\u001c\u00ad\u00de\u009a\u00a4\u00cc\u00c5\u00c3\u00c9s\u0084\u001ci\bE\u00df\u00f2b\f\u00d3e)\u00d2x\u00b4\u00b5\u00e3\f\u009dw\u00871_h5\u009fx\u00eb\u00b3\u00b1\u0012\u009e\u00a3\u0099\u00db(\u009d\u00b3\u00bbq\u00ceC\u00aa\u00fc\u00fdKu\u00fd\u00c02+2)\u00e7\u0018\u000f!\u00eb\u00d0\u00b1\u00e8`\u0081\u00c8is|\u00f8\u00bcxniwmp\u00fa\u00a0\u0019\u00f1@\u00ebW\u0004\u00cb\u00bf\u00c7\u0089\u00be\u00a9=p\nG\u008e\u0091]S\u00fc\u009dZ;\u00d2\u00dfA\u0081X\u0088\u0095U\u00a4\u008c\u00ba\u00be\u0018\u0005\u008d\u0017\bUf\u00c8K5\u008cVDtD\u0016<\u001c\u008diP\u009aY\u00e8\u008c\u00eb\u00de\u00e3tW\u00bf\u00ff\u00ab\u00ba\u00ad\u00e5\u0017\u00b7\u00f9;\u00fb\u00b4\u0001\u0006\u0081I\u00d7\u00ff\u00b0\u00d0\u00e4\u00bf\u00b9 \u00a2\u0017u\u00d1h\u00d8\u00f8\u00f4\u00d8\u00ac2&J\u00ab<\u00b6\u00c9\u00c6\n\u008f\u007f\u00e9\u000f\u00f8I\u00bb\u00c7\u00bb\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1097,
+     "class": "prime1",
+     "subset": "cfghi",
+     "op": "zero",
+     "decode": "\u001b\u00d4\u00c5\u00a6\u0002\u00ebKYK\u0092\u0018\u00aa\u008b\u0081\u00b4\u00b5T\u008e\u00baC\u0017\u00a7=U\u0016\u0086M\u00e5h\u00fb\u00b5\u008f\u00a3\u00a5\u00e2\u00ad\u00c9r\u00fb3$\u00c1p\u00b0S\u00f4TCp\u00b0\u008b\u00c1\u00a8\u00ee\u00ec\u00a7\u009f\u0098F\u00fe\u00c5\u0084h=\u00bb` m\u0096H\u00f4\u0012\u00dcB\u00a4\u00acJ8hLc\"\u0090\u00c4TL\t\u00ae\u0001$\u00a6:\u0001\u00c2\u00e4%'7D\u0094X\u00cfam\u0080`\u00f8\u00de\u0017\u00a5\u00ael=\u00f6.\u00f6\u0095XYd\u00a7\u00ce\u001frbcvzc\u00fb\"\u0018UcXxp,\u00c1\u0094C\u0092\u000b\u00d7\u00c0\u0005\u00ba\u00e2\u000bF\u00cf.b\u009dN\u00ac\u00ef_m\u009c\u00b0\u00b3\u0096\u00b2\u0015\u0099\u009f5\u008c\u00ef#\u00c7\u0001\u0097\u00ef!\u0018'\u009b\u00f4\u008d\u00db\u00da\u0082\u0093\u00a8VXx\u0090\u0002\u0083u\u001e\u00af\u00d1\u00ad\u00fc*>\u00ac%&]\b\u0099\u00ad#a\u00fd3\u00c00\u0003]\u00197\u0088\u00a9\u00e6\u008c\u00f1\u00b2\u00f4\u00e5\u00fb\u00c2\u0015\u00c7\u007f\u00de\u001e\u00b99\u00a89\u001b"
+    }
+   ],
+   "a1z26": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "lllkkkuulklullkkuukuuuvlvuukvuuklklllvuluvvukvuvvvk"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "acdefghi",
+     "op": "remove",
+     "decode": "vvvvvvvvvvvvvvvvvvvvvvvv"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "kkkkkkkkkkkkkkkkkkkkkkkkkkk"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "bcdefghi",
+     "op": "zero",
+     "decode": "adgefbahgcnfdgdbiaogipoggcahhraicigfegsaiaagagbafgegpagcbifkcdrdeghgageheeheafdaeccgfcaqfiacbeacciseggedgfeadgiciffgcfddgfbegfbigghbgfeefaidhcaeahrhchgfbiebihhigdghddhbpfhraeeaegfggafhhahdehdgdchgghnrgggcefdgmdhiiffhgodbibifgdieiecfgadgfefafgbbecafebiffeehifkgabicidfegcahibbidbrshaihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "abcdefghi",
+     "op": "zero",
+     "decode": "adgefbahgcdfdgdbiaegifeggcahhhaicigfegiaiaagagbafgegfagcbifacdhdeghgageheeheafdaeccgfcagfiacbeacciieggedgfeadgiciffgcfddgfbegfbigghbgfeefaidhcaeahhhchgfbiebihhigdghddhbffhhaeeaegfggafhhahdehdgdchgghdhgggcefdgcdhiiffhgedbibifgdieiecfgadgfefafgbbecafebiffeehifagabicidfegcahibbidbhihaihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9579,
+     "class": "i%2==0",
+     "subset": "cdefghi",
+     "op": "zero",
+     "decode": "adgefba.gcnfdgdbiaogipoggcahhruicigzegsa.aagagvafgegpugcbifkcdrdeghgage.eeheafxaeccgfcaqf.acbeacwise..edgfeadgiciffgcfddgfbegfbi.ghbgfeefaid.caeahrhchgfbiebihhigdghddhbpf.raeeaegfggafhhuhdehdgdchgghnrgg.cefdgmdhiifzhgodvivifgdieiecfgadgfefafgbbecazybizzeehifkgabicidfygwah.bb.xbrshaihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9579,
+     "class": "i%2==0",
+     "subset": "acdefghi",
+     "op": "zero",
+     "decode": "adgefba.gcdfdgdbiaegifeggcahhhuicigzegia.aagagvafgegfugcbifacdhdeghgage.eeheafxaeccgfcagf.acbeacwiie..edgfeadgiciffgcfddgfbegfbi.ghbgfeefaid.caeahhhchgfbiebihhigdghddhbff.haeeaegfggafhhuhdehdgdchgghdhgg.cefdgcdhiifzhgedvivifgdieiecfgadgfefafgbbecazybizzeehifagabicidfygwah.bb.xbhihaihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9263,
+     "class": "i%2==0",
+     "subset": "bcdeghi",
+     "op": "zero",
+     "decode": ".dgefbahgcnfdg.biaogipoggcahhraici.fe.s.i.agagbafgegpag.bi.k.drde.hgageheeheafdae.cgfcaqfiac.eacciseggedgfeadg.ciffgcfddgfbegfbiggh.gfeefaidhcaeahrhchgfbiebihhigdghd.hbpfhraeea.gfggafhhahdeh.gdchgghnrgggcefdgmdhiiff.godbibifg.ieiecfgadgfefa.gbbecafebiffeehifkgabicidfegcahibbidbrsh.ihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9263,
+     "class": "i%2==0",
+     "subset": "abcdeghi",
+     "op": "zero",
+     "decode": ".dgefbahgcdfdg.biaegifeggcahhhaici.fe.i.i.agagbafgegfag.bi.a.dhde.hgageheeheafdae.cgfcagfiac.eacciieggedgfeadg.ciffgcfddgfbegfbiggh.gfeefaidhcaeahhhchgfbiebihhigdghd.hbffhhaeea.gfggafhhahdeh.gdchgghdhgggcefdgcdhiiff.gedbibifg.ieiecfgadgfefa.gbbecafebiffeehifagabicidfegcahibbidbhih.ihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9193,
+     "class": "i%2==0",
+     "subset": "bcefghi",
+     "op": "zero",
+     "decode": "adge.b.hgcnfd.dbiao.ipoggc.hhraicigfegsaiaagagbafgegpagc.ifkcdrdeghgag.heehea.daeccgf.aqfiacbeacciseggedgfeadgiciffgcfddgfbegfbigghbgf.e..idhcae.hrhch.fbiebihhigd.hddhbpfhraeeaegfggafhhahdehdgdchgghnrgggce.dgmdhiiffhgodbibif.dieiecf..dgfefafgbbecafe.iff..hifkgabicidfegcahibbidbrs.aihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9193,
+     "class": "i%2==0",
+     "subset": "abcefghi",
+     "op": "zero",
+     "decode": "adge.b.hgcdfd.dbiae.ifeggc.hhhaicigfegiaiaagagbafgegfagc.ifacdhdeghgag.heehea.daeccgf.agfiacbeacciieggedgfeadgiciffgcfddgfbegfbigghbgf.e..idhcae.hhhch.fbiebihhigd.hddhbffhhaeeaegfggafhhahdehdgdchgghdhgggce.dgcdhiiffhgedbibif.dieiecf..dgfefafgbbecafe.iff..hifagabicidfegcahibbidbhi.aihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9158,
+     "class": "i%2==0",
+     "subset": "bcdefgi",
+     "op": "zero",
+     "decode": "adgefbah.cnfdgdbiaogipog.cahhra.cigfegsaiaagagbafgegpagcbifkcdrdeg.gageh.eheafdaeccgfcaqfiacb.acciseggedgfeadgiciff.cfddgfbegfbigg.bgfe.faidhcaeahrh.hg..iebihhigdgh.dhbpfhraeeae.fggaf.hahde.dgdchgghnrgggcefdgmdhiiffhgodbibifgd.eiecfga.gf.fafgbbe.afebiffeehifkgabic.dfe.ca.ibbidbrsha.hc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9158,
+     "class": "i%2==0",
+     "subset": "abcdefgi",
+     "op": "zero",
+     "decode": "adgefbah.cdfdgdbiaegifeg.cahhha.cigfegiaiaagagbafgegfagcbifacdhdeg.gageh.eheafdaeccgfcagfiacb.acciieggedgfeadgiciff.cfddgfbegfbigg.bgfe.faidhcaeahhh.hg..iebihhigdgh.dhbffhhaeeae.fggaf.hahde.dgdchgghdhgggcefdgcdhiiffhgedbibifgd.eiecfga.gf.fafgbbe.afebiffeehifagabic.dfe.ca.ibbidbhiha.hc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.8982,
+     "class": "i%2==0",
+     "subset": "bdefghi",
+     "op": "zero",
+     "decode": "adgef.ahgcn.dgdbiaogipo.gcahhraicigfegsaiaaga.bafgegpa.cbifkcdrdegh.ageheeh.afdaeccgfcaqfiacbe.ccis.gge.gfeadgiciffgcfd.gf.egfbigghb.feefai.hcaeahrhchgfbi..i.higdghdd..pfhraee.eg.gg.fhhahdehdgdchgghnrgggcef.gm.hi.ffhgodbibifgdieiecfgadgfefafgb..cafebiffeehifkgabicidfegc.hibbid.rshaihc"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.8982,
+     "class": "i%2==0",
+     "subset": "abdefghi",
+     "op": "zero",
+     "decode": "adgef.ahgcd.dgdbiaegife.gcahhhaicigfegiaiaaga.bafgegfa.cbifacdhdegh.ageheeh.afdaeccgfcagfiacbe.ccii.gge.gfeadgiciffgcfd.gf.egfbigghb.feefai.hcaeahhhchgfbi..i.higdghdd..ffhhaee.eg.gg.fhhahdehdgdchgghdhgggcef.gc.hi.ffhgedbibifgdieiecfgadgfefafgb..cafebiffeehifagabicidfegc.hibbid.hihaihc"
+    }
+   ],
+   "ascii3": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "oooooooooooooooooo"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.5588,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "y.oo.po.y.pypy...yp..po.z.zz.o.z.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.3143,
+     "class": "all",
+     "subset": "bdefghi",
+     "op": "remove",
+     "decode": "..o.o.o..q...o......q..q.qq....o..o"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2453,
+     "class": "all",
+     "subset": "cdefgi",
+     "op": "remove",
+     "decode": "y.yo.....zpyv...o..z....v..............z..z...p......"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2353,
+     "class": "all",
+     "subset": "bcefghi",
+     "op": "remove",
+     "decode": "......ooo.....o....r..o........o.r"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2195,
+     "class": "all",
+     "subset": "bcdfghi",
+     "op": "remove",
+     "decode": ".....s.s..so....s........s...s........s.o"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2162,
+     "class": "all",
+     "subset": "bcdefgi",
+     "op": "remove",
+     "decode": "v.o...ooo...o.v........v............."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2157,
+     "class": "all",
+     "subset": "defghi",
+     "op": "remove",
+     "decode": "...o.p.po.p....y.p.........o...y...p.........p....."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1892,
+     "class": "all",
+     "subset": "bcdeghi",
+     "op": "remove",
+     "decode": ".t..o...t..t.........o..t.........o.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1864,
+     "class": "all",
+     "subset": "cdefgh",
+     "op": "remove",
+     "decode": "y........zp.wp..p...........w....yo..w...................w."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1633,
+     "class": "nonprime1",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": ".......y.....y.u..y.p........o..u...............t"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1628,
+     "class": "all",
+     "subset": "bcdefgh",
+     "op": "remove",
+     "decode": "o......o..w.w............ow.w.............."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1509,
+     "class": "all",
+     "subset": "bcefgi",
+     "op": "remove",
+     "decode": "....rv...oo.......vr.............v..............v...."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1404,
+     "class": "all",
+     "subset": "bcfghi",
+     "op": "remove",
+     "decode": "......s.s.s..r.......o.............s.................o..r"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1404,
+     "class": "all",
+     "subset": "cdfghi",
+     "op": "remove",
+     "decode": "......y.ps..........y.................p.......z....o..z.."
+    }
+   ]
+  },
+  "r2rev": {
+   "dechex": [
+    {
+     "primary": 7,
+     "letter_frac": 0.1561,
+     "class": "i%10==3",
+     "subset": "cde",
+     "op": "zero",
+     "decode": "\u0012\u000bT\u00a8.\u00c2t\u00b3\u00b6\u00007KO\u0013\u0016\u00cf\"\u00ac\u0088\u00a6u\u00a4\u00ca!\u00e4\u00adb\u0004:\u00d8\u00c3*e\u000e\u00fe\r\u0087#@\\\u00cb\u001d\u0015au\u00da\u0088]\u0082\u0002\u00cc\u0002\u009f\u00dd\u0006w\u00f5{p\u00bf9\u00fak>,\u00a1L\u0005\u0095\u00ce\u0019\u007f\u00e5\u00a6D\u00be-\u0083\u00f3v\u008b\u00ae\u00c8v\u001e_\u000eqY\u001aN\u009a7R\u0088[\u00c2\u009a\u00aa?I\u0098\u0082\u00fc\u00ea\u00c0^TQw\u009d\u0080\u00f8\u00a6\u00f3\u00a5fhubjns\u00c1\u00ab\u009f\u0011j)\u00cbt\\\u00f6\u0016\u00c8\u00fd\u0087\u0081\u00eft\f\u00eeh\u009cG/du\u00b7\u00fcO\u00fd\u009c\u00c4\u00dfd62s\u0002\u00b86!\u0000Dh\u00ef4$)\u008a\u0089k\u008aLG\u00fd\\\u0088`\u001d\u001f\u00a9\u000erQ\u00e1u\u00e3/bUn\u00a6N\u0082\u009f\u001a8n\u00da\u00e9B\u00c5\u0097UJ\u00d5x\u00d2\u00f9UL\u0005\u00e9h@\u00b9\u0099]\u000eO\u00a6+E\u00f1`\u0016\u0081\n^\u000b\u00a44Q\u00dd\u00f4"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.1392,
+     "class": "i%10==3",
+     "subset": "cdef",
+     "op": "zero",
+     "decode": "\u0012\u000bT\u00a8.\u00c2t\u00b3\u00b6\u00007KO\u0013\u0016\u00cf\"\u00ac\u0088\u00a6u\u00a4\u00ca!\u00e4\u00adb\u0004:\u00d8\u00c3*e\u000e\u00fe\r\u0087#@\\\u00cb\u001d\u0015au\u00da\u0088]\u0082\u0002\u00cc\u0002\u009f\u00dd\u0006w\u00f5{p\u00bf9\u00fak>,\u00a1L\u0005\u0095\u00ce\u0019\u007f\u00e5\u00a6D\u00be-\u0083\u00f3v\u008b\u00ae\u00c8v\u001e_\u000eqY\u001aN\u009a7R\u0088[\u00c2\u009a\u00aa?I\u0098\u0082\u00fc\u00ea\u00c0^TQw\u009d\u0080\u00f8\u00a6\u00f3\u00a5fhubjns\u00c1\u00ab\u009f\u0011j)\u00cbt\\\u00f6\u0016\u00c8\u00fd\u0087\u0081\u00eft\f\u00eeh\u009cG/du\u00b7\u00fcO\u00fd\u009c\u00c4\u00dfd62s\u0002\u00b86!\u0000Dh\u00ef4$)\u008a\u0089k\u008aLG\u00fd\\\u0088`\u001d\u001f\u00a9\u000erQ\u00e1u\u00d3\u00f5\u001a\u00ff\b\u001f\u00dbS\u00b1\u00c0_\u009a\u0011{\u00ec6\u00c9\u00bb\u00a2\u00e7V\u0013\u00fe\u0083:\u00df4(\u0003~e\u00cb\u0083\u008dF+E\u00f1`\u0016\u0081\n^\u000b\u00a44Q\u00dd\u00f4"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.1224,
+     "class": "i%7==2",
+     "subset": "bcfg",
+     "op": "zero",
+     "decode": "\u0012\u000bT\u00a8.\u00c2t\u00b3\u00b6\u00007KM\u00ff\u00ea\u0001\u00b6\u001b\u0005\u00b1Uc'\\\u0099,\t\u0019\u001d\r\u00e8V\u00e9\u00d3\u00d0*]\u0091\u00db#\u0010a|w\u0014\u00a4d\u0088\u00eeGL\u0007z\\\u0018\u00e5[\u00bb{\b5_\u00c6\u008f\u00a7\u00ff\u00d2\u001f\u00d3*+\u009f\u00c0\u00c0\b\u0085w\u00ber\u009f\u00dc\u00f9\u0096N\u00a4\u00f0\u00e2\u00b7X\u00df\u009b\u00b6\u00d4\u00a2\u00eb[7\u00e22\u00b6\u008a\"\u00ffQ,\u007f\u00d8\u0090\u00fd\u00db\u00dd\u00dd0P3\u009d\u00e0}Z\u00d6i\u00dc\u00a2}\u00e7\u00e8\u00b1\u0080\u00bcyD\u0082xy\u00faVt\u00b4:\u00c5\u0081\u0082\u00892\u00db\u00c7vHZ\u00a9\u000bAU\u0096\u0098\u00c3>\u0089\u0083j\u00c3\u00e6r\u00c0\u00fbg\u00dcV`\u009b/\u00a36z\u009eg\u00c7\u00e0\f\u00b4h\u009c\u00cb\u001b\u008e|-+\u00a6\f\u00ed\u00fe\u00d4h\njlzslqr\u00ee?\u0086\u001f\u00d6\u000e\u0010:\u00da\u009d{/NI\u0018\u00ceX\u00ad\u00ae\u0084<r\u0016T\t\u00e7)/\u00e8:\u00c3C\u00a9\u00a9."
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.1224,
+     "class": "i%9==6",
+     "subset": "bdeghi",
+     "op": "zero",
+     "decode": "\u0012\u000bT\u00a8.\u00c2t\u00b3\u00b6\u0000\u0006\u0016\u00cb\u00ed\u00c9V\u00d3\u00a3.\u00bd\u0018\u00f2\u0015M\u00db_VL\u00a5\u0015\u00e3\u00d19g\u0010Z\u0015\u00a7g]MW\u00db\u00e2\u00c9\u00bca\u00b6\u0097\u00fe8\u00c3S\u00f1\u001bG\u0083f\u00ba\u0088\u00ba\u0010\u00eb<\u00c2d/8\u00992\u00eduV\u00d8\u0013\u00dcw\u00af\u0095\u00c3`\u0016\u0091v\u00ab\u00fb\u00f6\f[\u00f1\u00c64Q0^\u00ec\u00d0\u001e\u00fdH\u0086\u0014\u00db\u00b6\u0015NP\u00a1\u0010\u001a m\u00cf\u0081nvumbgb\u00bb\u00den\u008bN\u00f4\u00a2\u0019eo\u00e8\u000f\u00c8\u0014\u00f7\t$\u00afFC\u000b\u00fc\u00a0Ok\u00fa\u00b5F\u0016C\u00a5Z;\u008a\u001f\u008av\n=\u0087\u00d2b\u0088\u009d\u00d34+\u00c3\u00acM\u0017A\u0085r\u00efl\u00b9\u00b3\u00ea\u00e3.\u009f\u001d(\u00fc\u00e0\u00a4\u00a5\u00aec\u00b0\u0088\u00ee\u00de?\u0084o\u00fcYE\u00f8\u0095\u00ben\u00b1\u00ed\u00a9\u00d5\u00da\u0006\u001b\u008e^Ne\u00e3\u00ab\u0095A\u00e6%\u0085\u00d7\u00dd\u00e5\u00b4\u001a\u00ac2\u00d1\u00a2\u0082\u00a3\u009e\u00fa\u00d4"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.1168,
+     "class": "i%5==3",
+     "subset": "achi",
+     "op": "remove",
+     "decode": "\u0004l\u009c\u0015\u0002K\u0087\u00beo'\\R\u00a5\u00af\u00fb\u0003\u0097\u008b\u0000\u008d\u0019\u00bcO\u007fI\u0086\u00b3q\u00d7\u001a\u0099\u0004\u009b\u00fb)\u009bc\u0097zlusxvy6\u00a6\u0018f\u0085mc\u00dc\u0010\u00cc\u00e0w\u00aaGP\u009d\u008f\u00fd|V\u009c\u008d\u00cb\u0003\u00feT7H\u001d#\u00f4\u0087\u00e3 \u0011\u00d1\u00af\u0002<\u00ed\u00c3+.r\u00e8)\u00ef~\u00eb1!\u00ea\u00b3o_\u009e\u00b4]\u0080\u008czWp%\u00b09\u00e0}d\u000b\u00b8\u00f4\u00c0\u00cd\u008fN\u00e1V'%\u00e2`n@\u00b0\u00f2Q%]\u007fZ\u00ab\u00a7k\u00aa\u00d2\u0089\u00be\u00f3\t\u0005}\u00bf\u0007+\u0092\u00170\u00far\u00e2\u00e3\u00c04_O\u0082T\u00b3\u0098\u0082\u0013E@\nR\u00ee)6{&\u00b4&\u00b3\u00bb5\u0004$\u0013\u0097!\u00e8\u00a5\u0098\u0002\u00adv\u00c6\u00b7\u0095\u0017Iy\u0006\u001b\u00ee\u0083\u0016&\u00f3\rY\u00be0!8!P\u00f0"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.1078,
+     "class": "i%24==6",
+     "subset": "bcfh",
+     "op": "remove",
+     "decode": "\u00c6f\u0013\u00fc\u00c7\u00b9]\u00c7)\u00fb\u00c4X\u00ec1\u00f2\u00f51\u00b2\u0089\u0089\u00c1\u00f0wV*\n\u00b8\u00c5\u00d5=2_*>\u00d5P\u00b4\u00eeNW\u00de\u00f3\u001b\u00b3\u00e8\u00f8\u00b7\u0091\u0099y\u00a6Q\u00d3\u001e\u00e1\u00b9\u0005@\u00b7\u00ea\u00be\u0081\u00dc\u00a9M>\u00a3\u00ba>\u00cc\u00bca\u00fb\u00ab\u008bS\u00b3\u00e1\u009f\u00e4\u0092\u000e\u0004\u00ffy\u00a6Pp\u0099\u0084\u00ea\u008cf\u00d1\u00b3\u001a\u009a\u00be\u00fd\u00e4M'\u00a0\u0012\r\u0005-\u0015\u00d1\u009b\u00fb\u00d4\u00d8\u0006\u00bew\u00fb\u00f3Nfzhgnvw\u0091/\u00f0F\u0018\u00e4\u00bc\u00d0b:\u00b7h\u00f3\u00fd\u00b2&\u0089\u0014Sk\u009e\u00e2:\u009a\u00c2\b\u00e48\u0012\u00ba\u001aj\u00de\u009c!\u00dd?\u0012<\u00fc\u0087hz\u00be:k\u001cb\u001e \u00cd]\u00b8\u0096d\u001b\u00ca\u00c2I\b\u00df\u00f9\u00d2\u00b6\u00ff?\u00c4\u00a69-\u00f6\u001e#,}\u00e6\u0099\u00a2\u00ba4\u001el\u009a\u00fcK\u0007\u00c4\u0089\u00c1\u009b\u00dd\u00cb\u00ab\u0001\u008e4\u00d1}A\u00a7\u00b3\u001a\u00f5\u009b\u00e94"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.15,
+     "class": "i%5==1",
+     "subset": "abcefgi",
+     "op": "remove",
+     "decode": "\u0002>\u00d3\u0099\u00d7\u00fc\"q\u00a6(\n\u00c7m\u0017{W\u00de\u00a6\u00cf\u00b9\u00b0\u0001\\U\u000f\u00e2\u00c2\u00c2@\u00f7\u00c8`\u007f\u00d3\u0002\u00ee\u00c3\u00ef\u00e4\u00a2\u009d\u00a7\u00e4\u008ek\\\u0011\u00bf\u00e5\u009e]\bww\u00c0$\u00a4\u00c4t\u00b8\u00d1\u00a0D\u00caO\u00f6\u00da\u00a7-H\u0003gt9\u00ac \u0085\u00e4)@\u00dc\u00a0\u008c\u0083\u00eb\u001a\u00c13?\u0088\u00e4\u0096\u009e\u0086/\u00e8\u0016,\f7\u0088\u00a2s\u0089\u00de\u00d9\u008f\u00c7\u00c0t9\u0098s2\u00c7\u000e\u00c2\u001b\u0005mzpeppX'\u0098[1\u008c\u0089\u00d6\u00a1\u00e3\u0010\u00ca\u00cf\u00f8+\u00fb\u008fm\u00ea\u00da\u0014/\u00fbe\u00f6\u00ec\u00b6\u00f6y\u000fy\u0001\\/\u0091cF\u00be1\u00b5\u0014\u00d1q\u00f5q\u0083p8*M\u00ca{\u00bedC\u00b8_gMiVz\u009f\u00c8\u0087g\u00ba[\u0089\u00b2\u00b6\u00ed\u0095I4"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1477,
+     "class": "i%5==2",
+     "subset": "cgi",
+     "op": "zero",
+     "decode": "\u0012\u000bT\u00a8.\u00c2t\u00b3\u00b6\u00007KO\f\u00ab\u0013pN\u00e8\u00f4\u00ca\u00f4<\b\u00cb\\\u008cx\n`T\u00bf\u00bbD\u009cU\u0001l\u0016\u00ed\u00d2eN\u00e3\u00bf\u0082H\u0096\u009c\u009c\u00c7\u00b0\u00d3\u00d5\u00b2<\u00e4*\u008c=Q}\u00d8\u00b8qjcdej\u00f2haM'l\u00c6\u00d1S*\u00a2\u00aeU\u00b3\u0010\u00ed\u009a\u0082\u00ed\u001e\u00db\u00e3\u00d8\u00fe!\u00bc&\u00bb\u00ce)\u0007\u00c0\t\u00bb\u008e\u0094]\u00b1\u00d6-\u00af\u00b7t\u001c\u00160\u00f9VB\u0094\tmh\u00bf\u0016\u0000\u00c8\u00e3\u000f\u00car\u0083\u00df\u00bd\u00efr\u009c)j\u0090f<\u00ac@\u00d5\u00f4\u0006\u00ef\u00ee\u00f2i\u00e4gm\u001du\u000e\u00c7\u00bd\u00a9\u001f\u00ba\u0017u0\b\u000b\u00c2bB_\u001ee\u00b3\u00a1\f\u0085\u001f\u00f3\u009c\u0080\u00a7\u00fbL9\u008c\u0011P\u0005\u00b6x\u0007)U\u00daq{\u00f8'z\u009a\u00e37\u00b1l3G\u001c\u00a3\u00816\u00fa1\"\u00dd\u00f4z\u0004d\u0014\u0088?~\u00d1\u008f\u00a2\nHy\u00a0\u0018-C\u00c7\u0018)4"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1455,
+     "class": "i%4==3",
+     "subset": "bdhi",
+     "op": "remove",
+     "decode": "\u0001!\u00f2\u00b75P\u0081u6\u00a2\u0003Q\u0081\u00b7\u00aa\u00de\u009e\u00160\u009de\u00caG\u00d6\u00f3\u0018\u0005\u00d1\u00fcp\u00e9X0\u00bav\u00f9\u00b2#W\u00ee\u00d1{\b\u0001\u00d4\u00a7\u0098\u00c4\u0086\u00da\u0083$\rM\u00f6\u00d3=w`\u00ca3\u00d3/\u008ap\f\u0006ziTnOyc\u00c4r\u0017\u00ea\u00ad\u001bT\u00d2\u0002\u0006\u0081\u00a6\u00b6\u00aa\u00bdv\u00d5\u00c3\u00a9\u00cd?\u001fSq\u001b\u00ed\u00fb\u00f7\u00f6M\u0097dpB\u00eb\u00fd0I\u0082\u00f7iPj\u00a5\u00a6\u0090\u00b3\u00a1;x\u00c1\u00a8\t\u0089pA\u00acB(\u001e\u0006u\u00fb\u0015.#\u00fe\u00ac\u00a1\u0012\u00a6f\u009e\u00bd!C^\u00e5\u0093\\D\u0012|\u0081\u00d3\u00bb\u00ab\u00ca\u00d9\u00f0\f\u008e\u00f7\u00e3'\u00dcN\u00ffT9\u00f8\u00d70\u00d1\u001e\u000f\u00e9Un\u00d3b\u00a6\u001c1\u00f87*\u00f7\u001d >\u00dfgmgzdy\u00f2\u0090\u00f7g\u00c1V\u000b\u000e*\u00a94"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1455,
+     "class": "i%5==3",
+     "subset": "ace",
+     "op": "remove",
+     "decode": "\u009d0\u000b\u00aca}\u0096z\u00b4l[\u0084\u00b4m:\u00c2\u00b0\u00de$\u00be%\u00ebRe\u00fbv1\u0086\u00d1\u00b0\u0010\u0019\u00d5|\u00b9\u00f5\u00fe\u00acVV\f\u00aaH\u00a6\u0017x\u0081Z%\u00b6\u0086\u0095hk\u0096\f\u0088\u00bc\u00ac\u0093\u00bf\u00eb\u00a3bkdkvqU\u0097$6\u00cf0\u00db\r\u0089-KFl\u00fb\u0085\u00ef\u00b4\u001b\u00a2\u001e\u00c3\u00d5\u00bem\u0098GW\u00e9\u008a>o<I\u00d6(\u00e54\u00d6Q\u0096\u00d4aUY\u0016\u00e8Ip\u009e\u0018I\u00bb\u00d7A\u00fa\u00bfh\u0092\u0010\u00ae\u0019\u00b8\u009a\u0083\u001a\u00035\u0014\u0013\u00e9\u00e3\u00caT\u00a7r\u009c\u0097nm \u00e3\u0015b\u00e97\u0000\u00ef\u00bdV\u00ee\u0005'T\u00abg\u009f\u00d7[\u00a4pe}Y\u0085\u009a\u00b4\u00bf\u000b\u001fa\u008f\u00cf\u00e2[]6\u00c8\u00b4h\u00e34\b\u00c1Q\u00edBn1\u00d7F6\u00d0\u00ff\u009eS/`<`\u0082\u00f2#\u00b6\u00f8\u00bf%\u00dae\u00ce\u00ae\u00b0"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1378,
+     "class": "i%9==5",
+     "subset": "cdeg",
+     "op": "remove",
+     "decode": "\u0001m\u00fb(<\u009d\u00ba\u00ebCs=\u00ccnO7_b\u0098\u00cd\u008b\\\u00ff\u00b6\u001c\u008e!\u00aem[\u00d4\u0097m\n]p\u00e8(\u001dX\u00e1t&\u00ecigewtn.U\u00a9\u0000\u0083d]_k\"n\u0013\u001cr\u00ceR\u000f\u00f4\u00d4\f\u00f4\u00f8f\u0087\u00c3U\u0000\u0087\u00b5\u00b5\u008a\u00ab\u0095\u0010\u0019\u00ce\u00e1\u001c\\\u00c6h\u00f6\"a;\u008c\u00b4:\u0096\u00ccc\u00e5\u00cc\u00d3\u00f3\u00cc\u00c0\u00bf\u00ed\u0083\u0098\u008f\u00e3\u00ea\u00d0!\u00d7\u0012^c\u00db80\u00d3\r9\u0006#\u00a4\u0086\u00fd\u00d6\u00cd\u00f0\u00eb\\\u00eaJ\u008b\u00b5\u0099\u00cc\t\r\u00e1\n\u00d4N\u00c0Q~\u00bevO\u00a2\b\u001a]\u00eeG6\u00ad\u0092\u00a6,H*\u0096\u00c17\u0011\u00fd\r9G\u00c5f\u00caz\u0002\u00e1/\u00a6Tm\u00c8\u00f6M\u00c4\u007f0mx\u00e9\u00ab\u0012\u00c2\u0086'\u00ac\u00b5\u0014[\u00f8[\u00e8\u001e\u0011/\u0015S\u00e7b\u0098Vh\b\u00ee\u00f3,\u00ba\u0099}\u0092\u00d2\u00b4"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.135,
+     "class": "i%10==7",
+     "subset": "bfh",
+     "op": "zero",
+     "decode": "\u0012\u000bTz\u00a8\u00a5\u0006=\u00f3\u00ea$\u0000\u008b\u00af\u007f\u00ea\u00b3g\u00bew\u00a7\u00d6\u00a1\u00e1Sb\u00c6\u0092\u00ab~V\u000e\u0005\u00ed4\u00bd|\u0018HI\u00a7\u0013\u0019\u0083\u0097\u00bc\u0095\u0007\u00a9DN\u0003\u00a4wk\u00b3\u009e\u00a7\u0013\u00dd\u001c\u00c3axfobm\u00af\u0099|6f\u00b5\u00be\u00a9*~\u00b3\u0087`\u0080\u00f8/KIu\u00a7\u00f0i-\u00dd\u00f22W\u000fX1\u00deG\u00ea=H\u00b6\u00db|\u0016E\u00f9\u00a0\u00e4(8\t\u0096\u00f2\u00b1#\u00cb\ty6v|\u001d\u00b5S$!>T9\u0018\u00df$\fXf\u00b7\u00c3\u00aa\u00e8\u009a\u001a9\u00d4\u00bc\u008e\u00cf\u00b4\u00c8H\u00b0C\u00a4v9\u0087\u00d3\b\u00b8\u00cc@'\u00f4\u00abK?\u00ba;r\u00a7\u00a3\u0006UY\u00c1\u00fbR\u0010\u0086Em2\u00de\u0004\u00e1\u00c18uXd\u008c\u0003)\u009e\u00ae\u00e7\u00d3\u008e9qo\u00e2RY\u00b6\u00ca{+\u00d6y!\u0082AoNn\u001bP\u0080\u00a0fK\u00b4s\u0096\u008dqp\u008c\u00fe\u00ef\u00c4\u009e)4"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.135,
+     "class": "i%10==7",
+     "subset": "abfh",
+     "op": "zero",
+     "decode": "\u0012\u000bTz\u00a8\u00a5\u0006=\u00f3\u00ea$\u0000\u008b\u00af\u007f\u00ea\u00b3g\u00bew\u00a7\u00d6\u00a1\u00e1Sb\u00c6\u0092\u00ab~V\u000e\u0005\u00ed4\u00bd|\u0018HI\u00a7\u0013\u0019\u0083\u0097\u00bc\u0095\u0007\u00a9DN\u0003\u00a4wk\u00b3\u009e\u00a7\u0013\u00dd\u001c\u00c3axfobm\u00af\u0099|6f\u00b5\u00be\u00a9*~\u00b3\u0087`\u0080\u00f8/KIu\u00a7\u00f0i-\u00dd\u00f22U\u00fd\u0015>a$A\u00c8\u00c1\u00a6\u00ca\u00fd\u0003\u00be\u00b7w\u00ca{\u0013\u0002\u00a5\u00e0M\u00139`\u00a8P?\u00c5c\u00de\u00bc\u00d5i2\u0001\u00c6\u0082\u008e\u00ff\u00e3\u00eb\u00da\u00b5\u00fd\r\u001d\u001f\u0003\u0015\u00a63\u008a\u0001N\u0011\u00cc\u00af\u00af\u00e7\u00f9&n\u00fc\b\u0082n\u0001er\u00ee\u00c4\u00075\u00ed\u000b\u00e0\u00c0\u009f\u009dL\u00aa\u00e3c\u00b2\u0002(\u00f6\u00d9r\u00916\u00b1\u00b2\u00a9\u008a\u0019\u0006\u00f6c\u00fc\b~\u009c/)qo\u00e2RY\u00b6\u00ca{+\u00d6y!\u0082AoNn\u001bE\u0005\u00e4\u0003\u00dbdC;\u00ae\\\u00cc\u00b3\u001a\u00ef\u00c4\u009e)4"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1314,
+     "class": "i%2==1",
+     "subset": "abceghi",
+     "op": "remove",
+     "decode": "\u000b\u00bcK$GcVs\u0083\u00bcB\u00c0\u00b7\u009e`\u0094\u00e5\u0004\u009a\u00bd\u00c1\u00e6v\u0087h\u0085\u0013\u00ff\b\u00f7 r\u00db\u0095\u0015k\r\u00dc^\u001aw\u00bc\u008e\u00ab\u0001\u00b4\u00f0\u00f6\u0003!\u0000<>\u00d1\u00048\n\u0004\u00a8\u0001\u0015\u0005$\u00cabwqnzi\")] \u009fT\n\u0012\u009b\u00ff\u00a0\u00178\u00c8S\u00f5P@3\u00cb\u0094\u00b8P\u00a8\u000bdH\u0012 \u0086\\{\u00c4j\u00d60qJ\u0085\u0091\u0016SE\u001bI(\u0084i\u00adA\u00fb\u00ca\u00dc\u009c\u00fa\u00ce\u00f9\u00d7$d\u00c0\u00b8}\n\u0098\u00abH"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1279,
+     "class": "prime0",
+     "subset": "ghi",
+     "op": "remove",
+     "decode": "(A\u00d9`\u00a2}\u00ee\u0011Q\u00f4\u0015+\"\u00ebgC\u00bc\u00e4\u0080|\u00c8\u00bd\u00d6{\u00a3\u00be\u00f9\u009e\u00a0\u00d9\u00ae8S\u00f9\u00b6\u00eb|\u00d51<\\x\u00b9n\u00eb\u00dd0\u00dd\u0098Z/jr!lN\u00b8\u00d01\u00d8\u00d1\u009ah\u00b63\u0092\u0098\u00d7\u00e6\u00b5k\u00b6j\u00a6X\u009a\u00d2)\u000b\u0002uE\u0004<\u00ef\u0001\u00b8o\u00fb\u0011d\u00ed\u00d9\u00f2,\u00a0\u00ab\u00b7&;\u00ef\u00b3\u00d5\u00c8\u00e5Tx\u009e\u00c4.\u001d\u00d4\u0091\u00bf\u0006\u00fa\u00cdz9\u009d\u0000\u00cf\u009b\u00e2<!\u00e7\u00b6\u00b3\n\u00ea\u00ca\u00f0 \u00bf\u00ca4\u00a9~niiqnw\u0097|\u00ee\u00aa\u00bd\u008c\u00bc\u0088\u00f3Ve\u00c9\u008c\u00d9\u0001\u00b6E\u0095\u0082\u00bcjm\u00e6r8L\u00deC\u00deR\u0082\u00efF\u00f3&\u0086\u00de\u0081\u00a9\n\u00cd\u00ae^\u009c\u00e2r\b\u0096\u00ce\u0083\u00f2_\u00ca5&no\u00a1\u0093\u00bc\u00bb\u00e7\u0082\u00ecc\u0001\u0018\u00b3\u00fe\u00ef\u00c4\u009e)4"
+    }
+   ],
+   "a1z26": [
+    {
+     "primary": 0.014,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "bcdefghi",
+     "op": "zero",
+     "decode": "iihpdaacbbiibhmbhbiehiegqikggeddbbidbbohccgifsghgihndieeeehfdiebebiagfbgciecagcdgebiiaagggiggefhiiilghgmggchfmggoabgaccfhediiiiciccihhdihgaeniqibcgndhdicfhgbgieiecegcggghiiiifgeqggecibbcaebemhfiqbgaqdigifgsbdqcgghbdeqchfegaifkfedfclageggobcoeqpbpafgbfeghlaeinghcaagdaqggfdecaghbncdegep"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "abcdefghi",
+     "op": "zero",
+     "decode": "iihfdaacbbiibhcbhbiehieggiaggeddbbidbbehccgifighgihddieeeehfdiebebiagfbgciecagcdgebiiaagggiggefhiiibghgcggchfcggeabgaccfhediiiiciccihhdihgaedigibcgddhdicfhgbgieiecegcggghiiiifgegggecibbcaebechfigbgagdigifgibdgcgghbdegchfegaifafedfcbageggebceegfbfafgbfeghbaeidghcaagdagggfdecaghbdcdegef"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.9754,
+     "class": "i%2==0",
+     "subset": "cdefghi",
+     "op": "zero",
+     "decode": "iihpdaawbb..bhmbhbiehie.qikggeddbbixbbohcw.ifsghgihndieeeehfdieveviagfbgciecagcdgebiiaagggiggefhiiilghgmggchfmggoabgawcfhediiiiciwci.hdihgaeniqibcgndhdiczhgbg.eiewegcggghiiiifgeqggecibbcaebemhziqbgaqdigifgsbdqcgghbdeqchfegaifkfexfclageggovcoeqpbpafgbfeghlaeinghcaagdaqg.fdecaghbnwdegep"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.9754,
+     "class": "i%2==0",
+     "subset": "acdefghi",
+     "op": "zero",
+     "decode": "iihfdaawbb..bhcbhbiehie.giaggeddbbixbbehcw.ifighgihddieeeehfdieveviagfbgciecagcdgebiiaagggiggefhiiibghgcggchfcggeabgawcfhediiiiciwci.hdihgaedigibcgddhdiczhgbg.eiewegcggghiiiifgegggecibbcaebechzigbgagdigifgibdgcgghbdegchfegaifafexfcbageggevceegfbfafgbfeghbaeidghcaagdagg.fdecaghbdwdegef"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.9088,
+     "class": "i%2==0",
+     "subset": "bcefghi",
+     "op": "zero",
+     "decode": "iihpdaac.biibhmbhbi.hiegqikggeddbbidbbohccgifsghgi.ndieeeeh.diebeb.agfbgcie.ag.dgebiia.gggig.e.hi.ilghgmggchfmggoabgacc..ed.iiiciccihhdihgaeniqib.gndhdicfhgbgieieceg..gghiiiifg.qgge.ibbcaebemhfiqbgaqdigifgs.dqcgghbdeqchfe.a.fkfedfclageggobcoeqpbpafgbfeghlaeinghcaagdaqgg.d.c.ghbncdeg.p"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.9088,
+     "class": "i%2==0",
+     "subset": "abcefghi",
+     "op": "zero",
+     "decode": "iihfdaac.biibhcbhbi.hieggiaggeddbbidbbehccgifighgi.ddieeeeh.diebeb.agfbgcie.ag.dgebiia.gggig.e.hi.ibghgcggchfcggeabgacc..ed.iiiciccihhdihgaedigib.gddhdicfhgbgieieceg..gghiiiifg.ggge.ibbcaebechfigbgagdigifgi.dgcgghbdegchfe.a.fafedfcbageggebceegfbfafgbfeghbaeidghcaagdaggg.d.c.ghbdcdeg.f"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.8842,
+     "class": "i%2==0",
+     "subset": "cefghi",
+     "op": "zero",
+     "decode": "iihpdaaw.b..bhmbhbi.hie.qikggeddbbixbbohcw.ifsghgi.ndieeeeh.dievev.agfbgcie.ag.dgebiia.gggig.e.hi.ilghgmggchfmggoabgawc..ed.iiiciwci.hdihgaeniqib.gndhdiczhgbg.eieweg..gghiiiifg.qgge.ibbcaebemhziqbgaqdigifgs.dqcgghbdeqchfe.a.fkfexfclageggovcoeqpbpafgbfeghlaeinghcaagdaqg..d.c.ghbnwdeg.p"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.8842,
+     "class": "i%2==0",
+     "subset": "acefghi",
+     "op": "zero",
+     "decode": "iihfdaaw.b..bhcbhbi.hie.giaggeddbbixbbehcw.ifighgi.ddieeeeh.dievev.agfbgcie.ag.dgebiia.gggig.e.hi.ibghgcggchfcggeabgawc..ed.iiiciwci.hdihgaedigib.gddhdiczhgbg.eieweg..gghiiiifg.ggge.ibbcaebechzigbgagdigifgi.dgcgghbdegchfe.a.fafexfcbageggevceegfbfafgbfeghbaeidghcaagdagg..d.c.ghbdwdeg.f"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.8807,
+     "class": "i%2==0",
+     "subset": "bcdefgi",
+     "op": "zero",
+     "decode": "i.hp.a.cbbiib.mbhbiehiegqikgg.ddbbidbbohccgifsghgihndieeeehfdiebebiag.bgci.cagcdgebii.a.gg.ggef.ii.l..gmggchfmggo..gac.fh.diii..iccihhd.h...niqi.cgndhdicf.gbgieiecegcggghiiiifgeqggecibbcaebemhfiqbgaqdigifgsbdqc.gh.deqc.feg.ifkfedfclageggobcoeqpbpafgbfeghl...nghcaagdaqggfdecagh.ncdegep"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.8807,
+     "class": "i%2==0",
+     "subset": "abcdefgi",
+     "op": "zero",
+     "decode": "i.hf.a.cbbiib.cbhbiehieggiagg.ddbbidbbehccgifighgihddieeeehfdiebebiag.bgci.cagcdgebii.a.gg.ggef.ii.b..gcggchfcgge..gac.fh.diii..iccihhd.h...digi.cgddhdicf.gbgieiecegcggghiiiifgegggecibbcaebechfigbgagdigifgibdgc.gh.degc.feg.ifafedfcbageggebceegfbfafgbfeghb...dghcaagdagggfdecagh.dcdegef"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.8561,
+     "class": "i%2==0",
+     "subset": "cdefgi",
+     "op": "zero",
+     "decode": "i.hp.a.wbb..b.mbhbiehie.qikgg.ddbbixbbohcw.ifsghgihndieeeehfdieveviag.bgci.cagcdgebii.a.gg.ggef.ii.l..gmggchfmggo..gaw.fh.diii..iwci.hd.h...niqi.cgndhdicz.gbg.eiewegcggghiiiifgeqggecibbcaebemhziqbgaqdigifgsbdqc.gh.deqc.feg.ifkfexfclageggovcoeqpbpafgbfeghl...nghcaagdaqg.fdecagh.nwdegep"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.8561,
+     "class": "i%2==0",
+     "subset": "acdefgi",
+     "op": "zero",
+     "decode": "i.hf.a.wbb..b.cbhbiehie.giagg.ddbbixbbehcw.ifighgihddieeeehfdieveviag.bgci.cagcdgebii.a.gg.ggef.ii.b..gcggchfcgge..gaw.fh.diii..iwci.hd.h...digi.cgddhdicz.gbg.eiewegcggghiiiifgegggecibbcaebechzigbgagdigifgibdgc.gh.degc.feg.ifafexfcbageggevceegfbfafgbfeghb...dghcaagdagg.fdecagh.dwdegef"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.8316,
+     "class": "i%2==0",
+     "subset": "bcdefhi",
+     "op": "zero",
+     "decode": "iihpdaacbbiibhmb.biehiegq.kggeddbbidbbohccg.fsghg.hn.ieeeehf.iebebia.fbgcieca.cdge...aag..igg.fhiiilghgm..c.fmggoabgaccfhe.i.iiciccihh.ihgaeniqibcgndhdi.fh..gie.ece.cggg.iiiif.eqgg.ci..caebemhfiqbg.qdi.ifgsbdqcgghbd.q.h.egaifkfedf.la.e.gob.o.qpbpa.gb.eghlaeing..aag.aqggf.ecag.bncde.ep"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.8316,
+     "class": "i%2==0",
+     "subset": "abcdefhi",
+     "op": "zero",
+     "decode": "iihfdaacbbiibhcb.biehiegg.aggeddbbidbbehccg.fighg.hd.ieeeehf.iebebia.fbgcieca.cdge...aag..igg.fhiiibghgc..c.fcggeabgaccfhe.i.iiciccihh.ihgaedigibcgddhdi.fh..gie.ece.cggg.iiiif.eggg.ci..caebechfigbg.gdi.ifgibdgcgghbd.g.h.egaifafedf.ba.e.geb.e.gfbfa.gb.eghbaeidg..aag.agggf.ecag.bdcde.ef"
+    },
+    {
+     "primary": 0.014,
+     "letter_frac": 0.807,
+     "class": "i%2==0",
+     "subset": "cdefhi",
+     "op": "zero",
+     "decode": "iihpdaawbb..bhmb.biehie.q.kggeddbbixbbohcw..fsghg.hn.ieeeehf.ievevia.fbgcieca.cdge...aag..igg.fhiiilghgm..c.fmggoabgawcfhe.i.iiciwci.h.ihgaeniqibcgndhdi.zh..g.e.ewe.cggg.iiiif.eqgg.ci..caebemhziqbg.qdi.ifgsbdqcgghbd.q.h.egaifkfexf.la.e.gov.o.qpbpa.gb.eghlaeing..aag.aqg.f.ecag.bnwde.ep"
+    }
+   ],
+   "ascii3": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "oooooooooooooooooo"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.5588,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "o..z.z.zp.y.yo..pz...ypyo.p.yy.oy."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2703,
+     "class": "all",
+     "subset": "bcdefgi",
+     "op": "remove",
+     "decode": "....o...............v..vov..ooov...o."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2453,
+     "class": "all",
+     "subset": "cdeghi",
+     "op": "remove",
+     "decode": ".z...o...z.......t..o...o.........t.......zo...yto.y."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2,
+     "class": "nonprime0",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "..z...s.........u.......r.........q....y.o..y.o.r."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1961,
+     "class": "all",
+     "subset": "defghi",
+     "op": "remove",
+     "decode": "......o.........qy......q.........q......p.pp.q.p.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1892,
+     "class": "all",
+     "subset": "bcdeghi",
+     "op": "remove",
+     "decode": ".to............o....t........t..o.t.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1765,
+     "class": "all",
+     "subset": "bcefghi",
+     "op": "remove",
+     "decode": "...........oo.......o.....ooo....."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1714,
+     "class": "all",
+     "subset": "bdefghi",
+     "op": "remove",
+     "decode": "...o........q..q...........o.o..o.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1707,
+     "class": "all",
+     "subset": "bcdfghi",
+     "op": "remove",
+     "decode": "o.................s..........o....s..sss."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1698,
+     "class": "all",
+     "subset": "cdefgi",
+     "op": "remove",
+     "decode": "..z....o.....................v......yp...o.p.y....o.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1628,
+     "class": "all",
+     "subset": "bcdefgh",
+     "op": "remove",
+     "decode": "......w..........o.................ow...wwo"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.16,
+     "class": "all",
+     "subset": "cefghi",
+     "op": "remove",
+     "decode": ".........z.........oy...........y........ppy....y."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1509,
+     "class": "all",
+     "subset": "bcefgi",
+     "op": "remove",
+     "decode": ".....o..............v.............vo.......oo...rr..."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1475,
+     "class": "nonprime0",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "..z.....s............u........r..........u.....p..z......o.y."
+    }
+   ]
+  },
+  "r1+r2": {
+   "dechex": [
+    {
+     "primary": 7,
+     "letter_frac": 0.1309,
+     "class": "i%8==2",
+     "subset": "cfgh",
+     "op": "zero",
+     "decode": "\u0005\u00deJ\u0091(\u00c0\u00cby\u00b4\u00e4R\u00a6\u00ed\u00e4\u00d8\u00cad\u0081O\u0087\u0081\u00e1\u00a7]\u00f5GQ\u00a1\u001e\u00ecz\u0082 \u0099*\u0016\u008b&s\u00e2q<xp\u0092\u000en\u0097\u00fe\u0095\u00d9\u000eG\u00c2s\u000e\u0081q\u00ec\u0006\u00ffh\u000b\u00b9\u0017\u00a3\u00a5\u00d9N\u00f5\u00a1\u0090~@\u00e686\u00ab\u00da\u00b5\u00cc\u0015r\u0098\u00c4\u00d62^<m\u00e9\u00d7b/\u00db}\u00faGa\u00c7\u00fe{\u0097\u0085\u00cc\u00e4{\u0011sJ\u00c1\u00e03\u0088\u00dbR\t\u00cc3\u00b9\u008c\\b\u00d9[pKh\u00d6;\u0083\u0098^\u00b8 p\u00c9\u0098\u0011)\u00ab\u0004\u0090\u00ba\u00f0vF\u00be\u0003\u00fa\u009b\u001cizpuemxO\u0092w-\u0019\u00f2\u0095\u0015\u000fA\bv\u00bf\u0097\r\u00f3 \\1\u00ba\"\u001f\u008d\u0012~\u00a6<\n\u009d`\u00d7B\u00ee\u00e2\u00e3\u001c7\u00c8\u0089\r\n\u0094\u0087\u000b\u001b\u00e7\u00b9#\u001b\u00e5\u009b\u00b7\u00d4m\u0089tZ6\u00a0\u00da\u00c9\u0095\u00faLH\u00f8\u00c8%\u00c5\u00ba\u001d\u00ba\u00b7\u009dF6\u00ec\u009d\u008cA\u0017/e\u0007\u00d6\u00b6&K\u00fbY\u00f6\u009a\u008a\u000e\u00bf\u0083\u00f4\u00f4{\u00d95mY8p\u0084p\u00c78$\u00bf$\u00a7\u00bb\u00bdU"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.0913,
+     "class": "prime0",
+     "subset": "cdgi",
+     "op": "remove",
+     "decode": "\u0001o\u00c8k\u00f0J(\u00ae\u000e\u00b6\u00fd\u00b5\u00cc^\u00da\u008508\u0083\u00cd\u0011 \u00c2\u00cc:\u00cf\u0006\u0087\u00f7\u00d9Y*\u0090\u001c\u00f1\u00afM)\u00aa\u009c\u00bc\u0081Q]\f\u00cd\u0005\u009b<\u0001\u0018\u001e\u00fd\u0084w\u00fe\u00cd$\u00e2vevttpuN'\u00fde\u00fe\u001c\u0001J\u00daSwA~/\u0018\u00b6'\u00acy%\u00f5KQ\u0012\u00de%|\b\b2\u000e=\u00bd\u0015\u00bc\u00f7\u00fbC\u000b\u00bc\u00d9\u001f\u00f4\u00beK\u00b5vU\u00da/\u00e5\u0081\u00c4S\u00ac\u001a*;\u009e\u00ee\u0012k\u00fa\u0014U\u00d3\u0081\u0082\u0098\u00d0v\b>\u0016$\u00ad\u00f8\u00f9X&BZ\u00a5B\u00a6\u001a\u00f1\u00b8\u00e5\u00883\u009d\u00fe)b\u00c4j\u00e8k\u008d\u00c6\u0007\u0090,\u00cc\u00cfL\u00dcvs\u0095n\u0084-<\u00a1\u001e;\u00c7*\u0083Z\u00e3F\u00f18\u00e1\u00fe\u0099\u00e1\u001a\u009c\u00b3\u0001\u00de\u00cf\u00e7\u00cc\"\u00ff\u00ca\u00df\u0002\u00bf3\u0085\u000b\u0014\u0097\u00b3\u00ed\u009cI\u00aa+\u00dfW\u0007?\u0007'\u0010\u00d4\u0000O\u00c2\u00f2\u00e8\u0000E\u0019^\u00f6\u00ea:\u00f5b\u0017\u0084\u0090G\u0092\u0080\u00c5\u00f9\u009f"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.0909,
+     "class": "spiral:bit1",
+     "subset": "efghi",
+     "op": "zero",
+     "decode": "\u0005\u00deE\t\u00c7<\u00a6\u00ceZ2/\u0095f[\u00b2\u00d0\u009e\u00a4\u0092h$\u0093T\u001d\u0085\u00b7R#\u0085\u00be\u00c7\u0010\u0001\u00c7p\u00fb\u00ed\u0002\u00d5\u0088\u00a9S\u00c0I\u00e2\u0094\u00f75\u00f4\u009e\u00da\u0007\u00f6\u00a4\u00fe \u0001\u00db\u007f\u00da\u0002,?\u00cc]\u0013\u00f6\u0011\u009e\u00b2o\u00e7:\u0098%\u00d1\u0015\u0019o\u00a7n\u00eaO?\u0096\u00ab\u00bfo\u0002\u0004(\u00fcJ\u00c0\u00b3>\u00dd\u001f\u00bc(l\u0080\u00f6\u00e9j\u00ca\u00a0e\u00c3\u001a\u0012dfqgigo\u0090\u001e^\u00b8\u00b2\u00ab\u0086,\u00faoxN1\u00c2\u00c11\u0096.\u00cdP\u0002$|S\u00a9\u00953\u00a0\u0016\u001a\u00b6\u00af\u00d3\u00cc\u00c3\u00e37\u009f\u00e9`\u00a6]\u00baoh\u00db\u009f\u008a\u0017[\u00ae\u0019\u0091Lm|\u0099\u00b9\u00faG \u0000\u00bc\u00b3r,3=\u00cf\u0005\u00e708\u00c7\u0085T\u00a2\u00b1\u0014\u0080\u0011\f\u00a7~|-#\u008f\u009a\u009c\u00ad\u00d5\u00cf\u00d4\u00f5\u0084\u0016\u007fS\u001c\u00c3Y:\u00dc\t\u00ee\u00a3\u001d\u00ebs&\u00ba\u00a07\u00b1Z\u0015\u00ef\u00d4\u00e0\u0095_\u00cch\u00cb\u0004\u00e62\u0084D=\u00f9\u00a9I\u00ed\u00b8X\u00efZ\u00c6\u0000+-\u0014\u00c1\u00cf\u00ca}@\u00b4S\u00f8\u0018\u009d\u0084]M"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1659,
+     "class": "i%3==2",
+     "subset": "cdegh",
+     "op": "remove",
+     "decode": "cOS\u0016|\u00b4U\u00cd\u00e0\u0083\u00aa\u0006\u00eb\u00bcn\u00a0r\\\u00b3e\u00a6p)\u00aa\u00e3\u0090\u0019\u00168*\u00ebe\u00bc\u00a7v\u00ad\u008a\u000f\u000b\u00cb\u00a0gE\u0095\u00f9\u00e4\u00d0\u00ac<\u00dc\r\u0096\u0085\u00f9dg;\u00c3}\u00cbf\u0014\u00a0\u0001|\u0015:\u00b8Q\u00c1\u00cbs\u00b6\u00c5\u0092\u00f5\u00c7copnkh\u0093\u00b3\u00f1{\u0097z7\u00e7>\u00f3\u0014\u00f5&\u00f4\u0081M\u00b4\u0000J\u00af\u00de\u00e0V_\u008c2\u0010;\u00bfl\u0087\u00fb\u00b3\u0015Dy\u0011\u00e8k\u00b4sH\u00be\u0007r\u00194|\u00eemA^z\u00c0\u001b^,\u009fg\u008a\u0017\u0018Tm\u00f7#\u00fa&?3a\u00e5\u00fb\u00cc\u00bb\u0099\u00be\u001bT\u009fv\u00d5\u0082\u00ce\u00b3\u00d1f;o\u0087\u00e2\u00a6\u00c6\u00c6\u00d7}\u00e4\u00d0o^J\u007f\u00ea\u00ab\u0005\u00e8\u00b5J\u008e\u00ce\u00ea|\u00d3\u00e3\t\u00ab}\u00dc0Q\u00c1+\u00bc?\u009e\u0082\u00e2]z\u00bf\u00eb\u00c1\u00d7z)h\u00bf\u0013\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1466,
+     "class": "i%15==14",
+     "subset": "cegh",
+     "op": "remove",
+     "decode": "\u001b\u00b6^\u00b6\u00c1\u00d8\u00c4\u00ec\u00fa\u00a6\u00a4B\u00fc\u00afwz\u009a\u00e5\u00ec\u0019\u00cf\u00f6\u008a=sl\u00dei\f\u0014\u00a0\u00cd\u00bam\u008c\u00f31\u001d\u0097\u00d54x\u00c9D\u00e9\u00a4)\u00bap\u0091\u000e\u008d+\u00f1%\u0019\u00c9\u00c9\u00d5\u00a8A[v:\u00f7cxzfdq}f\u0098\u0098\u00b0\u00c1\u0007\u00eeL\u0090\u00e0\u001d\u00f4\u00b6B\u00f9\u0097w\u00dcZ\u00fald\u00fe\u00a1\u00db\u00f0\u00b7_de\u0087{\u00a3\u00e50|N\u00f2\u00fc\u00f9\u0003\u00a3\f\u00ad\u0088\u0081uI\u00fb\u00c3\u0082\u00c5\u00e2\u00e0\u0098W\u00c1\u00d8W\u00ed\u0099y\u00ffC\u0019\u0099\u0083\u00b7\u00c5d\u00cd=H\u00e9\u00c7\u00d0\u008c\u00c2o\u00d4\u00b7?\u00a5\u0006>\u00a2\u00dd\u0013\u00fea\u00bc4\u00f3\u0018\u00cc\u00f7\u0094\u00a7\u0013jXO=n\u001a\u001e\u00a8\u00d7{\u00ab\u00b1<\u00d5T\u00ef\u00e7\u00fa&\u00c9\u0096\u00de6\u00d8W\n\u00b3\u0092\tI\u00e2\u00aa\u00a5=\u00bfMs\"\u00b9\u009cpjo|\u0080\u00c8Y\u0093\u00b9B4\u00df\u0084\u00b1\u00dag<\u00c6\u00ec\u007fHjQ\u008d\u00cb\u00e9ay(&z\u00b0\u0012J\u00d1\"\u0015\u00ff\u00a0\u00a5\u00a9i\u0084\u0004[\u008a\u00eb\u001f\u00ae\u00d1\u00bb\u00c7\u00bb\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1461,
+     "class": "i%9==6",
+     "subset": "cdf",
+     "op": "remove",
+     "decode": "l@a\u00f9\u00e56\u00c1=\u00b3\u001a\u00f1\u00a5\u00e2g\u0092B\u00c4\u008a\u0085hY\u00dc\u00c7\u00aa\u0085\u0006\u0082\u001b\u00dfo\u00df\u00b4sj%\u00b5?z\u00d5\u0092\u0015\u0001D&^]\u00e3\u00e9\u00c9W\u00cdTB\u00ca\u00c1\u009ch\u00d30\u00f3\u00ef\u00bb\n\u000f\u00b2\u008e\u00b4eW\u00cbP\u00f1\u00fe\u00aa!\u0082$\u00ffw4\u00afi\u0014\tM\u00bb1qAz\bX>G\u00b2\u0003\u0010\u0018\u0080\u0098\u0087\u00d1q\u00f3K\u00e6\u00d7[\u00d9\u00f1F\u0099O\u00fcx/w~\u00be\u00882%s\u00d4BAk_\u009e\u00b9{\u00eb\u0099L\u00aa\u00a8\u00e5q!;lU6\u009a_\u00d2\u007f\u00bf\u00f5\u00f5\u001d6\u00b7Ya!\u00c1\u00e6A\u00e6\u00b5\u00fe\u0000\u009bR\u0089\u00a7\u00c4\u00b9\u008b\u00a7\u00b1\u00d7\u00ef&*\u001f\u00f4\u000f\noF\u00a3PC\u00dd?\"\u00dd\u00a0~\u00ef\u001f[8\u00c5p\u00cd\u00cf,\u0004\u00e3&h\u008a\u0006p\u00a6\u00a5\u00e6`'\u00cd\u00c8\u0090I\u00ccT\u00acU\u0001\u001e8\u00abe\u00a5\u0088I\u00b4[wuorzs\u00f4\u0093\u00e3:v\u0015Uwy$\u00c6\u00d1\u00c0\u00a8\u00950\u0013\u001b`\u00e5\u00e2\u00fc\u00ca\u0081\u0098u\u00edc\u00da@u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1418,
+     "class": "i%3==1",
+     "subset": "abefgi",
+     "op": "zero",
+     "decode": "\u0005\u0097-r\u00d6\u00a0\u00b3\u00e6zD\u0092\u00ac\u00e1%\u00bd\u00d1\u0004\u000b6\u001aX\u00ea\u00f4#q0\u00e7\u009di\u00a6G\u001a\u00c8\u00d2\u00c1\u0086\u0002\u009dn\u00cd\nX\u00fbD\u0006\u00d1i.\u00f2\u008dt\u00a3\u00c4u\u00f9\u00cf~\u0093\u009c8:\u00d7\u0006}N\u0010P\u00cd5\u00fcy\u00c9Ww\u001a\u009fT\u000bLq\u0089\u00d1\t\u00c5a7\u0094\u008cO0\u00b0.\u00fa\u0011\u001a;\u000eX\u00d5y%\u0090\u008b\u0093n&[}\u0083\u0015\u00c0\"\u00fb\u008f\u0000t\u00d9m`mwufxs\u00e2\t\u00ddh\u008b\u00e1c\u00d6\u00f2UG\u0090\u0094d\u00e5\u00aa{\u00fbG\u00e1fOJ\u008a\u0089\u00c6\u00ee\u00a0\u00adog\u00b3\u00bfF<.b.CP\u00cb\u00b2\u00af\u00f9\u00858\u00e1\u00da\u00c8\u00c1\u00d1\u00d4V\\\u00afR\u00f1\u009b\u0090\u00d1\u0087\u0004`\u00cb\u00a7n\u00d04\u00d2\u00b0\u008e\u0002p;x\u0015\u00ec\u0080\u00a7\u0083\u00afg\u00a1\u0000\u00c9\u0006|u\u00ae\u009e&\u00fc\r \u00fd\u0092\u0005\u009cA\u00a3^\u00f4\u00d8\u0097\u00f8\u00b9\u000b\u0089\u00d9\u00d9G\u00e4\u00c6\u008fn\u00aa\u00a6jV\u00d5:\u00e7\f\u00c1<@\u0092Z\u00c2\u0098$\u00f9\u0093\u008c|H!\u0098`A\u00a6!;y,y2\u009cXu"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1418,
+     "class": "i%15==1",
+     "subset": "aefhi",
+     "op": "zero",
+     "decode": "\u0005\u00deJ\u0091(\u00c0\u00cbo\u00b5O\u000fkv\u00d1nH\u008b\f\u0002\u00d2\u00b86\u00ca\u0093\u00b1\u00c2\"\u0018R\u00f6\u00ea\u00f3\r\u0010\u000b\u00ca\u0086\u00cf\u0095>$\u0085\\\u00df\u00eeX7e\u00b9\u00bc\u00b1RJ\u00baN\u00edS\u00ef\u00ba\u00d6@d;\\p\u00b9\u00b1o\u001a\u001a\u0086\u00ca\u0086\u008b\u00e4\u0006\u00eb\r\u00b6\u00fb\u0011\u009f\u0080^\u0019\u0012d7\u00eb\u00ba)u+\u00a35\u00c0\u0098g\u00a6\u0092\u00b1\u000f\u0092T\u0097mhT\u00dcDCt\u0083r\\lo\u00b0\u008a\u00c4J\u00d3\u00a4\u00c8v\u0015\u00f1\u00c0S7\u00f8\u009b\u000b#\u0017\u00ba\u000e\u00faio\u009c_\u00f2*\u00e7\u00a0\u00b6\u0010\u00b5\u0080\u00cf_@\u00c15\u008aY0\u0013\u00dd_\u00b9plkmgy\u00b0\u001fu\u00a1\u00f0d1\u00c7\u0091\u00af\u0005\u00c8\u00cf8\u0019\u00faQ\u00b6\u00ff\u009c\r\u009d\u008c\u0090\u009a@\u0099>g\u0018\b=\u00eb\u00e1|\u0004\u00e9\u0017\u009c\u0005\u0094\u0010\u0000\u00f1x\u00004&\u00cd\u00bd\u0083sh\u00c82\u0087c\u00e7\u00e0\u0098\u00b8V\u0019\u00e3#Ix8r\u00c8@w\u001d\u00cc:\bApQ\u0086\u0080\u00a0\u00dc\u00e7\u00d9n\u00bd#)C\"&D\u00ef\u00bc\u00f2\u00c1%\u00ee\u008d\u00a9A\u00bb\u00c7\u00bb\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1381,
+     "class": "i%5==0",
+     "subset": "bcefg",
+     "op": "remove",
+     "decode": "\u001d/.\u00c2\u00c4M\u0002jv\u00b8\u00b4\u0099\u00a8\u009bv\u00ba\u00c0\u00f9\u0094\u00fc\u00a7\u00f1M\u000e\u00fe^T\u00be>\u008ciw=j\u00ba\u00fe\u00dby\u0005\u00cf\u00f8\u00e3\u00e1Ua\u00e2\u00ee\u000f\u00a4\u00be\u00b1k\u0007\u00dff.\u0007\u0099\u0091_\u0084\u00c6\b\n\u00c7\u00b6\u0000V\u00df/\u00b3\u00d3\u00e7\u0007t\u00ff\u0005\u00f1z\t\u00b6\u00d43\u008e\u00dcy\u009e\u00cb,p[\u0006E\u0003\u00b5\u00f6\u00c8\u00ba\u0005\u00e0\u00c9\u00a3&\u001d\u0095\u001f]\u009b\u00a4\u00f0\u00b1\u00ac\u009d\u00b7\u00f0\u00b6zh\u00ad\u00d2}7K\u009c\u0097\u00af\bC\"\u00dc\u00a0\u0097\u00ad\u0080\u0085\u001dN8\u0013jostck\u00b1\u0003\u00fd\u0082^\u001eD\u0003r\u00a3\u00c3\u009aC\u0005\u00cb5b\u00b2\u00d4$\u0090rbz\u00a7c\u00f2\u00cf\u009f\u0002\u00aer~{\u0015\u001e\u00bf|o\u0011\u0005\u009f\u00a8\b\u00df\u00bd4g\u008e\u0004\u00d3U\u009b\u00159Z\u000b\u00f4\u00b8\u00d1A3\u0090\u00bd\u00b88U\u00eam)?+;\u00aa\u0098\u00c3\u0005NCm/#G\u009a\u0086\u00ef\u007f)\u00bd#=\u00909\u00a5"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1338,
+     "class": "spiral:Y",
+     "subset": "abdh",
+     "op": "remove",
+     "decode": "\u0010\u0084\u0092\u00f31\u0089\u00aa\u00dcz$L\u007f_\u00db\u00ed\u00c1X\u000f\u00f1\u009b\u00bf\u00f10\u00d2e+\u00966\u0098,C\u00c3\u00a4\u00a96k\u001d\u00a1\u00cf4\u00b7y\u0006P5e\u00848\u00a0\u0015\u0081\u00c0\u0086\u000bv\u00a4\t\u00c6\u0010!\u0084\r\u00ed\u00baB$r\u00f7RO?Z\u008d\u0015\u00f1\u00fdq\u00f5.\u0083\tu)\u009d\u008a\u00e3\u0012{9]a{If\u0087\u00bdz\u00b3\u00f3\u00d6\u00e6\u000e`qi \u008cX<\u009f\u0013}\u00c4\u0082aevxlw\u00c9\u0086\u00f3\u0001\u0006\u0017W\u0097F-(<)cM\u00a6.\u00f6\u00be\u00deG\u00ecT\u00c0\u0001\u001fAut\u001c\u009f\u00b3\u00cecR^z\u00949[\u00cf\u00b8\\\u0016P\u0082\u0090\u00be\u008e\u00bdb\nu\u00c4p\u00db\u008e\u00a4[\u0083\u0017a\u0084J{\u00b9\b\u00e3A\u00f1\u00b6\u00a5\u00a8\u001b\u0005\u0018\u00ee6T\u0093\u008f\u00d42\u00a6MIwx}\u0086\u001e\u0086\u00f2\u00e3\u00a2\u00e4\u00bf\u00f8\u00b8\u0087\u00a9\u00c4\u00f10S\u00b6&\u00d8%\u00c7Nz\u00f9\u00cd@[\u00ec&:e\u008f\u00beL\u001e\u008f\u00d71`\u00e7K\u0005<\u00d9=\u0095L\u0017\u0097\u00b1qP\u00fd\u0084\u00c2a\u00c7\u00bb\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1278,
+     "class": "i%15==14",
+     "subset": "cdeg",
+     "op": "remove",
+     "decode": "\u001b\u00b6^\u00b6\u00c1\u00d8\u00c4\u00ec\u00fa\u00a6\u00a4B\u00fc\u00afwz\u009a\u00e5\u00ec\u0019\u00cf\u00f6\u008a=sl\u00dei\f\u0014\u00a0\u00cd\u00bam\u008c\u00f31\u001d\u0097\u00d54x\u00c9D\u00e9\u00a4)\u00bap\u0091\u000e\u008d+\u00f1%\u0019\u00c9\u00c9\u00d5\u00a8A[v:\u00f7cxzfdq}f\u0098\u0098\u00b0\u00c1\u0007\u00eeL\u0090\u00e0\u001d\u00f4\u00b6B\u00f9\u0097w\u00dc\\\u00a4\u008a\u00cb=\u0088\u00ccN)\u00ef\u00deh\u00fe\u00c6*\u0088\u00d7>\u00a6\u00e7\r\u00ed\u00e8)\u00f7\u00e8\\\u00b5c\u00bf\u00d2+R\u00ca\u000fXo\u00a7a\u008b\u0013d\u00d4\u009c.;8@\u00a3\u0081\u00b1\u0081\u00e7\u000e'\u00d2\u009b\u00c5\u0015u\b\u00c0+\u001b\u00d2\u00e5\t\u0092\u00ea9\r\u00d2\u00cd\u00f1\u0018\u0088\u0095\u00bf\u0018}\u00b6\u0011\u00c4\"\u001b\u0093\u00b2\u0014\u00e2z\u00e6\u0015\u0095\u0082\u00a4nYD\u00d0\u0088t\u00e3\u0007\u00afWJ\u00a8|`\u00e5eh)\u00a7\u001d$7\u00b2\u00e7x\u00ea\u00cb8SX\u00a6\u00a5ME\u0085\u00e3\u00f5\u00dc\u00a5S^:V~}3\u00aa\u000eO3\u00da\u00b1\u00f6$\u009e\u0093e)\u00c0\u00b6\"\u00c34\u008bb\u00cc\u00b2\u0084\u000b\u00b7\u00eds\u00cb\u00a6Z\\n\u00bf\u0013\u00c0u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1273,
+     "class": "prime0",
+     "subset": "acdh",
+     "op": "zero",
+     "decode": "\u0005\u00deJ~\u0089({\u009aM3\u00ff\u00bbo?-\u00f9\u0099KR\u00b4\u00e8\u00d9\u00a3\u00c9\f\u00b67\u00ea&\u0092\u00db\u0003j\u001c\u008e\u001d*<K\u0082K\u00e7\u00e4&#\u0011\u009bX\u00b6Cm\u0004\u00a4L6\u001fqT^\ne$\u00e8\u00c8\u00dd\u0007I\u00d7\u0016Bk\u00d8ph\u0082\u00d3ckdapg\u0088\u0082\u00a0\u0080\u00d2\u00fd1\u00f6|\u00ecEa`<\u009d\u0085\u00ff\u0000\u000b\u0017}Er\u00d3\u00aa<\u00b3=&\u00b0a9\u00d5\u008b\u00a3bF(\u00ea:\u0086I\u009a*Y\u008f[\u001e.\u00c8\u0085\u0097\u00bck\u00fc\u00df\u00bf\u00c7\u00f4\u001e\u00a3\u0097\u00af\u00fb\u009d\u00e0\u00b2\u00bd\u00ea\u00cb@\u008aB\u00ef\u0018k\u00f7\u00e9Sxw\u00d8nb\u00a3\u00e2\u00fbH~\u0087\u0099\u00ad$\u0015\u00f2\u00f1\u00b2H\u00a4\u0001\u00e5\u00cc&\u0019\u00f5\u00d5\u00d1\u00fb\u00a171\u00cct,\u00b5}Hz(X\u0094\u008dD\u00cbQD3\u009fwl\u00d1Ic\u00ee\u00c8\u009d2w^\u00d3\u0001m\u00e3\u00df\u00f6\u00da\u00b8\u00c2\u00e2^X\u0098\u00cb\u00a5\u0098\u00a9\u00bfl\u00d8 j\u00058\u00c2\u0087:\u00b4\u00edw\u0003\u00a6\u00af\u00be\u009e\u0018\u00ea@\u00b4\u00f7\u00f6\u00d7}\u0097\u00d5>\u00ac\n1C\u0099I u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1241,
+     "class": "i%24==6",
+     "subset": "abefhi",
+     "op": "remove",
+     "decode": "\u001b\u00b6a\u0013P\u009c\u008d\u00d9h\u00cc}\u00e0\u009a}\u00af\u00db\u009a\u00b3Kt\u009f\u00b3+\u00f5\u00dc\u00ed\u00bf\u00b9i\u00e1]B\u00ba\u00b6\u00e32Z\\6<\u00d4\u0002\u00e8\u00a8~NWQ\u0082\u00c1\u00b7\nW\u00f3\u00f3\u00f8x\\a\u00cffR\u00e3\u0011\\OCsx\u00cf\"H%/@D\u0091\u00d6\u00fb\u007f\u00a6u\u0006\u0086\u0005\u00bd\u00a2\u00a0B\u00feF\u00dcy\u00d3\u0090\u00f8\u00c1X\u001d\u00f8i\u00a1\u009bJ\u00f0+\u00b8)\u0090k\u00c47\u00a0\u00d8\u00df@I9f\u00ad\u00cd\u00a1V\u00c3\u0003Zt\u0081\u00f57\u00b9-\u009e?\u0091+{\u0019\nb\u00c6\u00d9\u007fN\u00c9]#o\t\u00e1\n\u00cf\u00e1qt\u0004\u00edt\u00f1A\u0086\u0000I4\u001f\u008a\u00cf\u0013\u009b\u00a0D\u00cb\u00cbyvwplv\u00f4F\u000b:@4\u0082<\u0011\u00fe\u00cc \u00da5+m\u00c2\u00dd\u00d7\u00d6\u00ef\u00e2h\u0090qN\u00cf\u000f\u00a3\u00b6\r\u00ed\u00db\u00d2\u00be`\u00dd\u00af\u00da\u00f9\u001b\u0088\u00ccR\u00cb\u001f\u00935\u0094\u0018\u00c6\u0015<\u00f8B\u0096ux\u00da\u001c\u00bf\u00cf\u008c\u0016\u000b\u00df<\u008a\u0088z=7\u0001o\u008d\n\u00cf|>G~H,`\u00d0\u00ce\u00b5"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.12,
+     "class": "i%10==5",
+     "subset": "bcdegi",
+     "op": "zero",
+     "decode": "\u0005\u00deJ\u0091(\u00c0\u00cby\u00b4\u00e4Q\u0098c\u00f1s\u0081\u0016\u0090\u00e5\u0096\u00fdv\u00fb\u00ca\u00c9\u0013+\u00f7\u008f$\u00e7\u0093%\u00a6\u00df\u00ba\u0092\u00dc\u00cdN\u0088\u0013\u001c\u0004\u008a|\u00c0C\u00c5\u00ce\u00c5#UW\u00d4\u00cdl\u008d\u00bf_e\u00e5\u00b4\u00d3M\u00c4L\u00f7\u00da1\u0099b/}\u00d5\u00c1`0\u00c4\u00a8\u0087<\u00e2\u00e9,.\u0096\u00a7\u00f6\n\u00b5\u0095A7\u0084\u00e8K,$\u00eeG\u00924\u00f1M\u001e\fG|:\n\\\u0088\u00e65^\u00e5Wz\u00e3\u00e6u\u0004\u00f1\u00cfxI\u00b8\u00a4k\u0014\u00dcn\u00ce\u00cb\u00a2\u00a5\u0004\u00ae\u00dbS\u009duV\u0085}z<\u0002\u00b3\u00e1\u00fb\u00f7H\u00f6<\u00fc\u008f\u00e7\u00ad\u009a\u009b\u00e9l\u00bb\u000e\u008d\u000b\u0002\u00e5hs\u008cA\u00cc\u00a5\u00c6F\u0004\u00bbX\u0086\u00828\u00d1\u00b9\u00ff\u00c3\u00e9\u00d6\u00be\u00e8\u001dhqfhpu\u0097_\u00b1\u001a\u00e0\u00d5\u0083\u00ad\u00acR\u00f9V\u00d0\u00b7~\u0084\u00ed]P\u00f5ik?%\u00e2\u001aU\u008c\u0014\u00c4\u00d4\u00b2n\u008fz\u00b2\u0012\u00b8\u00a0u\u0086\u00d1\u00c8D;\"a\u00bb\u008dT\u00c09[\u00ec\u00a8/\u00e7\u00e8\u0005\fZN\u0007\u00f6j=\u00b72g?\u00e6\u00dfEh@u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1088,
+     "class": "i%6==2",
+     "subset": "bcdeghi",
+     "op": "remove",
+     "decode": "\u0002\u00f6Qx\u00d7\u008c6\u00b2\u009e\u00b3\u009d\u00a1z\u0086:\u00ec\u00f9\u00b2l\u00b4\u0000\u00db\u00ee\u0098\u00fc\u00dc\u008c\u00bd\u0096\u00d3\u00c9\u00d1C\u00b0\u0015\u00beB\u00cd\u00f8\u00cb8\\\u00dda\u00af\u00c7\u00ac\u00feg\b\u009d\u0000\u00c0\u00ff\u00b2\t\u0007,\u00d3\u00fcl\"`!\u00e9[\u00ad\u00e6r'%\u001d0\u00c1G\u00daE\u000f\rfy_\u00f6\u0096\u00a1j\u0016\u00ce\u00d1!\u00bc\u0017\u0090\u00e0\u0005m\u00c1:U\u00e4\u00b2\u00ed\tK\u00e7\u0095\u00c71+\u0012$\u00f4\u0011\u00054\u00d1\u00d1\u0087R\u00a7h\u00f1\u007fV\u00b7Y\u0005\u00c5\u00a0\u00eb\u0013\u000e>\u0015\u00d5\u00b1\u00aa\u00cf\u00ea\u000b\u00e4\u000eDV\u0080\u00bd\u00ce\u00ce1c5\u00eb@>\u0005VU\u00ba3+\u00belo\u0090\u00ae\u00fa\u001c$<\u0014\u00cb\u00f3\u0002\u00b3\u00a7szuevi\u0093;\u007f\u00d3g'\u0085\u001f \u00cf\u0011\u0003i\u00b1\u00ef\\\u00a4\u00c0\u00a0{r\u00cca\u0090/K\u00f8\u00d2\u00c8\u00d9\u0004\u00f5\nMa\u00e38\rG\u00a4&#&\u00c3\u00e3\u00e3\u00c7\u0093\u00ed\u0010\u007f\u00b5\u00b7%\u0082\u000e}E"
+    }
+   ],
+   "a1z26": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "vvvlvvvuvvvvvllllkkkuulklullkkuukuuuvlvuukvuuklklllvuluvvukvuvvvk"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "acdefghi",
+     "op": "remove",
+     "decode": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "kkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "bcdefghi",
+     "op": "zero",
+     "decode": "bifhcebhlbibgeeebehbhbldbfcbfcgfegebdiffggeelfogedcdlhgacedfgggkdgaachgdseabrgefbgfaflfqoembeqgegabmfdefapiagefhcgodbhggcgnbiqfigidgkgbgsfhcobeacbbicegggogfiiiihgggcgeceieigbghfcidhddqcbigsdoaghidhhicciciiiidehfccagbaeqgcphcggcqhgbsiihfeggigggaaiibegdcgaceicgbfgaibebeidfheeeeiddrighgipigcchelbdibbddeggasgqeiheibhbcrbiibbcaadfrii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "abcdefghi",
+     "op": "zero",
+     "decode": "bifhcebhbbibgeeebehbhbbdbfcbfcgfegebdiffggeebfegedcdbhgacedfgggadgaachgdieabhgefbgfafbfgeecbeggegabcfdefafiagefhcgedbhggcgdbigfigidgagbgifhcebeacbbicegggegfiiiihgggcgeceieigbghfcidhddgcbigideaghidhhicciciiiidehfccagbaeggcfhcggcghgbiiihfeggigggaaiibegdcgaceicgbfgaibebeidfheeeeiddhighgifigcchebbdibbddeggaiggeiheibhbchbiibbcaadfhii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9727,
+     "class": "i%2==0",
+     "subset": "cdefghi",
+     "op": "zero",
+     "decode": "b.z.cybhlbibgeeyvehbhbldbfcbzcgzygebdizzggyelfogedcxlhgacedfg.gkdgaachgdseabrgefbgfaflfqoembyqgegabmfdyfapiagefhcgodbhggcgnbiqfigidgkgbgsf.cobeacbbicegggogfiiiihgggcgecyiei.bghfwidhddqcbigsdoaghidhh.cc.ciiiidehfccugbaeqgcphcggcqhgbsiihfeggigggaaiibegdcgaceicgbfgaibybyidfheeeeiddrighgipigwwhelbd.bbddeggasgqyiheibhbcrbi.vbcuadfrii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9727,
+     "class": "i%2==0",
+     "subset": "acdefghi",
+     "op": "zero",
+     "decode": "b.z.cybhbbibgeeyvehbhbbdbfcbzcgzygebdizzggyebfegedcxbhgacedfg.gadgaachgdieabhgefbgfafbfgeecbyggegabcfdyfafiagefhcgedbhggcgdbigfigidgagbgif.cebeacbbicegggegfiiiihgggcgecyiei.bghfwidhddgcbigideaghidhh.cc.ciiiidehfccugbaeggcfhcggcghgbiiihfeggigggaaiibegdcgaceicgbfgaibybyidfheeeeiddhighgifigwwhebbd.bbddeggaiggyiheibhbchbi.vbcuadfhii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9182,
+     "class": "i%2==0",
+     "subset": "bdefghi",
+     "op": "zero",
+     "decode": "bifh.ebhlbibgeeebehbhbldbfcbf..fege.d.ffggeelfogedcdlhg.cedfgggkdgaachg.seabrg.fbgfaflfqoembeqgegabmf.efap.agefhcgodbhggcgnbiqf..id.kgbgs.hco..acbbicegggogfi.iihg.gcgeceieigbghfcidhddqcbi.sdoagh.dhhicciciiiidehfccagbaeqgcphcggcqhgbsiihfegg.gggaaiibe.dcga.eicgbfgaibebeidfheeee.ddrighgipigcch.lbdibbddeggasgqei.eibhb.rbiibbcaadfrii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9182,
+     "class": "i%2==0",
+     "subset": "abdefghi",
+     "op": "zero",
+     "decode": "bifh.ebhbbibgeeebehbhbbdbfcbf..fege.d.ffggeebfegedcdbhg.cedfgggadgaachg.ieabhg.fbgfafbfgeecbeggegabcf.efaf.agefhcgedbhggcgdbigf..id.agbgi.hce..acbbicegggegfi.iihg.gcgeceieigbghfcidhddgcbi.ideagh.dhhicciciiiidehfccagbaeggcfhcggcghgbiiihfegg.gggaaiibe.dcga.eicgbfgaibebeidfheeee.ddhighgifigcch.bbdibbddeggaiggei.eibhb.hbiibbcaadfhii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9152,
+     "class": "i%2==0",
+     "subset": "bcefghi",
+     "op": "zero",
+     "decode": ".ifhcebhlbibgeeebehbhbldbfc.fcgfegebdiffggeelfo.edcdlhga.e.f.ggkdgaachgdseabrgefbgfaflfqoembeqgegabmfdefapi.g.fhcgodbhggcgnb.qfigidgkgbgsfhcobeacbbic.gggo.fiiiihggg..eceieigbghfcidhddqc.igsdoaghidhhicciciiii.eh..cagbaeqgcphcggcqhgbsi.hf.g.iggga.iibegdc.ac.icgbfgai.ebeidf.eeeeiddr.ghgipigcchelbdibbddeggasgqeihe.bhbcrbiibb.aadfrii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9152,
+     "class": "i%2==0",
+     "subset": "abcefghi",
+     "op": "zero",
+     "decode": ".ifhcebhbbibgeeebehbhbbdbfc.fcgfegebdiffggeebfe.edcdbhga.e.f.ggadgaachgdieabhgefbgfafbfgeecbeggegabcfdefafi.g.fhcgedbhggcgdb.gfigidgagbgifhcebeacbbic.ggge.fiiiihggg..eceieigbghfcidhddgc.igideaghidhhicciciiii.eh..cagbaeggcfhcggcghgbii.hf.g.iggga.iibegdc.ac.icgbfgai.ebeidf.eeeeiddh.ghgifigcchebbdibbddeggaiggeihe.bhbchbiibb.aadfhii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9,
+     "class": "i%2==0",
+     "subset": "bcdefgh",
+     "op": "zero",
+     "decode": "bifhceb.lbibgeeebehbhbldbfcbfcgfegebdiffg.eelfogedcdlhgacedfgg.kdg.achgdseabr.e.bgfa.l.qoembeqgegabmfde.apiagefhcgodbhggcgnbiqfigidgkgb.sfhcobe..bbicegggogf.i.ihgggcgeceieig.ghfcidhddq.bigsdoaghidhhi.ci.ii.idehfccagbaeqgcphcggcqhgbsiihfeggigggaaiibegdcgacei..bfgaibe.e.dfh.e.eiddrighgipigcchelbdi.bddeg.asgqe.h.ibhbcrb.ib.caa.fr.i"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9,
+     "class": "i%2==0",
+     "subset": "abcdefgh",
+     "op": "zero",
+     "decode": "bifhceb.bbibgeeebehbhbbdbfcbfcgfegebdiffg.eebfegedcdbhgacedfgg.adg.achgdieabh.e.bgfa.b.geecbeggegabcfde.afiagefhcgedbhggcgdbigfigidgagb.ifhcebe..bbicegggegf.i.ihgggcgeceieig.ghfcidhddg.bigideaghidhhi.ci.ii.idehfccagbaeggcfhcggcghgbiiihfeggigggaaiibegdcgacei..bfgaibe.e.dfh.e.eiddhighgifigcchebbdi.bddeg.aigge.h.ibhbchb.ib.caa.fh.i"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.8909,
+     "class": "i%2==0",
+     "subset": "defghi",
+     "op": "zero",
+     "decode": "b.z..ybhlbibgeeyvehbhbldbfcbz..zyge.d.zzggyelfogedcxlhg.cedfg.gkdgaachg.seabrg.fbgfaflfqoembyqgegabmf.yfap.agefhcgodbhggcgnbiqf..id.kgbgs..co..acbbicegggogfi.iihg.gcgecyiei.bghfwidhddqcbi.sdoagh.dhh.cc.ciiiidehfccugbaeqgcphcggcqhgbsiihfegg.gggaaiibe.dcga.eicgbfgaibybyidfheeee.ddrighgipigwwh.lbd.bbddeggasgqyi.eibhb.rbi.vbcuadfrii"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.8909,
+     "class": "i%2==0",
+     "subset": "adefghi",
+     "op": "zero",
+     "decode": "b.z..ybhbbibgeeyvehbhbbdbfcbz..zyge.d.zzggyebfegedcxbhg.cedfg.gadgaachg.ieabhg.fbgfafbfgeecbyggegabcf.yfaf.agefhcgedbhggcgdbigf..id.agbgi..ce..acbbicegggegfi.iihg.gcgecyiei.bghfwidhddgcbi.ideagh.dhh.cc.ciiiidehfccugbaeggcfhcggcghgbiiihfegg.gggaaiibe.dcga.eicgbfgaibybyidfheeee.ddhighgifigwwh.bbd.bbddeggaiggyi.eibhb.hbi.vbcuadfhii"
+    }
+   ],
+   "ascii3": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "ooooooooooooooooooo"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.3953,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "..z..z....y.oy..zpyo.o.y...o.yo.y..p...z..."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2623,
+     "class": "all",
+     "subset": "cefghi",
+     "op": "remove",
+     "decode": "..........y....rrpyyp.......py.......r...oy........zz..o....r"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2564,
+     "class": "all",
+     "subset": "bdefghi",
+     "op": "remove",
+     "decode": "......o.qoqo...q.q...............q.o..q"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2195,
+     "class": "all",
+     "subset": "bcdeghi",
+     "op": "remove",
+     "decode": ".......to...o....t.t.....o..o..t........t"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2,
+     "class": "all",
+     "subset": "cdefgi",
+     "op": "remove",
+     "decode": "............y.yo.....zpyv...o..z....v..............z..z...p......"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1951,
+     "class": "all",
+     "subset": "bcdefgi",
+     "op": "remove",
+     "decode": ".....ov...ooo...o..............v....o...."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1944,
+     "class": "all",
+     "subset": "bcefghi",
+     "op": "remove",
+     "decode": "..r.....ooo.....o.......or.........."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1897,
+     "class": "all",
+     "subset": "bcdefhi",
+     "op": "remove",
+     "decode": "....u...u..o......uo...u.u.u........u.........u..........o"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1875,
+     "class": "all",
+     "subset": "bcdfghi",
+     "op": "remove",
+     "decode": "............s.s..so....s........s...s........s.o"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1746,
+     "class": "all",
+     "subset": "defghi",
+     "op": "remove",
+     "decode": "...............o.p.po.p....y.p.........o...y...p.........p....."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1714,
+     "class": "all",
+     "subset": "cdefgh",
+     "op": "remove",
+     "decode": "......z....y........zp.wp..p...........w....yo..w...................w."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1556,
+     "class": "all",
+     "subset": "bcdefgh",
+     "op": "remove",
+     "decode": "...wwo...oo.................o..........w....."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1379,
+     "class": "all",
+     "subset": "bcefgi",
+     "op": "remove",
+     "decode": ".........rv...oo.......vr.............v..............v...."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.125,
+     "class": "all",
+     "subset": "befghi",
+     "op": "remove",
+     "decode": ".r..........o.o.......................q.r...........q..r"
+    }
+   ]
+  },
+  "r2+r1": {
+   "dechex": [
+    {
+     "primary": 7,
+     "letter_frac": 0.1562,
+     "class": "i%6==1",
+     "subset": "bdhi",
+     "op": "remove",
+     "decode": "\u0004\u00e0\"+G\u0016\u00c2\u000e:\u00f5\"O\n\u00b7z\u00a7\u00fen\u00a7\u00f8\u008bF2\u008c{{1\u0010s\u00e1fagbfii\u00da\u00ad8\u00a1\u00f8\u00d7\u00f97\u00a7cVf\u0087\u001eW\u0094\u0098:g\u001f\u0095\u00b2\u00d4\u00d5\f\u00bd\u0012\u0085\u0010\"H\u000e\u009e\u008d\u00b2m\u0094#\u00a5c>\u0085\u00e3\u00ad\u00f92\u0087\u001c-\u00aa\u00c4\u00ba\u0013\u00a7\u009e\u00a5u _e\u00bfF`\u0087\u00a0*\u00a3\u00bf\u0091\u00b6(\u00b4\u00e6\u0019\u00dd/S\u0093B\u00a4\u0011\u008au-\u00dd\u009e\u009c\u0018\u0092\u00d5iZe\u00e7\u00ea\u00b6\u00ec\u00ccVU\u00d4\u00a3r8h\u00c5\u0013\u0085d\u00fb\u00f4\u00d8\u0088\u0089\u0097\u00d51\u00b2y\u0099\u00c8<F\u00b5\u00c1\u0002#){\u00a8{P}m\u001a^\u0093n\u00d1ajej(\u0093*\u00c2\u00adz\u00d3\u0004\u00bf8\u00a8\u0092\u0017\u0011\u00004\u00b6s8\u00aa\u001a\f|\u008c\\K\u00e4\u00fe\u00bc\u00d8_G\u00f6r\u00d5\u00a4\u00ea\u009e\u00cc\u00cd\u0019\u009c\u0082\u009a`\u0010o[\u0013\u00cd\u001f\u00feM\u00a1u%|'W\u00c2H\u00a58\u00c8\u00e3V\u00f8%gcrx(\u00921u"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.156,
+     "class": "prime(i+15)",
+     "subset": "cdeg",
+     "op": "remove",
+     "decode": "\u0089\u0012\u00a0R\u0097\u00cb\u00b4\u00ac\u0092\u00c8m:j6,\u0011C[\u00a4s\u0082\u0017\u001d\u00caf\u00a4kS\u00bce+\u00de\u00c0\u00db\u0087\u000fKA.zan#g5\u001f\u0094\u009a\u001d\u00f9\u008d\u00c4I\u0010j\u00c21\u008eK\u008f\u00a3\u0006\u00af\u000e6\u0000n\u00e8\u001a,\u00a0-\u008a\u0016\u00d3\u00fekR\u0016\u00ef\u0003*9\u00d8\u00aa\u00c3\u00f8S\u00c4`\u00a5\u00fe\u0097\u00f2\u00d5q8\u008fP.p'{claewrl\u00dd^\u0004@\u00e9(:\u00c5\u00d5\u00a1|\u0082\u00114\u00ee\u009a\u0005\b\u00fc\u00c2\u00a8\"K}\u001c\u00cc\u009e\u00edK/V\u0017\u00c6\u00d5Cc\u000b\u00ed!\u009e\u00f7\u00bc\u00cc\u0088`\u00121\u00c5 \u00a0m\u00d6\u00cb\u0099Z\u00dadzw+'\u0099\u00eb/\u008d_\u00ee\u00c4&\u009c\u00eb\u00a6\u0094\\\u00e5\u00bas\u00cce\u00c4fc\u00cd!\u00b2\u0081a\u00f9x0\u00e1\u009c\bZ\u00e1\u00c7\u00d1\u009d\u00b9X\u00f1\u0003\u0005\u0093\u0092^Co\u00d9.a\u0007\u00c8\u00fe\u00fec\u00b1\u00e7IR\u00ab\u0006\u0004\u008f\u00b7\u00bd\u00b4\u00e3g\u00b4\u001f%[*\u00c3Jp\u00d31u"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.1301,
+     "class": "i%24==17",
+     "subset": "abdhi",
+     "op": "remove",
+     "decode": "\u0018\t\u00c5\u00ec\u0007A\u0001\u00c6I\u00f7\u0011\u00fd\u0085)\u0006\u008fbLY\u0086\u00e3\u00df\u00ac=h\u0087\u00f6\u00b8@\u0087\u00f1r?e\u009a\u00cfm\u00e4\u00ba\u0003q\t\u00cf\u00d2\u00efj\u008e!l\u00f4\u00c8qE^D\u00f5\u0013\u00ba\u000f\u00e7j\u00de\u00f2ys\u0019`\u00e7\u0090(\u00c3\u0001un{\u0099\u00cc\u00c5At|J.\u0005+\u008dB\u00c7\u00ae\u0004\u0005\u00b4SG.\u00f0YM=\u00d9\u00bfB\u007f\fZ\u008c\u00bd\u0088*\u00b3V@\u00967IV\u00be\u0018+gEK\f\u0083\u0095\u00a8>\u008c\u00d2\u00beu\u00b1eM\u008a\u0087\u00c2\u00f5\u00bf8\u0087C1\u00d9\u00f3\u00e3\u00fd\u00f69\u0011A\u00f2\u0019\u00fe\\\u0094\u00fdm\u00b3$\u0085\u0090\u00edd\u00ec\u0004\u0095\u00e18\u00ceS\u00c7\u00d7\u0092\u009d\u00ed\u00e4\u00b5\u008a\u00ff\u00c2\u00b7\u00ad\u00b3\u0090\u00a0\u00c6f\u00f1[\u00f1B\u0099\u0091\fYD\u00cdy*hknyzlg\u0006\u00fa\u00b7\u00c5O\u00b8y0\u00a2E! \u00eb/\u00daI\u0095J\u00f4\u00e1\u008d\u00d5uPn\u00cb\u0004NA\u00efh\u009d\u008c\u00fb\u00dc@R\u001f\u000e\u00ac\u0015\u0015s\u00cc\u0011\u0000\u008c\u00e1\u00d5\u00de4\u00e9\u00ed\u0088\u0018\u00f1\u00bf\u00ca\u00c141u"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.1273,
+     "class": "i%6==5",
+     "subset": "bdfghi",
+     "op": "zero",
+     "decode": "\b\u008a<\nc\u00f3q\u00a1\u00b7\u00dd\u008b\u0001!v\u00ff\u00f6\u00d8\u00b3)nNg\u00f1\u00806\u00ff\u00eft\u00f0\u00a2\u00cf\u0014d\u0090\u00b1*\u00bd\u0015\u0017\u00c7 \u00d8\u00ab\u00f8\u00fblH\u0093fq\u009e\u009e\u009f5i\u00f2&zxgkfnb\u00fc\u00f2Y\u00ae\u00ba}\u00d2\u00a3`!\u00a0R\u0002FmP$Q\u00a7W7j\u0088\u0014\u00e8_\u00cfq\u00f5D9{\u001f\u008c\u00cb\u00c9cOM(\u0004\u00a1\u00b1f\u0086x8MTa\u0092\u00fbe]@e\"c\u001b\u0081\u00c4R\u0088Y\u00f4\u00fe\u00b1\u00fa\u008c\b\u00b8~L\u00df\u008d\u008b\u00deK\u008c8\u00d3\u00a9H\u00e7O\u00db\u0015z&\u0001\u00ae\u00f6f\u00d7\u00dc\u00adk\u0099\u00ca\u00c4K\u0014R}\u00cf\u00ab\u00ee\u0005\u001d\u00f9\u0013T8\u00fa\u00f7\u0012\u007f\u001cK\u00a5\u00b7O\u00ffC\u0089U$\u00ef'8G\u00f3\u00cb\u00cb\rT{\u00d9]\u00e5&a\u00b52\u000eT>\u0088\u00a4\u0082\u00c9\u0005\"\u0094O\u00a3\u009a\u00f6\u00d1R\u00db\u009d\u0015\u00fat\u0085\u009aL\u0086!\u00ff\u0095'c#\u0002|(\u00d9\u00fa\u0094\u00026\u00b2\u00de\u0087\u00e4\u00e5\u00b2\u00b0\u00f8X\u00f1\u00e2\u00b2\u00e9\u0015\u00fc\u00fbAnT\u00f7\u00da\u0083.%\u00d0@S\u00e1"
+    },
+    {
+     "primary": 7,
+     "letter_frac": 0.1168,
+     "class": "i%3==0",
+     "subset": "abfghi",
+     "op": "zero",
+     "decode": "6\u00fau\u00f3+\u00a8\u00fa\u0011\u00f2RJ\u00daM(I\\3&5_\u0000\"\u0085\r\u008cV\u00db\u00fc\u00c7aY\u00d7<JMI\u0006\u00e3\u001eL\u00e19\u00a0$|M\u001fa?2\u00f3E\"\b\u00d1\u00f2\u0011\u00d6[r\u00dbb\u00e9\u00c152\u00b4W\u0016\u00a6_G`W\u00ecj\u00f1`26\u0093\u00c5S\u00ae\u00c1\u00d5\u001d\u0080viAq\u00d0k\u00d4!\u00d8\u00e3\u00c7\u00d1\u00d9M\u00c8\u0016\"\u00b3,\u00c4\u000e[p\u00cd+iR\u0016I\u0084,\u0014\u00aa\u0004\u001d\u00f3M\u00b7l\u00f5\u000f\u0012\u00e8\u00ac\u0092\u00e6\u00a9\u0007G\u00de\u00b0\u00c9\u00b2Ly\u0097\u00d5\u00a3\u0096\u00d5@\u00da\u00cc\u00127\u00b4\u00d6T\u00fd8\u0095%\u001an\u00b0\u00c61B\u00b5\u00b0>\u001e\u0088\u00f6\u00c6\u0093>\u0080U\u0088\u00e1\u001c\u009c\u00ac\u00fe\u00b7uegldkq\u0011'\u00a2\"d\u00a7L\u000f%\u00ad\u00e0u\u00f7\u00ba\u0098\u00bd,ef\u00b2\u0088\r\u0019b e\u00b9\\\u00c1T|\u001b\u00ae\u0096\u0080+\u00a4(v\u00faFm\u00b4\u00d7g\u00eb\u0002\u00d7\u00eb\u00f2\u00b9\u00948\u00df\u00d7KI\u008f\u00ae\u00f0\u00d6o\u00a0\u001a\u00b0M\u00f4\u00d5\u00b5-\u00df@ +\u001f\\\u0017\u00c4\u00d09M\u0086\u00f5"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1527,
+     "class": "i%9==5",
+     "subset": "achi",
+     "op": "zero",
+     "decode": "\b\u008aBg\u00f0\u00a1A\u00be\u00ec \u008fiw\u00d2\u0001\u00e3\t\u00e7\u00bc1{\u00b2I\u0099\u00a9\u00a5j\u00af\u00bb\u00ad\u00adsjpbpi\u00c4H${Z\u00a9\u00fb\u00c3\u00cd&n\u00a3\u00ca\u00e03*@\u0099\u00a6\u00d5dF[\u0016\u00eel\u00ed\t\u00ab\u00e1\u0085v\u001f\n\u00fc\u00f9\u00a9\u00d6v*UI\u001a\u00a2v\u007f\u0093d\u00e2\u00fbc\u00c61\r\u00d6\u00df\u0013\u00c1\u00a29U\u008am\t\u00af\u00d9\u00ac\u0091=\u001a\u00a8\u0095\u00b6\u0014\u00a6\u00efg\u00c2\u00a0\u0089\u00d4{\u00feE\u001a\u00c9)\u0091\u00b8\u001ex\u00d1\u001d\u0099\u009a\u000bt\u0002KY\u000ees\u009fh\u00f8m\u00d8\u000e\u00b2!\u001c\u001ep&\u00be\u00be\u00ed\u00eck#\u00f8\u00f2\u00e6@F\u00f7\u001c0~\u00a0\u009fNygn\u00f8\u0003\u0003\u0013\u00c0@\u00bfz\u00b5p\t\u00ffV@\u0001\u0084\u00ae\u0002\u00ec\f\u00fc\u000bA0}\u00c9\u00b8\u0084\u00f6\b\u0085\u00c1\u00de\u00eb\u0083%h2\u00f9T\u00e4\u00fe\u00f91S\u00ae\u00fby<z\u00c7\u00be7\u00dd\u00d25\u008c\u00fec\u0097\u00df\u0015\u00ef\u00cc\u00a4\u001a\u0082||\u00f1\u00b7o\u0003\u0092\u00a6\u00d2\u00cc\t\u00bf\u0098\u00f0\u00a4\u00bez\u0086\u00c3\u0017\u00d3v\u008d\u00f3\u00ccY\u009aN\u0002\u00b5\u00e9o\u00a91u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1491,
+     "class": "i%9==5",
+     "subset": "ahi",
+     "op": "zero",
+     "decode": "\b\u008aBg\u00f0\u00a1A\u00be\u00ec \u008fiw\u00d2\u0001\u00e3\t\u00e7\u00bc1{\u00b2I\u0099\u00a9\u00a5j\u00af\u00bb\u00ad\u00adsjpbpi\u00c4H${Z\u00a9\u00fb\u00c3\u00cd&n\u00a3\u00ca\u00e03*@\u0099\u00a6\u00d5dF[\u0016\u00eel\u00ed\t\u00ab\u00e1\u0085v\u001f\n\u00fc\u00f9\u00a9\u00d6v*UI\u001a\u00a2v\u007f\u0093d\u00e2\u00fbc\u00c61\r\u00d6\u00df\u0013\u00c1\u00a29U\u008am\t\u00af\u00d9\u00ac\u0091=\u001a\u00a8\u0095\u00b6\u0014\u00a6\u00efg\u00c2\u00a0\u0089\u00d4{\u00feE\u001a\u00c9)\u0091\u00b8\u001ex\u00d1\u001d\u0099\u009a\u000bt\u0002KY\u000ees\u009fh\u00f8m\u00d8\u000e\u00b2!'\u000e:\u009c@t\u00c4\u001cJ\u0081I\u0095\u0019\u00a6@|\rX^Q\u00a1\u000f1\u00f8$\u008a\u0011\u00ddz\u00a5\u009d\u008eR\u00a9g\"\u00e7Ly_^\"\u0080\u0002`\u00a6\u00e76`\u00dd\u00e7Ff|L\u007f7\u000bqejY\u001e\u009fR\u0017\u0080I\u0018\u00c0\u00f7t7\u0096\u00a7C'\u00aaHm]vPP\u00a37\u00e8\u00b9\u008a\u0000\\\u00b9\u00b8\u00da<\u009b\u00b7\u00f55\u0018\u00df\u00d4\u00f9\u001d\u0003\u0081\u009d\u00d9\u00bf\u00e3dc5\"\u008d\u00f3\u00ccY\u009aNmJ\u00c0\u00be\u00ec1u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1455,
+     "class": "i%9==5",
+     "subset": "cdhi",
+     "op": "zero",
+     "decode": "\b\u008aBg\u00f0\u00a1A\u00be\u00ec \u008fiw\u00d2\u0001\u00e3\t\u00e7\u00bc1{\u00b2I\u0099\u00a9\u00a5j\u00af\u00bb\u00ad\u00adsjpbpi\u00c4H$\u0098\u00fd\u00faz\u00d3\u0084\u0088\u0090;\u00bd%V\u00fa\u0002\u009a\u00e8m\u00d4\u00d2\u00e6\u00db\u009bD\u0088\u0015A\u0087\u00e4\u0000\u0013\u00d9@\u00dcE\u0006= \u00e3];a\b$\u00e6\u00df-\u00c0\u0014\u0095upY\u0010X\u00a0\u00be\u00b1{\u00ce{E\u0095,R\u00fe\u00e2\u008f\u00cbLc\u0096\u00b0\u0005<\u00cdU\u0007h\b\u0019\u009e\t\u00e9\u00cb\u009fTy\u001d\u00a8\u0016\u0099\u00aa\u001eN\u0091\u00111\u0007\u00d3%\u0094J9b\u001b\u00a7\u00a8M\r\u0087\u008co\u00bb\u009ey\u00abC8\t\u00b94j\u0011c\u0016\u00c3\u0085\u00ca\u0000f\u0090\n\u00ba\u00b9y\u00c1\u00dbC\u009c\u00b2\u009aY\u009b\u000f\u0017O0\u00c2\u00fb}\u00dae\u00e4\u0091\u00c8\u001d\u00a0)<\u0017\u00f2\u00d9\u001f\u00fb\u00e5L\u001b/\u0085\u0088\u00c1\u00b7\u0019\u00a7\u0082]d\r\u008e\u00c3\u00b8e\u007foyt\u00dd|\u00f3\u0089\u0019\u000f\u00f4\u00156\u0085\u00ded\u008c6\u0007\u00bfh\u00a4\b\u009eyua@`\u00da]\u0011\u00b1\u00ab/\u00b1\u00ecs]{\u0010e\u0099~`\u00b3\u00f7\u0015\u00e9o\u00a91u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1418,
+     "class": "i%9==5",
+     "subset": "dhi",
+     "op": "zero",
+     "decode": "\b\u008aBg\u00f0\u00a1A\u00be\u00ec \u008fiw\u00d2\u0001\u00e3\t\u00e7\u00bc1{\u00b2I\u0099\u00a9\u00a5j\u00af\u00bb\u00ad\u00adsjpbpi\u00c4H$\u0098\u00fd\u00faz\u00d3\u0084\u0088\u0090;\u00bd%V\u00fa\u0002\u009a\u00e8m\u00d4\u00d2\u00e6\u00db\u009bD\u0088\u0015A\u0087\u00e4\u0000\u0013\u00d9@\u00dcE\u0006= \u00e3];a\b$\u00e6\u00df-\u00c0\u0014\u0095upY\u0010X\u00a0\u00be\u00b1{\u00ce{E\u0095,R\u00fe\u00e2\u008f\u00cbLc\u0096\u00b0\u0005<\u00cdU\u0007h\b\u0019\u009e\t\u00e9\u00cb\u009fTy\u001d\u00a8\u0016\u0099\u00aa\u001eN\u0091\u00111\u0007\u00d3%\u0094J9b\u001b\u00a7\u00a8M\u0018wV\u00e5=TO\u00db\"\u0095Z[g\u00d0\n\u00e8\u0007\u00ebe{\u0002'H\u009bpK\u0088\u009cB(\u00f9\u0081rM\u0092'\u00ffEj \u00d4\u00f2W|8<\u00a4\u0012\u00d0\u0089Y\u00a5\u00d4_c\u00f5Zx\u00a1\u0011\u00cay\u00ad]\u0016\u00da\u0003\u00adKz\u00d7<v\u00bf\u00ab\u00ea\u00e2\u00e7H\u0018\u001brj\u00fc\u00ffn\tO\u009b\u00c0\u00cemD\u001c\u00b3\u0088Q\u0090\u001b\u00e7nIP7\u00c7\u00a2\u00aa\u00c6u\u000e\u008d\u00be\u00bf'\u0010e\u0099~`\u00b4a\u00aa\u00c0\u00be\u00ec1u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1345,
+     "class": "i%7==5",
+     "subset": "ceg",
+     "op": "zero",
+     "decode": "\b\u008a<\nd\u0011\u00f4\u00e2\u00f3\u00aek#\u00e4\u0090\u00ba+\u00cbr\u00dd\u00c7\u00e9\u00de\u00a6]\u0006#\u00df\u0090O\u00d5\u00cfd\u00d2p\u00a2\u0014\u00c9\u00a3I\u00c3aP!\u00c7\u0013\u00db\u00b0\u0088\u00d8\u00a5?\u00ea\u00e3\u00ab\u0006\u00f7\u000e\u00bd`[]a?\u00d5%-\u0019\u00b3:\u007f\u00fa\u0014\u0086nU\u0003d\u0095\u00f9y\f8\u009a\u00b1\u000b\u00f1N\u00a2xa\u0098\u0083hJA:\u00d1\u0081\u0018\u00ef\u0005\u00af\u00e4\u00f2\u00d2\u00e3:\u0080\u00a2\u00a7\u00ec_v\u00abuUk\u008d\u0010\u00a4\u00ea\u00e20&\u00ca\u00f5\u007fr\r`$\u0002\u001c\b#\u00c8\u00b7\u001dfx\u00e3o\u00e5\u0018\u008a]i\u000b\u00efI\u000b\u00cfJ\u0094Y\u0002\u00d6\u00ad\u0012\u0002\u0005\u00fcfts2Op\u007f\u00936\u008b\u00a0)\u00f9H1`{\u00b6{l\u00ed\u00ef\u00dbZ\u00fd\u000f\u00ab\u00c2\u0099\u00d2N\u00d1\u00ea\u00e5\u009e-\u0019\u00ad\u00b3\u00f0}\u00db\u009c\u009aoE\u0003U\u0097XB1B\u00a59\u0085r\u00c4\u00e4\u00f6\u00ce\u0019\u007f\u0091\u0016\u00dd|\\\u00a8<\u00f0g\u00d3\u008d\u0001\n\u00ce\u00ec\r$~\u008a\u0015tcgtjq\u0085f\u00033D\u00b6MSFH\u0006\u00fd0\u00bd9\u009e\t\u009e\u00e4R\u0007\u00f7n%"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1328,
+     "class": "i%4==0",
+     "subset": "bfgh",
+     "op": "remove",
+     "decode": "\u0001\u00a1&\u00e6Rs\u00f71vQ\u00b6\u009aa\u00fap\u00d4p\u00d24L\u0004`\u00fd\u009f\u00e3\u00bbR;\u00f5\u00a6U&\u0000R\u009b\u0099\u00c7\u001d\u0004\u0003I1p\u00c0\u00e4\u00aa\u00c0\u00c1\u0080J}U#\u0081W\r\u00ee&\u00a8)\u009aI\u00ef\u00d8\u00ecA,d\u00d6\u00ff*:\u00de?\u001f\u0090\u0095A\b\u00b3\u00856:\u0016\u007f\u00f9\u0094L=h\u00df\u0001\u00c64\u008e\u00a1\u00fe\u00ad\u00d1\u00da\u00d5\u00c1\u00b0\u00cb\u00cc\u00b3t\u00d6>\u00a8B'Z\u00d3\u0003; t\u00e3\u00f4\u00c1\u00d8\u00e1\u00fa\u00d1\u00d4\u00b1\u00e7\u00fb*ZB\u00eb\u0006T\u00d0\u0012q#q)\u0080uu6\u00f5\u00bf\\\r\u00c41\u0005\u00b7\u00e4MV\u001dI\u0019_.7\u00d5\u00d9\u00b4w6|\u0098\u00bf\u0013\u001f\u00dd2\u00c67H\u009a,\u00a4\u0019\u00f1\u00f2kqduzpH\u00d9\u00b5\u0014H\u0099O\u0012\u00c9\u001dDr\u00bbu\u000b5\u00c2\u000bwr\u00e4\u00d7aR0g\u001ab\u0095c)7\u00b2\u0082\u00a2\u00f6\u0018\u00ea<\u00d6!\u0090w\u0084\u0086\u00a4Hv\u000f\u00cd\u00b1u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1309,
+     "class": "i%6==5",
+     "subset": "ehi",
+     "op": "zero",
+     "decode": "\b\u008aBg\u00f0\u00a1A\u00be\u00ec \u008fiw\u00d2\u0001\u00e3\t\u00e7\u00bc1{\u00b2I\u0099\u00a9\u00a5j\u00af\u00bb\u00ad\u00adsjpbpi\u00c4H$\u0098\u00fd\u00f0\u00c4\u009ds\u00cc\u00fd\u00f7\u00d8\u00bfT+^\t\u00f0\u00c0\u00dd#\u00af\u00cc\u00fe\u0088]\u00af\u00a2#!\u00ef7T\u00a6\u00edw\u00aa\u0014e;Q\u00edOyv=\u00a4\u00e4\u00e2\u00db\u00e5\u0019\u0003\u00d4\u00c4\u00d1\u008c\u0095\u0099j\u00fd>\u00f4\u0084\u00d9\u009d?\u00efA\u0000\u0014\u0091JD\u00e8p\u00baoR\u00e0\u00b8\u009f\u00a1\u00d0@W\u008f\u008b\u00d3\u001df\u0018g\u008d\u00e7\u009auQ\u00ae\u0083\u00a0\u0016\u00b9\u0088a\u00ec\u009a\u00e7\u00b3\u0003\u00f4\u00a5\u0094\u00da<\u00b1\u00cc\u00b3\u009e\u00d8\u008a9\u00c3\u00e4\u00df\u00c7\u00af\u00b90\u008e\u00b1\u00a6s&\u00a7\u00ca\u00e5j\u0084S\u00a9Z\u00e5\u009b\u008cQ\u0096}\u008e\u0083p\u00bck\u00b2\u00ed(\u00ad\u0088rs\u00e0\u0096\u0099\u00ebQz\u00f6\u00d9\u0003J\\2&\u00d4 \u00fe\\j\u007f\u00f7\u00b0`\u00ed\u00e3\u00a11\u00aacn}\u00d5J\u00c2\u008b\u009a\u00f3P\u00f5\u001aM\u00e8\u0090X\u00c3\u0019|-\u0097\u00fe\u00b8\u0088\u00db\u001e\u00e4\u00c1]\u00ad\u0081\u00ce2\u00e8gq\u00a8]SJ\u00b1-k9DWL\u00ec1u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1273,
+     "class": "all",
+     "subset": "adhi",
+     "op": "zero",
+     "decode": "\beQ2\u00b0Im\u00f1\u00d1W\u00c9\u0093\u0004_c\u001a5Hs\u0017\u007f\u009f\u00c0CX6\u00e8a)qg\u001a\u001d\u00bc\u00a2\u0004\u0010\u00c2\u00c4lv\u00f8\u00ce\u00fb\u00a8>\u00bc\u00ee/\r\u00cfx\u00ce-\u001f#\u00da\u00caJ\u00be5\u00e2\u00a41\u0002\u00fa\u001fs\u0004\u00b6\u00b1/\u00ec\u00adO\u00c6\u0005#@1\u00d1\u00a3\u00f7P+\u00ff\u00f04\u00e6\u00dc\u000e;\u001d/i\u00bb&\u00cc\u00eb\u0080\u00cf\u000bI@\u0091a\u00d1\u0007\u00c46Z\u008f%\u0003Iz(K\u00fa#\u00cc\u0087$n\u00fe\u00be\u00a5\u000e6K\u0093%KRe\u00a5V\u009b\u008b\u0084Ymn\u00fb\u00d1\u00e4\u00e1\u00ca\u00f2/\u00af7\u00f7\u00ceC\u00f8\u00a4y\u00d6Qm6T\u0094\u00f0jV\u00ed.\u00aa\u0014\u00bb\u00cc\u001c\u00b6sldsvc}\u008cO\u00fd\u00d8!\u0087\u0018\u00c2\u00b1\u0000\u0082\u00e4\u000b\u00b2\u0084/\u008e\u00db\u00c4\u007f[\u0086\u00b6\u00fc\u00cc:\u001e~ +\u00b2\u008a\u0093\u00feWd\u00cbZ\u00a8\u00bc\u00b5\u008bp\u00f0\u008e\u0013\u00c3\u0010\u00bck\u00d0H\u00bebe)\u0014\u00a8:sh\u0002\u00fc\u007f\u00c2\u0093\u00ae9t\u007f\u0098\u00a8\u0081\u001a\"\u0090\u00ee\u001e\u00b6Q\u00c6\u00f6\u00b0\u0019-\u00dc\u00ec\u00bf+H$\u00c8\u0011"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1273,
+     "class": "i%6==5",
+     "subset": "hi",
+     "op": "zero",
+     "decode": "\b\u008aBg\u00f0\u00a1A\u00be\u00ec \u008fiw\u00d2\u0001\u00e3\t\u00e7\u00bc1{\u00b2I\u0099\u00a9\u00a5j\u00af\u00bb\u00ad\u00adsjpbpi\u00c4H$\u0098\u00fd\u00faz\u00d3\u0084\u0088\u0090;\u00bd%\u00a9t\u00aaf\u0086\u0098\\J\u00ee\u00f3\u00ea\u000bTg\u00a8\u008d\u00a0\u001d\u00df\u007f\u00dd\u00b8\u00c6\u008a\u00de\u00c0\u00c0_\u008a\u00d529\u0019\u00a4x\u00bb\u00bc\u00b4\u00ad\u00a0Rl;\u00dd\u00cd76G\u00b1\u00e2\u0085\t\u00a86A\u0000\u009c\u0004j\u0018\u00bfr\u0003\u00906\u00d8\u00c2\u00b5Y\u00f9/H\u00ce\u00c7\u00f4\u0080\u00b8\u00a9;\u0082\u00c8\u001d\u00b7o8\u009e\u00d3\u00bf\u00cd\u00fa\u008a\u00dag`\u0006\u0004\u00cbw\u009a\u00dc\u00de\u0011}\u00e9\u00cb`3\u00b2\u00cdE\u00a1v\u008d\u00d6\u00f4+\u00b8\u008c\u00a5a\u0080P\u00a65qA\u00b4<\u00b1xwf\u0095\u00c3\u00f8\u0091\u00be\u00c2\u0098\u000b\u001bL^\u0000\\\u00fc\u0097D\u00ae~\u00a2\u00cc\u00bek\u0013\"\u009f\u001b\u00d4<8#4G\u00e5g\u00b9\u00ccOx\u00a1\u00b0\u0095\u00da\u00ab]\u00d2>\u00f2\u001bl}'\u00d5\u00ec\u001f\u00aa]\u00c7\u0006D\u00aa!\u00b1\u00ff\u00e2+I\u0096j\u00e9@\u00d9\u0016\u00ae\u00d9n\u00bc)s\u008c\u0088\u00f0\u0094\u00fc\u0002\u008a\u001dJ\u00c0\u00be\u00ec1u"
+    },
+    {
+     "primary": 6,
+     "letter_frac": 0.1273,
+     "class": "i%9==5",
+     "subset": "hi",
+     "op": "zero",
+     "decode": "\b\u008aBg\u00f0\u00a1A\u00be\u00ec \u008fiw\u00d2\u0001\u00e3\t\u00e7\u00bc1{\u00b2I\u0099\u00a9\u00a5j\u00af\u00bb\u00ad\u00adsjpbpi\u00c4H$\u0098\u00fd\u00faz\u00d3\u0084\u0088\u0090;\u00bd%V\u00fa\u0002\u009a\u00e8m\u00d4\u00d5\u008b\u00ab=\u001f\u00d6o\u00a0!\u0093\u00a8\u00cd\u00e6\u00b6\u00feWU\u00d45\u00fan\"S\u00cb(\u00e4\u00d4\u00f4\u00a5/\u00ea\t\u008c\u0090U\u00fa\u00b0\u00ac\u0093Kal<S\u00cf\u000e/\u00d1\u0010\u00bb\u0091V\u0090$\u00b4\u00ef\u00c8\u00f8\u00b4=^C\u00a0\u0086\u0019\u00e5\u00ab\u00cd\u0085\u0083L\\\u0086T\u00ceJx\u0002#M\u0005\u00b0\u00dfd\u00b7|?\u0017<\u0093'\u00c9\u0087|\u00c7\u0019\u00b5\u00cf\u00890_\u00ab\u00b4\u00834\u0018qV\u00f9\u00bfL\u00d6\u00a0\u00bf\u00b9\u009c\u0001?C/\u00a1\u001a\u008f\u00800\u00b6\u00cex\u00f9/\bt\u00d0\u0015D\u00c4+n\u00cb\u00a9\u0019\u00be\u00dem\u0093\u00f8lw\u00a9\u00bb%\u0002\u00b6\u00a0!\u00c1+#\u0007o\r=\u0007\u008c\u0085S\u001c\u00eeRm]vPP\u00a37\u00edh\fW\u00ce\u0095\u00c0Ajx\u00c7\u0083\u00bf\u00dcr%\u00907\u00c7\u00a2\u00aa\u00c6v\u00d9\u00bb. \u00b3\u0097\u00f3\u00ccY\u009aNmJ\u00c0\u00be\u00ec1u"
+    }
+   ],
+   "a1z26": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "lllkkkuulklullkkuukuuuvlvuukvuuklklllvuluvvukvuvvvklvvuvvvvlvvvvu"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "acdefghi",
+     "op": "remove",
+     "decode": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "kkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "bcdefghi",
+     "op": "zero",
+     "decode": "adgefbahgcnfdgdbiaogipoggcahhraicigfegsaiaagagbafgegpagcbifkcdrdeghgageheeheafdaeccgfcaqfiacbeacciseggedgfeadgiciffgcfddgfbegfbigghbgfeefaidhcaeahrhchgfbiebihhigdghddhbpfhraeeaegfggafhhahdehdgdchgghnrgggcefdgmdhiiffhgodbibifgdieiecfgadgfefafgbbecafebiffeehifkgabicidfegcahibbidbrshaihcbifhcebhlbibgeeebehbhbldbfcbfcgfegebdiffggeel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "i%2==0",
+     "subset": "abcdefghi",
+     "op": "zero",
+     "decode": "adgefbahgcdfdgdbiaegifeggcahhhaicigfegiaiaagagbafgegfagcbifacdhdeghgageheeheafdaeccgfcagfiacbeacciieggedgfeadgiciffgcfddgfbegfbigghbgfeefaidhcaeahhhchgfbiebihhigdghddhbffhhaeeaegfggafhhahdehdgdchgghdhgggcefdgcdhiiffhgedbibifgdieiecfgadgfefafgbbecafebiffeehifagabicidfegcahibbidbhihaihcbifhcebhbbibgeeebehbhbbdbfcbfcgfegebdiffggeeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9576,
+     "class": "i%2==0",
+     "subset": "cdefghi",
+     "op": "zero",
+     "decode": "adgefba.gcnfdgdbiaogipoggcahhruicigzegsa.aagagvafgegpugcbifkcdrdeghgage.eeheafxaeccgfcaqf.acbeacwise..edgfeadgiciffgcfddgfbegfbi.ghbgfeefaid.caeahrhchgfbiebihhigdghddhbpf.raeeaegfggafhhuhdehdgdchgghnrgg.cefdgmdhiifzhgodvivifgdieiecfgadgfefafgbbecazybizzeehifkgabicidfygwah.bb.xbrshaihcb.z.cybhlbibgeeyvehbhbldbfcbzcgzygebdizzggyel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9576,
+     "class": "i%2==0",
+     "subset": "acdefghi",
+     "op": "zero",
+     "decode": "adgefba.gcdfdgdbiaegifeggcahhhuicigzegia.aagagvafgegfugcbifacdhdeghgage.eeheafxaeccgfcagf.acbeacwiie..edgfeadgiciffgcfddgfbegfbi.ghbgfeefaid.caeahhhchgfbiebihhigdghddhbff.haeeaegfggafhhuhdehdgdchgghdhgg.cefdgcdhiifzhgedvivifgdieiecfgadgfefafgbbecazybizzeehifagabicidfygwah.bb.xbhihaihcb.z.cybhbbibgeeyvehbhbbdbfcbzcgzygebdizzggyeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9242,
+     "class": "i%2==0",
+     "subset": "bcdeghi",
+     "op": "zero",
+     "decode": ".dgefbahgcnfdg.biaogipoggcahhraici.fe.s.i.agagbafgegpag.bi.k.drde.hgageheeheafdae.cgfcaqfiac.eacciseggedgfeadg.ciffgcfddgfbegfbiggh.gfeefaidhcaeahrhchgfbiebihhigdghd.hbpfhraeea.gfggafhhahdeh.gdchgghnrgggcefdgmdhiiff.godbibifg.ieiecfgadgfefa.gbbecafebiffeehifkgabicidfegcahibbidbrsh.ihcbifhcebhlbibgeeebehbh.l.bf.bfcgfegebdiff.geel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9242,
+     "class": "i%2==0",
+     "subset": "abcdeghi",
+     "op": "zero",
+     "decode": ".dgefbahgcdfdg.biaegifeggcahhhaici.fe.i.i.agagbafgegfag.bi.a.dhde.hgageheeheafdae.cgfcagfiac.eacciieggedgfeadg.ciffgcfddgfbegfbiggh.gfeefaidhcaeahhhchgfbiebihhigdghd.hbffhhaeea.gfggafhhahdeh.gdchgghdhgggcefdgcdhiiff.gedbibifg.ieiecfgadgfefa.gbbecafebiffeehifagabicidfegcahibbidbhih.ihcbifhcebhbbibgeeebehbh.b.bf.bfcgfegebdiff.geeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9242,
+     "class": "i%2==0",
+     "subset": "bcefghi",
+     "op": "zero",
+     "decode": "adge.b.hgcnfd.dbiao.ipoggc.hhraicigfegsaiaagagbafgegpagc.ifkcdrdeghgag.heehea.daeccgf.aqfiacbeacciseggedgfeadgiciffgcfddgfbegfbigghbgf.e..idhcae.hrhch.fbiebihhigd.hddhbpfhraeeaegfggafhhahdehdgdchgghnrgggce.dgmdhiiffhgodbibif.dieiecf..dgfefafgbbecafe.iff..hifkgabicidfegcahibbidbrs.aihc.ifhcebhlbibgeeebehbhbldbfc.fcgfegebdiffggeel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9242,
+     "class": "i%2==0",
+     "subset": "abcefghi",
+     "op": "zero",
+     "decode": "adge.b.hgcdfd.dbiae.ifeggc.hhhaicigfegiaiaagagbafgegfagc.ifacdhdeghgag.heehea.daeccgf.agfiacbeacciieggedgfeadgiciffgcfddgfbegfbigghbgf.e..idhcae.hhhch.fbiebihhigd.hddhbffhhaeeaegfggafhhahdehdgdchgghdhgggce.dgcdhiiffhgedbibif.dieiecf..dgfefafgbbecafe.iff..hifagabicidfegcahibbidbhi.aihc.ifhcebhbbibgeeebehbhbbdbfc.fcgfegebdiffggeeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9152,
+     "class": "i%2==0",
+     "subset": "bcdefgi",
+     "op": "zero",
+     "decode": "adgefbah.cnfdgdbiaogipog.cahhra.cigfegsaiaagagbafgegpagcbifkcdrdeg.gageh.eheafdaeccgfcaqfiacb.acciseggedgfeadgiciff.cfddgfbegfbigg.bgfe.faidhcaeahrh.hg..iebihhigdgh.dhbpfhraeeae.fggaf.hahde.dgdchgghnrgggcefdgmdhiiffhgodbibifgd.eiecfga.gf.fafgbbe.afebiffeehifkgabic.dfe.ca.ibbidbrsha.hcbifhcebhlbi.geeebe.b.bld.fcbfcgfegebdiffggeel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.9152,
+     "class": "i%2==0",
+     "subset": "abcdefgi",
+     "op": "zero",
+     "decode": "adgefbah.cdfdgdbiaegifeg.cahhha.cigfegiaiaagagbafgegfagcbifacdhdeg.gageh.eheafdaeccgfcagfiacb.acciieggedgfeadgiciff.cfddgfbegfbigg.bgfe.faidhcaeahhh.hg..iebihhigdgh.dhbffhhaeeae.fggaf.hahde.dgdchgghdhgggcefdgcdhiiffhgedbibifgd.eiecfga.gf.fafgbbe.afebiffeehifagabic.dfe.ca.ibbidbhiha.hcbifhcebhbbi.geeebe.b.bbd.fcbfcgfegebdiffggeeb"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.897,
+     "class": "i%2==0",
+     "subset": "bdefghi",
+     "op": "zero",
+     "decode": "adgef.ahgcn.dgdbiaogipo.gcahhraicigfegsaiaaga.bafgegpa.cbifkcdrdegh.ageheeh.afdaeccgfcaqfiacbe.ccis.gge.gfeadgiciffgcfd.gf.egfbigghb.feefai.hcaeahrhchgfbi..i.higdghdd..pfhraee.eg.gg.fhhahdehdgdchgghnrgggcef.gm.hi.ffhgodbibifgdieiecfgadgfefafgb..cafebiffeehifkgabicidfegc.hibbid.rshaihcbifh.ebhlbibgeeebehbhbldbfcbf..fege.d.ffggeel"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.897,
+     "class": "i%2==0",
+     "subset": "abdefghi",
+     "op": "zero",
+     "decode": "adgef.ahgcd.dgdbiaegife.gcahhhaicigfegiaiaaga.bafgegfa.cbifacdhdegh.ageheeh.afdaeccgfcagfiacbe.ccii.gge.gfeadgiciffgcfd.gf.egfbigghb.feefai.hcaeahhhchgfbi..i.higdghdd..ffhhaee.eg.gg.fhhahdehdgdchgghdhgggcef.gc.hi.ffhgedbibifgdieiecfgadgfefafgb..cafebiffeehifagabicidfegc.hibbid.hihaihcbifh.ebhbbibgeeebehbhbbdbfcbf..fege.d.ffggeeb"
+    }
+   ],
+   "ascii3": [
+    {
+     "primary": 0.0,
+     "letter_frac": 1.0,
+     "class": "all",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": "ooooooooooooooooooo"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.4651,
+     "class": "all",
+     "subset": "cdefghi",
+     "op": "remove",
+     "decode": "y.oo.po.y.pypy...yp..po.z.zz.o.z..z........"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.3077,
+     "class": "all",
+     "subset": "bdefghi",
+     "op": "remove",
+     "decode": "..o.o.o..q...o......q..q.qq....o..o.q.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2222,
+     "class": "all",
+     "subset": "bcefghi",
+     "op": "remove",
+     "decode": "......ooo.....o....r..o........o.r.."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.2,
+     "class": "all",
+     "subset": "cdefgi",
+     "op": "remove",
+     "decode": "y.yo.....zpyv...o..z....v..............z..z...p.................."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1951,
+     "class": "all",
+     "subset": "bcdefgi",
+     "op": "remove",
+     "decode": "v.o...ooo...o.v........v................."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1875,
+     "class": "all",
+     "subset": "bcdfghi",
+     "op": "remove",
+     "decode": ".....s.s..so....s........s...s........s.o......."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1746,
+     "class": "all",
+     "subset": "defghi",
+     "op": "remove",
+     "decode": "...o.p.po.p....y.p.........o...y...p.........p................."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1714,
+     "class": "all",
+     "subset": "cdefgh",
+     "op": "remove",
+     "decode": "y........zp.wp..p...........w....yo..w...................w....z......."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1707,
+     "class": "all",
+     "subset": "bcdeghi",
+     "op": "remove",
+     "decode": ".t..o...t..t.........o..t.........o......"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1556,
+     "class": "all",
+     "subset": "bcdefgh",
+     "op": "remove",
+     "decode": "o......o..w.w............ow.w................"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1455,
+     "class": "nonprime1",
+     "subset": "bcdefghi",
+     "op": "remove",
+     "decode": ".......y.....y.u..y.p........o..u...............t......"
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1379,
+     "class": "all",
+     "subset": "bcefgi",
+     "op": "remove",
+     "decode": "....rv...oo.......vr.............v..............v........."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.125,
+     "class": "all",
+     "subset": "cdfghi",
+     "op": "remove",
+     "decode": "......y.ps..........y.................p.......z....o..z..z.............."
+    },
+    {
+     "primary": 0.0,
+     "letter_frac": 0.1231,
+     "class": "all",
+     "subset": "bcfghi",
+     "op": "remove",
+     "decode": "......s.s.s..r.......o.............s.................o..r........"
+    }
+   ]
+  }
+ },
+ "null": {
+  "r1": {
+   "dechex": {
+    "best_primary": 5,
+    "best_frac": 0.36
+   },
+   "a1z26": {
+    "best_primary": 0.0,
+    "best_frac": 1.0
+   },
+   "ascii3": {
+    "best_primary": 0.0,
+    "best_frac": 1.0
+   }
+  },
+  "r2": {
+   "dechex": {
+    "best_primary": 7,
+    "best_frac": 0.1659
+   },
+   "a1z26": {
+    "best_primary": 0.0,
+    "best_frac": 1.0
+   },
+   "ascii3": {
+    "best_primary": 0.0,
+    "best_frac": 1.0
+   }
+  }
+ },
+ "container_hits": []
+}

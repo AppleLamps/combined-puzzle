@@ -1,0 +1,4 @@
+pool 40114
+HIT ('phase3.2', 'raw', '250f37726d6862939f723edc4f993fde9d33c6004aab4f2203d9ee489d61', 0.6, b"I've been waiting for you. You have many questions, and although the process has")
+HIT ('phase3.2', 'sha-hex', 'jacquefrescogiveitjustonesecondheisenbergsuncertaintyprincip', 0.6, b"I've been waiting for you. You have many questions, and although the process has")
+done 20.062137603759766

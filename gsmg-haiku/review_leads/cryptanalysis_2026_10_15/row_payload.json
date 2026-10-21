@@ -1,0 +1,269 @@
+{
+  "boundary": "Discard four complete row symbols used by the 7-character interleaved BTCSEED header; retain all later row bits except column-forced zeros. No invented padding.",
+  "bits": 504,
+  "materials": [
+    {
+      "hex": "f25ea4af6bfad726c8ff9dfce91a6dfd7f83ae3f1a7dad5bbec40f575b1398c68fe438846353feefea13b7eabe5f4a1e1108ef14d91af8802eb7a50dc00b11",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/source/polarity=0/reverse=0/lsb=0",
+        "ecgahbdifklmnopqrstuvwxyz/source/polarity=1/reverse=0/lsb=0"
+      ]
+    },
+    {
+      "hex": "4f7a25f5d65feb6413ffb93f9758b6bffec175fc58beb5da7d23f0eadac81963f1271c21c6ca7ff757c8ed577dfa52788810f7289b581f0174eda5b003d088",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/source/polarity=0/reverse=0/lsb=1",
+        "ecgahbdifklmnopqrstuvwxyz/source/polarity=1/reverse=0/lsb=1"
+      ]
+    },
+    {
+      "hex": "88d003b0a5ed74011f589b28f710887852fa7d57edc857f77fcac6211c27f16319c8daeaf0237ddab5be58fc75c1febfb658973fb9ff1364eb5fd6f5257a4f",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=0",
+        "ecgahbdifklmnopqrstuvwxyz/source/polarity=1/reverse=1/lsb=0"
+      ]
+    },
+    {
+      "hex": "110bc00da5b72e80f81ad914ef08111e4a5fbeeab713eaeffe53638438e48fc698135b570fc4be5bad7d1a3fae837ffd6d1ae9fc9dffc826d7fa6bafa45ef2",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=1",
+        "ecgahbdifklmnopqrstuvwxyz/source/polarity=1/reverse=1/lsb=1"
+      ]
+    },
+    {
+      "hex": "0da15b50940528d93700620316e59202807c51c0e58252a4413bf0a8a4ec6739701bc77b9cac011015ec481541a0b5e1eef710eb26e5077fd1485af23ff4ee",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/source/polarity=1/reverse=0/lsb=0",
+        "ecgahbdifklmnopqrstuvwxyz/source/polarity=0/reverse=0/lsb=0"
+      ]
+    },
+    {
+      "hex": "b085da0a29a0149bec0046c068a74940013e8a03a7414a2582dc0f152537e69c0ed8e3de39358008a83712a88205ad8777ef08d764a7e0fe8b125a4ffc2f77",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/source/polarity=1/reverse=0/lsb=1",
+        "ecgahbdifklmnopqrstuvwxyz/source/polarity=0/reverse=0/lsb=1"
+      ]
+    },
+    {
+      "hex": "772ffc4f5a128bfee0a764d708ef7787ad0582a81237a808803539dee3d80e9ce63725150fdc82254a41a7038a3e014049a768c04600ec9b14a0290ada85b0",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/source/polarity=1/reverse=1/lsb=0",
+        "ecgahbdifklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=0"
+      ]
+    },
+    {
+      "hex": "eef43ff25a48d17f07e526eb10f7eee1b5a0411548ec151001ac9c7bc71b703967eca4a8f03b41a45282e5c0517c800292e51603620037d9280594505ba10d",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/source/polarity=1/reverse=1/lsb=1",
+        "ecgahbdifklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=1"
+      ]
+    },
+    {
+      "hex": "fe663b13a4325716d57d98f7bf8d6df5c3dda969fbeafec6273ae9b7ef5985ff5081d13517bfc0e61ef964799bde8ea8a06522fb766b4d164d780a0364a60b",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/paired/polarity=0/reverse=0/lsb=0",
+        "ecgahbdifklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=0"
+      ]
+    },
+    {
+      "hex": "7f66dcc8254cea68abbe19effdb1b6afc3bb9596df577f63e45c97edf79aa1ff0a818bace8fd0367789f269ed97b711505a644df6ed6b268b21e50c02665d0",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/paired/polarity=0/reverse=0/lsb=1",
+        "ecgahbdifklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=1"
+      ]
+    },
+    {
+      "hex": "d06526c0501eb268b2d66edf44a60515717bd99e269f786703fde8ac8b810affa19af7ed975ce4637f57df9695bbc3afb6b1fdef19beab68ea4c25c8dc667f",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/paired/polarity=0/reverse=1/lsb=0",
+        "ecgahbdifklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=0"
+      ]
+    },
+    {
+      "hex": "0ba664030a784d164d6b76fb2265a0a88ede9b7964f91ee6c0bf1735d18150ff8559efb7e93a27c6feeafb69a9ddc3f56d8dbff7987dd5165732a4133b66fe",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/paired/polarity=0/reverse=1/lsb=1",
+        "ecgahbdifklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=1"
+      ]
+    },
+    {
+      "hex": "0199c4ec5bcda8e92a8267084072920a3c22569604150139d8c5164810a67a00af7e2ecae8403f19e1069b86642171575f9add048994b2e9b287f5fc9b59f4",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=0",
+        "ecgahbdifklmnopqrstuvwxyz/paired/polarity=0/reverse=0/lsb=0"
+      ]
+    },
+    {
+      "hex": "80992337dab315975441e610024e49503c446a6920a8809c1ba3681208655e00f57e74531702fc988760d96126848eeafa59bb2091294d974de1af3fd99a2f",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=1",
+        "ecgahbdifklmnopqrstuvwxyz/paired/polarity=0/reverse=0/lsb=1"
+      ]
+    },
+    {
+      "hex": "2f9ad93fafe14d974d299120bb59faea8e842661d9608798fc021753747ef5005e65081268a31b9c80a820696a443c50494e0210e641549715b3da37239980",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=0",
+        "ecgahbdifklmnopqrstuvwxyz/paired/polarity=0/reverse=1/lsb=0"
+      ]
+    },
+    {
+      "hex": "f4599bfcf587b2e9b2948904dd9a5f57712164869b06e1193f40e8ca2e7eaf007aa6104816c5d8390115049656223c0a9272400867822ae9a8cd5becc49901",
+      "names": [
+        "dbifhcegaklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=1",
+        "ecgahbdifklmnopqrstuvwxyz/paired/polarity=0/reverse=1/lsb=1"
+      ]
+    },
+    {
+      "hex": "352062511501a9db3714726313e50e09d234d180e5cad6b2523bf081bdec66d13113d77a28ad299015ba0805528075e37fe5fec136e557bfad487b7a3fe4ae",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/source/polarity=0/reverse=0/lsb=0",
+        "ebifhcdgaklmnopqrstuvwxyz/source/polarity=1/reverse=0/lsb=0"
+      ]
+    },
+    {
+      "hex": "ac04468aa88095dbec284ec6c8a770904b2c8b01a7536b4d4adc0f81bd37668b8cc8eb5e14b59409a85d10a04a01aec7fea77f836ca7eafdb512de5efc2775",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/source/polarity=0/reverse=0/lsb=1",
+        "ebifhcdgaklmnopqrstuvwxyz/source/polarity=1/reverse=0/lsb=1"
+      ]
+    },
+    {
+      "hex": "7527fc5ede12b5fdeaa76c837fa7fec7ae014aa0105da80994b5145eebc88c8b6637bd810fdc4a4d6b53a7018b2c4b9070a7c8c64e28ecdb9580a88a4604ac",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=0",
+        "ebifhcdgaklmnopqrstuvwxyz/source/polarity=1/reverse=1/lsb=0"
+      ]
+    },
+    {
+      "hex": "aee43f7a7b48adbf57e536c1fee57fe37580520508ba159029ad287ad71331d166ecbd81f03b52b2d6cae580d134d2090ee51363721437dba9011551622035",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=1",
+        "ebifhcdgaklmnopqrstuvwxyz/source/polarity=1/reverse=1/lsb=1"
+      ]
+    },
+    {
+      "hex": "cadf9daeeafe5624c8eb8d9cec1af1f62dcb2e7f1a35294dadc40f7e4213992eceec2885d752d66fea45f7faad7f8a1c801a013ec91aa84052b78485c01b51",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/source/polarity=1/reverse=0/lsb=0",
+        "ebifhcdgaklmnopqrstuvwxyz/source/polarity=0/reverse=0/lsb=0"
+      ]
+    },
+    {
+      "hex": "53fbb975577f6a2413d7b13937588f6fb4d374fe58ac94b2b523f07e42c89974733714a1eb4a6bf657a2ef5fb5fe51380158807c935815024aed21a103d88a",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/source/polarity=1/reverse=0/lsb=1",
+        "ebifhcdgaklmnopqrstuvwxyz/source/polarity=0/reverse=0/lsb=1"
+      ]
+    },
+    {
+      "hex": "8ad803a121ed4a021558937c8058013851feb55fefa257f66b4aeba11437737499c8427ef023b5b294ac58fe74d3b46f8f583739b1d713246a7f5775b9fb53",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/source/polarity=1/reverse=1/lsb=0",
+        "ebifhcdgaklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=0"
+      ]
+    },
+    {
+      "hex": "511bc08584b75240a81ac93e011a801c8a7fadfaf745ea6fd652d78528ecce2e9913427e0fc4ad4d29351a7f2ecb2df6f11aec9c8debc82456feeaae9ddfca",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/source/polarity=1/reverse=1/lsb=1",
+        "ebifhcdgaklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=1"
+      ]
+    },
+    {
+      "hex": "1c9184ad8b8da981a6022798c97a9a0a3c3347d30a15010bd8cc24a804e37e838beebe48f5553e096966db966719765d5ecfdd048156bdefb287f5f2c918f4",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/paired/polarity=0/reverse=0/lsb=0",
+        "ebifhcdgaklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=0"
+      ]
+    },
+    {
+      "hex": "388921b5d1b195816540e419935e59503ccce2cb50a880d01b33241520c77ec1d1777d12afaa7c909666db69e6986eba7af3bb20816abdf74de1af4f93182f",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/paired/polarity=0/reverse=0/lsb=1",
+        "ebifhcdgaklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=1"
+      ]
+    },
+    {
+      "hex": "2f18934fafe14df7bd6a8120bbf37aba6e98e669db6696907caaaf127d77d1c17ec7201524331bd080a850cbe2cc3c50595e9319e440658195b1d1b5218938",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/paired/polarity=0/reverse=1/lsb=0",
+        "ebifhcdgaklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=0"
+      ]
+    },
+    {
+      "hex": "f418c9f2f587b2efbd568104ddcf5e5d76196796db6669093e55f548beee8b837ee304a824ccd80b01150ad347333c0a9a7ac9982702a681a98d8bad84911c",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/paired/polarity=0/reverse=1/lsb=1",
+        "ebifhcdgaklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=1"
+      ]
+    },
+    {
+      "hex": "e36e7b527472567e59fdd867368565f5c3ccb82cf5eafef42733db57fb1c817c741141b70aaac1f69699246998e689a2a13022fb7ea942104d780a0d36e70b",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=0",
+        "ebifhcdgaklmnopqrstuvwxyz/paired/polarity=0/reverse=0/lsb=0"
+      ]
+    },
+    {
+      "hex": "c776de4a2e4e6a7e9abf1be66ca1a6afc3331d34af577f2fe4ccdbeadf38813e2e8882ed5055836f6999249619679145850c44df7e954208b21e50b06ce7d0",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=1",
+        "ebifhcdgaklmnopqrstuvwxyz/paired/polarity=0/reverse=0/lsb=1"
+      ]
+    },
+    {
+      "hex": "d0e76cb0501eb20842957edf440c8545916719962499696f835550ed82882e3e8138dfeadbcce42f7f57af341d33c3afa6a16ce61bbf9a7e6a4e2e4ade76c7",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=0",
+        "ebifhcdgaklmnopqrstuvwxyz/paired/polarity=0/reverse=1/lsb=0"
+      ]
+    },
+    {
+      "hex": "0be7360d0a784d1042a97efb2230a1a289e69869249996f6c1aa0ab74111747c811cfb57db3327f4feeaf52cb8ccc3f565853667d8fd597e567274527b6ee3",
+      "names": [
+        "dcgahbeifklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=1",
+        "ebifhcdgaklmnopqrstuvwxyz/paired/polarity=0/reverse=1/lsb=1"
+      ]
+    }
+  ],
+  "distinct_materials": 32,
+  "paths_per_seed": 295,
+  "extra_point_checks": 9472,
+  "prize_hits": [],
+  "aes_trials": 576,
+  "padding_outputs": [
+    {
+      "source": "dbifhcegaklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=0",
+      "form": "raw",
+      "digest": "sha256",
+      "container": "salphaseion-short",
+      "plaintext_hex": "c6180302d736e6f05cae03e67d1792b66b450cb711029a3a0743f85f152648f2a1d06b6e58ac28b6f7951a4f04b6c99920973ca20e352b5e025285245ed52a87669558b59b2e94dc08cae9e78c1c82",
+      "all_text": false
+    },
+    {
+      "source": "dbifhcegaklmnopqrstuvwxyz/source/polarity=0/reverse=1/lsb=1",
+      "form": "sha256hex",
+      "digest": "md5",
+      "container": "salphaseion-short",
+      "plaintext_hex": "48ed29692b0faebd679e494fd80913af9d6332c190229fef0079390e95b86941308228dddeb39b0b0174c0b9c70384af6562001fd4739985ffb6a29b1169f43e167c58c1f5fdb833eb8ce797c7cde9",
+      "all_text": false
+    },
+    {
+      "source": "dbifhcegaklmnopqrstuvwxyz/paired/polarity=1/reverse=1/lsb=1",
+      "form": "sha256hex",
+      "digest": "sha256",
+      "container": "salphaseion-short",
+      "plaintext_hex": "2d8d40674ac38c41d9e224e67810e8c25d9372a1d1260b818d1462ebc6c1e9d903d901de77649d62d43c1afecb902abdf5c87df0344e635163d7cc397074f46136a3b76914aa45b61a47dfead1bdf1",
+      "all_text": false
+    },
+    {
+      "source": "dcgahbeifklmnopqrstuvwxyz/paired/polarity=1/reverse=0/lsb=1",
+      "form": "sha256hex",
+      "digest": "md5",
+      "container": "salphaseion-short",
+      "plaintext_hex": "76ee43db8ccf50f5875feedc15f8113d1aeae67fb72d4e0327e0db03367c881a5c0f38f7f9e54c527c00efe7c65546745cea1ecb817dbdbcf68ec9dc18e6116ba37d278c5e5f0fe08ee8d5002264fb",
+      "all_text": false
+    }
+  ]
+}

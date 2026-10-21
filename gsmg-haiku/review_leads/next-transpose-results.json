@@ -1,0 +1,10 @@
+{
+  "next-transpose": {
+    "unique_answers": 138,
+    "decryptions": 414,
+    "padding_valid": 3,
+    "best_printable": 0.4936708860759494,
+    "structured_candidates": [],
+    "seconds": 0.02
+  }
+}

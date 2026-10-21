@@ -1,0 +1,11 @@
+grid matches scratchpad_grid.txt: True
+spiral decode: gsmg.io/theseedisplanted | trailing bits: 0000
+cell counts: {'B': 15, 'F': 1, 'K': 86, 'W': 85, 'Y': 9}
+B spiral indices (15): [7, 15, 23, 31, 47, 55, 63, 87, 95, 103, 111, 127, 135, 159, 183]
+Y spiral indices (9): [39, 71, 79, 119, 143, 151, 167, 175, 191]
+F spiral indices (1): [163]
+all B/Y on index = 7 mod 8: True
+one B/Y per byte, bytes covered: True
+B=1/Y=0 along spiral: 111101110011110110010010
+URL low bits:         111101110011110110010010
+identical: True

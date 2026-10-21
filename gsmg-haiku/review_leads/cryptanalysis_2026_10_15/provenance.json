@@ -1,0 +1,31 @@
+{
+  "live_fields_match": [
+    true,
+    true
+  ],
+  "public_field_match": true,
+  "date": "2026-10-15",
+  "live_url": "https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32",
+  "public_walkthrough": "https://github.com/puzzlehunt/gsmgio-5btc-puzzle/blob/master/README.md",
+  "research_heads": {
+    "AppleLamps/gsmg-puzzle-kit": "00bc7b003140399d6d9a85aa3f7c91ce70a80a7a",
+    "AppleLamps/gsmg-haiku": "86a3a9bdf30deaa08a923a0084c11e5d31a89e9d"
+  },
+  "source_hashes": {
+    "hint8446-exact.txt": "d13afe77dd6969a438e2020cc3df22e0e7d589ae88196caa9162c9168e25a018",
+    "live-salphaseion.html": "0edef5dbce942c6bb61e16d2d47b7be89c13aa41a866fbcfd206f94a4f2fa15a",
+    "salphaseion-textarea.txt": "26e37652067c549c0eee624356be9ffd40a243901197335a41f91fb6c78e6156",
+    "salphaseion-short.b64": "21f198a9324514f3f06468931cbbc1db6fbec98a64a72567f83bafd2367b52be",
+    "terminal.b64": "a31de4756889a4778ed76c19a4a5007e55dbfc6c65f2f4e865761b115e9a36cb",
+    "public-walkthrough.md": "1b534fdff472a72453019ba030f441f47824cbd5c5d61975d958078b63d7758d",
+    "phase3.2.b64": "644467dc048e41683f3cbb18194b4754a8563d18bead7093473146f1d59e1902",
+    "phase32-exact.bin": "b82afeb86f9e50848220f9b64b744b821400308aea273a1c949b9d2d0e408a34",
+    "cosmic-duality.b64": "08cb582371bb035a033de9949b745c1e0071b4b234ae6e47b8ddc9f30a7de31c",
+    "architect.txt": "56c43a300e28b86bb43b8dcbae74c43c76bde90b3e1190620fb656f2c94b2241",
+    "salphaseion_phase3.html": "18a8369df1364911d5e94fcac341ef85480ff194f4500f509fbed34f19e6308b",
+    "creator-excerpts.txt": "afb0135b9e4c17e5c4e3164047701415576610e4227e775d7abb23a52b684120",
+    "puzzle.png": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830"
+  },
+  "limitations": "Saved original artifact copies corroborated by repository blob hashes; live side-page textareas matched independently. Creator excerpts come from a repository-held Telegram export and were not authenticated against Telegram. Repositories used as source locators and historical records, not authoritative interpretations.",
+  "date_basis": "UTC"
+}

@@ -1,0 +1,13 @@
+{
+  "source_pool_strings": 40114,
+  "unique_passwords": 361002,
+  "generated_passwords": 361026,
+  "aes_trials": 722004,
+  "padding_valid": 2883,
+  "short_lengths": {
+    "79": 2869,
+    "78": 14
+  },
+  "structural_candidates": [],
+  "seconds": 12.57
+}

@@ -1,0 +1,20 @@
+{
+  "mode": "digit-map",
+  "generated_answers": 85440,
+  "unique_answers": 85440,
+  "target_point_comparisons": 157346,
+  "aes_trials": 256320,
+  "padding_valid": 963,
+  "generation": {
+    "digit_maps": 5040,
+    "stream_decodings": 20160,
+    "complete_fixed_board_parses": 17520
+  },
+  "short_plaintext_lengths": {
+    "79": 631,
+    "78": 2
+  },
+  "target_matches": [],
+  "structural_candidates": [],
+  "seconds": 15.34
+}

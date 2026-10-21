@@ -1,0 +1,15 @@
+{
+  "binary_models": 1440,
+  "distinct_byte_objects": 1440,
+  "aes_trials": 8640,
+  "padding_only": 31,
+  "structured_outputs": [],
+  "distinct_scalars": 82704,
+  "prize_hits": [],
+  "controls": [
+    "known phase32 through reconstruct.py",
+    "2-bit decode -> sha256 -> planted AES exact recovery",
+    "secp256k1 generator from scalar 1"
+  ],
+  "scope": "All 24 bijections of b/c/d/e to two-bit values, both bit directions, 7/8-bit grouping at every alignment; raw and SHA256-hex passwords, SHA256 EVP, all three real containers. Scalar tests: all contiguous raw 32-byte windows and their reversals, complete-object SHA256, plus raw windows in padding-valid decrypts."
+}

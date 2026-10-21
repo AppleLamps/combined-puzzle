@@ -1,0 +1,42 @@
+{
+  "source": "Existing local Claude session 09a818a2-bd6d-4f8b-a821-24ce852ddf20 scratchpad; historical WhatsOnChain decoded JSON, copied 2026-10-09 without network fetch",
+  "scope": "Public transaction records only. Saved script hex is available; full serialized transactions, signature validation and chain inclusion proofs were not checked.",
+  "records": [
+    {
+      "file": "bsv_bc7d915bfb67e10c13b8530959727938f07bcb6db1be0a115e6fff430b4887e3.json",
+      "source_filename": "tx_bc7d915bfb67e10c13b8530959727938f07bcb6db1be0a115e6fff430b4887e3.json",
+      "sha256": "da015c780ab06343d54e60bfa91b0e00675bc8ff937f75fa4da9e56edaceafa8",
+      "txid": "bc7d915bfb67e10c13b8530959727938f07bcb6db1be0a115e6fff430b4887e3"
+    },
+    {
+      "file": "bsv_7ea6eb76634c8e3acf54173b00c629b5fd4580ed49e5fb062ef2a809259d45df.json",
+      "source_filename": "tx_7ea6_full.json",
+      "sha256": "9d9fae6a813a6296e90949b713e451755b1c39760cef7a2e20598d0216edb7c0",
+      "txid": "7ea6eb76634c8e3acf54173b00c629b5fd4580ed49e5fb062ef2a809259d45df"
+    },
+    {
+      "file": "bsv_b7611598cfb36ee981d3c8e2c1d320d30c1f632b1d091b3c831cb32bbed6fc65.json",
+      "source_filename": "tx_b761.json",
+      "sha256": "ed5db46a29acdd2e1ec4b5d2ecad3825dde19055195a1e0b118c6e8acfcb5b5c",
+      "txid": "b7611598cfb36ee981d3c8e2c1d320d30c1f632b1d091b3c831cb32bbed6fc65"
+    },
+    {
+      "file": "bsv_44d8935d0b3077ca48ca64900500bd50f2cd1397a557e6257c9ab7989a6eb6f0.json",
+      "source_filename": "tx_44d8.json",
+      "sha256": "8df26c4391dc6d792b73e202928a6c2e55eb041c5337311817096497c4b07b08",
+      "txid": "44d8935d0b3077ca48ca64900500bd50f2cd1397a557e6257c9ab7989a6eb6f0"
+    },
+    {
+      "file": "bsv_816fccdb62fa257b59edf3a55ae9fdd57a9795d6edc2131b12bcbd5e4100a861.json",
+      "source_filename": "tx_816fccdb62fa257b59edf3a55ae9fdd57a9795d6edc2131b12bcbd5e4100a861.json",
+      "sha256": "fdf1cb283b72e328fa7543e98fdbd7e1dfbbf56bd5efcad7e8e0cd11fdd04843",
+      "txid": "816fccdb62fa257b59edf3a55ae9fdd57a9795d6edc2131b12bcbd5e4100a861"
+    },
+    {
+      "file": "bsv_9d56a8be8cc5a6ede7115b8209d29b909b2d6838d1bc863f23a69fc2a5a7a0fd.json",
+      "source_filename": "tx_9d56a8be8cc5a6ede7115b8209d29b909b2d6838d1bc863f23a69fc2a5a7a0fd.json",
+      "sha256": "e15f13b77d05060a3e12cbbe088cb9f3b6ec77c922155da2ea50e7803c7ee80a",
+      "txid": "9d56a8be8cc5a6ede7115b8209d29b909b2d6838d1bc863f23a69fc2a5a7a0fd"
+    }
+  ]
+}

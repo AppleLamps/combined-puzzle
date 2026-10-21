@@ -1,0 +1,80 @@
+{
+  "constraints": {
+    "r1/fwd": {
+      "factors_below_million": [
+        [
+          5,
+          3
+        ],
+        [
+          109,
+          1
+        ],
+        [
+          711089,
+          1
+        ]
+      ],
+      "remaining_decimal_digits": 81,
+      "prime_alphabet_parse": false,
+      "farthest_parse": 0
+    },
+    "r1/rev": {
+      "factors_below_million": [
+        [
+          2,
+          3
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          13,
+          1
+        ]
+      ],
+      "remaining_decimal_digits": 88,
+      "prime_alphabet_parse": false,
+      "farthest_parse": 2
+    },
+    "r2/fwd": {
+      "factors_below_million": [],
+      "remaining_decimal_digits": 570,
+      "prime_alphabet_parse": false,
+      "farthest_parse": 8
+    },
+    "r2/rev": {
+      "factors_below_million": [
+        [
+          2,
+          2
+        ],
+        [
+          77983,
+          1
+        ]
+      ],
+      "remaining_decimal_digits": 565,
+      "prime_alphabet_parse": false,
+      "farthest_parse": 1
+    }
+  },
+  "weighted_exact_stream_matches": [],
+  "weighted-primes": {
+    "unique_answers": 4308,
+    "decryptions": 12924,
+    "padding_valid": 69,
+    "best_printable": 0.5316455696202531,
+    "structured_candidates": [],
+    "seconds": 0.31
+  },
+  "numeric-key": {
+    "unique_answers": 17352,
+    "decryptions": 52056,
+    "padding_valid": 213,
+    "best_printable": 0.569620253164557,
+    "structured_candidates": [],
+    "seconds": 1.81
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "label": "DBBI",
+    "start": 0,
+    "stop": 91,
+    "length": 91,
+    "text": "dbbibfbhccbegbihabebeihbeggegebebbgehhebhhfbabfdhbeffcdbbfcccgbfbeeggecbedcibfbffgigbeeeabe"
+  },
+  {
+    "label": "binary label",
+    "start": 91,
+    "stop": 195,
+    "length": 104,
+    "text": "abbabbababbaaaababbbabaaabbbaabaabbabaababbbbaaaabbbaabbabbbabababbabbababbabbaaabbabaababbbaabbabbbabaa"
+  },
+  {
+    "label": "FAED",
+    "start": 195,
+    "stop": 765,
+    "length": 570,
+    "text": "faedggeedfcbdabhhggcadcfeddgfdgbgigaaedggiafaecghggcdaihehahbahigceifgbfgefgaifabifagaegeacgbbeagfggeeggafbacgfcdbeiffaafcidahgdeefghhcggaegdebhhegeghcegadfbdiagefcicggifdcgaaggfbigaicfbhecaecbceiaicebgbgiecdeggfgegaedggfiiciiififhggcgfgdcdggefcbeeigefibgibggghhfbcgifdehedfdagicdbhicgaiedaehahghhcihdghfhbiicecbiichihiiigiddgehhdfdchcbafgfbhaheagegecafehgcfggggcagfhhghbaihidiehhfdeggdgcihggggghadahigigbgecgedfcdggaccdehiicigfbffhggaeidbbeibbeiifdgfdhieeeieeecifdgdahdiggfhegfiaffiggbcbcehceabfbedbiibfbfdedeehgigfaaiggagbeiichiedifbehgbccahhbiibibbibdcbahaidhfahiihic"
+  },
+  {
+    "label": "separator",
+    "start": 765,
+    "stop": 766,
+    "length": 1,
+    "text": "z"
+  },
+  {
+    "label": "decimal label 1",
+    "start": 766,
+    "stop": 829,
+    "length": 63,
+    "text": "agdafaoaheiecggchgicbbhcgbehcfcoabicfdhhcdbbcagbdaiobbgbeadedde"
+  },
+  {
+    "label": "separator",
+    "start": 829,
+    "stop": 830,
+    "length": 1,
+    "text": "z"
+  },
+  {
+    "label": "decimal label 2",
+    "start": 830,
+    "stop": 859,
+    "length": 29,
+    "text": "cfobfdhgdobdgooiigdocdaoofidh"
+  },
+  {
+    "label": "separator",
+    "start": 859,
+    "stop": 860,
+    "length": 1,
+    "text": "z"
+  },
+  {
+    "label": "literal instruction",
+    "start": 860,
+    "stop": 895,
+    "length": 35,
+    "text": "shabefourfirsthintisyourlastcommand"
+  },
+  {
+    "label": "short container first half",
+    "start": 895,
+    "stop": 959,
+    "length": 64,
+    "text": "U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z"
+  },
+  {
+    "label": "binary ENTER",
+    "start": 959,
+    "stop": 999,
+    "length": 40,
+    "text": "abbaabababbabbbaabbbabaaabbaabababbbaaba"
+  },
+  {
+    "label": "short container second half",
+    "start": 999,
+    "stop": 1063,
+    "length": 64,
+    "text": "QvX0t8v3jPB4okpspxebRi6sE1BMl5HI8Rku+KejUqTvdWOX6nQjSpepXwGuN/jJ"
+  },
+  {
+    "label": "literal ending",
+    "start": 1063,
+    "stop": 1075,
+    "length": 12,
+    "text": "shabefanstoo"
+  }
+]

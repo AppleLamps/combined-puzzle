@@ -1,0 +1,4605 @@
+{
+  "models": [
+    {
+      "alphabet": "natural25",
+      "base": 0,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 0,
+      "ifindoubt_outputs": [],
+      "top": [
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.663109774410461,
+          "text": "ifindocfngbeuytnqkvyyxwaktskxsgbxyooqxiveptaxegigeffbvufslhiiiymhncuskcllxsetkmtesphtwamrkzleskeykhkyiawobbuilhutbokcustdoqbsoqxaemvulodshcdsummqsflrbyomttrzdabsyhoacptuivagbyhuxtubkkenyeaetfswnyfmaevrnctcdhmvavgdenrcwkftzulouisuzdposwvfmwxrcattiveynsfstviynhkoblwoakllxlituulawteeq"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.7243608205660985,
+          "text": "ifindohfndbefytmqkzyypwadtsnxsebxwoodxinepraxtgiyefgbvvfsthibiyfhnmustclwxsctkftewphdwayrkelevkevkhvyihwoobuglhgtbvkcestfoqhsoxxahmvxloishadsemmcsfirbhomctredacsymoaopteivigbnhuktumkkznypaemfscnybmatvrbctfdhuvacgdanrxwkrtzxloiiswzdtosuvfuwxmcawtiaeyasfwtvpyntkorlwfakelxkitqulswtaeq"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              1,
+              5,
+              17
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.730695796336776,
+          "text": "ifindocfngreuttnvkvdyxmakyskhsgmxyyoqhivuptlxemiguffwvuaslsiitymnnczskhllssedkmyesuhtwamgkzlesueyzhktiamobruivhuibozcustddqbnoqnaewvuvodshcosummqhflbbytmtyrzdabnyhtacktuivarbynuxiubkkenyeaetqswhyfgaearnhtcohmfavwdehrcwkfozuvouosupdptswffmgxrcatdiveyncfsyvitnheoblwoqklqxlotuplamtezq"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.741140024282874,
+          "text": "ifindohfndgefotmakziypbaddsnssewxwiodsinkprvxtriykfgrvvvstcibdyfsnmestnlwnscokfdewzhdwaywkeleveevphvoihboogugfhgybvpcestftqhhoxcahgvxfoishaysemmcxfimbhymcdredachymyaoeteivibbnsukyumkkznypaemasccybbatfrbntfyhuqacmdacrxwkrizxfoitswedtysuqfurxmcawoiaeyanfwdvpontzorlwffkevxkttqklsbtauq"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.743706002255574,
+          "text": "ifindohqntqeaftrdkewyeaaiwsxispcxgpoodicipbbxyzioifbovqssddimzyllnrcsyllresnuklwebnhdraolkevefvelyhqfixfodvurmhwnbltcentvnqcpongasxvhwoichlesegmsmftsbnwmhbreoaxeyrmaiwtedvtcbsauznumekzcypvewwsxkywoayorgvtqpherasqdvprxmkmazhwoobsmydymsewfesxmsageiapylyfbrvkvnororqwvekkoxpwtlwlhatvgq"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.7462170808565105,
+          "text": "ifindocfnwbepytsqkayynwaptsuxsrbxiooaxilepdaxkgiwefabvpfsvhitiyrhnhuspclfxsptkrtexphtwabrkzleckeokheyiqworbutlhktbdkcusttoqwsofxapmvelodshndsummfsfvrbdomytrzdawsynoaxptuivlgbdhuntubkkenyeaedfsrnyamakvrsctndhwvalgdznrcwkatzeloziskzduosgvfwwxrcadtiveyxsfxtvdynckoblwdakqlxqitpulqwtzeq"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              2,
+              9,
+              10
+            ]
+          ],
+          "score": -4.747629874409707,
+          "text": "ifindonlnqtzmudqezisowivcchafxnecertbqourkzdcnlyfracnfrrcmvoegdercathhbactclwpecufixogaayekqeiskhbcbuteyiqipponiawsmxpctxlliiyuzvvualttoxhigxpwmezarugwnbrsgkiaydivhquldptvbuggmkmapwukuhyzlepdxddisslnzgvgitmnnifziyrtbsrkxpklttcnhowychhcylnkcgxakbofkyyllfnlqpxzfygawnnedunoxigavziorla"
+        },
+        {
+          "key": [
+            [
+              15,
+              9,
+              11
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.751714285470992,
+          "text": "ifindoslnxyecktkpkhcyyoarnstasazxsmoeliwwpnyxwvihwficvxgskqinbytbnedsmmltisyrktneethygaxdkpqebnepghskiwdonoucihffbkrczctkqquyomeaopvdootxhwbszwmbefepbaxmvcrpiaetyusalatztvzpbqwuifugukphyklexysptythawkrertmghldarodsirnrkoezdoomxsabdbssqtflexbxacwilkybffexvbenqvowawpsksexhhthqlbotsaq"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.759795530637226,
+          "text": "ifindohfnygeqotbakpiykbatdsssskwxbioisihkpwvxiritkfrrvfvsycigdyvsnbesinlgnshokvdemzhdwatwkeleaeeqphfoicboigumfhbybqpcestatqshoscangvcfoishfysemmxxfombxymsdredanhybyayeteivobbcsueyumkkznypaerasncymbaifrrntlyhzqaxmdlcrxwkbizcfoytsrediyszqfzrxmcaboiaeyfnfmdvzondzorlwafkuvxzttaklnbtluq"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.769129556380462,
+          "text": "ifindocfnggeuotnakviyxbakdskssgwxyioqsivkptvxerigkffrvuvslciidymsncesknllnseokmdeszhtwamwkzleseeyphkoiabobguifhuybopcustdtqbhoqcaegvufodshcysummqxflmbyymtdrzdabhyhyacetuivabbysuxyubkkenyeaetaswcyfbaefrnntcyhmqavmdecrcwkfizufoutsuedpyswqfmrxrcatoiveynnfsdvionhzoblwofklvxlttuklabteuq"
+        }
+      ]
+    },
+    {
+      "alphabet": "natural25",
+      "base": 1,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              18,
+              22,
+              17
+            ],
+            [
+              0,
+              19,
+              20
+            ],
+            [
+              17,
+              16,
+              16
+            ]
+          ],
+          "text": "ifindoubtnrqomprrngqcmqfxwxdhgagrvngnmmwzqsvgvysvylfszvuenggqhbpfnvcxmsnrmkembqpnlsskztswfxuishrtwfywpisfnwfnvgwgqigqehosslqlzkwfhdgbugvoowimitoublbcwocsycslmialueisrnzlmogxghoxyiaptducyxzohqbqvzahuupsducmirenbynfhszvfihqkbugnwsnvfswhpcrvgbsvovnmqudfpbztsznpgnzvniuladdsmqxelzosqeqz",
+          "score": -5.268200640518066
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              18,
+              23,
+              20
+            ],
+            [
+              0,
+              3,
+              22
+            ],
+            [
+              17,
+              15,
+              13
+            ]
+          ],
+          "score": -4.810638065413342,
+          "text": "ifindohtflysgywaxdodvwfvcrsfaeskzpinmcnpmxeduswvfoahlxgttwnxpyceqxaxsxrbsviaafpfofxxyaevycpxrymlsngwdruruldhuizokyccwpxdxnfdcmumvqayvqnifaomuehserarngrepmueusztxblnmpubznzbcmruogfsbbrucyenguypysrxfxhgeasfyrehpypgpbofxygxauvqncgcdppcmxxziseermpudnfeotgovhwfriuemwwhhcnddstdqmyspbpwth"
+        },
+        {
+          "key": [
+            [
+              18,
+              12,
+              12
+            ],
+            [
+              0,
+              23,
+              7
+            ],
+            [
+              17,
+              24,
+              15
+            ]
+          ],
+          "score": -4.812918467582444,
+          "text": "ifindopdxhiziiibckmtimflxrniqxfzcfoixhdrwkxtcamtvoqlaqlosxsdadtpqhvxnbmagqsuvualelxcuffniecnuhgpdsxtoyymthopsynbzbthsextsnalndkmlclvmviqqsbbxycgurqbnriprtewvxfvhouhqmeivsagcrszutqpurzucyccunoxlcofvvprwihdrgnzzaobistbaozhaemvingnckismnkkfauccrffidqeyarfpclpmnbpdlrrpneddsrtdkofdwykil"
+        },
+        {
+          "key": [
+            [
+              18,
+              12,
+              12
+            ],
+            [
+              0,
+              24,
+              10
+            ],
+            [
+              17,
+              21,
+              6
+            ]
+          ],
+          "score": -4.813636501632906,
+          "text": "ifindoprihgfibebmhmanmqfxwxisrfrbfhbxggrpfxfraicvyllcklzkxbbacwpfnvcxbxsgrpurgakhlssuuonmvcethnwdratmeyxlhmvsfrbratblehossllapkwfctwmpbqddbtwyytublbcwishtshvgdvakuoxmcpvgigxgsistyqudoucyckynamllpfsepehienrtbzcroslsnuaqthqkmpbnwscalswhksgarmcqifhgqudaerpyxpsubcplsopaqddsrahkvkdxvkak"
+        },
+        {
+          "key": [
+            [
+              18,
+              23,
+              20
+            ],
+            [
+              0,
+              0,
+              13
+            ],
+            [
+              17,
+              10,
+              23
+            ]
+          ],
+          "score": -4.814829843432544,
+          "text": "ifindoheqlecgugaviohlwavcbsfuusippbsmfsphhesksflfiahenglowlcpbhevxahsxiwssdanapitfnxyikvpnpwgytfsqmwkbuiplksunpoiocvbpsdxxfdowugvqbivisirlolkeunemarsgrvzmfpuqettmlugpamzvebsmrstggcbqgucyerwuneytbxpnhspabvyfuhfipikbglxswxfuviscmcdrkcgxxatsourpuugsfkotsyvurfyduqwwtchoxddsthfmchpykwsx"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              0,
+              15,
+              8
+            ],
+            [
+              17,
+              15,
+              13
+            ]
+          ],
+          "score": -4.817152808166891,
+          "text": "ifindonzfqzsmpwqfdinvwavcbsazenozemnbqnucxzxunlvfiackxratmvxemcevxahshybchilcfetofnxoteakckbriilhagbereyuqehpszioysfwpsdxxfiimugvvwyltnomaiqupksemarsgwqpraekazyobvkmuvbpfzbsmgcombswvrucyzwgpspdorsuxnnevgftlenayzyprrfsxgxfultncmcogpcgxcvintegzpkrnfkoynofkwqoizlmgihninddsonqghszoprxh"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              0,
+              3,
+              22
+            ],
+            [
+              17,
+              15,
+              13
+            ]
+          ],
+          "score": -4.817387023143157,
+          "text": "ifindontfqysmywqxdidvwfvcrsaaenkzeinbcnumxzdunwvfoaclxrttmnxeyceqxaxshrbcvilafefofxxoaeayckxrimlhngbdreruqdhpizikyscwpxdxnficmumvvaylqnofaimuphserarngwepruekszyxbvnmuubpnzbcmguomfswbrucyzngpypdsrsfxngevsftrenpyzgprofsygxaulqncgcoppcmxczineegmpkdnfeoygofhwqrizemgwhncnddsodqgyszbprth"
+        },
+        {
+          "key": [
+            [
+              18,
+              12,
+              12
+            ],
+            [
+              0,
+              24,
+              10
+            ],
+            [
+              17,
+              23,
+              12
+            ]
+          ],
+          "score": -4.820348633119076,
+          "text": "ifindoprkhgbibqbmamabmqaxwhisvfrlfhpxgerprxfqaiwvyflcolzgxbuacupfsvchbxpgrruryakflshuurnmbcechnidrytmayxhhmrsffbrktbyehissvlaqkwactnmppqdebtfyylubfbcbisotsivgwvavuokmclvgmgxwsiltygudnucycknnalllffsypeiiegrtazcxosssnhaqxhqpmppnwxcasswcksxarfcqgfhequiaespyppsgbcqlsqparddsrawkvydxxkat"
+        },
+        {
+          "key": [
+            [
+              18,
+              18,
+              5
+            ],
+            [
+              0,
+              7,
+              9
+            ],
+            [
+              17,
+              24,
+              15
+            ]
+          ],
+          "score": -4.828137721757122,
+          "text": "ifindosvxvqzrvifikdgiwvlcmnvixhccukirydzikubchktfdqxtqbnsbyduuteahasnslanzsvkuubefccdgffleequtlpxixgvypltvvpkmndcbhdspntxhaoedublahvarithsdexzrgegqrxrbrrwwwzdfduofmqzmietabhrwfurnprzzucyuqukwxizontvsiwqfdopnsbakvigpbngzxlearicrnydicbnhgfhscwhfzzdfpydifqrlaqnegdrarseeddsigdbbfkfymml"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              0,
+              0,
+              13
+            ],
+            [
+              17,
+              15,
+              13
+            ]
+          ],
+          "score": -4.83500118235466,
+          "text": "ifindonefqesmuwqvdihvwavcbsauenizebnbfnuhxzsunfvfiacexrltmlxebcevxahshibcsilnfeiofnxoieapckwritlhqgbkreiuqkhpnziiysvwpsdxxfiomugvvbylinorailupusemarsgwvprfekqzytbvumuabpvzbsmgsomgswqrucyzrgpnpdtrspxnsevbftfenfyziprgfssgxfulincmcorpcgxcainoegppkgnfkoysofuwqyizqmgthnonddsohqgcszyprsh"
+        },
+        {
+          "key": [
+            [
+              18,
+              6,
+              19
+            ],
+            [
+              0,
+              2,
+              19
+            ],
+            [
+              17,
+              24,
+              15
+            ]
+          ],
+          "score": -4.842250620992933,
+          "text": "ifindomfxuazafixokuwibvlsmnwyxdscrpiddditkarctztldqyiquhstddgztzahqsnlfaausteuggeqcclmfuveafuwfpkoxffyhftufpabnzsbeisuntnhahpdzblesvxwinsszuxxmgkgqmxrqbrqgwrifneoigqywimyamhroluvxpxpzucylfuqmxnkoyivmtwbvduengmasqidubowzslexwixrngyihbnmrfthcinfmedapyxtfomldlnyrdevrmpeddszwdsrfxayhbl"
+        }
+      ]
+    },
+    {
+      "alphabet": "dbbi25",
+      "base": 0,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              17,
+              6,
+              9
+            ],
+            [
+              22,
+              10,
+              18
+            ],
+            [
+              15,
+              0,
+              7
+            ]
+          ],
+          "text": "ifindoubtagoynyppgeklmdxekcecahqzeucroixfqbeqsbnxipfaauzsizsvzcaugqyqrnpwpdclbchhenrmlzbfsunmzwkxqhogakdzieoylbfzhlgslpdlpvrbcoawlqdzokxqueniqotyorzxlxdiznggyppnhnttksnacifslikdmywwpktabipzvqbnghcxxwlvrgqpdsruxhbusywlilmqszokoyrsikytwzxnwzqpwiupruuychduiyippavhryzssdrptfmdtseahpqac",
+          "score": -5.223788723000744
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              3,
+              7,
+              1
+            ],
+            [
+              3,
+              6,
+              0
+            ],
+            [
+              4,
+              24,
+              15
+            ]
+          ],
+          "score": -4.694094227366672,
+          "text": "ifindoodzfitfstaoolteutpcoeckknardtmditcwgkzgfgbxipvqryaopbcoineikekzcedqoeeedsesnolrquqxfaexhbhfryaiostrkfeskgfzhmfrtgsoisupifyedclyslteyyulpsuftmnvxwhfpispvgrhitunzgxfdglpfszlhbfzietabbtdwmdixpmyrgrkwnlvbmnlbkeprixurbuakyslfobgsutobpnxdamiupigauuyoxsdfsradlnisuyfypymmarvmvoahprhh"
+        },
+        {
+          "key": [
+            [
+              3,
+              7,
+              1
+            ],
+            [
+              3,
+              6,
+              0
+            ],
+            [
+              19,
+              14,
+              20
+            ]
+          ],
+          "score": -4.696012590990517,
+          "text": "ifindoodkfitfstaoyltrutkcorckunamdtwdifcwikzifgrxipvqwyaypbloigeihekpcelqoreeqsexnodrquqxoaeghbhfroaiostmkfmsksfzhmfetgnoinupxfyedclysvteoyuqpshftmnvswhopispvnrhgtuizgxfdglpaszlhbyzibtabbtlwmqixpmyegrzwnlvbbnlrkeprigurmuahysvfobgsutobpnxdawiukigfuuyoxndfgrallngsuofyhymrarvmvaahprhu"
+        },
+        {
+          "key": [
+            [
+              9,
+              3,
+              8
+            ],
+            [
+              3,
+              6,
+              0
+            ],
+            [
+              7,
+              22,
+              6
+            ]
+          ],
+          "score": -4.70194450617656,
+          "text": "ifindondmyifasagodutyntykoakkmcadztypidywrizrkghxipiqggacrberibpioskszexpotieyuetooywqkkxdieukbuhrmfiyltdefsrkufzhgfpmgbbimgpwtybqccisnkeecubtswatblvwdhchinmvtahyuudpgsydsgppgzcgbsnidtabctismysxknyhornbndwbzflkpehvizaranatisntowxspoomhnskafduovgsuuyexbbfclaxinyouwkysvmxorlpviahpnhi"
+        },
+        {
+          "key": [
+            [
+              21,
+              20,
+              22
+            ],
+            [
+              18,
+              21,
+              5
+            ],
+            [
+              24,
+              19,
+              5
+            ]
+          ],
+          "score": -4.703182523636793,
+          "text": "ifindollhoittstcytnfmyozsymsuprfbxfrsnykrsouswxwxiprvedttvevxxxcxupzunrcnymuwvymgqfcequxgaqriubheettiowobdawpunfzhztmxiiixiaknyyevclliqrwtuzdbizttmeqgapakiscdxskswkgugxodgbutnzlowooxrtabofckbvxxppomdehmnlyreldwzepfnimbeyfuliqyobisufobknxitrwpzeituuyssiftnytcmsscktwokprbyrvvqyahphuz"
+        },
+        {
+          "key": [
+            [
+              21,
+              20,
+              22
+            ],
+            [
+              3,
+              6,
+              0
+            ],
+            [
+              9,
+              4,
+              0
+            ]
+          ],
+          "score": -4.7163307259677465,
+          "text": "ifindolduoittstcoantbythsobskhraextesiokwxozxwgexiprqbdaavbqxiicizpkhnevnobuecyeiqoqequxxyqesubherftiowtedfrpkifzhzfwxggiigapsyyevcllscrefuuvbspttmevnahykiscvsshnwusugxodgbponzlobtoiwtabotvkmcxxppywdrpmnlybrllezepfismrwyazlscyobisufobknxiaewuhegyuuysxgffxyavmnncufwyupmwyrvvvfahphhk"
+        },
+        {
+          "key": [
+            [
+              7,
+              21,
+              14
+            ],
+            [
+              3,
+              6,
+              0
+            ],
+            [
+              4,
+              24,
+              15
+            ]
+          ],
+          "score": -4.717535468820705,
+          "text": "ifindohdzaitystzoorteetproerkkzarrtmbitswgwzgggbxipaqrhaogbcqinfikckzbedeoevedleswolmqumxfhexzbhnryoiohtrgfeakgfzhdfrcgscismpioyelclkslneymuldsuytmuvxghfzisnvguhiiunkgxadgapfizlebfrietabntdlmdnxpvyrmrkrnlhbmelbhepiixvrbeakksloobssuyobznxeamkuppgauuydxskfsnadonieuygypwmmfrvovoahpchh"
+        },
+        {
+          "key": [
+            [
+              20,
+              4,
+              0
+            ],
+            [
+              24,
+              17,
+              12
+            ],
+            [
+              4,
+              24,
+              15
+            ]
+          ],
+          "score": -4.721359154325023,
+          "text": "ifindoekztxtoxtbxoynevepaieaykowrtimybtekglngvfbxipuirmiofackdnnckalzoldaxefsdeosuhlbvuybfrlxpehlgyyxoteroceltgfzhapruvshlslxiaoecvlbelcnyxelseuoymyoxztfusstxglbidlnhxxtvgprfxpldzfqletabhgdtxdgnptprznkeslismzrbumpurxsqbvwkbelafbnguaabuixoimonpfvauuyplsguszndhkipcyvupiomtwvgtoahpoqh"
+        },
+        {
+          "key": [
+            [
+              9,
+              3,
+              8
+            ],
+            [
+              3,
+              6,
+              0
+            ],
+            [
+              4,
+              24,
+              15
+            ]
+          ],
+          "score": -4.725193882079857,
+          "text": "ifindondzyitastgooutentpkoekkkcarztmpitywgizgkgbxipiqrgaorbcrinpikskzzedpoeieduesoolwqukxfiexkbhhryfioltreferkgfzhgfrmgsbisgpityeqclislkeycultsuatmlvxdhfhismvgahiuunpgxydggpfgzlgbfnietabctdsmdsxpnyrorkbnlwbmflbpepvixarbnakisltobxsuoobhnxkamdupvgauuyexsbfsladiniouykypvmmorvpvoahpnhh"
+        },
+        {
+          "key": [
+            [
+              3,
+              7,
+              1
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              4,
+              24,
+              15
+            ]
+          ],
+          "score": -4.72617850270607,
+          "text": "ifindoonzfntfgtadolleuipcqecmknsrdcmdktccgkagflbxipverydopicorneekeizcfdqdeehdsgsnblrcuqufafxhrhfhyanosirkpeswgfzhmbrtrsowsuaifteddlyultpyyllpuufamnuxwefpxspegrditgnzixflgldfsulhqfzwetabbvdwkdispmmrgukwilvpmntbkwprhxuybuskyulfabgnutybpgxddmitpirauuyoesdrsrcdlaissyfbpyxmaevmkoahprih"
+        },
+        {
+          "key": [
+            [
+              10,
+              19,
+              5
+            ],
+            [
+              3,
+              6,
+              0
+            ],
+            [
+              7,
+              22,
+              6
+            ]
+          ],
+          "score": -4.726840262817736,
+          "text": "ifindordmtifosamodatyqtytoatkmaadftyaidbwrczrlghxipzqgwacabehibgioyksyextotteymetkoybqkaxdbeupbudrmyiyotdtfsvkufzhyfppgbzimcpwaybcccmsnveeiubiswotbtvwkhcuinyvtqhyqudhgstdsuppxzcvbslidtabptiamygxkayhprnendsbzplkuehhiziraqatmsnaownspaomunsyafauoygsuuykxbxfckaxknyhuwlysgmxtrliviahpfhi"
+        }
+      ]
+    },
+    {
+      "alphabet": "dbbi25",
+      "base": 1,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              20,
+              7,
+              5
+            ],
+            [
+              9,
+              14,
+              2
+            ],
+            [
+              13,
+              16,
+              18
+            ]
+          ],
+          "text": "ifindoubtvcccqlzhsldzecsqvzcbsqkdvdhvhrursrrcmirxipafohpiqbdymfnlwlfldyaqqhdqwhdooqfusivhwpsefnyrralvlckldyeeshcgmvxifmoaeorbccbtwkbkfubeagrtswdvbtdbbopaaybvdxblweuxoabqapfslikdrtbbkplbyoadvqbisudisytipzanslanutgttinivgevnkfucrosikcwaaaeclkclavtgoviomfgheyydtlpombbfuiaucugsoqviedyq",
+          "score": -4.999792812389385
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              22,
+              22,
+              4
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              13,
+              16,
+              18
+            ]
+          ],
+          "score": -4.633039104660827,
+          "text": "ifindovntgnciglldsvlzaislqzqmstsddchdkrtcsoacplrxipeeocdieidfrfyewuilcfaddhzhwrgopbficiluwqfesryzhagnltilepevwhizmkbiaroywofacittidbquuhpamltludgatoubleasxbrexrdwpgxsibxlpedlnudtqbtwpxaycvdzkbisuumspuiniapplhtuswtdhndygasnquuiaoinknyasgevdkataorgxuiaefzrelcdmapksbububxuxegfkqihepiq"
+        },
+        {
+          "key": [
+            [
+              14,
+              12,
+              8
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              10,
+              6,
+              7
+            ]
+          ],
+          "score": -4.6619865712570565,
+          "text": "ifindornhknnpgirdoclkdipcqudmiesacckckwxcedaxilzxipperbdosibarahesaiklfoldpfhltgvlbpvcqdummfsmrishwunirifgpxpwapzffbeortowfcanptlfdsrulsprvlnouykadmuuxedexdgefedmgglbivulrudtxullqydwbzacnvnakvisutmbdufvimepgvtdwwgxhpayldskrulpacnnukylegcldzwtrrrcmubfeyertncgpandsgxbscxaheukkmzhaaiu"
+        },
+        {
+          "key": [
+            [
+              14,
+              12,
+              8
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              13,
+              16,
+              18
+            ]
+          ],
+          "score": -4.666392472542992,
+          "text": "ifindorntkncpglrdsclzdiscqzdmsesdcchckrxcsdacilrxippeobdisidarfhewaillfaldhfhwtgolbfvciduwmfemryshaunlrilgpepwhpzmfbioroowocacpttfdbruuspavltoudkatmubxeaexbgexedwggxbibulpudlxudlqbdwpzaynvdakbisutmsduiviaeplvtuwwtxhnaygdsnruupaonnkkyaegeldkwtarrgmuifeferencdpapdsbxbucxuhegkkqzheaiq"
+        },
+        {
+          "key": [
+            [
+              22,
+              22,
+              4
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              10,
+              6,
+              7
+            ]
+          ],
+          "score": -4.672357264938227,
+          "text": "ifindovnhgnnigildovlkaiplquqmitsadckdkwtceoaxplzxipeercdoeibfrayesuikcfoddpzhlrgvpbpicqlumqfssrizhwgnitifepxvwaizfkbeartywffanitlidsqulhprmlnluygadouuledsxdrefrdmpglsivxlredtnultqytwbxaccvnzkvisuumbpufnimppghtdswgdhpdylaskquliacinunylsgcvdzatrorcxubaeyzrtlcgmanksgubsbxaxeufkmihapiu"
+        },
+        {
+          "key": [
+            [
+              9,
+              12,
+              23
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              13,
+              16,
+              18
+            ]
+          ],
+          "score": -4.680116239048637,
+          "text": "ifindobnthnckglbdsclzviscqzdmsmsdcchckrncsvacglrxipueomdiiidarfpewyillfaldhthwogovbfdciduwwfebryxhapnlwilspehwhkzmtbioroowodackttodbbuuxpallttudhatrubseawxbsexedwngxribplpzdlxudcqbvwpuaygvdykbisuamsluidiabplctumwtshnoygvsnbuukaonnkhyawgeldkbtawrgbuifefbregcduaplsbibuvxuzegukquheyiq"
+        },
+        {
+          "key": [
+            [
+              19,
+              12,
+              18
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              13,
+              16,
+              18
+            ]
+          ],
+          "score": -4.681512951826877,
+          "text": "ifindoentpncugledsclzciscqzdmsbsdcchckrgcscacxlrxipkeordigidarfuewtillfaldhohwygodbfqciduwbfewrynhaznlmilxpezwhuzmobioroowolacutttdbeuunpacltaudpateubiearxbxexedwigxmibzlppdlxudqqbcwphaysvdtkbisufmsquiqiamplltuewtihnfygcsneuuuaonnkpyargeldkrtamrgwuifefmrescdkapqsbsbuqxukegzkqhhetiq"
+        },
+        {
+          "key": [
+            [
+              14,
+              12,
+              8
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              9,
+              11,
+              20
+            ]
+          ],
+          "score": -4.69545489046313,
+          "text": "ifindornrknepgrrdvclhdiocqkdmxesuccuckexcudamillxippesbddsitarthezaislfyldkfhytgplbbvcmdurmfhmrvshsunrrikgpupwbpzsfbzorfowacaeptzfdprugspivlloupkaumudxepexagecedrggebituldudhxuclqxdwczaznvraktisutmhduvvinepevtiwwvxhyaymdsarugpaunnpkyuegoldhwtirrwmukfeoerxncbpafdskxbacxwheykktzhsain"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              22
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              13,
+              16,
+              18
+            ]
+          ],
+          "score": -4.700244237358342,
+          "text": "ifindointrnceglndsqlzxisdqzlmspsdlchlkrmcssacllrxipseonditidorfdewgilqfavdhshwdgowbfaciquwxfeqrychamnlkilypetwhezmgbitrofwonacettudbguudpapltmudrathubpeacxboexwdwvgxvibwlpidlgudgqbnwpeayzvdikbisuimsbuiyiafplbtulwtzhnmygxsnguueaoxnkmyacgeddkhtaprgluiyeftreucdnapesbvbuuxuregckqbheniq"
+        },
+        {
+          "key": [
+            [
+              14,
+              12,
+              8
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              14,
+              11,
+              5
+            ]
+          ],
+          "score": -4.716949682224468,
+          "text": "ifindorneknmpgwrdlclhditcqkdmxespccuckexchdarilcxippenbdqsiaarthepaiilfyldkfhatgulbrvcedurmfumrcshnunwrihgpkpwmpzxfbkorfowacampthfdhruxspxvlvoukkazmuvxeuextgevedrggbbifulcudzxuclqidwlzahnvwakfisutmpdulvigepmvtswwcxhfayedsoruxpaznnpkyzegyldhwtxrrrmuufeoerincepaydszxbfcxehefkkazhxaix"
+        },
+        {
+          "key": [
+            [
+              18,
+              17,
+              6
+            ],
+            [
+              6,
+              4,
+              16
+            ],
+            [
+              10,
+              6,
+              7
+            ]
+          ],
+          "score": -4.720613704345072,
+          "text": "ifindotnhannagiododlkhipvquvminsaqckqkwvceuaxalzxiplerfdozibtrabesbikvfocdpbhlsgvnbpmcqcumofspriahwonisifupxswaazfebeyrttwfhanatlqdsfulyprflnzuyaadnuuredzxdzefmdmyglkivalrddtsulpqykwbyacwvnrkvisuembgufrimlpgntduwgmhphylhskfulaacgnuyylzgcqdzitrirchubteyqrtmcgdanssgabsfxaoeuekmohamiu"
+        }
+      ]
+    },
+    {
+      "alphabet": "natural26",
+      "base": 0,
+      "rows": [
+        26,
+        26,
+        26
+      ],
+      "keys": 8112,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              2,
+              14,
+              25
+            ],
+            [
+              9,
+              25,
+              21
+            ],
+            [
+              22,
+              11,
+              4
+            ]
+          ],
+          "text": "ifindoubtolslnvfilikqxcvpgcvcoiohnlgkarscwfuzkyrkcdocsuiewcajmoxfouxsqeehsiexsgzyioxsracurllqnrnwhucmxyoowljaqncntlhmncjzcfqjlqswvxdidhcdzqwmhlqozhxacfplotjcgvpzjtlfdrjlpzjiezdycfyyrqvuukgwiskvqxsuyposffwqbsuxxyuomjrtixcthidhufiiuaedudojyqvswywukieytgkhyqtiisepbkywkzlhsefynskxuabuu",
+          "score": -5.352907728188696
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              4,
+              20,
+              11
+            ],
+            [
+              13,
+              11,
+              19
+            ],
+            [
+              4,
+              9,
+              0
+            ]
+          ],
+          "score": -4.823984544065337,
+          "text": "ifindokhfolshfftkpecajardighakqenrtwuufgeazibkyrguniqukoqesgnuezjwstkksgnegudeidgksfixmeyzhdahfpctseqfaswsdtcuverbvbafmdfoditfswerpnanbuntgcybzscbllcgpjzufhekdthzpdpnlxjlrnqulbugnoyrqhsqoomekuhotomilgcvligheizbegmqrhdclgbxanbargiuaujglepwmnyiwwukkigtgkbmshkmeclxciugrjdkwpsfcelwedyc"
+        },
+        {
+          "key": [
+            [
+              4,
+              20,
+              11
+            ],
+            [
+              25,
+              8,
+              13
+            ],
+            [
+              10,
+              1,
+              10
+            ]
+          ],
+          "score": -4.84896675364563,
+          "text": "ifindokmbolshuttdfeeojhbdowhuuqnlrriupjgkqzljklrgjbigckgmeoensqzvcshekionoyuvaipmkrlipiexfhfohixcdkeplaecsshctbeqhvjefdfflvikhsikrebaeduevguubpacubliwpeduczejjtslpsdngbjmlnoglveglayrqhmaomyemihvdoowliqvdegzaisreqeqctdxpgmjaedabyiuaubclnnwnhysowukkumtgkbcahqcejvxewuhljrewtufgglcudki"
+        },
+        {
+          "key": [
+            [
+              4,
+              20,
+              11
+            ],
+            [
+              13,
+              11,
+              19
+            ],
+            [
+              10,
+              1,
+              10
+            ]
+          ],
+          "score": -4.856605978391248,
+          "text": "ifindokhbolshfttkfecojabdiwhauqelrtiuujgeqzijkyrgubiqckomesenuqzjcsteksoneyudaidmkslixieyfhdohfxctkeqlascsdhcuberhvbefmffovithswkrpbandunvgcubzacbblcwpjdufzekjthlpddnlbjllnqglbegnayrqhsaooyekihodomwlgqvleghaizregeqrtdcpgbjandaryiuaujclenwmhyiowukkimtgkbmahkcecvxcwugljdewpufcglwudyi"
+        },
+        {
+          "key": [
+            [
+              18,
+              23,
+              17
+            ],
+            [
+              13,
+              11,
+              19
+            ],
+            [
+              10,
+              1,
+              10
+            ]
+          ],
+          "score": -4.861087876576749,
+          "text": "ifindofhbolssftakfccocabxiwnauhelttizujaeqwijxyrrubsqcsomisepuqnjceteusodeycdawdmlslqxifyffdoefxstkfqloscddhdubfrhnbeomfiovrthgwkcpbjnddnvoculzajbbfcwujdxfzfkjihladdslbillpqgrbeinayrqnsaqoyckiaodmmwjgqdleohapzrugefrticpvbjjndqryiuacjccenvmhoiowukyimtgklmabkcxcvvcwtglvdespubcgfwuryi"
+        },
+        {
+          "key": [
+            [
+              14,
+              24,
+              19
+            ],
+            [
+              13,
+              11,
+              19
+            ],
+            [
+              4,
+              9,
+              0
+            ]
+          ],
+          "score": -4.865055999423537,
+          "text": "ifindomhfolsnfflkpkcararvigpakeenltwsufyeavibkyrmunequmoqssghuejjwitkgsgregwdesdgusfkxmoyzndadfpgtsoqfkswydtmuvorbtbarmdjodutfcwexpnmnbgnticyxzsubldcgnjzyfhokdnhzvdpllxzlrhqutbuanoyrqpsqiomkkupotumirgcxliiheazbigmkrhbclabxmnbergiuawjgzepmmnciwwukuigtgkxmszkmmcldcikgrzdkipsrcedwenyc"
+        },
+        {
+          "key": [
+            [
+              18,
+              23,
+              17
+            ],
+            [
+              9,
+              25,
+              21
+            ],
+            [
+              4,
+              9,
+              0
+            ]
+          ],
+          "score": -4.874633821023826,
+          "text": "ifindofbfolssnfaipckaccrxggnckhontlwzafacawubxyrrcnscusiqicgpmenfwexkuegdsgcxewzglofqrmfuzflaerpshsfmfoowdltdqvfnbnhaocdicdrjfgsecxnjdbddtowyllsjzlfagupzxthfgdizzalpsrxiprpiurduifoyrqnuqqgmcsuaqtmuijocdfiobepxbuumfjhiilvtxjdbqfgiuacdgcopvqnowwwukyegtgklysbimxelvkitkrvhksfsbsefueruc"
+        },
+        {
+          "key": [
+            [
+              4,
+              20,
+              11
+            ],
+            [
+              13,
+              24,
+              19
+            ],
+            [
+              4,
+              9,
+              0
+            ]
+          ],
+          "score": -4.87589827137302,
+          "text": "ifindokufolshsftxpecajnrdighakqrnrtwuhfgeazvbklrghniqukoqesgnuezjwstkksgnegudeidgkffixmelzhdahspctsedfaswsqtchveebvbafzdfbdigfswercnaabuatgcybzscollcgpwzushexdtuzpqpnyxjyrnqulbugnoyrqhsqoomekuhbtomilgcvligheimbegmqehdplgoxaabargiuaujglrpwznyiwwukkigtgkbmshkmeplxciutrjdkwpsfcelwedyc"
+        },
+        {
+          "key": [
+            [
+              14,
+              24,
+              19
+            ],
+            [
+              13,
+              24,
+              19
+            ],
+            [
+              4,
+              9,
+              0
+            ]
+          ],
+          "score": -4.88346281796813,
+          "text": "ifindomufolsnsflxpkcarnrvigpakernltwshfyeavvbklrmhnequmoqssghuejjwitkgsgregwdesdguffkxmolzndadspgtsodfkswyqtmhvoebtbarzdjbdugfcwexcnmabgaticyxzsuoldcgnwzyshoxdnuzvqplyxzyrhqutbuanoyrqpsqiomkkupbtumirgcxliiheambigmkehbplaoxmabergiuawjgzrpmznciwwukuigtgkxmszkmmpldciktrzdkipsrcedwenyc"
+        },
+        {
+          "key": [
+            [
+              4,
+              20,
+              11
+            ],
+            [
+              25,
+              8,
+              13
+            ],
+            [
+              0,
+              23,
+              2
+            ]
+          ],
+          "score": -4.88893037982351,
+          "text": "ifindokmzolshuntdneeijhtdoehumqnxrrouplgkyzlnklrgjviggkgkeoqnswzvsshokisnouuvyipckrbipgexvhfihibcdgepbaesssbctreqxvjgfdtflrikvsiarevaeruejgusbpecujliepefucvejztsrpsxngdjmvnomlvwglgyrqhmsomeemchvvooqlikvdcgzyiszeqaqczdxrgmpaerabuiuaubalnzwnryskwukkuctgkbcehqkejnxequhvjrowtifgulccdky"
+        },
+        {
+          "key": [
+            [
+              0,
+              21,
+              13
+            ],
+            [
+              13,
+              11,
+              19
+            ],
+            [
+              10,
+              1,
+              10
+            ]
+          ],
+          "score": -4.89803712254551,
+          "text": "ifindorhbolscftekfmcoyabbiwjauneljtinujeeqyijxyrbubuqceomosefuqvjcwtewsobeyodaedmtslcxinyfpdogfxqtknqlwscndhlubnrhbbeimfgovlthowkmpbdndxnvacunzanbbjcwijdvfznkjyhlkddglballfqgnbeynayrqjsagoymkiwodwmwtgqpleahatzrsgevrtwcplbjdndoryiuaojciennmhmiowukgimtgknmafkctcvfcwlglndempuvcgjwuzyi"
+        }
+      ]
+    },
+    {
+      "alphabet": "natural26",
+      "base": 1,
+      "rows": [
+        26,
+        26,
+        26
+      ],
+      "keys": 8112,
+      "ifindoubt_keys": 0,
+      "ifindoubt_outputs": [],
+      "top": [
+        {
+          "key": [
+            [
+              10,
+              4,
+              7
+            ],
+            [
+              17,
+              21,
+              7
+            ],
+            [
+              20,
+              23,
+              4
+            ]
+          ],
+          "score": -4.810464275736259,
+          "text": "ifindomvjkxolbpvcjksmbarjoenkyqobldkgqpwgifcdiepiwvgioamimeclswnpuurcyoqnskwrimnuegjedkagfhlgddhslmkuvmesgvnekhmptbpevgfdifevnqymxfzonbyrjaoublooppbeobfjmrdyyhbbblxrrfztlrdmerliaxcovgxyogeyaewpsjwwwpcmtlikpkavlgosaflhwncfnonbafkmieinwhazigpuiwgqukeqjkabyopkmwclnoeiuvdzuqxybempiatyc"
+        },
+        {
+          "key": [
+            [
+              2,
+              20,
+              3
+            ],
+            [
+              17,
+              21,
+              7
+            ],
+            [
+              16,
+              5,
+              2
+            ]
+          ],
+          "score": -4.811435673347934,
+          "text": "ifindowvbexyzbjjcdosorazdoolkkaothdieqbsggnchsehgwhcimsmeieanskrpwormsoabsegraoniegjsdeqgnplkjdxelscuraemwvvqknupxdpsjgzbirovfwycbfbmnnurhyognluepxxemzfvorryyhfbdnxfdffzlhtmmpluwxamvsxyomeocekdsdqwgdcgxlkkpkmvrkouufvtwtoftmnnofesiuknklabegnciaiqigeohkmnyuzkemcttouuublzykxileeticnym"
+        },
+        {
+          "key": [
+            [
+              15,
+              7,
+              16
+            ],
+            [
+              17,
+              21,
+              7
+            ],
+            [
+              16,
+              5,
+              2
+            ]
+          ],
+          "score": -4.862318175459087,
+          "text": "ifindowvbexyzbjwcdbsoeazqooykknothdirqbfggachfehtwhpimfmeveaaskrpwormfoaosegraonirgjsdedgnplkjdxelspurnemwvvdknupxdpswgzoirovfjycbfbmnnurhlognluepxkemzfvorrlyhfbdnxfdffzlhgmmpluwxamvskyozeopekqsddwgqcgxlkkpkmvrxouufvgwtoftmnnofefiuknkyabrgnpiavqiteoukmayumkezctgouhublzykxiyeegicaym"
+        },
+        {
+          "key": [
+            [
+              23,
+              17,
+              20
+            ],
+            [
+              17,
+              21,
+              7
+            ],
+            [
+              20,
+              23,
+              4
+            ]
+          ],
+          "score": -4.8648068629908865,
+          "text": "ifindomvjkxolbpicjxsmoarwoeakydobldktqpjgiscdvepvwvtionmizecyswnpuurcloqaskwrimnurgjedkngfhlgddhslmxuvzesgvnrkhmptbpeigfqifevndymxfzonbyrjnoublooppoeobfjmrdlyhbbblxrrfztlrqmerliaxcovgkyoteynewcsjjwwccmtlikpkavltosafluwncfnonbafkzieinwuazvgphiwtquxeqwkaoyockmjclaoevuvdzuqxyoemciagyc"
+        },
+        {
+          "key": [
+            [
+              2,
+              20,
+              3
+            ],
+            [
+              17,
+              21,
+              7
+            ],
+            [
+              10,
+              17,
+              12
+            ]
+          ],
+          "score": -4.878290684517206,
+          "text": "ifindowvpexazbnjchoseraldoqlkcaohhdseqtsgqncnsevgwzciwsmyieknssrpmorosocbsigroonqegjsdiqgzplqjdveloculaeqwvhqkjupddpajgdbijovtwyabfrmnfurryoynlqepjxewzfnorzyyhfbtnxndfbzlftmyplmwxkmvkxyomemcesdshqwidckxlakpkmvnkokufxtwpofpmnfofisisknslaregxcigiqqgeyhkenyqzksmcftosuuxlzekxklestisnyo"
+        },
+        {
+          "key": [
+            [
+              2,
+              20,
+              3
+            ],
+            [
+              5,
+              19,
+              1
+            ],
+            [
+              16,
+              5,
+              2
+            ]
+          ],
+          "score": -4.880734191924288,
+          "text": "ifindowxbebyzjjjkdoyoryzdsolukaqthxieabsagnohsghgghccmsaeiyanikrvwovmssabaegtaodiegjsleqenpxkjzxedscirammwtvqcnubxdfsjozbsroxfwucblbmxnulhyygnduenxxymzpvohryyhfhdnnfdxfzhhtkmpvuwramfsxyomaocukdadqagdkgxrkkpkmnrkuuujvtotoxtmxnoneseukdklgbeancuaigigyohumnquzmemattkuumbllykbilgetocncm"
+        },
+        {
+          "key": [
+            [
+              12,
+              0,
+              21
+            ],
+            [
+              17,
+              21,
+              7
+            ],
+            [
+              21,
+              8,
+              11
+            ]
+          ],
+          "score": -4.889369948020714,
+          "text": "ifindoqvlsxsbbxlcewsfxacrovhkvuoqzdeaqmkgpdccmeecwsuivcmjaejrszzpacrggohdsfarksnkegwudswgqflsvddclemuwcencvlokmkpfhpulgaxicivpiyvjffinlmrduorllgkpnpevvftsrtyyunbhrxhbfrllnzmpllsoxwivqxybyehgezfseewnfchflokpkkvdsolifprwsmffinlqfseinonmtaswgwsivmqxyexdkxlyttkbscwfonsuabzgyxcfebbitbyt"
+        },
+        {
+          "key": [
+            [
+              12,
+              0,
+              21
+            ],
+            [
+              19,
+              17,
+              21
+            ],
+            [
+              21,
+              8,
+              11
+            ]
+          ],
+          "score": -4.895906814098504,
+          "text": "ifindoqzlsfsbrxlsewefxwcrwvhevusqzreakmkupdacmiecqsuwvcojasjryzzbaczggwhdifavkstkegwutswcqfjsvvdcvemwwcuncrloumknfhvulwaxccizpiqvjrfihlmfduirlvgklnpsvvztsxtyyunnhrdhbprldnziplfsolwipqxybywhgkzfieeenfshfxokpkkfdsalinprgsmpfihlqvseanotmtmswuwsgvmwxysxdexlittobsywfgnseabxgyfcfibbutbgt"
+        },
+        {
+          "key": [
+            [
+              13,
+              11,
+              2
+            ],
+            [
+              17,
+              21,
+              7
+            ],
+            [
+              1,
+              22,
+              1
+            ]
+          ],
+          "score": -4.899048127186252,
+          "text": "ifindosvxwxqjbtgcapspiaqiotekdjoctduxqurgfccwbeqzwabildmphezusrfpkgrexofysbcrwincrgwcdohgerlmrdfulinucxejavztkqwpzxpmggwuikkvbryxpfpsntgrtrozdlkipbwelffbirllyutbrhxztfvhlpkmdvlaixmsvykybhejjerasavwlacdllykpkcvhlovmfnwwwefjsntyfonipenemacdgmrippqpfenakfqyxikndckoopxuenzacxauenuidsyr"
+        },
+        {
+          "key": [
+            [
+              10,
+              4,
+              7
+            ],
+            [
+              9,
+              11,
+              3
+            ],
+            [
+              8,
+              21,
+              24
+            ]
+          ],
+          "score": -4.902199927501846,
+          "text": "ifindomflkrslpxvqrkwsbqpjiiniiqydlzegozwccfkpioriufgeiaewmawlumntaulgyiungswbkmpkegjersawdhtsdjdsxekmjmsagllewzmxfbruvundgpefpqeixjfollyndamebxgofnbaibdtmttyyhbfhlzhrrrtrndccrjsatwotqxyogkuagmpgrwqapqutpokpkahdgsyazphifcrfollatsmoaipmheficjuqigskkakjikbkgpuowsjnuaigndhgqrcboopmgtsg"
+        }
+      ]
+    }
+  ],
+  "control": {
+    "plaintext": "ifindoubtreadthecompleteinstructionandcheckeverycharacterbeforeyouaccepttheresultthecorrectkeymustexplaintherestofthemessagewithoutchangingthealphabetorintroducinganotherruleonlyafteryouhaverecoveredthefullinstructionshouldyouattempttoopenthefinalencryptedcontainerpreservealltheunu",
+    "ciphertext": "snihfoaytzealwhxeouelckeifshsunainnazmcwncckvfiyrhaxicztrzzfhhegpullcmmtuyeaxsthtuyebcrfncyaecnuqkefelcgnuyeaxskifuyevxslzgvdiwkombctynignowhkqldhaobtuyiwhrbeuegnsynvwhkfrbbesclovfztrgpusfvyheotvyhelwhwguesiaptlccylosvhgkloaoyxtkymeqtguphktfzfhnaecndiynkeweoytaudesdraietmeaaluyeaou",
+    "result": {
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              1,
+              23,
+              5
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "text": "ifindoubtreadthecompleteinstructionandcheckeverycharacterbeforeyouaccepttheresultthecorrectkeymustexplaintherestofthemessagewithoutchangingthealphabetorintroducinganotherruleonlyafteryouhaverecoveredthefullinstructionshouldyouattempttoopenthefinalencryptedcontainerpreservealltheunu",
+          "score": -1.880530689304845
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              1,
+              23,
+              5
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "score": -1.880530689304845,
+          "text": "ifindoubtreadthecompleteinstructionandcheckeverycharacterbeforeyouaccepttheresultthecorrectkeymustexplaintherestofthemessagewithoutchangingthealphabetorintroducinganotherruleonlyafteryouhaverecoveredthefullinstructionshouldyouattempttoopenthefinalencryptedcontainerpreservealltheunu"
+        },
+        {
+          "key": [
+            [
+              16,
+              23,
+              20
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "score": -3.3794920225812475,
+          "text": "ifindopbtbeaithecowpluteinsiructitnacdccecpevzryshabactermefdreyoufccpptoheweskltohehorwecykeomuctexpllinohewesdofohereshagzwidhoptchangingthpalkharettristrodusinranttherruletnltafteryounavkrexovkreithefuqlihstwuciioxshdultyokattemuttoopenthefonaaensryeteocohtadnemprpsewvealloheenu"
+        },
+        {
+          "key": [
+            [
+              11,
+              23,
+              15
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "score": -3.4652546858631714,
+          "text": "ifindozbtgeaythecobplpteinsdructiinaxdcneceevkrynhagacterrefyreyouvccuptyhemeseltyhexormecokeimuhtexplqinyhemesiofyhegescagkwiihoztchangingthualuhametirihtroduninwanitherruleinldafteryoucavzrehovzreythefuflisstmucdiocshyuloyoeattemkttoopenthefdnavennryztetcostaonewprusemveallyheknu"
+        },
+        {
+          "key": [
+            [
+              21,
+              23,
+              0
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "score": -3.518731141660062,
+          "text": "ifindoebtweatthecorplzteinsoructidnahdcseczevpryxhawactergefireyouqcckptdhegespltdhesorgeciketmuxtexplfindhegesyofdhebesnagpwiyhoetchangingthkalzhawetdrictroduxinmandtherrulednliafteryouxavurenovuretthefualixstgucoiosshiulyyopattemettoopenthefynafenxrykteicoxtatnebprksegvealldheznu"
+        },
+        {
+          "key": [
+            [
+              1,
+              23,
+              5
+            ],
+            [
+              20,
+              1,
+              16
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "score": -3.555929976353132,
+          "text": "ifindoumtrkadihecomuleoeinstmuctiocanychpckuvebyccarfcterbkfomeyouasceuttserusufttsecdrructzeygusyexplaontserusttftsemussvgegitnoudchangingtheflpsabztoginiroducdngfnoiherruleoclylfteryouhqvegecyvegedihefulainctrkctdonxhopldtouvttempitoopentheficalzncmypoedhondaixerzrexerlealltseusu"
+        },
+        {
+          "key": [
+            [
+              1,
+              23,
+              5
+            ],
+            [
+              10,
+              1,
+              6
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "score": -3.570449674200176,
+          "text": "ifindougtruadohecomeledeinstbuctiohanochkckzvewycsarqcterbufobeyouaxceettnerzsuvttnecirrzcteeywusiexplayntnerzstdftnemzsslgebitxouychangingtheqlpnabptominoroductngqnooherruleohlyffteryouhvvemectvemedohefulfinxtrpcttonhhoeldioulttempotoopenthefihalpncbypdedsonyaiserureherqealltneucu"
+        },
+        {
+          "key": [
+            [
+              1,
+              23,
+              5
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              5,
+              0,
+              6
+            ]
+          ],
+          "score": -3.5779757606476594,
+          "text": "ifindoubirevdtsecompfetkinstrzctionlndhheskeferochfraxterbeaorkyouacnepothureculythucobrentkpymzstzxplaihthurectoathumecsamewythiutshangingtheafphqbeyortntboducisgahotserruleonvyavteryouhaferpcolerpdtsefulltnsiruntitnscouqdytuaytemptdoopenthefinllescrdptkdcintqinurpgeszrvpallthuunp"
+        },
+        {
+          "key": [
+            [
+              6,
+              23,
+              10
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "score": -3.6063520607457344,
+          "text": "ifindokbtmeaothecogplkteinsyructiynasdcxecuevuryhhamacterweftreyoulcczptihebeszltihenorbecdkedmuntexplvinihebesoofihewesxaguwiohoktchangingthzalehagetyrixtroduhinbanytherruleynloafteryousavpresovpreothefuvlicstbucyiohshtuliyozattemzttoopentheftnaqenhryuteycoctaynegprzsebveallihepnu"
+        },
+        {
+          "key": [
+            [
+              1,
+              23,
+              5
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              10,
+              0,
+              11
+            ]
+          ],
+          "score": -3.658007002083747,
+          "text": "ifindoubyreqdtcecompaetpinstrectionvndnhehkeqerdchlrasterbevorpyouacxepithkrenuldthkcomrextkzymestuxplaicthkrentovthkmensarewothduthhangingtheaaphfbedordntmoducixgacotcerruleonfyalteryouhaqerzcoaerzdtcefulldnsyruxtiynsxouvdyyuadtemptooopenthefinvlexcriptpdcdntfinkrpwesurvzallthkunk"
+        },
+        {
+          "key": [
+            [
+              22,
+              8,
+              11
+            ],
+            [
+              0,
+              1,
+              21
+            ],
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "score": -3.7277207326105932,
+          "text": "ifindohbtleaqthkcolplltednszructilnaodcfecmevcryihavacyeraeferedouxccdptwheoesaltwhepordecakezmuwtecplzinwheoessofwhedesdagcwichoxtcnangingthdalxhasetqriutrodutinqanlthprrzleanlbafyerdoukavgreaovgreqthufunlilstiuceiomshpuleyofatdemgttoopznthefanameniryftencoatamnezprisedvelllwheonu"
+        }
+      ]
+    }
+  },
+  "nulls": [
+    {
+      "shuffle": 0,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              3,
+              13,
+              5
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              12,
+              14,
+              15
+            ]
+          ],
+          "text": "ifindoubtzlexncwigxsppelmcbeefcmvvecpdtkoyzaiwukzbxvdcqwlpctihdaozwghcrhaoihqvumipwmqrdogahkboxhrxwhclbqdewuybiyehaxfhvttfggpwitorpwpysdcicepstagkyofaaoioydlpqmqarldwafkqeigcnlndtowfzuhyqslkoirkigawhihevdzwdsgnybnczseicxscaresrkcesqanxhqynzfkyxxckiaptvcdvznpgxalpugofaykeynbweatsldp",
+          "score": -5.047016433678695
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.68734669669863,
+          "text": "ifindogiypaettslnraakxsfstrsxaiclzyncwonwtyptmkkvhnbustefestzitibuffsqkccloaoqbooemmrctdwaivrishxomrbvyhiheprzdulxmtvigibtborbnnyogbwaxpyybtzzvffyifsfclossonmvaulixileqeleldhhfnnsyetuznyboaxgdqytrlwgxsdkobtiqkhfdskbxmlhioshtkxwkzwxsxsmmaakeaeyyisedaeivzvavtemcabqkkwayberfschumphtrk"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.707569602790308,
+          "text": "ifindotiyeaeptsznrdakfsfytrfxapcldynqwoqwtxptbkkrhnhuswefustqitrbupfsdkcelotoqiooummscttwakvrdshdomabvvhilepkzdqlxxtvkgiktbvrbrnylgbdaxayyatzgvfeyixsfelowsopmvpulaxizeqzlendhcfnwsyntuenynoalgdpytblwfxsckodtiokhndsrbxtlhuosptkcwkwwxuxsamackeveyziszdauivwvartercasqknwawbedfsdhuxphbrk"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              6,
+              20,
+              7
+            ],
+            [
+              6,
+              16,
+              12
+            ]
+          ],
+          "score": -4.72143859767429,
+          "text": "ifindomokpaziifvxivvtsnehiknspysdkizxrchrcizqmkelxarklozpesopyrdwtqqulerhquviugtkemggswdwvyluissndebmxdnzczymuhkalbidywmwoatwxxxltmsbfteogmdweabqiflxghquccasrblecockvphelpqiohfxxcazotznordisbsaiqrlbrhpoulgyplebliopgtrqdydanyfxwzeboxcywwsfplaeioyvedleiqearlismcqrfherktwywldsxxbeqomi"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              15,
+              17,
+              24
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.752262385355778,
+          "text": "ifindompypveirsvurvpkswfhwrnrayflkanxqohltibtmeklfnrxsotfentprtdfuqxsldchmovxqgeoegmgqtdrayirichnrmbtvdtictpmidkixbmvyuiwxbthbxpytsbbrxerymfzemfqlilofhmocuosnvlblotivmqeveqehhqnxkyzxuzcyrgasadaltrqwrksowoguilihluspsxrbhygsnkkxmkehxxyswtafleapyowseoaedvegalremsarykelataewmssvubhhovk"
+        },
+        {
+          "key": [
+            [
+              15,
+              9,
+              11
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.752449961546335,
+          "text": "ifindonbyklernssirpskbefvcrmeammlbenwdobotlatguktbnedshwfzcthhtnouxgskrcdookqqsmozwmertygawkrtxhaxmicvkqiwwpabdsexexvwviffbepbptyzpbnyxhcyoezqtfskibffdoouyoopvhqlelisaqpqemghslnetyifuphyusarodcktwawtisqvocwipghwbsazxcihbssyrknrklextasthabnelkymxspiaztvldatnebxakpkyoaxyexysqwuethxdk"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.766253770226056,
+          "text": "ifindomzypveiwsvprveksmfhbrngayllkvnxfohatiwtmekllnrcsoifentpwtdvuqssltchwovnqgpoegmgvtdrayorichnwmbovddicipmydkoxbrvyziwnbtsbxkytcbbbxewymazewfqfilyfhwocposxvlwlodivgqeveqphhqnxeyznuzcyrmasqdaftrqwresorogeilyhlespcxrmhymsnukxmkesxxiswoafveapyobseoaedveralwemsardkeaatqewwssaubnholk"
+        },
+        {
+          "key": [
+            [
+              3,
+              13,
+              5
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.770028934134084,
+          "text": "ifindouiyzaextswnrxakpsfmtrexacclvynpwokwtzptwkkzhnvusqefpstiitabuwfsckcalohoquoopmmqctowahvroshromhbvbhieepyzdylxatvhgittbgrbinyrgbpaxdyyctzsvfgyiosfaloosolmvmulrxiweqkleidhnfndsywtuunyqoakgdrytglwhxsekoztiskhydscbxelhxosatkswkcwxqxsxmaykefeyxiskdapivcvaztegcalqkgwaabeefsbhuaphlrk"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              6,
+              16,
+              12
+            ]
+          ],
+          "score": -4.770067966160346,
+          "text": "ifindomdkpazidfvcivftsxehdkncpyndkozxbchbcieqmkelsarelokpesoptrdgtqvulprhfuvtugikemggnwdwvyfuissnyebrxdczckymehkvlbddyrmwyatmxxcltbsbvteigmiweqbqoflnghfuchasgblkcoskvuhelpqyohfxxhazytznoryismsaoqrlbrnpozlgoplpblyopwtrfdyyanofxwzeroxsywbsfelaeiotvedleiqeqrldsmcqrahebktgywadssxbzqowi"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              12,
+              18,
+              10
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.775509008918037,
+          "text": "ifindomxypfeifsvvrvrkstfharniayklkmnxhohntistmpklunrbsovfextpltdcuqdslvcheovkqgsoermgztdbaysrihhnvmbzvdricvpmvdkxxblvydiwubtvbxaytqbbexeqymwzezfqbilrfheocfosfvlclowivnqeaeqxhhvnxqyzuuzxyrfassdabtrfwrasonognilqhlhspfxrphyfsnxkxgkefxxrswuafdeauyofsetaeoveealfemnarskenathewusseubghosk"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              22,
+              23,
+              15
+            ],
+            [
+              12,
+              14,
+              15
+            ]
+          ],
+          "score": -4.781924001131666,
+          "text": "ifindogntpfetaclagabpxdlsvbstfievzrccstnxyyximpkvpxbwctflextzfdinzfihqfhcuiauvbhiermruddbainbihhxqwrelygdhfurfiushmffiytbegolwnfoofwwusplibbpzpafgyfgacuisldnvqahaimdlsfeaelnchvnnvoeezzxybalxciqgirfwgfhdsdbcdqanfxnkvsmeciachnexgkzvssgnmzqatzauyyacetaeovzuvvapmnabnukxfyskrknczembstcp"
+        }
+      ]
+    },
+    {
+      "shuffle": 1,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              13,
+              18,
+              10
+            ],
+            [
+              6,
+              20,
+              7
+            ],
+            [
+              22,
+              19,
+              20
+            ]
+          ],
+          "text": "ifindoubtgiwrefsghtcimdrlwklsygmmaihnfnefhiutswkzrdcwvrntsdxowamiddxquqssalcwooppkletacglwhaqvmzulcoshpytgctdorviabploxtgokxsqbxmunydyyffpcexldfqkxyisvenuxsznvbqnnesfccpsthvzqqykoiwkkpsqktyrrqwxzgcaarfwwmsifnhnclwuriwioqqypzeyodsixoicpmmictfeyuikazvhduzaekdanmqsbhpivlwukuiezoqyusyx",
+          "score": -5.0493084401119805
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.705937557720253,
+          "text": "ifindovgdttruulgbxbsoyombbunctagbiyncfntaxuzdcwkawofmalhipostwakyinsfilhmvaegiskezlellxblwwvfmrktfsdshttiqxiutbstveeqwnyxtukclenrenylitnqkykhhoacuscdhsphmhnqsfufsokckxsustoakuloiiybkkqxayooxwayhurcaemvlrbdoqlxsevrawtuytulovepvyyktscdsummbsyveymtegefftzeaezdafbvmwxuivgbehkocptetkuis"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.746685562154834,
+          "text": "ifindocmdcdrqklewxhhohymogubntibbponhfnrvxwedxwkhbobbatcitysdwavoianfgfhuqatriveeeleevxrlwuqfywkmasishwoidsigybwdvauqccykyutnlacrznykttmakvphmyamesfyhwzhfsncxfvvsvpcnssestffkxfobdymkkxcawiopbansumcahgvimbftqwnstfrsbtfotxfonkpziyddsaysemmchyaeyfdeykfrizpaeedagrvurxeivdgetzooetcokits"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              1,
+              5,
+              17
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.754073488307737,
+          "text": "ifindovwdtyruplgmxbnoytmbrunhtarbitncfntlxupdcwkamofgalsiptstwaktincfivhmfaemisuezlelqxblwwffmgktqsdshtdiqhiuibsyvezqwhyxiukhlehrenylotnvkyzhhtaczscohsuhmnnqhfuasozckhsustoqkuvoitybkkqnayyoxmaynurcaewvlbbddqlssearamtuttuvovupvdykyscosummbnyveymyeguffozeaezdafwvmgxuivgreheocktedkuos"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.761649275899061,
+          "text": "ifindoxgdstraulkbxssoxomiburctogbzynhfnwaxrzdxwkcwommayhiiosdwafyifsfmlhzvaigiakeeleulxrlwzvftrkrfsishbtiixibtbmtvleqnnyetuicllnrznyzitbqkqkhboabusldhmphvhnxsfffsqkcsxsestaakclogiymkksxabookwachumcanmvorbaoqgxsivrnwtqytcloheppyyttsfdsemmnsyaeyvtetefbtzpaeedarbvzwxeivybedkoypthtkyis"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.766319520089868,
+          "text": "ifindocgdctrqulebxhsohomobubctigbpynhfnraxwzdxwkhwobmathitosdwavyiasfglhuvatgivkeeleelxrlwuvfyrkmfsishwtidxigtbwtvaeqcnyktutclanrznykitmqkvkhmoamusfdhwphfhncsfvfsvkcnxsestfakxlobiymkkxxawoopwanhumcahmvirbfoqwxstvrswtfytxlonepzyydtsadsemmcsyaeyfteyefrtzpaeedagbvuwxeivdbetkooptctkiis"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              21,
+              15,
+              2
+            ],
+            [
+              12,
+              14,
+              15
+            ]
+          ],
+          "score": -4.789942351912388,
+          "text": "ifindoxrisobazakrssxdxiwimzrxdowwzdchfnwqsrkixwkcgtmrqyxdiicdwafdyfhamaczlvibtazzeleufhrlwzlatbprvnishbidindbdgmoflkfnsoedzixvlsgznyzddbluqunbilbpcltcmksvcxxclflhquhsnnestalpcaigytmkkshfbdikgfccemcanbqogwayvgchiqbngyqdicaihpuptitocftnemmnxoaeyvoptplbyppaeedarglzmseivymkdpdyuihieydc"
+        },
+        {
+          "key": [
+            [
+              1,
+              22,
+              4
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              19,
+              20,
+              6
+            ]
+          ],
+          "score": -4.789956630393012,
+          "text": "ifindonqlxbavwgucvnpucwvyvgwvhyckuvthqsgbvgyfxmesfvgowidromwdrlafuqytwmfkriozxlvhevkzorrqmkwdilwbwlicnmemtdwrnorrzfgmhkeungolufpnzctewsgdifyegmegcbvplrnmalgnmsastftkcivendqebnwrrzrmeuhghmpmzashaimsvxxyyszqnsbedoofcallfenwrxiguwcywmqeqegwhezapdawyiixwalpvpeofmowksfedfoqbyrztwesuhdbg"
+        },
+        {
+          "key": [
+            [
+              7,
+              20,
+              7
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              11,
+              6,
+              2
+            ]
+          ],
+          "score": -4.7965126552489705,
+          "text": "ifindodgxptutustboqsquopebydcgcgnxypxfxfaohznhwziwhemhnhuqoliwvtyvksbvlyovmvgwzkfulpwlvmlbivwprolfyyssatknxextfttodexlnaatyfcodnyknoribtqsrkgiotyuvkditpaxhltskofkwkwrxtksomayblpaierkeyxuloevwpphhwcqmmwxrsrozuxevveywhdyfblptedwyrvtqpdikmgvsqqeixtceeuptmuazudlzbnowikiqzbdrkampfrtalif"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.800416942947315,
+          "text": "ifindosqdhbrlwlpcxcponwmdvugvttcbkvnhqnbbxmydxmkxfowoaddiymsdraqfilyfrmherayzifveevekoxrqwewfolkwwsichgeiodiwnbbrvvgqxkyznuyllvprzcypwtrdklyhrmarcsqphbnhllnsmfqssltcxisentvekhwomzymekngagpoeaasaumsasxvtsbvnqresyorhatafthwocipewyiwslesegmxeyapylweoifmazpveeoabovesxedvtqeoroiwtnukobs"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.800842188955953,
+          "text": "ifindovmdtdruklgwxbhoyymbgunntabbioncfntvxuedcwkabofbalcipystwakoinnfifhmqaeriseezlelvxblwwqfmwktasdshtoiqsiuybsdveuqwcyxyuknlecrenylttnakyphhyacescyhszhmsnqxfuvsopckssustofkufoidybkkqcayioxbaysurcaegvlmbdtqlnsefrabtuotufovkpviykdscysummbhyveymdegkffizeaezdafrvmrxuivggehzoceteokuts"
+        }
+      ]
+    },
+    {
+      "shuffle": 2,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              22,
+              15,
+              2
+            ],
+            [
+              3,
+              21,
+              18
+            ],
+            [
+              1,
+              1,
+              22
+            ]
+          ],
+          "text": "ifindoubtubkyhtaukkhokugikzqilktqxleuamokkofnvcqgvpbpayztlruugnwkgbxofivutorueyxsibtmiznlvqlogqakhqyywdoaotxqhlltecxhhrzpyznkxkwgunzbmlzwtvtimwmqtywxqtogsukmizvgpfdiocyqkiuilyzaigvyzxxlxcmqgmwhkcozqpdtxfplwtuqpzxcttnlwpaxviwekcoyqsmlvyytxgcwsgmabulzlolduybnwushydfbvdzhuafbibmeidyix",
+          "score": -5.441502334065937
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              19,
+              20,
+              6
+            ]
+          ],
+          "score": -4.700230652689039,
+          "text": "ifindoqglowxbxzykfzhtmelsesxtzetfdqrlftnehlqgyswvqskereefgwmswispyvsbxtedogmuuixncwghorwfozfgiaefnhedirdbholoxgeoslnyxreridtpkewwhcanrhlbqwyllrkbyvmxvetdkethorgmmrifrseakdeifakedglrpihlslbglgetpzqkutybolwymueqkwhwsolmbrinmqgtecdvamovzvinmbfphsramplpcyupzveccbcwbtmxavnxvyvxgrhodwxdv"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              15,
+              13,
+              4
+            ]
+          ],
+          "score": -4.727322055676518,
+          "text": "ifindolmktrimngizszhdbpyxzondhetlyvfflxszoaazihdaliuutzkubblcmvnuxannndciicmuzixchrsctqbakeacylsasgzixbtyniwyntkidvcaxrpgtrouyewbssxhwrfgzrdeqmqwdemxfzynzprctqbrvmopbhmakteivqusdgqbeahlhvriqbfouifuhytciqaibreqzmspxirggltcofrbecilledfnltfrwwzxkragplusiskeepskrnemitsfuxnsilkrgutyscyb"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.7485804657226485,
+          "text": "ifindocmhgrfsnvezrehyfpzqzfbdyutvlvinlfqzaualphsdlqluxmkxtbiymueuvonkwdybiubukdxhvrputouabxaucltssemiactsaitunsxiamcecrkltsaubuwmtsrewkcgstdsomctdxrxawyfipnutoyroiohhhavkyziauuttganekclnmrnybhlubkuigteqqikblzqefsavidigykcsursuctelqhfoetruwdlxtbawelebiogexvsyfnvsihkfsynmelingtmykayo"
+        },
+        {
+          "key": [
+            [
+              15,
+              9,
+              11
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.758113828219769,
+          "text": "ifindomghhwfexvwkrphyoezbefetyztvkqibffmeahqlbsskqqsexlexcwiqwuopvpskptynouguktxhwwpdooffbifulatbneldaedsbotmxsyoatnenrktiszpbzwmvcryrkwbsxyskrcnyxbxaqtfbendoosmocihusalkypiacktygakpkslntbnpghepbskixyeelimmlpqetharodnbyrnsxgszctsaqqvosirabdhhtwawkleuyoazxhcyicvethtasaxmwviertxdkwdo"
+        },
+        {
+          "key": [
+            [
+              1,
+              22,
+              4
+            ],
+            [
+              15,
+              17,
+              24
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.761147914874956,
+          "text": "ifindovehitfrmvoirzcywfznwfhkyedvitiqofhravblogsqxqzixkhxmuihvuxnvqpkhpyyfumekichxtpnmorxbuxutbtllekgagxscltdwszlaarexmkbksysbegmxwrskkqusbmsfdcgrxmsakmfuannmomeowbhggaapyeoalltdragykhqnafnfihyhbalioaettioflevegtanadrpyyrsaxsentfmqywofurgidertrqwpvenuousxurymtvrhhcyscrmouiwqtivksqo"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              14,
+              5,
+              16
+            ]
+          ],
+          "score": -4.7711498672674235,
+          "text": "ifindoqgqowsbxpykvzhtmevsenxtketfdqwlfyneclqrysmvqnkegeelgwrswyspdvswxtpdobmuuixncwbhowwfizfbiapfnnedordrhofoxweonlnoxreriotppewwhcqnrnlbvwyqlrebyamxvetikedhowgmrrilrsuakdeifakpdglrpyhlslbwlgztpeqketywolbymkeqkwhgsofmbwinbqgdecdvawovkvixmbaphhramplpcyepzaecsbcgbtbxaanxlyvngrxodrxdq"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.771542322105918,
+          "text": "ifindotmhfrffnvnzruhyxpzezfydyptvmviylfuzagalchsxlqduxnkxkbigmuvuvnnkddyqiuwukoxhurpltoiabmauultiseniaatszitcnswiaecesrkctsbubpwmrsrlwkigspdssmczdxgxacyfqpnltoeropohvhafkykiamutogaqeknlnernhbhrubbuiqtebqihblkqessazidegyccsrrspctrlqzfortrowdoxtgawzleiionexisycnvfihafswnmnlivgtaykeyo"
+        },
+        {
+          "key": [
+            [
+              15,
+              9,
+              11
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.776757147382036,
+          "text": "ifindommhhrfenvwzrphyopzbzfedyztvkviblfmzahalbhsklqsuxlkxcbiqmuouvpnkpdyniuguktxhwrpdtofabiaulltbseliaetsbitmnsyiatcenrkttszubzwmvsrywkwgsxdskmcndxbxaqyfbpndtosrocohuhalkypiacutygakekslntrnpbheubsuixteeqimblpqetsaridngyrcsxrszctslqqfostrawdhxtwawkleuioaexhsyinveihtfsanmwliegtxykwyo"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              14,
+              5,
+              16
+            ]
+          ],
+          "score": -4.779240514010663,
+          "text": "ifindoqmqorsbnpyzvzhtmpvsznxdketfdvwllynzclaryhmvlnkugeklgbrsmysudvnwxdpdibmuuixncrbhtwwaizabilpfsneiortrhifonweinlcoxrertotupewwhsqnwnlgvwdqlmebdamxveyikpdhtwgrrrolrhuakdeifaupdglreyhlslrwlbztuequettwoqbybkeqkwsgsifmgwicbqrdecdvlwofkvtxmwapxhramplpciepeaessbngbibxfannlylnggxoyrxyq"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.789748849979553,
+          "text": "ifindondhwefxtvkvrenyatzfsfwsyuivvhixsffxapuluostoqqlxwwxdtidhupmvdakrnyrbubkkdshlepeloktbntuxptckewvahusqwtzisnwartecwkfxslgbummytrptkndsdfsdkcdaxrcagvfdyneloiootlhnoaveyzdapyttwasqkcfnrhnokhvrbeyiwbeaxipclzleamalgdtiyptspfsustzeqckoznrkzdqitblweaewsorbxayyabvxphuxsdomkgisctbrkqwo"
+        }
+      ]
+    },
+    {
+      "shuffle": 3,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              20,
+              24,
+              1
+            ],
+            [
+              4,
+              4,
+              6
+            ],
+            [
+              24,
+              10,
+              21
+            ]
+          ],
+          "text": "ifindoubtibtckbeumwbcgrqgvfrvngzusaszyfpfkuoghlmpyslzdkqpwdedyrralewunlgpvwatuzoutqcycmdkxnuiphpifmuteeupvyqhgcwzoweqrhicbbglxhckbkwxlggkqidtxowscusensumgchzhdbuaycmyqmlmtwvmshfkbkdkitnnfhdhxqfulopqbhvommxhadxafclprxsucnbehybusknsclsypstadtzermugpvmfopymlpyflpfwerfiazbwpzkckgbsmugp",
+          "score": -5.014863829041293
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.679296175073988,
+          "text": "ifindomakwnsywktciveetfrfyhxcamkkhfneiveleffkbdybntaeypaetnlfsnaysccywiowzhoetimbcokxfopbavvsvpcbbaibbmyaewxacranfcmdponevxcxfvoiddswoisbthgvqklfotziyogutriesthboxfogrvgybrlwmashhofdeishuqarvxcdrnssmcakyugfhrizwedftqkttxwkauqvphykfuqfznynsudsitysmestzodwaedahymitsurxemmwdvdgenkpchy"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.713969618746195,
+          "text": "ifindomqkwxsyrkthivketvrfdhxxamkkhfneivelefakbiybctaeypaetclfhnadscnywoowphoptirbctkxlopwavfsvkcbmaigbmoaebxanrasfcgdpynelxcsfvyidtswtiswthmvqulfytzyyobutgiesthwoxlogbvgtbrlwmfshsofteishuvaraxctrnxsmcaktuglhrtzwzdfoqkitxwkaeqvkhyefuvfznynhudxitosmustkodwaedahomiisuwxemmwtvdbenepcsy"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              21,
+              15,
+              2
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.743766638948844,
+          "text": "ifindoqlkccsabkmxiizenqrtthuhawkknfnpivklenlkeyyvxtfeyzaehxlecnitsdsyedofkhuutrgbliklaowgarlssucsrabwbvianrxrsryhfzrdqdndfxecfbdicoskiizgtvbvgzlmdtityqmunbipstegolaocgvidbglwpvsixoeoeoshnlazqxroransgcamdupahxyzokdxyqodtswkrkqhuhfpfclfunygcubnicisapszpoowakdawimcdsnmxpmmfovqmeuppyxy"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              21,
+              15,
+              2
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.745705382627544,
+          "text": "ifindomlkwcsybktxivzetqrfthxhamkkhfneiveleflkbyybxtaeypaetxlfcnatscsywdowkhoutigbcikxaopgavlsvucbraiwbmiaerxasrahfcrdpdnefxccfvdidoswiisgthbvqzlfdtztyomutbiesthgoxaoggvgdbrlwmvshxofoeishularqxcornnsmcakdugahryzwkdfyqkdtxwkakqvuhypfulfznyncudnitismpstpodwaedahimidsumxemmwovdmenppcxy"
+        },
+        {
+          "key": [
+            [
+              13,
+              18,
+              10
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.748782826401193,
+          "text": "ifindofqknxsvrkrhiokecvrydhpxawkknfnpivklehakkiylctfeyzaexcluhnodsonykoovpheptwrbqtkqlorwabfsnkccmaggbloasbxbnrdsfugdayntlxzsfmyistsptiuwtamvrulwytyyylbucgipstzwoqlonbvdtbglwufstsouteoshsvaeaxgtrfxsgcagtuulhhtzizdsoqditswkbeqckhaefhvfunywhugxisosquskkoowakdamomsisswxpmmvtvlbepepisy"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.758046418026807,
+          "text": "ifindoqqkcxsarkmhiikenvrtdhuxawkknfnpivklenakeiyvctfeyzaehclehnidsdnyeoofphuptrrbltkllowwarfsskcsmabgbvoanbxrnrysfzgdqyndlxesfbyictsktizwtvmvgulmytiyyqbungipstewollocbvitbglwpfsisoeteoshnvazaxrtraxsgcamtuplhxtzozdxoqoitswkreqhkhfefcvfunyghubxicosauszkoowakdawomcisnwxpmmftvqbeuepysy"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              2,
+              9,
+              10
+            ]
+          ],
+          "score": -4.761142400500039,
+          "text": "ifindorqzrxcoredhofkkyvgqdnnxvmkkhfneivelevaemidgciaeypaeycalhcldxxnigotbpxipdtrgntphltewvqfclkxwmltggroqpbcvnblslsgykyxklnssaqytithgtohwosmaluvaydeyodbpygyestxwihltbbfwtwrlwwfxcsyltuishevfbachtgxxxmcaztprlnmtkmzyvolpiixwkvealkcoeaevlznyshkoxoyohruhokydwaedanoboihewcemmbtltbzcekxsi"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              22,
+              23,
+              15
+            ],
+            [
+              2,
+              9,
+              10
+            ]
+          ],
+          "score": -4.762008516278346,
+          "text": "ifindornzrfcocedgoftkyngqnnntvmpkhvneoveaevbemndguiauypfeyealpclxxxfightbbxixdtlgnnphutexvqiclfxwzltfgraqpvcvablglscykrxksnsdaqgtiahgcohxosvalhvagdelodnpyyyextxsihutbefwewrfwwkxclylauihheufbuchvgxgxmnazeprenmbkmfyvulpfixgkvsalacofaeplzxyszkomoyahrwhosydbaetanqboahevcermbfltszcfkxvi"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              6,
+              20,
+              7
+            ],
+            [
+              6,
+              16,
+              12
+            ]
+          ],
+          "score": -4.7700068987227,
+          "text": "ifindorfhrhpomidnzfplyluqionspmkehfxeiqelpvvtmokgswaeipazysdlxalioxxlgtkbeqizqtwxnyfhquerkqqulerwwstmsrdipgtvxilxgsbskizkalsneqifiifgyphrcsrblecaiqeogdwtywmesoxrchqubmxwoarlbwldccalisissearbfthikxcymcqzotrqdmdwmuhviupyrxwzvphlebozpeabznosxxockydarklouldwvedlndeoyveboemgbidtwyczyxca"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.782552265447258,
+          "text": "ifindomdkwesylktdivvetorfphxgamekhqnedvevefekbzybvtapypvetllflnaesckywpownhowtisbcukxwopaavssvtcboaicbmmaecxaprayfcqdpvneoxcmfvfidwsweisathxvqwlfftzwyovutzienthfoxwogovgnbrqwmwshpofweichurarbxcbrnismsaknugmhrazwydfnqkwtxmkagqvyhyifuwfzcynaudditmsmcstrodraeoahwmibsusxegmwrvdqenipcey"
+        }
+      ]
+    },
+    {
+      "shuffle": 4,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              3,
+              13,
+              5
+            ],
+            [
+              8,
+              11,
+              8
+            ],
+            [
+              2,
+              9,
+              10
+            ]
+          ],
+          "text": "ifindoubtgeggptpociciadtleackkqqxaslbfocbxcpckiazhuyckyznxshctfqmikyowmcgyveayhocloewukadtdxourdhegpctxnlkqeagpgxapwmhqyzfdzlewobtqwyrxbrkhalregdyisrcvyheoxraolkzqnqaypodyeynoxhcuciwnvkxxhhogaiyippaovlfkyaoxgawnlnxnhhhfqgaegkkyywfamxgmvvymyxcepoiptvrpdcgasilepvsrkzwcuhyaizwqprsbzmo",
+          "score": -5.148610684693796
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              15,
+              17,
+              24
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.715959050463739,
+          "text": "ifindogeothbqlibrxprthmosnvmfzxysbmvdtildcpsxeoalreflekixowsegagqthltqxselaoworksovkmekhmoerympyyirentwtaevenkkmsaegmyuiibtpvevurwxblussvuvxqtsbxkylihrxswmsotirykrgadfucuorbhichehxqehkanirsdraxpyswflofapybhhrqwhqnygsbtvotfctpsadvmqhwrlblmidvpkxqoedvaltyflemfnraxmklfnzcytaezxunrmgui"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.722633781852392,
+          "text": "ifindoioovrbeyidaxqitelopmvatzuxsxtvvhidkcrbxzdarteckeqlxziswvasctqwtpfsnwackofxsbrkbkkeloayytiykvrustamazleptkrcaummkgixpteaeznrktbndsdhutoqlgbwsyokhhusdfsaxisqknoarbuwsotlhdshwwxndhdynptstwarnyfsfxsfveyxphblwcfnuosabvwefleplgdzeqytrpulkzddakqwouivpytpclgvffxacwkrhnenywbentudomdti"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              20,
+              3,
+              19
+            ]
+          ],
+          "score": -4.7607621414798,
+          "text": "ifindoboqordfyxwazziucllnmsbtosxpmtryhaqkvkbzedvvtlakbuldyidzvsrcenwbffrkwidkcgxgtrxmkzcllpyugifivcesimmeelzhtmmcfembiguyphpaulnvbtpfduchfaooogtnsxqklbuirfzixvbqlbowibhsshmlkisczwpldezygttydwqnnsxstfssaetmpdrlghfhioorbuteohexxgwleusthauprzbaascwgeilqyhicbzvhsxtxwpvhtzndybhethxocbtf"
+        },
+        {
+          "key": [
+            [
+              15,
+              9,
+              11
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.762298651483119,
+          "text": "ifindosmoepbskinyxhhtdooopvoeztasexvkqikrcazxpiatnebnesexmxsldaertbotxgsyoaqvotisxdkgukdoohcynbywkrzctthapqeyrkbxazwmwvilatklesirffbwbsqwukqqzpbetypghedsxyselikpkusanouuyocihtxhlexmghbenrnsygaptybefbfflkyethwawslnbssicvhwfwwprodsaqvcrhqlabdpskwdoztvcktmmlqtfmeanrktbnphyxyeifuaxmcwi"
+        },
+        {
+          "key": [
+            [
+              1,
+              22,
+              4
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              15,
+              13,
+              4
+            ]
+          ],
+          "score": -4.766224904905479,
+          "text": "ifindomrvyuiauhgdeexkntqxuxwpycfurngivffmqueeeivacalsgzutdntkixwguciwarbzidyfnbtriysmuzntquskrglozsecigspeqzswrmxfewbolktlspluftfrakqgzhmvqliyuyhdhfbfgtybdetqageaghmyicniswopixckkuvmkuprycodgqhdcnzoqlxaktritraghlhohdmneirixrsnirflexsxvazgwwqnnsybetllusobrkynhzoxrparizhdotcuaccnsmbl"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              6,
+              20,
+              7
+            ],
+            [
+              6,
+              16,
+              12
+            ]
+          ],
+          "score": -4.768123874802341,
+          "text": "ifindowtkiwxvifrftkyrxquhrbrdwncywidtnzveregtedlfisvplealiyvuarbswsrcvquprktulwhpymimkexquzogboktluesobwselpcyfmcqemgtwmozqpazaxigoaaionxxfiuimsccavebmklmlddckmfhmdiowthcagqdissubofiopizdifdwvcxlcneaxgaeiweqrlbhfxtdagmxyzpnzycbsaphcikqecwuhfvthrceiqfiqtsduabxspxwzfxaznodwykothdewyp"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              15,
+              17,
+              24
+            ],
+            [
+              12,
+              14,
+              15
+            ]
+          ],
+          "score": -4.7705413975354665,
+          "text": "ifindogeithwqlybrsprdhmisnqmfpxynbmfdtdldhpsseoalrpflzkihowcegvgqdhlyqxhelfowdrkhovpmekhmierimptyibentwtqevenkemsaegmyutibipvevugwxglunsvevxvtswxkolinrxcwmnotdryurgldfzcudrbcichehsqeckacircdraxposwlloaapybhsrqwhqnygcbtlotlctusaivmfhwblbamiivppxqtedvaliyfvemanrfxmklfxzcytakzxznrwgud"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              12,
+              14,
+              15
+            ]
+          ],
+          "score": -4.7724103148315065,
+          "text": "ifindogoitrwqyybaspidhlismqmtpxxnbtfdhdlkhpbsedaltpfkzklhoicevvgcdhwyqfhewfokdrxhorpmkkhlieyimityvbestwmqelentemcaemmygtipipaevngwtgldnshevovtgwxsolknrucwfnoxdrquroldbzcsdrlcishewsqdckycitcdwaxnossllsaaeybpsrlwhfnyocbbloelceusgivefhtbluamzivapxwteivayiycvevanxfxwklhxznytbkztznowgtd"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.787413674702204,
+          "text": "ifindogpotsbqfibbxpwthwosxvmazxisbrvddiltcpcxeoalwefvekoxobseragvthatqsseaaororesolkmekhwoewymzyyorentwoaevenukmsaegmyziiwtpvevprwnblessauvnqtcbxeylyhrcswwsodirdkrmadvucpormhichesxqphkvniwsdraxkysmflyfapybnhrqwhqnymsbovoifcipsqdvgqhbrlwlmydvekxfoedvaftyllewfngaxmkllnzcytqeznunwmgei"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.789823325750189,
+          "text": "ifindoeoorrbbyizaxoitllovmvxtzaxsftvmhiskcnbxkdaeteikedlxcisnvavctzwtrfswwazkocxsarkwkklloiyyeiynvrpstsmakleltkgcapmmngiuptzaernritbidsghuxoqbgbysyhkhauspfsbxiqqkvoaqbuisoplhoshnwxtdhqynctsowadnyesfysffeyfphglwnfncoscbvfefuepzgdreqrtrgulozdnakewopivmythclcvfuxaswkehnunyqbemtuwomkti"
+        }
+      ]
+    },
+    {
+      "shuffle": 5,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              8,
+              3,
+              20
+            ],
+            [
+              20,
+              7,
+              14
+            ],
+            [
+              20,
+              3,
+              19
+            ]
+          ],
+          "text": "ifindoubtgqgmbuvemxbszgzuvgoccmovpgbsvolqgmqinieaaekmzwghvglorqmnrwezycpprhnqhxolxzgncowaxpzqkvzxiuxcpfhsucdumczvuvglstchgdcuskovvyokbliisbchwoadzelwrpkfltpgahlsdbbcnqbobunghyestputfbtzxpniarwfpthroseumkvsmptbupqbpdlvilhbykwtgsfflhmffzwkffhdkhpfwfhimntitdupfkyxhivbrpxnzbcdkqtdobqax",
+          "score": -5.274033518791742
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.737940966797804,
+          "text": "ifindosmfrqwvgqnukerawwsxfoichodiegmmazkvneaawoagvtbbxhbrhwodraqssmekwnbiwthqnlyhresvnqqfigpoevebovesxsxvzcyoropvehwoyorobsvekeoaoiflwelyfznuddiqphbrvmzyxisaftbnhnwmyllewyewfxkylesfvexeyentrmaapyymsyzivprxmkpwthatedvrdkiwsngamsadvusaurmhtqecposqdrcstcbkoxgeicipltclwlpcxtsbllnmydolk"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.738568590596793,
+          "text": "ifindocxfrlwauqcokuqamashboishdsiemmrizponpbabbabntrvxcdrxfodwavvsmkkgyboethfnvphwnsftqvoiwioelegrvurxhgvznytzopaexfotfritsffkedaykffdeanfkyutcifyhwdvbdynssfotwzhhymtnlziyuqfccyaysveechyestmyaaeytystriacrxwkkttsbteivmakddsxcamcaogunsugfhdgehhocmdmesibbevxwoinkpvpcqklewximbfsnwedywk"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              6,
+              20,
+              7
+            ],
+            [
+              15,
+              13,
+              4
+            ]
+          ],
+          "score": -4.741745866015156,
+          "text": "ifindoqnoblgepeeyrmaxtlearbdscqcaumbfdyiirxrdfwpnsutfetixuqqtwquqbbkzuokczscfhyeflhrdiikihytvzlzfmembuerxendhuneauuqqelsuytovnzdvgzimianxxxoclnfciksigiolkcuuissetydsksrvokwanwxccizspgbchusihdmvetpddewkexfcwplykarwuilnfakioqsorcfbwcyxviqpgwcbcsvbrckyamylattylvzsoequezggelwimxiuuwmms"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              6,
+              20,
+              7
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.744612057128226,
+          "text": "ifindosnfrlwvpqnykeaawlsxroishociemmmdzkinerawwagstbfxhirhqodwaqqsmkkwobizthfnlehrhsviqqiigtoelebmvebxsrvznyouopaehqoylroysvvkedaozflielxfzoudniqihbivmoyxcsaitbehndmysleoyeafxxylisfpexcyestrdaaeyydsywivxrxwkpythrteivrfkiisnsamcadwusxurqhtweccosbdrkstmbkaxgyiczpleclelpgxtwblxnmudomk"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              24,
+              14,
+              16
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.746110117309258,
+          "text": "ifindosffrvwviqnvkenawnsxpoinhokiebmmhzksneeawqagotbcxhkrhhodmaqesmzkwgbidthanlnhrmsvmqqnigqoefebaveoxsivzsyoyopqehhoygrousvikeyaonflzelefzgudziqahbpvmqyxusantblhnemytleuyexfxgylfsfgexryehtrkaazyyksysivrrxbkpktheteyvrrkizsnqamhadpusturnhteecmoszdrlstybkrxgqicnplcclylpdxttblonmxdoek"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              21,
+              15,
+              2
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.74926352803899,
+          "text": "ifindoscfrlwvkqnikelawvsxgoishoniemmmyzkdnegawragxtbqxhorhaodwaqlsmkkwdbiuthfnluhrcsvyqqdigdoelebgvemxsbvznyopopaehaoyqrodsvlkedaopfloelhfzdudxiqthbovmyyxnsadtbkhnimyxletyelfxsyltsfzexxyestriaaeyyisybivsrxwkpdthgteivrlkiosnhamcadmuscurahtmecxosrdrpstwbkfxgiicppluclzlprxtgblcnmkdobk"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.751034054614682,
+          "text": "ifindocsfrlwaeqctkuvamfshwoishdxiemmrtzpynpwabmabctraxctrxlodwavfsmkkgtbopthfnvkhwxsfoqvyiwooelegbvuwxhmvznytkopaexlotvriisfakedayeffteasfktuthifdhwtvbiynxsfytwphhomtclzyyuvfcnyadsvkecsyestmoaaeytostgianrxwkkitswteivmqkdtsxxamcaobunhuglhdbehsocgdmusigbelxwtinepvkcqulebxirbfhnwzdyrk"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.753147966658231,
+          "text": "ifindofsfblwzeqptkwvadfsqwodshaxiummatzdynnwaamasctdaxytrelotwapfsbkkktbxptcfnokhfxstoqeyiioozleabvwwxpmvenyckoeaeelokvrzisdakzdawefrtexsfntuvhindhxtvtiyuxspytxphdompclayygvfrnyndsckewsyustnoaveyuoskgiznrcwkqitqwtuivsqkptsfxarcarbudhutlhwbewsolgdhuslgbqlxdtilepdkcpulrbxvrbrhnkzdbrk"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.75885205344905,
+          "text": "ifindosxfrlwvuqnokeqawasxboishosiemmmizkonebawbagntbvxhdrhfodwaqvsmkkwybiethfnlphrnsvtqqoigioelebrverxsgvznyozopaehfoyfrotsvfkedaokfldelnfzyudciqyhbdvmdyxssaotbzhnymynleiyeqfxcylysfeexhyestryaaeyyysyrivcrxwkptthbteivrakidsncamcadgussurfhtgechosmdrestbbkvxgoickplpclklpwxtmblsnmedowk"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.764102643778093,
+          "text": "ifindofzfbawzlqpwkwiaddsqyodxhaqiuwmapzdpnniaasasgtddxysretotgaprsbukkabxltclnobhftstlqeuiirozqeanvwkxpuvehycfoeleetokzrznsdnkziawrfrcexlfnauvvinmhxnvtgyufsputxihdnmpblasygyfrdyngscsewdyuctnhavkyuhskliztrcrkqxtqitutvsekpcsfzarxariudmutohwtewiolidhtslubquxdbilrpdmcpalrexvubrrnkwdbyk"
+        }
+      ]
+    },
+    {
+      "shuffle": 6,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              1,
+              22,
+              4
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              6,
+              16,
+              12
+            ]
+          ],
+          "text": "ifindoubtkwovucswcxmbocdfkrqoucxyafucoegqhfkbemgrikesorpqahayrxrtaqatirigzheirnlunsagatwcweiqbfdpazatstxkhfxdivybtngscwcaeiedlmtpuyzmokxeyelpyklkvbgoihhxnsextkzwkrlbqsgzlluttqdofehtpqooagulwtwuygxwzhsawldovuhnlayfznostflyqlklrtdogmhxpfnimkebxpihzytfiepkvrygsmbxmcqvdoobygmsissdwvnlu",
+          "score": -5.072198741858484
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.686073234999263,
+          "text": "ifindorbxwwxpulqwopmvpcldkctoquxspfsdomsqkokhummtiyustxphrhnvrbktbdakbrkkzdqitelowsodaxsctuivdfseaerteaxicfnzisrbulgdqwtveyzdadtidynioolepzleckogvfnoadhufsfytrnwablwxsfqlxntundszeqxptuoshusatzayycwkwsytlhkvrrnyeyienyptkpytckextvkgifxaznrbkkfxsvhiptswefwvalgbabvrcandhwbeamadshtwaelo"
+        },
+        {
+          "key": [
+            [
+              14,
+              1,
+              23
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.697035184845571,
+          "text": "ifindowcxbsxzwllfouxvellytconqziszsstwmhdkiyhugmyzyuntnnhglnasbenbyekwlkeydfwtkwogpoibxhvtudviwsevegwefdicqnpbsmvufqdlatvpyzoaieiovnopofipzvenromwfcmatauamfobrhaabqwcyffoxhnuseskgqhwtkmsxcslazqwycmkgeyymhzorbkypfiecyuukzfthvenrvzziagakprbekqesadiewsrifbraqcblovrsasphrqeloadchtrakwo"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.698832887218295,
+          "text": "ifindokbxzwxaulcwonmviclqkcaoqsxsffsxombqkqkhemmgiyestmphvhnorbbtbaaktrkrzdzitclossowaxrcteivrfspaevteixihfnyisibuxgdnwtaeyedabtizynboohepeledkozvfboachuxsfstrkwarlwfsfulxetufdsleqyptiosbusbtzpyyxwknsymlhivrnnyfyiznyhtkqytakemtvigisxalnrmkkgxsyhittstefzvaogbrbvmcaldhybemmaishdwaclo"
+        },
+        {
+          "key": [
+            [
+              14,
+              1,
+              23
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.7142226286210125,
+          "text": "ifindowexbkxzallyouuveblymcolqzfszrstnmhekibhuwmygyuctnihgrnaubeabynkwykewdfxtktogioidxhgtutvidselegcefqiclnpnsmiufidlitvkyziaibiopnorofrpzqenfomyfchatmuazfosrhiabawclffuxhausgsklqhltkhsxtslpzqsycrkgdyyohzzrbdypuiehyuwkzuthsennvzliazaktrbukqtsaviecsrrfbiaqublnvrxasmhrtelsadxhtgakto"
+        },
+        {
+          "key": [
+            [
+              14,
+              1,
+              23
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.719398778941538,
+          "text": "ifindowwxbrxzkllbougvenlypcotqzsszvstymhakiphummydyustnzhgsnambeybyfkwwkeedfttkfoghoivxhntuiviaseaegdefsicfnptsmgufmdlbtveyzdaioioonoiofkpzlenzomqfcyatsuaxfodrhbablwcnffvxhyusyskuqhetkysxeslizqiycwkghyyfhzfrbcypoienyuokzotheendvzriacakcrbkkqnsaciedsrkfbqaqbblrvrcasyhrgelbadshtwakfo"
+        },
+        {
+          "key": [
+            [
+              15,
+              9,
+              11
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.733966409603947,
+          "text": "ifindoazxlexhqlwdoopvmmlkrckqqtasxgsaxmkpkpghzwmnbyzctethtbnepbffbpskxdkabdhhtdoouyonyxertztvxyskletneelislnmxsnourodbotlkypiacwibensmowwppqeqvoqtfusaqwubefvcryoawawbffsexifuwbssaqlatbssedsoezhcynrketycihwkrptyskiphyyrkcktbneexvwvimeasirguktiskqirnshwfldazpbicvbxamghxyethatxhygadoo"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              22,
+              23,
+              15
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.746988893952198,
+          "text": "ifindokvxzvxahlcsonvvielqfcauqsgsfisxqmbnkqahermgnyextmbhvpnolbbebabktckrfdzftcuoslowuxruteovrkspfevaeimihvnyasinuxcdnxtauyetabcizrnbhohfpeaedsozpfbaaczuxdfsvrkxarfwfgfusxeeufxslsqyxtiasbwsbbzplyxgknvymehinrnfyfgizxyhnkqgtatemfviyistalarmpkgfsygitastffzuaofbrevmnalnhysemzaihhdbacuo"
+        },
+        {
+          "key": [
+            [
+              14,
+              1,
+              23
+            ],
+            [
+              8,
+              11,
+              8
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.754509013371444,
+          "text": "ifindowpxbuxzvllooueveglybcoaqzqszmstsmhkkirhuwmyryuctnohgwnaebeqbyckwokemdfctkdogdoioxhmtutvioseleghefaiclnpssmyufydlytvkyziaimioknobofgpzqenaomifcnatruapfoxrhyabawcvffzxhqusrskfqhftknsxyslkzqxycrkgyyyyhzerbyyppiehyugkzpthcensvzqiapakorbukqosafiehsrgfbtaqeblhvrxaswhrielnadxhtgakdo"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              21,
+              15,
+              2
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.759588947653395,
+          "text": "ifindokrxzmxazlcgonbvixlqucayqsnsflsximblkquhemmgyyestmkhvcnogbbdbalktbkrkdzdtcaosxowqxrxteivrvspaevoeinihfnydsimuxrdngtaeyedabiizdnbdohppeledpozlfbiaccuxcfsorkgarlwfhfufxeduftslkqyutiisbpsbyzptyxwknxymahiqrnsyfdiznyhikqdtazemovibishalsrmkkgcsyxitostpfzlaowbrgvmcalthymemraishdwacao"
+        },
+        {
+          "key": [
+            [
+              12,
+              10,
+              22
+            ],
+            [
+              6,
+              20,
+              7
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.775870979402062,
+          "text": "ifindoogxibxielorogrvqslbecwiqmcsdqsedmdfkwehkmmvoykstdehhxnswbcobrvkumknudbytwqofcoafxostkivflsuaehiehcixfnvyskwuibddrtqeyudavyininftoyzpuleguodaftdazxuynfziraramlwexfgaxfoukistpqbztadsiksedzgoyhwklcyqqhflraxyiiiknymyktitupedivfwidsatxrrkkkhshnifiskzfiaaxmbpmvwcaeiheweuwayshiwawqo"
+        }
+      ]
+    },
+    {
+      "shuffle": 7,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 0,
+      "ifindoubt_outputs": [],
+      "top": [
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.714311182739498,
+          "text": "ifindodwawzhoguxwkurxfsnfotbntbbacmdykfaysxfowiomaskttsbtmcarlwacrhhonsswoiaeyfdeccytysffkrizdgehfnvoimyaponhgvanfywkevxvphnkpxcagybdsiziywedestelepbatcicdrddstzogrvtnlxfoftqbdykyuqklhymwnsrvxoetcxfcokemmtritfrauqishfyhchygfhznymkkmakibbuqfitseivvpcuqawdvimbewxmespaeedavvshboveensu"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.762044726545994,
+          "text": "ifindotwaszhbgucwkmrxmsnuotnntfbavmdgkfcysufoyiotaslttabtrcablwecrbhoksstoiveymdewcypysofkfizggecfnkoihyaionegvnnfmwklvxyphvkpqcauybqsiviyuedustzlexbalcitdrkdshzofrvknlufodtqidyxyuuklyymlnstvxcetqxfeokummeriefreuqdshcyhbhyifhenybkknakabbwqfutsuivopcmqasdvlmbgwxceseaezdauvsaboseeysu"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              1,
+              5,
+              17
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.768711322886073,
+          "text": "ifindotwasuhbrucwkmgxmnnuttnhtfgavwdgufcosuvoyyotqslotamtrcablwehrbnokhstdiveymyewhyptsoqkfozgrecfnktihtaitnewvncfmgklqxyzhvupqnauibqhivdyupdustzlexmalsityrkysheofwvkhluvoddqityxiuuplytmlsstlxcktqhfedkummemiearezqdshcohbnyivhenybkknvkarbwffuosuivozcmfasyvlbbgmxczseaezdauasamosueynu"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.771425050296792,
+          "text": "ifindotwaxphrbucwkwwxrhnpytsctamalgdwefndseloioodfsqitqwtrcablwznrwsouxsdtiveyrternyuosdakatzwbecfneyinoadynpmvxsfbrkqlxokhlepfxaktbaxiayykzdustzlenwavhiytrptsckoabvpclelotoqtiyntupuldomfxsdaxxptfsfptkummkgikvrzeqdshndhwsytlhenybkksqklgbgvfzisuivdkcwvaxtvvrbrbxhuseaezdapfsqwockedhu"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              15,
+              13,
+              4
+            ]
+          ],
+          "score": -4.783370455641247,
+          "text": "ifindodgqbttdocxrpeeulbiaksgruwhpsorowilbzhoqgmvwyephkhowmxfragvifcysxaugwlaktlnaxtcysdvsnmeytychlhqkhrsmkerspxlfxodsketlgfcwsneowfkolaeckmbwecieqzeoddqfhcxinoovnbceymrhoqvqimblzfclqznxsrirbyeiasseonrrewbyvkyksvaeixcqgkxthripzhdmuzrpatpyetnoxtetllrqedxbxgtpipzerdyplueivqgbxdbfngswv"
+        },
+        {
+          "key": [
+            [
+              7,
+              20,
+              7
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.785533344663059,
+          "text": "ifindoigattheouhrkoexxbndktdrtehadodewfpbsboolmolysrhtyotwxamawdirqyorasawiqkyxneltyqssmskpezzyexlntkiisaxenmpvkffpdkwexrghtwpyeaxfbnliwcyhbdkctuqevoanqipcrvnsrvozcvfmlboorqqabyafutqluxmuisfyxmattefrrkkwmvvivkrdaqyxhkghvtyvihkhyruktpkcpbitflxsktvwrcodatxvxpbtzxydsuleuiaogsidoznepwu"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              17,
+              4,
+              5
+            ]
+          ],
+          "score": -4.789192229967594,
+          "text": "ifindodwampcibexwkzwnvhhqyyrcommfxgoteqfdhcldbodrfhzionwdmcarlwlnwsstsxhbtyaeyvtznndionaaubteybphfnfyobovzysnmlfsvtruulsqkshezsxlbtmixypytrzoestelekwlyhystmttndktrbaicfcldaoagioeteauqxoggxxwanypyxsqhtzemmigdivmlevishldxnsdmlxznymkkbqeogrzvvyineivqknzvqmtqorrkbnbunpaeedaffxcwyakuchp"
+        },
+        {
+          "key": [
+            [
+              15,
+              9,
+              11
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.794105677712536,
+          "text": "ifindoygaethnounrklextbnckterttharodhwfwbsdoosmoxyshhtbotbxawawsiruyotascwilkytneptybsspskoezxyeslnskiusabenopvbffxdksexpghwwpmeaffbelihcyabdzctpqeyoakqivcrrnsqvoicvmmldookqqnbyifuhqlaxmtisnyxlatbefyrkzwmwviwkrsaqtxhmghetycihphygukkpkzpbqtfmxsztvkrcldaexvepbazxedsklepiaxgswdobneqwu"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.800472529912943,
+          "text": "ifindodrabnhdvuxmkesxllnaftgvtwoasqdoifleshwogpowwspwthatmsarqwvprcpoxisgeiapylwexkyymsvekmaztqehqnqfirmakvnsxvlyfolkkoxlyhcipngawnbodiewymydenteveeaaddihbriwsorobovyllhwovnqmzyznulwlnwmresbbxiwtsmfnukegmyziyorvgqichqphxeyrmhzcymekrdktcbewfobsedvltcerabrvtsbpcxrcspveeoaqssxfofvesau"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              6,
+              16,
+              12
+            ]
+          ],
+          "score": -4.800499347903101,
+          "text": "ifindodgvmiqiitxrzzkovraquqrgwmssxistrpfgoctubrkrddzxrnicmxqrabltisiasfybbpakivcsndlihaantbpwytyhlxfufbhizpznubflgtyiuulqbbhryszpbaaiqkpsgrwhecoeqpkikyvzssktcfdflrnxibdctualuggkeataacxnegtpwdtylqxzehwfewgilmizullhixslmondamodzhomuebehouszybynvetqqmrzirmndouxketbtlplzeilfrucycaslcmx"
+        }
+      ]
+    },
+    {
+      "shuffle": 8,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              9,
+              11,
+              8
+            ],
+            [
+              19,
+              24,
+              1
+            ],
+            [
+              1,
+              1,
+              22
+            ]
+          ],
+          "text": "ifindoubtszyvzgrzddvprcgupvxgxcbobvbxltaunzzqcaxtmvpwkzbvigplppesoxivvaztvpnaazxqkindhwbiyeklhkmphbxdmpnzgswzylrbluhorwlbzetdodnsdzzpnzkpeuyqohyvdxmztcetfeekxadsiiinawzovuzalfycxftvgaosiyckwdqwphzfpczemhkcbzvacvlkvlhiuuubgutszsccaffzxrhqfkxsoavzigttvsgtxmuitmrvzogezdgkoeqzahtnmqfkw",
+          "score": -5.432497554422083
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              21,
+              7,
+              14
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.701530332156098,
+          "text": "ifindoqnrwoauitdrkwiypvfotswqkpturlwvdshgddoshfndwadvrmtbloqyxiznyikohsfroowuslyifulakhzbxtisvsfdgimctslopvaedassyestxsomkklakishntrslolfseivmaxdgbibegtvohivytblhxhumxsrtixtkdrbadhplxgfseynqhnqteeleuwadefxwkrmacxawbvsomemmqeqbzdgphxwtmcanwodptaeypwxgtzakcdclsnycmvhxstbupaesepqkekyy"
+        },
+        {
+          "key": [
+            [
+              21,
+              7,
+              14
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.717384993484983,
+          "text": "ifindoqcrwyauttdwkwdypqfodswakpyurlwvyshmddyshfndwadfrmybltqysiznyizohxfriowesloifklaphzwxttsvnfdrimntsfopqaedashyestxhomkklfkishndrsfolvseivmvxdbbigegdvocivotbfhxsumnsroixokdmbayhpvxgaseonqsnqdeeleubadkfxwkrbaccawrvsymemmquqbedgzhxbtmcanbodetaeyprxgizapcdnlscycgvhsstgupaeskpqeekiy"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.7377591283728036,
+          "text": "ifindoacrmyakttywkbdyuqfddsmakkyurlwayscmdtyshfndwatfrgybftqdsiznytzocxfwiomesvoiqklvphewxitsanftribntxfouqaedachyesthhomkkffkishcdrxfovvseivrvxibbdgewdvtcifotgfhnsuwnswoicokimbfyhevxmasponfsnfdeelepbaykfxwkbbaxcagrvhymemmauqwedwzhsbtmcahbooetaeyurxrizvpctnlccyhgvnssogupaenkpveeziy"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.742845392035593,
+          "text": "ifindolnrboazittrkgiyzvfttsbqketurlwfdsxgdioshfndwaivrbtbaoqixiznydkoxsfboobusfyiaulqkhkbxyisfsfigirctclozvaedansyestssomkkaakishstrcloffseivwaxogbybemtvyhiqytmlhchugxsbtihtkorbldhulxrfszynvhnvteelekwatefxwkmmasxarbvxomemmleqrzdmphnwtmcacwoyptaeyzwxbtzqkciclnnynmvsxsibupaehepakepyy"
+        },
+        {
+          "key": [
+            [
+              18,
+              8,
+              0
+            ],
+            [
+              21,
+              15,
+              2
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.754531643833287,
+          "text": "ifindorsrviaodtabkeyyclfcosqlkmduglwitszrdcisnfnowanqridbxyqbniunyzpoecfedoapsbdigzlhuhnrxcdsyhfnbivxtlaonlakdayxypstixowkknlkoshrorlaorlspivzqxbwbqmefovmximdtpahgcuccskiilikrgbtthdfxpvsqdnecneoeklewgafpfswksrauhacgvwimpmmrkqokdfkhzgtgcaegouutfeynmxxyzsuchxldsyvbvansqmuzaeuppizeity"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              15,
+              17,
+              24
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.763830831884599,
+          "text": "ifindoaurmgakrtyvkbpyumfdrsmykkxurqwauscadtgshqndratirgxbfxqdtizcytwocwfweomxsvliqblvihesxiwsaoftuibqtxmougaeoackyenthuomekfpkichcwrxmovxsedvrrxisbdaewmvttifltgbhnvuwkswuickkihbfeheixmmspanffnfreeveplaytfxmkbtaxragtvhrmegmamqwidwhhsltmsahqoobtapyuhxrfzvdctflcpyhnvnysofupventpvlezry"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.771744223177459,
+          "text": "ifindoanrmoakityrkbiyuvfdtsmqkkturlwadscgdtoshfndwatvrgtbfoqdxiznytkocsfwoomusvyiqulvkhebxiisasftgibctxlouvaedacsyesthsomkkfakishctrxlovfseivraxigbdbewtvthifytglhnhuwxswtictkirbfdhelxmfspynfhnfteelepwayefxwkbmaxxagbvhomemmaeqwzdwphswtmcahwooptaeyuwxrtzvkctclcnyhmvnxsobupaenepvkezyy"
+        },
+        {
+          "key": [
+            [
+              21,
+              7,
+              14
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.771777718344071,
+          "text": "ifindoqprwmauwtdlkwzypwfowswdkpnurqwveshqddmshqndradormnblnqydizcyirohmfrpowcslfifwlayhzcxtbsvyfdzimvtswopraeoaseyentxpomeklekichnbrswolssedvmbxdcbiqegrvodivftbmhxaumesreixukdsbaphpoxgwsevnqlnqweeveuaadifxmkroacgawovswmegmqgqbydgnhxatmsanfodwtapypsxgazatcdllskycxvhistvupvesipqvekwy"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.774168431538278,
+          "text": "ifindolcrbyaztttwkgdyzqftdsbakeyurlwfysxmdiyshfndwaifrbybatqisiznydzoxxfbiobesfoiaklqphkwxytsfnfirirntcfozqaedanhyestshomkkafkishsdrcfofvseivwvxobbygemdvyciqotmfhcsugnsboihokomblyhuvxraszonvsnvdeelekbatkfxwkmbascarrvxymemmluqredmzhnbtmcacboyetaeyzrxbizqpcinlncyngvsssigupaehkpaeepiy"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.780466613928235,
+          "text": "ifindovcrryapttowkmdyeqfidsrakzyurlwlyssmdyyshfndwayfrwybvtqosiznyozosxfgioresqoilkllphpwxotslnfyrignthfoeqaedaxhyestchomkkvfkishhdrhfoqvseivbvxtbbtgebdvdciaotrfhssurnsgoinoktmbqyhkvxwaskonlsnldeeleebaokfxwkwbancabrvnymemmvuqmedbzhhbtmcaxboietaeyerxmizlpcynlxcysgvxssdgupaeckpfeeeiy"
+        }
+      ]
+    },
+    {
+      "shuffle": 9,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              22,
+              19,
+              20
+            ]
+          ],
+          "text": "ifindoubtpsxymyaoigyunppygxiiseimsxakacmdzugnqltbawxoqmnkywzapmehyyxrfhvzqebokqevuctlpmtycbyihvixfkaddlhynfqqeqvotuwmuoyvcdwttcgskmqgwvgzhcdxmdlziacaostnfcqlinibitgavwerxacbcmehtcworsknxtyhhsflecdxhuxxepfmbscrkvkyuqfieheleufrsnperufeuoszbukukodqfkkdealevotwtutvbttuoyclnnrywtqekwlqt",
+          "score": -5.183731232115172
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.713047961210104,
+          "text": "ifindokzduosiooqwtwbesqkokhtlhznrxtvuxsbrkpfsaxiblwnwartedhulgbenydomamazlerbufsfustvrbdfswsockontuqwoqitxsffxalgdummeloayyrnyndhpclwefrbxhuswvazdaxptxphabvfxstiytwaleprcandswwxytrdkcptsdaxnoaqlxdshzispmvrhncwkveypuldyneaektbckeptkatzdakbkkpyttoqeyizeqkgidtiuivwsyelocfnsctgvfkvrvhi"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              12,
+              14,
+              15
+            ]
+          ],
+          "score": -4.786041168710171,
+          "text": "ifindomyiymcgpihaytqkrdulynrmcvpgbrfxinolpqshoddrqweaflwpsaetcwzcynwwwoqevedvzsmlenttswwwncpdordznzxftpwdlyangfsqiegmhwiewixkoqpcylvoilpcsrccerveoaiwibnsbolrehmztdraciumsalenesshbblthiwcbbsrmlkohichobcsxqllxxmkapylwakvcpvewngfvznuemapvepmekafivnvqfyvgfyztgededvxeohwihqngvdewayobddd"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              11,
+              6,
+              2
+            ]
+          ],
+          "score": -4.78634058761565,
+          "text": "ifindombnyslgmehohtydrpslggriyviybxoxatodoqgkolerabeoplncswhtpnzhonxpwhheqpdoysekecotpswyycyqovazfyxdhphblfbneusoxewghopecrxtaqgiymoowupzordvedmeiliafbtabcnriembedgvcwdmxqlbieeihculrwinqbyorstkevixsoxfspwlblxrzakilqskepplzwfffnfnramemvsymueakfvqzqkvvaxyvwgwketqxtqhophlxgrgetwykedqu"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              2,
+              9,
+              10
+            ]
+          ],
+          "score": -4.792500916160536,
+          "text": "ifindomyyymhgpthaotqzrdzlycrmnvpbbrlxixoleqscodorqweavlwusaktcgzcynwbwolevedvpsmaenttsgwwxcpyoryznpxfipwilylngvsqyegmhwtewoxkiqpnylaoiapccrcherfeoaiwdbnxbofrecmzddracikmsalexeschbgltxiwhbbcrmqkonichobhsxallcxmkapylwvkvxpvewnwfvknupmakveemekafdvnlqftvgayzygeoedvxeihwthqngviewlyogddo"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              21,
+              11,
+              7
+            ]
+          ],
+          "score": -4.7938834496297655,
+          "text": "ifindorwxihfbrunisytobenqbrmooltdmnisfityyfrpiqurabkizvcxcmcouczhoxnkmsneqpiiixzuecoouhrdosivdffeaicyszxwflrszexihewgctepsmndflmyibitrekedbtqzibeilyllmivrnsgtkggudgvhromxqfgyzkysspqmgtclwddbhouuqixsynanumvrfxrzakiaaxzpuplzbaqasvhwqbpranimuequlalkfuallcilrbbzetqndvctehlxrgbzymizzyvk"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              5,
+              8,
+              24
+            ]
+          ],
+          "score": -4.795117062424663,
+          "text": "ifindombmysigmfhomtysrpflgvrizviabxmxaeodhqgwollrageotlnfswatpizhdnxxwhkeqzdossedecitptwypcynovhzfsxdrphplfhnedsogewbhoaecpxtxqguymwowypzprddedheivianbtybczrimmbvdgqcwhmxflbkeeehcclrfintbyprsrkeyixcoxysphlboxrpaktlqukempluwfzfnrnrbmetvscmuzaknvqyqkcvazyvpgwvetlxtchoahlhgrzetxykxdqq"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              18,
+              12,
+              18
+            ]
+          ],
+          "score": -4.798299525630585,
+          "text": "ifindombkysegmhhoutyvrpglgyribviebxhxabodvqgvolxrareoblnmswmtpazhinxowhoequdofserecytpvwywcygovwzffxdkphqlfunewsozewrhoxeclxtrqgrymnowgpzrrduedzeiqiabbtubcyriambcdgfcwqmxllbmeewhctlryinzbyrrsnkeeixxoxkspelbuxruakolqykefplkwfnfnonrdmehvslmupakbvqwqkrvadyvagwsetaxtbhoxhlcgrletzykidqh"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              8,
+              11,
+              8
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.798982847017421,
+          "text": "ifindokmdunsiboqytwieskkorhtyhzorxsvuqsbokpmsaaibawnyarhedrulebehydsmanazqeryufpfuctvebdoswdocaonquqooqctxvffpalyduwmedoaxyryynwhpglwgfrpxhyswtaziaxftxohahvfostrytgalgprxanrswuxyxrdbcphsdoxnnaqzxdxhzsspevrwncrkvkypvldknelekqbccepgkakzdckbukppttaqepizfqkqidmiutvwyyedoclnsmtgifkervfi"
+        },
+        {
+          "key": [
+            [
+              21,
+              7,
+              14
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              15,
+              13,
+              4
+            ]
+          ],
+          "score": -4.801432771670408,
+          "text": "ifindobwwdhdrrvxiwitcweaabfbopqtfgnghfudyslrbyqaraguidqcaxmvduyzhdsnsrspeqztichzoeciduigdexisifnpacnybuxkvlxczohirewbstqksksdcamkdbrdrizeewtypixeivdlsgitwnemtrwgldgqsrsmxfvgzpkunsxamqocomdewhmputixctntcuxqrixrpaktfazeprplumakqsgxwrgpylnnmuzvuslliluhqledlkrbletlsdhstqhlhmgupyndzsovf"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.801467883906865,
+          "text": "ifindokeduysiioqbtwgesakophtfhzcrxdvussbwkpvsasiblwnbardedsulbbenydymabazlergufxfustvmbdaswhoczonyuqboqttxnffcalmdummefoaiyrcynyhpnlwkfrwxheswqazdaxetxzharvfnstdytwalkprcanyswrxydrdpcpdsdvxnyaqvxdshztspgvrsncwkveypkldoneaekybceepokaizdfkbkkpotttqeoizuqkridoiuivwhyefocfnsntgqfkfrvci"
+        }
+      ]
+    },
+    {
+      "shuffle": 10,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              9,
+              11,
+              8
+            ],
+            [
+              20,
+              7,
+              14
+            ],
+            [
+              5,
+              8,
+              24
+            ]
+          ],
+          "text": "ifindoubtvwdudlptxazmrgxibxdccayhvbpfqmzovxzudwzdgccqtxazfcttzfvptvtycqhpgabezkanifaxpkugbevurahvvtvnizrifbpbqgopvrknyqmsrnfvrfoqviknhdzhhgcekruwbfhihviztucmfsnfrknwtrqcwmzvzcmpdovvbdmyycsyunimexpgaxmhuqwzacglsrzcwqogbhsrrbnpzomompafgecdicyxifeteukatifpeprsfccszeblolubzogpzczegydkv",
+          "score": -5.298449842539182
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.679680286092534,
+          "text": "ifindoptsfxauivkvrfxsgvfdomdshlepqitqwtzdandhtlhytrnwasctvrbiooveyqlxcfnelobkkpytdhundsummeaebrkatzlgbuosayyblwdtiwsodynxptqwovhiamahuspmvwwxpulrtexsfabvdakwbeckepfstwaxtvzlecwkokhfsfwefxphustrnyelockopcleyirbuwsyrhnwvanoarbxkzddaxlgdenytoqsqkuxsznrdkckgircantuptkaxizeqdfsktbzistiy"
+        },
+        {
+          "key": [
+            [
+              19,
+              16,
+              13
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.7035761778748375,
+          "text": "ifindopdsfcauivkfrfnsgqfdymdshlkpqttqbtzdanyhtfhydrnbasntvmbiioveyqvxcfnefobkkpotdsunysummeaebwkaizlbbuysaiyblwdoiwhodonxetqbovciabahespgvwrxpklrdexnfarvdfkwgeceepvstwaxdvzlecwkophfxfwkfxzhustrcyefoczopnleoirguwhyrsnwqanyarwxkeddvxlmdenyttqsakusszcrdpckrircanyupokasizuqdaskybztstdy"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.75414447377301,
+          "text": "ifindokdsqcauivefrlnswqfyymdshvkplttabtzdacyhifhtdrxbanntlmbyioveylvxcfnufobkkuotysucysummeaemwkfizabbpysviyblwtoibhoioncetabolcifbacesegvmrxuklmdennffrvofkggeseeuvstwasdvzlecwkyphqxfgkfszhustwcyufohzoknlkoibgubhymsnmqahyagwxuedtvxvmdenydtqnakkssecropcerircaxyueokqsieuqtasuybutsidy"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.768616800789714,
+          "text": "ifindoktsqxauivevrlxswvfyomdshveplitawtzdacdhilhttrxwanctlrbyooveyllxcfnulobkkuytyhucdsummeaemrkftzagbposvyyblwttibsoiyncptawolhifmacusemvmwxuulmtensffbvoakgbeskeufstwastvzlecwkykhqsfgefsphustwnyulohkokclkyibbubsymhnmvahoagbxuzdtaxvgdenydoqnqkkxsenrokcegircaxtuetkqxieeqtfsutbuisiiy"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.770104951778647,
+          "text": "ifindokwsqgaudveorleswwfywmdchviplwtaatzoacphimhtbrxaanvtlsbypovpyloxcqnuwobekuftyaucesugmevemlkfazacbpmsvwybqwteibpoivncwtafoldifoaccsexvmsxuwlmwenyffovoekgqesveusstrasrvzvecmkyyhqmfgifsnhuntwkyuwohrokllkfibvubeymlnmrahmagcxuydtbxvqdecydnqndkkiseprotcezirsaxnueukqdiegqtwsunbubsizy"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              19,
+              20,
+              6
+            ]
+          ],
+          "score": -4.771831534179935,
+          "text": "ifindotcmszhetfizfgtdzydxnvixnhrgzxsnileiflmlmofssakisrghouzbrmakduurhlsctrmuuquecmifgqewwplptywbploukihwpscrambbmsiuzptylecyvyvrmswbtbnuyzkfaagvcyfltrnwanbytbashfrtdglmnzeqkxreqbexzstrxmimecdndectrdfzibufuuiigndzvrgziibhekevrwfwdvxilzhtalsbeisfvltnqmkilxmxveaghwhiqwllmrdlbaoyngggr"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              1,
+              5,
+              17
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.779422525414894,
+          "text": "ifindoiysnnaeivyarrsseffntmishcuppothmtedaqohrvhhyremaghttbbgyoaeykqxhfnhvomkkattsnulosemmpaeogkmoztrbytsedyrlwgdicnoktniktxmodsiwgarzsswvegxlpllyelcfbwvvqktrefueqasdwabyvelexwklzhshfoufbuhestxhyhvooeoyhlqtidruxnylnnefartapmxmpdblxswdznyvdqrvkxhsvhrlzcymimcaziundkohivzqwqswiboosmty"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              15,
+              13,
+              4
+            ]
+          ],
+          "score": -4.781168431394431,
+          "text": "ifindotcoszoetlizsgtrzynxnsixchrszxkniweivlmkmopssxkidrguouibrvaktuuthlhctqmuzquscmvfgzewbplutysbpyouyihdpskragbblsiszprylscybyvfmspbtynuxzkuaazvcaflxrneannytcasgfrbdgqmngeqzxrpqbfxzotrimitecindcctqdfnibrfuhiicndhvrizixbhmkeerwwwdexirzhdalibeasfultfqmqilkmxfeachwriqallerdebakyntggl"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              5,
+              12,
+              19
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.784084597364233,
+          "text": "ifindoiwsngaedvyorresewfnwmichcippwthateoaqphrmhhbreaagvttsbgpoapykoxhqnhwomekaftsaulesegmpveolkmaztcbymsewyrqwgeicpokvniwtxfoddiwoarcssxvesxlwllwelyfbovvektqefveqssdrabrvevexmklyhsmfoifbnhentxkyhwooroyllqfidvuxeyllnerarmapcxmydbbxsqdzcyvnqrdkxisvprltcyzimsaznunukodivgqwwswnbobsmzy"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              13,
+              22,
+              3
+            ]
+          ],
+          "score": -4.787851047875887,
+          "text": "ifindoinpneretaykyriletenxdixxcwlphfhopeiqqgwrighcieowgratpagmnakokeuhlchocmupakmswblbrewrplkodqmestpfysuecarargwxcyrkeqiamxdedqnwhyrdkspkeeblqilnblfzbcivsftyqfntqgfdgfbxxequxrulgtsemowbbtkecyxtbhocovgymcqkbdoaxtmlbkederscpzwmbebywsouzhivqrrpwxagviplrtyvqmxlzfanriolcvaowybwfhoxzmbh"
+        }
+      ]
+    },
+    {
+      "shuffle": 11,
+      "rows": [
+        25,
+        25,
+        25
+      ],
+      "keys": 12500,
+      "ifindoubt_keys": 1,
+      "ifindoubt_outputs": [
+        {
+          "key": [
+            [
+              13,
+              18,
+              10
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "text": "ifindoubtfsswotbcrkiopkpwsuumdevxlntgbbgsipcarbadybyyhhizcrilyakdanfnpstunyqfogcanpcstsbuqhfkusnnnszbocphwmbudeyiyswkeethqfbvsgdrufhxnllgeglwpmmkzosqaqesfeyqokowaoystvxkleqfocbaswxgyunrvihyzaewkkaonzxfthocfrrklpivsrxocypoifakstqagvmymdttdnfoeeiedsdsakfoshuassyslgumoikdyvwkrcivdvvzh",
+          "score": -4.904658641805395
+        }
+      ],
+      "top": [
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              15,
+              17,
+              24
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.751608908692844,
+          "text": "ifindohltxysaltvurgeoctpsvusadbrxgqttsbotinraelawxbqehmfzyuirgaeoahqnentzcyhmomsaldcowsvmqvpklfnrksxqolihthblreeryxmkibtemfqxshwrrbhyfltaerqwegmowoegarxsapynkkdraluskixevehmowtapsxzxubtvxkypvemekkanswfcuoyirlbledvehxxpyguirykvxqsnvnrmprtlofflemidirsotfichwmsygsdfuqlimpyovkdtibmvbhh"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              23,
+              6,
+              3
+            ],
+            [
+              3,
+              17,
+              23
+            ]
+          ],
+          "score": -4.762411335581223,
+          "text": "ifindohoexarakgvikgmxcwaswgsokbyggrftpqolnnegeomwfxqggmenyvvrsheiqhlcecyzhihonmxllrioxevaivsvlbprifxdulgitpllngecfxruiagetpqgahcorirymhtyfrarewrovbedprdpakonrtdgflbbkezequhonwhtpzgzfqbcdxtgplkmupkelsebcymykdlqdetaeemxtwgwhrpbvqgspunxiphllfkfndmbuinuowrixxwymyszdoqqkwmbsodfdqxbxcbtp"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              22,
+              23,
+              15
+            ],
+            [
+              11,
+              6,
+              2
+            ]
+          ],
+          "score": -4.768237326951541,
+          "text": "ifindosxhngtfgfaaywhenfdnzhccxruobugifndmextupxpgeffnirbmtywmatetlhvxexozxoxupmnqvfwiafasxfbyfplwfehshvagilsfaczlrxgzoxfupwvikcvugeyteodsdrfbergtsauummwvauicnadbvaxiesveapxupbzhevokeygencvqpfzmpeprpcdkhlqtneqhseoquvicfawckmnsfuzhvwhqpkfbagbvtfwfndaqyfuihsmkytalonyvgvbneycotguwfowba"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              22,
+              23,
+              15
+            ],
+            [
+              2,
+              9,
+              10
+            ]
+          ],
+          "score": -4.770086682063822,
+          "text": "ifindosxongxfgdaabwhtnfknzkccyrucbuiifgdmoxtvpxvgewfnnrbktyymaqetahvnextzxyxutmnavfxiahasafbefpcwfchsivacilgfauzloxgkoxduplviccvggenteadszrfwermtsyuufmwhauycnpdbaaxxesneaexutbzlevckepgefcvipfempkprxcdahlytngqhveovuvccfiwcomnzfulhvahqbkfiaglvtkwfydahyfaihhmkxtahonpvgtbndycetgowflwbx"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              15,
+              17,
+              24
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.774028618111359,
+          "text": "ifindonltsysqltlurbeohtpcvuxadwrxrqtosbitisraklabxblehbfziuibgaeoahqnentzcycmomsaqdcywslmqapkvfngkscqoqihohbvrepryxmkybtzmffxsswrmbhiflyaerqwegmdwozgabxsapyhkkdrafusuixevecmomtaksxexurtvnkypvemekzanxwfsuoiirabledvzhxnpybuibykaxqnnvxrmzrtfofaleridtrsttfichrmsigsifufligpytvkytimmvmhh"
+        },
+        {
+          "key": [
+            [
+              6,
+              12,
+              19
+            ],
+            [
+              15,
+              17,
+              24
+            ],
+            [
+              12,
+              14,
+              15
+            ]
+          ],
+          "score": -4.774607674558414,
+          "text": "ifindohlyxynalivuggeictusvesaibrsgqdtswotdnrfelfwxgqecmfpyutrgleoahqnentzcyhmimsaldhowcvmfvpplfxrkhxqtlinthwlrperixmkibiemaqxhhwbrbcyfvtakrqwegmowdegvrxcapynkedralunkihevehmiwtqpsszxzbtlxkopvemekkacswlcudyiblbaedvehsxpogudryuvxvsnqnrwprdloaflzmiiircotlichwmnygcdfzqlymptovpdtdbmfbhs"
+        },
+        {
+          "key": [
+            [
+              4,
+              21,
+              18
+            ],
+            [
+              6,
+              20,
+              7
+            ],
+            [
+              15,
+              13,
+              4
+            ]
+          ],
+          "score": -4.777949215711522,
+          "text": "ifindoarwkcuuisexfytvvzsyxvvbrtfensuamyqcaqsoxrduokcikfdyewkhdmzdvcfhusienduqqrcfoequytepeovnmxilhrarbyeflwimiavokcwpczswanuqbtixiqpksrgwcblgumbhunmaxckyveteyrtwqcizlatzlzuqqfwpggexocfmebcheaubkziirqnobcselsuezuilmbuwxctylnfadiierxydslyknxxspguuwkiogzidsctlepddbwckihiolmmslnfsigset"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              16,
+              0,
+              12
+            ],
+            [
+              7,
+              24,
+              0
+            ]
+          ],
+          "score": -4.780309930297126,
+          "text": "ifindosbtnssfotacrwionkpnsucmdrvxbntibbdsixcapbagybfyhriztrimyaedahfnestznyxfomcavpcitsauqffkfsnwnshbovphimbfdeziyxwkoetuqfvvscdrgfhtnldgerlwemmtzouqamesaeycokdwaaysevxelexfobbaewxkyugrvchypaemkkponcxfhhotfrqkleivurxccywoimakftqhgvhymkttanfveewedddsykfishmastysoguvoibdyywktciwdvwzh"
+        },
+        {
+          "key": [
+            [
+              11,
+              2,
+              9
+            ],
+            [
+              18,
+              16,
+              13
+            ],
+            [
+              15,
+              13,
+              4
+            ]
+          ],
+          "score": -4.786919216746089,
+          "text": "ifindoniwsfuqusltfbrvhrscmvxirwderguouyiqaszokidbaklmkbpyilkbhmeivhlhecizhdctqmxfqmqyntlleannvrigtrcybqbfouivcapskxrpylszynfrbssxmopibrytcragewbdfnzixbtyakthwrdgqfgzuuteqzctqmspkeeeacrnendhplumuzzprxzosisizsaazetlzkundcbblbeaalinuxxnszxkflxasgrwwtcotriixcrdeihdiicfuhggltysyvfmngmit"
+        },
+        {
+          "key": [
+            [
+              16,
+              17,
+              24
+            ],
+            [
+              11,
+              10,
+              22
+            ],
+            [
+              11,
+              6,
+              2
+            ]
+          ],
+          "score": -4.788018687032341,
+          "text": "ifindoswhnxtfyfanywoenednhhcgxraobcgigndxexxupwpgtffdirtmtgwmotedlhfxesoznoxlpmcqvkwiifaexfayfhlwxehwhvkgirsftczyrxwzopfuvwvfkctuglytcodbdrlbemgtkauvmmuvaeictadwvadielvelpxlpbmheboktygbncsqpazmkepypcskhsqtvequseiquwicnawtkmqsfozhmwhopkibasbvkfwzndtqyeuissmfytolobyvyvbieyrothuwtowpa"
+        }
+      ]
+    }
+  ],
+  "acceptance": "Complete coherent continuation, not fixed IFINDO or the fitted IFINDOUBT alone; ranks exclude fixed crib."
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "url": "https://api.github.com/repos/puzzlehunt/gsmgio-5btc-puzzle/issues/comments/2924731790",
+    "html_url": "https://github.com/puzzlehunt/gsmgio-5btc-puzzle/issues/32#issuecomment-2924731790",
+    "issue_url": "https://api.github.com/repos/puzzlehunt/gsmgio-5btc-puzzle/issues/32",
+    "id": 2924731790,
+    "node_id": "IC_kwDOD23F086uU92O",
+    "user": {
+      "login": "andgms",
+      "id": 214232043,
+      "node_id": "U_kgDODMTr6w",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214232043?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/andgms",
+      "html_url": "https://github.com/andgms",
+      "followers_url": "https://api.github.com/users/andgms/followers",
+      "following_url": "https://api.github.com/users/andgms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/andgms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/andgms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/andgms/subscriptions",
+      "organizations_url": "https://api.github.com/users/andgms/orgs",
+      "repos_url": "https://api.github.com/users/andgms/repos",
+      "events_url": "https://api.github.com/users/andgms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/andgms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "created_at": "2025-05-31T09:07:34Z",
+    "updated_at": "2025-05-31T09:07:34Z",
+    "body": "Who checked if this is real or nonsense?",
+    "author_association": "NONE",
+    "pin": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/puzzlehunt/gsmgio-5btc-puzzle/issues/comments/2924731790/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "performed_via_github_app": null,
+    "minimized": null
+  }
+]

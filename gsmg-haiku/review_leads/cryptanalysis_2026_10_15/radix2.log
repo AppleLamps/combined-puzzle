@@ -1,0 +1,114 @@
+[
+  {
+    "mode": "ring",
+    "name": "natural0",
+    "keys": 3888,
+    "full_objects": 0,
+    "best_prefix": 10
+  },
+  {
+    "mode": "ring",
+    "name": "natural1",
+    "keys": 3888,
+    "full_objects": 0,
+    "best_prefix": 10
+  },
+  {
+    "mode": "ring",
+    "name": "dbbi0",
+    "keys": 3888,
+    "full_objects": 0,
+    "best_prefix": 9
+  },
+  {
+    "mode": "ring",
+    "name": "control2",
+    "keys": 3888,
+    "full_objects": 1,
+    "best_prefix": 226
+  },
+  {
+    "mode": "01",
+    "name": "natural0",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 10
+  },
+  {
+    "mode": "01",
+    "name": "natural1",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 9
+  },
+  {
+    "mode": "01",
+    "name": "dbbi0",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 9
+  },
+  {
+    "mode": "01",
+    "name": "control2",
+    "keys": 5760,
+    "full_objects": 1,
+    "best_prefix": 226
+  },
+  {
+    "mode": "12",
+    "name": "natural0",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 9
+  },
+  {
+    "mode": "12",
+    "name": "natural1",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 11
+  },
+  {
+    "mode": "12",
+    "name": "dbbi0",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 9
+  },
+  {
+    "mode": "12",
+    "name": "control2",
+    "keys": 5760,
+    "full_objects": 1,
+    "best_prefix": 226
+  },
+  {
+    "mode": "22",
+    "name": "natural0",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 11
+  },
+  {
+    "mode": "22",
+    "name": "natural1",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 10
+  },
+  {
+    "mode": "22",
+    "name": "dbbi0",
+    "keys": 5760,
+    "full_objects": 0,
+    "best_prefix": 9
+  },
+  {
+    "mode": "22",
+    "name": "control2",
+    "keys": 5760,
+    "full_objects": 1,
+    "best_prefix": 226
+  }
+]

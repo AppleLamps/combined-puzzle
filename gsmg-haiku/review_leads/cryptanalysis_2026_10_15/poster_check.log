@@ -1,0 +1,132 @@
+{
+  "url": "gsmg.io/theseedisplanted",
+  "counts": {
+    "W": 85,
+    "K": 86,
+    "B": 15,
+    "Y": 9,
+    "F": 1
+  },
+  "color_prime_sums": {
+    "B": 484,
+    "Y": 479
+  },
+  "parses": [
+    {
+      "cells": 84,
+      "omitted": [
+        {
+          "index": 175,
+          "row": 4,
+          "col": 9,
+          "color": "Y",
+          "byte": 22,
+          "bit": 7
+        },
+        {
+          "index": 191,
+          "row": 5,
+          "col": 6,
+          "color": "Y",
+          "byte": 24,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": false,
+      "first23_bytes": false
+    },
+    {
+      "cells": 84,
+      "omitted": [
+        {
+          "index": 167,
+          "row": 9,
+          "col": 6,
+          "color": "Y",
+          "byte": 21,
+          "bit": 7
+        },
+        {
+          "index": 191,
+          "row": 5,
+          "col": 6,
+          "color": "Y",
+          "byte": 24,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": true,
+      "first23_bytes": true
+    },
+    {
+      "cells": 83,
+      "omitted": [
+        {
+          "index": 183,
+          "row": 8,
+          "col": 5,
+          "color": "B",
+          "byte": 23,
+          "bit": 7
+        },
+        {
+          "index": 191,
+          "row": 5,
+          "col": 6,
+          "color": "Y",
+          "byte": 24,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": false,
+      "first23_bytes": false
+    },
+    {
+      "cells": 83,
+      "omitted": [
+        {
+          "index": 175,
+          "row": 4,
+          "col": 9,
+          "color": "Y",
+          "byte": 22,
+          "bit": 7
+        },
+        {
+          "index": 183,
+          "row": 8,
+          "col": 5,
+          "color": "B",
+          "byte": 23,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": false,
+      "first23_bytes": false
+    },
+    {
+      "cells": 83,
+      "omitted": [
+        {
+          "index": 167,
+          "row": 9,
+          "col": 6,
+          "color": "Y",
+          "byte": 21,
+          "bit": 7
+        },
+        {
+          "index": 183,
+          "row": 8,
+          "col": 5,
+          "color": "B",
+          "byte": 23,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": true,
+      "first23_bytes": false
+    }
+  ],
+  "information_scope": "24 blue/yellow cells are fixed by the least-significant bits of the URL once that marking rule is known. The off-white F is an additional event. Identifying F with blue, omitting two of 25 events, and selecting a preferred branch are hypotheses, not literal source instructions."
+}

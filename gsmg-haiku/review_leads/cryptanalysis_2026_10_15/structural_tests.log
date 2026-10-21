@@ -1,0 +1,204 @@
+{
+  "header_squares": [
+    "dbifgcehaklmnopqrstuvwxyz",
+    "dbifhcegaklmnopqrstuvwxyz",
+    "dcgahbeifklmnopqrstuvwxyz",
+    "dchagbeifklmnopqrstuvwxyz",
+    "ebifgcdhaklmnopqrstuvwxyz",
+    "ebifhcdgaklmnopqrstuvwxyz",
+    "ecgahbdifklmnopqrstuvwxyz",
+    "echagbdifklmnopqrstuvwxyz"
+  ],
+  "header_periods": [
+    570
+  ],
+  "period_models": 570,
+  "keys": [
+    [
+      2,
+      4,
+      21,
+      9
+    ],
+    [
+      1,
+      19,
+      6,
+      3
+    ],
+    [
+      5,
+      4,
+      22,
+      11
+    ],
+    [
+      6,
+      17,
+      6,
+      15
+    ],
+    [
+      8,
+      13,
+      9,
+      15
+    ],
+    [
+      5,
+      16,
+      13,
+      12
+    ],
+    [
+      2,
+      21,
+      4,
+      9
+    ],
+    [
+      1,
+      6,
+      19,
+      3
+    ],
+    [
+      5,
+      22,
+      4,
+      11
+    ],
+    [
+      6,
+      6,
+      17,
+      15
+    ],
+    [
+      8,
+      9,
+      13,
+      15
+    ],
+    [
+      5,
+      13,
+      16,
+      12
+    ]
+  ],
+  "exact_fixed_recipe_probabilities": {
+    "header": "15630214880/26078193600728481",
+    "header_float": 5.993595691215122e-07,
+    "joint": "1601122881061184/976054271219254271501149947975",
+    "joint_float": 1.6404035393043412e-15,
+    "conditional_ifindo_float": 2.7369272533826368e-09,
+    "assumption": "Independent uniformly shuffled halves preserving each half histogram; fixed post-selected recipe. NOT a globally corrected significance claim."
+  },
+  "allowed_source_pairs_for_joint_prefix": [
+    [
+      [
+        "f",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "i"
+      ]
+    ],
+    [
+      [
+        "e",
+        "e"
+      ]
+    ],
+    [
+      [
+        "d",
+        "d"
+      ]
+    ],
+    [
+      [
+        "g",
+        "a"
+      ],
+      [
+        "g",
+        "f"
+      ],
+      [
+        "i",
+        "a"
+      ],
+      [
+        "i",
+        "f"
+      ]
+    ],
+    [
+      [
+        "g",
+        "b"
+      ],
+      [
+        "g",
+        "e"
+      ],
+      [
+        "i",
+        "b"
+      ],
+      [
+        "i",
+        "e"
+      ]
+    ],
+    [
+      [
+        "b",
+        "h"
+      ],
+      [
+        "e",
+        "h"
+      ]
+    ],
+    [
+      [
+        "b",
+        "a"
+      ],
+      [
+        "b",
+        "f"
+      ],
+      [
+        "e",
+        "a"
+      ],
+      [
+        "e",
+        "f"
+      ]
+    ],
+    [
+      [
+        "c",
+        "h"
+      ],
+      [
+        "d",
+        "h"
+      ]
+    ]
+  ],
+  "carrier_ic": 0.05042780343757099,
+  "carrier_digraph_ic": 0.0025329280648429585,
+  "hill_ic": 0.038994472628151734,
+  "hill_digraph_ic": 0.0025329280648429585
+}
+BEST {'period': 98, 'stream': 'even', 'key': (5, 16, 13, 12), 'score': -4.2717061088146675, 'text': 'umtocbzzgbinnngbumsatobotoumoatoinkakaummptozzkaencbkakaoasabompengbuminboumumnninmpensazzmpmpgbcbbocbumxoeninkatosazztosadznnoawagbxosamptotokabosawampwampgbgbnnkawaumdzoadzbooasagboaxoumnnumoaumsaboininnnxoenkazzwatosacbtoinwainmpoadzsakagbgbmpsaindztowadzoaoainsaxoenenbosasannoain', 'leftover': 'b'}
+CONTINUATION ifindonvfrvodtfmdryqwblxsfnptcxlclzdttycykncrbpkfamzdxxesrtwtbgoqscyhhfesfsxkheqqihmliwkqoevbtfuhvcrayimreayxhmgsfclapsmfnsnpgfegdcxdhimchnbkygblkascrmvgqwvfukoewavbcmvaewfnwkhtthhzhazhwelrtrtylgzdnmwpkfrcwzyblyrimeoutpkandhhqbpdqpbmzvcaehvvwrcptosmhyzvlkvleigrlvpuoogdotamrwtobaogi

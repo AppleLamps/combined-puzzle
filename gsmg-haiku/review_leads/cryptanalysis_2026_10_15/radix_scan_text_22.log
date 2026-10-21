@@ -1,0 +1,4 @@
+natural0 total=387420489 prefix_pass=4282985 invertible_survivors=3289565 full_printable=0 best_prefix=21
+natural1 total=387420489 prefix_pass=4283761 invertible_survivors=3289636 full_printable=0 best_prefix=20
+dbbi0 total=387420489 prefix_pass=4283949 invertible_survivors=3291063 full_printable=0 best_prefix=22
+forward_control total=387420489 prefix_pass=4286099 invertible_survivors=3291569 full_printable=1 best_prefix=226

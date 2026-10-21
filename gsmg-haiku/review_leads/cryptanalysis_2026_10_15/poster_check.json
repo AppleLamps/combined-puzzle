@@ -1,0 +1,350 @@
+{
+  "url": "gsmg.io/theseedisplanted",
+  "grid": [
+    "WWKKWBWWKWKKWY",
+    "KKBKWWKKKWBWKK",
+    "KKWKKKWBWWKWWK",
+    "WKKWBWWWWKKKWK",
+    "WBKWWWKKWYWKKW",
+    "KWWKKWYWKWYWKK",
+    "KWWBKKWWWKWYWW",
+    "BKKWFWWWWWKWYW",
+    "WWWKKBWKKKKKWB",
+    "KKBKKKYWKKWWWK",
+    "KKWKWWWYWKKWKK",
+    "KKKKWWKWBWKKWW",
+    "WBWKKKWKWYWKKW",
+    "WKBWKKWKKWBWKK"
+  ],
+  "counts": {
+    "W": 85,
+    "K": 86,
+    "B": 15,
+    "Y": 9,
+    "F": 1
+  },
+  "events": [
+    {
+      "index": 7,
+      "row": 7,
+      "col": 0,
+      "color": "B",
+      "byte": 1,
+      "bit": 7
+    },
+    {
+      "index": 15,
+      "row": 13,
+      "col": 2,
+      "color": "B",
+      "byte": 2,
+      "bit": 7
+    },
+    {
+      "index": 23,
+      "row": 13,
+      "col": 10,
+      "color": "B",
+      "byte": 3,
+      "bit": 7
+    },
+    {
+      "index": 31,
+      "row": 8,
+      "col": 13,
+      "color": "B",
+      "byte": 4,
+      "bit": 7
+    },
+    {
+      "index": 39,
+      "row": 0,
+      "col": 13,
+      "color": "Y",
+      "byte": 5,
+      "bit": 7
+    },
+    {
+      "index": 47,
+      "row": 0,
+      "col": 5,
+      "color": "B",
+      "byte": 6,
+      "bit": 7
+    },
+    {
+      "index": 55,
+      "row": 4,
+      "col": 1,
+      "color": "B",
+      "byte": 7,
+      "bit": 7
+    },
+    {
+      "index": 63,
+      "row": 12,
+      "col": 1,
+      "color": "B",
+      "byte": 8,
+      "bit": 7
+    },
+    {
+      "index": 71,
+      "row": 12,
+      "col": 9,
+      "color": "Y",
+      "byte": 9,
+      "bit": 7
+    },
+    {
+      "index": 79,
+      "row": 7,
+      "col": 12,
+      "color": "Y",
+      "byte": 10,
+      "bit": 7
+    },
+    {
+      "index": 87,
+      "row": 1,
+      "col": 10,
+      "color": "B",
+      "byte": 11,
+      "bit": 7
+    },
+    {
+      "index": 95,
+      "row": 1,
+      "col": 2,
+      "color": "B",
+      "byte": 12,
+      "bit": 7
+    },
+    {
+      "index": 103,
+      "row": 9,
+      "col": 2,
+      "color": "B",
+      "byte": 13,
+      "bit": 7
+    },
+    {
+      "index": 111,
+      "row": 11,
+      "col": 8,
+      "color": "B",
+      "byte": 14,
+      "bit": 7
+    },
+    {
+      "index": 119,
+      "row": 6,
+      "col": 11,
+      "color": "Y",
+      "byte": 15,
+      "bit": 7
+    },
+    {
+      "index": 127,
+      "row": 2,
+      "col": 7,
+      "color": "B",
+      "byte": 16,
+      "bit": 7
+    },
+    {
+      "index": 135,
+      "row": 6,
+      "col": 3,
+      "color": "B",
+      "byte": 17,
+      "bit": 7
+    },
+    {
+      "index": 143,
+      "row": 10,
+      "col": 7,
+      "color": "Y",
+      "byte": 18,
+      "bit": 7
+    },
+    {
+      "index": 151,
+      "row": 5,
+      "col": 10,
+      "color": "Y",
+      "byte": 19,
+      "bit": 7
+    },
+    {
+      "index": 159,
+      "row": 3,
+      "col": 4,
+      "color": "B",
+      "byte": 20,
+      "bit": 7
+    },
+    {
+      "index": 163,
+      "row": 7,
+      "col": 4,
+      "color": "F",
+      "byte": 21,
+      "bit": 3
+    },
+    {
+      "index": 167,
+      "row": 9,
+      "col": 6,
+      "color": "Y",
+      "byte": 21,
+      "bit": 7
+    },
+    {
+      "index": 175,
+      "row": 4,
+      "col": 9,
+      "color": "Y",
+      "byte": 22,
+      "bit": 7
+    },
+    {
+      "index": 183,
+      "row": 8,
+      "col": 5,
+      "color": "B",
+      "byte": 23,
+      "bit": 7
+    },
+    {
+      "index": 191,
+      "row": 5,
+      "col": 6,
+      "color": "Y",
+      "byte": 24,
+      "bit": 7
+    }
+  ],
+  "color_prime_sums": {
+    "B": 484,
+    "Y": 479
+  },
+  "parses": [
+    {
+      "cells": 84,
+      "omitted": [
+        {
+          "index": 175,
+          "row": 4,
+          "col": 9,
+          "color": "Y",
+          "byte": 22,
+          "bit": 7
+        },
+        {
+          "index": 191,
+          "row": 5,
+          "col": 6,
+          "color": "Y",
+          "byte": 24,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": false,
+      "first23_bytes": false
+    },
+    {
+      "cells": 84,
+      "omitted": [
+        {
+          "index": 167,
+          "row": 9,
+          "col": 6,
+          "color": "Y",
+          "byte": 21,
+          "bit": 7
+        },
+        {
+          "index": 191,
+          "row": 5,
+          "col": 6,
+          "color": "Y",
+          "byte": 24,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": true,
+      "first23_bytes": true
+    },
+    {
+      "cells": 83,
+      "omitted": [
+        {
+          "index": 183,
+          "row": 8,
+          "col": 5,
+          "color": "B",
+          "byte": 23,
+          "bit": 7
+        },
+        {
+          "index": 191,
+          "row": 5,
+          "col": 6,
+          "color": "Y",
+          "byte": 24,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": false,
+      "first23_bytes": false
+    },
+    {
+      "cells": 83,
+      "omitted": [
+        {
+          "index": 175,
+          "row": 4,
+          "col": 9,
+          "color": "Y",
+          "byte": 22,
+          "bit": 7
+        },
+        {
+          "index": 183,
+          "row": 8,
+          "col": 5,
+          "color": "B",
+          "byte": 23,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": false,
+      "first23_bytes": false
+    },
+    {
+      "cells": 83,
+      "omitted": [
+        {
+          "index": 167,
+          "row": 9,
+          "col": 6,
+          "color": "Y",
+          "byte": 21,
+          "bit": 7
+        },
+        {
+          "index": 183,
+          "row": 8,
+          "col": 5,
+          "color": "B",
+          "byte": 23,
+          "bit": 7
+        }
+      ],
+      "no_duplicate_byte": true,
+      "first23_bytes": false
+    }
+  ],
+  "information_scope": "24 blue/yellow cells are fixed by the least-significant bits of the URL once that marking rule is known. The off-white F is an additional event. Identifying F with blue, omitting two of 25 events, and selecting a preferred branch are hypotheses, not literal source instructions."
+}

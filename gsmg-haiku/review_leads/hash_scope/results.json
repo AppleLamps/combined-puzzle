@@ -1,0 +1,69 @@
+{
+  "families": {
+    "group-partitions": {
+      "generated": 21024,
+      "unique_passwords": 20772,
+      "aes_trials": 62316,
+      "duplicate_or_previous": 252,
+      "padding_valid": 274,
+      "short_plaintext_lengths": {
+        "79": 180,
+        "78": 1
+      },
+      "max_printable": 0.5063291139240507,
+      "seconds": 3.43
+    },
+    "selected-parts": {
+      "generated": 164304,
+      "unique_passwords": 164280,
+      "aes_trials": 492840,
+      "padding_valid": 1920,
+      "duplicate_or_previous": 24,
+      "short_plaintext_lengths": {
+        "79": 1310,
+        "78": 5
+      },
+      "max_printable": 0.5822784810126582,
+      "seconds": 26.81
+    },
+    "selective-hashing": {
+      "generated": 1584,
+      "unique_passwords": 1584,
+      "aes_trials": 4752,
+      "padding_valid": 22,
+      "short_plaintext_lengths": {
+        "79": 15
+      },
+      "max_printable": 0.4810126582278481,
+      "seconds": 0.3
+    },
+    "scoped-commands": {
+      "generated": 5928,
+      "unique_passwords": 5320,
+      "aes_trials": 15960,
+      "padding_valid": 47,
+      "duplicate_or_previous": 608,
+      "short_plaintext_lengths": {
+        "79": 30
+      },
+      "max_printable": 0.5189873417721519,
+      "seconds": 0.88
+    },
+    "xor-selection": {
+      "generated": 480,
+      "unique_passwords": 480,
+      "aes_trials": 1440,
+      "padding_valid": 8,
+      "short_plaintext_lengths": {
+        "79": 4
+      },
+      "max_printable": 0.4177215189873418,
+      "seconds": 0.08
+    }
+  },
+  "private_scalars_checked": 369790,
+  "target_matches": [],
+  "structured_candidates": [],
+  "seconds": 31.49,
+  "previous_contiguous_partition_passwords_skipped": 252
+}

@@ -1,0 +1,11 @@
+{
+  "fixed_count": 40114,
+  "legacy_lf_count": 40159,
+  "legacy_crlf_count": 40114,
+  "fixed_equals_legacy_crlf": true,
+  "added_vs_legacy_lf": 45,
+  "removed_vs_legacy_lf": 90,
+  "fixed_sha256": "306824f0998f698c5be1089d6d76b334f6e2088e1bcbf3780684b80638824a91",
+  "legacy_lf_sha256": "0a221b81652e3ce2f34815f6036a341bfb4a82b473a71b3e9af7f033e304c97b",
+  "fingerprint_format": "SHA256 of UTF-8 compact JSON of sorted candidate strings"
+}
