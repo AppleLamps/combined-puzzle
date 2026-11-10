@@ -5,7 +5,7 @@ These are the four artifact types a preregistered experiment may predict (tools/
   readable_text         english_score() against shuffled-input controls
   known_digest          known_digest(): sha256 of the output is a digest authenticated in 01
   known_address         known_address(): the output, as scalar or as sha256 seed, derives a
-                        marker address (01 section 9) or a prize address
+                        marker address (01 section 9, 17 section 3) or a prize address
   exact_reconstruction  longest_common_run(): the output reproduces a held artifact
 
 Nothing here reads data/locked_*.  Run  python tools/oracles.py  for the planted controls.
@@ -29,7 +29,9 @@ KNOWN_DIGESTS = {
     '250f37726d6862939f723edc4f993fde9d33c6004aab4f2203d9ee489d61ce4c': 'Phase 3.2 password',
     '89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32': 'SalPhaseIon page path',
 }
-# --- addresses: the two prize targets and the four solved dust markers (01 section 9) ----------------
+# --- addresses: the two prize targets and the eight checkpoint addresses paid by 3GSMG24, all
+#     re-derived (17 section 3).  1NULY7... is deliberately absent: it is a tool's tip address, not
+#     the hash of a puzzle answer (17 section 3). -----------------------------------------------------
 KNOWN_ADDRESSES = {
     '1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe': 'PRIZE Half',
     '17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa': 'PRIZE Better Half',
@@ -37,6 +39,10 @@ KNOWN_ADDRESSES = {
     '1AD2wfwXukZ1kUAy848hTQQ72aSBZPB75r': 'marker: sha256(Phase 1 answer)',
     '13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp': 'marker: bit-reversed URL integer',
     '1GyT5WrLYpwFkuiVoPDJZa1Q6jtjbjuBff': 'marker: sha256(prize address)',
+    '1Jqq37KkZEt4F3Dt6qXdtyiMEFBBdawbkJ': 'marker: sha256(causality)',
+    '1K23RS1y2fnuZRkhw5nUpFr5Jk5WN11Zeq': 'marker: sha256(Phase 3.2 answer)',
+    '1M5ypvDbp124ZtKPbg3GJg1JqNs1x7TPoN': 'marker: sha256(Phase 3 seven-part answer, 227 characters)',
+    '148XH2YBmLr4oAJXQcG84FpNYoBmqnVPHQ': 'marker: URL integer',
 }
 _TARGETS = {name: prize_gate.b58check_decode(addr)[1:] for addr, name in KNOWN_ADDRESSES.items()}
 DBBI_PATTERN = '01234556728966286abc61c88b48de3086dd501d5557d6bab5605233df7bbb96'
@@ -128,6 +134,13 @@ def selftest():
     assert ('sha256', 'marker: sha256(prize address)') in known_address('1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe')
     bits = ''.join(f'{b:08b}' for b in b'gsmg.io/theseedisplanted')
     assert ('raw32', 'marker: bit-reversed URL integer') in known_address(int(bits[::-1], 2).to_bytes(32, 'big'))
+    assert ('raw32', 'marker: URL integer') in known_address(int(bits, 2).to_bytes(32, 'big'))
+    assert ('sha256', 'marker: sha256(causality)') in known_address('causality')
+    assert ('sha256', 'marker: sha256(Phase 3.2 answer)') in known_address(
+        'jacquefrescogiveitjustonesecondheisenbergsuncertaintyprinciple')
+    import json
+    seven = ''.join(json.loads((ROOT / 'data' / 'seven_part_phase3_answer.json').read_text()))
+    assert ('sha256', 'marker: sha256(Phase 3 seven-part answer, 227 characters)') in known_address(seven)
     assert known_address('not a key') == []
     # readable text: prose beats its own shuffle and random letters
     import random
@@ -139,7 +152,7 @@ def selftest():
     assert s[0] > -4.6 and s[0] > s[1] + 0.8 and s[0] > s[2] + 1.2, s
     assert longest_common_run('xxabcdefyy', 'qqabcdefzz') == (6, 'abcdef')
     assert not dbbi_pattern('causality')
-    print(f'ORACLE SELFTEST PASSED (5 digests, 4 marker addresses re-derived, prose {s[0]:.2f} vs '
+    print(f'ORACLE SELFTEST PASSED (5 digests, 8 marker addresses re-derived, prose {s[0]:.2f} vs '
           f'shuffle {s[1]:.2f} vs noise {s[2]:.2f}, backend {prize_gate.BACKEND})')
 
 

@@ -1,6 +1,6 @@
 # GSMG.IO 5 BTC puzzle — clean working set
 
-**Status (2026-09-13): UNSOLVED.**
+**Status (2026-11-10): UNSOLVED.** (First recorded 2026-09-13; re-checked against the chain, the chat and the live site on 2026-11-10, see 17.)
 - No locked envelope has been opened and no private key has been found.
 - The prize address `1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe` still holds funds (01 §9).
 
@@ -11,6 +11,8 @@ This folder was distilled from every research round in `E:\rabbit-combined`: rab
 - records of what was **already tested** or **retracted**, so work is not repeated
 
 ## Read in this order
+
+**State refresh (2026-11-10):** [17_STATE_REFRESH_2026-11-10.md](17_STATE_REFRESH_2026-11-10.md). Every outside source was re-checked. The prize is unspent (125,649,674 sat), the creator has not posted since 2026-09-01, and the live pages match the saved ones. Two null runs from an unmerged source branch (2026-09-15) are imported. 01 section 9 was incomplete: the checkpoint payments came from `3GSMG24...` and went to eight derived addresses, all re-derived by `tools/check_chain_state.py`; `1NULY7...` is a kangaroo tool's tip address with no preimage to find. The chat delta to 2026-10-08 is in `telegram/`.
 
 **Canonical ledger and working rules (2026-11-10):** [16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md](16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md). This folder is the single source of truth for the combined repository; the other nine directories carry a `CANONICAL_NOTICE.md` listing where they disagree. Envelope sweeps are stopped: `tools/check_candidate.py` now refuses to decrypt unless `--derivation` names a run whose sealed statement (`tools/prereg.py`) predicted a second artifact and whose self-check passed without AES (`tools/oracles.py`). The same file reports the FAED surface statistics (no sequential structure, `g` doubled, not homogeneous; the "`g` as zero, 2^107" gap is closed as text), shows that the `317/557` and `137/143` numbers carried by two forks come from a solver and are circular, and records three sealed step-two experiments on DBBI's ordinary cells, all null with their planted controls fired.
 
@@ -117,6 +119,9 @@ SHA256SUMS.txt        hashes of every file here
 |---|---|---|---|
 | `telegram/ChatExport_2026-09-13_result.json` | "GSMG Puzzle Solvers" | 61,798 | 2019-04-20 → 2026-09-13 |
 | `telegram/CommunityGroup_2026-09-10_result.json` | "GSMG - Community & support group" | 52,913 | 2018-04-17 → 2026-09-10 |
+| `telegram/ChatExport_delta_2026-09-13_to_2026-10-08.json` | "GSMG Puzzle Solvers", messages after id 71746, text only | 3,513 | 2026-09-13 → 2026-10-08 |
+
+The full October export is `../gsmg-haiku/ChatExport_2026-10-08/result.json` (64,742 messages). It holds no creator message newer than #70377 (2026-09-01).
 
 - `telegram/messages_missing_from_2026-09-13_export.json` holds 12 messages that are in older exports but deleted from the newest one.
 

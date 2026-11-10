@@ -149,6 +149,22 @@
 | PUZ #24071 | 2024-04-10 (edited 22 min later) | "1357 blocks to go" | ≈ 9.4 days before the 2024-04-20 halving: a halving countdown, not an operand (cf. #3903 "Happy halving!", 2020-05-11). |
 | PUZ #70325 | 2026-09-01 | "🤐" | |
 
+## 8c. Added 2026-11-10 from the state refresh (all [checked] in the 2026-10-08 export; 17 section 4)
+
+No creator message is newer than #70377 (2026-09-01), and no creator text differs between the 2026-09-13 and 2026-10-08 exports.
+
+| id | date | text | notes |
+|---|---|---|---|
+| PUZ #660 | 2019-05-08 | "Apparently somebody managed to get into Phase 3" | Timeline. |
+| PUZ #7418 | 2021-04-16 | "Good point" | Reply to #7416 (RB, a solver): "Go to the first puzzle piece (image) and hash all the text you see. But mind that the author is a bit picky what he considers to be text." |
+| PUZ #9636 | 2023-08-06 | "I have no clue." | Reply to #9634. |
+| PUZ #12653 | 2023-08-29 | "Correct" | Reply to #12580 (ArchOptic): "Jrk has stated that the blockchain messages are not his and are not part of the puzzle". On-chain evidence points the other way for the `3GSMG24` messages (17 section 3.3). |
+| PUZ #66584 | 2026-07-12 | "Welcome. I feel it a bit off knowing the url (and thus the original puzzle) is 'gone'." | The site was back by 2026-08-18 (#69025, a solver). |
+| PUZ #66592 | 2026-07-12 | "Oh... and before I fall asleep. I want to assume it is quite clear I held quite a secret in my head which I seriously wanted to share with the planet... for those who can understand what I meant..." | Reply to #66556. |
+| PUZ #66595 | 2026-07-12 | "(And yes, the btc is still available before you fire any questions)." | |
+
+Not the creator: #7616 (2021-05-06, a deleted solver account) first posted the exact text to hash; #73708 and #73710 (2026-09-26, Ugur Keser) are the `317/557` and `137/143` numbers (16 section 4).
+
 ## 9. Other ids worth looking up [digest, not re-read]
 
 **PUZ messages**

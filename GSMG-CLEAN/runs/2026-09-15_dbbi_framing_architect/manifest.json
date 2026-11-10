@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-15",
+  "closed_system": true,
+  "network": false,
+  "envelope_bytes_read": 0,
+  "aes_decryptions": 0,
+  "dbbi_sha256": "dbeb1209f2bd6937b1911c7ff65609292318b3161eb4a25ec1c17d892dc8223a",
+  "framing_source": "serial_offwhite_B / 83 logical cells",
+  "ordinary_policy": "preserved exactly; prime values stripped, never transformed",
+  "families": [
+    "ordered gap lengths",
+    "terminal ordinary values",
+    "whole-interval reversals"
+  ],
+  "architect_alignment": "kedri/spelled, 24 edit rows, sequence and LCS",
+  "control_policy": "shuffle only the 60 ordinary values; preserve 24 gap lengths and all markers"
+}

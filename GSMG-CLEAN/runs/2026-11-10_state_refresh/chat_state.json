@@ -1,0 +1,21 @@
+{
+ "newest_export": "gsmg-haiku/ChatExport_2026-10-08/result.json",
+ "newest_export_last_message": "2026-10-08T20:30:45",
+ "messages_in_newest": 64742,
+ "messages_in_ledger_export": 61798,
+ "ledger_export_last_id": 71746,
+ "new_messages": 3513,
+ "ids_deleted_since_ledger_export": 569,
+ "creator_messages": 492,
+ "last_creator_message": {
+  "id": 70377,
+  "date": "2026-09-01T11:41:20"
+ },
+ "creator_messages_newer_than_ledger_export": 0,
+ "creator_texts_changed_between_exports": 0,
+ "forwards_of_creator_posts_in_delta": [
+  71762,
+  71913,
+  73195
+ ]
+}
