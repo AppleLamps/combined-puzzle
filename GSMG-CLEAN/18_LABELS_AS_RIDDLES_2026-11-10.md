@@ -244,3 +244,22 @@ working rules it stops here, and no candidate is written down in this file.
 | Go back to the poster | The unused part is a plain drawing on cells that read 0. Nothing hidden was found |
 | Continue the screen text | The one reading with an unused, creator-consistent referent. Untestable under the current rule |
 
+### 6.5 The door as a page: hashing poster and door texts to gsmg.io paths (approved probe)
+
+The one way "another door" could be a page is the mechanism that reached SalPhaseIon: hash a text you
+see and visit `gsmg.io/<64-hex>`. With the owner's approval this was run as read-only GET requests on
+2026-11-10. Evidence: `runs/2026-11-10_door_hash_probe/results.json`.
+
+Baselines: an unknown path returns **404** with the 9-byte body `Hello :-)`; the known SalPhaseIon
+hash returns its **200** page (4,536 bytes); the root returns the 35,785-byte parking page. A real door
+would be a 200 whose body is neither of those.
+
+50 texts were hashed and fetched: the poster caption and address in several spacings, the URL, the
+four Matrix screen lines in several casings, the creator's "another door" / nest / "hush hush" wording,
+"room 101" and the first-piece poem line. **Result: the one control (caption + address) returned the
+SalPhaseIon page; all 49 other paths returned 404 `Hello :-)`.**
+
+So the hash-to-path door does not open on any poster text, any Matrix screen line, or any wording of
+the "other door" hint. As a page, the door reading is closed for these inputs. This does not test a
+text we did not think to hash, nor the door as an envelope answer (which the working rules still gate).
+
