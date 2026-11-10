@@ -1,0 +1,8 @@
+{
+  "outcome": "null",
+  "prereg_sha256": "6e576738ca9a8146c0251fc433da610b8be17c0c9975603e9fe92aee995d675b",
+  "evidence_file": "results.json",
+  "evidence_sha256": "253a559a772b05adfa0eeab60f7a2e14911d8ddb38326ea4abe5eab8598b154b",
+  "recorded_utc": "2026-11-10T00:47:29Z",
+  "note": "Planted control fired (run of 60 recovered). Real longest exact run and isomorph window are at or below the shuffle controls."
+}

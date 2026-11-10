@@ -1,5 +1,7 @@
 # Audit of packets 1–4 (2026-09-08)
 
+> **Canonical ledger notice (2026-11-10).** This file treats the Cosmic Duality `4f7a1e4e...` output as a real decrypt. It is a retracted pad-1 output. See [`CANONICAL_NOTICE.md`](CANONICAL_NOTICE.md) and `GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md`.
+
 Re-derived every load-bearing claim instead of restating it. Three defects, one of which invalidates a conclusion I published.
 
 ## Defect 1 — a classifier that erased FEFEFE (confirmed by execution)

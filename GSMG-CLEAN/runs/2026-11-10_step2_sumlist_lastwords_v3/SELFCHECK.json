@@ -1,0 +1,8 @@
+{
+  "outcome": "null",
+  "prereg_sha256": "58654f1a95fa78e5c6f058c5f055381ec40150bd05b5bafa1c76607d99c7043c",
+  "evidence_file": "results.json",
+  "evidence_sha256": "5b2c2d679ce4573fdb691965412756d4f80ed6fc43885e64a003789c519b0486",
+  "recorded_utc": "2026-11-10T00:47:29Z",
+  "note": "Planted control fired. Best real score -5.16 against a control maximum of -4.36."
+}

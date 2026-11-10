@@ -1,0 +1,31 @@
+{
+  "hypothesis": "'matrixsumlist' names what the ordinary cells become: a list of sums, taken either over the stretches the prime markers cut the stream into or over a board with the prime cells zeroed out.",
+  "source_support": [
+    "SalPhaseIon page: the label 'matrixsumlist' directly follows DBBI (01 section 6).",
+    "Creator #8446: 'yellowblueprimes matrixsumlist lastwordsbeforearchichoice yinyang'.",
+    "Creator #8000: 'some characters need to be zeroed out'; #8330: 'prime number is very important'.",
+    "Phase 3.2: 'on a sad board but as wide as the first one seen' (14 wide; 84 = 6 x 14)."
+  ],
+  "operand": "data/DBBI_91.txt, both complete parses. Ordinary cells a=1..i=9; prime cells are separators (gap lists) or zero (boards, 84 cells only).",
+  "operation": "Lists: sums of each stretch between markers, with and without the empty stretch; the same restricted to stretches that follow a yellow (be) marker and to those that follow a blue (b) marker; row sums and column sums of the 6x14, 14x6, 7x12 and 12x7 boards. Readings of each list: A1Z26, mod 26 with A=0, mod 26 with A=1, ASCII, ASCII+64, ASCII+96, and the concatenated decimal read as an integer in bytes.",
+  "predicted_artifact": {
+    "type": "readable_text",
+    "detail": "One reading of one list is a readable word sequence of at least 8 letters, or a list equals a run of at least 8 of the poster's row or column sums, or a list (as text, digit string or comma list) hashes to an authenticated digest, the DBBI token pattern, or a marker or prize address."
+  },
+  "acceptance_rule": "PASS on any exact hit, or if the best real quadgram score is above every one of the 4000 control maxima; otherwise NULL. The ten best real outputs are saved for reading.",
+  "controls": {
+    "planted": "Ordinary cells constructed so that the 6x14 column sums, prime cells zero, spell 'thisisthepoint' under A1Z26 must be read back exactly and score above every control maximum.",
+    "null": "2000 shuffles of the ordinary cells per parse with the markers left in place; the maximum score over all readings of each shuffle."
+  },
+  "candidate_bound": 200,
+  "aes_use": "none",
+  "method": {
+    "script": "tools/dbbi_step2.py",
+    "script_sha256": "0b5d27c2495d106e4d240820e88d70e0e8553ab02c23d723ecc8311199d5ccaa",
+    "oracles_sha256": "9c09dc139f89fc3ccd9ff8c7c669e12c455ae5c242b8eec2002cb5cecf1b719f",
+    "seed": 20261110
+  },
+  "rerun_of": "runs/2026-11-10_step2_gap_sums (void, see its VOID.md)",
+  "known_before_sealing": "The void first run already showed the real outputs: best score -6.76, below the control median, no exact hit. This rerun exists so that the null rests on a control that fires. The acceptance rule was tightened from the 99.9th percentile to the maximum of the controls; it could not turn that result into a pass.",
+  "power_limit": "Lists of 12 to 24 values give short strings. An ordinary English phrase of 14 letters scores about -3.6 to -4.6 and the control maximum is about -3.9, so a real but unremarkable short phrase could be missed by the score. The saved top ten are the safeguard."
+}

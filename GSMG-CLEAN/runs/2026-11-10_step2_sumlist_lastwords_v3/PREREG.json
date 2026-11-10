@@ -1,0 +1,30 @@
+{
+  "hypothesis": "The creator's order makes the sum list the input of the next step: its numbers count back from the Architect's choice in the film scene and pick out letters or words.",
+  "source_support": [
+    "Creator #8446: 'matrixsumlist' is immediately followed by 'lastwordsbeforearchichoice'.",
+    "SalPhaseIon page: 'lastwordsbeforearchichoice' then 'thispassword' (01 section 6).",
+    "Creator #3390 quotes the Scott Manning transcript at the line after the two doors (09 section 2)."
+  ],
+  "operand": "Lists: the ordinary cells as digits and the gap-sum lists of both parses (six lists). Texts: the two saved transcripts of the Architect scene, dialogue only. Anchors: each of the five occurrences of 'choice', the point just after 'to stop it', and the end of the scene.",
+  "operation": "From an anchor, select by running sum or by direct index, counting from 0 or from 1, backward or forward, in units of letters or of words (taking the word's first or last letter). Each selection is kept as read and reversed.",
+  "predicted_artifact": {
+    "type": "readable_text",
+    "detail": "One selection is a readable sequence of at least 8 letters."
+  },
+  "acceptance_rule": "PASS if the best real quadgram score is above the maximum over 300 control runs (all lists shuffled, every configuration); otherwise NULL. Whole selected words are not judged. The ten best real outputs are saved for reading.",
+  "controls": {
+    "planted": "A 61-letter message hidden in a synthetic letter stream at the running sums of the real 61 ordinary values, counted back from the end, must be read back exactly by the same reader and score above every control maximum.",
+    "null": "300 runs in which each list is shuffled and the whole family is recomputed; the maximum score of each run."
+  },
+  "candidate_bound": 3000,
+  "aes_use": "none",
+  "method": {
+    "script": "tools/dbbi_step2.py",
+    "script_sha256": "2ecf2a2f57de1f0b589cd8149c9d6f325dfd37ebf3511808897fb8379d4f624d",
+    "oracles_sha256": "9c09dc139f89fc3ccd9ff8c7c669e12c455ae5c242b8eec2002cb5cecf1b719f",
+    "seed": 20261110
+  },
+  "rerun_of": "runs/2026-11-10_step2_sumlist_lastwords_v2 (void, see its VOID.md), itself a rerun of the first void run",
+  "known_before_sealing": "The second run wrote its real outputs before its planted control was found not to fire: best real score -5.16, below the control median of -4.92 and the control maximum of -4.36. The reader's count-from-0 and count-from-1 labels were swapped, so the family of selections was the same but the control addressed the wrong one. This rerun fixes the label and exists so that the null rests on a control that fires. The acceptance rule is unchanged.",
+  "power_limit": "The 23 and 24 value gap-sum lists give strings too short to separate from about 4000 configurations by score alone; the test has real power only for the 60 and 61 value lists."
+}

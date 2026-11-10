@@ -1,5 +1,7 @@
 # Status as of 2026-10-15 UTC
 
+> **Canonical ledger notice (2026-11-10).** The "Latest result" below (`HILLFEXMGSGQ`, `BTCSEED`, `IFINDO`) is a tested hypothesis that the canonical ledger does not accept as a result, and the envelope trials it lists are stopped. See [`CANONICAL_NOTICE.md`](CANONICAL_NOTICE.md) and `GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md`.
+
 **The puzzle is unsolved.** The private key of `1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe` is unknown. Three encrypted containers remain unopened. No experiment in this repo has produced a structured decrypt or a key that matches the target.
 
 How to read this file:

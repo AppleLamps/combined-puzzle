@@ -1,1 +1,4 @@
 runs/2026-09-14_source_cipher_keys/keys.json filter=lfs diff=lfs merge=lfs -text
+
+# Authenticated plaintexts and envelopes: never convert line endings (the CRLFs are puzzle bytes)
+data/*.bin -text

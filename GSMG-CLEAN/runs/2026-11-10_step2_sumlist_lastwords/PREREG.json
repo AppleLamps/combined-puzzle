@@ -1,0 +1,27 @@
+{
+  "hypothesis": "The creator's order makes the sum list the input of the next step: its numbers count back from the Architect's choice in the film scene and pick out letters or words.",
+  "source_support": [
+    "Creator #8446: 'matrixsumlist' is immediately followed by 'lastwordsbeforearchichoice'.",
+    "SalPhaseIon page: 'lastwordsbeforearchichoice' then 'thispassword' (01 section 6).",
+    "Creator #3390 quotes the Scott Manning transcript at the line after the two doors (09 section 2)."
+  ],
+  "operand": "Lists: the ordinary cells as digits and the gap-sum lists of both parses (six lists). Texts: the two saved transcripts of the Architect scene, dialogue only. Anchors: each of the five occurrences of 'choice', the point just after 'to stop it', and the end of the scene.",
+  "operation": "From an anchor, select by running sum or by direct index, counting from 0 or from 1, backward or forward, in units of letters or of words (taking the word's first or last letter). Each selection is kept as read and reversed.",
+  "predicted_artifact": {
+    "type": "readable_text",
+    "detail": "One selection is a readable sequence of at least 8 letters."
+  },
+  "acceptance_rule": "PASS if the best real quadgram score is above the maximum over 300 control runs (all lists shuffled, every configuration) and above -4.9; otherwise NULL. Whole selected words are not judged: they are always English words.",
+  "controls": {
+    "planted": "A step list constructed so that running back-steps over letters from the door anchor spell a 26-letter phrase must be read back exactly and score above every control maximum.",
+    "null": "300 runs in which each list is shuffled and the whole family is recomputed; the maximum score of each run."
+  },
+  "candidate_bound": 3000,
+  "aes_use": "none",
+  "method": {
+    "script": "tools/dbbi_step2.py",
+    "script_sha256": "8f5c53d7fc1620b56b4e0afda5b9ecdfb4a216cc45137f9c5fd58f0a7e4b99e8",
+    "oracles_sha256": "9c09dc139f89fc3ccd9ff8c7c669e12c455ae5c242b8eec2002cb5cecf1b719f",
+    "seed": 20261110
+  }
+}
