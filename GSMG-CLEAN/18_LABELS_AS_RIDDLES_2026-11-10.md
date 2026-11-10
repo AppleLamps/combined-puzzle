@@ -136,3 +136,111 @@ What follows from this, and what does not:
 - Section 2 rests on one forwarded private exchange for its strongest item. The repeated public
   "Follow the white rabbit" replies, the file name and the site text support it, but none of them is
   the creator saying "this is what the label means".
+
+## 6. The three readings, worked through
+
+Added later on 2026-11-10. Each of the three readings in section 2 was taken as far as it goes without
+an envelope. None produced an answer.
+
+### 6.1 Repeat the first step
+
+Sealed before any output for the page's material existed, then run:
+`runs/2026-11-10_spiral_rereading/`, `python tools/spiral_rereading.py`.
+
+Every grid of two-valued cells we hold was laid out in every exact rectangle and read along a spiral
+from each corner, both ways round, inward and outward, as 8-bit and 7-bit characters. The page's
+letters were reduced to two values by the poster's own colour rule (odd is blue is 1). The measure is
+the longest run of characters from the poster's answer alphabet (lowercase, dot, slash).
+
+| Grid | Cells | Longest run | Longest in 60 shuffles |
+|---|---:|---:|---:|
+| Poster, the 31 other spiral conventions | 196 | 4 | 6 |
+| Rabbit drawing, four centre cells at 15 px | 100 | 1 | 2 |
+| Rabbit drawing, bounding box at 15 px | 300 | 5 | 8 |
+| FAED by parity | 570 | 8 | 10 |
+| FAED split at 5 | 570 | 6 | 10 |
+| DBBI by parity | 91 | 2 | 6 |
+| DBBI split at 5 | 91 | 3 | 6 |
+| The whole 765-letter run by parity | 765 | 6 | 9 |
+| FAED with `g` as 1 | 570 | 2 | 3 |
+
+**Null.** The planted control (a 71-character sentence written along the spiral into a 19 by 30 grid)
+came back whole, and the poster's own reading was recovered under exactly one of the 32 conventions.
+So the poster holds no second spiral message, and none of the page's material reads as a grid this
+way. A grid that only exists after an envelope opens is not covered.
+
+### 6.2 Go back to the poster
+
+What the unused part of the poster is, measured from `originals/poster/puzzle.png`:
+
+- The rabbit is drawn on a clean 15 pixel grid, five by five to a cell. Every 15 pixel square in it is
+  pure black or pure white. It covers seven cells and has 37 black squares.
+- The seven cells, with their place in the spiral and their black squares: (6,6) index 192, 4;
+  (7,6) index 193, 6; (7,7) index 194, 3; (6,7) index 195, 9; (7,8) index 187, 9; (7,9) index 172, 4;
+  (8,6) index 184, 2.
+- Indexes 192 to 195 are the four surplus cells after the 24 characters. The other three rabbit cells
+  carry bits of characters 22 and 24 of the address, and the address only comes out if they are read
+  as white. So the rabbit sits on cells whose value is 0; it does not hide a bit.
+- The off-white cell is not one of the seven.
+
+The drawing, `#` for black, one character per 15 pixel square, cells (6..8, 6..9):
+
+```
+..... #.#.. ..... #####
+....# .#.#. ..... #####
+....# .#.#. ..... #####
+....# .#.#. ..... #####
+...#. ...#. ..... #####
+
+..#.. ....# ##... .....
+..#.. #.... ..#.# #....
+..#.. #.... ...#. #....
+..#.. ..... ...## #....
+...## ..... ##... #....
+
+..... ##### ##### #####
+....# ##### ##### #####
+....# ##### ##### #####
+..... ##### ##### #####
+..... ##### ##### #####
+```
+
+It is a picture of a rabbit: two ears, a head with an eye, a back. Read as bits it gives nothing
+(6.1). One near-coincidence is recorded so that it is not rediscovered: the black-square counts of
+the seven cells in row order are 4, 9, 6, 3, 9, 4, 2, which in the page's letters is `d i f c i d b`,
+and DBBI's first three ordinary cells are `d i f`. The fourth is `h`, not `c`. Three letters agree by
+chance about once in 700 tries per ordering, and two orderings were looked at.
+
+### 6.3 Continue the film's screen text
+
+In the film the four lines on Neo's screen are followed by a knock at his door, and he follows the
+rabbit from there. The puzzle's use of them, in the order the puzzle uses them:
+
+| Screen line | Where the puzzle uses it |
+|---|---|
+| "Follow the white rabbit." | The poster: its file name, and the creator's own answer to what the first hint was |
+| "Wake up, Neo..." | Phase 3.2 opens "... am I here? Wake up, you...", with Neo replaced by "you" |
+| "The Matrix has you..." | The Beaufort key of Phase 3.2, `THEMATRIXHASYOU`, again with "you" |
+| "Knock, knock, Neo." | Not used anywhere in the solved chain |
+
+The fourth line is about a door, and doors are the creator's most repeated hint: "It might have shown
+you only one door" (#1710), "after opening the 2nd door" (#3923), "Really nobody managed to find the
+extra door" (#4590), "There is / Another / D / O / O / R" (#7914), and "The previous 'there is another
+door hint' is still a thing" (#8000). No maintained document in any of the ten directories discusses
+the fourth line.
+
+One number sits beside it. In the film the knock comes at room 101, and the poster has exactly 101
+cells that read as 1 (01 section 6). About one grid in twenty of this size would have that count by
+chance, so it is noted, not relied on.
+
+This reading names a phrase, not an operation. It cannot be checked without an envelope, so under the
+working rules it stops here, and no candidate is written down in this file.
+
+### 6.4 Where that leaves the three readings
+
+| Reading | State |
+|---|---|
+| Repeat the first step | Tested on everything held; null. Still possible for material inside a locked envelope |
+| Go back to the poster | The unused part is a plain drawing on cells that read 0. Nothing hidden was found |
+| Continue the screen text | The one reading with an unused, creator-consistent referent. Untestable under the current rule |
+

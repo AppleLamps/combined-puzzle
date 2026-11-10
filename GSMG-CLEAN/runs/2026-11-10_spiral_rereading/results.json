@@ -1,0 +1,172 @@
+{
+ "prereg_sha256": "eda9fca7f75ae4308d200498d9a6e62d3d5666113dcef165d06b076bb9ea26d7",
+ "objects": {
+  "poster_14x14": {
+   "cells": 196,
+   "ones": 101,
+   "shapes": 7,
+   "best_run": 4,
+   "best": {
+    "start": "tl",
+    "ccw": true,
+    "outward": true,
+    "width": 8,
+    "text": "bjjl"
+   },
+   "control_median": 5,
+   "control_max": 6
+  },
+  "nest_10x10_fine": {
+   "cells": 100,
+   "ones": 22,
+   "shapes": 7,
+   "best_run": 1,
+   "best": {
+    "start": "tl",
+    "ccw": true,
+    "outward": false,
+    "width": 7,
+    "rows": 10,
+    "cols": 10,
+    "text": "j"
+   },
+   "control_median": 2,
+   "control_max": 2
+  },
+  "rabbit_15x20_fine": {
+   "cells": 300,
+   "ones": 137,
+   "shapes": 16,
+   "best_run": 5,
+   "best": {
+    "start": "tr",
+    "ccw": true,
+    "outward": false,
+    "width": 7,
+    "rows": 100,
+    "cols": 3,
+    "text": "sswwa"
+   },
+   "control_median": 5,
+   "control_max": 8
+  },
+  "faed_parity": {
+   "cells": 570,
+   "ones": 357,
+   "shapes": 14,
+   "best_run": 8,
+   "best": {
+    "start": "bl",
+    "ccw": false,
+    "outward": false,
+    "width": 7,
+    "rows": 3,
+    "cols": 190,
+    "text": "awsyxvhj"
+   },
+   "control_median": 7,
+   "control_max": 10
+  },
+  "faed_high": {
+   "cells": 570,
+   "ones": 366,
+   "shapes": 14,
+   "best_run": 6,
+   "best": {
+    "start": "tr",
+    "ccw": false,
+    "outward": false,
+    "width": 7,
+    "rows": 19,
+    "cols": 30,
+    "text": "wlko/z"
+   },
+   "control_median": 7,
+   "control_max": 10
+  },
+  "dbbi_parity": {
+   "cells": 91,
+   "ones": 44,
+   "shapes": 2,
+   "best_run": 2,
+   "best": {
+    "start": "tl",
+    "ccw": true,
+    "outward": false,
+    "width": 7,
+    "rows": 7,
+    "cols": 13,
+    "text": "xe"
+   },
+   "control_median": 3,
+   "control_max": 6
+  },
+  "dbbi_high": {
+   "cells": 91,
+   "ones": 51,
+   "shapes": 2,
+   "best_run": 3,
+   "best": {
+    "start": "tl",
+    "ccw": false,
+    "outward": false,
+    "width": 7,
+    "rows": 7,
+    "cols": 13,
+    "text": "lwm"
+   },
+   "control_median": 4,
+   "control_max": 6
+  },
+  "whole_run_765_parity": {
+   "cells": 765,
+   "ones": 449,
+   "shapes": 10,
+   "best_run": 6,
+   "best": {
+    "start": "tr",
+    "ccw": true,
+    "outward": false,
+    "width": 7,
+    "rows": 3,
+    "cols": 255,
+    "text": "o/wcsy"
+   },
+   "control_median": 7,
+   "control_max": 9
+  },
+  "faed_is_g": {
+   "cells": 570,
+   "ones": 107,
+   "shapes": 14,
+   "best_run": 2,
+   "best": {
+    "start": "tr",
+    "ccw": true,
+    "outward": true,
+    "width": 8,
+    "rows": 6,
+    "cols": 95,
+    "text": "af"
+   },
+   "control_median": 2,
+   "control_max": 3
+  }
+ },
+ "known_reading_recovered": 1,
+ "planted_control": {
+  "run": 71,
+  "found": {
+   "start": "tl",
+   "ccw": true,
+   "outward": false,
+   "width": 8,
+   "rows": 19,
+   "cols": 30,
+   "text": "thelaststepisthefirststepfollowthewhiterabbittothecentreofthegridandrea"
+  },
+  "passed": true
+ },
+ "acceptance": "a run of 12 or more URL characters that also exceeds every shuffle of the same object",
+ "outcome": "null"
+}

@@ -1,0 +1,8 @@
+{
+  "outcome": "null",
+  "prereg_sha256": "eda9fca7f75ae4308d200498d9a6e62d3d5666113dcef165d06b076bb9ea26d7",
+  "evidence_file": "results.json",
+  "evidence_sha256": "b08bb442b0bf8edbf18bcaa08dcaa5458c30e307e74330402fedb3a3b6b03a9d",
+  "recorded_utc": "2026-11-10T17:28:02Z",
+  "note": "Planted control fired (run of 71) and the poster's own reading was recovered under exactly one convention. No object beats its shuffles."
+}
