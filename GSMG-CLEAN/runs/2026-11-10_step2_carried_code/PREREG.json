@@ -1,0 +1,26 @@
+{
+  "hypothesis": "The ordinary cells of DBBI are a code the solver already holds from the solved chain, spread over the non-prime cells with the colour markers put back at the prime cells.",
+  "source_support": [
+    "Phase 3.2 Architect rewrite: 'RETURN TO THE SOURCE CODES ALLOWING A TEMPORARY DISSEMINATION OF THE CODE YOU HOPEFULLY CARRY REINSERTING THE PRIME BASICS' (01 section 5a; 'HOPEFULLY' and 'BASICS' are the creator's additions).",
+    "DBBI parse: every prime cell is b or be and follows the poster colours (03 section 3)."
+  ],
+  "operand": "data/DBBI_91.txt, the two complete prime-slot parses (83 and 84 cells); their 60 and 61 ordinary cells.",
+  "operation": "Read the ordinary cells as digits under a=1..i=9 and a=0..i=8, forward and reversed, and find the longest run shared with each of the registry strings built by registry() (answers, labels and literals of the solved chain as text, decimal, hex, octal, character codes and sha256 in four forms; poster bits and sums; the 149 checkerboard digits; FAED; Phase 2, 3 and 3.2 clear text). Separately, find the longest window of ordinary cells whose repeat pattern equals a window of any registry string (any one-to-one relabelling).",
+  "predicted_artifact": {
+    "type": "exact_reconstruction",
+    "detail": "At least 12 consecutive ordinary cells equal a named registry string digit for digit, or at least 20 consecutive cells are a one-to-one relabelling of one."
+  },
+  "acceptance_rule": "PASS if the longest exact run is >= 12 digits or the longest isomorph window is >= 20 cells; otherwise NULL. Control maxima over 200 shuffles of the ordinary cells are reported beside the real value.",
+  "controls": {
+    "planted": "A 60-digit code placed in the registry and spread over the non-prime cells of an 83-cell stream must be recovered as a run of 60 from that entry.",
+    "null": "200 shuffles of the ordinary cells per parse, same registry, same measurement."
+  },
+  "candidate_bound": 8,
+  "aes_use": "none",
+  "method": {
+    "script": "tools/dbbi_step2.py",
+    "script_sha256": "8f5c53d7fc1620b56b4e0afda5b9ecdfb4a216cc45137f9c5fd58f0a7e4b99e8",
+    "oracles_sha256": "9c09dc139f89fc3ccd9ff8c7c669e12c455ae5c242b8eec2002cb5cecf1b719f",
+    "seed": 20261110
+  }
+}
