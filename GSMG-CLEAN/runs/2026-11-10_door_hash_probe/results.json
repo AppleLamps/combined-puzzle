@@ -1,0 +1,452 @@
+{
+ "control_caption_address": {
+  "text": "GSMGIO5BTCPUZZLECHALLENGE1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+  "path": "89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32",
+  "status": "200",
+  "bytes": 4536,
+  "body_sha16": "a83d3de7810f26b1",
+  "class": "known SalPhaseIon page",
+  "head": "<!doctype html>\n<html class=\"no-js\" lang=\"en\">\n<he"
+ },
+ "caption_only": {
+  "text": "GSMGIO5BTCPUZZLECHALLENGE",
+  "path": "0d7ca1a61a08505b47d2e1deaef1c05e3e4a3036c5254edfb19eeaa0ba62b9f4",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "caption_spaced": {
+  "text": "GSMG.IO 5 BTC PUZZLE CHALLENGE",
+  "path": "058de27ccfe84cdf311f9103c3003321e786cdeade76888e0415cb3ff9232c47",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "caption_dotnospace": {
+  "text": "GSMG.IO5BTCPUZZLECHALLENGE",
+  "path": "aca20ae7c6b5f425bdd9bd809583b28fd086b3380990689e37b6e94f3fb5ed9a",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "caption_spaced_address": {
+  "text": "GSMG.IO 5 BTC PUZZLE CHALLENGE 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+  "path": "ef2619e2d6cb914df5aada837a3b60c8f20da793585b3fc813859365cbaded7f",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "address_only": {
+  "text": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+  "path": "951209e1cf5a1feff85eea755e16b3481c174a75f45ddbbb35b67b92b46bfde2",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "url": {
+  "text": "gsmg.io/theseedisplanted",
+  "path": "3a3f0e245360d51ea41f55c7db8a13f270fbf3dcef3b4f94ac1c4b3cee8db2e9",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "seed_slug": {
+  "text": "theseedisplanted",
+  "path": "6e3f5a7baf924d8546f5f7af94a43b8424e3c810983f9795eb8451ad4243d860",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "knock_film": {
+  "text": "Knock, knock, Neo.",
+  "path": "3c4b0b85f2129c27c214863b773ff31d6a9bffd677890d62ec63797ade8056da",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "knock_film2": {
+  "text": "Knock, knock, Neo",
+  "path": "5cb883966a1e4e29f94ea24a97d456350048a0d46534326dcbbc767acade4da7",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "knockknockneo": {
+  "text": "knockknockneo",
+  "path": "12e0c85e64ce094c0cdaa98d8ac1103ec6640546556ceab6c5f4109b64e369ea",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "knock_knock_neo": {
+  "text": "knock knock neo",
+  "path": "49f70e486e7f7e68e11acdb3e6b39176bd98ec9d6d0b360a6b36a76bd0f744cf",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "KnockKnockNeo": {
+  "text": "Knock Knock Neo",
+  "path": "0458a6d544de1f01f35cd997e55c84c9f31fa44e1fc55a5fab3697fd17eb9f7c",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "knockknock": {
+  "text": "knockknock",
+  "path": "493cfcb7eb43b2fc07b6de200d7d7df978b4bee4db859e5e7e2e600ca0b54190",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "knock_knock": {
+  "text": "knock knock",
+  "path": "22f144cd3dfbda13d5750c8d851180be375e1815506ff612458880f788e5e5be",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "KNOCKKNOCK": {
+  "text": "KNOCKKNOCK",
+  "path": "d3b53b62c7883b20b9471607053f4e608a64945e55ddaa3355c1b72f701753b4",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "knockknockneo_dots": {
+  "text": "knockknockneo...",
+  "path": "9cbf89cbaf5e3d37957776bafd316c7c4159e48c2526fc8020f1c10db7afe872",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "Neo": {
+  "text": "Neo",
+  "path": "effee861f3433baac2d48e5b422c771dfb3762fb096a4aa9a8ba49eb6e7d7c27",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "ftwr_cap": {
+  "text": "Follow the white rabbit",
+  "path": "9385012d99a9187c2f82ee183efcb900a8b5b4c2763b9106e6936a9104e89c3d",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "ftwr_low": {
+  "text": "follow the white rabbit",
+  "path": "bfc6f97e4dfa5e6535c1de0af2f687e1767b2873dc0219dd6aa16e60d7534434",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "ftwr_nospace": {
+  "text": "followthewhiterabbit",
+  "path": "4e05db2644afbd36d74595ba7f435df3516f8bbb2d2376bfbc3b0936dfe9226b",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "ftwr_upper": {
+  "text": "FOLLOWTHEWHITERABBIT",
+  "path": "d8c7acd1a4284ea9f3ac597c281c68b121e8cf3fe9f8b5f44bfd451005a80caa",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "ftwr_period": {
+  "text": "Follow the white rabbit.",
+  "path": "39d5e6318429ce333acb1b9c8238f202fd10832db50d72d78a73605db4d5bcd5",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "ftwr_arrow": {
+  "text": "Follow the white rabbit \u2192",
+  "path": "5dcb7aa4e9fb067e6862e7de7fe634cfeda1d2f0891e631f52be35e172e2d787",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "whiterabbit": {
+  "text": "whiterabbit",
+  "path": "9847c47c1ded23ad70274f30f3d59e8623ef32368fb5f09c03f3d3b2d7ca0ebc",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "thewhiterabbit": {
+  "text": "thewhiterabbit",
+  "path": "897e44be9c5089c933ec079408fedda06427e06ef90f9943f4865207ba2196d0",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "wakeupneo": {
+  "text": "wakeupneo",
+  "path": "9eeda47847243d8122323a9513294eeedbffeef2ecc7917054f9d2d1d862c1f9",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "wake_up_neo": {
+  "text": "Wake up, Neo...",
+  "path": "b74bbe542be9d765deaff67a89b16721dd7a3c642d4b9d5485c88e69c608eff4",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "thematrixhasyou": {
+  "text": "thematrixhasyou",
+  "path": "8493b8fb74d238c07412455bf1b7716e621e34fb1c1f81480bacdc3137e42186",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "the_matrix_has_you": {
+  "text": "The Matrix has you...",
+  "path": "d640c03a1e7b6d67dca21d34bab22a87c06eb981af1f1f1516dc685f7405edae",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "anotherdoor": {
+  "text": "anotherdoor",
+  "path": "ab2dd76473d8076ca36f2738e31b39f5031b5044daab53770fcf01bbdf7bbf71",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "another_door": {
+  "text": "another door",
+  "path": "3d980167f3a19e5950025abdf42750e8d469e5782222e359f4c17ff94b67f7a7",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "thereisanotherdoor": {
+  "text": "thereisanotherdoor",
+  "path": "93d682aa9c5442e9bbbc74e83f3e009b32551dd33fe497ac073d0303b7e390c8",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "there_is_another_door": {
+  "text": "There is another door",
+  "path": "66ceda160b8d9d5ddc04523456eeb9aa8e03ca38dc2566c7202a297064f3902a",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "ADOOR": {
+  "text": "ADOOR",
+  "path": "1f5425d921e0aae358eb75fa970cac457ffe09f9d3fd77218819de6270a2e519",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "door": {
+  "text": "door",
+  "path": "2534e2de1dec24fedab4c00266b55ba9ba60dde03a349c5b5662189dd561ba9e",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "thedoor": {
+  "text": "thedoor",
+  "path": "a5c20fa42169e584528c506e0269dafc086f55251bb5d1d3518d60bc00bf0e76",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "seconddoor": {
+  "text": "seconddoor",
+  "path": "29f04aeaf992a1f95785440227725482c376f3136ec561c3dbe6a42248f1a1c4",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "thirddoor": {
+  "text": "thirddoor",
+  "path": "1e59a083044f149f3fbff1ef59330df42b58f37b21e6ba6918958ed19a1015ea",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "extradoor": {
+  "text": "extradoor",
+  "path": "ef68371e789e36c8d41bcf6217fd2462cee7de2c7ec3cfb797e936f244616d7c",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "therabbitsnest": {
+  "text": "therabbitsnest",
+  "path": "3b3cd4c6c6e5c8c51e710d9a7cce77eeee30afe25dd5a6f7747bdfcf8ea2e429",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "rabbitsnest": {
+  "text": "rabbitsnest",
+  "path": "efee99875e4aa9793cfa4d4289006e0231443050ea77f622808984f9a4e1d770",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "thenest": {
+  "text": "thenest",
+  "path": "fe13c3caa37619529b232c473f61647461f383a1b14a6ba76004023712674542",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "downtherabbithole": {
+  "text": "downtherabbithole",
+  "path": "0498ddefb7b15c5252bc46544f40d57a52a69f47909aaa9c3273fa0a9353974c",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "rabbithole": {
+  "text": "rabbithole",
+  "path": "cd3c59eedabaa12e1e85068bd687eb23b97aaafd869b9c7b16a96c2e906aa0bf",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "hushhush": {
+  "text": "hushhush",
+  "path": "a8e67a32ba7f6278e608b8cd400cd55f780706771c5483754d0246bd6bf20ecb",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "room101": {
+  "text": "room101",
+  "path": "37a10832c1f58abaf2d0d7a26f346bb97180869f83f44dc964970ecd874e7c1d",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "room_101": {
+  "text": "room 101",
+  "path": "1ae8ae7c972e9d3054d18a544ccf48c288527104cba87968e8d4c8384e2a9b0b",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "101": {
+  "text": "101",
+  "path": "16dc368a89b428b2485484313ba67a3912ca03f2b2b42429174a4f8b3dc84e44",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ },
+ "gobacktothefirstpuzzlepiece": {
+  "text": "gobacktothefirstpuzzlepiece",
+  "path": "a98de6c47d85c48c62ef163bc1ed1a1e09da7145c57190f3c39d2e24b35fc2e9",
+  "status": "404",
+  "bytes": 9,
+  "body_sha16": "4641333e9699e25e",
+  "class": "no (404 Hello)",
+  "head": "Hello :-)"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "export": "telegram/ChatExport_2026-11-09_result.json",
+ "sha256": "d786ff511aed912872a3b2dd55ddf935bf5e49ab80488d0cd2202e5e3fcd00f9",
+ "covers": {
+  "first_id": 70304,
+  "first_date": "2026-09-01T01:12:27",
+  "last_id": 80453,
+  "last_date": "2026-11-09T19:59:58",
+  "messages": 8856
+ },
+ "compared_with": "gsmg-haiku/ChatExport_2026-10-08/result.json",
+ "messages_newer_than_that_export": 4049,
+ "overlap_messages": 4808,
+ "overlap_ids_missing_now": [
+  75545
+ ],
+ "overlap_texts_changed": 0,
+ "creator_messages_in_export": [
+  {
+   "id": 70307,
+   "date": "2026-09-01T07:49:57"
+  },
+  {
+   "id": 70309,
+   "date": "2026-09-01T07:57:32"
+  },
+  {
+   "id": 70311,
+   "date": "2026-09-01T08:01:50"
+  },
+  {
+   "id": 70317,
+   "date": "2026-09-01T08:17:44"
+  },
+  {
+   "id": 70322,
+   "date": "2026-09-01T08:27:03"
+  },
+  {
+   "id": 70325,
+   "date": "2026-09-01T08:32:41"
+  },
+  {
+   "id": 70327,
+   "date": "2026-09-01T08:33:19"
+  },
+  {
+   "id": 70334,
+   "date": "2026-09-01T08:40:27"
+  },
+  {
+   "id": 70336,
+   "date": "2026-09-01T08:40:54"
+  },
+  {
+   "id": 70377,
+   "date": "2026-09-01T11:41:20"
+  }
+ ],
+ "creator_messages_newer_than_70377": 0,
+ "forwards_of_creator_posts_after_2026-10-08": [
+  {
+   "id": 78471,
+   "date": "2026-11-01",
+   "original": 16624
+  },
+  {
+   "id": 78739,
+   "date": "2026-11-03",
+   "original": 9592
+  },
+  {
+   "id": 78931,
+   "date": "2026-11-05",
+   "original": 32640
+  },
+  {
+   "id": 78933,
+   "date": "2026-11-05",
+   "original": 3923
+  },
+  {
+   "id": 79255,
+   "date": "2026-11-07",
+   "original": 66909
+  },
+  {
+   "id": 79520,
+   "date": "2026-11-07",
+   "original": 66909
+  },
+  {
+   "id": 80414,
+   "date": "2026-11-09",
+   "original": 1710
+  }
+ ]
+}

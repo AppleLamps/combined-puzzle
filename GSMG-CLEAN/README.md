@@ -12,7 +12,9 @@ This folder was distilled from every research round in `E:\rabbit-combined`: rab
 
 ## Read in this order
 
-**State refresh (2026-11-10):** [17_STATE_REFRESH_2026-11-10.md](17_STATE_REFRESH_2026-11-10.md). Every outside source was re-checked. The prize is unspent (125,649,674 sat), the creator has not posted since 2026-09-01, and the live pages match the saved ones. Two null runs from an unmerged source branch (2026-09-15) are imported. 01 section 9 was incomplete: the checkpoint payments came from `3GSMG24...` and went to eight derived addresses, all re-derived by `tools/check_chain_state.py`; `1NULY7...` is a kangaroo tool's tip address with no preimage to find. The chat delta to 2026-10-08 is in `telegram/`.
+**Labels as riddles (2026-11-10):** [18_LABELS_AS_RIDDLES_2026-11-10.md](18_LABELS_AS_RIDDLES_2026-11-10.md). Change of direction: DBBI and FAED are no longer searched for a password. The creator, asked what "the actual first hint" was, answered "Follow the white rabbit", so `ourfirsthintisyourlastcommand` most plausibly says that the last step is that one. His "theory of everything" line is the punchline of a running joke and is retired as a hint. The file also sets out what the solved stages say as a whole. It proposes no password and tests nothing.
+
+**State refresh (2026-11-10):** [17_STATE_REFRESH_2026-11-10.md](17_STATE_REFRESH_2026-11-10.md). Every outside source was re-checked. The prize is unspent (125,649,674 sat), the creator has not posted since 2026-09-01, and the live pages match the saved ones. Two null runs from an unmerged source branch (2026-09-15) are imported. 01 section 9 was incomplete: the checkpoint payments came from `3GSMG24...` and went to eight derived addresses, all re-derived by `tools/check_chain_state.py`; `1NULY7...` is a kangaroo tool's tip address with no preimage to find. The chat to 2026-11-09 is in `telegram/`; nothing in it is from the creator.
 
 **Canonical ledger and working rules (2026-11-10):** [16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md](16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md). This folder is the single source of truth for the combined repository; the other nine directories carry a `CANONICAL_NOTICE.md` listing where they disagree. Envelope sweeps are stopped: `tools/check_candidate.py` now refuses to decrypt unless `--derivation` names a run whose sealed statement (`tools/prereg.py`) predicted a second artifact and whose self-check passed without AES (`tools/oracles.py`). The same file reports the FAED surface statistics (no sequential structure, `g` doubled, not homogeneous; the "`g` as zero, 2^107" gap is closed as text), shows that the `317/557` and `137/143` numbers carried by two forks come from a solver and are circular, and records three sealed step-two experiments on DBBI's ordinary cells, all null with their planted controls fired.
 
@@ -121,7 +123,9 @@ SHA256SUMS.txt        hashes of every file here
 | `telegram/CommunityGroup_2026-09-10_result.json` | "GSMG - Community & support group" | 52,913 | 2018-04-17 → 2026-09-10 |
 | `telegram/ChatExport_delta_2026-09-13_to_2026-10-08.json` | "GSMG Puzzle Solvers", messages after id 71746, text only | 3,513 | 2026-09-13 → 2026-10-08 |
 
-The full October export is `../gsmg-haiku/ChatExport_2026-10-08/result.json` (64,742 messages). It holds no creator message newer than #70377 (2026-09-01).
+| `telegram/ChatExport_2026-11-09_result.json` | "GSMG Puzzle Solvers", partial export as supplied | 8,856 | 2026-09-01 → 2026-11-09 |
+
+The newest export holds no creator message newer than #70377 (2026-09-01). The full October export is `../gsmg-haiku/ChatExport_2026-10-08/result.json` (64,742 messages).
 
 - `telegram/messages_missing_from_2026-09-13_export.json` holds 12 messages that are in older exports but deleted from the newest one.
 

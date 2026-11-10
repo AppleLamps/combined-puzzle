@@ -16,6 +16,10 @@ evidence. Do not open a new ledger in another directory.
 
 ## 2. Working rules
 
+   > Owner-authorized exception, exercised once on 2026-11-10 (18 section 6.6): a short fixed list of
+   > 41 riddle answers was tried against the three envelopes, judged by a full decrypt and never by
+   > padding (`tools/run_riddle_envelopes.py`). 0 openers. The standing rule below is unchanged.
+
 1. **No envelope sweeps.** Nothing is tried against Terminal, SalPhaseIon short or Cosmic Duality
    unless it is the output of a derivation that already checked itself without AES.
    `tools/check_candidate.py` enforces this: it refuses to decrypt without `--derivation runs/<dir>`,

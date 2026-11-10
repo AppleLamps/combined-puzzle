@@ -1,0 +1,28 @@
+{
+  "hypothesis": "'Our first hint is your last command' means the last step repeats the first: a grid of two-valued cells, read along the poster's spiral, gives text.",
+  "source_support": [
+    "Creator, asked what the actual first hint was: 'Follow the white rabbit' (#11247, #11248; 18 section 2).",
+    "SalPhaseIon page: 'shabefourfirsthintisyourlastcommand' (01 section 6).",
+    "Creator #8446: 'verylaststepisatruegiveawaypromised'.",
+    "Poster rule: black and blue cells are 1, white and yellow are 0, and a blue cell marks an odd character (01 section 1)."
+  ],
+  "operand": "The poster's 14x14 cells; the rabbit drawing at its own 15 pixel resolution (the four centre cells as 10x10, and its bounding box as 15x20); FAED, DBBI and the whole 765-letter a..i run reduced to two values by parity (odd = 1) and by a split at 5; FAED with g as 1.",
+  "operation": "Lay each object out in every exact rectangle of its length. Read each rectangle along a spiral from each of the four corners, clockwise and counter-clockwise, inward and outward, as 8-bit and as 7-bit characters. The statistic is the longest run of characters from the poster's own answer alphabet (lowercase letters, dot, slash).",
+  "predicted_artifact": {
+    "type": "readable_text",
+    "detail": "One reading contains a run of at least 12 such characters that reads as words or as an address, as 'gsmg.io/theseedisplanted' did."
+  },
+  "acceptance_rule": "PASS if some object's longest run is at least 12 characters and longer than the longest run in every one of 60 shuffles of that same object; otherwise NULL.",
+  "controls": {
+    "planted": "A 71-character sentence written along the poster's spiral into a 19x30 grid must be found with a run of at least 60. The poster's own reading must be recovered under exactly one convention.",
+    "null": "60 shuffles of each object's cells, same rectangles and spirals."
+  },
+  "candidate_bound": 12000,
+  "aes_use": "none",
+  "method": {
+    "script": "tools/spiral_rereading.py",
+    "script_sha256": "d1f88dd0e8abae94605081813cf346fa973d3afd490b70e7fe4a3a6abbf78514",
+    "seed": 20261110
+  },
+  "known_before_sealing": "Seen before sealing, while exploring: the poster's other 31 spiral conventions give no text, and the four centre cells at 15 pixel resolution give no text under the eight inward spirals. Nothing had been computed for FAED, DBBI or the whole run."
+}

@@ -1,6 +1,7 @@
 # 17 - State refresh: what changed outside this folder, and what it corrects
 
-**Status (2026-11-10): UNSOLVED.** The prize is unspent, the creator has not posted since 2026-09-01,
+**Status (2026-11-10): UNSOLVED.** The prize is unspent, the creator has not posted since 2026-09-01
+(checked in an export that runs to 2026-11-09),
 and the live puzzle pages are byte-for-byte what this folder holds. This file records a check of every
 outside source the ledger depends on and the corrections that follow. Evidence is in
 `runs/2026-11-10_state_refresh/`.
@@ -15,7 +16,7 @@ outside source the ledger depends on and the corrections that follow. Evidence i
 | Community walkthrough, as carried in `AppleLamps/gsmgio-5btc-puzzle` | Updated 2026-11-01 | Saved as `reference_texts/community_walkthrough_2026-11-01.md`. Its on-chain section corrects 01 section 9 (section 3) |
 | Prize address | 125,649,674 sat, 129 transactions, 2 spends, last activity 2026-10-13 (inbound dust) | 01 section 9 updated |
 | Better Half address | 375,055,856 sat, 45 transactions, never spent | Unchanged |
-| Chat | Newest export runs to 2026-10-08 (`gsmg-haiku/ChatExport_2026-10-08`): 3,513 new messages, none from the creator, no creator text changed | Delta saved in `telegram/`; 02 updated (section 4) |
+| Chat | Newest export runs to 2026-11-09 (`telegram/ChatExport_2026-11-09_result.json`, section 9): 7,562 messages since the ledger's September export, none from the creator, no creator text changed | Saved in `telegram/`; 02 updated (sections 4 and 9) |
 | Live site | `/puzzle`, `/theseedisplanted` and the SalPhaseIon page answer 200 with the saved content | 01 section 10 confirmed (section 5) |
 
 ## 2. Imported from the unmerged source branch
@@ -155,3 +156,30 @@ python tools/oracles.py
 python tools/test_audit_dbbi_framing_architect.py
 python tools/test_test_faed_anchor_dbbi.py
 ```
+
+## 9. Addendum: chat export to 2026-11-09
+
+A newer export of the solvers' group was supplied after the sections above were written. It is saved
+unchanged as `telegram/ChatExport_2026-11-09_result.json` (8,856 messages, ids 70304 to 80453,
+2026-09-01 to 2026-11-09) and compared in `runs/2026-11-10_state_refresh/chat_state_2026-11-09.json`.
+
+- **4,049 messages are newer than the October export. None is from the creator.** The export holds ten
+  creator messages, all from 2026-09-01; the last is still #70377. It has been ten weeks.
+- Seven forwards of creator posts appear after 2026-10-08. Each repeats a message already in 02 or in
+  the sourcebooks (#16624, #9592, #32640, #3923, #66909 twice, #1710).
+- No message text changed in the overlap with the October export. One message was deleted (#75545).
+- Two solvers asked the creator direct yes/no questions about the step order and about whether FAED is
+  filler (#78484 on 2026-11-01, #79291 on 2026-11-07). Neither has an answer.
+
+Solver observations in the new messages, each checked here. None is an operation; they are recorded so
+that they are not rediscovered.
+
+| Message | Observation | Checked |
+|---|---|---|
+| #76294 (Marc, 2026-10-11) | The checkerboard message is 23 words, 7 in "IN CASE YOU MANAGE TO CRACK THIS" and 16 in the rest; the URL splits the same way, `gsmg.io` 7 characters and `theseedisplanted` 16 | Exact. With DBBI's 16 `b` and 7 `be` markers this is the third place the film's 23 / 16 / 7 appears. The word boundaries are the reader's, since the checkerboard output has no spaces |
+| #76225 (Heisenberg, 2026-10-10) | DBBI's prime markers are the last bits of the URL's characters, `b` for odd and `be` for even; the 84-cell parse differs at marker 21 only | Exact, and the same fact as the poster colours (01 section 1: the coloured cells sit on bit 7). He also reports that the ordinary cells in matrices 4 to 14 wide did not return the URL; that test was not repeated here |
+| #77646 (2026-10-21) | A post about a "forgotten key" circulating for the prize address; the post itself says the address was emptied in 2017 | The quoted string is not valid Base58Check, so it is not a key. The claim that the address is empty is false: it holds 125,649,674 sat (section 3.1) |
+| #78093 (2026-10-24) | `1NULY7...` ranked as the top lead, a "third door" | A tool's tip address with no preimage (section 3.4) |
+
+The delta file `telegram/ChatExport_delta_2026-09-13_to_2026-10-08.json` is now covered by the new
+export, apart from the one deleted message, and is kept because the sections above cite it.

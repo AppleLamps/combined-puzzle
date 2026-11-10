@@ -1,0 +1,795 @@
+{
+ "authorization": "Repository owner, 2026-11-10: try a short fixed list of riddle answers against the three envelopes, judged by a full decrypt, never by padding.",
+ "convention": "password = sha256(answer) hex; EVP_BytesToKey SHA-256 1 iter; AES-256-CBC; PKCS#7",
+ "acceptance": "key match, or DBBI token pattern, or pad>=2 and printable>=0.90 and english>-5.0",
+ "positive_control": {
+  "pad": 10,
+  "len": 2422,
+  "printable": 0.598,
+  "english": -4.89,
+  "passed": true
+ },
+ "candidates": 41,
+ "openers": [],
+ "results": [
+  {
+   "answer": "knockknock",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "knockknockneo",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "knockknocksneo",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "knock knock",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "knock knock neo",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "Knock, knock, Neo.",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "Knock, knock, Neo",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "knockknockneo.",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "whosthere",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "whoisit",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "followthewhiterabbit",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "follow the white rabbit",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "Follow the white rabbit",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "Follow the white rabbit.",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "whiterabbit",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "thewhiterabbit",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "thematrixhasyou",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "wakeupneo",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "wakeupyou",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "anotherdoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "thereisanotherdoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "theotherdoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "seconddoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "thirddoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "extradoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "theextradoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "door",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "thedoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "openthedoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "opendoor",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "therabbitsnest",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "downtherabbithole",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "rabbithole",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "room101",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "hushhush",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "ourfirsthintisyourlastcommand",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "firsthintisyourlastcommand",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "yinyang",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "yingyang",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "cosmicduality",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  },
+  {
+   "answer": "wewontgiveawaythepassword",
+   "dbbi_pattern": false,
+   "opens_any": false,
+   "envelopes": [
+    {
+     "envelope": "terminal_phase3_2_end",
+     "pad": 0
+    },
+    {
+     "envelope": "salphaseion_short",
+     "pad": 0
+    },
+    {
+     "envelope": "cosmic_duality",
+     "pad": 0
+    }
+   ]
+  }
+ ]
+}
