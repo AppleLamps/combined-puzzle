@@ -151,7 +151,7 @@
 
 ## 8c. Added 2026-11-10 from the state refresh (all [checked] in the 2026-10-08 export; 17 section 4)
 
-No creator message is newer than #70377 (2026-09-01), and no creator text differs between the 2026-09-13 and 2026-10-08 exports.
+No creator message is newer than #70377 (2026-09-01) in an export that runs to 2026-11-09 (`telegram/ChatExport_2026-11-09_result.json`), and no creator text differs between the 2026-09-13, 2026-10-08 and 2026-11-09 exports.
 
 | id | date | text | notes |
 |---|---|---|---|
