@@ -1,5 +1,7 @@
 # Packet results (2026-09-08)
 
+> **Canonical ledger notice (2026-11-10).** This file treats the Cosmic Duality `4f7a1e4e...` output as a real decrypt. It is a retracted pad-1 output. See [`CANONICAL_NOTICE.md`](../CANONICAL_NOTICE.md) and `GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md`.
+
 Closed list SHA-256: `13055206d7585e75ea07d6518a126a785af3b8d0bbb159b9a3b64f5b1d4b1493`  
 (`packet/password_list.json`, 55 unique strings × raw + sha256hex = 330 OpenSSL attempts)
 

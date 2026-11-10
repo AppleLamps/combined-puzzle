@@ -1,5 +1,7 @@
 # Unlocked-text synthesis — critical review
 
+> **Canonical ledger notice (2026-11-10).** This file treats the Cosmic Duality `4f7a1e4e...` output as a real decrypt. It is a retracted pad-1 output. See [`CANONICAL_NOTICE.md`](CANONICAL_NOTICE.md) and `GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md`.
+
 The Matrix-flavored reading of the published stages is mostly right as *story*. It is not a new remaining-stage order, and it does not reopen Cosmic Duality or leftover 3.2 as an open password chat.
 
 ## What holds

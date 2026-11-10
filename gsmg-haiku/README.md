@@ -1,5 +1,7 @@
 # GSMG.io 5 BTC puzzle
 
+> **Canonical ledger notice (2026-11-10).** This directory is a frozen snapshot. The single source of truth is `GSMG-CLEAN/`; the statements here that it contradicts are listed in [`CANONICAL_NOTICE.md`](CANONICAL_NOTICE.md). No envelope sweeps.
+
 Unmarked values in this folder were recomputed from the files in `files/` on 2026-10-06.
 Values marked **[kit]** are copied from the source kit's records and were not recomputed here.
 

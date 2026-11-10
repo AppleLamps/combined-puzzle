@@ -1,5 +1,7 @@
 # GSMG.io 5 BTC puzzle: project index
 
+> **Canonical ledger notice (2026-11-10).** This directory is a frozen snapshot. The single source of truth is `GSMG-CLEAN/`; the statements here that it contradicts are listed in [`CANONICAL_NOTICE.md`](CANONICAL_NOTICE.md). No envelope sweeps.
+
 Current interpretation: 6 October 2026. Artifact and balance snapshots retain their stated dates.
 
 Start with [the current evidence ledger](claude/119-current-evidence-ledger.md) and [status](claude/status.md). They supersede stronger interpretations in older dated logs; no new unlock or search is reported.

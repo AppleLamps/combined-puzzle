@@ -1,5 +1,24 @@
 # Combined GSMG.IO 5 BTC puzzle research
 
+**Status: unsolved.** No locked envelope has been opened and no private key has been found.
+
+## Canonical ledger and working rules
+
+`GSMG-CLEAN/` is the single source of truth. Start at
+[`GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md`](GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md).
+The other nine directories are frozen snapshots; each has a `CANONICAL_NOTICE.md` listing the
+statements in it that the ledger contradicts.
+
+1. **No envelope sweeps.** A password is tried only if it came out of a derivation that already
+   checked itself without AES. `GSMG-CLEAN/tools/check_candidate.py` refuses to decrypt otherwise.
+2. **Every experiment predicts a second artifact first** (readable text, an authenticated digest, a
+   marker or prize address, or an exact reconstruction). The statement is sealed with
+   `GSMG-CLEAN/tools/prereg.py` and committed before the results.
+3. **A null counts only when its planted control fired.**
+4. **New findings are recorded in `GSMG-CLEAN/`**, as a numbered document plus a `runs/` directory.
+
+## The directories
+
 Each directory is a snapshot of one research repository, taken on 2026-10-21 from
 its `claude/clever-feynman-rnoof7` branch head. The snapshot is the tracked
 files only; each source repository keeps its own full history.
@@ -7,7 +26,7 @@ files only; each source repository keeps its own full history.
 | Directory | Source repository | Commit | What it is |
 | --- | --- | --- | --- |
 | `puzle/` | AppleLamps/puzle | `bbcf6c0` | Forensic record: tested solver package, append-only attempt log |
-| `GSMG-CLEAN/` | AppleLamps/GSMG-CLEAN | `795f85d` | Proven chain, open leads, dead ends, critical reviews |
+| `GSMG-CLEAN/` | AppleLamps/GSMG-CLEAN | `795f85d` | **Canonical ledger.** Proven chain, open leads, dead ends, critical reviews, working rules |
 | `gsmg-puzzle-kit/` | AppleLamps/gsmg-puzzle-kit | `db3b28d` | Working kit: dossier, harness, evidence ledger, doc 120 |
 | `gsmg/` | AppleLamps/gsmg | `85a99d9` | Dossier fork (docs 115 to 122) |
 | `gsmg-1.2/` | AppleLamps/gsmg-1.2 | `35ea6a4` | Dossier fork |

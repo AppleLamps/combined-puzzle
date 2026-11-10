@@ -277,3 +277,18 @@ Note that `python3` is not on PATH on this machine; use `py` or `python`.
   550 MB), so their result digests resolve to nothing on a fresh clone. They are
   not lost: both regenerate bit-exactly to their sealed digests from committed
   code, which the integrity audit records.
+
+## Canonical ledger (added 2026-11-10)
+
+This directory is a frozen snapshot inside the combined repository. The single source of truth is
+`../GSMG-CLEAN/`. Read `CANONICAL_NOTICE.md` in this directory before relying on any claim here: it
+lists the statements the canonical ledger contradicts. Two rules from
+`../GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md` apply here as well:
+
+- No envelope sweeps. A password is tried only through
+  `../GSMG-CLEAN/tools/check_candidate.py --derivation runs/<dir>`, after that derivation checked
+  itself without AES.
+- Every new experiment states the second artifact it predicts before it generates candidates
+  (`../GSMG-CLEAN/tools/prereg.py`), and its result is recorded in `../GSMG-CLEAN/`.
+
+This directory's own rules above still hold inside it.

@@ -1,0 +1,154 @@
+{
+ "prereg_sha256": "6e576738ca9a8146c0251fc433da610b8be17c0c9975603e9fe92aee995d675b",
+ "registry_entries": 269,
+ "registry_characters": 24897,
+ "parses": {
+  "83": {
+   "ordinary": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeea",
+   "longest_exact_run": {
+    "length": 7,
+    "view": "a=0",
+    "source": "phase3_answer:sha256_decimal",
+    "text": "5375523"
+   },
+   "longest_isomorph": {
+    "length": 10,
+    "direction": "forward",
+    "source": "url:text_as_decimal",
+    "offset_in_cells": 3,
+    "offset_in_source": 2
+   },
+   "control_exact_max": 10,
+   "control_exact_median": 6,
+   "control_isomorph_max": 13,
+   "control_isomorph_median": 11,
+   "top_exact_runs": [
+    [
+     7,
+     "a=0",
+     "phase3_answer:sha256_decimal",
+     "5375523"
+    ],
+    [
+     6,
+     "a=1,reversed",
+     "poster_text:char_codes",
+     "366846"
+    ],
+    [
+     6,
+     "a=1",
+     "half_hash160:sha256_decimal",
+     "987757"
+    ],
+    [
+     6,
+     "a=0,reversed",
+     "half_pubkey:text_as_octal",
+     "232466"
+    ],
+    [
+     6,
+     "a=0,reversed",
+     "better_half_hash160:text_as_octal",
+     "461464"
+    ],
+    [
+     5,
+     "a=1,reversed",
+     "prize_address:sha256_octal",
+     "56733"
+    ],
+    [
+     5,
+     "a=1,reversed",
+     "phase3_answer:text_as_hex",
+     "73336"
+    ],
+    [
+     5,
+     "a=1,reversed",
+     "label_thispassword:text_as_octal",
+     "56733"
+    ]
+   ]
+  },
+  "84": {
+   "ordinary": "difhccgihaeeihggegebgehhehhfafdhffcdbfcccgfeggecdcifffgigeeae",
+   "longest_exact_run": {
+    "length": 7,
+    "view": "a=0",
+    "source": "phase3_answer:sha256_decimal",
+    "text": "5375523"
+   },
+   "longest_isomorph": {
+    "length": 10,
+    "direction": "forward",
+    "source": "url:text_as_decimal",
+    "offset_in_cells": 3,
+    "offset_in_source": 2
+   },
+   "control_exact_max": 8,
+   "control_exact_median": 6,
+   "control_isomorph_max": 14,
+   "control_isomorph_median": 12,
+   "top_exact_runs": [
+    [
+     7,
+     "a=0",
+     "phase3_answer:sha256_decimal",
+     "5375523"
+    ],
+    [
+     6,
+     "a=1,reversed",
+     "poster_text:char_codes",
+     "366846"
+    ],
+    [
+     6,
+     "a=1",
+     "half_hash160:sha256_decimal",
+     "987757"
+    ],
+    [
+     6,
+     "a=0,reversed",
+     "half_pubkey:text_as_octal",
+     "232466"
+    ],
+    [
+     6,
+     "a=0,reversed",
+     "better_half_hash160:text_as_octal",
+     "461464"
+    ],
+    [
+     5,
+     "a=1,reversed",
+     "prize_address:sha256_octal",
+     "56733"
+    ],
+    [
+     5,
+     "a=1,reversed",
+     "phase3_answer:text_as_hex",
+     "73336"
+    ],
+    [
+     5,
+     "a=1,reversed",
+     "label_thispassword:text_as_octal",
+     "56733"
+    ]
+   ]
+  }
+ },
+ "planted_control": {
+  "recovered_run": 60,
+  "source": "planted:code",
+  "passed": true
+ },
+ "acceptance": "exact run >= 12 digits, or isomorph window >= 20 cells",
+ "outcome": "null"
+}

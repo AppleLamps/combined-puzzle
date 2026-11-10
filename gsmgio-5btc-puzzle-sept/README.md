@@ -1,5 +1,7 @@
 # GSMG.IO 5 BTC puzzle hints
 
+> **Canonical ledger notice (2026-11-10).** This directory is a frozen snapshot. The single source of truth is `GSMG-CLEAN/`; the statements here that it contradicts are listed in [`CANONICAL_NOTICE.md`](CANONICAL_NOTICE.md). No envelope sweeps.
+
 This repository contains all publicly known hints for GSMG.IO 5 BTC puzzle challenge. Contributions are welcome!
 
 If you find this useful, please donate BTC at [1JK27jtvE1wS4VG9k7Zpo8wBufMbYwy3r8](https://www.blockchain.com/btc/address/1JK27jtvE1wS4VG9k7Zpo8wBufMbYwy3r8)

@@ -1,5 +1,7 @@
 # GSMG.io 5 BTC puzzle — offline cryptanalysis
 
+> **Canonical ledger notice (2026-11-10).** This directory is a frozen snapshot. The single source of truth is `GSMG-CLEAN/`; the statements here that it contradicts are listed in [`CANONICAL_NOTICE.md`](CANONICAL_NOTICE.md). No envelope sweeps.
+
 Independent reconstruction of the solved phases, then a data-level reading of the SalPhaseIon `faed` block. Nothing in this repo contacts `gsmg.io` or any other endpoint. A candidate is accepted only when its public key hashes to the prize address.
 
 Prize address `1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe`, hash160 `a9553269572a317e39f0f518cb87c1a0ee1dbae4`.
