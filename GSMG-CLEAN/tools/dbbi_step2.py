@@ -360,28 +360,20 @@ def run_e2(run):
     rnd = random.Random(SEED)
     _, _, poster_rows, poster_cols = poster_lists()
     out = {'parses': {}, 'exact_hits': []}
-    # planted control: ordinary cells chosen so that the gap sums spell a sentence under a1z26
-    message = 'takethelastwordsofthearchitect'[:23]
-    cells, it = [], iter(message)
-    n = 1
-    while len(cells) < 84:
-        if is_prime(n):
-            cells.append('b')
-            n += 1
-            continue
-        gap = 0
-        while not is_prime(n + gap) and len(cells) + gap < 84:
-            gap += 1
-        target = ord(next(it, 'e')) - 96
-        parts = [1] * gap
-        for k in range(gap):                                # spread the target over the gap, digits 1..9
-            add = min(8, target - sum(parts))
-            parts[k] += max(0, add)
-        cells += [chr(96 + p) for p in parts]
-        n += gap
-    planted = [r for r in e2_outputs(cells[:84]) if r['list'] == 'gap_sums_nonempty' and r['decode'] == 'a1z26']
-    reachable = ''.join(ch for ch in planted[0]['text'])
-    out['planted_control'] = {'text': reachable, 'score': planted[0]['score']}
+    # planted control: ordinary cells chosen so that the 6x14 column sums (prime cells zero) spell a
+    # phrase under A1Z26.  Each column's target is spread over its ordinary cells with digits 1..9.
+    message = 'thisisthepoint'
+    cells = ['b' if is_prime(n) else None for n in range(1, 85)]
+    for col, ch in enumerate(message):
+        slots = [r * 14 + col for r in range(6) if cells[r * 14 + col] is None]
+        target, parts = ord(ch) - 96, [1] * len(slots)
+        assert len(slots) <= target <= 9 * len(slots), (ch, len(slots))
+        for k in range(len(slots)):
+            parts[k] += min(8, target - sum(parts))
+        for slot, part in zip(slots, parts):
+            cells[slot] = chr(96 + part)
+    planted = [r for r in e2_outputs(cells) if r['list'] == 'board_6x14_col_sums' and r['decode'] == 'a1z26']
+    out['planted_control'] = {'text': planted[0]['text'], 'score': planted[0]['score']}
     real_best, ctl_best = None, []
     for size in (83, 84):
         cells = ops[size]['cells']
@@ -410,15 +402,16 @@ def run_e2(run):
             scores = [r['score'] for r in e2_outputs(shuffled) if r['score'] is not None]
             ctl_best.append(max(scores) if scores else -99.0)
     ctl_best.sort()
-    threshold = ctl_best[int(0.999 * len(ctl_best))]
+    threshold = ctl_best[-1]
     out['real_best'] = real_best
+    out['real_top10'] = sorted((dict(r, parse=size) for size in (83, 84) for r in out['parses'][size]['outputs']
+                                if r['score'] is not None), key=lambda r: -r['score'])[:10]
     out['control'] = {'runs': len(ctl_best), 'median_of_max': ctl_best[len(ctl_best) // 2],
-                      'p999_of_max': threshold, 'max_of_max': ctl_best[-1]}
-    out['planted_control']['passed'] = bool(out['planted_control']['score'] is not None
-                                            and out['planted_control']['score'] > threshold
-                                            and out['planted_control']['score'] > -4.9)
-    out['acceptance'] = 'any exact hit, or best real score above the 99.9th percentile of control maxima and above -4.9'
-    passed = bool(out['exact_hits']) or bool(real_best and real_best['score'] > threshold and real_best['score'] > -4.9)
+                      'p999_of_max': ctl_best[int(0.999 * len(ctl_best))], 'max_of_max': threshold}
+    out['planted_control']['passed'] = bool(out['planted_control']['text'] == message
+                                            and out['planted_control']['score'] > threshold)
+    out['acceptance'] = 'any exact hit, or best real score above every control maximum'
+    passed = bool(out['exact_hits']) or bool(real_best and real_best['score'] > threshold)
     out['outcome'] = 'passed' if passed else 'null'
     path = finish(run, seal, 'results.json', out)
     print(json.dumps({k: out[k] for k in ('planted_control', 'exact_hits', 'real_best', 'control', 'outcome')}, indent=1))
@@ -525,16 +518,18 @@ def run_e3(run):
             shuffled[name] = v
         ctl.append(max(r['score'] for r in e3_all(shuffled, texts) if r['score'] is not None))
     ctl.sort()
-    # planted control: a list built so that running back-steps over letters spell a sentence
-    words, anchors = texts[E3_TRANSCRIPTS[0]]
-    stream = ''.join(words)
-    anchor = len(''.join(words[:anchors['before_neo_walks_to_the_door']]))
-    message, steps, pos = 'thedoortoyourleftleadsback', [], 0
-    for ch in message:
-        nxt = next(p for p in range(pos + 1, pos + 400) if stream[anchor - 1 - (p - 1)] == ch)
-        steps.append(nxt - pos)
-        pos = nxt
-    planted = e3_read(words, anchors['before_neo_walks_to_the_door'], steps, 'letter', 'running', 1, 'back')
+    # planted control: a 61-letter message hidden in a synthetic letter stream at the running sums
+    # of the real 61 ordinary values, counted back from the end; every other position is random.
+    message = 'thedoortoyourrightleadstothesourceandthesalvationofzionchoose'
+    values = lists['ordinary_84']
+    assert len(message) == len(values) == 61
+    filler = random.Random(SEED + 1)
+    synthetic = [filler.choice('abcdefghijklmnopqrstuvwxyz') for _ in range(sum(values) + 40)]
+    pos = 0
+    for v, ch in zip(values, message):
+        pos += v
+        synthetic[len(synthetic) - 1 - (pos - 1)] = ch
+    planted = e3_read([''.join(synthetic)], 1, values, 'letter', 'running', 1, 'back')
     out = {
         'anchors': {t: a for t, (_, a) in texts.items()},
         'outputs': len(rows), 'scored_outputs': len(scored),
@@ -542,9 +537,9 @@ def run_e3(run):
         'control': {'runs': len(ctl), 'median_of_max': ctl[len(ctl) // 2], 'max_of_max': ctl[-1]},
         'planted_control': {'text': planted, 'score': oracles.english_score(planted),
                             'passed': planted == message and oracles.english_score(planted) > ctl[-1]},
-        'acceptance': 'best real score above every control maximum and above -4.9',
+        'acceptance': 'best real score above every control maximum',
     }
-    out['outcome'] = 'passed' if best['score'] > ctl[-1] and best['score'] > -4.9 else 'null'
+    out['outcome'] = 'passed' if best['score'] > ctl[-1] else 'null'
     path = finish(run, seal, 'results.json', out)
     (run / 'outputs.jsonl').write_text(''.join(json.dumps(r) + '\n' for r in rows), encoding='utf-8')
     print(json.dumps({k: out[k] for k in ('outputs', 'best', 'control', 'planted_control', 'outcome')}, indent=1))

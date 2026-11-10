@@ -1,0 +1,202 @@
+{
+ "length": 570,
+ "counts": {
+  "a": 54,
+  "b": 49,
+  "c": 52,
+  "d": 49,
+  "e": 69,
+  "f": 57,
+  "g": 107,
+  "h": 58,
+  "i": 75
+ },
+ "g_over_mean_of_others": 1.849,
+ "adjacent_letters_independent": {
+  "chi2": 74.3,
+  "permutation_p": 0.1832
+ },
+ "period_ic": {
+  "1": 0.1181,
+  "2": 0.1193,
+  "3": 0.1178,
+  "4": 0.1186,
+  "5": 0.1179,
+  "6": 0.1184,
+  "7": 0.1184,
+  "8": 0.1202,
+  "9": 0.1183,
+  "10": 0.118,
+  "11": 0.1214,
+  "12": 0.1173,
+  "13": 0.118,
+  "14": 0.1215,
+  "15": 0.1154,
+  "16": 0.1201,
+  "17": 0.1129,
+  "18": 0.1209,
+  "19": 0.1163,
+  "20": 0.1192,
+  "21": 0.1173,
+  "22": 0.123,
+  "23": 0.1179,
+  "24": 0.1186,
+  "25": 0.117,
+  "26": 0.1181,
+  "27": 0.1151,
+  "28": 0.1201,
+  "29": 0.1179,
+  "30": 0.1197,
+  "31": 0.1174,
+  "32": 0.1246,
+  "33": 0.1188,
+  "34": 0.1146,
+  "35": 0.1235,
+  "36": 0.1185,
+  "37": 0.1274,
+  "38": 0.112,
+  "39": 0.1133,
+  "40": 0.12
+ },
+ "period_ic_max_2_40": {
+  "real": 0.1274,
+  "shuffle_max_median": 0.1264,
+  "shuffle_max_p95": 0.132
+ },
+ "checkerboard_tokens": {
+  "best_real_ic": 0.1122,
+  "prefixes": "b",
+  "shuffle_median": 0.1123,
+  "shuffle_max": 0.1147
+ },
+ "homogeneity": {
+  "full_quarters": {
+   "chi2": 51.0,
+   "permutation_p": 0.00125
+  },
+  "full_halves": {
+   "chi2": 17.4,
+   "permutation_p": 0.02699
+  },
+  "full_thirds": {
+   "chi2": 26.3,
+   "permutation_p": 0.05524
+  },
+  "head538_quarters": {
+   "chi2": 46.5,
+   "permutation_p": 0.0035
+  },
+  "full_19_blocks_of_30": {
+   "chi2": 193.3,
+   "permutation_p": 0.0045
+  },
+  "best_of_three_free_cuts": {
+   "chi2": 57.9,
+   "permutation_p_corrected_for_cut_choice": 0.005,
+   "cut_sets_searched": 210
+  }
+ },
+ "tail": {
+  "last_32": "bccahhbiibibbibdcbahaidhfahiihic",
+  "letters_absent": "eg",
+  "low_4_bytes_fixed_by_last_32_digits": "c7bbc075",
+  "printable": false,
+  "why": "10^32 is a multiple of 2^32, so the low four bytes of the integer depend only on the last 32 digits; no g occurs there, so no choice of g-as-zero can change them."
+ },
+ "merged_zero_as_text": {
+  "planted_control_recovered": true,
+  "by_letter": {
+   "forward:a": {
+    "bytes_before_branch_died": 5,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "forward:b": {
+    "bytes_before_branch_died": 7,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "forward:c": {
+    "bytes_before_branch_died": 7,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "forward:d": {
+    "bytes_before_branch_died": 1,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "forward:e": {
+    "bytes_before_branch_died": 1,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "forward:f": {
+    "bytes_before_branch_died": 3,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "forward:g": {
+    "bytes_before_branch_died": 1,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "forward:h": {
+    "bytes_before_branch_died": 2,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "forward:i": {
+    "bytes_before_branch_died": 12,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:a": {
+    "bytes_before_branch_died": 2,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:b": {
+    "bytes_before_branch_died": 2,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:c": {
+    "bytes_before_branch_died": 3,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:d": {
+    "bytes_before_branch_died": 8,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:e": {
+    "bytes_before_branch_died": 2,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:f": {
+    "bytes_before_branch_died": 2,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:g": {
+    "bytes_before_branch_died": 2,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:h": {
+    "bytes_before_branch_died": 13,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   },
+   "reversed:i": {
+    "bytes_before_branch_died": 2,
+    "survivors": 0,
+    "complete_printable_texts": 0
+   }
+  },
+  "complete_printable_texts_total": 0
+ }
+}
