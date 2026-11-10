@@ -1,0 +1,171 @@
+{
+ "prereg_sha256": "6267f57a7e6c7168be955f9ce9c2e74e331a8fc1edeb7728ad7cfdb5b3e60c99",
+ "anchors": {
+  "matrix_reloaded_architect_scene_transcript.txt": {
+   "neo_choice_1": 227,
+   "neo_choice_2": 231,
+   "architect_choice_3": 393,
+   "architect_choice_4": 402,
+   "architect_choice_5": 776,
+   "before_neo_walks_to_the_door": 841,
+   "end_of_scene": 873
+  },
+  "matrix_reloaded_architect_scene_scott_manning.md": {
+   "neo_choice_1": 226,
+   "neo_choice_2": 230,
+   "architect_choice_3": 394,
+   "architect_choice_4": 403,
+   "architect_choice_5": 782,
+   "before_neo_walks_to_the_door": 848,
+   "end_of_scene": 883
+  }
+ },
+ "outputs": 3240,
+ "scored_outputs": 3240,
+ "best": {
+  "transcript": "matrix_reloaded_architect_scene_scott_manning.md",
+  "anchor": "neo_choice_1",
+  "list": "gap_sums_nonempty_83",
+  "unit": "word_final",
+  "semantics": "direct",
+  "base": 1,
+  "direction": "back",
+  "order": "reversed",
+  "text": "eesssserscenteensgessn",
+  "score": -5.159566076523114
+ },
+ "top10": [
+  {
+   "transcript": "matrix_reloaded_architect_scene_scott_manning.md",
+   "anchor": "neo_choice_1",
+   "list": "gap_sums_nonempty_83",
+   "unit": "word_final",
+   "semantics": "direct",
+   "base": 1,
+   "direction": "back",
+   "order": "reversed",
+   "text": "eesssserscenteensgessn",
+   "score": -5.159566076523114
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_transcript.txt",
+   "anchor": "architect_choice_5",
+   "list": "gap_sums_nonempty_84",
+   "unit": "letter",
+   "semantics": "running",
+   "base": 1,
+   "direction": "forward",
+   "order": "as_read",
+   "text": "crnoosecoaenediencehase",
+   "score": -5.165230053664358
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_scott_manning.md",
+   "anchor": "neo_choice_1",
+   "list": "gap_sums_nonempty_84",
+   "unit": "word_final",
+   "semantics": "direct",
+   "base": 1,
+   "direction": "back",
+   "order": "reversed",
+   "text": "neesssserscenteensgessn",
+   "score": -5.175345753231412
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_transcript.txt",
+   "anchor": "neo_choice_1",
+   "list": "gap_sums_nonempty_83",
+   "unit": "word_initial",
+   "semantics": "running",
+   "base": 0,
+   "direction": "forward",
+   "order": "reversed",
+   "text": "tpanditttoanctarynooni",
+   "score": -5.200996666264041
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_transcript.txt",
+   "anchor": "architect_choice_5",
+   "list": "gap_sums_nonempty_83",
+   "unit": "letter",
+   "semantics": "running",
+   "base": 1,
+   "direction": "forward",
+   "order": "as_read",
+   "text": "crnoosecoaenediencehas",
+   "score": -5.222493761645795
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_scott_manning.md",
+   "anchor": "neo_choice_1",
+   "list": "gap_sums_83",
+   "unit": "word_final",
+   "semantics": "direct",
+   "base": 1,
+   "direction": "back",
+   "order": "reversed",
+   "text": "seesssserscenteensgesssn",
+   "score": -5.246961650379679
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_transcript.txt",
+   "anchor": "architect_choice_5",
+   "list": "gap_sums_nonempty_84",
+   "unit": "word_final",
+   "semantics": "running",
+   "base": 1,
+   "direction": "back",
+   "order": "reversed",
+   "text": "tesdeedsoueenotseesokdy",
+   "score": -5.252984588990702
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_transcript.txt",
+   "anchor": "architect_choice_5",
+   "list": "gap_sums_nonempty_83",
+   "unit": "word_final",
+   "semantics": "running",
+   "base": 1,
+   "direction": "back",
+   "order": "reversed",
+   "text": "esdeedsoueenotseesokdy",
+   "score": -5.257134850778366
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_scott_manning.md",
+   "anchor": "neo_choice_2",
+   "list": "gap_sums_nonempty_84",
+   "unit": "word_final",
+   "semantics": "running",
+   "base": 0,
+   "direction": "forward",
+   "order": "as_read",
+   "text": "xaaseeseesfeeeyedtoalee",
+   "score": -5.270000612535676
+  },
+  {
+   "transcript": "matrix_reloaded_architect_scene_scott_manning.md",
+   "anchor": "neo_choice_2",
+   "list": "gap_sums_nonempty_83",
+   "unit": "word_final",
+   "semantics": "running",
+   "base": 0,
+   "direction": "forward",
+   "order": "as_read",
+   "text": "xaaseeseesfeeeyedtoale",
+   "score": -5.2750464545099165
+  }
+ ],
+ "control": {
+  "runs": 300,
+  "median_of_max": -4.921578780851193,
+  "max_of_max": -4.364400950846742
+ },
+ "planted_control": {
+  "text": "ltjrtozkyqobzmiheayjuvxlruasvpfyrshfmixfuzadismfarngcatzfesyn",
+  "score": -7.173652348424258,
+  "passed": false
+ },
+ "acceptance": "best real score above every control maximum",
+ "outcome": "null"
+}

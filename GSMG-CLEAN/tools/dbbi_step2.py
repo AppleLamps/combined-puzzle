@@ -466,7 +466,7 @@ def e3_read(words, anchor_word, values, unit, semantics, base, direction):
     out, pos = [], 0
     for v in values:
         pos = pos + v if semantics == 'running' else v
-        offset = pos - (1 - base)                            # base 1: the unit next to the anchor is 1
+        offset = pos - base                                  # base 1: the unit next to the anchor is number 1
         i = anchor - 1 - offset if direction == 'back' else anchor + offset
         if not 0 <= i < size:
             return None
