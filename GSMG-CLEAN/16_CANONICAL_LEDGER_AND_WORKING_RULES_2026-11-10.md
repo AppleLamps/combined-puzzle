@@ -65,7 +65,7 @@ Every line was checked in the cited file on 2026-11-10.
 | FAED with `g` as a hidden zero, "2^107, not enumerable" | `gsmg-puzzle-kit/claude/GSMG-PUZZLE-DOSSIER.md:1129` and `:2057`, docs 115:42 and 116:89; `gsmg/GSMG-PUZZLE-DOSSIER.md:1048`; `gsmg-1.2/...:996`; `gsmg-1.2-2/...:1023` | **Closed as text.** The last 32 letters of FAED contain no `g`, and the low four bytes of the integer depend only on the last 32 digits, so they are `c7 bb c0 75` for every choice. As a binary object it cannot be checked without AES, which rule 1 excludes | section 5; `grok-gsmg-puzzle` has the same tail argument; `gsmg-haiku/mywork/LOG.md` entry 8 saw the branch die after one byte |
 | FAED homogeneous | The four dossiers: "homogeneous P = 0.45 at 19 blocks, once the last 32 chars are removed ... Carry faed as one object" (kit `:1100`) | **Not homogeneous.** Blind quarters p = 0.001; quarters of the first 538 letters p = 0.004; corrected for choosing the cuts p = 0.005 | section 5. `gsmg/claude/118-contrarian-pass.md` reached the same conclusion; its count of exactly four pieces is not established |
 | DBBI parse length | `gsmg/GSMG-PUZZLE-DOSSIER.md:956` "L=83, settled"; `gsmg-puzzle-kit/claude/119-current-evidence-ledger.md:44` "L=83 is preferred"; `gsmg-1.2` and `gsmg-1.2-2` withdraw it for an 84-cell reading | Both complete parses stand (83 and 84 cells). They share 82 cells; neither is selected | `runs/2026-09-14_dbbi_forward_comparison/REPORT.md`; `tools/dbbi_step2.py operands` re-derives exactly these two |
-| `Yellowblueprimes:317/557`, `Another door:137/143` | `gsmg-1.2/GSMG-PUZZLE-DOSSIER.md:14-18` and `:1784`, `gsmg-1.2-2/...:14-18` and `:1811`: "recent evidence" from "the user's screenshot", said to support the 84-cell model | **Not evidence.** The numbers are two chat messages from a solver, not the creator (#73708 and #73710, 2026-09-26, `gsmg-haiku/ChatExport_2026-10-08`). They are the 84-cell model's own outputs, so agreeing with that model is circular | section 4 |
+| `Yellowblueprimes:317/557`, `Another door:137/143` | `gsmg-1.2/GSMG-PUZZLE-DOSSIER.md:14-18` and `:1784`, `gsmg-1.2-2/...:14-18` and `:1811`: "recent evidence" from "the user's screenshot", said to support the 84-cell model | **Not evidence.** The numbers are two chat messages from a solver, not the creator (#73708 and #73710, 2026-09-26, `gsmg-haiku/ChatExport_2026-10-08`). Both pairs can be computed from DBBI alone under the 84-cell parse, so agreeing with that parse is circular | section 4 |
 | The creator's "zeroed out" hint is unsafe | `5g-puzzle/WHAT_THE_GROUP_MISSED.md:38` and `:180`, `5g-puzzle/NEXT_BEST_MOVE.md:33`: #8000 was edited 2026-02-15 | The wording is safe. It is forwarded verbatim in #29342 (2024-11-10) and pasted with its original date in #30086 (2024-11-14) | 02 "Read this first": most late edit stamps are reaction bumps |
 | The answer needs outside or personal knowledge | `puzle/round55.md:40`: the final key is `sha256(X)` for a text the creator's friends know | An unresolved tension, not a conclusion. #9607 "You have all the info" is a direct reply to that question | 02 section 10; 15 |
 | The 479 "yin-yang milestone" | `puzle/README.md:26-36` headlines it (and tags it fitted) | A pointer with no payload: 476 literal outputs null on every exact oracle | 14 section M4; `runs/2026-09-14_m4_zeroing_oracles/REPORT.md` |
@@ -81,9 +81,10 @@ Two forks carry these as a clue. The arithmetic is exact and was reproduced here
   41, 56, 48, 40, 48, 47, so alternate rows give **137** and **143**.
 
 The source is not the creator. `Ugur Keser` posted "Yellowblueprimes : 317/557" (#73708) and "Another
-door : 137/143" (#73710) on 2026-09-26, eight days after posting a description of the same 84-cell
-model (#72215). No creator message follows; the last creator message in any export here is
-2026-09-01. A model reproducing numbers that were computed from it confirms nothing.
+door : 137/143" (#73710) on 2026-09-26, eight days after the same account posted "Dbbbi part is solved"
+with a description of the prime-slot parse in its 83-cell form (#72211, #72215). No creator message
+follows; the last creator message in any export here is 2026-09-01. Both pairs can be computed from
+DBBI alone under the 84-cell parse, so a model that reproduces them has confirmed nothing about itself.
 
 Two side observations, both found after looking and both weak:
 
@@ -179,6 +180,6 @@ and 9 are documents or tools edited after the list was made.
 
 Consequence for section 6: the carried-code run was made against the damaged copies, so two of its
 269 registry strings (the Phase 3.2 introduction and board sentence, cut by byte offset) were a few
-bytes off and the Phase 2 and Phase 3 clear text lacked its carriage returns. The run was repeated
-against the restored files with the sealed script version; see the note in
-`runs/2026-11-10_step2_carried_code/RECHECK.md`.
+bytes off and the Phase 2 and Phase 3 clear text lacked its carriage returns. The measurement on the
+real cells was repeated against the restored files with the sealed script version and is identical;
+the shuffle controls were not repeated. See `runs/2026-11-10_step2_carried_code/RECHECK.md`.
