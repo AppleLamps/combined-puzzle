@@ -90,7 +90,7 @@
 
 | id | date | text | notes |
 |---|---|---|---|
-| PUZ #8354 | 2023-01-12 (edited 2025-09-02) | "Focussing on the theory of everything is also still a valid path to reaching the private key." | [checked] |
+| PUZ #8354 | 2023-01-12 (edited 2025-09-02) | "Focussing on the theory of everything is also still a valid path to reaching the private key." | [checked] **A joke, not a hint (18 section 3):** it answers Alex, who had asked on 2022-12-02 (#8308) whether the puzzle or "the physics Theory of Everything" was easier, and who was arguing a minute earlier that the puzzle may be unsolvable. |
 | PUZ #60298 | 2026-03-03 | "Jacque was quite an inspiring lad I'd say." | [checked] |
 | PUZ #60309 | 2026-03-03 | "Looks at gnomad. 👀" | [checked] |
 | PUZ #60312 | 2026-03-03 | "Bingo" | [checked] **Caveat:** no reply link. The referent (often taken to be *Looking Forward*) is inferred. |
