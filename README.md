@@ -9,6 +9,9 @@
 The other nine directories are frozen snapshots; each has a `CANONICAL_NOTICE.md` listing the
 statements in it that the ledger contradicts.
 
+Last checked against the chain, the chat and the live site on 2026-11-10:
+[`GSMG-CLEAN/17_STATE_REFRESH_2026-11-10.md`](GSMG-CLEAN/17_STATE_REFRESH_2026-11-10.md).
+
 1. **No envelope sweeps.** A password is tried only if it came out of a derivation that already
    checked itself without AES. `GSMG-CLEAN/tools/check_candidate.py` refuses to decrypt otherwise.
 2. **Every experiment predicts a second artifact first** (readable text, an authenticated digest, a

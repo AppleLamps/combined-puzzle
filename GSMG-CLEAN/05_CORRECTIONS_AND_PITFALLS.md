@@ -105,12 +105,12 @@ Earlier rounds contain claims that were later shown wrong. The raw ledgers in `p
 **Found in session logs and outside workspaces (2026-09-13; 06 §5–§6)**
 - #66903 "hidden in a room with a hidden door" is about the laptop, not a puzzle door. [checked]
 - Late `edited` timestamps are mostly reaction bumps (84 of 122), not proof of rewritten hints. [checked]
-- `1NULY7…` is not a planted door: #5241 is Saber's post; #47068 / #56452 identify a kangaroo-tool tip address. 18Cchrj, 1AD2wf, 13HGhjk and 1GyT5W are solved (01 §9). [checked]
+- `1NULY7…` is not a planted door: #5241 is Saber's post; #47068 / #56452 identify a kangaroo-tool tip address. **Confirmed and extended 2026-11-10 (17 section 3.4):** the address is hard-coded as `Tips:` in public Pollard-kangaroo solver source, and its only transaction ever is 1,050 sat from `3GSMG24` on 2020-04-07. There is no preimage to search for; what the payment means is open. 18Cchrj, 1AD2wf, 13HGhjk and 1GyT5W are solved (01 §9). [checked]
 - #24071 "1357 blocks to go" is a halving countdown, not a cellular-automaton rule.
 - 01 §5a previously listed UNBALANCED EQUATION as an added word; it is in the film. [checked]
 - Not creator messages: #6891 {30},{2},{77}; #39233; #60352; #65924 KEYEYES; #42477; #28307/#28308; the maze photo (0×FL0K1).
 - Fabricated hint transcriptions exist in AI-written notes ("7 by 13", R=133, "sixth password inherited", "seventh-password book", "wrong direction", "cosmic language", "people, not passwords", "half is not the whole", "rotate the problem", "Sixteen years"). Quote only from the export or the image itself.
-- AI-invented artefacts: a "floflo777" repo in session 063e04da; astra `PROGRESS.md` is GPT output (#70983); astra's "neighbour addresses prove key possession" and "3GSMG24 creator-signed" are unsupported.
+- AI-invented artefacts: a "floflo777" repo in session 063e04da; astra `PROGRESS.md` is GPT output (#70983); astra's "neighbour addresses prove key possession" and "3GSMG24 creator-signed" are unsupported. **Qualified 2026-11-10 (17 section 3):** both stay unsupported as worded (the neighbour points need only the public key, and nothing is signed by the prize key), but `3GSMG24` is tied to the prize wallet by the 2020 `Halving` payment, which the prize key swept while it was still unconfirmed, in the same block; the creator has said the blockchain messages are not his (#12653). A repository under the `floflo777` account now exists (`floflo777/open-crypto-puzzles`), so a citation of it is not by itself an invention.
 - AppleLamps/clean-btc lists the VIC checkerboard as "eliminated". Wrong (01 §5b).
 - `D:\5btc\known-real\verified\aes-envelope-recipe-and-decryptions.txt:27` has a wrong salt (`35f64511d3d11f4c`).
 - "Vanity address cannot come from a seed" (`D:\puzle\docs\TELEGRAM_2026_REVIEW.md:133`) is a false closure.

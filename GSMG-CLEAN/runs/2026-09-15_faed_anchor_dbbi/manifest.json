@@ -1,0 +1,98 @@
+{
+  "model": "FAED[5/479/484] neighborhoods operate only on DBBI prime logical cells",
+  "anchors": {
+    "0": {
+      "5": {
+        "index": 5,
+        "char": "g",
+        "value": 7
+      },
+      "479": {
+        "index": 479,
+        "char": "a",
+        "value": 1
+      },
+      "484": {
+        "index": 484,
+        "char": "g",
+        "value": 7
+      }
+    },
+    "1": {
+      "5": {
+        "index": 4,
+        "char": "g",
+        "value": 7
+      },
+      "479": {
+        "index": 478,
+        "char": "i",
+        "value": 9
+      },
+      "484": {
+        "index": 483,
+        "char": "g",
+        "value": 7
+      }
+    }
+  },
+  "mapping": {
+    "Y": 479,
+    "B": 484,
+    "difference_prime_slot": {
+      "slot": 5,
+      "anchor": 5
+    }
+  },
+  "indexing": [
+    "zero-based",
+    "one-based"
+  ],
+  "neighborhood_radii": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "window_direction": [
+    "forward",
+    "reverse"
+  ],
+  "prime_modes": [
+    "replace",
+    "add",
+    "subtract",
+    "reverse_subtract",
+    "xor"
+  ],
+  "schedules": [
+    "DBBI token b/be labels",
+    "poster first 23 colours"
+  ],
+  "parse_accounting": {
+    "84": {
+      "prime": 23,
+      "ordinary": 61
+    },
+    "83_control": {
+      "prime": 23,
+      "ordinary": 60
+    }
+  },
+  "ordinary_policy": "preserve exactly; no deletion, replacement, or arithmetic",
+  "candidate_count": 1040,
+  "input_sha256": {
+    "DBBI": "71fe46259e270c113529dfaded4b59c59a9dffd826a7202ab07fc498b6a2c5ca",
+    "FAED": "066191b4aafc114fbca7f0d168382f40129c4ff18490375b689741081d5ef3c2",
+    "poster_colours": "26050b31f5684992b6882ab787e4adb548bb7385c2b4cbf873b9aecc8eccbebd"
+  }
+}

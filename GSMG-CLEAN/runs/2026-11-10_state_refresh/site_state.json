@@ -1,0 +1,30 @@
+{
+ "checked_utc": "2026-11-10T01:30Z",
+ "method": "HTTP GET only, no form submitted",
+ "pages": {
+  "https://gsmg.io/": {
+   "status": 200,
+   "bytes": 35785,
+   "sha256": "2f896807a859e2f71a2f6e1e8277986af73b80dc0dd79a685a67c7f7f8c3303b",
+   "visible_text": "GSMG | GSMG A fully automated crypto trading bot To start, register and check out the Help Center . 2017 \u2014 2026 The lights are off. Nine years of chaos ended. One mystery remains. Follow the white rabbit \u2192"
+  },
+  "https://gsmg.io/puzzle": {
+   "status": 200,
+   "bytes": 29931,
+   "sha256": "38125bbdf1ea58b9b30b075bc6bf71e4089d04bba37098317e47097e2f2a1830",
+   "equals_originals_poster_puzzle_png": true
+  },
+  "https://gsmg.io/theseedisplanted": {
+   "status": 200,
+   "bytes": 832,
+   "sha256": "7cb766d406008a397f8ae32b3a38ca68b42724bb07b3481deb84baad5c725183"
+  },
+  "https://gsmg.io/89727c598b9cd1cf8873f27cb7057f050645ddb6a7a157a110239ac0152f6a32": {
+   "status": 200,
+   "bytes": 4536,
+   "sha256": "a83d3de7810f26b19b4965339b76d403e44f6b6877e5d7de2555480ca1779d77",
+   "textareas_equal_saved_original": true,
+   "stream_equals_data_file": true
+  }
+ }
+}

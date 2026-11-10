@@ -179,6 +179,14 @@ Sections of the plaintext (byte offsets vary by ±4 between rounds, depending on
 
 ## 9. On-chain facts `[source: v2 Add.24, gemini; raw tx re-verified in those rounds]`
 
+> **Update 2026-11-10 (17 section 3, `tools/check_chain_state.py`).** Re-read from the chain: Half holds
+> **125,649,674 sat** over 129 transactions and has signed 6 inputs in 2 transactions; Better Half is
+> unchanged and unspent. Of the transactions touching Half, 81 carry an `OP_RETURN` and none spends
+> from it. The checkpoint payments came from `3GSMG24TujqfMJG1kQoBX18DzJHQLeJYMK` and went to **eight**
+> derived addresses, not four; all eight are re-derived in 17, which also covers the `Halving` payment
+> swept by the prize key in the same block, the 2021 payment to P+G, P-G, 2P and P/2, and the creator's
+> statement that the blockchain messages are not his (#12653).
+
 | | Half | Better Half |
 |---|---|---|
 | Address | `1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe` | `17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa` |
@@ -203,6 +211,10 @@ Sections of the plaintext (byte offsets vary by ±4 between rounds, depending on
 - April 2026 inbounds from `1Kv59xv…` / `1KY3yqm…` use keys derived from the retracted fluke chain (05 §1), not from an opened envelope.
 
 ## 10. Site state
+
+> **Update 2026-11-10 (17 section 5).** `/puzzle`, `/theseedisplanted` and the SalPhaseIon page answer
+> 200 with the saved content: the poster is byte-identical and both SalPhaseIon textareas equal the
+> saved original. The root page still shows the "lights are off" text.
 
 - Rounds disagree on whether the site is still up:
   - rabbit r1 and v2 said gsmg.io answered every path with a 9-byte `Hello :-)` 404 after 2026-07-01.

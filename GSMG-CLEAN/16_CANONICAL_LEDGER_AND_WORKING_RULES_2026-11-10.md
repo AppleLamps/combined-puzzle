@@ -164,7 +164,7 @@ The three experiments were run with the script versions whose hashes are in each
 included one live check of the unlocked path: two placeholder answers (`a`, `b`) were run through
 `check_candidate.py` under a throwaway derivation. Both failed to decrypt, as expected.
 
-`SHA256SUMS.txt` predates this file and does not list it or the 2026-11-10 tools and runs.
+`SHA256SUMS.txt` was regenerated on 2026-11-10 after the state refresh (17 section 6) and lists this file, the tools and the runs.
 
 ## 9. Snapshot integrity: three plaintext files were damaged on import
 

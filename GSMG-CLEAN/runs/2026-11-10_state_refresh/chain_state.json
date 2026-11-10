@@ -1,0 +1,325 @@
+{
+ "checked_utc": "2026-11-10T01:40:29Z",
+ "source": "https://blockstream.info/api",
+ "half": {
+  "transactions": 129,
+  "received_sat": 876003172,
+  "spent_sat": 750353498,
+  "balance_sat": 125649674,
+  "spending_transactions": 2,
+  "inputs_signed": 6,
+  "latest_transaction": {
+   "date": "2026-10-13",
+   "block": 971314
+  },
+  "spends": [
+   {
+    "date": "2020-05-11",
+    "block": 630001,
+    "txid": "2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13",
+    "locktime": 629998,
+    "inputs": [
+     {
+      "from_tx": "73e48ff571a7e9a4387574a50cf2fcb7b21b6ea5702c777a035664df57cbce02",
+      "value": 500000000
+     },
+     {
+      "from_tx": "a2d2481d57e976dbaa84812a504097150ded09216957aeb7bf0177eaec6a7a8b",
+      "value": 666
+     },
+     {
+      "from_tx": "a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383",
+      "value": 700
+     }
+    ],
+    "outputs": [
+     {
+      "to": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+      "value": 249815966
+     },
+     {
+      "to": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+      "value": 250000000
+     }
+    ],
+    "messages": []
+   },
+   {
+    "date": "2024-04-24",
+    "block": 840725,
+    "txid": "88cdb3cdca12b471551b1b26188508a14ca5fd8a415223ffb7c190381c9b9df3",
+    "locktime": 840003,
+    "inputs": [
+     {
+      "from_tx": "2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13",
+      "value": 249815966
+     },
+     {
+      "from_tx": "81d359291da8eeafea2fee9a1304497afeed289829495da19f1a5688573770fa",
+      "value": 535500
+     },
+     {
+      "from_tx": "f28b0b68684b41c98c8c59f43558e2bfbe5aba30fef05fd7dc465dea62fbaed1",
+      "value": 666
+     }
+    ],
+    "outputs": [
+     {
+      "to": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+      "value": 125000000
+     },
+     {
+      "to": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+      "value": 125324300
+     }
+    ],
+    "messages": []
+   }
+  ],
+  "transactions_with_op_return": 81,
+  "of_which_spend_from_half": 0,
+  "outputs_held_at_first_spend": 4,
+  "of_which_swept": 4
+ },
+ "better_half": {
+  "transactions": 45,
+  "received_sat": 375055856,
+  "spent_sat": 0,
+  "balance_sat": 375055856,
+  "spending_transactions": 0,
+  "inputs_signed": 0,
+  "latest_transaction": {
+   "date": "2026-08-29",
+   "block": 964501
+  },
+  "spends": []
+ },
+ "messenger_3GSMG24": {
+  "transactions": 30,
+  "received_sat": 88820,
+  "spent_sat": 67692,
+  "balance_sat": 21128,
+  "spending_transactions": 14,
+  "inputs_signed": 16,
+  "latest_transaction": {
+   "date": "2026-04-24",
+   "block": 946416
+  },
+  "payments": [
+   {
+    "date": "2020-03-24",
+    "block": 622762,
+    "txid": "117e2796e6c1ab36ea9a8111e00c02e36d1be0eb1d4faa8b3ab3bf2087b0e321",
+    "to": "1Jqq37KkZEt4F3Dt6qXdtyiMEFBBdawbkJ",
+    "value": 1000,
+    "messages": [
+     "GSMG.io: Right, this is causality"
+    ],
+    "address_is": "sha256 of Phase 2 answer \"causality\""
+   },
+   {
+    "date": "2020-03-24",
+    "block": 622762,
+    "txid": "3891dd146dce36ed7f97e5476aa3cd427ebc9a8535ce6353b72309b28e686ced",
+    "to": "1GyT5WrLYpwFkuiVoPDJZa1Q6jtjbjuBff",
+    "value": 1000,
+    "messages": [
+     "GSMG.io: do you beleive me you need it?"
+    ],
+    "address_is": "sha256 of the prize address as text"
+   },
+   {
+    "date": "2020-03-24",
+    "block": 622766,
+    "txid": "496ab2c73a15ce530518915e27aaa6dcae98490175b4544f8a49c5b90578677d",
+    "to": "18CchrjA3Uzfrzy4DFqao9ric6YfK4hjdc",
+    "value": 1000,
+    "messages": [
+     "GSMG.io: part of the cipher"
+    ],
+    "address_is": "sha256 of the 149 checkerboard digits"
+   },
+   {
+    "date": "2020-03-24",
+    "block": 622767,
+    "txid": "2f64b8758f97eb5b3c30b4e9b06a408f26dc533732bc88b13077d3b2dd34ed62",
+    "to": "1K23RS1y2fnuZRkhw5nUpFr5Jk5WN11Zeq",
+    "value": 1000,
+    "messages": [
+     "GSMG.io: phase3.2 pass OK"
+    ],
+    "address_is": "sha256 of Phase 3.2 answer (62 characters)"
+   },
+   {
+    "date": "2020-03-24",
+    "block": 622767,
+    "txid": "bd1b5d81b3eab6d8aff56ca673852292751cfc24c7effb3afff57ad4b971254f",
+    "to": "1AD2wfwXukZ1kUAy848hTQQ72aSBZPB75r",
+    "value": 1000,
+    "messages": [
+     "GSMG.io: are you sure?"
+    ],
+    "address_is": "sha256 of Phase 1 answer"
+   },
+   {
+    "date": "2020-03-24",
+    "block": 622774,
+    "txid": "62dbb701ee67c3f4c75a9b186505c5f46c7e56ac16142bbd3abbc139124e3bc0",
+    "to": "1M5ypvDbp124ZtKPbg3GJg1JqNs1x7TPoN",
+    "value": 990,
+    "messages": [
+     "GSMG.io: You are here because 227 chars were correct"
+    ],
+    "address_is": "sha256 of Phase 3 seven-part answer (227 characters)"
+   },
+   {
+    "date": "2020-04-03",
+    "block": 624209,
+    "txid": "364de511fda4a139bc20d356a3e97ff1077987daa23818fcdf1fdca748286990",
+    "to": "148XH2YBmLr4oAJXQcG84FpNYoBmqnVPHQ",
+    "value": 1000,
+    "messages": [
+     "Good job, Neo!"
+    ],
+    "address_is": "the URL gsmg.io/theseedisplanted as a 192-bit integer"
+   },
+   {
+    "date": "2020-04-03",
+    "block": 624209,
+    "txid": "722fbf3507b025e7618a4b3764b7b74d67c4d02e24b18f610f8e657d6b69e4cb",
+    "to": "13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp",
+    "value": 1000,
+    "messages": [
+     "Good job, Neo!"
+    ],
+    "address_is": "the same 192 bits in reverse order"
+   },
+   {
+    "date": "2020-04-07",
+    "block": 624768,
+    "txid": "d6ff3da13c67f8e784f3c8d57eaa05ce4456da3eebf67fa36a5e2cd9ca6f6b70",
+    "to": "1NULY7DhzuNvSDtPkFzNo6oRTZQWBqXNE9",
+    "value": 1050,
+    "messages": [],
+    "address_is": "tip address hard-coded in a public Pollard-kangaroo tool; not derived from a puzzle answer"
+   },
+   {
+    "date": "2020-05-11",
+    "block": 630001,
+    "txid": "a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383",
+    "to": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+    "value": 700,
+    "messages": [
+     "Halving"
+    ],
+    "address_is": "the prize address"
+   },
+   {
+    "date": "2021-07-18",
+    "block": 691563,
+    "txid": "a82052a216cad8f57dee2a039c3b5cef9b5fcb2bc1c3bffa94d713cee0b30e2b",
+    "to": "1G1kRAFR68y6CUq1SAJMzHmjd6sEEgtVUT",
+    "value": 5000,
+    "messages": [
+     "GSMG.io neighbors, half and double"
+    ],
+    "address_is": "P-G of the prize public key, uncompressed"
+   },
+   {
+    "date": "2021-07-18",
+    "block": 691563,
+    "txid": "a82052a216cad8f57dee2a039c3b5cef9b5fcb2bc1c3bffa94d713cee0b30e2b",
+    "to": "16eEXbSuKN8tvcos1iKjdju6dAaWWRBMEs",
+    "value": 5000,
+    "messages": [
+     "GSMG.io neighbors, half and double"
+    ],
+    "address_is": "P/2 of the prize public key, uncompressed"
+   },
+   {
+    "date": "2021-07-18",
+    "block": 691563,
+    "txid": "a82052a216cad8f57dee2a039c3b5cef9b5fcb2bc1c3bffa94d713cee0b30e2b",
+    "to": "1KHMK2C8uBptRz67FbrXy43yHzhZG16Hbm",
+    "value": 5000,
+    "messages": [
+     "GSMG.io neighbors, half and double"
+    ],
+    "address_is": "2P of the prize public key, uncompressed"
+   },
+   {
+    "date": "2021-07-18",
+    "block": 691563,
+    "txid": "a82052a216cad8f57dee2a039c3b5cef9b5fcb2bc1c3bffa94d713cee0b30e2b",
+    "to": "1PhXF3xVQ8Sg9FomBcmRwRbvvGfm3Y2os1",
+    "value": 5000,
+    "messages": [
+     "GSMG.io neighbors, half and double"
+    ],
+    "address_is": "P+G of the prize public key, uncompressed"
+   }
+  ]
+ },
+ "halving_link": {
+  "message_tx": "a798905f53fdcadcbd2e2a1e61d23ba69a07e26130a78c76da4bf4d7a170f383",
+  "message_block": 630001,
+  "swept_by_prize_key_in_tx": "2aa9a4a90be819d5122d70c993280785a0508f163521e7b38cebb4db0b071b13",
+  "sweep_block": 630001,
+  "same_block": true,
+  "sweep_spends_message_output": true
+ },
+ "tip_address_1NULY7": {
+  "transactions": 1,
+  "received_sat": 1050,
+  "spent_sat": 0,
+  "balance_sat": 1050,
+  "spending_transactions": 0,
+  "inputs_signed": 0,
+  "latest_transaction": {
+   "date": "2020-04-07",
+   "block": 624768
+  },
+  "only_sender": [
+   "3GSMG24TujqfMJG1kQoBX18DzJHQLeJYMK"
+  ]
+ },
+ "checks": {
+  "checkpoint_addresses_derived": 8,
+  "checkpoint_addresses_paid_by_messenger": [
+   "13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp",
+   "148XH2YBmLr4oAJXQcG84FpNYoBmqnVPHQ",
+   "18CchrjA3Uzfrzy4DFqao9ric6YfK4hjdc",
+   "1AD2wfwXukZ1kUAy848hTQQ72aSBZPB75r",
+   "1GyT5WrLYpwFkuiVoPDJZa1Q6jtjbjuBff",
+   "1Jqq37KkZEt4F3Dt6qXdtyiMEFBBdawbkJ",
+   "1K23RS1y2fnuZRkhw5nUpFr5Jk5WN11Zeq",
+   "1M5ypvDbp124ZtKPbg3GJg1JqNs1x7TPoN"
+  ],
+  "all_eight_checkpoints_paid": true,
+  "neighbour_addresses_paid": {
+   "P+G": true,
+   "P-G": true,
+   "2P": true,
+   "P/2": true
+  },
+  "payments_to_addresses_with_no_derivation": []
+ },
+ "derived": {
+  "checkpoints": {
+   "1GyT5WrLYpwFkuiVoPDJZa1Q6jtjbjuBff": "sha256 of the prize address as text",
+   "1Jqq37KkZEt4F3Dt6qXdtyiMEFBBdawbkJ": "sha256 of Phase 2 answer \"causality\"",
+   "18CchrjA3Uzfrzy4DFqao9ric6YfK4hjdc": "sha256 of the 149 checkerboard digits",
+   "1AD2wfwXukZ1kUAy848hTQQ72aSBZPB75r": "sha256 of Phase 1 answer",
+   "1K23RS1y2fnuZRkhw5nUpFr5Jk5WN11Zeq": "sha256 of Phase 3.2 answer (62 characters)",
+   "1M5ypvDbp124ZtKPbg3GJg1JqNs1x7TPoN": "sha256 of Phase 3 seven-part answer (227 characters)",
+   "148XH2YBmLr4oAJXQcG84FpNYoBmqnVPHQ": "the URL gsmg.io/theseedisplanted as a 192-bit integer",
+   "13HGhjkmKUkP8sk9k63BLmhkxRjy7uK4Rp": "the same 192 bits in reverse order"
+  },
+  "neighbours": {
+   "1PhXF3xVQ8Sg9FomBcmRwRbvvGfm3Y2os1": "P+G",
+   "1G1kRAFR68y6CUq1SAJMzHmjd6sEEgtVUT": "P-G",
+   "1KHMK2C8uBptRz67FbrXy43yHzhZG16Hbm": "2P",
+   "16eEXbSuKN8tvcos1iKjdju6dAaWWRBMEs": "P/2"
+  }
+ }
+}
