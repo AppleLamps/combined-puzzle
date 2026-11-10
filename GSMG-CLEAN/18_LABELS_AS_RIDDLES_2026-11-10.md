@@ -263,3 +263,31 @@ So the hash-to-path door does not open on any poster text, any Matrix screen lin
 the "other door" hint. As a page, the door reading is closed for these inputs. This does not test a
 text we did not think to hash, nor the door as an envelope answer (which the working rules still gate).
 
+### 6.6 The door as an envelope answer (owner-authorized test)
+
+The last untested form of the reading: "knock knock" / the door as a password for one of the three
+locked envelopes. The working rules (16 section 2) forbid trying a password with no non-AES self-check,
+so this needed the repository owner's authorization, which was given on 2026-11-10 with the condition
+that the test be a short fixed list judged by a full decrypt, never by padding. Evidence:
+`runs/2026-11-10_riddle_envelopes/results.json`, `python tools/run_riddle_envelopes.py`.
+
+41 answers were tried against all three envelopes under the proven convention (password =
+sha256(answer) hex, EVP SHA-256, AES-256-CBC): the fourth Matrix screen line "Knock, knock, Neo." in
+nine forms, "follow the white rabbit" and the other screen lines, the creator's "another door" and
+"second/third/extra door" wording, the rabbit's nest, "room 101", the page label itself, and the
+decoded-command tail (`yinyang`, `wewontgiveawaythepassword`). A candidate was accepted only on a key
+that derives Half or Better Half, the DBBI token pattern, or a coherent plaintext (pad >= 2, at least
+90 percent printable, English score above -5.0).
+
+A positive control decrypted the Phase 3.2 envelope with its known answer and read as coherent, so a
+real opening could not be missed.
+
+**Result: 0 openers.** None of the 41 answers produced valid padding on any of the three envelopes
+(0 of 123 trials pad-valid, against about 0.5 expected by chance), let alone a coherent plaintext or
+a key. The door as an envelope answer is closed for this list.
+
+This exhausts the three readings of section 2 as far as the puzzle's own material and the live site
+allow. The door reading named the one phrase with an unused, creator-consistent referent, but it does
+not open a page (6.5) or an envelope (6.6). What remains untested is only a text or answer not on these
+fixed lists; the mechanisms themselves are now shown to be closed for the obvious inputs.
+
