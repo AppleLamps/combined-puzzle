@@ -12,6 +12,8 @@ This folder was distilled from every research round in `E:\rabbit-combined`: rab
 
 ## Read in this order
 
+**Cosmic six-answer hash (2026-11-27):** [22_COSMIC_SIX_HASH_2026-11-27.md](22_COSMIC_SIX_HASH_2026-11-27.md). SHA-256 of the six SalPhaseIon answers, joined with nothing or `z`, with and without `yinyang`, as a lowercase-hex passphrase and as raw bytes, under EVP-MD5 and EVP-SHA256. Uppercase hex and a double SHA-256 are the backstops. 32 decrypts, no padding hit, no legible plaintext.
+
 **Prime-5 reinsertion (2026-11-27):** [21_PRIME5_REINSERTION_2026-11-27.md](21_PRIME5_REINSERTION_2026-11-27.md). Putting the removed blue prime 5, the 24 primes, or the 484/479 pair back into the raw pre-Beaufort source record produced 116 scalars. None matched Half or Better Half. `116 9bb5f43408d7fa67d0893bc64f0274328a41af5308565e46aa4250d23605e732 NO MATCH`.
 
 **Key construction (2026-11-27):** [20_KEY_CONSTRUCTION_2026-11-27.md](20_KEY_CONSTRUCTION_2026-11-27.md). The seven yellow groups, the yin-yang readings of the saved last-words selections, and the saved 479/484 extractions were tested as private keys, with no envelope in the path. WIF, raw hex, brainwallet SHA-256 and BIP44 `m/44'/0'/0'/0/0` produced no Half or Better Half address. The Phase 3.2 answer does derive a real address, and that address is not a prize.
