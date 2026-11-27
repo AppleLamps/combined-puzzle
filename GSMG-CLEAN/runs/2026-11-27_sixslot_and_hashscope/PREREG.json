@@ -1,0 +1,162 @@
+{
+  "schema": "sixslot_and_hashscope_prereg_v1",
+  "sealed_utc": "2026-11-27T22:12:20Z",
+  "profile": "gsmg (EVP_BytesToKey SHA-256 1 iter, AES-256-CBC, strict PKCS#7); Part 2 retains all 3 hash_scope outer arms (as-password, outer-sha256-hex, outer-sha256-raw)",
+  "envelopes": {
+    "terminal_phase3_2_end": {
+      "bytes": 96,
+      "salt": "b45a5e3d827593ca",
+      "sha256": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9"
+    },
+    "salphaseion_short": {
+      "bytes": 96,
+      "salt": "3ab585348552415d",
+      "sha256": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258"
+    },
+    "cosmic_duality": {
+      "bytes": 1344,
+      "salt": "2d3f6fe06dc950e6",
+      "sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+    }
+  },
+  "real_target_hash160": {
+    "a9553269572a317e39f0f518cb87c1a0ee1dbae4": "HALF 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+    "4bc468447fe1b048ad030a2f9a125478eabc4ed6": "BETTER HALF 17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa"
+  },
+  "sources_sha256": {
+    "salphaseion_roles_manifest": "3e08eb4c228b9f92af05ea0a8c33d9ee7ba774243584b15f4cd283f4a82d3e17",
+    "matrixsum_forms": "1ae404a0b6d8e97d91fd6c2f71d2374e73c4b95db8ca9015be41e80a98dcfcb2",
+    "lastwords_py": "be5cd70656bffb2f64f737ea2917f904d03580f44e48cfc44ff6be1c7ce73b72",
+    "phase3_2_plaintext": "b82afeb86f9e50848220f9b64b744b821400308aea273a1c949b9d2d0e408a34",
+    "hash_scope_py": "62002b0e4b136e4910d90562821aafcffec6f59e46df68971aee039fa2d22f23",
+    "next_tests_py": "d116704bd2c12b08db0f2fa3421f2011cbbeae00d3f63f58214ddd32c5d5c51f",
+    "hash_scope_results": "6ec48050ecd74ecb4a434640f9b22415ada6423181bcc74a8db9f784e693474a"
+  },
+  "part1": {
+    "frozen_slots": [
+      "matrixsumlist",
+      "lastwordsbeforearchichoice",
+      "thispassword",
+      "shabefourfirsthintisyourlastcommand",
+      "enter",
+      "shabefanstoo"
+    ],
+    "separators": [
+      "",
+      "z"
+    ],
+    "a_roles_count": 58,
+    "a_563_497_forms": {
+      "563_497/joined": "563497",
+      "563_497/commas": "563,497",
+      "563_497/spaces": "563 497",
+      "563_497/page_digits": "efcdig",
+      "497_563/joined": "497563",
+      "497_563/commas": "497,563",
+      "497_563/spaces": "497 563",
+      "497_563/page_digits": "digefc",
+      "563/solo": "563",
+      "497/solo": "497"
+    },
+    "a_core_count": 68,
+    "a_pipeline_count": 9236,
+    "a_all_slot1_count": 9304,
+    "b_roles_count": 22,
+    "b_lw_8base_count": 33,
+    "b_total_count": 55,
+    "phase3_2_offsets": {
+      "PRE": {
+        "start": 336,
+        "stop": 443
+      },
+      "DIG": {
+        "start": 1990,
+        "stop": 2139
+      },
+      "RID": {
+        "start": 2143,
+        "stop": 2288
+      }
+    },
+    "candidate_count": 26198,
+    "total_decrypts": 78594,
+    "candidates_file": "part1_candidates.txt",
+    "candidates_sha256_lf": "3b6984960c472fb3bb1f327f6db5dde4225f0b808a43071d0b8f8a45d9edf9d9"
+  },
+  "part2": {
+    "generator": "gsmg-haiku/review_leads/hash_scope.py:group_hashes()",
+    "partitions": 876,
+    "outer_arms": {
+      "as-password": 7008,
+      "outer-sha256-hex": 7008,
+      "outer-sha256-raw": 7008
+    },
+    "candidate_count": 21024,
+    "contiguous_overlap_count": 252,
+    "hash_scope_report_unique_after_skip": 20772,
+    "hash_scope_report_aes_trials_verified": 62316,
+    "total_decrypts": 63072,
+    "passphrases_file": "part2_passphrases.tsv",
+    "passphrases_sha256_lf": "651c029ffcf7fbd747124dd65cc80f24d46c70e5f2f43a29f8d122378aaa5f3e"
+  },
+  "combined_total_decrypts": 141666,
+  "controls": {
+    "key_hash160_k1": "91b24bf9f5288532960ac687abb035127b1d28a5",
+    "part1": {
+      "answer": "PLANTED_SIXSLOT_CONTROL_2026_11_27lastwordsbeforearchichoicethispasswordshabefourfirsthintisyourlastcommandentershabefanstoo",
+      "envelope_b64": "U2FsdGVkX18RIjNEVWZ3iPxDd8yoj5VNFC4+q+dp2i5yTwFwb7FgFD4V8LSmFUpwQBb3Ll1Ksha64I6H0dpTNV6b29TjH7y1kaj4QYAogvi1qly0nzVIIPkALzFMe5BwUdbx60vCGtLhx9fgzmrgn9IoTSik3PAuIOUdskRPtPMrdwMm8jP+u7+ukkjdDxuhEkJrajiAFW4xVfrI8Ea6yLE6ZGbMaoIO4E5nxkK16OJNbXUXDeKajXvP/q0zv0fakts4pvL23oH1s84YsvN7WiezB1QmZ3Laq48/VpggE6MYdWN3sq3U2UOIaIegJtnPkfQ6zCagq5fKpXU9gup/eQ==",
+      "plaintext_sha256": "f7b9f3932af054d69e9c4cb776093d6c33ad5ae54872d09546d15c4c756938a4",
+      "plaintext_len": 231,
+      "expected_pad": 9,
+      "expected_find_keys_kinds": [
+        "WIF",
+        "base64",
+        "hex64",
+        "raw32"
+      ],
+      "expected_binscan_flags": [
+        "magic_pdf"
+      ]
+    },
+    "part2_raw": {
+      "label": "planted_part2/outer-sha256-raw",
+      "pw_hex": "90b7b3861e2a475a8e844febbda8fb570a338337784fd0f5a9dd1e2f4904cd85",
+      "envelope_b64": "U2FsdGVkX1+hoqOkpaanqE90AxxCDxvRpFaJXfR4JV5+6ja8pOW30W3ggMW3ciW0LqFOVV/u4m4Lcb34/t9YWh5ZTwFWZmNyepEwRRINFjpYep2yd9mk+e9mbDgVjr9M2X3Dm+pIl3bgUtZFwXzFIIfGhewfcZG2s8EGutNGGRUAvaZLH70/IEjoeTCtE/Gc+n/dXReyQZLaxLfoHkpyTBufXnP4vzQ0qiAa8Rnk5qs9FWA1JuFcNj+QcAPcL9HuMhDgfFiWCTperKz6lEwULTfamOwkTu7Ud3n6uXaTB72X1NSiymtlkeN0nLqq0LdQ",
+      "plaintext_sha256": "7e4ef6c7cfb439c183478024cc65b1c8dd469f49a5b767562453378b6ba00719",
+      "plaintext_len": 210,
+      "expected_pad": 14,
+      "expected_find_keys_kinds": [
+        "WIF",
+        "base64",
+        "hex64",
+        "raw32"
+      ],
+      "expected_binscan_flags": [
+        "magic_png"
+      ]
+    },
+    "part2_hex": {
+      "label": "planted_part2/outer-sha256-hex",
+      "pw_hex": "39306237623338363165326134373561386538343466656262646138666235373061333338333337373834666430663561396464316532663439303463643835",
+      "envelope_b64": "U2FsdGVkX1+xsrO0tba3uM4iF0ChE1VAKMDFaeVsydi866U/Xo/oyrsUmuDwBNliqxCYGqd1nyNbOSP2PejwVNqcLMc0RWqc/dEBtUu7gZKZ0SYLALNqteGTGtW29yb4n3Y8wMq0xH/I2sbxxgkeS3sdgsNvz4LcDRV7EeehtXahLJXsqgJ98Yc9CRgXsfm9GSVqeMnSJ6cffmu/VBg3LjqzujGdoqq+PV8eaX9oFGtFJsL/3Ea6aDowFNRlAPS1N6FyJoqsGYEHwOlXZA1o9Rf1EcN4PcWCQj23eziMGzMQvoApW0+LuoLJ66H70GNy",
+      "plaintext_sha256": "31e709ccf3d7b733c8ce71b64dcb6e7b5b65d7e30ae465f4c7d74b35706e5ebd",
+      "plaintext_len": 211,
+      "expected_pad": 13,
+      "expected_find_keys_kinds": [
+        "WIF",
+        "base64",
+        "hex64",
+        "raw32"
+      ],
+      "expected_binscan_flags": [
+        "magic_pdf"
+      ]
+    }
+  },
+  "pass_rules": {
+    "retain_all_pad_valid": true,
+    "find_keys_on_all_retained": true,
+    "binary_scan_on_all_retained": true,
+    "hit_definition": "any find_keys match to Half or Better Half, or authenticated non-random decrypt"
+  }
+}
