@@ -1,0 +1,8 @@
+{
+  "outcome": "passed",
+  "prereg_sha256": "d0e90059333c66804f9fa498e0f822b6125bd4a7c30dff78081be7f611e3f3e6",
+  "evidence_file": "candidates.txt",
+  "evidence_sha256": "ab5da4f35196aea6afd832f49b335605be4968606966403c761236cdecd0b077",
+  "recorded_utc": "2026-11-27T19:52:53Z",
+  "note": "20 exact reviewer candidates built from verify_chain.py and coverage-grepped prior to any decrypt"
+}

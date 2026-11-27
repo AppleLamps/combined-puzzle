@@ -1,0 +1,112 @@
+{
+  "grepped_utc": "2026-11-27T19:52:53Z",
+  "candidates_count": 20,
+  "sources": [
+    {
+      "source": "gapset_v2",
+      "path": "GSMG-CLEAN/runs/2026-11-27_cosmic_null_validity/gapset_v2/gap_candidates.txt",
+      "entries_checked": 3461,
+      "hits": []
+    },
+    {
+      "source": "matrixsum_replay_forms",
+      "path": "GSMG-CLEAN/runs/2026-11-27_matrixsum_replay/forms.txt",
+      "entries_checked": 9236,
+      "hits": []
+    },
+    {
+      "source": "fefefe_replay",
+      "path": "GSMG-CLEAN/runs/2026-11-27_fefefe_replay/candidates.txt",
+      "entries_checked": 106,
+      "hits": []
+    },
+    {
+      "source": "zero_envelopes_arms_AC",
+      "path": "GSMG-CLEAN/runs/2026-09-13_zero_envelopes/arm_{A,C}_candidates.json",
+      "entries_checked": 946,
+      "hits": []
+    },
+    {
+      "source": "exp2_first_hint_last_command",
+      "path": "GSMG-CLEAN/runs/2026-09-14_adversarial_reanalysis/exp2_first_hint_last_command/results.jsonl.json",
+      "entries_checked": 148,
+      "hits": [],
+      "script_literal_hits": []
+    },
+    {
+      "source": "cosmic_six_hash",
+      "path": "GSMG-CLEAN/runs/2026-11-27_cosmic_six_hash/results.json",
+      "entries_checked": 8,
+      "hits": [],
+      "followup_literal_hits": []
+    },
+    {
+      "source": "gsmg-haiku_review_leads",
+      "path": "gsmg-haiku/review_leads/** (127 files)",
+      "entries_checked": 127,
+      "hits": [
+        {
+          "index": 16,
+          "candidate": "yellowblueprimesmatrixsumlistlastwordsbeforearchichoice",
+          "file": "gsmg-haiku/review_leads/CREATOR_CHAT_REVIEW_2026-10b.md",
+          "match": [
+            "exact_string"
+          ]
+        },
+        {
+          "index": 16,
+          "candidate": "yellowblueprimesmatrixsumlistlastwordsbeforearchichoice",
+          "file": "gsmg-haiku/review_leads/cryptanalysis_2026_10_15/inputs/hint8446-exact.txt",
+          "match": [
+            "exact_string"
+          ]
+        },
+        {
+          "index": 17,
+          "candidate": "choiceisanillusioncreatedbetweenthosewithpowerandthosewithoutaveryspecialdessertiwroteitmyself",
+          "file": "gsmg-haiku/review_leads/cryptanalysis_2026_10_15/inputs/public-walkthrough.md",
+          "match": [
+            "exact_string"
+          ]
+        },
+        {
+          "index": 19,
+          "candidate": "# X 2 S H 4 Y 0 Q B 15 #",
+          "file": "gsmg-haiku/review_leads/cryptanalysis_2026_10_15/inputs/public-walkthrough.md",
+          "match": [
+            "exact_string"
+          ]
+        },
+        {
+          "index": 16,
+          "candidate": "yellowblueprimesmatrixsumlistlastwordsbeforearchichoice",
+          "file": "gsmg-haiku/review_leads/cryptanalysis_2026_10_15/README.md",
+          "match": [
+            "exact_string"
+          ]
+        },
+        {
+          "index": 16,
+          "candidate": "yellowblueprimesmatrixsumlistlastwordsbeforearchichoice",
+          "file": "gsmg-haiku/review_leads/ltc_scan2/ltc_scan2.py",
+          "match": [
+            "exact_string"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "seven_key_bifid",
+      "path": "GSMG-CLEAN/runs/2026-09-13_seven_key_bifid/candidates.json",
+      "entries_checked": 59976,
+      "hits": []
+    },
+    {
+      "source": "last_words_referents",
+      "path": "GSMG-CLEAN/runs/2026-09-13_last_words_referents/*",
+      "entries_checked": 15676,
+      "hits": []
+    }
+  ],
+  "total_hits": 6
+}

@@ -1,0 +1,93 @@
+{
+  "run_utc": "2026-11-27T19:53:06Z",
+  "prereg_sha256": "d0e90059333c66804f9fa498e0f822b6125bd4a7c30dff78081be7f611e3f3e6",
+  "candidates_txt_sha256": "ab5da4f35196aea6afd832f49b335605be4968606966403c761236cdecd0b077",
+  "profile": "gsmg",
+  "candidates_count": 20,
+  "envelopes": {
+    "terminal_phase3_2_end": {
+      "bytes": 96,
+      "salt": "b45a5e3d827593ca",
+      "sha256": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9"
+    },
+    "salphaseion_short": {
+      "bytes": 96,
+      "salt": "3ab585348552415d",
+      "sha256": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258"
+    },
+    "cosmic_duality": {
+      "bytes": 1344,
+      "salt": "2d3f6fe06dc950e6",
+      "sha256": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+    }
+  },
+  "controls": {
+    "cc_selftest": "PASSED",
+    "planted_control": {
+      "answer": "planted_control_review_candidates_2026_11_27",
+      "expected_pad": 8,
+      "observed_pad": 8,
+      "plaintext_exact_match": true,
+      "find_keys_kinds_fired": [
+        "WIF",
+        "hex64",
+        "raw32"
+      ],
+      "histogram": {
+        "decrypts": 21,
+        "pad_0": 20,
+        "pad_1": 0,
+        "pad_2": 0,
+        "pad_ge3": 1
+      },
+      "extra_chance_hits": []
+    },
+    "targets_verified": {
+      "a9553269572a317e39f0f518cb87c1a0ee1dbae4": "HALF 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+      "4bc468447fe1b048ad030a2f9a125478eabc4ed6": "BETTER HALF 17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa"
+    }
+  },
+  "total_decrypts": 60,
+  "histograms": {
+    "terminal_phase3_2_end": {
+      "decrypts": 20,
+      "pad_0": 20,
+      "pad_1": 0,
+      "pad_2": 0,
+      "pad_ge3": 0
+    },
+    "salphaseion_short": {
+      "decrypts": 20,
+      "pad_0": 19,
+      "pad_1": 1,
+      "pad_2": 0,
+      "pad_ge3": 0
+    },
+    "cosmic_duality": {
+      "decrypts": 20,
+      "pad_0": 20,
+      "pad_1": 0,
+      "pad_2": 0,
+      "pad_ge3": 0
+    }
+  },
+  "dbbi_pattern_matches": [],
+  "retained_pad_valid_count": 1,
+  "retained": [
+    {
+      "envelope": "salphaseion_short",
+      "candidate_index": 20,
+      "candidate": "X2SH4Y0QB15",
+      "pad": 1,
+      "plaintext_len": 79,
+      "plaintext_sha256": "69d756b5ed0b611d6eb468d0e9025464c43260273806fd5be5fe06af91ee3b2f",
+      "printable_fraction": 0.417722,
+      "bin_file": "outputs/salphaseion_short/cand_20.bin",
+      "find_keys_hits": [],
+      "preview_200_hex": "4fc850496de1d796a722c0f1bf2ea4a808703a282a43f8a6aa2a01433b1f132d0f7131c2098d806625c6b2061099b389a2296d318c7c4c819588ffc1ef18359c5c35da5e8d9c3a54ffb5721d27ff95"
+    }
+  ],
+  "total_key_hits": 0,
+  "high_printable_count": 0,
+  "verdict": "NULL"
+}
