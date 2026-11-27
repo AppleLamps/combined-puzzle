@@ -24,6 +24,10 @@ Prime-5 reinsertion into the pre-Beaufort source record (2026-11-27):
 [`GSMG-CLEAN/21_PRIME5_REINSERTION_2026-11-27.md`](GSMG-CLEAN/21_PRIME5_REINSERTION_2026-11-27.md).
 116 scalars, no prize match.
 
+Cosmic Duality with the six SalPhaseIon answers hashed (2026-11-27):
+[`GSMG-CLEAN/22_COSMIC_SIX_HASH_2026-11-27.md`](GSMG-CLEAN/22_COSMIC_SIX_HASH_2026-11-27.md).
+32 decrypts, no padding hit, no legible plaintext.
+
 The working rules set on 2026-11-10 (no envelope sweeps, preregistration before every experiment,
 the derivation gate in `GSMG-CLEAN/tools/check_candidate.py`) were removed on 2026-11-27. New findings
 still go in `GSMG-CLEAN/` as a numbered document plus a `runs/` directory.
