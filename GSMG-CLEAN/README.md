@@ -12,6 +12,14 @@ This folder was distilled from every research round in `E:\rabbit-combined`: rab
 
 ## Read in this order
 
+**Architect typo stream (2026-11-27):** [runs/2026-11-27_typo_stream/README.md](runs/2026-11-27_typo_stream/README.md). Hypothesis only. The seven letters the Architect text inserts as spelling typos (FOURTY, WAISTING, THROPHIES, YOURSELF SELF) and a 1,532-letter text with them removed (`architect_clean_1532.txt`). Three of the insert offsets are prime. The poster colour map does not confirm it, and #1806 and #5960 call these typos.
+
+**Matrix-sum pipeline replay (2026-11-27):** [runs/2026-11-27_matrixsum_replay/REPORT.md](runs/2026-11-27_matrixsum_replay/REPORT.md). The 9,236 text forms of the 2026-09-13 matrix-sum run, regenerated unchanged, against the three locked envelopes under the pinned profile only, with every pad-valid plaintext kept. 27,708 decrypts gave 111 pad-1 outputs (expected 107.8, P(X >= 111) = 0.39), no pad of 3 or more, and 0 key hits in a planted-control keycheck (`keycheck.json`). Read its caveats before calling it preregistered.
+
+**Cosmic null validity (2026-11-27):** [runs/2026-11-27_cosmic_null_validity/REPORT.md](runs/2026-11-27_cosmic_null_validity/REPORT.md). Of 16 recorded families that claim a null on Cosmic Duality, 5 are valid, 1 is partial and 10 are invalid under the pinned profile. Replaying 3,461 gap candidates opened nothing.
+
+**Creator thinking profile (2026-11-27):** [22_CREATOR_THINKING_PROFILE_2026-11-27.md](22_CREATOR_THINKING_PROFILE_2026-11-27.md). How the creator thinks, from his own words and the public record. Analysis only, nothing run. It shares the number 22 with the Cosmic six-answer hash document below.
+
 **Cosmic six-answer hash (2026-11-27):** [22_COSMIC_SIX_HASH_2026-11-27.md](22_COSMIC_SIX_HASH_2026-11-27.md). SHA-256 of the six SalPhaseIon answers, joined with nothing or `z`, with and without `yinyang`, as a lowercase-hex passphrase and as raw bytes, under EVP-MD5 and EVP-SHA256. Uppercase hex and a double SHA-256 are the backstops. 32 decrypts, no padding hit, no legible plaintext.
 
 **Prime-5 reinsertion (2026-11-27):** [21_PRIME5_REINSERTION_2026-11-27.md](21_PRIME5_REINSERTION_2026-11-27.md). Putting the removed blue prime 5, the 24 primes, or the 484/479 pair back into the raw pre-Beaufort source record produced 116 scalars. None matched Half or Better Half. `116 9bb5f43408d7fa67d0893bc64f0274328a41af5308565e46aa4250d23605e732 NO MATCH`.
@@ -19,6 +27,8 @@ This folder was distilled from every research round in `E:\rabbit-combined`: rab
 **Key construction (2026-11-27):** [20_KEY_CONSTRUCTION_2026-11-27.md](20_KEY_CONSTRUCTION_2026-11-27.md). The seven yellow groups, the yin-yang readings of the saved last-words selections, and the saved 479/484 extractions were tested as private keys, with no envelope in the path. WIF, raw hex, brainwallet SHA-256 and BIP44 `m/44'/0'/0'/0/0` produced no Half or Better Half address. The Phase 3.2 answer does derive a real address, and that address is not a prize.
 
 **KDF model check (2026-11-27):** [19_KDF_MODEL_CHECK_2026-11-27.md](19_KDF_MODEL_CHECK_2026-11-27.md). The three locked envelopes are `Salted__` and have no validated round-trip. On the saved step-2/3/4 strings and the top creator fragments, EVP-MD5, EVP-SHA256 and PBKDF2-SHA256 (10,000) all sit on the 1/256 padding line, with zero pad≥3 hits. A zero IV still passes padding on the phase 3.2 key and does not open it. The proven model stays sha256 hex, EVP-SHA256, salt-derived IV.
+
+**Connections and reasoning traps (2026-11-27):** [18_CONNECTIONS_AND_REASONING_2026-11-27.md](18_CONNECTIONS_AND_REASONING_2026-11-27.md). A thinking pass across docs 01 to 17, not a solve: no envelope opened, no key derived.
 
 **State refresh (2026-11-10):** [17_STATE_REFRESH_2026-11-10.md](17_STATE_REFRESH_2026-11-10.md). Every outside source was re-checked. The prize is unspent (125,649,674 sat), the creator has not posted since 2026-09-01, and the live pages match the saved ones. Two null runs from an unmerged source branch (2026-09-15) are imported. 01 section 9 was incomplete: the checkpoint payments came from `3GSMG24...` and went to eight derived addresses, all re-derived by `tools/check_chain_state.py`; `1NULY7...` is a kangaroo tool's tip address with no preimage to find. The chat delta to 2026-10-08 is in `telegram/`.
 

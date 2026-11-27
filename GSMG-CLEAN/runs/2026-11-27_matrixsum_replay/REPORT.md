@@ -89,6 +89,20 @@ with metadata in `results.json`.
 All are pad = 1, printable ratio 25-49% (random bytes), no key matches detected.
 None reads as language.
 
+## Caveats (added 2026-11-27)
+
+- **Not preregistered in the strict sense.** `forms.txt` was generated before the seal. `tools/prereg.py seal`
+  refuses a run directory that holds any other file, so the already generated files were moved aside, the
+  directory was sealed, and the files were moved back. The seal therefore postdates the forms.
+- **Step 5 used `replay.py`'s own decrypt loop**, not `tools/check_candidate.py --file forms.txt`. The
+  profile is the same (gsmg), but the run did not go through `check_candidate.py`'s notable-output path.
+- **The planted control called `try_envelope` directly.** It shows the decrypt and pad check work on a
+  known envelope. It does not show that the notable-output reporting would have flagged a hit. The
+  key-match side was tested separately by the planted k=1 keycheck in `keycheck.json`.
+- **Why the null still stands:** the forms are a deterministic regeneration of the 2026-09-13 run (same
+  `sum_lists.json`, same `text_forms()`, same count of 9,236), so nothing was chosen after seeing results.
+  All 111 pad-valid plaintexts are retained and were scanned for prize keys: 0 hits.
+
 ## Source hashes
 
 | file | SHA256 |
