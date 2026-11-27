@@ -2,14 +2,13 @@
 prize keys. Offline, no brute-force generation: you supply the candidates.
 
   python tools/check_candidate.py --selftest
-  python tools/check_candidate.py --derivation runs/<dir> "some answer" "another answer"
-  python tools/check_candidate.py --derivation runs/<dir> --file candidates.txt   (one per line, verbatim)
-  python tools/check_candidate.py --derivation runs/<dir> --profile raw "passphrase"
+  python tools/check_candidate.py "some answer" "another answer"
+  python tools/check_candidate.py --file candidates.txt   (one per line, verbatim)
+  python tools/check_candidate.py --profile raw "passphrase"
+  python tools/check_candidate.py --derivation runs/<dir> "answer"   (optional: note which run produced it)
 
-Working rule since 2026-11-10 (16_CANONICAL_LEDGER_AND_WORKING_RULES): no envelope sweeps. A candidate is
-tried only if it came out of a derivation that was preregistered (tools/prereg.py), sealed, and whose
-self-check PASSED without AES. --derivation names that run directory; without it this tool refuses to
-decrypt. The number of candidates is capped by the run's own candidate_bound (hard limit 256).
+The 2026-11-10 working rules (no envelope sweeps, sealed derivation required, 256-candidate cap) were
+removed on 2026-11-27. --derivation is optional and only labels the output; nothing is refused.
 
 Default profile = the proven GSMG convention: passphrase = sha256(answer UTF-8) as 64 lowercase hex,
 EVP_BytesToKey(SHA-256, 1 iter), AES-256-CBC, PKCS#7. Other profiles are explicit opt-ins, never fallbacks.
@@ -159,19 +158,12 @@ if __name__ == '__main__':
     ap.add_argument('--profile', choices=PROFILES, default='gsmg')
     ap.add_argument('--selftest', action='store_true')
     ap.add_argument('--quiet', action='store_true', help='only print pad>=3 or key matches')
-    ap.add_argument('--derivation', help='run directory with a sealed PREREG.json and a PASSED non-AES self-check')
+    ap.add_argument('--derivation', help='optional: run directory the candidates came from (label only)')
     a = ap.parse_args()
     if a.selftest: selftest(); sys.exit(0)
     cands = list(a.answers) + (Path(a.file).read_text(encoding='utf-8').splitlines() if a.file else [])
     if not cands: ap.error('no candidates')
-    if not a.derivation:
-        ap.error('refusing to decrypt: name the derivation with --derivation runs/<dir>. Envelope sweeps are '
-                 'stopped; see 16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md and tools/prereg.py')
-    sys.path.insert(0, str(Path(__file__).resolve().parent))
-    import prereg
-    bound = prereg.require_passed(a.derivation)
-    if len(cands) > bound:
-        ap.error(f'{len(cands)} candidates exceed the bound of {bound} for {a.derivation}: that is a sweep')
-    print(f'derivation {a.derivation}: sealed, self-check passed, bound {bound}')
+    if a.derivation:
+        print(f'derivation {a.derivation}')
     n = sum(check(c, a.profile, a.quiet) for c in cands)
     print(f'{len(cands)} candidates x {len(ENVELOPES)} envelopes, profile={a.profile}: {n} notable')

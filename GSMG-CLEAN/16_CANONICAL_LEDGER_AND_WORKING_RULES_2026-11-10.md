@@ -14,45 +14,15 @@ this folder stands until a run recorded here says otherwise.
 New findings go here: a numbered document for the reasoning, a `runs/<date>_<name>/` directory for the
 evidence. Do not open a new ledger in another directory.
 
-## 2. Working rules
+## 2. Working rules (removed 2026-11-27)
 
-1. **No envelope sweeps.** Nothing is tried against Terminal, SalPhaseIon short or Cosmic Duality
-   unless it is the output of a derivation that already checked itself without AES.
-   `tools/check_candidate.py` enforces this: it refuses to decrypt without `--derivation runs/<dir>`,
-   and that directory must hold a sealed statement and a recorded self-check with outcome `passed`.
-   The number of candidates is capped by the run's own bound (hard limit 256).
-2. **Every experiment predicts a second artifact before it generates anything.** The statement is
-   written with `tools/prereg.py new`, sealed with `tools/prereg.py seal` (which refuses if the run
-   directory already holds output), and committed before the results. The four artifact types are:
+The working rules this section set on 2026-11-10 were removed on 2026-11-27: envelope sweeps are
+allowed again, experiments no longer have to be preregistered, and `tools/check_candidate.py` no
+longer refuses to decrypt without `--derivation` or caps the number of candidates. `tools/prereg.py`
+and `tools/oracles.py` stay in the folder as optional tools. Padding is still not evidence: a wrong
+key passes PKCS#7 about once in 256 tries (05 section 1, 14 section M6).
 
-   | type | meaning | checker in `tools/oracles.py` |
-   |---|---|---|
-   | `readable_text` | the output reads as language, against shuffled-input controls | `english_score` |
-   | `known_digest` | sha256 of the output is a digest authenticated in 01 | `known_digest` |
-   | `known_address` | the output derives a marker address (01 section 9) or a prize address | `known_address` |
-   | `exact_reconstruction` | the output reproduces a held artifact character for character | `longest_common_run` |
-
-3. **A null counts only when its planted control fired.** A run whose control did not fire is void,
-   stays in the repository with a `VOID.md`, and is rerun under a new sealed statement.
-4. **Padding is not evidence.** A wrong key passes PKCS#7 about once in 256 tries. See 05 section 1
-   and 14 section M6.
-5. **Measurements are exempt from rule 2** when they generate no candidates (for example the FAED
-   statistics in section 5). They still ship a script and a result file.
-
-Why these rules: `gsmg-puzzle-kit` alone records 7.29 billion decrypt tests through its doc 115
-(`claude/critical-review-2026-10-03.md:50`) and a further 26.8 billion in doc 116
-(`claude/116-coverage-gaps-closed.md:18`). Every one was judged by padding or a recogniser run on
-padding-valid output, and none of them moved the solved boundary. The creator's
-own framing is that the remaining step is small ("1 microstep", #32579; "in front of your eyes",
-#8446). Volume has not been the constraint.
-
-```
-python tools/prereg.py new runs/2026-11-10_example
-python tools/prereg.py seal runs/2026-11-10_example
-python tools/prereg.py record runs/2026-11-10_example --outcome null --evidence runs/2026-11-10_example/results.json
-python tools/oracles.py
-python tools/check_candidate.py --derivation runs/2026-11-10_example "answer"
-```
+The runs in sections 5 and 6 below were made under the old rules and are reported as they were made.
 
 ## 3. Where the directories disagree, and what stands
 
