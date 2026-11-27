@@ -1,0 +1,195 @@
+{
+ "backend": "coincurve",
+ "prize_addresses": {
+  "half": "1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+  "better_half": "17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa",
+  "half_hash160": "a9553269572a317e39f0f518cb87c1a0ee1dbae4",
+  "better_half_hash160": "4bc468447fe1b048ad030a2f9a125478eabc4ed6",
+  "half_hash160_as_p2wpkh": "bc1q492ny62h9gchuw0s75vvhp7p5rhpmwhytj2ypp",
+  "better_half_hash160_as_p2wpkh": "bc1qf0zxs3rluxcy3tgrpghe5yj50r4tcnkkh2umwh"
+ },
+ "seven_groups": [
+  "g",
+  "ggege",
+  "b",
+  "ffcdb",
+  "eggec",
+  "dci",
+  "eea"
+ ],
+ "census": {
+  "primes": 23,
+  "b": 16,
+  "be": 7
+ },
+ "families": {
+  "step2-select": {
+   "strings": 56,
+   "wif": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "hex64": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "sha256": {
+    "valid_keys": 56,
+    "addresses": 168,
+    "matches": 0
+   },
+   "bip39": {
+    "valid_keys": 56,
+    "addresses": 168,
+    "matches": 0
+   }
+  },
+  "step2-source": {
+   "strings": 7,
+   "wif": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "hex64": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "sha256": {
+    "valid_keys": 7,
+    "addresses": 21,
+    "matches": 0
+   },
+   "bip39": {
+    "valid_keys": 7,
+    "addresses": 21,
+    "matches": 0
+   }
+  },
+  "step3-colour-rendering": {
+   "strings": 120,
+   "wif": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "hex64": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "sha256": {
+    "valid_keys": 120,
+    "addresses": 360,
+    "matches": 0
+   },
+   "bip39": {
+    "valid_keys": 120,
+    "addresses": 360,
+    "matches": 0
+   }
+  },
+  "step3-yinyang": {
+   "strings": 27184,
+   "wif": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "hex64": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "sha256": {
+    "valid_keys": 27184,
+    "addresses": 81552,
+    "matches": 0
+   },
+   "bip39": {
+    "valid_keys": 27184,
+    "addresses": 81552,
+    "matches": 0
+   }
+  },
+  "step4-m4": {
+   "strings": 476,
+   "wif": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "hex64": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "sha256": {
+    "valid_keys": 476,
+    "addresses": 1428,
+    "matches": 0
+   },
+   "bip39": {
+    "valid_keys": 476,
+    "addresses": 1428,
+    "matches": 0
+   }
+  },
+  "step4-479-484": {
+   "strings": 315,
+   "wif": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "hex64": {
+    "valid_keys": 0,
+    "addresses": 0,
+    "matches": 0
+   },
+   "sha256": {
+    "valid_keys": 315,
+    "addresses": 945,
+    "matches": 0
+   },
+   "bip39": {
+    "valid_keys": 315,
+    "addresses": 945,
+    "matches": 0
+   }
+  }
+ },
+ "matches": [],
+ "control": {
+  "text": "jacquefrescogiveitjustonesecondheisenbergsuncertaintyprinciple",
+  "brainwallet_addresses": {
+   "p2pkh_uncompressed": "1jT9hMhmg8oZdrzD788c4j2aXZYwFuTtw",
+   "p2pkh_compressed": "1K23RS1y2fnuZRkhw5nUpFr5Jk5WN11Zeq",
+   "p2wpkh": "bc1qckjt8q5gh27n26afcdcaukt4ul2fhglyy8vr3u",
+   "hash160_uncompressed": "08074c9c02d6fede110e0840c14036ba33f78a70",
+   "hash160_compressed": "c5a4b38288babd356ba9c371de5975e7d49ba3e4"
+  },
+  "valid_keys": {
+   "wif": 0,
+   "hex64": 0,
+   "sha256": 1,
+   "bip39": 1
+  },
+  "wif": false,
+  "hex64": false,
+  "sha256_in_range": true,
+  "bip39_kinds": [
+   "empty-mnemonic-passphrase"
+  ],
+  "prize_match": false
+ },
+ "notes": {
+  "envelopes": "not opened",
+  "chat_sweep": "not run",
+  "step2_combinations": "rebuilt from the seven standing yellow groups; no earlier dump was on disk",
+  "step3_operators": "applied here to the saved last-words selections; no earlier operator dump was on disk"
+ }
+}

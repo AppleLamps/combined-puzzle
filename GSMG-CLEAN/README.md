@@ -12,6 +12,8 @@ This folder was distilled from every research round in `E:\rabbit-combined`: rab
 
 ## Read in this order
 
+**Key construction (2026-11-27):** [20_KEY_CONSTRUCTION_2026-11-27.md](20_KEY_CONSTRUCTION_2026-11-27.md). The seven yellow groups, the yin-yang readings of the saved last-words selections, and the saved 479/484 extractions were tested as private keys, with no envelope in the path. WIF, raw hex, brainwallet SHA-256 and BIP44 `m/44'/0'/0'/0/0` produced no Half or Better Half address. The Phase 3.2 answer does derive a real address, and that address is not a prize.
+
 **KDF model check (2026-11-27):** [19_KDF_MODEL_CHECK_2026-11-27.md](19_KDF_MODEL_CHECK_2026-11-27.md). The three locked envelopes are `Salted__` and have no validated round-trip. On the saved step-2/3/4 strings and the top creator fragments, EVP-MD5, EVP-SHA256 and PBKDF2-SHA256 (10,000) all sit on the 1/256 padding line, with zero pad≥3 hits. A zero IV still passes padding on the phase 3.2 key and does not open it. The proven model stays sha256 hex, EVP-SHA256, salt-derived IV.
 
 **State refresh (2026-11-10):** [17_STATE_REFRESH_2026-11-10.md](17_STATE_REFRESH_2026-11-10.md). Every outside source was re-checked. The prize is unspent (125,649,674 sat), the creator has not posted since 2026-09-01, and the live pages match the saved ones. Two null runs from an unmerged source branch (2026-09-15) are imported. 01 section 9 was incomplete: the checkpoint payments came from `3GSMG24...` and went to eight derived addresses, all re-derived by `tools/check_chain_state.py`; `1NULY7...` is a kangaroo tool's tip address with no preimage to find. The chat delta to 2026-10-08 is in `telegram/`.
