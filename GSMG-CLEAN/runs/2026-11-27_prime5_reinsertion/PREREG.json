@@ -1,0 +1,21 @@
+{
+  "hypothesis": "REINSERTING THE PRIME BASICS undoes the zeroing of blue prime 5 by writing that prime, the first 24 primes, or the 484/479 pair back into the raw pre-Beaufort source record, and the result is the prize scalar.",
+  "source_support": [
+    "Architect plaintext, zero-based: 479 PRIVATEKEY, 1021 SOURCECODES, 1103 PRIMEBASICS, 1198 SEVENINTERTWINEDPASSWORDS.",
+    "The 24 poster markers in follow_the_white_rabbit.png, first 24 primes in order: blue sums to 484, yellow to 479, and the single imbalance is the blue marker whose prime is 5.",
+    "Phase 3.2 bytes [447:1986] are the 1,539-byte pre-Beaufort source record, SHA-256 bd7a29432546c67c4170e0c523ddbf43ae82d20ee187d1b4dbf7907a0faf4c7b. Bytes [479:511] are c35b3af65fc7f8c7c13af65f60c02cc9c8c9cad1cc2560c7c03f25c7cd3f5bf8."
+  ],
+  "operand": "The raw 1,539-byte source record, and separately its 32-byte window at offset 479. Reinsertion operands: the byte 0x05; the first 24 primes as 24 bytes; those primes mod 256; the pair (484, 479) as two big-endian uint16 values.",
+  "operation": "Prime indices are the primes themselves (zero-based) or prime-1 (one-based); an index outside the buffer is skipped. At the k-th in-range prime, in ascending order, the byte is operand[k mod len(operand)]. Operations: XOR that byte; add it mod 256; insert that byte, highest index first. Separately, append the whole operand immediately after the 479 window (record offset 511, or the end of the window buffer). Separately, XOR 0x05 across every byte of the 479 window. Index base is not applied to append or to the 0x05 window XOR. Each result yields the 32-byte 479 window (record bytes [479:511], or the first 32 bytes of a window buffer) and SHA-256 of the whole result. A scalar outside [1, n-1] is not reduced and is not gated. No AES.",
+  "predicted_artifact": {
+    "type": "known_address",
+    "detail": "An in-range scalar derives Half's uncompressed pubkey, or the hash160 of its compressed or uncompressed pubkey equals Half a9553269572a317e39f0f518cb87c1a0ee1dbae4 or Better Half 4bc468447fe1b048ad030a2f9a125478eabc4ed6."
+  },
+  "acceptance_rule": "Accept only an exact hash160 or an exact match to Half's uncompressed pubkey. Padding, readable fragments, vanity prefixes and activity at a solver-published address are not acceptance.",
+  "controls": {
+    "planted": "Before enumeration is gated, hash160 of the known Half pubkey must equal a9553269572a317e39f0f518cb87c1a0ee1dbae4, scalar 1 must hit a planted hash160 of its own compressed key, and scalar 1 must miss both real prizes.",
+    "null": "No shuffled control. This family is an exact gate. A miss is a null for this reading only."
+  },
+  "candidate_bound": 116,
+  "aes_use": "none"
+}
