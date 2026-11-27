@@ -38,14 +38,14 @@ def parse_triplet(plaintext: bytes) -> Triplet:
 
 def reconstruct(inputs: ExtractedInputs, salphaseion: SalPhaseIonResult) -> ChainsResult:
     chain1_password = "".join(salphaseion.tokens[:5]).encode("ascii")
-    chain1_dec = decrypt_salted_aes256_cbc(inputs.chain1_envelope, chain1_password)
+    chain1_dec = decrypt_salted_aes256_cbc(inputs.chain1_envelope, chain1_password, digest="md5")
     chain1 = parse_triplet(chain1_dec.plaintext)
     chain1_wif = wif(chain1.key1, compressed=False)
 
-    chain2_dec = decrypt_salted_aes256_cbc(inputs.chain2_envelope, chain1_wif.encode("ascii"))
+    chain2_dec = decrypt_salted_aes256_cbc(inputs.chain2_envelope, chain1_wif.encode("ascii"), digest="md5")
     chain2 = parse_triplet(chain2_dec.plaintext)
 
-    cosmic_dec = decrypt_salted_aes256_cbc(inputs.cosmic_envelope, salphaseion.xor_password)
+    cosmic_dec = decrypt_salted_aes256_cbc(inputs.cosmic_envelope, salphaseion.xor_password, digest="md5")
     if len(cosmic_dec.plaintext) != 1327:
         raise ValueError("unexpected Cosmic plaintext length")
     cosmic_b = parse_triplet(cosmic_dec.plaintext[:79])

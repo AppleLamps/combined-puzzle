@@ -80,7 +80,7 @@ def run() -> dict[str, object]:
             for blob_name, envelope in blobs.items():
                 attempts += 1
                 try:
-                    plaintext = decrypt_salted_aes256_cbc(envelope, password).plaintext
+                    plaintext = decrypt_salted_aes256_cbc(envelope, password, digest="md5").plaintext
                 except ValueError:
                     continue
                 padding_hits += 1

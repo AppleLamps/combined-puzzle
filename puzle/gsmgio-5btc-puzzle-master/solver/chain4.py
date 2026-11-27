@@ -30,7 +30,7 @@ def reconstruct_chain4(chains: ChainsResult) -> Chain4Result:
     trimmed = chains.cosmic_remainder[:1168]
     embedded = bytes(value ^ MASK[i % len(MASK)] for i, value in enumerate(trimmed))
     password = chains.chain1.extension + chains.chain2.extension + chains.cosmic_b.extension[:2]
-    decryption = decrypt_salted_aes256_cbc(embedded, password)
+    decryption = decrypt_salted_aes256_cbc(embedded, password, digest="md5")
     plaintext = decryption.plaintext
     if len(plaintext) != 1151:
         raise ValueError("unexpected Chain 4 plaintext length")

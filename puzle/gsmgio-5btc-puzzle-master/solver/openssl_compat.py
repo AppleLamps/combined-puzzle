@@ -42,7 +42,7 @@ def validate_envelope(envelope: bytes) -> None:
         raise ValueError("ciphertext is not AES block aligned")
 
 
-def evp_bytes_to_key(password: bytes, salt: bytes, digest: str = "md5") -> tuple[bytes, bytes]:
+def evp_bytes_to_key(password: bytes, salt: bytes, *, digest: str) -> tuple[bytes, bytes]:
     """Derive an AES-256 key and CBC IV using OpenSSL's historical KDF."""
 
     if len(salt) != 8:
@@ -58,7 +58,7 @@ def evp_bytes_to_key(password: bytes, salt: bytes, digest: str = "md5") -> tuple
 def evp_bytes_to_key_md5(password: bytes, salt: bytes) -> tuple[bytes, bytes]:
     """Derive using the pre-OpenSSL-1.1.0 MD5 default."""
 
-    return evp_bytes_to_key(password, salt, "md5")
+    return evp_bytes_to_key(password, salt, digest="md5")
 
 
 def strict_pkcs7_unpad(padded: bytes, block_size: int = AES.block_size) -> tuple[bytes, int]:
@@ -73,12 +73,12 @@ def strict_pkcs7_unpad(padded: bytes, block_size: int = AES.block_size) -> tuple
 
 
 def decrypt_salted_aes256_cbc(
-    envelope: bytes, password: bytes, *, digest: str = "md5"
+    envelope: bytes, password: bytes, *, digest: str
 ) -> OpenSSLDecryption:
     validate_envelope(envelope)
     salt = envelope[8:16]
     ciphertext = envelope[16:]
-    key, iv = evp_bytes_to_key(password, salt, digest)
+    key, iv = evp_bytes_to_key(password, salt, digest=digest)
     padded = AES.new(key, AES.MODE_CBC, iv).decrypt(ciphertext)
     plaintext, padding_length = strict_pkcs7_unpad(padded)
     return OpenSSLDecryption(
@@ -101,8 +101,8 @@ def pkcs7_pad(plaintext: bytes, block_size: int = AES.block_size) -> bytes:
 
 
 def encrypt_salted_aes256_cbc(
-    plaintext: bytes, password: bytes, salt: bytes, *, digest: str = "md5"
+    plaintext: bytes, password: bytes, salt: bytes, *, digest: str
 ) -> bytes:
-    key, iv = evp_bytes_to_key(password, salt, digest)
+    key, iv = evp_bytes_to_key(password, salt, digest=digest)
     ciphertext = AES.new(key, AES.MODE_CBC, iv).encrypt(pkcs7_pad(plaintext))
     return b"Salted__" + salt + ciphertext

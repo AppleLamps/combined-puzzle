@@ -7,16 +7,15 @@ canonical ledger disagree, the ledger stands. The full table of disagreements, w
 
 The puzzle is unsolved. Nothing in this notice opens an envelope.
 
-## Working rules that now apply here too
+## Working rules (updated 2026-11-27)
 
-1. No envelope sweeps. Do not run this directory's AES harnesses or batteries. A password is tried
-   only through `GSMG-CLEAN/tools/check_candidate.py --derivation runs/<dir>`, and only after that
-   derivation checked itself without AES.
-2. Every new experiment states the second artifact it predicts (readable text, an authenticated
-   digest, a marker or prize address, or an exact reconstruction) before it generates candidates:
-   `GSMG-CLEAN/tools/prereg.py`.
-3. A null counts only when its planted control fired.
-4. New findings are recorded in `GSMG-CLEAN/`, not here.
+1. The 2026-11-10 working rules ("no envelope sweeps", mandatory `--derivation` gate, mandatory
+   preregistration) were removed on 2026-11-27 (`GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md`
+   section 2). `GSMG-CLEAN/tools/check_candidate.py` no longer refuses candidates without
+   `--derivation`, and `GSMG-CLEAN/tools/prereg.py` stays optional.
+2. Padding alone is still not evidence (~1/256 chance for PKCS#7 pad=1); a null counts only when
+   its planted control fired.
+3. New findings are recorded in `GSMG-CLEAN/`, not here.
 
 ## Statements in this directory that the canonical ledger contradicts or qualifies
 

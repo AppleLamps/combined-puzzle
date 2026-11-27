@@ -15,7 +15,7 @@ static Con cons[8]; static int ncons = 0;
 static unsigned long long tests = 0, validpads = 0, flags = 0;
 static unsigned long long hist[8][17];
 static int formmask = 3;
-static unsigned long long retained = 0;
+static unsigned long long retained = 0, unranked_pad1_retained = 0;
 static const unsigned long long audit_limit = 1000;
 
 static void load_con(const char *name, const char *path) {
@@ -91,7 +91,15 @@ static void try_pw(const uint8_t *pw, size_t pl, const uint8_t *cand, size_t cl,
             size_t bl = c->clen - p; const char *why = NULL;
             why = recognise(full, bl);
             if (why) flags++;
-            if (audit_retain(&retained, audit_limit)) {
+            int emit = 0;
+            if (why || p != 1) {
+                emit = 1;
+                retained++;
+            } else if (audit_retain(&unranked_pad1_retained, audit_limit)) {
+                emit = 1;
+                retained++;
+            }
+            if (emit) {
                 printf("FLAG\t%s\tform%d\tmd%d\tpad%d\t%s\tbodylen=%zu\tcandhex=", c->name, form, md, p, why ? why : "unranked", bl);
                 print_cand(cand, cl);
                 printf("\tbody="); for (size_t i = 0; i < bl; i++) printf("%02x", full[i]); printf("\n"); fflush(stdout);

@@ -299,7 +299,7 @@ def run() -> dict[str, object]:
             for form_name, form_password in _password_forms(password):
                 for digest in ("md5", "sha256"):
                     # KDF material shared across both raw48 modes.
-                    key, evp_iv = evp_bytes_to_key(form_password, env48_salt, digest)
+                    key, evp_iv = evp_bytes_to_key(form_password, env48_salt, digest=digest)
 
                     # Target 1: env48 (the Salted__ half).
                     stream.update(

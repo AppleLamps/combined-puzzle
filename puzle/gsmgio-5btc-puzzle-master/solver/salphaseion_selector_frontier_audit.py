@@ -684,7 +684,7 @@ def run_short_blob_password_family(gate: CandidateGate) -> dict[str, object]:
     raw = extract_raw()
     envelope = raw.short_envelope
     canonical_password = b"matrixsumlistenterlastwordsbeforearchichoicethispasswordmatrixsumlist"
-    canonical = decrypt_salted_aes256_cbc(envelope, canonical_password)
+    canonical = decrypt_salted_aes256_cbc(envelope, canonical_password, digest="md5")
     if len(canonical.plaintext) != 79:
         raise ValueError("canonical SalPhaseIon short blob no longer decrypts to 79 bytes")
 

@@ -160,7 +160,7 @@ def run(*, fetch_missing: bool = True, regenerate_media: bool = False) -> dict[s
         digests = [hashlib.sha256(token.encode("utf-8")).digest() for token in tokens]
         password = bytes(a ^ b ^ c ^ d ^ e ^ f ^ g for a, b, c, d, e, f, g in zip(*digests))
         try:
-            decryption = decrypt_salted_aes256_cbc(cosmic_envelope, password)
+            decryption = decrypt_salted_aes256_cbc(cosmic_envelope, password, digest="md5")
         except ValueError:
             continue
         substitution_hits.append({

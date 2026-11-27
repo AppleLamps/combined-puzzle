@@ -41,10 +41,15 @@ class SolverTests(unittest.TestCase):
         cls.matrix = analyze(cls.chains.cosmic_decryption.plaintext)
 
     def test_openssl_roundtrip_and_wrong_password(self) -> None:
-        envelope = encrypt_salted_aes256_cbc(b"positive control", b"password", bytes.fromhex("0011223344556677"))
-        self.assertEqual(decrypt_salted_aes256_cbc(envelope, b"password").plaintext, b"positive control")
+        salt = bytes.fromhex("0011223344556677")
+        envelope = encrypt_salted_aes256_cbc(b"positive control", b"password", salt, digest="md5")
+        self.assertEqual(decrypt_salted_aes256_cbc(envelope, b"password", digest="md5").plaintext, b"positive control")
         with self.assertRaises(ValueError):
-            decrypt_salted_aes256_cbc(envelope, b"wrong")
+            decrypt_salted_aes256_cbc(envelope, b"wrong", digest="md5")
+        with self.assertRaises(TypeError):
+            encrypt_salted_aes256_cbc(b"positive control", b"password", salt)  # type: ignore[call-arg]
+        with self.assertRaises(TypeError):
+            decrypt_salted_aes256_cbc(envelope, b"password")  # type: ignore[call-arg]
 
     def test_salph_tokens_and_xor(self) -> None:
         self.assertEqual(self.sal.directly_decoded, ("matrixsumlist", "enter", "lastwordsbeforearchichoice", "thispassword"))

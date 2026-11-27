@@ -880,7 +880,7 @@ def evaluate_aes(bank: MaterialBank) -> dict[str, object]:
     chains = reconstruct(extracted, salphaseion)
     known_cosmic_sha = sha256_hex(chains.cosmic_decryption.plaintext)
     canonical_chain1_password = "".join(salphaseion.tokens[:5]).encode("ascii")
-    canonical_chain1 = decrypt_salted_aes256_cbc(extracted.chain1_envelope, canonical_chain1_password)
+    canonical_chain1 = decrypt_salted_aes256_cbc(extracted.chain1_envelope, canonical_chain1_password, digest="md5")
     known_short_sha = sha256_hex(canonical_chain1.plaintext)
     blobs = {
         "cosmic-duality": extracted.cosmic_envelope,

@@ -85,7 +85,7 @@ def _build_passwords() -> dict[str, bytes]:
     tokens = derive_tokens().tokens
     inputs = extract_all()
     canonical = "".join(tokens[:5]).encode("ascii")
-    chain1_plaintext = decrypt_salted_aes256_cbc(inputs.chain1_envelope, canonical).plaintext
+    chain1_plaintext = decrypt_salted_aes256_cbc(inputs.chain1_envelope, canonical, digest="md5").plaintext
     if hashlib.sha256(chain1_plaintext).hexdigest() != CHAIN1_PLAINTEXT_SHA256:
         raise ValueError("chain-1 canonical plaintext drift")
     chain1_wif = wif(chain1_plaintext[:32], compressed=False)

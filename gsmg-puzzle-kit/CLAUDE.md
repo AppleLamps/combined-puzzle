@@ -31,17 +31,14 @@ Run the planted controls in `tools/README-tools.md` before any sweep.
 ## Recording results
 New findings go in a numbered log doc under `claude/` (next is 121) and are folded into the dossier, sections 10 and 12. `work/` is scratch; do not commit it.
 
-## Canonical ledger (added 2026-11-10)
+## Canonical ledger (added 2026-11-10; updated 2026-11-27)
 
 This directory is a frozen snapshot inside the combined repository. The single source of truth is
 `../GSMG-CLEAN/`. Read `CANONICAL_NOTICE.md` in this directory before relying on any claim here: it
-lists the statements the canonical ledger contradicts. Two rules from
-`../GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md` apply here as well:
+lists the statements the canonical ledger contradicts.
 
-- No envelope sweeps. A password is tried only through
-  `../GSMG-CLEAN/tools/check_candidate.py --derivation runs/<dir>`, after that derivation checked
-  itself without AES.
-- Every new experiment states the second artifact it predicts before it generates candidates
-  (`../GSMG-CLEAN/tools/prereg.py`), and its result is recorded in `../GSMG-CLEAN/`.
+The 2026-11-10 working rules ("no envelope sweeps", mandatory `--derivation` gate, mandatory
+preregistration) were removed on 2026-11-27 (`../GSMG-CLEAN/16_CANONICAL_LEDGER_AND_WORKING_RULES_2026-11-10.md`
+section 2). `../GSMG-CLEAN/tools/prereg.py` stays optional; new findings are recorded in `../GSMG-CLEAN/`.
 
 This directory's own rules above still hold inside it.
