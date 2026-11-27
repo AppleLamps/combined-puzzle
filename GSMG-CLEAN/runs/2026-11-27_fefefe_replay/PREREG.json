@@ -1,0 +1,61 @@
+{
+  "run": "runs/2026-11-27_fefefe_replay",
+  "hypothesis": "One of the FEFEFE candidates (5g-puzzle arm A yb-position passwords, arm B fefefe-read printable takes) is the answer to a locked envelope under the pinned gsmg profile.",
+  "inputs": {
+    "arm_a": {
+      "file": "5g-puzzle/packet/password_list_ybpos.json",
+      "key": "passwords",
+      "sha256": "d07b97f3472f473e5aa4474983fc9691d3e2842553363effcc3e56cd9ea661be"
+    },
+    "arm_b": {
+      "file": "5g-puzzle/packet/out/results_fefefe_read.json",
+      "key": "takes[].printable",
+      "sha256": "065d170a315c339dcf41c853c02dc859ee64668b52a57f6e2db5c0ae802a17ad"
+    },
+    "rule": "read exactly, no additions; arm A first in file order, then arm B in file order, first occurrence kept"
+  },
+  "candidates_file": "candidates.txt",
+  "candidates_sha256": "ccd637e883545ff7f18e78953539934d2649c6f1dbb610c8cb3c890aa4bd3d98",
+  "provenance_sha256": "cf1452c66ae7b3af9d9e39395bc5e0696d5fcd93d780e03430cbe00adae97a17",
+  "counts": {
+    "arm_a_strings": 40,
+    "arm_a_unique": 40,
+    "arm_b_takes": 72,
+    "arm_b_unique_printable": 69,
+    "arm_b_duplicates_within_b": 3,
+    "arm_b_unique_already_in_a": 3,
+    "arm_b_new": 66,
+    "candidates_total": 106
+  },
+  "arm_b_unique_already_in_a": [
+    "caebhhbbefababaaaabbbbaab",
+    "ehfbgghifagagcadgheacggcc",
+    "hhbebdbfbfebaaabbaababbaa"
+  ],
+  "profile": "gsmg",
+  "profile_detail": "passphrase = lowercase sha256 hex of the candidate (UTF-8); EVP_BytesToKey SHA-256, 1 iteration; AES-256-CBC; salt = envelope bytes 8..16; strict PKCS#7",
+  "envelopes": [
+    "terminal_phase3_2_end",
+    "salphaseion_short",
+    "cosmic_duality"
+  ],
+  "envelope_sha256": {
+    "terminal_phase3_2_end": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9",
+    "salphaseion_short": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+    "cosmic_duality": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+  },
+  "decrypts_planned": 318,
+  "controls": {
+    "harness": "cc.selftest() must pass, which reopens the Phase 3.2 envelope (pad 10, 2,422 B).",
+    "planted_envelope": "a Salted__ envelope built here under the gsmg profile from passphrase 'planted_control_fefefe_replay_2026_11_27', salt sha256(\"fefefe replay planted salt\")[:8], plaintext 'PLANTED CONTROL: fefefe replay 2026-11-27, gsmg profile.' (56 B). The planted string is appended to the real candidates and the whole list goes through the same decrypt loop against that envelope only. It must be found with pad >= 3 and the exact plaintext.",
+    "find_keys": "k=1 is added to cc.TARGETS temporarily, a sample holding k=1 as raw32, hex64 and WIF is passed through the same key scan used on retained outputs, and all three readings must hit. k=1 is then removed and cc.TARGETS must be exactly Half and Better Half."
+  },
+  "retention": "every pad-valid plaintext (pad 1..16) of every candidate x envelope is written to outputs/ENVELOPE/N.bin, whatever the pad",
+  "key_scan": "cc.find_keys on every retained plaintext, any pad, against Half a9553269572a317e39f0f518cb87c1a0ee1dbae4 and Better Half 4bc468447fe1b048ad030a2f9a125478eabc4ed6",
+  "pass_rules": {
+    "valid_run": "harness, planted_envelope and find_keys controls all pass; otherwise the run is invalid and reports no result",
+    "hit": "any find_keys reading on a retained plaintext that derives Half or Better Half (compressed or uncompressed)",
+    "notable": "any real decrypt with pad >= 3 (chance ~1/16.8M per decrypt); reported and inspected, not a hit by itself",
+    "null": "valid run, no hit, no notable; pad 1 and 2 are the chance rate (expected per envelope: pad>=1 = N/256, pad 1 = N*255/65536)"
+  }
+}

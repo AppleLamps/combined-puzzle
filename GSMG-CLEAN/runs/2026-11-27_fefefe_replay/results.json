@@ -1,0 +1,162 @@
+{
+ "prereg_sha256": "949c91a99d078a2aa88a1e989339e94f9ef531a8c7edb501022cf9b352f0f47c",
+ "sealed_utc": "2026-11-27T19:30:41Z",
+ "run_utc": "2026-11-27T19:31:14Z",
+ "profile": "gsmg",
+ "candidates": 106,
+ "envelopes": [
+  "terminal_phase3_2_end",
+  "salphaseion_short",
+  "cosmic_duality"
+ ],
+ "total_decrypts": 318,
+ "pad_histograms": {
+  "terminal_phase3_2_end": {
+   "decrypts": 106,
+   "counts": {
+    "0": 106
+   },
+   "expected_pad_valid": 0.414,
+   "expected_pad1": 0.412,
+   "expected_pad2": 0.00161
+  },
+  "salphaseion_short": {
+   "decrypts": 106,
+   "counts": {
+    "0": 105,
+    "1": 1
+   },
+   "expected_pad_valid": 0.414,
+   "expected_pad1": 0.412,
+   "expected_pad2": 0.00161
+  },
+  "cosmic_duality": {
+   "decrypts": 106,
+   "counts": {
+    "0": 104,
+    "1": 2
+   },
+   "expected_pad_valid": 0.414,
+   "expected_pad1": 0.412,
+   "expected_pad2": 0.00161
+  }
+ },
+ "pad_valid_total": 3,
+ "pad_valid_expected": 1.242,
+ "poisson_p_at_least_observed": 0.1298,
+ "pad_ge_3": [],
+ "targets_checked": {
+  "a9553269572a317e39f0f518cb87c1a0ee1dbae4": "HALF 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe",
+  "4bc468447fe1b048ad030a2f9a125478eabc4ed6": "BETTER HALF 17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa"
+ },
+ "find_keys_hits": [],
+ "controls": {
+  "harness": {
+   "passed": true,
+   "detail": "cc.selftest(): Phase 3.2 envelope opens, pad 10, 2,422 B"
+  },
+  "planted_envelope": {
+   "passed": true,
+   "envelope_hex": "53616c7465645f5ff18afa8846212dd470e9d070a47f39f6521db8980032b9836139a9bd70fb9c69723bd4e80d13886580c785627dd76a72953a8dc43617f653de5716bd90c8e53b66453f72f045cd6e",
+   "envelope_len": 80,
+   "decrypts": 107,
+   "found": true,
+   "pad": 8,
+   "plaintext_matches": true,
+   "other_pad_valid": [
+    {
+     "candidate": "0x1ee7b32",
+     "pad": 1
+    }
+   ],
+   "pad_histogram": {
+    "0": 105,
+    "1": 1,
+    "8": 1
+   }
+  },
+  "find_keys": {
+   "passed": true,
+   "kinds_hit": [
+    "WIF",
+    "hex64",
+    "raw32"
+   ],
+   "hits": [
+    [
+     "raw32@5",
+     [
+      "TEST k=1 (uncompressed)"
+     ]
+    ],
+    [
+     "hex64@90",
+     [
+      "TEST k=1 (uncompressed)"
+     ]
+    ],
+    [
+     "WIF@38",
+     [
+      "TEST k=1 (uncompressed)"
+     ]
+    ]
+   ],
+   "targets_restored": true
+  }
+ },
+ "retained": [
+  {
+   "candidate": "faedggeedfcbdabhhggca",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "plaintext_len": 79,
+   "printable_fraction": 0.4304,
+   "plaintext_sha256": "8b881f93df2cca888ee214d866d8c0d2afa6455a37e7c6a1bdb573ab4cc75f3d",
+   "hex_64": "0d9a4f3887a2959c18db4bbc331e1d586e96045a6afa5b4515dfb2b236c3ace86b26655b9fa578463547f4697610bf97d416bfe14f57aeb8ed30e55863c02b37",
+   "file": "outputs/salphaseion_short/0.bin",
+   "key_scan": {
+    "raw32_windows_checked": 48,
+    "hex64_readings": 0,
+    "wif_readings": 0,
+    "base64_32_readings": 0,
+    "hits": []
+   }
+  },
+  {
+   "candidate": "cicggifdcgaaggfbigaicfbh",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "plaintext_len": 1327,
+   "printable_fraction": 0.3655,
+   "plaintext_sha256": "d88f64daa52e29fa2ed9d617b60a9523404a1a87481322c0b6258439d8ccade9",
+   "hex_64": "1df029eff52d6e4cc9d863a94e31678724b49ba6f647379074d229a4d98471e8f2c067f635f8aff23eff3d2f856983fab59b6939771e98e5cfa2e51c96f829c1",
+   "file": "outputs/cosmic_duality/0.bin",
+   "key_scan": {
+    "raw32_windows_checked": 1296,
+    "hex64_readings": 0,
+    "wif_readings": 0,
+    "base64_32_readings": 0,
+    "hits": []
+   }
+  },
+  {
+   "candidate": "ihbegge",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "plaintext_len": 1327,
+   "printable_fraction": 0.3919,
+   "plaintext_sha256": "8b51400107b0964dc5b45c74a61ab1671de1c78a78a83748d6c16f36aab6239d",
+   "hex_64": "e1823f13d6ffbb5884e9bc24d4fa11b3a2d33c96208aa74c462e0498100f61bd53a4107be23e4d5cafe945e5eddb5692a9e9b195f2e2db8d698399e038243471",
+   "file": "outputs/cosmic_duality/1.bin",
+   "key_scan": {
+    "raw32_windows_checked": 1296,
+    "hex64_readings": 0,
+    "wif_readings": 0,
+    "base64_32_readings": 0,
+    "hits": []
+   }
+  }
+ ],
+ "verdict": "NULL"
+}
