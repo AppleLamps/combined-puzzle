@@ -1,0 +1,9 @@
+sandbox: C:\Users\lucas\AppData\Local\Temp\cosmic_audit\planted
+answer: 'planted control opens here'
+synthetic blob: 96 bytes, salt 2d3f6fe06dc950e6, plaintext 64 B, pad 16
+script under test: C:\Users\lucas\AppData\Local\Temp\cosmic_audit\planted\tools\check_candidate.py sha256 d164ba16d2632d87ee89dcf44451cc0d262441ce5a9f0c821044273713d66f1a
+script copied from: C:\Users\lucas\Desktop\combined-puzzle\GSMG-CLEAN\tools\check_candidate.py sha256 d164ba16d2632d87ee89dcf44451cc0d262441ce5a9f0c821044273713d66f1a
+--- run ---
+[STRONG pad] terminal_phase3_2_end pad=16 len=64 answer='planted control opens here' profile=gsmg
+   plaintext[:80] = b'PLANTED CONTROL OPENS THIS ENVELOPE.XXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+1 candidates x 3 envelopes, profile=gsmg: 1 notable

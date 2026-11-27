@@ -1,0 +1,63 @@
+{
+ "schema": "cosmic-null-validity-gap-set-v1",
+ "prereg_sha256": "f22e5207351a4ee013856cd03b8299eae0d73dce9b143bf0fa68df4f888387c9",
+ "families": {
+  "unity_of_opposites": 10,
+  "packet_frozen": 199,
+  "v50a_creator_texts": 35,
+  "checkpoint_master_key": 1,
+  "salphaseion_v1_v22_text": 3346
+ },
+ "rows_read": 3591,
+ "unique_candidates": 3544,
+ "duplicates_removed": 47,
+ "salphaseion_distinct_preimages": 3735,
+ "salphaseion_byte_only_preimages_not_carried": 389,
+ "longest_candidate": 1539,
+ "shortest_candidate": 1,
+ "candidate_file": "gap_candidates.txt",
+ "candidate_file_sha256": "ebed115a478f7156a313782acad5794e2f83e148c6a62f303be0ad299e37a298",
+ "provenance_file_sha256": "81aa0f5d98950212150464abdecdab25c341bacc6f2124e074534ad543c8f7ca",
+ "source_files": {
+  "5g-puzzle\\packet\\password_list.json": "ba548772fe98ca04eb8159f3b33a76f15d0e32172e0d6c8b58d85a9c37898c15",
+  "5g-puzzle\\packet\\password_list_audit.json": "65d2e167784d05e7760ff4f95e0d22e6a72514b521d8ce59a163573cc3e465bd",
+  "5g-puzzle\\packet\\password_list_leftover32.json": "d32105cadf7b2da756c430d1ab5c305b9f7fe200ba0977a0ab48a0a85171f9a5",
+  "5g-puzzle\\packet\\password_list_synthesis.json": "a47d92a50c5e00117809cc039b0206753e4dcab4a28acc528bc4d79ce34be243",
+  "gsmg-haiku\\review_leads\\CHECKPOINT_4F7A_VS_A5502.md": "7a9a0f86cada9e14dbe06d3017192ac9c384453c494f7345b1f3d297c721ab7e",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates.json": "80dcc2107c987a22f1d19f54d6c432665d9a80ceb6fdbe8087be5b6d96442acd",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v10.json": "2a1a79ab793105e0bde6b50921fe54e42c33c54c5ee93cc20e011b2b8294abf0",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v11.json": "f308b9a2f812c228acee2001ed5da5c8b228640255e2ab053d229cf7f5aa21df",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v12.json": "97a9d1d79f4021927a82808b0ccf7712271c8a2c1292635b1f2856db4ff489c0",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v13.json": "11577dae8a3fe114226a7e583fdd966ed0d647dc618378a0c3e7d9cbd614a969",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v14.json": "b574912c561f610682d398197e131b932831ca34d074c21af7d5b64ff680c739",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v15.json": "7fdcb4000a6dca8c6ef6b81b65770269a5fc6534a739cf74971913bc8c3a4ac0",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v16.json": "7d1159faed85eac1fe42f131348dc048afdbd56c7c3aa5a6172a32ba4866dea4",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v17.json": "573da64cb422f81cdc2741a0505ce8927ebdc2931d1117ab10fc03a590589fa1",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v18.json": "50211f08358ac12cc3998dd9637aa38431ef434d9642a0b8f1c412ec6f6aca46",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v19.json": "873b70d32ce418330209e2757dada56a81014bf78778738fc721a832ca2e6f42",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v2.json": "4bdf450feeabed77e64be776f8c638513b4070cb91313c387da297226a5893cc",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v20.json": "ddf24693fc929ddf1214cb83c1de23a1a5c6c7ccf7a95eec6828a3f8ed9219ca",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v21.json": "84790be5d5cd9a82ade81c6fc21a33b621c7950b72014e04c55a5b63d393cbde",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v22.json": "c243f6b04f7c8f92bba0c58ff8d2e2d6a6b1abbc63e6bff10cdde0f8965d4f74",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v3.json": "bffe811d793a42ed9e86123eb44e708240094df15f3a94eacd5478eb329d672d",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v4.json": "dda65d6a460b24a26a479809e02e07a0e51374763d4cdda4adb467c826658c19",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v5.json": "b4c553f2faf3b2210e0685950e392a09f062e1d65aef4cf3b58fd61ceffb1d6b",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v6.json": "cd5c4f86197f112fec3034ad19c0a3309a4a0a5434e74626167cfb8ae7635ead",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v7.json": "4f68ed0830942edc4073e5fcd2e8fbc1693ba14426a8eb4d76e8bcb48f7f7d86",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v8.json": "624f960158a4edd1f0f418e298bef3b8d987304a49069d99d42618bb83f16a3d",
+  "puzle\\gsmgio-5btc-puzzle-master\\salphaseion_preregistered_candidates_v9.json": "e58643f4d024e48f6ac39c26cbc7c7a8c811717635d4d968804cb63d43f30b9b",
+  "puzle\\gsmgio-5btc-puzzle-master\\solver\\intertwined_password_coherence_audit.py": "37cbff1df497b61e35c2f219bab07083a47b232f148e56af860084cf51ad1fa6",
+  "puzle\\gsmgio-5btc-puzzle-master\\unity_of_opposites_audit.json": "efd3d96fff5cd4e9a839b8eb9b1ea3d0bc8fcaa928261117d15e93c4a5c44614"
+ },
+ "extraction_controls": {
+  "sentinels_present": {
+   "yellowblueprimes": true,
+   "theunityofopposites": true,
+   "yinyang": true,
+   "a795de117e472590e572dc193130c763e3fb555ee5db9d34494e156152e50735": true
+  },
+  "planted_absent_present": false,
+  "passed": true
+ },
+ "aes_used": false
+}

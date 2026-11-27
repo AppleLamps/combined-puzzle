@@ -1,0 +1,23 @@
+{
+  "hypothesis": "The Cosmic Duality nulls recorded for five source-grounded string families are reproducible under the pinned profile, and none of those strings opens the envelope, so the families are closed on a valid test rather than left on an unretained or MD5-only one. Candidate representation only is corrected from the void first attempt: strings that contain a Unicode line-boundary character are excluded because the candidate file cannot carry them on one line.",
+  "source_support": [
+    "Creator #8446 reverses to 'yellowblueprimes matrixsumlist lastwordsbeforearchichoice yinyang wewontgiveaway thepassword ...'; the seven phrases of the 2023-02-23 image are the creator's ordered pipeline (puzle ATTEMPT_LOG v50).",
+    "SalPhaseIon page offsets 0:91 (dbbi), 91:195 (matrixsumlist), 195:765 (faed), 765:829 and 829:859 (numeric labels), 860:895 (shabefourfirsthintisyourlastcommand), 895:1059 (two 64-char base64 fields with 'enter' at 959:999), 1063:1075 (shabefanstoo).",
+    "Creator #39224 'yinyang not reached, then hours'; #56158/#56159 'yelllow 50400?' / 'blue 83700?' (poster pixel counts).",
+    "2022-12-10 image of the Time-Life Cosmic Duality book cover and creator replies #8311, #8315, #8328; point-up endorsement #60285 'turning inward to find the solution' (Time-Life contents essay 'The Unity of Opposites').",
+    "Five-token XOR master key a795de11...e50735 from the page literals enter/lastwordsbeforearchichoice/thispassword/yourlastcommand/secondanswer (gsmg-haiku/review_leads/CHECKPOINT_4F7A_VS_A5502.md)."
+  ],
+  "operand": "Five committed manifests, nothing generated: (1) puzle/gsmgio-5btc-puzzle-master/unity_of_opposites_audit.json phrases_sealed (10 strings); (2) 5g-puzzle/packet/password_list_audit.json inherit_password_lists plus passwords (199 strings); (3) puzle/gsmgio-5btc-puzzle-master/solver/intertwined_password_coherence_audit.py _creator_texts() (35 strings); (4) the master key quoted in gsmg-haiku/review_leads/CHECKPOINT_4F7A_VS_A5502.md (1 string); (5) puzle/gsmgio-5btc-puzzle-master/salphaseion_preregistered_candidates.json and _v2.._v22, preimages that are text (3,346 strings, of which 83 hold a Unicode line-boundary character and are excluded). Union after de-duplication and that exclusion: 3,461 strings.",
+  "operation": "Extract each string, drop byte-only preimages and strings that cannot occupy one line of a candidate file, de-duplicate by exact string, write one candidate per line in UTF-8, then one decrypt per candidate per envelope under the single pinned profile: passphrase = lowercase hex of SHA-256(answer UTF-8) as 64 ASCII bytes; OpenSSL EVP_BytesToKey with SHA-256, one iteration, key/IV from the same stream, salt = bytes 8:16 of the Salted__ blob; AES-256-CBC; strict PKCS#7. No other profile, no other KDF, no other envelope, no candidate added or normalised.",
+  "predicted_artifact": {
+    "type": "readable_text",
+    "detail": "If any of these families is the Cosmic password, the decrypted 1,328-byte plaintext reads as language whose subject is unity of opposites (the book's essay title, the endorsed turn-inward clause, yin-yang balance), or its bytes carry a key that derives the Half address 1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe. Either would appear as pad >= 3 on the Cosmic envelope (chance 1/16.8M) plus a legible or key-shaped plaintext; a pad of 1 or 2 at the chance rate is the null."
+  },
+  "acceptance_rule": "Pass = a Cosmic Duality decrypt with pad >= 3, or any pad-valid Cosmic plaintext that reads as a unity-of-opposites sentence, or a Half/Better-Half hash160 hit from check_candidate.find_keys. Null = every pad-valid Cosmic output has pad 1 or 2 and no key shape, with the pad count within Poisson noise of 3461/256 = 13.5.",
+  "controls": {
+    "planted": "A sandboxed copy of tools/check_candidate.py (byte-identical, sha256 d164ba16d2632d87ee89dcf44451cc0d262441ce5a9f0c821044273713d66f1a) with data/locked_terminal_phase3_2_end.bin replaced by a synthetic Salted__ blob encrypting 64 bytes under passphrase = sha256('planted control opens here') hex with the pinned profile. Run on that answer the script must print [STRONG pad] pad=16. Result already recorded in ../planted_control.json and ../planted_control.log.",
+    "null": "The 3,461 real candidates: expected pad>=1 count 13.5 with a pad>=3 expectation of 0.0002. check_candidate --selftest must also open the real Phase 3.2 envelope (pad 10, 2,422 B) before the run is accepted."
+  },
+  "candidate_bound": 3461,
+  "aes_use": "none"
+}

@@ -1,0 +1,8 @@
+{
+  "outcome": "passed",
+  "prereg_sha256": "35a9c359c89b484f4eceea805c8fddef23932c7c3fe31065357db4bcee0b6cac",
+  "evidence_file": "gap_manifest.json",
+  "evidence_sha256": "639a225aa181132e91cdb40973e38ef4f2bb82bae78d86fe9bd0e08d5e64b7bc",
+  "recorded_utc": "2026-11-27T17:54:38Z",
+  "note": "Extraction only, no AES: 3,461 unique strings, equals the declared bound; check_candidate will read exactly 3,461 tokens (verified with str.splitlines). 83 text preimages holding a splitlines boundary character and 389 byte-only preimages are excluded and counted; 4 sentinels found, 1 planted absent string not extracted."
+}

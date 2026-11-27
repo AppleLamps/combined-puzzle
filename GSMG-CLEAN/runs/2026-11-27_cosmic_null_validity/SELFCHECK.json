@@ -1,0 +1,8 @@
+{
+  "outcome": "passed",
+  "prereg_sha256": "f22e5207351a4ee013856cd03b8299eae0d73dce9b143bf0fa68df4f888387c9",
+  "evidence_file": "gap_manifest.json",
+  "evidence_sha256": "98fec33f4070fa056205942aba75a461df106534eb8aa1b2943e25b941dc9365",
+  "recorded_utc": "2026-11-27T17:47:45Z",
+  "note": "Extraction only, no AES: 3,591 manifest rows -> 3,544 unique strings (47 duplicates); 4 sentinel strings found, 1 planted absent string not extracted; 389 byte-only preimages cannot be expressed as answer strings and are recorded as not carried."
+}
