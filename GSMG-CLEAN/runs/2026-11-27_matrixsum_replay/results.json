@@ -1,0 +1,1579 @@
+{
+ "profile": "gsmg",
+ "n_forms": 9236,
+ "n_envelopes": 3,
+ "total_decrypts": 27708,
+ "pad_histograms": {
+  "terminal_phase3_2_end": {
+   "0": 9207,
+   "1": 29
+  },
+  "salphaseion_short": {
+   "0": 9195,
+   "1": 41
+  },
+  "cosmic_duality": {
+   "0": 9195,
+   "1": 41
+  }
+ },
+ "retained_count": 111,
+ "notable_count": 0,
+ "retained": [
+  {
+   "form": "PATGNH",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3738,
+   "hex_120": "b3e6b96256ec3c8bc1fc2f09138409fc8fb6174f7d253a1106b0a1e67aba849a19f876b134fe4009f7bd374077320baeed8829acf7aa2b19c5c6e6b65f7b3182ab2acce0d75719b59ffcc01b25e8129ad54adeeb7b631dfe8fa2ff742fe68db45c20a685cfa55ba7e807be6a0aa6881a7b10a6ae5ecda03b",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "a1z26",
+    "sum_list": "faed/B_prime_pos_only/57x10/cols/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\0.bin"
+  },
+  {
+   "form": "nipnnai",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4304,
+   "hex_120": "2ad58d5fa8ad3f9b33a72ff07b4480d46ced647f85e1f7538b9f9d4fd35f506dc06bf5c8a251128d3a152834b76dcdd5e9a834286ede3b59835693f45132e1360b9e16e814a662305cb6a9ce2c5a9c",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "L2/negatives_zeroed/7x12/rows/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\0.bin"
+  },
+  {
+   "form": "ueuuuuudolccc",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3165,
+   "hex_120": "0f5fc61419261a7f7bcd07c89fd3dbd627daf725f28062099c16e7f9c233cd3b675b6180f30be8300509cc7f596b0f7e429cbbff94bc7a3e3655b340fa37f0c5f3fe2609bc80710bb5a103baad7bf1",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "dbbi/Y_prime_pos_only/7x13/cols/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\1.bin"
+  },
+  {
+   "form": "ecwdmdl",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3291,
+   "hex_120": "92ce66a7e5780469ba19ac33aff607e3e6f7311ed86c1defb4a251b83b7f6cbbd4b7e0d76a6b2f96226006e29c1b7b03f34caefcf42e113933f449e1e1f984274aa7014c645a251ffcb088bdecc3cd",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "dbbi/full/7x13/rows/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\0.bin"
+  },
+  {
+   "form": "DDAAEOFEEQEOH",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.2785,
+   "hex_120": "495ccee160de842627ebc5679c7ffa5b188bb99af1f349068fa5628bd86a9f16a052d4deb90106c32ffb06aed8b9f78d8b50ab03146b3254b50b86efe0dbd0ef1d0df808e3c2d90d71276871826d5d",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "dbbi/signed_Y+B-/13x7/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\2.bin"
+  },
+  {
+   "form": "NOOANNMEFIENN",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3791,
+   "hex_120": "25ec2fc9909d35e31dc1db757e286d5d778578761d187629ade30f2c3839294a01365a94e15d43bb1dd5598f1240565adfbc725074249bf6353eb3bf28b6b98033399608629a66988dfa27de7eb1187685c888d14bc53a289206320135bccb3cd61ae28bbb730d46c82a198d03665c9b380aabebc37167b7",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "dbbi/signed_Y-B+/7x13/cols/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\1.bin"
+  },
+  {
+   "form": "yuiyeyiyyyyyluyyiyeyyyyyyfyyyyeyyyyyoyyyeyoyyyyyyyyylyyyy",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4177,
+   "hex_120": "a7576b413ce0c2dc55b11431356cc09f8f3c07fa6679c86cb316dd0cfafca0234d377d20ad0b8a8a793a26c2fa7c62b4046cbf6d5a11424567e611b45cc1c1f0c6cef1efdfd47cba44d4eec43a114e",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "faed/B_prime_pos_only/10x57/cols/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\3.bin"
+  },
+  {
+   "form": "ATGGGGGGGGGGGGG",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.37,
+   "hex_120": "3571a5c4f5ea6dcc66d8fb2291f5811521d07699cbdd28c5588caddb3b0de2d455875863e474d57393a16c81574428d6e628ab7f54b653888b50a1f461543ddc93305ff4f402f5d6d69985b2dc70bb40df033dca28bb39f366a8999172e83d710e825eb1aa78ddfb85447df5172f237274dacdc2bcd4d5bd",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "faed/B_prime_pos_only/15x38/rows/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\2.bin"
+  },
+  {
+   "form": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyfuioma",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3924,
+   "hex_120": "faa4f7614cf8fb38d10e46944d5e2f52e3a6080ce89a37bb27b51fe88291a8719c92bc5b76b913255540c68ae4885cad83f1433c2b35f54b81ec943e3fa5108e9e4d52d66b192902359a9776195d18",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "faed/B_prime_pos_only/38x15/rows/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\1.bin"
+  },
+  {
+   "form": "emeeeeeeeeeeeeeeeee",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3038,
+   "hex_120": "b2b84810c784d1cee6ba47705fde45a765d7056fdc547131d3fcaaa7271acbfef0328381a687b6e01b4a1d85a35686971c1d99f6fa9686e2ac2f765745e81251d42f5b39a4ac2cfdfcb4871db152a5",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "faed/Y_prime_pos_only/19x30/rows/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\2.bin"
+  },
+  {
+   "form": "OUMUEECBARNUARUONNN",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3662,
+   "hex_120": "ec0852461f6924bfa40e88fb2c643ac860687c4413883e5a3b022c7f16864c3dfd4579e0eef09988bd9dd5b0d7ff865c0bd98c2e000c427f2c5b43e884af0655f7cb0cae2fb35a3d6d65cc5ecd64899eec9cec36f2a6668ad4d26c496f6a330c0c66da05b0f994718245ca440c12ae350f02282f849e49d5",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "faed/prime_pos_only/19x30/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\3.bin"
+  },
+  {
+   "form": "YSYAMYTMQAYYYI",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3924,
+   "hex_120": "931c68b374965bf359f656a3f29c706e7cbfecbe1b26e3e89d0d47868188f7d8ed554c0ad53c52698de0482c01e77e9df57a72844a3f985f04fa63b066de3b43f7030adc50b3e6ce5aad5817498fe8",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx0",
+    "sum_list": "poster/Y_ordinals/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\4.bin"
+  },
+  {
+   "form": "OEAAHEHTOZ",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3783,
+   "hex_120": "f719d586b2a314ec4439fa8d5a3b79609492d8d6a0493b36517740df75d2843e2a63000e3145a6023c25b3187c0b79a52cfd1b4231e5a58e44e82f5760d437f8bfd506d5f9af57810235e19b148a13754ce99f22b66621c516d81dfda51739a78958e34d5d2a4e9883d84f1d52d716812f3d6ceb894e6f78",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "L2/abs_negatives_only/12x7/rows/nonzero",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\4.bin"
+  },
+  {
+   "form": "hmesaittvtru",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3038,
+   "hex_120": "5c1402d7d5358a775c19703edc236f0ebd8e0c45819cae45196810ffc76982c3af30eee2fe13d6920f5bed734bce0938ffd6a14cb39d42298404b680d98f5c8479a3b3e30b8af5055ad1d2e803de7d",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "L2/negatives_zeroed/7x12/cols/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\5.bin"
+  },
+  {
+   "form": "thaetnh",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3038,
+   "hex_120": "47ca91fe71dc298a01947211d5c13ce0901285f3602433ad5441c911e4ee44959c86ff61f9cd681dfe4c00ca82e7cda88e9a5ee2a3c545fde27e6a80e93e8ffc659020bd430f07ea1ade283a1a81b8",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "dbbi/Y_prime_pos_zeroed/7x13/rows/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\3.bin"
+  },
+  {
+   "form": "NERLDROQFENFE",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3671,
+   "hex_120": "8658e6127b30709c5d318fa0c4161f60d8339bc8d5a00cb99e230a01e59c7436e12c020cab6d787da69b03c524a2ba87e2a2f556db46b48a394e37476e7b472086ba04dfbf0831f2b851a5105e07ae",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "dbbi/full/13x7/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\6.bin"
+  },
+  {
+   "form": "TETALTRLTCUTT",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4304,
+   "hex_120": "02f83a3bf8bb2191611b7358ed19c48ba854b04977ed904856db8987eb7001cd47186b19201eab3c34628e4845eb84c0ef5eb9105911494837907a911b547cd530d6ed9fd99a34580bf03fd75a541f",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "dbbi/signed_Y+B-/13x7/rows/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\7.bin"
+  },
+  {
+   "form": "oguunar",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3941,
+   "hex_120": "9e45616a56b24b3b380a243073147f395f57bea92a8f39b9e0aaa8518260eb14fba71154f931e0fcc7abb7366463c120df67e2682aa59d3894aabcd61dda2fe01d3ce0c10b0c6fcfa5e85e5f601ac0c0961600518b9e126ad4f2fb7a929ab457a0b37c65a5f8376261801b61fca1c529aef010603a1e12d9",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "dbbi/signed_Y-B+/13x7/cols/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\5.bin"
+  },
+  {
+   "form": "IOEIEEE",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3418,
+   "hex_120": "86a80348ca3ec21147a5b1e54f4e99b001affb2452045155e1d2d6d11d3b95c24e028a2fa4f824f1fcb96d09c0fbeb4f4cd2a67289e8cedc2a86979936d14dc9f02fe7e16e2b51e7bdec5a2fccc63b",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "dbbi/signed_Y-B+/7x13/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\8.bin"
+  },
+  {
+   "form": "MUMLOIOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3813,
+   "hex_120": "9a1237ec71f03706193f0b0b00b12f736d70eeba530140165d3237e2c7d2cba84a47974b98184aa8ae3fe5c0cbb2c0f5b9da3a895e8ece27c6f9a55ab7065488e62601f34b0874f8573a625a6bdcab6117f24842dd2835a8a874af2114994a5259ef9cd9692f841ce8c48c75ddd5a3bbe00f98edd667089c",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "faed/B_prime_pos_only/38x15/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\6.bin"
+  },
+  {
+   "form": "hun",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3671,
+   "hex_120": "a9cabb466d8a8ccb576becb05cd9a4d431401b751ceed58fb72932ff04a7760ec3381f9445dc4fe67247782f83189aeb3f853c225b3d274f720e91b7c4ee7e8b14db26e80f8adfcc87cdcc36c9f7e4",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "faed/Y_prime_pos_only/19x30/rows/nonzero",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\9.bin"
+  },
+  {
+   "form": "UHUOCCCCCCCCCCCCCCCCCCCCCCCCCC",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.361,
+   "hex_120": "9e4e48afc71fb2e4c8867dd2b56aab8a037f12f4bef9ad657a23e164f53683e510103456b3917a85588c6046558cb1aaf666bec3c4bf82051d94b936b024b2e6198a1a04738aec85c87109b7f3d1bed452e0222cd35f97d91dab8e448af754534b8ade6a108a706c84cb4c45b53dd29a0ab9815a72eda127",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "faed/Y_prime_pos_only/30x19/rows/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\7.bin"
+  },
+  {
+   "form": "uiust",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3534,
+   "hex_120": "51bd06ebb47510065113c3e8f59148a9311ed64038e2ec419f370761e1fd5b1e042002caad49f5445ba36b61694f41668071fede2412a0d06c83e81dc4ae3679e81a06a347ad1cbaa1cae0db2bfc7f221cdc0050b0deeaec2ab355130f6308bd05b2f6991a1e377e904b269b5429e27bfc9602111eb6c0c1",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "faed/Y_prime_pos_only/30x19/rows/nonzero",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\8.bin"
+  },
+  {
+   "form": "ISUUASNUOROEUY",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3685,
+   "hex_120": "acac8f754de8149b18fd3fa0452d4db87c4610521856ac150c060de8570500fc37271a89c1b20c533a3e1358a0171c04f2e39429a3e96792ab33ab8d21fca4fb8ad2fc703bf15bf859171f6f3931d53faa96761fc4307df0a20454c6b5a3bf62e2054357e4cec719f5acc043546541f863c2a49a67dc936f",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "arch_idx1",
+    "sum_list": "poster/all_ordinals/cols/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\9.bin"
+  },
+  {
+   "form": "TCDMWF",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "860656d824e09da1c3b535f151c1b4229355969980758ee737cc6cb91b89e9656b600b2c28593adb1fd8038bfca39c942561d6997192b27884f3647bc30a1fd5e7056a4b1469dd970779b16cd865f6",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "mod26a0",
+    "sum_list": "L2/abs_negatives_only/7x12/cols/nonzero",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\4.bin"
+  },
+  {
+   "form": "hillfexmgsgq",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3738,
+   "hex_120": "3e6d79ef5e1a6231dc18af2da9cca2964c64f34cbaba39cc2b516a0537462c44d227676acd1179d99fdf7363968c9f11ea6d9e94d4f6fb8eef916cf5de2493957e14986e1fb44aa2ed1b8759a86366bff52ad0e572527c859d78abcd439e2a376ef3be88e699938e78eb155f3fbcbc7e8b5c46067fdc93db",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "mod26a0",
+    "sum_list": "L2/values/7x12/cols/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\10.bin"
+  },
+  {
+   "form": "KXDECJQ",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3723,
+   "hex_120": "f4add17b4d6f4c5f13b6648a7a154aabb92cc518a4e5632eb09acaf663b95f435d129feca95eca6d0c1ba7cca085d7967393147c2a907dd0d9f863e27aac6b1191341d9b3d323119f21d6cecab8bfdb91fc8f5a176530a1acb7a66b56f07ac2f81e1acdfb94fe41487c2ea2ea5b956c76b767dd7dd1b4dd7",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "mod26a0",
+    "sum_list": "dbbi/B_prime_values/13x7/cols/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\11.bin"
+  },
+  {
+   "form": "rnkafarbhatfa",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3632,
+   "hex_120": "63615507c4b220062c50e82232d0471e1d35582c650b17178847b8c41c854bda684792bc507c6c7259ef6e7cfdc6b988822e13e0ea5db9221076bcaaaf1dfb309ba6c8ba0820f61fb4c7e9857df6e8167a6ea7163c987578934decce539f10ebbfcd7b0e5606bf95d2b3bdb60b22f96d118f346c51da77a5",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "mod26a0",
+    "sum_list": "dbbi/B_prime_values/13x7/rows/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\12.bin"
+  },
+  {
+   "form": "HALIDLFINHJPI",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3482,
+   "hex_120": "a9459a2a642c95199edc765e5a383c99346d9502b863e8858fee6667c89e743e9e3990b4c4b797d65e34189817a45b650b82236c82e9b346b9b6c7bd26edec89fb5929d6a8cdc029ceab6f341786c997e6a669ae7d58c17edfd565fea2cdc28a712eb8fe4c274f8c21a417f0ec40294762f164f6ad5d3553",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "mod26a0",
+    "sum_list": "dbbi/prime_pos_only/7x13/cols/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\13.bin"
+  },
+  {
+   "form": "CAAAAAFAAADAHAAADAGAAADAAAAALA",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.4177,
+   "hex_120": "78fab6dc609288404792fa4266363bf8ef540fd1197ec6ce38bbf4eeac59236424869778638a38f15b7686e226e02818daa7839114fd35c9f61e4a60ca74d46b35ce1d82bfa994bb077271607c55db",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "mod26a0",
+    "sum_list": "faed/Y_prime_pos_only/19x30/cols/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\5.bin"
+  },
+  {
+   "form": "yopiaachtdmdtb",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3797,
+   "hex_120": "6daa113a2607e3ad5cf49c733f9d9c885b2b35d85b8477a9edcd01605782f0a58bdb784592fd9ea4c7b5549bf8e2a29f67573557dfbfff337e826126fa8e30d0edb3a4ca1b41ff7b412de4fe23e40b",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "mod26a0",
+    "sum_list": "poster/all_primes/rows/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\6.bin"
+  },
+  {
+   "form": "qmjzezqagzne",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.373,
+   "hex_120": "4f2f0a3bf2c5e378f722ac9effc1c4222f8f7bc63caef463526a323d755bb5dc081a83c08e7d94397438c9e897fcbf4a31cd991d358f85f827f2c6db5b8ad2bbe63c77604a83a84c2787f9ab2e1ffbe2b256e7b405a9ce8bb6c7b1fd1a29af19179dceff7d15eeb6f03e844e0be544d3a97cf7b3da977bc6",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "mod26a1",
+    "sum_list": "L2/abs_negatives_only/12x7/rows/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\14.bin"
+  },
+  {
+   "form": "AHNTFGN",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.2911,
+   "hex_120": "ffdfd2953fe624cc2f28973fd2363290ace09a4d1286f51897db386bcdf8884ff9a7f884feb5baacc8b1a2dcbcdcbdebc38183b158e3bedfb160c25ad5396c8150fd566857f6ea60ca59a3d44e1002",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "mod26a1",
+    "sum_list": "dbbi/B_prime_pos_zeroed/7x13/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\7.bin"
+  },
+  {
+   "form": "BJQWZJM",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3587,
+   "hex_120": "133f652964e6c511f7d952eb85f505572bd50e0956c82effe1d7ffb328a1cd0934fbdbbccafc04c25120b5c5194722bf9d7744ef199e1b7162ca515cef7422be1b48e48aa982c1060aa3159d5bf818e8330f4f29c94730c7e2b7990544bed7733558e4f2f302bb81bd3421409418ee7eb322f9bcdb671963",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "mod26a1",
+    "sum_list": "dbbi/Y_prime_pos_only/7x13/rows/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\15.bin"
+  },
+  {
+   "form": "TNTNNXNINX",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4937,
+   "hex_120": "8b2e8b5d6e6d22a5e5581b49e762414f4877a6d5e73ff0ee475f7ba86ae070536fd5a0adce4d336fb50adda9b947f6e5d2336c701025c87de6ee712c48ebdf8732bb372abd821e4c7411eb95f62324",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "mod26a1",
+    "sum_list": "faed/full/10x57/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\10.bin"
+  },
+  {
+   "form": "quroataagizfhvq",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3291,
+   "hex_120": "afa865fc67890968c8cf029b2579c188d95bd6a728d39837aca608b25b7aa42e37160f10c0d7b113a82a1617d58e057cc94b84b0dec85e33cadca57f4927e122e019ada77262146056bfeaefc52e7c",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "mod26a1",
+    "sum_list": "faed/prime_pos_zeroed/15x38/rows/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\8.bin"
+  },
+  {
+   "form": "AOAQTCPNND",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.4177,
+   "hex_120": "994a2410122b214fe9ed2ebe549050fb7fc6c50d55cdeca28c6c217ac0dc4f15225bda4798046617048793d0e9210a41a4f57ad67b1003340b6747e7e39da7642a3735603ca6b8295d1c11d018529a",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "mod26a1",
+    "sum_list": "poster/B_ordinals/cols/nonzero",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\9.bin"
+  },
+  {
+   "form": "a",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.4557,
+   "hex_120": "430ff2b7514d445526c239e85fd8963d892810a086385c641545c9d6af5791a8c8ea4ff5fb765f153375f575c512b955dc9f24de2ac63df4b44e7e75d02da546b4153bd2c21becf1f456d86344362c",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "parity8",
+    "sum_list": "dbbi/Y_prime_pos_only/7x13/cols/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\10.bin"
+  },
+  {
+   "form": "IZ",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3924,
+   "hex_120": "994a99a82b22399192da33779cf111b46f84ad187797c357a14cdb2385179d44a3af1d2c0c73caa1a3f33f69a9b67bbaa87c6ad457d7e96e6a6be83009ca958ab0c9b15ca4494de799fb4a549a4f52",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "parity8",
+    "sum_list": "faed/prime_pos_zeroed/30x19/cols/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\11.bin"
+  },
+  {
+   "form": "by you please above efforts remains of",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4304,
+   "hex_120": "88226c1b69588a7d82eb74c53f16837c5178ac2a0ce03643414a38b2537fdb36a5733f89bed1a508f6559f4d8262173b4e0c832ec45d3216c0d4b869e6d985cf54ac9a86c724d6e899d549152137c0",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "L2/abs_negatives_only/7x12/rows/rev",
+    "form_index": 2
+   },
+   "file": "outputs\\salphaseion_short\\12.bin"
+  },
+  {
+   "form": "PUZZLE AND THE INSTEAD HAVE TEMPORARY EXTINCTION IS YOU IS OF HOPE",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3924,
+   "hex_120": "69211639f3136b3acbfd9960a3d36ff18b32069c7e5a0ead43063853110614e6acc6afb0a2d0c34a403568d5362b7676b520b7ae63b6ffb37041051a198894466da677a8a4394b89d8e887109b47bd",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "L2/negatives_zeroed/12x7/rows/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\11.bin"
+  },
+  {
+   "form": "PUZZLE EVENTUALITY ANOMALY HARMONY DESPITE DESPITE EVENTUALITY THE EVENTUALITY ELIMINATE AN BEEN AN",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3671,
+   "hex_120": "5765dbf408c5854c858305749b2279be859627545237e218cd90a80b9ac3868c56fecd69c5b2bc2d59b6ed5bdd02493e7cfcb1e6d1d7e715132aeb6d2c54f455281cf11de1c595b25612403d0a746c",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/B_prime_pos_zeroed/13x7/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\13.bin"
+  },
+  {
+   "form": "AAREOFSEDULOUSLYITWHATTHIS",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4177,
+   "hex_120": "a4dbf5aee9a749593d3dd16d042dbe42d1446bcd0948ce9e4b396e33fac08e3c309864a0d7e868755643e6e1079a2bcba18f6126acd0425a6f1e4fe20f43a39cd560841148e3b6f7e4631efd195bcc",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/B_prime_values/13x7/cols/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\14.bin"
+  },
+  {
+   "form": "life an of eventuality anomaly to what",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3768,
+   "hex_120": "928a6bef1534171da8d3c99cb906d68ad36e3d6493bfdbfffe611a99f98f39abb9fcbf6f5779ae50febea6c82ea73b8fde60993bbb9f30c32db7ead238130e66d6bb3668e1e15d58c73fcb4987fb14706f64fdc5fcca2f3dae906c7b60ff74853393192ec66497a54aae58e6c775aee4889d88cafefdfb26",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/Y_prime_pos_only/7x13/rows/cumsum",
+    "form_index": 2
+   },
+   "file": "outputs\\cosmic_duality\\16.bin"
+  },
+  {
+   "form": "notityourlastafterneverthelessburden",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.376,
+   "hex_120": "2522e394389c2a770910faf9c55c403efb60023907240f726721269b8a88c93d69ffacd2198c593ea53b5f67bb490f4695b33e31f84e3e1cc3e9ed5d10925b2761a0d1fc0b1475e98f3dadede12812a030a87b8925b90540ffbd3ac9c2d46daef9cae1c8c272f65479417e9c208c36dee4c7762ee92e2cec",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/Y_prime_pos_zeroed/13x7/cols/cumsum",
+    "form_index": 3
+   },
+   "file": "outputs\\cosmic_duality\\17.bin"
+  },
+  {
+   "form": "andyouharmonytoofitnot",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3738,
+   "hex_120": "f2c9da20959b9c0eddf8acde5ab49a53728bc40f0d51dfd298e9700bb51ac149ebc595cd7f7dcc8829f9a9ce94d8bfe449f7d09ca0aa72b99998efe3d04727eb26b69586297567c8078646f4c70cc665df57b524dc3be992423e069b2cbc8d3dd51b65e9bb38c38efdfa3456231ecdaa7f6caeea89283d5e",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/Y_prime_pos_zeroed/13x7/cols/rev",
+    "form_index": 3
+   },
+   "file": "outputs\\cosmic_duality\\18.bin"
+  },
+  {
+   "form": "FROMHAVEEVENTUALITYEFFORTSIEVENTUALITYTHEHAVEOFELIMINATEUNABLEHAVEANOMALY",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "1f91c7849d5ae3d3a758818f4b96f1c6074cf8815ed866f042280d242326ac0eecd9a4ba7ed66e5098fd5b9c251a03fa792f760e17a1d7d0cb50803211577392067d8ff95307f328f0a04325c6fbb6",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/Y_prime_pos_zeroed/7x13/cols/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\15.bin"
+  },
+  {
+   "form": "MY THE HERE MY RESPONSES",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.2911,
+   "hex_120": "6d079df6fdfd9cf090ba568b0e68377b6f2ab2b9dec1a2aafab1a6540abdffa69ad25519ba13a14e73b66e998abd24262caf3efe1ef386a3b2f017a4c1c417dfd23b0bc47084456ef2e56ef258cf48",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/Y_prime_values/13x7/cols/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\16.bin"
+  },
+  {
+   "form": "ofoftoeventualityandmypleasesedulouslywisemancontrolpleasethrophiesothers",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3418,
+   "hex_120": "dab76cbea5afa5b3fe545d19ea13bfa19bf0195d9119356829c26a0cca419c84d1a76553ef5df4873f751abb2c1e00c3440754f937e10966941df27d1af38d774a2db5a0be2ccbff9c57af9e6dec4a",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/coloured_prime_values/13x7/rows/fwd",
+    "form_index": 3
+   },
+   "file": "outputs\\terminal_phase3_2_end\\12.bin"
+  },
+  {
+   "form": "otherwiseunexpectedcompletethat'sthisayou",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3858,
+   "hex_120": "28a75b79dba1594f471dc1a7893643a6aff8215b3560bb29b47c3c88a806c91f302adcb4740e695e1c79bb5005ea704a270fcb4c09d2011a57f1d3e308613f34baa24c4f80fa4c6c945d067c936893e3823d38af1e27ecbf867b99ca3fa12730ab2b4ad1f4e336c23dca33cbf5a91449eec16d7db6ea6122",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/coloured_prime_values/7x13/rows/fwd",
+    "form_index": 4
+   },
+   "file": "outputs\\cosmic_duality\\19.bin"
+  },
+  {
+   "form": "despitefromaeliminateofhavethebeenunablewhatanomalyhavefrom",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "30d3681575c1a212cdc56efd6d61fa9f4fa58b421617a594478d4f1e6e9a868ed5fea8c20b1a1d04b2cded3f6a4049a0e22bb2cee6a07d49b242d17b183e162fc5bcc563f902fd6a1dbf0e3226735a",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/full/7x13/cols/fwd",
+    "form_index": 3
+   },
+   "file": "outputs\\salphaseion_short\\17.bin"
+  },
+  {
+   "form": "ITWISEMANWELLBASICSWILLPOWERDESPITEPLEASE",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4557,
+   "hex_120": "224c6861208f7cd8ef7c4797fd965c7359b00f2956fefa24563af588f7db8b67fa00f373ffef6b9478e30e652d78f68323b1a8356ff85753990a1aae03874c5adf0934896b1953cb542116029d69f9",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/full/7x13/rows/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\18.bin"
+  },
+  {
+   "form": "REMAINDEROFEVENTUALITYEFFORTSISITWHICHYOUMEWASFINDTAKETHE",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3625,
+   "hex_120": "c29a6fcbcaa0084640e6a2f5fb5f3fcc94985e817ba51c7e2f21af599a57cd8380b8bb15ed5fc641f3c9cdb0343cb3838cebbcba475ed50ec3b07ccb57604e02571b1c8dac304535eaa24fb255b7f6030dcdb5b71343893da0141b29429edb1b68f8f14c20a3423f7599816173c3566b74ca61fac9b49577",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/prime_pos_only/13x7/rows/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\20.bin"
+  },
+  {
+   "form": "eventualitywhatthiswhichyoudespiteofofprogrammingwhichianomalywhich",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3038,
+   "hex_120": "28a2764073218dccbd61301042cbc16390f7da002e8cff17ae39f2bda3f67ff2afaa66eff38789c08ce897c52686dc3ed56974d2b4850dfadc1d59045ea144fba7756b67631e8aaa9c1e8ace7ceba4",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "dbbi/signed_Y-B+/13x7/rows/rev",
+    "form_index": 3
+   },
+   "file": "outputs\\salphaseion_short\\19.bin"
+  },
+  {
+   "form": "AYOURSUMAOFOFSUMREMAINDERAANYOUR",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "f3bdaa8bfeaad73024e8f308f51afb90d5c81bb6dbc96da272e350e34a1e828265d4a35e67ed4fd831cd7a9c5c6d4906282b4521272e985c3d8afc4c6749e647b28e8a01b9b4a1f94b7f8eb6b5d6d0",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/B_prime_pos_only/19x30/cols/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\13.bin"
+  },
+  {
+   "form": "eliminateremainderequationisof",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3797,
+   "hex_120": "35f38f93d508f2740a3e3c7303f2d440420323ac29fab92d5344cf8706399353f9d5b5a91e56770595a3e840c9ffe16fed57f0e64d4df843988f452cd8744710fdb849f1bb696171a3f10db4d7f007",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/B_prime_pos_only/30x19/rows/fwd",
+    "form_index": 3
+   },
+   "file": "outputs\\salphaseion_short\\20.bin"
+  },
+  {
+   "form": "life life life life life life a a a a an an of of of of you you anomaly anomaly anomaly anomaly my my my my my my is is",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3745,
+   "hex_120": "3134ab6e753d9e59c8ec4706a09858b7d41ab7de6eaacef88b8f09d54d7c917d261ff3a1f496d96993206c1bd3110fad45331615eed0a7172bc71ba923176c442e0b14fe5934412890e99e0c635df4d2bec04246461c0c327c15f68f732feb47a45cc4645c53170ac83112ccd5fe197bf67cc9d83cdba743",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/Y_prime_pos_only/19x30/cols/cumsum",
+    "form_index": 2
+   },
+   "file": "outputs\\cosmic_duality\\21.bin"
+  },
+  {
+   "form": "ISEQUATIONEQUATIONTHEMYISISISISISISISISISISISISISISISISISISISISISISISISISISISISISISISISIS",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3753,
+   "hex_120": "5a73e92bf04b9961b49ea1fdc8d1cdc2c8b9b3abc9306dcd2835bb1c0833d08750ab305a5c1329bf8a444d83ee94b561024286c6b48e2bc2dd3499b21fc3903748321e977e556278fe756909924c28d2cec1c2633977062646999bd82be3ccdbbee181e9997b2d52071f881b950c455acf0f0f68a33c4073",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/Y_prime_pos_only/38x15/rows/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\22.bin"
+  },
+  {
+   "form": "exceedinglymetowillheretothat'sreallyyou'llandthelifetimeburdenyouif",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4051,
+   "hex_120": "928fdd2274a4f50a76ff3e0535579ec52e8229c7787817179aabc934821bbaeb65e38f986a0057dfbf438b52b65d2dbaedddd508a1da30f35286d53dff743cb1ea3c4c5541bd6c24ae3af1fab14a4f",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/full/38x15/cols/cumsum",
+    "form_index": 4
+   },
+   "file": "outputs\\salphaseion_short\\21.bin"
+  },
+  {
+   "form": "a mathematical of a avoid avoid is a of while of harmony to unexpected unexpected a not while mathematical mathematical burden it you it it thus not burden remains measure thus has measure precision remains sedulously not beyond and is thus a a burden not thus burden measure a from to and and burden sedulously otherwise measure",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3671,
+   "hex_120": "1da3b5aebc98924dd24017ec8061918652c21afb4bb9df57467530674f31c0e82a3a9832c5876413673f50107dd2bd881e0adcc4017e2de8beeeabc9e87388d9835fc09e326bb0c251b6d630be6dad",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/full/57x10/rows/fwd",
+    "form_index": 2
+   },
+   "file": "outputs\\salphaseion_short\\22.bin"
+  },
+  {
+   "form": "despitetoareianomalyyouwhatbeensincerestwhichofofthiswhichidespitehaveofremains",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3587,
+   "hex_120": "583c90668c072eae591b0b4f77694055cec550d3371c73bdd7f2a1f50015d6d4f8f91bfaed35b147cd5d31baf401ab9c82789150d02af1862eb213023f85dc0ea4270787b651d6c324cb1253d05cecefdc4df5df84202446d24b853fdf11bc9e5b93b13ba8ef349dcaeaee811e74378a2f36f66408ed9a64",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/prime_pos_only/19x30/rows/rev",
+    "form_index": 3
+   },
+   "file": "outputs\\cosmic_duality\\23.bin"
+  },
+  {
+   "form": "THEITLASTWORTHSORRYBULLSHITEXCEEDINGLYCODEFINDYOURYOURILEDWASWHATHELPNEVERAEXCEEDINGLY",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3165,
+   "hex_120": "8de98850ef536a4d3b8cd46d04fab247c87f0688188511877ef21a51e0e8d9f1dee96b5114879584a25f84b1a62dd4cc6ec740cd58075267b47f54079078d4a90764da2b619f93cf88d15c6fb70f92",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/prime_pos_only/30x19/cols/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\14.bin"
+  },
+  {
+   "form": "the it last worth sorry bullshit exceedingly code find your your i led was what help never a exceedingly",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3418,
+   "hex_120": "46eb11e66d8a31e4e2f1f2d0d0139a535db72685712fe8bafe5865bf83b5ef9fd5dce08c03a96a7230f5281823271784c5c7bfed5054f465cb6f9491f92cb2ec988e7b5abebb033ea8c3d4932e7536",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/prime_pos_only/30x19/cols/cumsum",
+    "form_index": 2
+   },
+   "file": "outputs\\salphaseion_short\\23.bin"
+  },
+  {
+   "form": "guysinvestmentainsteadyourof",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3919,
+   "hex_120": "592ea67b79a1c1f519be2b2348e199f139ac1d4723de251f2720a6130f31098ac8fbcf0cc4e883a41e15fe8bae155e5fd4ce9c600cb378ab663d4409d46b5b27b6738e232ff3d1de65cbfb2cdf33ef964d08502dca3a3bd25f21a4cf520a9d58da743809434b1d3b81ff9063523fa8fd44516874c51899d0",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/prime_pos_only/57x10/cols/rev",
+    "form_index": 3
+   },
+   "file": "outputs\\cosmic_duality\\24.bin"
+  },
+  {
+   "form": "ABOVE NEVER HINTED YOUVE HUNTING YOU'LL EXPECT EXPECT DENIAL I'M I WELL THIS FINISH THIS",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.2532,
+   "hex_120": "fc281d46790ca7699c7fb2814f46ffc4c91b5ad3cd930f8419c88b14e9871a4995b03c68e2b67aff1970dc458cc70e976e1f641a720f1c83e4df0bae1272e7600286a14b15b3d0c3f1ad2397b0bece",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/prime_pos_zeroed/15x38/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\15.bin"
+  },
+  {
+   "form": "pleaseofanheartrequiredprecisionyouinthat'stothehavesincerestthatentirenessinvestmentafteryouthe",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4304,
+   "hex_120": "b740cc5c7b344c6f0107c178d728cdd0d36b072a3657f639e0071ea35ef058a444eb446fe071b59af1047e7efc7d3d0675a13cf198cd396b2fe575bf99cde62b321b09d76bf26d87b9031e8ab0d773",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/prime_pos_zeroed/19x30/rows/cumsum",
+    "form_index": 4
+   },
+   "file": "outputs\\salphaseion_short\\24.bin"
+  },
+  {
+   "form": "youriinyoutheresultthissayofthat",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3797,
+   "hex_120": "2c6ec040479efb5adc14c968835e033fd1c1e3e605700ed443016a80608df067afb6fd741af2f9b00f6af8be8110549801bd46434b72319f255f62259c7dd6871b9af56d8f13004cc965c8fe67adf0",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "faed/prime_pos_zeroed/57x10/cols/rev",
+    "form_index": 3
+   },
+   "file": "outputs\\salphaseion_short\\25.bin"
+  },
+  {
+   "form": "YOUR PROGRAMMING HARMONY AND ME EARNED EARNED WORTH TO TO WAISTING WAISTING WAISTING HUNTING",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3896,
+   "hex_120": "3bd7e5542c7c3195ab4d4e438f922cd8b3c109a1d5d45062f387a841223b126be52d7d4039b70fb217691a2632a2fbb85ec52b0c4bf16570a17b142297a05e5da074f3552d210aca3229f3612e66f84e8de748a5acf71ee76d466909a4a3dcac8e437b5169a0225e77cddad2bd94f021ea9bc01a90af4f3c",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "poster/B_ordinals/cols/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\25.bin"
+  },
+  {
+   "form": "EVENTUALITYTHUSHEREMYWHILEBYQUESTIONUNBALANCED",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3549,
+   "hex_120": "a0660c7126570785448d85302529ff6ca0cbb1dc99c6721df7bc302f1c9de6d75a7eb3b88198e77c20870cec57fd4fd68bf2a48cc83f17b9add416b7bc82f64ee209925464f73f2abe63884629bc5ee1f845948561c37f6c5c150ac57d75b5e1acdd366e6fccd360cfe768bbe3ac61914f847d1acf125f56",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "poster/Y_primes/rows/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\26.bin"
+  },
+  {
+   "form": "eventuality thus here my while by question unbalanced",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.443,
+   "hex_120": "def65fbe6ed77969dd25253c72745654cad05968847d90b787179b4e5a73a41f0776c3d680fdc8d8141257765c6c1782c0c32ada343944bdd02e1108a08788d753ae0c2eff31e6712b234f6b9fa792",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "puzzle_word_idx1",
+    "sum_list": "poster/Y_primes/rows/rev",
+    "form_index": 2
+   },
+   "file": "outputs\\terminal_phase3_2_end\\16.bin"
+  },
+  {
+   "form": "IVREHXI",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4051,
+   "hex_120": "ae907578ee4fc8f1519903c46e420b8f2f62ab3c7e285be93094016192bddc73f94e12739127bff34b8690741eee1f9230ad756dcf306d4eb4597ac6d7d0ef7ccbdf60fc0e81f9d01a30cd2eed8701",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx0",
+    "sum_list": "dbbi/B_prime_pos_zeroed/13x7/cols/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\26.bin"
+  },
+  {
+   "form": "eeandhh",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.2785,
+   "hex_120": "0a5f531250c66bd20637970ac83d14f7469305f117c704d715927f6ce51571abc4b28029de1de43703fc1d89ae9dc5e6384eb39b6032dc2585b76f0731a2cbaae5dae5f3e57fb34a4afa500ce6c952",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx0",
+    "sum_list": "dbbi/Y_prime_values/13x7/cols/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\17.bin"
+  },
+  {
+   "form": "eeettvv",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3165,
+   "hex_120": "02d51f17d5b0f2cd928392718c8dd4b814eee54f493c75a8478c50129ee81b3a89431ef324bae67cc0c4f0ba5186c313a2374c294e35047f0c309735aeae53d7f1d2a4de73184f01fc27cc924bd377",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx0",
+    "sum_list": "dbbi/prime_pos_zeroed/7x13/rows/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\27.bin"
+  },
+  {
+   "form": "autmhriuttecc",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.4557,
+   "hex_120": "cd58025f402ba7738e3ced2093d62376c998f8ddab6f6f3ee9eeec60a9c846ba8c66976e83d0ca688e778e1f53ff3f43b6f28a5b45710b8d5bd59e645549c257950469522723b209b71a541b616e16",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx0",
+    "sum_list": "dbbi/signed_Y+B-/13x7/rows/fwd",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\18.bin"
+  },
+  {
+   "form": "hhhohhhhhahhhhhnhhhhhhhhhnhlhlhhhhhehh",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3418,
+   "hex_120": "93103192f29bd11f958101363c2c884f2aa4292839d7f6992ea250c6afa6788431bfa1fa18aa5ed86fb4dc5fe202d0e709b2c9e24acb820f6428c7ee59f670b9c92869a39c93ea91bb4d659c50af32",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx0",
+    "sum_list": "faed/Y_prime_pos_only/15x38/cols/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\19.bin"
+  },
+  {
+   "form": "OWUFHSUUNOOUGEY",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3866,
+   "hex_120": "77176d5974ac61e32c415dd075fa32a9df464271c97cbece506b5491e5c8eb52be3a141763e653fde1d15b58f4cfc655dd8a29535d8b34f4532267ef8b3c30add24f3c9a246bec541bb5d2c8672a4f177e2084b85444469928d232acd787f8ab2b0f05801f86d59e22cb556e6e2a14c6353af185003d12a2",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_idx0",
+    "sum_list": "faed/prime_pos_zeroed/15x38/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\27.bin"
+  },
+  {
+   "form": "REEEHOICDAOINWI",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.2658,
+   "hex_120": "9711e62ca2fcf00db6a08dbbcc5ea559de74e8b2999bae6ff8e891de4896913524af5db113e73d1979aab6b160f4c0bf57409743975bc9d8e11cb5bb3f57a84ab2f303f5076443b8b19eb2dbd7b594",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx0",
+    "sum_list": "faed/prime_pos_zeroed/38x15/cols/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\20.bin"
+  },
+  {
+   "form": "URETCAEBITAE",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3671,
+   "hex_120": "30e750f47f504bda35eedf7ee6fac3c24d8a9ddbf477da230f05f857f55e9dcb2c6bc677ac486b834e77307bc202adde3685df4c29dd1691b729ee8a5c1dabfd101debf9cfffc542f4adff35ee436c",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "L2/abs_negatives_only/12x7/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\28.bin"
+  },
+  {
+   "form": "ucssiihhhhii",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4051,
+   "hex_120": "4a8638356c51b283fd898f0d309200d195a6679d75cacb291b35bae71b02d1417aef706da8f9ce3c79e610aed2d0216846269fc22b07d66354e2f953044534d3086ab5ac2fba6e61602be8e616f2f0",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "L2/abs_negatives_only/7x12/cols/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\29.bin"
+  },
+  {
+   "form": "HCUSTMIINITA",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3924,
+   "hex_120": "b548ab094e0cca552bf954d1c8a7a97b24ceb7a595464493920ab6460ddc3355130a322f823c3c5a756769247b0ef209161a1ed9d942de30f93b1c68e9a69455cd4c413fcc86f72fcfe0a2aa84eb1c",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "L2/negatives_zeroed/12x7/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\30.bin"
+  },
+  {
+   "form": "eoenlooeh",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3851,
+   "hex_120": "94829d3c28f9e777c0ff2e04a8b05b758e4c3c3bbf375103db15f38b084a2721ffb32bc73619f1d1e98e1c1edc0fddf3a0a87c96d9ebb7a32558ab5cde6accc173cbe1015c37e45814971527077e08839f0562c49bd3e0202a8ce1754def886c0cb1316b732353739a18639ae0e127d6397e13a931124a6b",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "dbbi/Y_prime_pos_only/13x7/rows/nonzero",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\28.bin"
+  },
+  {
+   "form": "EOOTXGN",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3617,
+   "hex_120": "39d05e95c63777fce82f9b90aade9d87ee05eb75eef79fe48e2100d22df5286ac2092345cf021bc67eaa3445355e42e506791cda9790790164faf2163f2e378729c181574361b325d486c81f3c29a7a961405c14440b0c8c2a0f6504ecc57d069f372c5ee2baf1c546007c1fefaa3c1ecf9746decd6f99ef",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "dbbi/full/7x13/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\29.bin"
+  },
+  {
+   "form": "eaurrmo",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "db8e4261bf5afbdeffa5f81c98056760650706bd0b01568c5f9818127ad01a7e7b458cd27f46761f2598b508f91534bde8333c19fce18a3582e37659ef4af778de7880ec31b59531bf66ffe4047309",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "dbbi/prime_pos_only/13x7/cols/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\31.bin"
+  },
+  {
+   "form": "ETEAIAT",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3806,
+   "hex_120": "7cdc0a54bdeb717e1ed63e52ef9941e7aa1f28844c14f1a4f56ce2f1c9970305e238a9d7977f2421eb58a0c2d8db53066e7416bf253ed8ef75c6b3235bd832e9edf66dcee9c7dd0b89d66693a69114bf7dfa6545a4520a5c1c034a8d0e7a4b2f014e84a3b726cd6ebfd437f07eeeb1392d30910cbaf58c9e",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "dbbi/signed_Y-B+/13x7/cols/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\30.bin"
+  },
+  {
+   "form": "TTTTTTTTTTTTNYA",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "c478737e4b40c893d2331a2a1903791b98dd60c7560a7fa7fc096abe279f53e549a5da8b29f07168ff0883f860a58b1d0dd20a48f5a9f5c3f6d38f0b9afce85079b2653845535f688b0669b293dfdb",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "faed/B_prime_pos_only/15x38/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\21.bin"
+  },
+  {
+   "form": "ATOTTTTTTTTTTTTTTTT",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3753,
+   "hex_120": "b533183f86916bae2f43bc2e39436a257b2e876a570ba1c294fc0c866bd5a89fe6e4bbc4c28b50704a9ff107d9fa7b33b548a6346b8bd3828ca8b7675ec2ca7abdc04db126bd6495f5b05f984e78da8599fb360c77fc4e5146d13609fdc91b8a7b9f3ab8e40fa2ce7f4e7e81250281e6949812c9f1a11bba",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "faed/B_prime_pos_only/19x30/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\31.bin"
+  },
+  {
+   "form": "ttttttttttttttttttttttttttttttttneooyh",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3723,
+   "hex_120": "f9c5b94695ac0111338b9d039de8a07adcf0f28d4e6dc4f4baceb4ca92d975c8a4628a5a8c2a2cbf1c3c118757998715429390bc403506594abf194dae41f963add1dace6ea693538bfd95ae5ce51134ce00fc868825e96075ed6b22f00533f7e946434e248f3db02766a3dade257b2e47357ca9b2ae0b66",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "faed/B_prime_pos_only/38x15/rows/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\32.bin"
+  },
+  {
+   "form": "dsfloloucyloshw",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3715,
+   "hex_120": "9ea357ccccdae0a6289940cea5ecf44722d12605112566df08bb27b320db146adeb39f429a351ddbaad548b8ae33ce8b18e1fb0115c0445cacf43329e5fe5bbddffd86114accc91e0a32505cfdd59522fb6364d52400f24b6ce10039187339c731709c70bb4b289d018a1b438e75ef4a836378433086da8c",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "faed/full/15x38/rows/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\33.bin"
+  },
+  {
+   "form": "tsuwaszynafbaluqtiehlyamiamtcnrrtpsvnteobhndtysnssthmwoar",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3418,
+   "hex_120": "f76c41aac73e74ca1256ef61383327adefbe1a1e0bcb454b21440ddf2884bd80ac026393e76d0844ecb81e9e0dde32618fea51aa0bf1de5320110589ceaed75f0ce0149ba8e6f42420a54bb5c0c246",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "faed/prime_pos_zeroed/10x57/cols/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\terminal_phase3_2_end\\22.bin"
+  },
+  {
+   "form": "NTTEVSTANLAUSHSAEYUAUTENIGAOUE",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "a35d0dc57952e4ef75ff84577cd7b47563c00973ae9f58884c02e6fcca73cf3072dfb4f404179dab1f04da88b21c406edc4fcc294c2efdbf4e4b7e050cc4b4eba59a9832d3fe6a50a7bacbf8509c63",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "faed/prime_pos_zeroed/30x19/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\32.bin"
+  },
+  {
+   "form": "NOACAEIEIYMTDT",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3655,
+   "hex_120": "10469978a8659f42314cbf12ce98375d49c28dec3832715bde72eb405864f07f9297621107af01a44a5192a3ae9cff9d30fabf877a4b0c7cf0bb3735740e54423468ea4149a77aaf547a00e342b02cc737a8b210780268beb88ac0dccaa70facc96346b4d09c2460ebe26e59486d0e555e6164a372759f43",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_idx1",
+    "sum_list": "poster/bits/rows/cumsum",
+    "form_index": 0
+   },
+   "file": "outputs\\cosmic_duality\\34.bin"
+  },
+  {
+   "form": "WAS IRRELEVANT ELIMINATE PRECISION YOU NOT FOR",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3797,
+   "hex_120": "5cfce9395c3b18abca6c2b3b8892ee34fb9a488cf2d0297f8448c0c6f582129b5fb72421a14d584df559f906e9a676eac54df1986dda169217f741af02c5e140376677f53f3e8300e8f48da4358453",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "L2/abs_negatives_only/7x12/rows/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\23.bin"
+  },
+  {
+   "form": "YOUUNDERSTANDALSOTOOFKNOWSIXTHGATHERINGQUITEINAGAINANSWERTHE",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.481,
+   "hex_120": "d4272d391878aa03c3b52f4bba2de5bf724f38535b25b94eaf2580d7d22f455b4e233296629bbee0513b5cd57c48fd692601ad7bee0ccf17b93bd79f695e084dead5f414f16624b08c237e0c10e095",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "dbbi/B_prime_pos_zeroed/13x7/rows/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\33.bin"
+  },
+  {
+   "form": "NEOAMIVEIVEIVEIVEIVETHEALTEREDSOMEANSWERSANSWERSANSWERS",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.4115,
+   "hex_120": "e8840c2fd3fbdc4dd66df36b6a13b9714d2e24f95247536ef88e9b5134a6fa4ba170b0b33615cb376bb2f2583c285d705ced3e84d0e86605f24667189636023382e7eaf2dcc4d67df626163fd45b2b040a1d5f9ece0d3bf95b9e3d1d27ef1f3a01aa9c353d291ad63412983e8a3b17e792d04a3811ad0528",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "dbbi/Y_prime_pos_only/7x13/cols/cumsum",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\35.bin"
+  },
+  {
+   "form": "EXPLANATIONSISAMWHICHYOUR",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3941,
+   "hex_120": "fa98b592064d2e03a35a3aa5301623084c1915b2f166183f53644206cf6ec55dfc4d5620394eedf4e9e7831328dabb46d7874df24dea00b5d504ec473525e0e7db43d23bb3d8707b58844a77e36a37a24e6184d1ebee026a81ec86cb4313cc1fa3731493b23439aa181e7a0730c2c2e7454542b38cc474bd",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "dbbi/Y_prime_values/13x7/cols/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\cosmic_duality\\36.bin"
+  },
+  {
+   "form": "AN AND MAY MATHEMATICAL YOUR IS THE",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3671,
+   "hex_120": "9ced318b5a98487df6c2fd89d24835038020a83f89a610f0b707a7da72f94458fa05a02e987a1b29ebc6a0414d28fa0f2c0dcbc712b2b97cc3d9fa662bd31f0ea4187e42ec4a17d37748459c2ff036",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "dbbi/Y_prime_values/7x13/cols/rev",
+    "form_index": 0
+   },
+   "file": "outputs\\terminal_phase3_2_end\\24.bin"
+  },
+  {
+   "form": "youifirstpertinentnotmostthe",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.358,
+   "hex_120": "3318110e128ae6338b38e327bcd3323453fd01ef2088935ba6310f57f6cee48bf483fd643a2ca6c410271c6acb9769a8f8026f7efc5bbc90e8d0424342e54a6c46339aaaab15bd66955de8d26bb92fb5eb5bbbe2124489f46239fadb9fa8f507c601aa2b71375820be5512191975d6cd0d8e72613c2135f7",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "dbbi/full/13x7/cols/rev",
+    "form_index": 3
+   },
+   "file": "outputs\\cosmic_duality\\37.bin"
+  },
+  {
+   "form": "mytocontrolemergencefluctuationsconsequencemind",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3797,
+   "hex_120": "f6e54b81dc20d001007828a44bcfe09cffacde0823528b17a739bc3e6849dadda845d591df751d7469caefcf72a2f5f4bf29d10e3961309b4feb305fa7bd398f374e0262bc330056ea1951e6f7e2c0",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "dbbi/prime_pos_zeroed/7x13/rows/cumsum",
+    "form_index": 3
+   },
+   "file": "outputs\\terminal_phase3_2_end\\25.bin"
+  },
+  {
+   "form": "neoamamiveiveyouyouyouyouyouyouandthethetheirrevocablyirrevocablyyouyouyouyouyouyouyouthemthemthemthemthemfirstfirstfirstfirstfirstfirstquestionquestionquestionquestionmaymayororororororororororititititit",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3797,
+   "hex_120": "8504bf2ee745374d8dccb70d8fa4d7e4cf9844be1e12ba3964f18726ad29ed3b65fbcd948a70cc032e79ae46fb7b9555e9edc476a13439d447a111a1a151743eb9de54d84bbb6917f8689ff422bc6c",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/B_prime_pos_only/10x57/cols/cumsum",
+    "form_index": 4
+   },
+   "file": "outputs\\salphaseion_short\\34.bin"
+  },
+  {
+   "form": "i neo you waiting been questions",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.443,
+   "hex_120": "d62a2f67b677359b049accb14c8dd07b6d94c6d325df3d56415de4627402288a76c20ecbc23dc9c342976c5dd906c9313480fb2f8f38669f1f32f69de9193fe4a59928ec944b23c929be5b48629317",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/B_prime_pos_only/38x15/rows/rev",
+    "form_index": 2
+   },
+   "file": "outputs\\terminal_phase3_2_end\\26.bin"
+  },
+  {
+   "form": "been the",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3038,
+   "hex_120": "d3449a7b9bc57f8c67fc6e91892f8086c7cb9bf1edf668fbf7dd5f13a5b3ef8686f773dc4464c724cdb1e8f576211d5f16f8913937884b0733a26fa8c9065b8f6019af03ece3abc33fc31b35d155e5",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/Y_prime_pos_only/10x57/rows/fwd",
+    "form_index": 2
+   },
+   "file": "outputs\\salphaseion_short\\35.bin"
+  },
+  {
+   "form": "ELUDEDFAILUREMINDPARAMETERSANOTHERPARAMETERSFAILUREUNDERSTANDHUMANBASED",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4177,
+   "hex_120": "6f9167c7715668761127362880dfcd377e104b08ff18bb94186b08f4448d62acfc35631c2f4ff47995acfa999f8b2e45425ed87a16db9eb5acdc616c0b0c33842209b1195f6e89f8037235848e95c3",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/full/10x57/rows/rev",
+    "form_index": 1
+   },
+   "file": "outputs\\salphaseion_short\\36.bin"
+  },
+  {
+   "form": "OF THAN QUESTION THUS COUNTING QUESTION WHICH THIS ONE THAN TWO HAVEN’T WHICH OTHERS EMERGENCE ANOMALY CONTROL FROM THE",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "ce88c61bbc07c294f66b6f7fbf6eb7874a25246e1654f23b509a8d495ecada95e96470c8d6c74afb52fdead07ea0d597dea229e72fee1fd0f08a66fa40306efbddd7c40868eefece337300db5e2c14",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/full/19x30/rows/fwd",
+    "form_index": 0
+   },
+   "file": "outputs\\salphaseion_short\\37.bin"
+  },
+  {
+   "form": "inwasfivewouldtwonearlyletbutinherentcomesourcebeginninganthusbecause",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.3544,
+   "hex_120": "6929b5bce1483ccbdc8ebe4e9463a57e186e1bc64d139dd413a626c82483ca7b6747b137dfff574d2915e689836d99dcd4a3e024cd139c00f3a41e165292e8f7f084bc720e36d99e11246c6b682cda",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/full/38x15/cols/cumsum",
+    "form_index": 3
+   },
+   "file": "outputs\\terminal_phase3_2_end\\27.bin"
+  },
+  {
+   "form": "concordantly you of the art again father near of it matrix race reading she the the strength your i of counting problem i matrix obviously denial will you is to back is you not from you choice of i this its to in human far the reaction if of here assiduously this triumph frustrated i choice because",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.4557,
+   "hex_120": "16a42694ca5ef441dbf53e9829df72546339aafd18b2594568874ea933d937eee299d48151b95322e9ab70f5cd658c89d0e669ec4c61d55e1ef0eef95961837e02a2de3726253166297cddaa27dd2a",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/full/57x10/rows/cumsum",
+    "form_index": 2
+   },
+   "file": "outputs\\salphaseion_short\\38.bin"
+  },
+  {
+   "form": "understandfirstofismytheyourconcordantlyorwhy",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3647,
+   "hex_120": "d8f7b1cd56e6870e036a4094fc5944f5a7ecb48662d298c5b335e1ae857bf1935d2c26de92c066d3d5c479ed5c10eb3f92df4382d6513311f280728795a774ad708f481ce52b8149b99ba786e8b51447128880e30252405b41208a9e4d0e0afd5f71cf1bac1b2615b640cfd00e85205acd480bd10f69adff",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/prime_pos_only/10x57/rows/rev",
+    "form_index": 3
+   },
+   "file": "outputs\\cosmic_duality\\38.bin"
+  },
+  {
+   "form": "the to thus prefer one naturally being understand investigate they unchecked are have code this",
+   "envelope": "terminal_phase3_2_end",
+   "pad": 1,
+   "printable_ratio": 0.4051,
+   "hex_120": "cb2b3c40a19589742f7d3cc6609e5d2aa1e257b914c2a1fa37d81d9f23a3ace0f118d52c0d0e8b197658f857b27cc1bc2bb7e321612ba138c5ed8a5a2129b942be6506b1d653f56b70097e06c4c51e",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/prime_pos_only/15x38/rows/cumsum",
+    "form_index": 2
+   },
+   "file": "outputs\\terminal_phase3_2_end\\28.bin"
+  },
+  {
+   "form": "amunbalancedampertinentmostammayyoumaymay",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3165,
+   "hex_120": "b45fefa6eea3da85828d4bfbe54b433762a6139696cfb1f50ecacf1ab76a7ef7c3fea9b1fe548cba469dd6aa1f4b9a1c47ec57ac6009790a9d3886fdd7db329e31c11e711d5829aa6c04204df86c7f",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "faed/prime_pos_only/38x15/cols/rev",
+    "form_index": 3
+   },
+   "file": "outputs\\salphaseion_short\\39.bin"
+  },
+  {
+   "form": "YOUTHEI’VEMATRIXHASHELLOFORAMHAVEWAITINGANDI",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3655,
+   "hex_120": "ffc9e5eea0aa3c3081864d9868ae091cf6e7b6f2ed3dabaacd8693536ddb90b4e0c018c2fe3a36d97d7d7d70d66b27d000c6ea68e18d065bd632624ab8f63dedb81355bb1b7c2ab49ffaec98baf2af676ce119c3ff1ef005b60b05d2c0cd687d956c0564c2d7ca558196a9275135d48a826356462a5cb650",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "poster/B_ordinals/rows/rev",
+    "form_index": 2
+   },
+   "file": "outputs\\cosmic_duality\\39.bin"
+  },
+  {
+   "form": "created the was you your am may and",
+   "envelope": "salphaseion_short",
+   "pad": 1,
+   "printable_ratio": 0.3418,
+   "hex_120": "da58a5c17974e442b5ad8d181925fa79d41df18d88bba398827a9579734c47ddbf23b5251760b39a14beba5a16b53bbffb2f81fd16e7ec1ad26627e81f3e7036a9ebb7739622cda5295cde7a91b08c",
+   "plaintext_len": 79,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "poster/Y_primes/rows/fwd",
+    "form_index": 2
+   },
+   "file": "outputs\\salphaseion_short\\40.bin"
+  },
+  {
+   "form": "created human concordantly most of has of which gathering a now redesigned i failure",
+   "envelope": "cosmic_duality",
+   "pad": 1,
+   "printable_ratio": 0.3625,
+   "hex_120": "a9f0f66a0e7af84f4d0b1fd818f54b64d730f2e62c2c55bac33dc10b91874a902fe0ced68e5a4fd94243d16a55f8a5b98fccbda131f62d98ef64c7ccaad23a16247426cc0512299c63fe6d20a8035b2b199d02e210bc8ada8f139eb718a57d2758933de79cafbb858c73a51cb26463a0aa225e6b0c346453",
+   "plaintext_len": 1327,
+   "provenance": {
+    "decode_family": "sm_word_idx1",
+    "sum_list": "poster/all_ordinals/rows/cumsum",
+    "form_index": 2
+   },
+   "file": "outputs\\cosmic_duality\\40.bin"
+  }
+ ],
+ "notable": []
+}

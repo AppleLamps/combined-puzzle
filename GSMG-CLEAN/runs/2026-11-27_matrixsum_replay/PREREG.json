@@ -1,0 +1,19 @@
+{
+  "hypothesis": "The 9,236 text forms from the #8446 matrix-sum pipeline, tested under the pinned gsmg profile against 3 envelopes, produce no pad>=3 output on Cosmic Duality and no key match on any envelope.",
+  "source_support": [
+    "2026-09-13 matrixsum pipeline run produced 9,236 unique forms across 12 decode families and 552 sum lists. The 2026-11-27 cosmic null-validity audit marked the original run INVALID because pad-valid plaintexts were not retained."
+  ],
+  "operand": "552 sum lists (sum_lists.json from runs/2026-09-13_matrixsum_pipeline), decoded by 12 families (a1z26, mod26a0, mod26a1, ascii, parity8, decimal_bytes, arch_idx0, arch_idx1, sm_idx0, sm_idx1, puzzle_word_idx1, sm_word_idx1), producing 4,677 real outputs expanded to 9,236 unique text forms via text_forms().",
+  "operation": "Each form is tested as a candidate against 3 locked envelopes (terminal_phase3_2_end, salphaseion_short, cosmic_duality) using the gsmg profile: passphrase = lowercase hex of sha256(form) as 64 ASCII bytes, EVP_BytesToKey SHA-256 1 iteration, AES-256-CBC, strict PKCS#7.",
+  "predicted_artifact": {
+    "type": "known_address",
+    "detail": "A correct Cosmic Duality decrypt should read as unity of opposites before any address check. Any valid-padding plaintext containing a Bitcoin private key (raw32, hex64, WIF, base64) that derives to Half (1GSMG1JC9wtd...) or Better Half (17ucy1K9ZUA...) hash160 would be a hit."
+  },
+  "acceptance_rule": "Hit = pad>=3 on cosmic_duality (chance ~1/16.8M per decrypt), any Half or Better Half hash160 key match on any envelope, or a plaintext that reads as language. Pad 1-2 at chance rate (~1/256 per decrypt) is the null.",
+  "controls": {
+    "planted": "Synthetic Salted__ envelope whose passphrase is sha256-hex of a planted string, decrypted through the same gsmg profile loop; must report as notable.",
+    "null": "Pad 1-2 count must be consistent with Poisson expectation (lambda = N_decrypts * 255/256 / 256) at the chance rate."
+  },
+  "candidate_bound": 9236,
+  "aes_use": "none"
+}

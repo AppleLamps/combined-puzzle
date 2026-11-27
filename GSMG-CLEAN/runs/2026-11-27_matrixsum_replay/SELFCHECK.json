@@ -1,0 +1,8 @@
+{
+  "outcome": "passed",
+  "prereg_sha256": "71eae87ac4ab3438f9623df72c973666ee26f59372e1822f42cfd372c84bc790",
+  "evidence_file": "selfcheck_evidence.json",
+  "evidence_sha256": "3c5c1109c7383ca901cac8e4d27e745ee6fa8f0f8e48489f28e170928a35e7fc",
+  "recorded_utc": "2026-11-27T18:17:58Z",
+  "note": "9236 forms regenerated, 0 splitlines breakers, selftest passed, planted control passed (pad=7)"
+}

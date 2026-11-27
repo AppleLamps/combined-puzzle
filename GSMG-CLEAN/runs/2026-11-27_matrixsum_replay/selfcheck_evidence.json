@@ -1,0 +1,10 @@
+{
+  "forms_count": 9236,
+  "expected": 9236,
+  "match": true,
+  "splitlines_breakers": 0,
+  "forms_sha256": "1ae404a0b6d8e97d91fd6c2f71d2374e73c4b95db8ca9015be41e80a98dcfcb2",
+  "provenance_sha256": "22d0a904f9b50887a178671a28e4a66b729598e9f3093b48f4f084ab013e7de2",
+  "selftest": "PASSED (envelope open, hash160 of Half pubkey, EC k=1, WIF, raw/hex detectors, pattern helper)",
+  "planted_control": "PASSED (pad=7, synthetic envelope with gsmg profile)"
+}
