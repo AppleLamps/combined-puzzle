@@ -1,0 +1,54 @@
+{
+  "source": {
+    "path": "D:\\gsmg-11.27.26\\result.json",
+    "sha256": "bd5dae69fa6c9ad479cb149276b4a2abfc5e2034d2f387c201fe8c0a7209cfc2",
+    "bytes": 35956882,
+    "chat": "GSMG Puzzle Solvers",
+    "chat_id": 1166734859
+  },
+  "creator_account_id": "user9815232",
+  "exclusive_cutoff_id": 81838,
+  "timezone": "America/New_York",
+  "method": "Compare distinct message IDs for type=message and from_id matching the creator. Count service records with matching actor_id separately. Compare the entire analyst export against the union of the repository September direct-message IDs and the section 8d PUZ IDs. Convert date_unixtime from epoch seconds to America/New_York.",
+  "repository_baseline": {
+    "september_raw_export": "gsmgio-5btc-puzzle-sept/telegram-export-gsmg-group/result.json",
+    "september_creator_ids": 492,
+    "september_catalog_crosscheck": "GSMG-CLEAN/telegram/sourcebooks/CREATOR_MESSAGES.md",
+    "catalog_and_raw_id_sets_equal": true,
+    "november_supplement": "GSMG-CLEAN/02_CREATOR_HINTS.md",
+    "supplement_section": "8d",
+    "november_creator_ids": 19,
+    "unique_creator_ids": 511
+  },
+  "records_total": 71915,
+  "direct_creator_messages": 511,
+  "unique_creator_message_ids": 511,
+  "service_events_by_creator": {
+    "count": 18,
+    "actions": {
+      "invite_members": 2,
+      "join_group_by_link": 1,
+      "remove_members": 15
+    },
+    "first_id": 65,
+    "last_id": 4306
+  },
+  "direct_messages_plus_service_events": 529,
+  "analyst_only_creator_ids": [],
+  "repository_only_creator_ids": [],
+  "last_creator_message": {
+    "id": 81838,
+    "date_local": "2026-11-13T15:13:40-05:00",
+    "date_unixtime": 1794600820,
+    "reply_to_message_id": 81836,
+    "text": "42"
+  },
+  "records_after_cutoff": 1886,
+  "latest_record_after_cutoff": {
+    "id": 83873,
+    "date_local": "2026-11-27T12:25:08-05:00",
+    "date_unixtime": 1795800308
+  },
+  "creator_messages_after_cutoff": [],
+  "raw_export_added": false
+}

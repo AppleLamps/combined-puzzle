@@ -1,0 +1,37 @@
+{
+  "hypothesis": "One of the supplied fresh-eyes strings opens a locked puzzle envelope under the gsmg profile.",
+  "source_support": ["User-supplied candidate list dated 2026-11-27, preserved in supplied order below."],
+  "operand": [
+    "bullshit", "requiredto", "afterwhichyouwillberequiredto", "hushhush", "enterthispassword",
+    "thispassword", "privatekey", "PRIVATEKEY", "479484", "cosmicduality", "yingyang", "yinyang",
+    "matrixsumlistlastwordsbeforearchichoice", "takethisprivatekeyyouveearnedit", "takeprivatekeyyouveearnedit"
+  ],
+  "operation": "Emit each string verbatim followed by its lowercase form. Deduplicate exact UTF-8 bytes in first-seen order. Record the list before testing each string once on each cc.ENVELOPES entry using cc.try_envelope with gsmg only.",
+  "candidates_sha256_lf": "78e2357e3229f490a82c7deebc968e4a7ddd08c5a7f84b05a95843d31f44072f",
+  "envelope_sha256": {
+    "terminal_phase3_2_end": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9",
+    "salphaseion_short": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+    "cosmic_duality": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+  },
+  "predicted_artifact": {
+    "type": "known_address",
+    "detail": "Run cc.find_keys on the saved bytes of every strict pad-valid plaintext (pad 1 through 16) and check both Half and Better Half. Report all retained plaintexts even without a matching key."
+  },
+  "acceptance_rule": "Report all real pad lengths >=2, and inspect every retained output for coherent text, with printable fraction recorded. A key hit requires a target match from cc.find_keys. Count planted results separately. A failed control invalidates the real run.",
+  "controls": {
+    "harness": "cc.selftest must pass, including opening the known Phase 3.2 envelope.",
+    "planted": "Process the independently encrypted fixture below with the real candidate list through the same decrypt, retain and scan loop. Only for the fixture, add the uncompressed k=1 hash160. requiredto must return the specified 207 bytes (verified by SHA-256) at pad 1 and hit raw32, hex64, WIF and base64. Restore and verify the real target set before testing the three locked envelopes.",
+    "null": "Under uniform independent wrong decrypts, pad exactly 1 has probability 1/256. Report expected count, P(X >= observed) and P(X = 0) from the exact binomial model per envelope and pooled."
+  },
+  "fixture": {
+    "answer": "requiredto",
+    "key_hash160": "91b24bf9f5288532960ac687abb035127b1d28a5",
+    "pad": 1,
+    "bytes": 207,
+    "plaintext_sha256": "357056d3750b104507acc26e562c6a3dd05c405468265aec8580a0970fee61fb",
+    "envelope_base64": "U2FsdGVkX1/y5aIcEScAAQV/LkGwJq32w4Vh0FMYORP8t8i5ab78bZuEmCZBYw1QiDOKuCRqLqgoU9+QC+1i8v+1ZyDd5MDHMahoy9VzUtAqvhCB9Kg9qlfBtbcRmcq5d58KHsTa4r47IFVVNC2CXB3BWorwvB6pr/skMSW/hm8mZUJ7u/ljKGIJvgDbt31Kp3K6Txgj+KKRtIVJmsq+I+Syd+hmJmA77nv5q4ion2AS5OkCYe7z5TM8Q21PTO7KMpN6sFuFe+HTy3KnT7Dl+kaDaGpqwPg48FFY6YRlSw8="
+  },
+  "real_target_hash160": ["a9553269572a317e39f0f518cb87c1a0ee1dbae4", "4bc468447fe1b048ad030a2f9a125478eabc4ed6"],
+  "candidate_bound": 15,
+  "aes_use": "none"
+}

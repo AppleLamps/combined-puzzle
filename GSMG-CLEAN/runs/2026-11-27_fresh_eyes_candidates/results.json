@@ -1,0 +1,97 @@
+{
+  "prereg_sha256": "93af931f27f1273a98e05d80e721651ce0688780ddfd4c23ea84bec05e43e33c",
+  "profile": "gsmg",
+  "supplied": 15,
+  "forms_before_dedupe": 30,
+  "candidates": 15,
+  "controls": {
+    "selftest_passed": true,
+    "planted_passed": true,
+    "target_set_restored": true,
+    "histogram": {
+      "planted": {
+        "0": 13,
+        "1": 2
+      }
+    },
+    "retained_and_scanned": [
+      {
+        "envelope": "planted",
+        "candidate": "requiredto",
+        "pad": 1,
+        "bytes": 207,
+        "file": "controls/planted/cand_02.bin",
+        "sha256": "357056d3750b104507acc26e562c6a3dd05c405468265aec8580a0970fee61fb",
+        "printable_fraction": 0.8454106280193237,
+        "find_keys_hits": {
+          "raw32@6": [
+            "PLANTED k=1 (uncompressed)"
+          ],
+          "hex64@39": [
+            "PLANTED k=1 (uncompressed)"
+          ],
+          "WIF@104": [
+            "PLANTED k=1 (uncompressed)"
+          ],
+          "base64@156": [
+            "PLANTED k=1 (uncompressed)"
+          ]
+        }
+      },
+      {
+        "envelope": "planted",
+        "candidate": "takethisprivatekeyyouveearnedit",
+        "pad": 1,
+        "bytes": 207,
+        "file": "controls/planted/cand_14.bin",
+        "sha256": "c0f07274ce36d2090c489f22d663de01601303ad678949b271423854b84c87dd",
+        "printable_fraction": 0.37681159420289856,
+        "find_keys_hits": {}
+      }
+    ]
+  },
+  "pad_histograms": {
+    "terminal_phase3_2_end": {
+      "0": 15
+    },
+    "salphaseion_short": {
+      "0": 15
+    },
+    "cosmic_duality": {
+      "0": 15
+    }
+  },
+  "pad1_by_envelope": {
+    "terminal_phase3_2_end": {
+      "decrypts": 15,
+      "pad1": 0,
+      "expected": 0.05859375,
+      "p_at_least_observed": 1.0,
+      "p_zero": 0.9429816178384981
+    },
+    "salphaseion_short": {
+      "decrypts": 15,
+      "pad1": 0,
+      "expected": 0.05859375,
+      "p_at_least_observed": 1.0,
+      "p_zero": 0.9429816178384981
+    },
+    "cosmic_duality": {
+      "decrypts": 15,
+      "pad1": 0,
+      "expected": 0.05859375,
+      "p_at_least_observed": 1.0,
+      "p_zero": 0.9429816178384981
+    }
+  },
+  "pad1_total": {
+    "decrypts": 45,
+    "pad1": 0,
+    "expected": 0.17578125,
+    "p_at_least_observed": 1.0,
+    "p_zero": 0.8385127689997235
+  },
+  "pad_ge2_count": 0,
+  "retained_and_scanned": [],
+  "plaintexts_with_key_hits": 0
+}
