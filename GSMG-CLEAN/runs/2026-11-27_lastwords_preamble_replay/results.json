@@ -1,0 +1,190 @@
+{
+  "seal": "637593e3485a5bcaa2cb5f9e5089e399e537b7fbbf823f2c5b133070644a6a6f",
+  "profile": "gsmg",
+  "unique_before_exclusion": 620,
+  "excluded": [
+    "yinyang"
+  ],
+  "candidate_count": 619,
+  "solver_only_extra_candidates": 176,
+  "histograms": {
+    "terminal_phase3_2_end": {
+      "0": 618,
+      "1": 1
+    },
+    "salphaseion_short": {
+      "0": 616,
+      "1": 3
+    },
+    "cosmic_duality": {
+      "0": 614,
+      "1": 5
+    }
+  },
+  "pad1": {
+    "terminal_phase3_2_end": {
+      "decrypts": 619,
+      "pad1": 1,
+      "expected": 2.41796875,
+      "p_at_least_observed": 0.9113184734093777
+    },
+    "salphaseion_short": {
+      "decrypts": 619,
+      "pad1": 3,
+      "expected": 2.41796875,
+      "p_at_least_observed": 0.43519175542073185
+    },
+    "cosmic_duality": {
+      "decrypts": 619,
+      "pad1": 5,
+      "expected": 2.41796875,
+      "p_at_least_observed": 0.09774225881542616
+    }
+  },
+  "pooled": {
+    "decrypts": 1857,
+    "pad1": 9,
+    "expected": 7.25390625,
+    "p_at_least_observed": 0.3043647994069999
+  },
+  "pad_ge2": 0,
+  "retained_and_scanned": [
+    {
+      "envelope": "terminal_phase3_2_end",
+      "candidate": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112amiherewakeupyouivedesignedyouabeautifulstrategicpositiononeforonefourforonematrixsumlist",
+      "pad": 1,
+      "bytes": 79,
+      "file": "outputs/terminal_phase3_2_end/cand_164.bin",
+      "sha256": "0c7ff76e434aa6ee36f71d8632f80bd016104d117f9a24d068c1f936f76e9a3f",
+      "printable_fraction": 0.35443037974683544,
+      "find_keys_hits": {}
+    },
+    {
+      "envelope": "salphaseion_short",
+      "candidate": "... am i here? wake up, you... i've designed you a beautiful strategic position. one for one, four for one.15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112479yinyang",
+      "pad": 1,
+      "bytes": 79,
+      "file": "outputs/salphaseion_short/cand_38.bin",
+      "sha256": "280c28aecffad11ba74206d2e2aeecf5f21ca4179ed5d175da58a1f9a0352183",
+      "printable_fraction": 0.379746835443038,
+      "find_keys_hits": {}
+    },
+    {
+      "envelope": "salphaseion_short",
+      "candidate": "verylaststepisatruegiveawaypromised15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112",
+      "pad": 1,
+      "bytes": 79,
+      "file": "outputs/salphaseion_short/cand_481.bin",
+      "sha256": "928c50beb10d3e7dfd22b0b51cd8917810b2abb2873763f1205f9517bf5b748c",
+      "printable_fraction": 0.35443037974683544,
+      "find_keys_hits": {}
+    },
+    {
+      "envelope": "salphaseion_short",
+      "candidate": "yinyang... am i here? wake up, you... i've designed you a beautiful strategic position. one for one, four for one.",
+      "pad": 1,
+      "bytes": 79,
+      "file": "outputs/salphaseion_short/cand_564.bin",
+      "sha256": "d0720f21d2df114a3300dfcf283341f150ba1768cb4980078a732e2345c77e78",
+      "printable_fraction": 0.34177215189873417,
+      "find_keys_hits": {}
+    },
+    {
+      "envelope": "cosmic_duality",
+      "candidate": "... am I here? Wake up, you... I've designed you a beautiful strategic position. One for one, four for one.Raising the stakes without extra chances of winning. A fubcd-king & oracle-queen, thingky mvps, on a sad board but as wide as the first one seen.479yinyang",
+      "pad": 1,
+      "bytes": 1327,
+      "file": "outputs/cosmic_duality/cand_18.bin",
+      "sha256": "5f05182d1251f96e98e42bc5de7149b60947991d3548fafac21f78186a5ea945",
+      "printable_fraction": 0.38281838733986434,
+      "find_keys_hits": {}
+    },
+    {
+      "envelope": "cosmic_duality",
+      "candidate": "... am I here? Wake up, you... I've designed you a beautiful strategic position. One for one, four for one.Raising the stakes without extra chances of winning. A fubcd-king & oracle-queen, thingky mvps, on a sad board but as wide as the first one seen.yellowblueprimes",
+      "pad": 1,
+      "bytes": 1327,
+      "file": "outputs/cosmic_duality/cand_24.bin",
+      "sha256": "c8832417a4cc18e0c5c1a66314143866ef0186eecc175911d9bc71366ce8fb0b",
+      "printable_fraction": 0.36850037678975134,
+      "find_keys_hits": {}
+    },
+    {
+      "envelope": "cosmic_duality",
+      "candidate": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112... am I here? Wake up, you... I've designed you a beautiful strategic position. One for one, four for one.479yinyang",
+      "pad": 1,
+      "bytes": 1327,
+      "file": "outputs/cosmic_duality/cand_104.bin",
+      "sha256": "4245dae96faeaeb6bc0270bd2e64d5df400f8134085123f2a9ac950a50853ff6",
+      "printable_fraction": 0.386586284853052,
+      "find_keys_hits": {}
+    },
+    {
+      "envelope": "cosmic_duality",
+      "candidate": "AMIHEREWAKEUPYOUIVEDESIGNEDYOUABEAUTIFULSTRATEGICPOSITIONONEFORONEFOURFORONERAISINGTHESTAKESWITHOUTEXTRACHANCESOFWINNINGAFUBCDKINGORACLEQUEENTHINGKYMVPSONASADBOARDBUTASWIDEASTHEFIRSTONESEENyinyang",
+      "pad": 1,
+      "bytes": 1327,
+      "file": "outputs/cosmic_duality/cand_272.bin",
+      "sha256": "be16e6c87465a82a919295e11d01a1d8c86cad1b94990fa83d62df06d90ced49",
+      "printable_fraction": 0.3775433308214017,
+      "find_keys_hits": {}
+    },
+    {
+      "envelope": "cosmic_duality",
+      "candidate": "yinyang479...amIhere?Wakeup,you...I'vedesignedyouabeautifulstrategicposition.Oneforone,fourforone.",
+      "pad": 1,
+      "bytes": 1327,
+      "file": "outputs/cosmic_duality/cand_586.bin",
+      "sha256": "4f5568058d11579c02010f6eb09324aa20ec44a0a0d7ef7cb60fc188e7d78ff9",
+      "printable_fraction": 0.38206480783722685,
+      "find_keys_hits": {}
+    }
+  ],
+  "plaintexts_with_key_hits": 0,
+  "controls": {
+    "selftest": true,
+    "planted_passed": true,
+    "targets_restored": true,
+    "histogram": {
+      "planted": {
+        "0": 13,
+        "1": 2
+      }
+    },
+    "retained_and_scanned": [
+      {
+        "envelope": "planted",
+        "candidate": "requiredto",
+        "pad": 1,
+        "bytes": 207,
+        "file": "controls/planted/cand_02.bin",
+        "sha256": "357056d3750b104507acc26e562c6a3dd05c405468265aec8580a0970fee61fb",
+        "printable_fraction": 0.8454106280193237,
+        "find_keys_hits": {
+          "raw32@6": [
+            "PLANTED k=1 (uncompressed)"
+          ],
+          "hex64@39": [
+            "PLANTED k=1 (uncompressed)"
+          ],
+          "WIF@104": [
+            "PLANTED k=1 (uncompressed)"
+          ],
+          "base64@156": [
+            "PLANTED k=1 (uncompressed)"
+          ]
+        }
+      },
+      {
+        "envelope": "planted",
+        "candidate": "takethisprivatekeyyouveearnedit",
+        "pad": 1,
+        "bytes": 207,
+        "file": "controls/planted/cand_14.bin",
+        "sha256": "c0f07274ce36d2090c489f22d663de01601303ad678949b271423854b84c87dd",
+        "printable_fraction": 0.37681159420289856,
+        "find_keys_hits": {}
+      }
+    ]
+  }
+}

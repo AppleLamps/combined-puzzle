@@ -1,0 +1,65 @@
+{
+  "envelope_sha256": {
+    "terminal_phase3_2_end": "291dfd6f3e759ec2e272b35a00c24907da70c3e7a9291b4c13605c7b0b4f3de9",
+    "salphaseion_short": "9e2831e1b34b5f34796df47ccaf6530d48d371c61a6bff84d60db1064fa7a258",
+    "cosmic_duality": "b18950551a4dd0cb8a9378f0906ba18c03a15f0ee83eb98c6bc90165c5f79805"
+  },
+  "real_target_hash160": [
+    "a9553269572a317e39f0f518cb87c1a0ee1dbae4",
+    "4bc468447fe1b048ad030a2f9a125478eabc4ed6"
+  ],
+  "fixture": {
+    "answer": "requiredto",
+    "key_hash160": "91b24bf9f5288532960ac687abb035127b1d28a5",
+    "pad": 1,
+    "bytes": 207,
+    "plaintext_sha256": "357056d3750b104507acc26e562c6a3dd05c405468265aec8580a0970fee61fb",
+    "envelope_base64": "U2FsdGVkX1/y5aIcEScAAQV/LkGwJq32w4Vh0FMYORP8t8i5ab78bZuEmCZBYw1QiDOKuCRqLqgoU9+QC+1i8v+1ZyDd5MDHMahoy9VzUtAqvhCB9Kg9qlfBtbcRmcq5d58KHsTa4r47IFVVNC2CXB3BWorwvB6pr/skMSW/hm8mZUJ7u/ljKGIJvgDbt31Kp3K6Txgj+KKRtIVJmsq+I+Syd+hmJmA77nv5q4ion2AS5OkCYe7z5TM8Q21PTO7KMpN6sFuFe+HTy3KnT7Dl+kaDaGpqwPg48FFY6YRlSw8="
+  },
+  "predicted_artifact": {
+    "type": "known_address",
+    "detail": "Run cc.find_keys on the saved bytes of every strict pad-valid plaintext (pad 1 through 16) and check both Half and Better Half. Report all retained plaintexts even without a matching key."
+  },
+  "aes_use": "none",
+  "hypothesis": "A requested closing-line candidate opens one of the three puzzle envelopes.",
+  "source_support": [
+    "Phase 3.2 plaintext and 5g-puzzle/analysis/lastwords.py",
+    "Creator reply #39237 designates yinyang as the next phase."
+  ],
+  "operand": {
+    "PRE": {
+      "start": 336,
+      "stop": 443,
+      "text": "... am I here? Wake up, you... I've designed you a beautiful strategic position. One for one, four for one."
+    },
+    "DIG": {
+      "start": 1990,
+      "stop": 2139,
+      "text": "15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112"
+    },
+    "RID": {
+      "start": 2143,
+      "stop": 2288,
+      "text": "Raising the stakes without extra chances of winning. A fubcd-king & oracle-queen, thingky mvps, on a sad board but as wide as the first one seen."
+    }
+  },
+  "operation": "Use PRE, DIG, PRE+DIG, DIG+PRE, PRE+RID, DIG+RID, RID+DIG without delimiters; reuse all seven legacy forms and both orders of all eleven EXTRA tokens, including empty forms. Deduplicate, subtract the previous run's exact candidate strings and sort in ASCII order. Tag every EXTRA containing yinyang as solver-only.",
+  "candidate_bound": 619,
+  "candidates_sha256_lf": "5efe242deffdea18b068ee2142949b07ce675e7a047ed01548eca6fa71ab0004",
+  "excluded": [
+    "yinyang"
+  ],
+  "sources": {
+    "5g-puzzle/analysis/lastwords.py": "be5cd70656bffb2f64f737ea2917f904d03580f44e48cfc44ff6be1c7ce73b72",
+    "GSMG-CLEAN/data/phase3_2_plaintext.bin": "b82afeb86f9e50848220f9b64b744b821400308aea273a1c949b9d2d0e408a34",
+    "GSMG-CLEAN/runs/2026-11-27_fresh_eyes_candidates/candidates.txt": "78e2357e3229f490a82c7deebc968e4a7ddd08c5a7f84b05a95843d31f44072f",
+    "GSMG-CLEAN/runs/2026-11-27_fresh_eyes_candidates/replay.py": "1ac2ad642112f04c8c5251c36daaa0edbf72b9a3f4f1ac817d3122c1aa86ff68",
+    "GSMG-CLEAN/tools/check_candidate.py": "d164ba16d2632d87ee89dcf44451cc0d262441ce5a9f0c821044273713d66f1a"
+  },
+  "acceptance_rule": "Use cc.try_envelope gsmg only with strict PKCS#7. Save every valid result including pad 1 and call cc.find_keys on the saved bytes for both puzzle targets. Inspect all survivors for readable text. Report exact binomial P(X >= observed) for pad 1, independently per envelope.",
+  "controls": {
+    "harness": "cc.selftest opens Phase 3.2",
+    "planted": "Replay the previous fixture and its 15 original candidates using its same scan function. Verify the requiredto digest, 207 bytes, pad 1 and all four k=1 readings. Compare the full control records to the previous run; restore real targets before real decrypts.",
+    "null": "Under independent uniform wrong decrypts P(exact pad 1)=1/256."
+  }
+}
