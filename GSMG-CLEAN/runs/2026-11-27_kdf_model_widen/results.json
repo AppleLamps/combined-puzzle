@@ -1,0 +1,405 @@
+{
+  "confirmation": [
+    {
+      "envelope": "terminal_phase3_2_end",
+      "raw_decoded_len": 96,
+      "first_16_hex": "53616c7465645f5fb45a5e3d827593ca",
+      "salted_magic": true,
+      "salt_hex": "b45a5e3d827593ca",
+      "ciphertext_len": 80,
+      "validated_round_trip": false
+    },
+    {
+      "envelope": "salphaseion_short",
+      "raw_decoded_len": 96,
+      "first_16_hex": "53616c7465645f5f3ab585348552415d",
+      "salted_magic": true,
+      "salt_hex": "3ab585348552415d",
+      "ciphertext_len": 80,
+      "validated_round_trip": false
+    },
+    {
+      "envelope": "cosmic_duality",
+      "raw_decoded_len": 1344,
+      "first_16_hex": "53616c7465645f5f2d3f6fe06dc950e6",
+      "salted_magic": true,
+      "salt_hex": "2d3f6fe06dc950e6",
+      "ciphertext_len": 1328,
+      "validated_round_trip": false
+    },
+    {
+      "envelope": "phase3_2_control",
+      "raw_decoded_len": 2448,
+      "first_16_hex": "53616c7465645f5feefc4c5befc1656a",
+      "salted_magic": true,
+      "salt_hex": "eefc4c5befc1656a",
+      "ciphertext_len": 2432,
+      "validated_round_trip": true
+    }
+  ],
+  "control_phase32": [
+    {
+      "form": "literal",
+      "kdf": "evp-md5",
+      "iv": "derived",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "literal",
+      "kdf": "evp-md5",
+      "iv": "zero",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "literal",
+      "kdf": "evp-sha256",
+      "iv": "derived",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "literal",
+      "kdf": "evp-sha256",
+      "iv": "zero",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "literal",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "derived",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "literal",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "zero",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "sha256hex",
+      "kdf": "evp-md5",
+      "iv": "derived",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "sha256hex",
+      "kdf": "evp-md5",
+      "iv": "zero",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "sha256hex",
+      "kdf": "evp-sha256",
+      "iv": "derived",
+      "pad": 10,
+      "pt_len": 2422,
+      "opens_phase32": true
+    },
+    {
+      "form": "sha256hex",
+      "kdf": "evp-sha256",
+      "iv": "zero",
+      "pad": 10,
+      "pt_len": 2422,
+      "opens_phase32": false
+    },
+    {
+      "form": "sha256hex",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "derived",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "sha256hex",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "zero",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "rawdigest",
+      "kdf": "evp-md5",
+      "iv": "derived",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "rawdigest",
+      "kdf": "evp-md5",
+      "iv": "zero",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "rawdigest",
+      "kdf": "evp-sha256",
+      "iv": "derived",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "rawdigest",
+      "kdf": "evp-sha256",
+      "iv": "zero",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "rawdigest",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "derived",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    },
+    {
+      "form": "rawdigest",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "zero",
+      "pad": 0,
+      "pt_len": null,
+      "opens_phase32": false
+    }
+  ],
+  "candidates": 19106,
+  "source_counts": {
+    "step2-84cell-decode": 78,
+    "chat-fragment": 589,
+    "step3-lastwords": 15676,
+    "step2-84cell-digits": 36,
+    "standing-84cell": 5,
+    "step23-selection": 2720,
+    "step4-label": 6
+  },
+  "forms": [
+    "literal",
+    "sha256hex",
+    "rawdigest"
+  ],
+  "elapsed_sec": 178.1,
+  "matrix": [
+    {
+      "envelope": "terminal_phase3_2_end",
+      "kdf": "evp-md5",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 229,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "terminal_phase3_2_end",
+      "kdf": "evp-md5",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 229,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "terminal_phase3_2_end",
+      "kdf": "evp-sha256",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 233,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "terminal_phase3_2_end",
+      "kdf": "evp-sha256",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 233,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "terminal_phase3_2_end",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 210,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "terminal_phase3_2_end",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 210,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "salphaseion_short",
+      "kdf": "evp-md5",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 207,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "salphaseion_short",
+      "kdf": "evp-md5",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 207,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "salphaseion_short",
+      "kdf": "evp-sha256",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 237,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "salphaseion_short",
+      "kdf": "evp-sha256",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 237,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "salphaseion_short",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 219,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "salphaseion_short",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 219,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "cosmic_duality",
+      "kdf": "evp-md5",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 226,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "cosmic_duality",
+      "kdf": "evp-md5",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 226,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "cosmic_duality",
+      "kdf": "evp-sha256",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 230,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "cosmic_duality",
+      "kdf": "evp-sha256",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 230,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "cosmic_duality",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "derived",
+      "tests": 57318,
+      "pad_ge_1": 200,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    },
+    {
+      "envelope": "cosmic_duality",
+      "kdf": "pbkdf2-sha256-10000",
+      "iv": "zero",
+      "tests": 57318,
+      "pad_ge_1": 200,
+      "pad_ge_1_expected": 223.9,
+      "pad_ge_3": 0,
+      "pad_ge_3_expected": 0.0034,
+      "structured": 0
+    }
+  ],
+  "hits": [],
+  "excluded": "whole-message hashed-raw sweep; 83-cell parse; new password families",
+  "standing": "84-cell parse, 23 prime tokens, 16 b and 7 be"
+}
