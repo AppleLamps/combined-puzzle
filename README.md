@@ -12,6 +12,10 @@ statements in it that the ledger contradicts.
 Last checked against the chain, the chat and the live site on 2026-11-10:
 [`GSMG-CLEAN/17_STATE_REFRESH_2026-11-10.md`](GSMG-CLEAN/17_STATE_REFRESH_2026-11-10.md).
 
+KDF check on the two unopened envelopes (2026-11-27):
+[`GSMG-CLEAN/19_KDF_MODEL_CHECK_2026-11-27.md`](GSMG-CLEAN/19_KDF_MODEL_CHECK_2026-11-27.md).
+EVP-MD5 and PBKDF2 do not open them, and a zero IV does not fail the padding gate.
+
 The working rules set on 2026-11-10 (no envelope sweeps, preregistration before every experiment,
 the derivation gate in `GSMG-CLEAN/tools/check_candidate.py`) were removed on 2026-11-27. New findings
 still go in `GSMG-CLEAN/` as a numbered document plus a `runs/` directory.
