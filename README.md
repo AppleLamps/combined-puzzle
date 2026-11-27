@@ -16,7 +16,7 @@ Connections and reasoning traps across docs 01 to 17 (2026-11-27):
 [`GSMG-CLEAN/18_CONNECTIONS_AND_REASONING_2026-11-27.md`](GSMG-CLEAN/18_CONNECTIONS_AND_REASONING_2026-11-27.md).
 A thinking pass, not a solve: no envelope opened, no key derived.
 
-KDF check on the two unopened envelopes (2026-11-27):
+KDF check on the three unopened envelopes (2026-11-27):
 [`GSMG-CLEAN/19_KDF_MODEL_CHECK_2026-11-27.md`](GSMG-CLEAN/19_KDF_MODEL_CHECK_2026-11-27.md).
 EVP-MD5 and PBKDF2 do not open them, and a zero IV does not fail the padding gate.
 

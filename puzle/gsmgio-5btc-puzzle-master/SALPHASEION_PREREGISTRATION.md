@@ -426,7 +426,7 @@ v40 explicitly sweeps this ~107-char slice under bounded formatting rules:
 with SHA-256.
 
 **Constraint Adherence & Provenance:**
-Offset 479 is exact and authenticated by the Tier-1 Yin-Yang milestone (`Blue 484 - prime 5 = 479`). The text at this offset explicitly reads `PRIVATEKEY...`. 
+Offset 479 is solver-fitted (`Blue 484 - prime 5 = 479`, consecutive-prime assignment and 0-based letters-only indexing are solver-selected; creator #39224 on 2025-04-28 and #60314 on 2026-03-03 state that `yinyang` / the next phase remains unreached). The text at this offset explicitly reads `PRIVATEKEY...`. 
 The 7-phrase order (`matrixsumlist`, `lastwordsbeforearchichoice`, `yinyang`) is the established, creator-stated sequence. 
 Because no matrix dimensions (like 20x53), no suffix length `k`, and no specific complement arithmetic (`255-x` vs `26-x`) can be strictly forced by Tier-1 evidence for this specific 1060-character text, we abandon treating the sequence as a mathematical operation. Instead, we use the phrases as exact string literals, concatenating them to avoid arbitrary solver selections.
 

@@ -10,7 +10,7 @@
 
 **Labels.** [quote] = his words, re-read in the source. [fact] = public record from a named source. [inference] = my reading. Confidence: high / medium / low.
 
-**Unreachable or empty.** No creator X/Twitter account surfaced in search. The Steemit GSMG post needs JavaScript and did not load. The GSMG Intercom help centre returns 404. The barrystyle image (#8310) is not in the export ("File not included"). I did not find the source of the name "Witteveen" in anything I read; treat it as solver-supplied until someone cites it.
+**Unreachable or empty.** No creator X/Twitter account surfaced in search. The Steemit GSMG post needs JavaScript and did not load. The GSMG Intercom help centre returns 404. The barrystyle image (#8310) is committed at `originals/cosmic_duality_images/barrystyle_2022-12-11_cosmic_duality.png` (`sha256 3a9b0a6ecacef83e1ef9f688303105570b3dcae95fd82be75f1fcbd2f5fddd04`). I did not find the source of the name "Witteveen" in anything I read; treat it as solver-supplied until someone cites it.
 
 ---
 
@@ -49,7 +49,7 @@ Exact words, with location. I found **no statement in which he describes combini
 |---|---|---|
 | gsmg.io SalPhaseIon page, second `<h1>` | "Cosmic Duality" (heading over the second textarea; first heading is "SalPhaseIon") | **Creator-authored**. He never wrote "cosmic" or "duality" in chat, but he did write it on the site. [fact, high] |
 | PUZ #8446, 2023-02-23 (binary, reversed) | "yellowblueprimes matrixsumlist lastwordsbeforearchichoice **yinyang** wewontgiveawaythepassword itsinfrontofyoureyesbutyourenotseeingit verylaststepisatruegiveawaypromised" | yinyang is a named waypoint in his own roadmap. [quote, high] |
-| PUZ #8311, #8315, 2022-12-11 | ".... That is very specific" / "If the puzzle is solved you'll see how scary specific that is 😂" | Reply to barrystyle #8310, who said he "googled a phrase which would be assumed to be part of a hint". The image is not in the export; the sibling repo records it as the Time-Life *Cosmic Duality* cover. That book is *Mysteries of the Unknown: Cosmic Duality* (1991, ISBN 0809465175, subjects "Polarity; Dualism") with a cosmic yin-yang on the cover (archive.org record; two resale listings). [quote high; image identity medium] |
+| PUZ #8311, #8315, 2022-12-11 | ".... That is very specific" / "If the puzzle is solved you'll see how scary specific that is 😂" | Reply to barrystyle #8310, who said he "googled a phrase which would be assumed to be part of a hint". The image is committed at `originals/cosmic_duality_images/barrystyle_2022-12-11_cosmic_duality.png` (`sha256 3a9b0a6ecacef83e1ef9f688303105570b3dcae95fd82be75f1fcbd2f5fddd04`), showing the Time-Life *Cosmic Duality* cover (*Mysteries of the Unknown: Cosmic Duality*, 1991, ISBN 0809465175, subjects "Polarity; Dualism") with a cosmic yin-yang on the cover. [quote + fact, high] |
 | PUZ #8328, 2023-01-08 | "@barrystyle, provided a very specific hint already." | He re-pointed the room at that image a month later. [quote, high] |
 | PUZ #9599, 2023-08-06 | "Probably the last hint: Once you hit a \"ying yang\", you'll be able to solve it the same day." | [quote, high] |
 | PUZ #39224, 2025-04-28 | "Did anyone found yingyang? I don't think so, you guys are so smart, when yingyang is reached, 2 hours max." | [quote, high] |

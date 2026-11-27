@@ -1,6 +1,6 @@
 # 17 - State refresh: what changed outside this folder, and what it corrects
 
-**Status (2026-11-10): UNSOLVED.** The prize is unspent, the creator has not posted since 2026-09-01,
+**Status (2026-11-10): UNSOLVED.** The prize is unspent, no creator message was newer than 2026-09-01 in the 2026-10-08 export (superseded by the November 2026 creator messages added in `02_CREATOR_HINTS.md` §8d),
 and the live puzzle pages are byte-for-byte what this folder holds. This file records a check of every
 outside source the ledger depends on and the corrections that follow. Evidence is in
 `runs/2026-11-10_state_refresh/`.
@@ -95,8 +95,8 @@ checks itself, and none is proposed here.
 
 ## 4. Creator messages
 
-No creator message is newer than #70377 (2026-09-01) in any export, and none of the 492 creator texts
-differs between the 2026-09-13 and 2026-10-08 exports. Three forwards of old creator posts appear in
+No creator message was newer than #70377 (2026-09-01) in the 2026-09-13 or 2026-10-08 exports, and none of the 492 creator texts
+differs between those two exports. **Update (2026-11-27):** later creator messages (#80667–#81838, 2026-11-10 to 2026-11-13) appear in the November 2026 export and are recorded verbatim in `02_CREATOR_HINTS.md` §8d. Three forwards of old creator posts appear in
 the new messages (#71762, #71913, #73195); they repeat known text.
 
 Creator messages cited by the community walkthrough and missing from 02 until now:

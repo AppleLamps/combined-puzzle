@@ -874,3 +874,12 @@ the continuation text names on the **140-character post-479 suffix** itself.
 | Status | Attempt | Evidence and exact scope |
 | --- | --- | --- |
 | **NEGATIVE (bounded)** | Every committed file in this repository (1,599 files, 209.7 MB, 29 gzip wayback bodies decompressed) parsed by the shared cross-repository gate for raw 32-byte windows (binary files), hex, WIF, mini, base64, decimal and sha256(file) keys; **15,870,086 unique scalars gated against Half and Better Half under both serializations, 0 prize** | `prize_gate_rescan.json`, `../docs/PRIZE_GATE_RESCAN.md`, `solver/prize_gate.py` (constants from `solver.targets`), `tests/test_prize_gate.py`; media and archives skipped by extension; uncommitted or gitignored outputs (v38/v39 manifests) not covered |
+
+## Known record defects
+
+- **14e v50-B:** claims 102,991 materials and 1,235,892 attempts, but `puzle/gsmgio-5btc-puzzle-master/intertwined_password_coherence_audit.json` (from `puzle/gsmgio-5btc-puzzle-master/solver/intertwined_password_coherence_audit.py` run with `--limit=400`) records 400 materials and 4,800 attempts, and plaintexts were discarded.
+- **v51:** the 864-trial 74-word follow-up has no artifact (`puzle/gsmgio-5btc-puzzle-master/v51_hashthetext_format_audit.json` records only the 1,850-trial sweep).
+- **v53:** `puzle/gsmgio-5btc-puzzle-master/v53_red_resistor_audit.json` records no candidate count.
+- **v40 to v42:** cited at wrong relative paths (the artifacts are in `puzle/gsmgio-5btc-puzzle-master/results/salphaseion_faed_slice_audit.json`, `results/v41_479_literal_concat.json`, and `results/v42_s91_middle_block.json`), and they record no controls and no Cosmic AES trials.
+- **kdf_model_widen:** was titled two envelopes (fixed in `README.md` and `GSMG-CLEAN/19_KDF_MODEL_CHECK_2026-11-27.md`) but tested three (`GSMG-CLEAN/runs/2026-11-27_kdf_model_widen/REPORT.md`, `results.json`) and retained 0 plaintexts.
+- **`GSMG-CLEAN/runs/2026-11-27_cosmic_null_validity/REPORT.md`:** wrongly excluded `gsmg-haiku/review_leads` `hash_scope` as non-Cosmic; `gsmg-haiku/review_leads/run_new_leads.py` (lines 29–30) and `hash_scope.py` (lines 12, 16) include Cosmic decrypts, ran no solved-phase control (`gsmg-haiku/review_leads/HASH_SCOPE_REPORT.md` line 96), and gated on Half only.

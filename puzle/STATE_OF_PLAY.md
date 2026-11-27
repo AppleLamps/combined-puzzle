@@ -1,5 +1,7 @@
 # State of play — GSMG.IO 5 BTC puzzle
 
+> **Provenance & update note (2026-11-27):** The six-answer Cosmic Duality key model is a group hypothesis (`#8978`, `#9735` by `user6249502156`, not the creator; the creator's own line is `#9599`). Per creator `#39237` (2025-04-28, replying to `#39233`), `yinyang` is the name of the next phase (reached after decoding an AES ciphertext), so appending `"yinyang"` as a literal password token is a solver convention. The bounded three-family `gsmg`-profile replay [`2026-11-27_review_candidates`](../GSMG-CLEAN/runs/2026-11-27_review_candidates/REPORT.md) (commit `a28a8c7`, 20 candidates × 3 envelopes = 60 decrypts) returned **NULL**.
+
 Last updated 2026-08-06. One page. Read this first, then
 [`CLAUDE.md`](CLAUDE.md) for discipline and [`docs/ATTEMPT_LOG.md`](docs/ATTEMPT_LOG.md)
 for the full record. The funded key has **not** been recovered.

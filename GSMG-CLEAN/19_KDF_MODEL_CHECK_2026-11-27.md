@@ -1,4 +1,4 @@
-# 19 — The decryption model for the two unopened envelopes
+# 19 — The decryption model for the three unopened envelopes
 
 **Status: unsolved.** No locked envelope opened. Evidence: `runs/2026-11-27_kdf_model_widen/REPORT.md`.
 

@@ -17,7 +17,7 @@
 - **Cite by id, not by count.** Counts shift between exports; ids are stable within a chat.
 - **Policy changed.** Early on, "no hints" (#898 [digest]) was the rule. Many hints came later.
 - **Contradictions exist.** See the end of this file.
-- **Words he never wrote.** The creator never wrote "btcseed", "Bifid", "cosmic" or "duality". Any link from those words to him is a solver inference.
+- **Words he never wrote.** The creator never wrote "btcseed" or "Bifid", and never wrote "cosmic" or "duality" in Telegram. His own page heading in `originals/pages/salphaseion_phase3.html:19` reads `<h1> Cosmic Duality </h1>`. Any link from "btcseed" or "Bifid" to him is a solver inference.
 
 ## 1. Envelope, format and "same software"
 
@@ -53,7 +53,7 @@
 |---|---|---|---|
 | PUZ #9599 | 2023-08-06 | 'Probably the last hint: Once you hit a "ying yang", you'll be able to solve it the same day.' | [checked] |
 | PUZ #39224 | 2025-04-28 | "Did anyone found yingyang?… when yingyang is reached, 2 hours max." | [checked] |
-| PUZ #39237 | 2025-04-28 (edited same day) | "It's the next phase, but I await the day someone finally gets there." | [checked] Reply to #39233 (silver_anth, not the creator): "is yinyang found after decoding an AES ciphertext?" **Caveat:** #39233 shows edited 2025-08-26, which may be a reaction bump. |
+| PUZ #39237 | 2025-04-28 (edited same day) | "It’s the next phase, but I await the day someone finally gets there." | [checked] **Load-bearing.** Reply to #39233 (2025-04-28, silver_anth, not the creator): "is yinyang found after decoding an AES ciphertext?" — yinyang is the next phase, reached after decoding an AES ciphertext. **Caveat:** #39233 shows edited 2025-08-26, which may be a reaction bump. |
 | PUZ #23159 | 2024-03-26 | "I prefer superpositions 😉." | [checked] About "one or zero". |
 
 ## 4. Doors
@@ -122,7 +122,7 @@
 | PUZ #66962 | 2026-07-16 (edited 07-18) | "Latetly, I'm working with many NOTES." | [checked] **Reply to #66958** "Waiting for the 'NOTE: that is a hint.' moment", so it reads as a joke echo. This weakens the music-notes (*noten*) reading (07 §3). |
 | PUZ #70311 | 2026-09-01 | "A. I rushed (t)it. / B. Yes, have quite some time for stupid stuff." | [checked] |
 | PUZ #70336 | 2026-09-01 | "Couple hours, and no." | [checked] |
-| PUZ #70377 | 2026-09-01 | "Same same" | [checked] Reply to "two sloppy days". This is the last creator message in the export. |
+| PUZ #70377 | 2026-09-01 | "Same same" | [checked] Reply to "two sloppy days". Last creator message in the 2026-09-13 / 2026-10-08 exports; see §8d for November 2026. |
 | PUZ #53342 | 2025-12-31 | Encoded message | [checked] It decodes to 'Happy new year! Make the best of everything. Oh, and here's a "tiny hint" <3.' The full sequence is in `sourcebooks/NEW_YEAR_SEQUENCE.md`. |
 | PUZ #3338 | 2020-04-08 | "Those hints are the last hints. Although I can say that one team managed to find something..." | [checked] |
 | PUZ #20224 | 2024-01-26 | "🤐" | [checked] Reply to "our first hint is your last command". |
@@ -151,7 +151,7 @@
 
 ## 8c. Added 2026-11-10 from the state refresh (all [checked] in the 2026-10-08 export; 17 section 4)
 
-No creator message is newer than #70377 (2026-09-01), and no creator text differs between the 2026-09-13 and 2026-10-08 exports.
+No creator text differs between the 2026-09-13 and 2026-10-08 exports. Later creator messages from November 2026 are in §8d below.
 
 | id | date | text | notes |
 |---|---|---|---|
@@ -164,6 +164,36 @@ No creator message is newer than #70377 (2026-09-01), and no creator text differ
 | PUZ #66595 | 2026-07-12 | "(And yes, the btc is still available before you fire any questions)." | |
 
 Not the creator: #7616 (2021-05-06, a deleted solver account) first posted the exact text to hash; #73708 and #73710 (2026-09-26, Ugur Keser) are the `317/557` and `137/143` numbers (16 section 4).
+
+## 8d. November 2026 (all [checked] in `D:\gsmg-11.27.26\result.json`, creator = `user9815232` "Jrk Bgrt")
+
+Every creator message from #80667 through #81838 (19 messages), verbatim, with its `reply_to_message_id` and the question or context it answered.
+
+| id | date | reply_to | text | question / context answered |
+|---|---|---|---|---|
+| PUZ #80667 | 2026-11-10 | — | "Or AI is missing something." | Follows К (#80663 "Author is genius for that" / #80664 "Made it ai proof"). |
+| PUZ #80673 | 2026-11-10 | — | "Hello everyone. Are we still having phun?" | Greeting after #80671 (Thunder: "Hi"). |
+| PUZ #80682 | 2026-11-10 | #80680 | "Well well well" | Reply to #80680 (2026-11-10, Thunder): "This time I'm in the same state you were in last time." |
+| PUZ #80698 | 2026-11-10 | #80695 | "Yes" | Reply to #80695 (2026-11-10, Avenium): "Can the final key be derived using only what you have published?" |
+| PUZ #80701 | 2026-11-10 | — | "Everything is on zeh interweps" | 16 s after #80698; follows #80699 (NovelSec: "Okay thank you") and #80700 (X: "why are you answering same questions? @SoWut"). |
+| PUZ #80710 | 2026-11-10 | — | "🫡" | Follows #80708 (Ciprian: "good health? happy family?") / #80709 (Avenium). |
+| PUZ #80738 | 2026-11-10 | — | "Good health, happy family, endured some quiet violence of the mind against itself. But all passed and solved. Hope you all are doing well too.<br><br> (Kuch... Even the DM'ers asking me to pay for health related matters for all their dying family members.) 😅" | Answers #80708 (2026-11-10, Ciprian: "good health? happy family?"). |
+| PUZ #80740 | 2026-11-10 | — | "It is" | Follows #80739 (2026-11-10, NovelSec: "I wonder if this is a hint"). |
+| PUZ #80741 | 2026-11-10 | — | "Well" | Continuation of #80740. |
+| PUZ #80743 | 2026-11-10 | — | "For those spamming me to send them money that is ;-)" | Punchline to #80740–#80741 (after #80742, NovelSec: "kinda worded interesting"). |
+| PUZ #80761 | 2026-11-10 | #80758 | "Hello 😉" | Reply to #80758 (2026-11-10, Donux): "@SoWut don't need hint  just hello" |
+| PUZ #80785 | 2026-11-10 | #80771 | "It might not help with the puzzle, but it could help in life." | Reply to #80771 (2026-11-10, Bx): "@SoWut is it worth to read Alice in Wonderland book just looking for advice😄" |
+| PUZ #81658 | 2026-11-13 | #80966 | "We don't even run the server anymore. Someone else took that burden 😉. Ask K1ng." | Reply to #80966 (2026-11-11, Raphael): "@SoWut genuine question (not a threat) do i need to technically hack your server or everything is in the puzzle, no need to do anything akin to a hack ?" |
+| PUZ #81664 | 2026-11-13 | — | "Goooooooooood afternoon" | Follows #81663 (2026-11-13, Og: "And goodmorning"). |
+| PUZ #81669 | 2026-11-13 | — | "For many the puzzle is not solvable." | Follows #81666 / #81667 (2026-11-13, deleted account `user6636122506`: "admit the puzzle is not solvable" / "makes no sense why you haven't yet"). |
+| PUZ #81766 | 2026-11-13 | — | "Noh, the puzzle itself is still there. The community archived it ❤️" | Follows #81765 (2026-11-13, Johnny Goodpick: "I can feel the puzzle parts moving, am I going crazy ? @SoWut"). |
+| PUZ #81813 | 2026-11-13 | #81796 | "Im not dislexjsic at all." | Reply to #81796 (2026-11-13, Robby): "and some others i cant recall at the moment" (in a thread on Architect text spelling errors). |
+| PUZ #81819 | 2026-11-13 | — | "I'm just enjoying the fact that AI can't see this tiny nudge it needs to progress 😂." | Follows #81818 (2026-11-13, Thunder: "Are you on holiday here, since you drop by so often? 🙂"). |
+| PUZ #81838 | 2026-11-13 | #81836 | "42" | Reply to #81836 (2026-11-13, TIBRELLIK): "@SoWut I challenge you to give us a clue that an AI wouldn't be able to interpret, but that those of us who have memorized parts of the puzzle would understand. If it involves two pieces, you could simply indicate where they go—and the \"how\" will emerge for the one who is chosen." |
+
+## Provenance corrections
+
+- **PUZ #8978** (2023-08-04, "and all of salphaseion answers hashed would decrypt cosmic duality?") and **PUZ #9735** (2023-08-10, "once you hit the yinyang it should be solved the same day... so our current assumption is that whatever key we need to decrypt cosmic duality is in salphaseion?? So I am guessing yinyang has something to with Salphaseion") were written by a group member (`user6249502156`), **not** the creator. The creator's own statement is **PUZ #9599** (2023-08-06): "Probably the last hint: Once you hit a \"ying yang\", you'll be able to solve it the same day."
 
 ## 9. Other ids worth looking up [digest, not re-read]
 
