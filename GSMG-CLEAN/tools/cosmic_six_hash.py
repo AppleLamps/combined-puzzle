@@ -138,6 +138,18 @@ def verify_phase32():
         raise SystemExit('phase 3.2 also opened under MD5; the digest switch is not distinct')
 
 
+def password_forms(body):
+    """Hash and format variants. rounds=2 is SHA-256(SHA-256(body)), never MD5."""
+    single = hashlib.sha256(body).digest()
+    doubled = hashlib.sha256(single).digest()
+    return (
+        ('hex-lower', single.hex().encode(), 1),
+        ('raw', single, 1),
+        ('hex-upper', single.hex().upper().encode(), 1),
+        ('hex-lower', doubled.hex().encode(), 2),
+    )
+
+
 def candidates():
     rows = []
     for separator_name, separator in (('none', ''), ('z', 'z')):
@@ -145,16 +157,7 @@ def candidates():
             inner = separator.join(ANSWERS)
             if yin:
                 inner += 'yinyang'
-            body = inner.encode()
-            single = hashlib.sha256(body).digest()
-            doubled = hashlib.sha256(single).digest()
-            forms = (
-                ('hex-lower', single.hex().encode(), 1),
-                ('raw', single, 1),
-                ('hex-upper', single.hex().upper().encode(), 1),
-                ('hex-lower', doubled.hex().encode(), 2),
-            )
-            for form, password, rounds in forms:
+            for form, password, rounds in password_forms(inner.encode()):
                 for md_name, md in (('md5', hashlib.md5), ('sha256', hashlib.sha256)):
                     rows.append({
                         'separator': separator_name,

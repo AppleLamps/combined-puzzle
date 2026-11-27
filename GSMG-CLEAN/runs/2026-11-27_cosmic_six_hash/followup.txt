@@ -1,0 +1,25 @@
+phase 3.2 control: PASS
+sha256-hex passphrase, EVP_BytesToKey SHA-256, plaintext matches phase3_2_plaintext.bin
+
+rows 07, 15, 23, 31 code path
+body = inner.encode()
+single = SHA-256(body)
+doubled = SHA-256(single)
+password = doubled.hex().encode()  # 64 lowercase ASCII chars
+EVP_BytesToKey(password, salt, md=MD5, 1 iteration), AES-256-CBC
+md=md5 is the KDF digest. The password hash is SHA-256 twice, not MD5.
+MD5-then-SHA256 cells were not run.
+
+07 sep=none yin=no inner_len=103 password_sha256=a7d4f03a6e86b8552236ce829136a5b8d02beeb076e2a675a6231303d944cb1b
+15 sep=none yin=yinyang inner_len=110 password_sha256=ce52e949481ca7fbd8cbf37bc2385bf65fee5037061f54c85f0f3cb7c2631220
+23 sep=z yin=no inner_len=108 password_sha256=d4ec1eeb040c75a2645dd4d59c007a11b4a5397d4dd5592acce09fcdd8201fa5
+31 sep=z yin=yinyang inner_len=115 password_sha256=e5f02a0bc13916c79a36c8f8aeedd2ddcc8055af3bd597d16b984b239dde1912
+
+half key sources: pubkey-bytes (65-byte uncompressed), pubkey-hex (130-char lowercase hex)
+variants: hex-lower, raw, hex-upper, and SHA-256 twice as hex-lower; EVP-MD5 and EVP-SHA256
+half key tested: 16
+padding hits:
+none
+printable ratio above 0.42:
+none
+no hex preview
