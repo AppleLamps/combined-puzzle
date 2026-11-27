@@ -14,7 +14,7 @@ data/architect_letters_1539.txt (1,539 letters).
 | THROPHIES | extra H | 727 | yes, 129th |
 | YOURSELF SELF | second SELF | 1483-1486 | 1483 yes, 235th |
 
-Inserted letters: U I H SELF (7). Prompted by creator #81813 ("Im not dislexjsic at all"), sent 6 minutes before #81819 ("tiny nudge"). Against: #1806 and #5960 call these typos.
+Inserted letters: U I H SELF (7). Prompted by creator #81813 ("Im not dislexjsic at all"), sent 7 minutes before #81819 ("tiny nudge"). Against: #1806 and #5960 call these typos.
 
 ## architect_clean_1532.txt
 The 7 inserted letters are removed and PRICES is left as written. Offsets below 571 are unchanged. SOURCECODES moves from 1021 to 1018 and CIAOBELLAO from 1529 to 1522.
