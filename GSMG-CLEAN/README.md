@@ -12,6 +12,8 @@ This folder was distilled from every research round in `E:\rabbit-combined`: rab
 
 ## Read in this order
 
+**Prime-5 reinsertion (2026-11-27):** [21_PRIME5_REINSERTION_2026-11-27.md](21_PRIME5_REINSERTION_2026-11-27.md). Putting the removed blue prime 5, the 24 primes, or the 484/479 pair back into the raw pre-Beaufort source record produced 116 scalars. None matched Half or Better Half. `116 9bb5f43408d7fa67d0893bc64f0274328a41af5308565e46aa4250d23605e732 NO MATCH`.
+
 **Key construction (2026-11-27):** [20_KEY_CONSTRUCTION_2026-11-27.md](20_KEY_CONSTRUCTION_2026-11-27.md). The seven yellow groups, the yin-yang readings of the saved last-words selections, and the saved 479/484 extractions were tested as private keys, with no envelope in the path. WIF, raw hex, brainwallet SHA-256 and BIP44 `m/44'/0'/0'/0/0` produced no Half or Better Half address. The Phase 3.2 answer does derive a real address, and that address is not a prize.
 
 **KDF model check (2026-11-27):** [19_KDF_MODEL_CHECK_2026-11-27.md](19_KDF_MODEL_CHECK_2026-11-27.md). The three locked envelopes are `Salted__` and have no validated round-trip. On the saved step-2/3/4 strings and the top creator fragments, EVP-MD5, EVP-SHA256 and PBKDF2-SHA256 (10,000) all sit on the 1/256 padding line, with zero pad≥3 hits. A zero IV still passes padding on the phase 3.2 key and does not open it. The proven model stays sha256 hex, EVP-SHA256, salt-derived IV.

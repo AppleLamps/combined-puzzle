@@ -20,6 +20,10 @@ Key construction against the two prize addresses (2026-11-27):
 [`GSMG-CLEAN/20_KEY_CONSTRUCTION_2026-11-27.md`](GSMG-CLEAN/20_KEY_CONSTRUCTION_2026-11-27.md).
 The saved step-2/3/4 strings, read as WIF, hex, brainwallet and BIP44 keys, match neither prize.
 
+Prime-5 reinsertion into the pre-Beaufort source record (2026-11-27):
+[`GSMG-CLEAN/21_PRIME5_REINSERTION_2026-11-27.md`](GSMG-CLEAN/21_PRIME5_REINSERTION_2026-11-27.md).
+116 scalars, no prize match.
+
 The working rules set on 2026-11-10 (no envelope sweeps, preregistration before every experiment,
 the derivation gate in `GSMG-CLEAN/tools/check_candidate.py`) were removed on 2026-11-27. New findings
 still go in `GSMG-CLEAN/` as a numbered document plus a `runs/` directory.

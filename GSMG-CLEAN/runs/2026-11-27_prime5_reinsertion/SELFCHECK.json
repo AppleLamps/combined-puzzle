@@ -1,0 +1,8 @@
+{
+  "outcome": "null",
+  "prereg_sha256": "ed69466980d8624ccbd34d2e1814e2e73a9fead39acd6fdd900fdaa097e4c415",
+  "evidence_file": "results.json",
+  "evidence_sha256": "c67c0d362063c3792778582345feba4936bfc343227263825d4aa302ed1c3df3",
+  "recorded_utc": "2026-11-27T06:34:59Z",
+  "note": "116 scalars, no exact hash160 or Half pubkey match"
+}

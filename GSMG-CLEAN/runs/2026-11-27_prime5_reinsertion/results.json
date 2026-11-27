@@ -1,0 +1,15 @@
+{
+ "prereg_sha256": "ed69466980d8624ccbd34d2e1814e2e73a9fead39acd6fdd900fdaa097e4c415",
+ "candidates": 116,
+ "gated": 116,
+ "rejected_out_of_range": 0,
+ "stream_sha256": "9bb5f43408d7fa67d0893bc64f0274328a41af5308565e46aa4250d23605e732",
+ "stream_rule": "sha256 of the sorted raw 32-byte scalars concatenated, duplicates retained",
+ "verdict": "NO MATCH",
+ "matches": [],
+ "identical_operands": {
+  "primes24": "020305070b0d1113171d1f25292b2f353b3d4347494f5359",
+  "primes24-mod256": "020305070b0d1113171d1f25292b2f353b3d4347494f5359",
+  "byte_identical": true
+ }
+}
